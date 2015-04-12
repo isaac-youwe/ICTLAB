@@ -1,0 +1,15 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.zendframework.com/"
+        }
+    ],
+    "require": {
+        "components/bootstrap": "dev-master",
+        "guzzle/guzzle": "~3.7",
+        "psr/log": "1.0.0",
+        "zendframework/zendframework1": "1.*",
+        "solarium/solarium": "dev-master"
+    }
+}
