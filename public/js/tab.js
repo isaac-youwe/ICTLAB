@@ -1,0 +1,1 @@
+../../vendor/components/bootstrap/js/tab.js
