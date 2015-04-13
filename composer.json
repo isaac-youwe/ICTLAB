@@ -6,7 +6,7 @@
         }
     ],
     "require": {
-        "components/bootstrap": "dev-master",
+        "twbs/bootstrap": "3.0.3",
         "guzzle/guzzle": "~3.7",
         "psr/log": "1.0.0",
         "zendframework/zendframework1": "1.*",

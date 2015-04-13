@@ -1,1 +1,1 @@
-../../vendor/components/bootstrap/js/bootstrap.js
+../../vendor/twbs/bootstrap/dist/js/bootstrap.js

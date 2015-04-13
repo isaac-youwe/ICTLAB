@@ -1,1 +1,0 @@
-../../vendor/components/bootstrap/js/dropdown.js
