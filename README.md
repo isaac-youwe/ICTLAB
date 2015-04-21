@@ -34,6 +34,12 @@ The Collaborators of this project are:
 
 ## To update local machine
 ### Reseve all new commits into local machine
-```git checkout develop``` 
-```git fetch upstream```
-```git pull```
+```
+git checkout develop
+``` 
+```
+git fetch upstream
+```
+```
+git pull
+```
