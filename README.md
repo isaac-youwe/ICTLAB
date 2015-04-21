@@ -27,3 +27,13 @@ The Collaborators of this project are:
 ## Workflow
 ### Master branch -> Develop branch -> working branches
 ### Every developer should push to the working branch and create PR to the develop branch
+
+# Windows users
+## Do this only once 
+```git remote add upstream https://github.com/isaac-youwe/ICTLAB.git```
+
+## To update local machine
+### Reseve all new commits into local machine
+```git checkout develop``` 
+```git fetch upstream```
+```git pull```
