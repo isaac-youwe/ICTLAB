@@ -1,12 +1,26 @@
 <div class="container">
     <div class="row">
-        <div class="col-md-4">
-           LEFT
+        <div class="col-md-4 pre-scrollable">
+            <!-- LEFT -->
+            <h3>Beschikbare huizen</h3>
+            <ul class="list-group">
+                <?php
+                for ($i = 1; $i < 26; $i++) {
+                    ?>
+                    <li class="list-group-item"> <?php echo 'Huis ' . $i; ?> </li> <?php
+                }
+                ?>
+            </ul>
         </div>
-    </div>
-    <div class="row">
         <div class="col-md-8">
-            RIGHT
+            <!-- RIGHT -->
+            <iframe
+                width="850"
+                height="350"
+                frameborder="0" style="border:0"
+                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBYaJ-gkIfyIItBwY1FreSZhIaDUWhOIU4
+    &q=Rotterdam">
+            </iframe>
         </div>
     </div>
 </div>
