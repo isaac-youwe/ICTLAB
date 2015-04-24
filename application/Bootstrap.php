@@ -25,7 +25,9 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
 
         // CSS Files
         $this->_view->headLink()->appendStylesheet('css/bootstrap.min.css');
-        $this->_view->headLink()->appendStylesheet('css/custom.css');
+        //$this->_view->headLink()->appendStylesheet('css/custom.css');
+        $this->_view->headLink()->appendStylesheet('css/style.css');
+        $this->_view->headLink()->appendStylesheet('js/stylesheets/jquery.sidr.dark.css');
 
         // JavaScript Files bottom of page
         // $this->view->inlineScript()->appendFile('https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js');
@@ -33,6 +35,9 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
         // JavaScript Files top of page
         $this->_view->headScript()->appendFile('https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js');
         $this->_view->headScript()->appendFile('js/bootstrap.min.js');
+        $this->_view->headScript()->appendFile('js/jquery.js');
+        $this->_view->headScript()->appendFile('js/filter.js');
+        $this->_view->headScript()->appendFile('js/jquery.sidr.min.js');
     }
 }
 
