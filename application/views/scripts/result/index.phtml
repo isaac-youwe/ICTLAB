@@ -73,4 +73,65 @@
             </iframe>
         </div>
     </div>
+    <div class="row">
+        <div class="col-md-12">
+            <?php
+            /**
+             * author isaac
+             * NIET VERWIJDEREN!!
+             */
+
+            $time_start = microtime(true);
+
+            $params = array(
+                'type' => 'koop',
+                'filters' => array(
+                    'city' => 'utrecht'
+                ),
+                'since' => '20090101T1200'
+            );
+
+            echo $this->fundaApiConnector->getApiKey(); ?>
+            <p>
+                <?php echo $this->fundaApiConnector->buildUrl($params); ?>
+            </p>
+
+            <p>
+                Searched for: <?php echo $params['filters']['city']; ?>
+            </p>
+
+            <p>
+                utrecht:
+                <?php echo $this->fundaApiConnector->totalObjects($params); ?>
+            </p>
+
+            <p>
+                rotterdam:
+                <?php echo $this->fundaApiConnector->totalObjectsCity($params, 'rotterdam'); ?>
+            </p>
+
+            <p>
+                den haag:
+                <?php echo $this->fundaApiConnector->totalObjectsCity($params, 'den-haag'); ?>
+            </p>
+
+            <p>
+                dordrecht:
+                <?php echo $this->fundaApiConnector->totalObjectsCity($params, 'dordrecht'); ?>
+            </p>
+
+            <p>
+                schiedam:
+                <?php echo $this->fundaApiConnector->totalObjectsCity($params, 'schiedam'); ?>
+            </p>
+            <?php
+            $time_end = microtime(true);
+            //dividing with 60 will give the execution time in minutes other wise seconds
+            $execution_time = ($time_end - $time_start) / 60;
+
+            //execution time of the script
+            echo '<b>Total Execution Time:</b> ' . $execution_time . ' Mins';
+            ?>
+        </div>
+    </div>
 </div>
