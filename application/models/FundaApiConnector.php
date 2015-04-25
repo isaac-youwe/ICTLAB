@@ -41,9 +41,6 @@ class Application_Model_FundaApiConnector
         $city = $params['filters']['city'];
         $since = $params['since'];
         return $this->_baseUrl . $this->getApiKey() . '/' . '?type=' . $type . '&zo=/' . $city . '/0-400000' . '/&' . $since;
-        // http://partnerapi.funda.nl/feeds/Aanbod.svc/json/1f1d0977363244a59bfd2b0ad465fc36/?type=koop&zo=/heel-nederland/0-400000
-        //                                 /Aanbod.svc/recent/XXXXXX                         /?type=koop&zo=/zaandam/appartement/250000-300000/nieuwbouw/&since=20090101T1200
-
     }
 
     /**
