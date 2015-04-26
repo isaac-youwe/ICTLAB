@@ -14,6 +14,9 @@
         <controllerFile controllerName="Result">
           <actionMethod actionName="index"/>
         </controllerFile>
+        <controllerFile controllerName="Api">
+          <actionMethod actionName="index"/>
+        </controllerFile>
       </controllersDirectory>
       <formsDirectory enabled="false"/>
       <layoutsDirectory>
@@ -35,6 +38,9 @@
             <viewScriptFile forActionName="error"/>
           </viewControllerScriptsDirectory>
           <viewControllerScriptsDirectory forControllerName="Result">
+            <viewScriptFile forActionName="index"/>
+          </viewControllerScriptsDirectory>
+          <viewControllerScriptsDirectory forControllerName="Api">
             <viewScriptFile forActionName="index"/>
           </viewControllerScriptsDirectory>
         </viewScriptsDirectory>
@@ -75,6 +81,9 @@
             <testApplicationActionMethod forActionName="index"/>
           </testApplicationControllerFile>
           <testApplicationControllerFile forControllerName="Result">
+            <testApplicationActionMethod forActionName="index"/>
+          </testApplicationControllerFile>
+          <testApplicationControllerFile forControllerName="Api">
             <testApplicationActionMethod forActionName="index"/>
           </testApplicationControllerFile>
         </testApplicationControllerDirectory>

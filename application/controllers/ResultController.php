@@ -10,11 +10,6 @@ class ResultController extends Zend_Controller_Action
 
     public function indexAction()
     {
-        /**
-         * author isaac
-         * NIET VERWIJDEREN!!
-         */
-        $this->view->fundaApiConnector = new Application_Model_FundaApiConnector();
     }
 
 
