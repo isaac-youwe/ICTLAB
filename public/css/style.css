@@ -39,3 +39,22 @@ body, html {
     font-size:1em;
     line-height:2em;
 }
+
+/*div#map-canvas {*/
+    /*height: 350px;*/
+    /*width: 850px;*/
+    /*position: relative;*/
+    /*padding-bottom: 56.25%; *//* Ratio 16:9 ( 100%/16*9 = 56.25% ) */
+/*}*/
+
+#map-canvas {
+    display: block;
+    height: 400px;
+}
+
+.filter_option{
+    color: #101010;
+}
+.filter_option_no{
+    color: #d43f3a;
+}
