@@ -6,7 +6,6 @@
     <nav class="menu slide-menu-left">
         <ul>
             <p>Aanwezigheid van</p>
-
             <form action="">
                 <input type="checkbox">Balkon<br>
                 <input type="checkbox">lift <br>
@@ -15,8 +14,7 @@
                 <input type="checkbox">Zwembad <br>
             </form>
             <hr/>
-            <a>Aantal kamers</a>
-
+            <p>Aantal kamers</p>
             <form action="">
                 <input type="checkbox">1 kamer<br>
                 <input type="checkbox">2+ kamers<br>
@@ -26,23 +24,23 @@
             <hr/>
             <p>Woonoppervlakte</p>
             <select>
-                <option>Geen voorkeur</option>
-                <option>50+ m</option>
-                <option>75+ m</option>
-                <option>100+ m</option>
-                <option>150+ m</option>
+                <option class="filter_option_no">Geen voorkeur</option>
+                <option class="filter_option">50+ m</option>
+                <option class="filter_option">75+ m</option>
+                <option class="filter_option">100+ m</option>
+                <option class="filter_option">150+ m</option>
             </select>
             <hr/>
             <p>Energielabel</p>
             <select>
-                <option>Geen voorkeur</option>
-                <option>A-label</option>
-                <option>B-label</option>
-                <option>C-label</option>
-                <option>D-label</option>
-                <option>E-label</option>
-                <option>F-label</option>
-                <option>G-label</option>
+                <option class="filter_option_no">Geen voorkeur</option>
+                <option class="filter_option">A-label</option>
+                <option class="filter_option">B-label</option>
+                <option class="filter_option">C-label</option>
+                <option class="filter_option">D-label</option>
+                <option class="filter_option">E-label</option>
+                <option class="filter_option">F-label</option>
+                <option class="filter_option">G-label</option>
             </select>
         </ul>
     </nav>
@@ -62,15 +60,7 @@
                 ?>
             </ul>
         </div>
-        <div class="col-sm-4">
-            <!-- RIGHT -->
-            <iframe
-                width="850"
-                height="350"
-                frameborder="0" style="border:0"
-                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBYaJ-gkIfyIItBwY1FreSZhIaDUWhOIU4
-    &q=Rotterdam">
-            </iframe>
-        </div>
+            <!-- RIGHT Google Map -->
+            <div id="map-canvas" class="span12 col-sm-8"></div>
     </div>
 </div>

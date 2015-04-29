@@ -1,7 +1,6 @@
-/*body, html {*/
-    /*height: 100%;*/
-/*}*/
-
+/**
+ * Created by Adriel on 4/29/2015.
+ */
 .sidebar {
 
     float: left;
@@ -10,10 +9,6 @@
     height: 100%;
 
 }
-
-/*.row {*/
-    /*height: 100%;*/
-/*}*/
 
 .container {
     height: 100%;
@@ -39,3 +34,17 @@
     font-size:1em;
     line-height:2em;
 }
+
+.filter_option{
+    color: #101010;
+}
+.filter_option_no{
+    color: #d43f3a;
+}
+
+/*google map*/
+#map-canvas {
+    display: block;
+    height: 400px;
+}
+
