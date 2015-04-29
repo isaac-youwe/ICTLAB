@@ -11,7 +11,6 @@ class ResultController extends Zend_Controller_Action
     public function indexAction()
     {
         $this->view->assign('search', $this->getRequest()->getParam('search'));
-
     }
 
 
