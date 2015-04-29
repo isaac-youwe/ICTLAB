@@ -42,7 +42,7 @@ CODEREN
 ## Step 7:
 ```git add [gewijzigde files/folders]```
 ## Step 8:
-```git commit -m '[message met je hebt gedaan]'```
+```git commit -m '[message met wat je hebt gedaan]'```
 ## Step 9:
 ```git push origin [branchnaam]```
 ## Step 10:
