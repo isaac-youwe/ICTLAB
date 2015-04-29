@@ -38,8 +38,7 @@ CODEREN
 ## Step 5:
 ```git pull upstream develop```
 ## Step 6:
-```git stat
-us```
+```git status```
 ## Step 7:
 ```git add [gewijzigde files/folders]```
 ## Step 8:
