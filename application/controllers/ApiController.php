@@ -15,7 +15,7 @@ class ApiController extends Zend_Controller_Action
          * NIET VERWIJDEREN!!
          */
         $this->view->assign('search', $this->getRequest()->getParam('search'));
-        $this->view->fundaApiConnector = new Application_Model_FundaApiConnector();
+        $this->view->fundaApiConnector = new Application_Model_Funda_Aanbod();
     }
 
 

@@ -1,14 +1,21 @@
 <?php
 use Guzzle\Http\Client;
 
-class Application_Model_FundaApiConnector
+abstract class Application_Model_FundaApiConnector
 {
     private $_apiKey;
-    private $_baseUrl = 'http://partnerapi.funda.nl/feeds/Aanbod.svc/json/';
+    private $_baseUrl = 'http://partnerapi.funda.nl/feeds/';
     private $_guzzleClient;
     private $_type;
     private $_since;
     private $_city;
+
+    function __construct()
+    {
+        $string = file_get_contents(realpath(APPLICATION_PATH . '/../credentials.json'));
+        $apiKey = json_decode($string, true);
+        $this->setApiKey($apiKey['apikey']);
+    }
 
     /**
      * @return mixed
@@ -71,11 +78,20 @@ class Application_Model_FundaApiConnector
         }
     }
 
-    function __construct()
+    /**
+     * @return string
+     */
+    public function getBaseUrl()
     {
-        $string = file_get_contents(realpath(APPLICATION_PATH . '/../credentials.json'));
-        $apiKey = json_decode($string, true);
-        $this->setApiKey($apiKey['apikey']);
+        return $this->_baseUrl;
+    }
+
+    /**
+     * @param string $baseUrl
+     */
+    public function setBaseUrl($baseUrl)
+    {
+        $this->_baseUrl = $baseUrl;
     }
 
 
@@ -96,17 +112,12 @@ class Application_Model_FundaApiConnector
     }
 
     /**
+     * Builds the url for the REST call
+     *
      * @param $params
-     * @return string
-     * @throws Zend_Controller_Action_Exception.
+     * @return mixed
      */
-    public function buildUrl($params)
-    {
-        $this->setCity($params);
-        $this->setSince($params);
-        $this->setType($params);
-        return $this->_baseUrl . $this->getApiKey() . '/' . '?type=' . $this->getType() . '&zo=/' . $this->getCity() . '/0-400000' . '/&' . $this->getSince();
-    }
+    abstract public function buildUrl($params);
 
     /**
      * @return Client
@@ -119,35 +130,5 @@ class Application_Model_FundaApiConnector
         return $this->_guzzleClient;
     }
 
-    public function fundaApiCall($params)
-    {
-
-    }
-
-    /**
-     * @param $params
-     * @return mixed
-     */
-    public function totalObjects($params)
-    {
-        $request = $this->getGuzzleClient()->createRequest('GET', $this->buildUrl($params));
-        $response = json_decode($request->send()->getBody());
-        return $response->TotaalAantalObjecten;
-    }
-
-    public function totalObjectsCity($params, $city)
-    {
-        $params['filters']['city'] = $city;
-        $request = $this->getGuzzleClient()->createRequest('GET', $this->buildUrl($params));
-        $response = json_decode($request->send()->getBody());
-        return $response->TotaalAantalObjecten;
-    }
-
-    public function getCollection($params) {
-        $request = $this->getGuzzleClient()->createRequest('GET', $this->buildUrl($params));
-        $response = json_decode($request->send()->getBody());
-
-        return $response->Objects;
-    }
 }
 
