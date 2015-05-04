@@ -9,6 +9,7 @@ abstract class Application_Model_FundaApiConnector
     private $_type;
     private $_since;
     private $_city;
+    public $page;
 
     function __construct()
     {
@@ -23,6 +24,18 @@ abstract class Application_Model_FundaApiConnector
     public function getCity()
     {
         return $this->_city;
+    }
+
+    /**
+     * @param mixed $page
+     */
+    public function setPage($params)
+    {
+        if (!empty($params['page'])) {
+            $this->page = $params['page'];
+        } else {
+            $this->page = '1';
+        }
     }
 
     /**

@@ -55,7 +55,7 @@
             <ul class="list-group">
 <!--                this parameter is temporary set like this when using filter should be removed-->
                 <?php $params['filters']['city'] = $this->search; ?>
-                <?php foreach ($this->fundaApiConnector->getCollection($params) as $house): ?>
+                <?php foreach ($this->fundaAanbod->getCollection($params) as $house): ?>
                     <li class="list-group-item">
                         <?php echo sprintf('Adres: %s', $house->Adres) . "<br>"; ?>
                         <?php echo sprintf('Aantal kamers: %s', $house->AantalKamers) . "<br>"; ?>
@@ -64,6 +64,20 @@
                         <?php echo sprintf('Lng: %s', $house->WGS84_X) . "<br>"; ?>
                     </li>
                 <?php endforeach; ?>
+                <div class="row">
+                    <div class="col-md-6">
+                        <!--                        show vorige als page groter dan 1-->
+                        <?php if ($this->fundaAanbod->page > 1) { ?>
+                            <a href="<?php echo $this->baseUrl . '&page=' . $this->fundaAanbod->page - 1; ?>"
+                               class="btn btn-default" role="button">Vorige</a>
+                        <?php
+                        }
+                        ?>
+                    </div>
+                    <div class="col-md-6" align="right">
+                        <a href="<?php echo $this->baseUrl . '&page=' . $this->fundaAanbod->page + 1; ?>" class="btn btn-default" role="button">Volgende</a>
+                    </div>
+                </div>
             </ul>
         </div>
         <div id="map-canvas" class="span12 col-md-8 col-sm-9"/>

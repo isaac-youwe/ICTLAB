@@ -33,7 +33,7 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
         $this->setSince($params);
         $this->setType($params);
 
-        return parent::getBaseUrl() . $this->_aanbodUrl . $this->getApiKey() . '/' . '?type=' . $this->getType() . '&zo=/' . $this->getCity() . '/0-400000' . '/&' . $this->getSince();
+        return parent::getBaseUrl() . $this->_aanbodUrl . $this->getApiKey() . '/' . '?type=' . $this->getType() . '&zo=/' . $this->getCity() . '/0-400000' . '/p' . $this->page .'/&' . $this->getSince();
     }
 
     public function totalObjects($params)
