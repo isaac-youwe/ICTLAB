@@ -1,17 +1,110 @@
 <?php
 use Guzzle\Http\Client;
 
-class Application_Model_FundaApiConnector
+abstract class Application_Model_FundaApiConnector
 {
     private $_apiKey;
-    private $_baseUrl = 'http://partnerapi.funda.nl/feeds/Aanbod.svc/json/';
+    private $_baseUrl = 'http://partnerapi.funda.nl/feeds/';
     private $_guzzleClient;
+    private $_type;
+    private $_since;
+    private $_city;
+    public $page;
 
     function __construct()
     {
         $string = file_get_contents(realpath(APPLICATION_PATH . '/../credentials.json'));
         $apiKey = json_decode($string, true);
         $this->setApiKey($apiKey['apikey']);
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getCity()
+    {
+        return $this->_city;
+    }
+
+    /**
+     * @param mixed $page
+     */
+    public function setPage($params)
+    {
+        if (!empty($params['page'])) {
+            $this->page = $params['page'];
+        } else {
+            $this->page = '1';
+        }
+    }
+
+    /**
+     * @param $params
+     * @throws Zend_Controller_Action_Exception
+     */
+    public function setCity($params)
+    {
+        if (!empty($params['filters']['city'])) {
+            $this->_city = $params['filters']['city'];
+        } else {
+            throw new Zend_Controller_Action_Exception('Geen stad gekozen');
+        }
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getSince()
+    {
+        return $this->_since;
+    }
+
+    /**
+     * @param $params
+     */
+    public function setSince($params)
+    {
+        if (!empty($params['since'])) {
+            $this->_since = $params['since'];
+        } else {
+            $this->_since = '20090101T1200';
+        }
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getType()
+    {
+        return $this->_type;
+    }
+
+    /**
+     * @param $params
+     */
+    public function setType($params)
+    {
+        if (!empty($params['type'])) {
+            $this->_type = $params['type'];
+        } else {
+            $this->_type = 'koop';
+        }
+    }
+
+    /**
+     * @return string
+     */
+    public function getBaseUrl()
+    {
+        return $this->_baseUrl;
+    }
+
+    /**
+     * @param string $baseUrl
+     */
+    public function setBaseUrl($baseUrl)
+    {
+        $this->_baseUrl = $baseUrl;
     }
 
 
@@ -32,16 +125,12 @@ class Application_Model_FundaApiConnector
     }
 
     /**
+     * Builds the url for the REST call
+     *
      * @param $params
-     * @return string
+     * @return mixed
      */
-    public function buildUrl($params)
-    {
-        $type = $params['type'];
-        $city = $params['filters']['city'];
-        $since = $params['since'];
-        return $this->_baseUrl . $this->getApiKey() . '/' . '?type=' . $type . '&zo=/' . $city . '/0-400000' . '/&' . $since;
-    }
+    abstract public function buildUrl($params);
 
     /**
      * @return Client
@@ -52,30 +141,6 @@ class Application_Model_FundaApiConnector
             return $this->_guzzleClient = new Client();
         }
         return $this->_guzzleClient;
-    }
-
-    public function fundaApiCall($params)
-    {
-
-    }
-
-    /**
-     * @param $params
-     * @return mixed
-     */
-    public function totalObjects($params)
-    {
-        $request = $this->getGuzzleClient()->createRequest('GET', $this->buildUrl($params));
-        $response = json_decode($request->send()->getBody());
-        return $response->TotaalAantalObjecten;
-    }
-
-    public function totalObjectsCity($params, $city)
-    {
-        $params['filters']['city'] = $city;
-        $request = $this->getGuzzleClient()->createRequest('GET', $this->buildUrl($params));
-        $response = json_decode($request->send()->getBody());
-        return $response->TotaalAantalObjecten;
     }
 
 }
