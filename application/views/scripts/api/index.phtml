@@ -9,16 +9,11 @@
 
             $time_start = microtime(true);
 
-            $params = array(
-                'type' => 'koop',
-                'filters' => array(
-                    'city' => 'utrecht'
-                ),
-                'since' => '20090101T1200'
-            );
-
-            echo $this->fundaApiConnector->getApiKey(); ?>
+            ?>
             <p>
+                <?php
+
+                $params['filters']['city'] = $this->search; ?>
                 <?php echo $this->fundaApiConnector->buildUrl($params); ?>
             </p>
 
@@ -29,6 +24,15 @@
             <p>
                 utrecht:
                 <?php echo $this->fundaApiConnector->totalObjects($params); ?>
+            <ul class="list-group">
+                <?php foreach ($this->fundaApiConnector->getCollection($params) as $house): ?>
+                <li class="list-group-item">
+                    <?php echo sprintf('Adres: %s', $house->Adres) . "<br>"; ?>
+                    <?php echo sprintf('Lat: %s', $house->WGS84_Y) . "<br>"; ?>
+                    <?php echo sprintf('Lng: %s', $house->WGS84_X) . "<br>"; ?>
+                </li>
+                <?php endforeach; ?>
+            </ul>
             </p>
 
             <p>
@@ -58,6 +62,10 @@
             //execution time of the script
             echo '<b>Total Execution Time:</b> ' . $execution_time . ' Mins';
             ?>
+            <h2>ss</h2>
         </div>
     </div>
 </div>
+
+fe49cdab-e35d-4e28-81b6-907bc63dc02d
+fe49cdab-e35d-4e28-81b6-907bc63dc02d
