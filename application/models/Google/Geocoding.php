@@ -1,24 +1,29 @@
 <?php
+/**
+ * Author Isaac de Cuba <isaacjdecuba@gmail.com>
+ */
 
 use Guzzle\Http\Client;
 
 class Application_Model_Google_Geocoding
 {
     private $_guzzleClient;
-    private static $_baseUrl = 'http://maps.googleapis.com/maps/api/geocode/json?sensor=false&address=';
+    public $baseUrl = 'http://maps.googleapis.com/maps/api/geocode/json?sensor=false&address=';
 
     /**
+     * Get the Geographic location of the search value
+     *
      * @param $search
      * @return bool
      */
-    static public function getLocation($search)
+    public function getLocation($search)
     {
-        $url = self::$_baseUrl . urlencode($search);
-        $request = self::_getGuzzleClient()->createRequest('GET', $url);
-        $response = json_decode($request->send()->getBody());
+        $url = $this->baseUrl . $search;
+        $request = $this->getGuzzleClient()->createRequest('GET', $url);
+        $response = json_decode($request->send()->getBody(),true);
 
         if ($response['status'] = 'OK') {
-            return $response->geometry->location;
+            return $response['results'][0]['geometry']['location'];
         } else {
             return false;
         }
@@ -27,7 +32,7 @@ class Application_Model_Google_Geocoding
     /**
      * @return Client
      */
-    private function _getGuzzleClient()
+    private function getGuzzleClient()
     {
         if (is_null($this->_guzzleClient)) {
             return $this->_guzzleClient = new Client();
@@ -35,4 +40,3 @@ class Application_Model_Google_Geocoding
         return $this->_guzzleClient;
     }
 }
-
