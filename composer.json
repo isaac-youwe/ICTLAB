@@ -9,6 +9,7 @@
         "twbs/bootstrap": "3.0.3",
         "guzzle/guzzle": "~3.7",
         "psr/log": "1.0.0",
-        "solarium/solarium": "dev-master"
+        "solarium/solarium": "dev-master",
+        "willdurand/geocoder": "dev-master"
     }
 }
