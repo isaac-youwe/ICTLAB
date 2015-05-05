@@ -26,6 +26,7 @@
       </layoutsDirectory>
       <modelsDirectory>
         <modelFile modelName="FundaApiConnector"/>
+        <modelFile modelName="Google/Geocoding"/>
       </modelsDirectory>
       <modulesDirectory enabled="false"/>
       <servicesDirectory enabled="false"/>

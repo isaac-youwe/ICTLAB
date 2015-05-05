@@ -1,4 +1,4 @@
-<a id="filter" class="sidebar" href="#sidr"><p class="vertical-text lead">FILTERS</p></a>
+<a id="filter" class="sidebar" href="#sidr" xmlns="http://www.w3.org/1999/html"><p class="vertical-text lead">FILTERS</p></a>
 <div id="sidr">
     <nav class="menu slide-menu-left">
         <ul>
@@ -46,20 +46,29 @@
 </div>
 <div class="container">
     <div class="row">
-        <div class="row">
+        <div class="col-md-12" align="center">
             <form class="navbar-form nav-result" role="search" action="/result">
                 <div class="input-group">
-                    <input type="text" value="<?php echo $this->search; ?>" name="search" class="form-control"/>
-                <span class="input-group-btn">
-                    <button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search"></span>
-                    </button>
-                </span>
+                    <input type="text" value="<?php echo $this->search; ?>" name="search" class="form-control">
+                            <span class="input-group-btn">
+                                <button class="btn btn-default" type="submit">
+                                    <span class="glyphicon glyphicon-search"></span>
+                                </button>
+                            </span>
+                    </input>
                 </div>
             </form>
-            <div class="col-md-12">
+        </div>
+    </div>
+    <div class="row">
+            <div class="col-md-4">
                 <h3>Beschikbare huizen</h3>
             </div>
-        </div>
+            <div class="col-md-8">
+                <h3>Map</h3>
+            </div>
+    </div>
+    <div class="row">
         <div class="col-md-4 col-sm-3 pre-scrollable">
             <ul class="list-group">
                 <!--                this parameter is temporary set like this when using filter should be removed-->
@@ -73,6 +82,7 @@
                         <?php echo sprintf('Lng: %s', $house->WGS84_X) . "<br>"; ?>
                     </li>
                 <?php endforeach; ?>
+
                 <div class="row">
                     <div class="col-md-6">
                         <!--                        show vorige als page groter dan 1-->
