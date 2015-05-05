@@ -20,7 +20,7 @@ class Application_Model_Google_Geocoding
     {
         $url = $this->baseUrl . $search;
         $request = $this->getGuzzleClient()->createRequest('GET', $url);
-        $response = json_decode($request->send()->getBody(),true);
+        $response = json_decode($request->send()->getBody(), true);
 
         if ($response['status'] = 'OK') {
             return $response['results'][0]['geometry']['location'];
