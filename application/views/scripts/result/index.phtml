@@ -47,13 +47,22 @@
 <div class="container">
     <div class="row">
         <div class="row">
+            <form class="navbar-form nav-result" role="search" action="/result">
+                <div class="input-group">
+                    <input type="text" value="<?php echo $this->search; ?>" name="search" class="form-control"/>
+                <span class="input-group-btn">
+                    <button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search"></span>
+                    </button>
+                </span>
+                </div>
+            </form>
             <div class="col-md-12">
                 <h3>Beschikbare huizen</h3>
             </div>
         </div>
         <div class="col-md-4 col-sm-3 pre-scrollable">
             <ul class="list-group">
-<!--                this parameter is temporary set like this when using filter should be removed-->
+                <!--                this parameter is temporary set like this when using filter should be removed-->
                 <?php $params['filters']['city'] = $this->search; ?>
                 <?php foreach ($this->fundaAanbod->getCollection($params) as $house): ?>
                     <li class="list-group-item">
