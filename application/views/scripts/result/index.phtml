@@ -1,3 +1,5 @@
+<!--Author Isaac de Cuba-->
+<!--Editor Adriel Walter, Serhildan Akdeniz-->
 <a id="filter" class="sidebar" href="#sidr" xmlns="http://www.w3.org/1999/html"><p class="vertical-text lead">FILTERS</p></a>
 <div id="sidr">
     <nav class="menu slide-menu-left">
@@ -73,13 +75,20 @@
             <ul class="list-group">
                 <!--                this parameter is temporary set like this when using filter should be removed-->
                 <?php $params['filters']['city'] = $this->search; ?>
-                <?php foreach ($this->fundaAanbod->getCollection($params) as $house): ?>
+
+                <?php $collection = $this->fundaAanbod->getCollection($params); ?>
+
+                <script>
+                    var collection = <?php echo json_encode($collection); ?>;
+                    var lat = <?php echo json_encode($this->lat); ?>;
+                    var lng = <?php echo json_encode($this->lng); ?>;
+
+                </script>
+                <?php foreach ($collection as $house): ?>
                     <li class="list-group-item">
                         <?php echo sprintf('Adres: %s', $house->Adres) . "<br>"; ?>
                         <?php echo sprintf('Aantal kamers: %s', $house->AantalKamers) . "<br>"; ?>
                         <?php echo sprintf('Koop prijs: %s,- euro', $house->Koopprijs) . "<br>"; ?>
-                        <?php echo sprintf('Lat: %s', $house->WGS84_Y) . "<br>"; ?>
-                        <?php echo sprintf('Lng: %s', $house->WGS84_X) . "<br>"; ?>
                     </li>
                 <?php endforeach; ?>
 
@@ -94,11 +103,37 @@
                         ?>
                     </div>
                     <div class="col-md-6" align="right">
-                        <a href="<?php echo $this->baseUrl . '&page=' . $this->fundaAanbod->page + 1; ?>" class="btn btn-default" role="button">Volgende</a>
+                        <a href="<?php echo $this->baseUrl . '&page=' . $this->fundaAanbod->page + 1; ?>"
+                           class="btn btn-default" role="button">Volgende</a>
                     </div>
                 </div>
             </ul>
         </div>
+        <script>
+            var map;
+            function initialize() {
+                var mapOptions = {
+                    zoom: 12,
+                    center: new google.maps.LatLng(lat, lng),
+                    disableDefaultUI: true,
+                    mapTypeControl: false,
+                    zoomControl: true
+                }
+                map = new google.maps.Map(document.getElementById('map-canvas'),
+                    mapOptions);
+
+                for (var i = 0; i < collection.length; i++) {
+                    myLatLng = new google.maps.LatLng(collection[i]['WGS84_Y'], collection[i]['WGS84_X']);
+                    houseMarker = new google.maps.Marker({
+                        position: myLatLng,
+                        map: map,
+                        icon: 'images/house-marker.png'
+                    });
+                }
+            }
+
+            google.maps.event.addDomListener(window, 'load', initialize);
+        </script>
         <div id="map-canvas" class="span12 col-md-8 col-sm-9"/>
     </div>
 </div>
