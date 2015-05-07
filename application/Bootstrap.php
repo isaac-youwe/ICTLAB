@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Author Isaac de Cuba
+ * Editor Serhildan Akdeniz
+ *
+ * Class Bootstrap
+ */
 class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
 {
     protected $_layout;
@@ -39,7 +45,6 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
         $this->_view->headScript()->appendFile('js/jquery.js');
         $this->_view->headScript()->appendFile('js/filter.js');
         $this->_view->headScript()->appendFile('js/jquery.sidr.min.js');
-        $this->_view->headScript()->appendFile('js/google/map.js');
     }
 }
 
