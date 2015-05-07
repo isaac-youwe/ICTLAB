@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * Author Isaac de Cuba
+ *
+ * Class Application_Model_Funda_Aanbod
+ */
 class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
 {
     private $_aanbodUrl = 'Aanbod.svc/json/';
