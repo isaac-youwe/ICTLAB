@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+
+<div id="map" style="width: 600px; height: 600px;"></div>
+
+    <script type="text/javascript"
+        src="https://maps.google.com/maps/api/js?sensor=false"></script>
+
+    <script type="text/javascript">
+
+	
+	 //minimum zoom level van de kaart
+ var minZoomLevel = 7;
+ 
+
+ var map = new google.maps.Map(document.getElementById('map'), {
+     zoom: minZoomLevel,
+     center: new google.maps.LatLng(52.21,5.27),
+	 //disableDefaultUI: true,  //+/- buttons.
+     mapTypeId: google.maps.MapTypeId.ROADMAP
+ });
+
+ //het midden van de map
+ var strictBounds = new google.maps.LatLngBounds(
+ new google.maps.LatLng(50.384355, 1.478101),
+ new google.maps.LatLng(53.501205, 7.321621));
+
+ // bij het bewegen van de map zet die hem terug op het midden
+ google.maps.event.addListener(map, 'dragend', function () {
+     if (strictBounds.contains(map.getCenter())) return;
+
+     var c = map.getCenter(),
+         x = c.lng(),
+         y = c.lat(),
+         maxX = strictBounds.getNorthEast().lng(),
+         maxY = strictBounds.getNorthEast().lat(),
+         minX = strictBounds.getSouthWest().lng(),
+         minY = strictBounds.getSouthWest().lat();
+
+     if (x < minX) x = minX;
+     if (x > maxX) x = maxX;
+     if (y < minY) y = minY;
+     if (y > maxY) y = maxY;
+
+     map.setCenter(new google.maps.LatLng(y, x));
+ });
+
+ // Limit the zoom level
+ google.maps.event.addListener(map, 'zoom_changed', function () {
+     if (map.getZoom() < minZoomLevel) map.setZoom(minZoomLevel);
+ });
+    </script>
+<div id="map-canvas"></div>
