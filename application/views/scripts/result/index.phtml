@@ -51,7 +51,7 @@
         <div class="col-md-12" align="center">
             <form class="navbar-form nav-result" role="search" action="/result">
                 <div class="input-group">
-                    <input type="text" id="pac-input" value="<?php echo $this->search; ?>" name="search" class="form-control">
+                    <input type="text" id="search-input" value="<?php echo $this->search; ?>" name="search" class="form-control">
                             <span class="input-group-btn">
                                 <button class="btn btn-default" type="submit" onclick="codeAddress()">
                                     <span class="glyphicon glyphicon-search"></span>
@@ -114,10 +114,10 @@
             var tableId = '1WkOReHYpsvNiACHeL5tOxsuYO-nRmzOdXm7B-GDo';// fusiontable :https://www.google.com/fusiontables/DataSource?docid=1WkOReHYpsvNiACHeL5tOxsuYO-nRmzOdXm7B-GDo#rows:id=1
             var geocoder = null;
             var layer = null;
-            var address = document.getElementById('pac-input').value;// get search input
+            var address = document.getElementById('search-input').value;// get search input
 
             function codeAddress() {
-                var address = document.getElementById("pac-input").value; // get search result
+                var address = document.getElementById("search-input").value; // get search result
                 geocoder.geocode({'address': address}, geocoderCallback);
             }
 
