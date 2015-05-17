@@ -1,6 +1,7 @@
 <!--Author Isaac de Cuba-->
 <!--Editor Adriel Walter, Serhildan Akdeniz-->
-<a id="filter" class="sidebar" href="#sidr" xmlns="http://www.w3.org/1999/html"><p class="vertical-text lead">FILTERS</p></a>
+<a id="filter" class="sidebar" href="#sidr" xmlns="http://www.w3.org/1999/html"><p class="vertical-text lead">
+        FILTERS</p></a>
 <div id="sidr">
     <nav class="menu slide-menu-left">
         <ul>
@@ -51,7 +52,8 @@
         <div class="col-md-12" align="center">
             <form class="navbar-form nav-result" role="search" action="/result">
                 <div class="input-group">
-                    <input type="text" id="search-input" value="<?php echo $this->search; ?>" name="search" class="form-control">
+                    <input type="text" id="search-input" value="<?php echo $this->search; ?>" name="search"
+                           class="form-control">
                             <span class="input-group-btn">
                                 <button class="btn btn-default" type="submit" onclick="codeAddress()">
                                     <span class="glyphicon glyphicon-search"></span>
@@ -63,12 +65,12 @@
         </div>
     </div>
     <div class="row">
-            <div class="col-md-4">
-                <h3>Beschikbare huizen</h3>
-            </div>
-            <div class="col-md-8">
-                <h3>Map</h3>
-            </div>
+        <div class="col-md-4">
+            <h3>Beschikbare huizen</h3>
+        </div>
+        <div class="col-md-8">
+            <h3>Map</h3>
+        </div>
     </div>
     <div class="row">
         <div class="col-md-4 col-sm-3 pre-scrollable">
@@ -113,12 +115,14 @@
             var map;
             var tableId = '1WkOReHYpsvNiACHeL5tOxsuYO-nRmzOdXm7B-GDo';// fusiontable :https://www.google.com/fusiontables/DataSource?docid=1WkOReHYpsvNiACHeL5tOxsuYO-nRmzOdXm7B-GDo#rows:id=1
             var geocoder = null;
-            var layer = null;
+            var layer, circle;
             var address = document.getElementById('search-input').value;// get search input
 
             function codeAddress() {
                 var address = document.getElementById("search-input").value; // get search result
-                geocoder.geocode({'address': address}, geocoderCallback);
+                geocoder.geocode({
+                    'address': address
+                }, geocoderCallback);
             }
 
             function initialize() {
@@ -150,16 +154,34 @@
                     map.setCenter(results[0].geometry.location);
                     var lat = results[0].geometry.location.lat();
                     var lng = results[0].geometry.location.lng();
-
+                    var bounds = results[0].geometry.viewport;
                     // get location where user are searching
-                    if (!layer)
-                    {
+                    var radius = google.maps.geometry.spherical.computeDistanceBetween(bounds.getCenter(), bounds.getNorthEast()); // 20000;
+                    if (!circle) {
+                        circle = new google.maps.Circle({
+                            center: {
+                                lat: lat,
+                                lng: lng
+                            },
+                            radius: radius,
+                            map: map,
+                            visible: false
+                        });
+                    } else {
+                        circle.setCenter({
+                            lat: lat,
+                            lng: lng
+                        });
+                    }
+                    // get location where user are searching
+                    if (!layer) {
                         layer = new google.maps.FusionTablesLayer({
                             query: {
                                 select: 'col2',
                                 from: tableId
                             },
                             styles: [{
+                                where: 'ST_INTERSECTS(col2, CIRCLE(LATLNG(' + lat + ', ' + lng + '),' + radius + '))',
                                 polygonOptions: {
                                     strokeColor: '#FF0000', // color red
                                     fillColor: '#808080' // color gray
@@ -169,29 +191,29 @@
                                 where: 'ST_INTERSECTS(col2, CIRCLE(LATLNG(' + lat + ', ' + lng + '),1))',
                                 polygonOptions: {
                                     strokeColor: '#FFA500',// color orange
+                                    strokeWeight: 3,
                                     fillOpacity: 0.08
                                 }
-                            }, {
-                                where: '' // show all provence
-
                             }]
                         });
                         layer.setMap(map);
+
                     }
-                    else
-                    {
+                    else {
                         layer.setOptions({
                             query: {
                                 select: 'col2',
                                 from: tableId,
-                                where: ''
+                                where: 'ST_INTERSECTS(col2, CIRCLE(LATLNG(' + lat + ', ' + lng + '),' + radius + '))'
                             }
                         });
+                        layer.setMap(map);
                     }
                 } else {
                     alert("your search was not successful for the following reason: " + status);
                 }
-            };
+            }
+            ;
 
             google.maps.event.addDomListener(window, 'load', initialize);
         </script>

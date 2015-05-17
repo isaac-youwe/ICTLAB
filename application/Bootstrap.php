@@ -40,7 +40,7 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
 
         // JavaScript Files top of page
         $this->_view->headScript()->appendFile('https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js');
-        $this->_view->headScript()->appendFile('https://maps.googleapis.com/maps/api/js?v=3.exp');
+        $this->_view->headScript()->appendFile('https://maps.googleapis.com/maps/api/js?libraries=geometry&ext=.js');
         $this->_view->headScript()->appendFile('js/bootstrap.min.js');
         $this->_view->headScript()->appendFile('js/jquery.js');
         $this->_view->headScript()->appendFile('js/filter.js');
