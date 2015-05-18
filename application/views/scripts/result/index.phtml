@@ -171,12 +171,12 @@
 
             }
             function addPopupWindow(houseMarker, detailsPopUp) {
-                google.maps.event.addListener(houseMarker, 'mouseover', function() {
+                google.maps.event.addListener(houseMarker, 'mouseover', function () {
                     infoPopUp.setContent(detailsPopUp);
                     infoPopUp.open(map, houseMarker);
                 });
 
-                google.maps.event.addListener(houseMarker, 'mouseout', function() {
+                google.maps.event.addListener(houseMarker, 'mouseout', function () {
                     infoPopUp.close();
                 });
             }
