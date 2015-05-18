@@ -30,6 +30,7 @@
       <modelsDirectory>
         <modelFile modelName="FundaApiConnector"/>
         <modelFile modelName="Google/Geocoding"/>
+        <modelFile modelName="Polygon"/>
       </modelsDirectory>
       <modulesDirectory enabled="false"/>
       <servicesDirectory enabled="false"/>
