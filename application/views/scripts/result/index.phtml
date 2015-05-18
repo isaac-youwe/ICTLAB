@@ -116,6 +116,7 @@
 
             function initialize() {
                 var mapOptions = {
+		    minZoom: 8, //minimum zoom level van de kaart
                     zoom: 12,
                     center: new google.maps.LatLng(lat, lng),
                     disableDefaultUI: true,
@@ -152,6 +153,21 @@
                     addPopupWindow(houseMarker, detailsPopUp);
 
                 }
+                var allowedBounds = new google.maps.LatLngBounds(
+                    new google.maps.LatLng(50.690492, 3.167453),
+                    new google.maps.LatLng(53.587940, 6.993237)
+                );
+                var lastValidCenter = map.getCenter();
+
+                google.maps.event.addListener(map, 'center_changed', function() {
+                    if (allowedBounds.contains(map.getCenter())) {
+
+                        lastValidCenter = map.getCenter();
+                        return;
+                    }
+
+                    map.panTo(lastValidCenter);
+                });
             }
 
             google.maps.event.addDomListener(window, 'load', initialize);
