@@ -112,6 +112,7 @@
         <script>
             var map;
             var infoWindow = new google.maps.InfoWindow();
+            var infoPopUp = new google.maps.InfoWindow();
 
             function initialize() {
                 var mapOptions = {
@@ -145,12 +146,16 @@
                         houseMakelaar + '<br />' + '</p>' +
                         '<div>' + housePhoto + '</div>';
 
+                    var detailsPopUp = houseAdress + ", " + housePrice;
+
                     addInfoWindow(houseMarker, details);
+                    addPopupWindow(houseMarker, detailsPopUp);
 
                 }
             }
 
             google.maps.event.addDomListener(window, 'load', initialize);
+
             function addInfoWindow(houseMarker, details) {
                 google.maps.event.addListener(houseMarker, 'click', function () {
                     if (!houseMarker.open) {
@@ -162,6 +167,17 @@
                         infoWindow.close(map, houseMarker);
                         houseMarker.open = false;
                     }
+                });
+
+            }
+            function addPopupWindow(houseMarker, detailsPopUp) {
+                google.maps.event.addListener(houseMarker, 'mouseover', function() {
+                    infoPopUp.setContent(detailsPopUp);
+                    infoPopUp.open(map, houseMarker);
+                });
+
+                google.maps.event.addListener(houseMarker, 'mouseout', function() {
+                    infoPopUp.close();
                 });
             }
         </script>
