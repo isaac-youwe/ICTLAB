@@ -49,6 +49,48 @@
 </div>
 <div class="container">
     <div class="row">
+        <button onclick="calc()" value="klik">klick</button>
+        <button onclick="callDtb()" value="run">Run</button>
+        <div id="awo"></div>
+        <script>
+            var nwLng = nw['A'];
+            var nwLat = nw['F'];
+            var seLng = se['A'];
+            var seLat = se['F'];
+
+            function calc() {
+                var bounds = map.getBounds();
+
+                var ne = bounds.getNorthEast(); // LatLng of the north-east corner
+                var sw = bounds.getSouthWest(); // LatLng of the south-west corder
+                var nw = new google.maps.LatLng(ne.lat(), sw.lng());
+                var se = new google.maps.LatLng(sw.lat(), ne.lng());
+
+                nwLat = nw['A'];
+                nwLng = nw['F'];
+                seLat = se['A'];
+                seLng = se['F'];
+
+                document.getElementById("awo").innerHTML = ' nw: ' + nw + ' se ' + se;
+            }
+
+            function callDtb() {
+                console.log('callDTB called');
+                    var xmlhttp = new XMLHttpRequest();
+                console.log('nwlng: ' + nwLng);
+                console.log('nwLat: ' + nwLat);
+                console.log('selng: ' + seLng);
+                console.log('seLat: ' + seLat);
+                    xmlhttp.onreadystatechange = function() {
+                        if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                            document.getElementById("cities").innerHTML = xmlhttp.responseText;
+                        }
+                    }
+                console.log("ictlab.local/aanbod?nwLng=" + nwLng + "&nwLat=" + nwLat + "&seLng=" + seLng + "&seLat=" + seLat);
+                    xmlhttp.open("GET", "aanbod?nwLng=" + nwLng + "&nwLat=" + nwLat + "&seLng=" + seLng + "&seLat=" + seLat, true);
+                    xmlhttp.send();
+            }
+        </script>
         <div class="col-md-12" align="center">
             <form class="navbar-form nav-result" role="search" action="/result">
                 <div class="input-group">
@@ -167,5 +209,23 @@
             }
         </script>
         <div id="map-canvas" class="span12 col-md-8 col-sm-9"/>
+        <div class="row">
+            <div class="col-md-12">
+                <ul>
+                <?php foreach ($this->cities as $city)
+                {
+                    echo sprintf('<li>%s</li>',$city['naam']);
+                }
+                ?>
+                </ul>
+                <h1>hiii</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <h2>checking</h2>
+                <p>cities: <span id="cities"></span></p>
+            </div>
+        </div>
     </div>
 </div>
