@@ -144,7 +144,7 @@
 
             var tableId = '1WkOReHYpsvNiACHeL5tOxsuYO-nRmzOdXm7B-GDo';// fusiontable :https://www.google.com/fusiontables/DataSource?docid=1WkOReHYpsvNiACHeL5tOxsuYO-nRmzOdXm7B-GDo#rows:id=1
             var geocoder = null;
-            var layer, circle;
+            var layer;
             var address = document.getElementById('search-input').value;// get search input
 
             function codeAddress() {
@@ -225,63 +225,30 @@
                     var bounds = results[0].geometry.viewport;
                     // get location where user are searching
                     var radius = google.maps.geometry.spherical.computeDistanceBetween(bounds.getCenter(), bounds.getNorthEast()); // 20000;
-                    if (!circle) {
-                        circle = new google.maps.Circle({
-                            center: {
-                                lat: lat,
-                                lng: lng
-                            },
-                            radius: radius,
-                            map: map,
-                            visible: false
-                        });
-                    } else {
-                        circle.setCenter({
-                            lat: lat,
-                            lng: lng
-                        });
-                    }
                     // get location where user are searching
                     if (!layer) {
-                        layer = new google.maps.FusionTablesLayer({
-                            query: {
-                                select: 'col2',
-                                from: tableId
-                            },
-                            styles: [{
-                                where: 'ST_INTERSECTS(col2, CIRCLE(LATLNG(' + lat + ', ' + lng + '),' + radius + '))',
-                                polygonOptions: {
-                                    strokeColor: '#FF0000', // color red
-                                    fillColor: '#808080' // color gray
-                                }
-                            }, {
-                                // search area
-                                where: 'ST_INTERSECTS(col2, CIRCLE(LATLNG(' + lat + ', ' + lng + '),1))',
-                                polygonOptions: {
-                                    strokeColor: '#FFA500',// color orange
-                                    strokeWeight: 3,
-                                    fillOpacity: 0.08
-                                }
-                            }]
-                        });
-                        layer.setMap(map);
-
-                    }
-                    else {
-                        layer.setOptions({
+                        layer1 = new google.maps.FusionTablesLayer({
                             query: {
                                 select: 'col2',
                                 from: tableId,
                                 where: 'ST_INTERSECTS(col2, CIRCLE(LATLNG(' + lat + ', ' + lng + '),' + radius + '))'
-                            }
+                            },
+                            styles: [{
+                                where: 'col1\x3d\x27' + address + '\x27',// case sensitive
+                                polygonOptions: {
+                                    strokeColor: '#FFA500',// color orange
+                                    strokeWeight: 3,
+                                    fillOpacity: 0.001
+                                }
+                            }]
                         });
-                        layer.setMap(map);
+                        layer1.setMap(map);
                     }
-                } else {
+                }
+                else {
                     alert("your search was not successful for the following reason: " + status);
                 }
-            }
-            ;
+            };
 
             google.maps.event.addDomListener(window, 'load', initialize);
 
