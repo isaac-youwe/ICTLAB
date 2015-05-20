@@ -25,7 +25,7 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
     {
         $request = $this->getGuzzleClient()->createRequest('GET', $this->buildUrl($params));
         $response = json_decode($request->send()->getBody());
-
+//        check if response has no object
         return $response->Objects;
     }
 
@@ -34,11 +34,16 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
         /**
          * baseurl / url / apikey / type / city / all filters / since
          */
-        $this->setCity($params);
         $this->setSince($params);
         $this->setType($params);
 
-        return parent::getBaseUrl() . $this->_aanbodUrl . $this->getApiKey() . '/' . '?type=' . $this->getType() . '&zo=/' . $this->getCity() . '/0-400000' . '/p' . $this->page .'/&' . $this->getSince();
+        $url = '';
+        foreach ($params as $key => $value) {
+            $url .= $value . '/';
+            $a = 4;
+        }
+
+        return parent::getBaseUrl() . $this->_aanbodUrl . $this->getApiKey() . '/' . '?type=' . $this->getType() . '&zo=/' . $url .'/&' . $this->getSince();
     }
 
     public function totalObjects($params)

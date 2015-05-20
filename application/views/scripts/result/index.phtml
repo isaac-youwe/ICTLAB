@@ -7,11 +7,11 @@
             <p>Aanwezigheid van</p>
 
             <form action="">
-                <input type="checkbox">Balkon<br>
-                <input type="checkbox">lift <br>
-                <input type="checkbox">Garage <br>
-                <input type="checkbox">Tuin<br>
-                <input type="checkbox">Zwembad <br>
+                <input name="balkon" type="checkbox">Balkon<br>
+                <input name="lift" type="checkbox">lift <br>
+                <input name="" type="checkbox">Garage <br>
+                <input name="" type="checkbox">Tuin<br>
+                <input name="" type="checkbox">Zwembad <br>
             </form>
             <hr/>
             <p>Aantal kamers</p>
@@ -74,7 +74,7 @@
         <div class="col-md-4 col-sm-3 pre-scrollable">
             <ul class="list-group">
                 <!--                this parameter is temporary set like this when using filter should be removed-->
-                <?php $params['filters']['city'] = $this->search; ?>
+                <?php $params['search'] = $this->search; ?>
 
                 <?php $collection = $this->fundaAanbod->getCollection($params); ?>
 
@@ -91,20 +91,19 @@
                         <?php echo sprintf('Koop prijs: %s,- euro', $house->Koopprijs) . "<br>"; ?>
                     </li>
                 <?php endforeach; ?>
-
                 <div class="row">
-                    <div class="col-md-6">
-                        <!--                        show vorige als page groter dan 1-->
-                        <?php if ($this->fundaAanbod->page > 1) { ?>
-                            <a href="<?php echo $this->baseUrl . '&page=' . $this->fundaAanbod->page - 1; ?>"
-                               class="btn btn-default" role="button">Vorige</a>
-                        <?php
-                        }
-                        ?>
-                    </div>
-                    <div class="col-md-6" align="right">
-                        <a href="<?php echo $this->baseUrl . '&page=' . $this->fundaAanbod->page + 1; ?>"
-                           class="btn btn-default" role="button">Volgende</a>
+                    <div class="col-md-12" align="center">
+                        <nav>
+                            <ul class="pagination">
+                                <li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
+                                <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
+                                <li><a href="#">2</a></li>
+                                <li><a href="#">3</a></li>
+                                <li><a href="#">4</a></li>
+                                <li><a href="#">5</a></li>
+                                <li><a href="#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
+                            </ul>
+                        </nav>
                     </div>
                 </div>
             </ul>
