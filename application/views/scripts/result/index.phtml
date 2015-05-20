@@ -7,43 +7,71 @@
         <ul>
             <p>Aanwezigheid van</p>
 
-            <form action="">
-                <input type="checkbox">Balkon<br>
-                <input type="checkbox">lift <br>
-                <input type="checkbox">Garage <br>
-                <input type="checkbox">Tuin<br>
-                <input type="checkbox">Zwembad <br>
+            <form method="get" action="#">
+                <input name="balkon" type="checkbox">Balkon<br>
+                <input name="lift" type="checkbox">Lift <br>
+                <input name="garage" type="checkbox">Garage <br>
+                <input name="tuin" type="checkbox">Tuin<br>
+                <input name="zwembad" type="checkbox">Zwembad <br>
+                <hr/>
+                <p>Aantal kamers</p>
+                <input name="kamers" type="radio">1 kamer<br>
+                <input name="kamers" type="radio">2+ kamers<br>
+                <input name="kamers" type="radio">3+ kamers<br>
+                <input name="kamers" type="radio">4+ kamers<br>
+                <hr/>
+                <p>Woonoppervlakte</p>
+                <select>
+                    <option name="wgeenvoorkeur" class="filter_option_no">Geen voorkeur</option>
+                    <option name="50m" class="filter_option">50+ m</option>
+                    <option name="75m" class="filter_option">75+ m</option>
+                    <option name="100m" class="filter_option">100+ m</option>
+                    <option name="150m" class="filter_option">150+ m</option>
+                </select>
+                <hr/>
+                <p>Energielabel</p>
+                <select>
+                    <option name="lgeenvoorkeur" class="filter_option_no">Geen voorkeur</option>
+                    <option name="a-label" class="filter_option">A-label</option>
+                    <option name="b-label" class="filter_option">B-label</option>
+                    <option name="c-label" class="filter_option">C-label</option>
+                    <option name="d-label" class="filter_option">D-label</option>
+                    <option name="e-label" class="filter_option">E-label</option>
+                    <option name="f-label" class="filter_option">F-label</option>
+                    <option name="g-label" class="filter_option">G-label</option>
+                </select>
+                <select id="sale_amount" name="sale_amount">
+                    <option selected="selected" value="0">€ 0</option>
+                    <option value="0-50000">€ 0 - 50.000</option>
+                    <option value="0-75000">€ 0 - € 75.000</option>
+                    <option value="0-100000">€ 0 - € 100.000</option>
+                    <option value="0-125000">€ 0 - € 125.000</option>
+                    <option value="0-150000">€ 0 - € 150.000</option>
+                    <option value="0-175000">€ 0 - € 175.000</option>
+                    <option value="0-200000">€ 0 - € 200.000</option>
+                    <option value="0-225000">€ 0 - € 225.000</option>
+                    <option value="0-250000">€ 0 - € 250.000</option>
+                    <option value="0-275000">€ 0 - € 275.000</option>
+                    <option value="0-300000">€ 0 - € 300.000</option>
+                    <option value="0-325000">€ 0 - € 325.000</option>
+                    <option value="0-350000">€ 0 - € 350.000</option>
+                    <option value="0-375000">€ 0 - € 375.000</option>
+                    <option value="0-400000">€ 0 - € 400.000</option>
+                    <option value="0-450000">€ 0 - € 450.000</option>
+                    <option value="0-500000">€ 0 - € 500.000</option>
+                    <option value="0-550000">€ 0 - € 550.000</option>
+                    <option value="0-600000">€ 0 - € 600.000</option>
+                    <option value="0-650000">€ 0 - € 650.000</option>
+                    <option value="0-700000">€ 0 - € 700.000</option>
+                    <option value="0-750000">€ 0 - € 750.000</option>
+                    <option value="0-800000">€ 0 - € 800.000</option>
+                    <option value="0-900000">€ 0 - € 900.000</option>
+                    <option value="0-1000000">€ 0 - € 1.000.000</option>
+                    <option value="0-1250000">€ 0 - € 1.250.000</option>
+                    <option value="0-1500000">€ 0 - € 1.500.000</option>
+                    <option value="0-2000000">€ 0 - € 2.000.000</option>
+                </select>
             </form>
-            <hr/>
-            <p>Aantal kamers</p>
-
-            <form action="">
-                <input type="checkbox">1 kamer<br>
-                <input type="checkbox">2+ kamers<br>
-                <input type="checkbox">3+ kamers<br>
-                <input type="checkbox">4+ kamers<br>
-            </form>
-            <hr/>
-            <p>Woonoppervlakte</p>
-            <select>
-                <option class="filter_option_no">Geen voorkeur</option>
-                <option class="filter_option">50+ m</option>
-                <option class="filter_option">75+ m</option>
-                <option class="filter_option">100+ m</option>
-                <option class="filter_option">150+ m</option>
-            </select>
-            <hr/>
-            <p>Energielabel</p>
-            <select>
-                <option class="filter_option_no">Geen voorkeur</option>
-                <option class="filter_option">A-label</option>
-                <option class="filter_option">B-label</option>
-                <option class="filter_option">C-label</option>
-                <option class="filter_option">D-label</option>
-                <option class="filter_option">E-label</option>
-                <option class="filter_option">F-label</option>
-                <option class="filter_option">G-label</option>
-            </select>
         </ul>
     </nav>
 </div>
@@ -113,6 +141,7 @@
         </div>
         <script>
             var map;
+
             var tableId = '1WkOReHYpsvNiACHeL5tOxsuYO-nRmzOdXm7B-GDo';// fusiontable :https://www.google.com/fusiontables/DataSource?docid=1WkOReHYpsvNiACHeL5tOxsuYO-nRmzOdXm7B-GDo#rows:id=1
             var geocoder = null;
             var layer, circle;
@@ -125,8 +154,13 @@
                 }, geocoderCallback);
             }
 
+            var infoWindow = new google.maps.InfoWindow();
+            var infoPopUp = new google.maps.InfoWindow();
+
+
             function initialize() {
                 var mapOptions = {
+                    minZoom: 8, //minimum zoom level van de kaart
                     zoom: 12,
                     center: new google.maps.LatLng(lat, lng),
                     disableDefaultUI: true,
@@ -139,13 +173,47 @@
                 geocoder.geocode({'address': address}, geocoderCallback);
 
                 for (var i = 0; i < collection.length; i++) {
+                    housePhoto = '<img src="' + collection[i]['Foto'] + '">';
+                    houseSquare = 'Oppervlakte: ' + collection[i]['Woonoppervlakte'] + ' m' + '<sup>2</sup>';
+                    housePrice = 'Prijs: &#8364;' + collection[i]['Koopprijs'];
+                    houseMakelaar = 'Makelaar: ' + collection[i]['MakelaarNaam'];
+                    houseAdress = collection[i]['Adres'];
+                    houseRooms = 'Aantal kamers: ' + collection[i]['AantalKamers'];
                     myLatLng = new google.maps.LatLng(collection[i]['WGS84_Y'], collection[i]['WGS84_X']);
                     houseMarker = new google.maps.Marker({
                         position: myLatLng,
                         map: map,
                         icon: 'images/house-marker.png'
                     });
+
+                    var details = '<h5>' + houseAdress + '</h5>' +
+                        '<p>' + housePrice + '<br />' +
+                        houseRooms + '<br />' +
+                        houseSquare + '<br />' +
+                        houseMakelaar + '<br />' + '</p>' +
+                        '<div>' + housePhoto + '</div>';
+
+                    var detailsPopUp = houseAdress + ", " + housePrice;
+
+                    addInfoWindow(houseMarker, details);
+                    addPopupWindow(houseMarker, detailsPopUp);
+
                 }
+                var allowedBounds = new google.maps.LatLngBounds(
+                    new google.maps.LatLng(50.690492, 3.167453),
+                    new google.maps.LatLng(53.587940, 6.993237)
+                );
+                var lastValidCenter = map.getCenter();
+
+                google.maps.event.addListener(map, 'center_changed', function () {
+                    if (allowedBounds.contains(map.getCenter())) {
+
+                        lastValidCenter = map.getCenter();
+                        return;
+                    }
+
+                    map.panTo(lastValidCenter);
+                });
             }
 
             // function for hilight
@@ -216,6 +284,31 @@
             ;
 
             google.maps.event.addDomListener(window, 'load', initialize);
+
+            function addInfoWindow(houseMarker, details) {
+                google.maps.event.addListener(houseMarker, 'click', function () {
+                    if (!houseMarker.open) {
+                        infoWindow.setContent(details);
+                        infoWindow.open(map, houseMarker);
+                        houseMarker.open = true;
+                    }
+                    else {
+                        infoWindow.close(map, houseMarker);
+                        houseMarker.open = false;
+                    }
+                });
+
+            }
+            function addPopupWindow(houseMarker, detailsPopUp) {
+                google.maps.event.addListener(houseMarker, 'mouseover', function () {
+                    infoPopUp.setContent(detailsPopUp);
+                    infoPopUp.open(map, houseMarker);
+                });
+
+                google.maps.event.addListener(houseMarker, 'mouseout', function () {
+                    infoPopUp.close();
+                });
+            }
         </script>
         <div id="map-canvas" class="span12 col-md-8 col-sm-9"/>
     </div>
