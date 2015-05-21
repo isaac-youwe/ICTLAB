@@ -26,7 +26,10 @@ class ResultController extends Zend_Controller_Action
     {
 //        $this->view->assign('baseUrl', Zend_Controller_Front::getBaseUrl() . Zend_Controller_Front::getInstance()->getRequest()->getRequestUri());
         $search = $this->getRequest()->getParam('search');
+        // Uppercase the first character of search word
+        $search = ucwords($search);
         $this->view->assign('search', $search);
+
 
         /**
          * Geocoder\Model\Address $addresses

@@ -80,9 +80,10 @@
         <div class="col-md-12" align="center">
             <form class="navbar-form nav-result" role="search" action="/result">
                 <div class="input-group">
-                    <input type="text" value="<?php echo $this->search; ?>" name="search" class="form-control">
+                    <input type="text" id="search-input" value="<?php echo $this->search; ?>" name="search"
+                           class="form-control">
                             <span class="input-group-btn">
-                                <button class="btn btn-default" type="submit">
+                                <button class="btn btn-default" type="submit" onclick="codeAddress()">
                                     <span class="glyphicon glyphicon-search"></span>
                                 </button>
                             </span>
@@ -140,8 +141,22 @@
         </div>
         <script>
             var map;
+
+            var tableId = '1WkOReHYpsvNiACHeL5tOxsuYO-nRmzOdXm7B-GDo';// fusiontable :https://www.google.com/fusiontables/DataSource?docid=1WkOReHYpsvNiACHeL5tOxsuYO-nRmzOdXm7B-GDo#rows:id=1
+            var geocoder = null;
+            var layer;
+            var address = document.getElementById('search-input').value;// get search input
+
+            function codeAddress() {
+                var address = document.getElementById("search-input").value; // get search result
+                geocoder.geocode({
+                    'address': address
+                }, geocoderCallback);
+            }
+
             var infoWindow = new google.maps.InfoWindow();
             var infoPopUp = new google.maps.InfoWindow();
+
 
             function initialize() {
                 var mapOptions = {
@@ -154,6 +169,8 @@
                 }
                 map = new google.maps.Map(document.getElementById('map-canvas'),
                     mapOptions);
+                geocoder = new google.maps.Geocoder();
+                geocoder.geocode({'address': address}, geocoderCallback);
 
                 for (var i = 0; i < collection.length; i++) {
                     housePhoto = '<img src="' + collection[i]['Foto'] + '">';
@@ -198,6 +215,40 @@
                     map.panTo(lastValidCenter);
                 });
             }
+
+            // function for hilight
+            function geocoderCallback(results, status) {
+                if (status == google.maps.GeocoderStatus.OK) {
+                    map.setCenter(results[0].geometry.location);
+                    var lat = results[0].geometry.location.lat();
+                    var lng = results[0].geometry.location.lng();
+                    var bounds = results[0].geometry.viewport;
+                    // get location where user are searching
+                    var radius = 10000;
+                    // get location where user are searching
+                    if (!layer) {
+                        layer1 = new google.maps.FusionTablesLayer({
+                            query: {
+                                select: 'col2',
+                                from: tableId,
+                                where: 'ST_INTERSECTS(col2, CIRCLE(LATLNG(' + lat + ', ' + lng + '),' + radius + '))'
+                            },
+                            styles: [{
+                                where: 'col1\x3d\x27' + address + '\x27',// case sensitive
+                                polygonOptions: {
+                                    strokeColor: '#FFA500',// color orange
+                                    strokeWeight: 3,
+                                    fillOpacity: 0.001
+                                }
+                            }]
+                        });
+                        layer1.setMap(map);
+                    }
+                }
+                else {
+                    alert("your search was not successful for the following reason: " + status);
+                }
+            };
 
             google.maps.event.addDomListener(window, 'load', initialize);
 
