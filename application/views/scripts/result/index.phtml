@@ -224,7 +224,7 @@
                     var lng = results[0].geometry.location.lng();
                     var bounds = results[0].geometry.viewport;
                     // get location where user are searching
-                    var radius = google.maps.geometry.spherical.computeDistanceBetween(bounds.getCenter(), bounds.getNorthEast()); // 20000;
+                    var radius = 10000;
                     // get location where user are searching
                     if (!layer) {
                         layer1 = new google.maps.FusionTablesLayer({
