@@ -44,42 +44,48 @@
 <div id="sidr">
     <nav class="menu slide-menu-left">
         <form method="get" action="#">
-            <p>Aanwezigheid van</p>
-            <div class="checkbox">
-                <label>
-                    <input name="balkon" type="checkbox">Balkon<br>
-                </label>
-                <label>
-                    <input name="lift" type="checkbox">Lift<br>
-                </label>
-                <label>
-                    <input name="garage" type="checkbox">Garage<br>
-                </label>
-                <label>
-                    <input name="tuin" type="checkbox">Tuin<br>
-                </label>
-                <label>
-                    <input name="zwembad" type="checkbox">Zwembad<br>
-                </label>
-            </div>
+            <div class="row">
+                <p>Aanwezigheid van</p>
+                <div class="col-lg-6">
+                    <div class="clearfix"></div>
+                    <label>
+                        <input name="balkon" type="checkbox"> Balkon<br>
+                    </label>
+                    <label>
+                        <input name="lift" type="checkbox"> Lift<br>
+                    </label>
+                    <label>
+                        <input name="garage" type="checkbox"> Garage<br>
+                    </label>
+                    <label>
+                        <input name="tuin" type="checkbox"> Tuin<br>
+                    </label>
+                    <label>
+                        <input name="zwembad" type="checkbox"> Zwembad<br>
+                    </label>
+                </div><!-- /.col-lg-6 -->
+            </div><!-- /.row -->
             <hr/>
-            <p>Aantal kamers</p>
-            <div class="radio">
-                <label>
-                    <input name="kamers" type="radio">1 kamer<br>
-                </label>
-                <label>
-                    <input name="kamers" type="radio">2+ kamers<br>
-                </label>
-                <label>
-                    <input name="kamers" type="radio">3+ kamers<br>
-                </label>
-                <label>
-                    <input name="kamers" type="radio">4+ kamers<br>
-                </label>
-            </div>
+            <div class="row">
+                <p>Aantal kamers</p>
+                <div class="col-lg-6">
+                    <label>
+                        <input name="kamers" type="radio"> 1 kamer<br>
+                    </label>
+                    <label>
+                        <input name="kamers" type="radio"> 2+ kamers<br>
+                    </label>
+                    <label>
+                        <input name="kamers" type="radio" > 3+ kamers<br>
+                    </label>
+                    <label>
+                        <input name="kamers" type="radio"> 4+ kamers<br>
+                    </label>
+                </div><!-- /.col-lg-6 -->
+            </div><!-- /.row -->
             <hr/>
-            <p>Woonoppervlakte</p>
+            <!-- hier gestopt -->
+                <p>Woonoppervlakte</p>
             <select class="form-control">
                 <option name="wgeenvoorkeur" class="filter_option_no">Geen voorkeur</option>
                 <option name="50m" class="filter_option">50+ m</option>
@@ -135,23 +141,30 @@
         </form>
     </nav>
 </div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="page-header">
+            </div>
+        </div>
+    </div>
+</div>
+<?php echo $this->layout()->content ?><br />
+
+
+
+<div id="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                <div class="page-header">
+            <div class="row" id="final-footer">
+                <div class="col-sm-4"></div>
+                <div class="col-sm-4 text-center">
+                    <span class="glyphicon glyphicon-copyright-mark"/> 2000-2015 Funda Real Estate B.V.
                 </div>
             </div>
         </div>
     </div>
-<?php echo $this->layout()->content ?><br />
-
-<div class="container">
-    <div class="navbar navbar-default">
-        <div class="container">
-          <div class="navbar-text"><span class="glyphicon glyphicon-copyright-mark"/> 2000-2015 Funda Real Estate B.V.
-          </div>
-        </div>
-    </div>
 </div>
+
 </body>
 </html>

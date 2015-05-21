@@ -74,3 +74,15 @@
     /* custom max width */
     max-width:320px;
 }
+
+#footer{
+    background: rgb(241, 241, 241);
+    margin-top: -2px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#final-footer{
+    font-size: 15px;
+    color: #666;
+}
