@@ -122,21 +122,22 @@
                 <?php endforeach; ?>
 
                 <div class="row">
-                    <div class="col-md-6">
-                        <!--                        show vorige als page groter dan 1-->
-                        <?php if ($this->fundaAanbod->page > 1) { ?>
-                            <a href="<?php echo $this->baseUrl . '&page=' . $this->fundaAanbod->page - 1; ?>"
-                               class="btn btn-default" role="button">Vorige</a>
-                        <?php
-                        }
-                        ?>
-                    </div>
-                    <div class="col-md-6" align="right">
-                        <a href="<?php echo $this->baseUrl . '&page=' . $this->fundaAanbod->page + 1; ?>"
-                           class="btn btn-default" role="button">Volgende</a>
+                    <div class="col-md-12 dev-mode" align="center">
+                        <ul class="pagination">
+                            <li class="disabled"><a href="#">&laquo;</a></li>
+                            <li class="active"><a href="#">1</a></li>
+                            <li><a href="#">2</a></li>
+                            <li><a href="#">3</a></li>
+                            <li><a href="#">4</a></li>
+                            <li><a href="#">5</a></li>
+                            <li><a href="#">&raquo;</a></li>
+                        </ul>
                     </div>
                 </div>
             </ul>
+        </div>
+        <div class="col-md-8 col-sm-9">
+            <div id="map-canvas"/>
         </div>
         <script>
             var map;
@@ -229,6 +230,5 @@
                 });
             }
         </script>
-        <div id="map-canvas" class="span12 col-md-8 col-sm-9"/>
     </div>
 </div>
