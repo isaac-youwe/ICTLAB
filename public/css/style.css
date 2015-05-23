@@ -41,8 +41,14 @@
 /*google map*/
 #map-canvas {
     display: block;
-    height: 400px;
+    height: 450px;
 }
+
+.pre-scrollable {
+    max-height: 450px;
+    overflow-y: scroll;
+}
+
 /*navigation bar on resultpage*/
 .nav-result {
     width: 25%!important;
@@ -73,4 +79,8 @@
 .col-max {
     /* custom max width */
     max-width:320px;
+}
+
+.dev-mode {
+    border: solid red 2px;
 }
