@@ -169,14 +169,17 @@
                         icon: 'images/house-marker.png'
                     });
 
-                    var details = '<h5>' + houseAdress + '</h5>' +
-                        '<p>' + housePrice + '<br />' +
+                    var details =
+                        '<p class="text-center">' +
+                        '<h5>' + houseAdress + '</h5>' +
+                        housePrice + '<br />' +
                         houseRooms + '<br />' +
                         houseSquare + '<br />' +
-                        houseMakelaar + '<br />' + '</p>' +
-                        '<div>' + housePhoto + '</div>';
+                        houseMakelaar + '<br />' +
+                        '<div class="img-responsive">' + housePhoto + '</div>'+
+                        '</p>';
 
-                    var detailsPopUp = houseAdress + ", " + housePrice;
+                    var detailsPopUp = '<p class="text-center">' + houseAdress + ", " + housePrice + '</p>';
 
                     addInfoWindow(houseMarker, details);
                     addPopupWindow(houseMarker, detailsPopUp);
