@@ -196,7 +196,26 @@
         csKwartier.setMap(map);
         oudewesten.setMap(map);
         cool.setMap(map);
-        rotterdam.setMap(map);
+        //rotterdam.setMap(map);
+
+        // Add a listener for the click event
+        google.maps.event.addListener(csKwartier, 'click', showInfo);
+        google.maps.event.addListener(oudewesten, 'click', showInfo);
+        google.maps.event.addListener(cool, 'click', showInfo);
+
+        infowindow = new google.maps.InfoWindow();
+
+        function showInfo(event) {
+
+            var contentString = "<b>Rotterdam</b><br />";
+            contentString += "<br /><a href='#'>Zoom to</a><br />"; // later Zoomto need to be function that will change the search function to the current location.
+
+            // Replace our Info Window's content and position
+            infowindow.setContent(contentString);
+            infowindow.setPosition(event.latLng);
+
+            infowindow.open(map);
+        }
     }
 
     google.maps.event.addDomListener(window, 'load', initialize);
