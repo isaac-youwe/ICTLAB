@@ -59,3 +59,8 @@ Klik op CREATE PULL REQUEST
 # Windows users
 ## Do this only once 
 ```git remote add upstream https://github.com/isaac-youwe/ICTLAB.git```
+
+# Convert KML to JSON script
+### Navigate first into the ICTLAB/scripts folder
+### And run this command
+```php script.php```
