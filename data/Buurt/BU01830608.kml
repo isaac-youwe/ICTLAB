@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01830608 Verspreide huizen Haarle</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.828711,52.398203,0.000000
+            6.816043,52.396448,0.000000
+            6.817377,52.398217,0.000000
+            6.816823,52.403296,0.000000
+            6.822043,52.404912,0.000000
+            6.822972,52.407208,0.000000
+            6.821595,52.410045,0.000000
+            6.831840,52.413608,0.000000
+            6.851779,52.414607,0.000000
+            6.857158,52.410320,0.000000
+            6.862625,52.407705,0.000000
+            6.849362,52.404072,0.000000
+            6.849043,52.402421,0.000000
+            6.842625,52.401925,0.000000
+            6.842425,52.401148,0.000000
+            6.834558,52.400180,0.000000
+            6.828711,52.398203,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

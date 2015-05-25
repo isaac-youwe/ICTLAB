@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15070406 Berkelsbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.067814,51.449826,0.000000
+            6.069064,51.446928,0.000000
+            6.065330,51.447084,0.000000
+            6.063044,51.447677,0.000000
+            6.057762,51.449248,0.000000
+            6.058208,51.449653,0.000000
+            6.062479,51.450757,0.000000
+            6.067814,51.449826,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

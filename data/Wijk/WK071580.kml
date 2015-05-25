@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK071580 Wijk 80 Philippine (Westdorpe)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.764335,51.283293,0.000000
+            3.766652,51.281703,0.000000
+            3.765597,51.280303,0.000000
+            3.763761,51.280952,0.000000
+            3.763511,51.277627,0.000000
+            3.759054,51.277902,0.000000
+            3.757635,51.277189,0.000000
+            3.755743,51.277820,0.000000
+            3.754596,51.281410,0.000000
+            3.753099,51.282064,0.000000
+            3.749483,51.281818,0.000000
+            3.748995,51.284351,0.000000
+            3.761324,51.287910,0.000000
+            3.766239,51.285749,0.000000
+            3.765647,51.285207,0.000000
+            3.764335,51.283293,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

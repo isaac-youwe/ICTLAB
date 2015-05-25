@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06640800 Wolphaartsdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.824955,51.532671,0.000000
+            3.825808,51.526465,0.000000
+            3.825000,51.525559,0.000000
+            3.822122,51.525415,0.000000
+            3.815960,51.526169,0.000000
+            3.812035,51.528668,0.000000
+            3.812067,51.531137,0.000000
+            3.814796,51.530679,0.000000
+            3.812403,51.540025,0.000000
+            3.813526,51.539920,0.000000
+            3.814792,51.538297,0.000000
+            3.816050,51.534505,0.000000
+            3.824955,51.532671,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

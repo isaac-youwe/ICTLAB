@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07160300 Sint Maartensdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.077384,51.553682,0.000000
+            4.084847,51.549193,0.000000
+            4.089069,51.548719,0.000000
+            4.090460,51.545923,0.000000
+            4.084537,51.547052,0.000000
+            4.077161,51.545340,0.000000
+            4.076090,51.542516,0.000000
+            4.071283,51.544425,0.000000
+            4.072004,51.545002,0.000000
+            4.065402,51.550074,0.000000
+            4.066792,51.550850,0.000000
+            4.069324,51.549076,0.000000
+            4.071524,51.551400,0.000000
+            4.076286,51.552580,0.000000
+            4.077384,51.553682,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

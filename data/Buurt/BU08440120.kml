@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08440120 Hopstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.434625,51.627406,0.000000
+            5.439293,51.624623,0.000000
+            5.438280,51.623667,0.000000
+            5.436515,51.624770,0.000000
+            5.427824,51.622986,0.000000
+            5.424015,51.625140,0.000000
+            5.431798,51.628340,0.000000
+            5.434625,51.627406,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

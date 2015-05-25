@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK082600 Wijk 00 Oosterhout-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.869892,51.642241,0.000000
+            4.868960,51.640361,0.000000
+            4.864809,51.641020,0.000000
+            4.857917,51.640655,0.000000
+            4.849992,51.641081,0.000000
+            4.852299,51.646943,0.000000
+            4.860418,51.647598,0.000000
+            4.868543,51.647623,0.000000
+            4.869330,51.645538,0.000000
+            4.869892,51.642241,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

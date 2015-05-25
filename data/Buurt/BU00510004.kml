@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510004 Zuiderveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.802459,52.964279,0.000000
+            5.811110,52.960737,0.000000
+            5.812822,52.959849,0.000000
+            5.808930,52.957383,0.000000
+            5.798857,52.955562,0.000000
+            5.793450,52.956583,0.000000
+            5.799643,52.964092,0.000000
+            5.801465,52.963209,0.000000
+            5.802459,52.964279,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07771012 De Grient</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.630339,51.573572,0.000000
+            4.622659,51.571744,0.000000
+            4.620762,51.572291,0.000000
+            4.619289,51.574946,0.000000
+            4.629664,51.575805,0.000000
+            4.630567,51.575518,0.000000
+            4.632234,51.574050,0.000000
+            4.630339,51.573572,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

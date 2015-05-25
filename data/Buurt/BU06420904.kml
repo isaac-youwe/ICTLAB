@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420904 Kleine Lindt Polder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.590062,51.829294,0.000000
+            4.585892,51.822402,0.000000
+            4.580425,51.818294,0.000000
+            4.576963,51.818365,0.000000
+            4.574166,51.820487,0.000000
+            4.568674,51.822571,0.000000
+            4.570328,51.827535,0.000000
+            4.572929,51.828776,0.000000
+            4.577867,51.827618,0.000000
+            4.581766,51.831936,0.000000
+            4.586514,51.832591,0.000000
+            4.591064,51.831660,0.000000
+            4.591903,51.830726,0.000000
+            4.590062,51.829294,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

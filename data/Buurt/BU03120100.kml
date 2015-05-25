@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03120100 Odijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.236482,52.045211,0.000000
+            5.237996,52.043101,0.000000
+            5.228999,52.046882,0.000000
+            5.226781,52.052905,0.000000
+            5.224048,52.055088,0.000000
+            5.231082,52.056869,0.000000
+            5.241077,52.056832,0.000000
+            5.244453,52.053762,0.000000
+            5.243222,52.049870,0.000000
+            5.239265,52.048434,0.000000
+            5.236893,52.046175,0.000000
+            5.236482,52.045211,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

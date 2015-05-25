@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00720006 Binnenstad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.422566,53.171289,0.000000
+            5.422393,53.170420,0.000000
+            5.412730,53.170904,0.000000
+            5.410890,53.172061,0.000000
+            5.409552,53.174916,0.000000
+            5.413573,53.177257,0.000000
+            5.418812,53.178792,0.000000
+            5.419097,53.179441,0.000000
+            5.420564,53.179776,0.000000
+            5.424272,53.174250,0.000000
+            5.424542,53.171646,0.000000
+            5.422566,53.171289,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

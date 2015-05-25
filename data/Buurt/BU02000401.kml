@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000401 Brummelhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.969526,52.203987,0.000000
+            5.959154,52.201085,0.000000
+            5.958602,52.205498,0.000000
+            5.957804,52.207678,0.000000
+            5.964133,52.209381,0.000000
+            5.969880,52.209342,0.000000
+            5.977785,52.209075,0.000000
+            5.978396,52.208095,0.000000
+            5.974052,52.208071,0.000000
+            5.975835,52.205647,0.000000
+            5.969526,52.203987,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

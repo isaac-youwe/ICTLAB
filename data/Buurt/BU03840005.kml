@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03840005 Bomenrijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.952476,52.340243,0.000000
+            4.954586,52.338957,0.000000
+            4.955293,52.339007,0.000000
+            4.957069,52.336168,0.000000
+            4.953983,52.334028,0.000000
+            4.949884,52.338574,0.000000
+            4.949883,52.338621,0.000000
+            4.949883,52.338635,0.000000
+            4.952476,52.340243,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

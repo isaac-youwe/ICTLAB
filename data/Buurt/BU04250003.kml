@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04250003 Naarderbos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.159892,52.308663,0.000000
+            5.161372,52.305969,0.000000
+            5.165776,52.305079,0.000000
+            5.165882,52.305068,0.000000
+            5.163830,52.304497,0.000000
+            5.159005,52.305660,0.000000
+            5.150806,52.306060,0.000000
+            5.144519,52.306038,0.000000
+            5.142416,52.310118,0.000000
+            5.141975,52.310621,0.000000
+            5.146038,52.312860,0.000000
+            5.151025,52.312277,0.000000
+            5.151074,52.312241,0.000000
+            5.159892,52.308663,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

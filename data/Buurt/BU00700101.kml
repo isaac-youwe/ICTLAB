@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700101 Firdgum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.543078,53.262375,0.000000
+            5.546073,53.261473,0.000000
+            5.550572,53.262365,0.000000
+            5.550834,53.262140,0.000000
+            5.592144,53.226548,0.000000
+            5.589881,53.226146,0.000000
+            5.586923,53.228442,0.000000
+            5.583450,53.227640,0.000000
+            5.537202,53.264314,0.000000
+            5.538595,53.265976,0.000000
+            5.540084,53.263278,0.000000
+            5.543078,53.262375,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

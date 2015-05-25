@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00860102 Tijnje</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.991563,53.015662,0.000000
+            5.978716,53.015272,0.000000
+            5.978855,53.015673,0.000000
+            5.984952,53.025529,0.000000
+            5.984120,53.026039,0.000000
+            5.985056,53.032323,0.000000
+            5.980174,53.035420,0.000000
+            5.981927,53.039324,0.000000
+            5.999371,53.036842,0.000000
+            5.991563,53.015662,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

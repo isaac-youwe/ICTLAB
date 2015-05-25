@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16761300 Renesse</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.781402,51.731895,0.000000
+            3.775281,51.726863,0.000000
+            3.771763,51.728575,0.000000
+            3.766812,51.724987,0.000000
+            3.764148,51.727288,0.000000
+            3.763137,51.728162,0.000000
+            3.764898,51.728432,0.000000
+            3.764697,51.732060,0.000000
+            3.768514,51.733067,0.000000
+            3.768057,51.734206,0.000000
+            3.771123,51.735030,0.000000
+            3.776360,51.734443,0.000000
+            3.781402,51.731895,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

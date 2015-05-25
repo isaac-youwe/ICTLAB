@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03950115 Waarland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.821790,52.716508,0.000000
+            4.821303,52.716407,0.000000
+            4.818959,52.723426,0.000000
+            4.817810,52.724157,0.000000
+            4.818132,52.726906,0.000000
+            4.828629,52.730428,0.000000
+            4.842016,52.730521,0.000000
+            4.844048,52.725736,0.000000
+            4.843710,52.719789,0.000000
+            4.826219,52.717428,0.000000
+            4.821790,52.716508,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

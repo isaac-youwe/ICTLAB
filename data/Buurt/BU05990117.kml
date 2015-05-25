@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990117 Kop van Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.485930,51.910593,0.000000
+            4.488903,51.909413,0.000000
+            4.494155,51.909049,0.000000
+            4.498553,51.906950,0.000000
+            4.497118,51.905642,0.000000
+            4.496376,51.904270,0.000000
+            4.493989,51.904878,0.000000
+            4.486080,51.902892,0.000000
+            4.480190,51.903439,0.000000
+            4.479587,51.904672,0.000000
+            4.478728,51.906304,0.000000
+            4.482739,51.909395,0.000000
+            4.483492,51.910479,0.000000
+            4.485379,51.909730,0.000000
+            4.485930,51.910593,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

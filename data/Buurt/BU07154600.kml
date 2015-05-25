@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07154600 Reuzenhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.917773,51.324691,0.000000
+            3.914543,51.323143,0.000000
+            3.912079,51.323283,0.000000
+            3.911915,51.326672,0.000000
+            3.910235,51.328216,0.000000
+            3.913140,51.329359,0.000000
+            3.915452,51.328874,0.000000
+            3.916795,51.327898,0.000000
+            3.915019,51.327019,0.000000
+            3.917773,51.324691,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

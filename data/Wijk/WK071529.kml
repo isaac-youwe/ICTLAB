@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK071529 Wijk 29 Spui (Terneuzen)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.872174,51.294184,0.000000
+            3.870077,51.293251,0.000000
+            3.869156,51.294026,0.000000
+            3.876485,51.297209,0.000000
+            3.875803,51.298847,0.000000
+            3.873855,51.299982,0.000000
+            3.875941,51.301020,0.000000
+            3.880505,51.298422,0.000000
+            3.881478,51.297891,0.000000
+            3.880428,51.297129,0.000000
+            3.873323,51.294695,0.000000
+            3.872174,51.294184,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01660301 Losselanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.947490,52.570001,0.000000
+            5.947149,52.568243,0.000000
+            5.953200,52.565966,0.000000
+            5.948653,52.561898,0.000000
+            5.939485,52.561724,0.000000
+            5.936749,52.562624,0.000000
+            5.939533,52.564342,0.000000
+            5.935681,52.565327,0.000000
+            5.937291,52.569019,0.000000
+            5.940472,52.568968,0.000000
+            5.946110,52.570545,0.000000
+            5.947490,52.570001,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

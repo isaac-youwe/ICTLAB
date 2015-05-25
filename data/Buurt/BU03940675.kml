@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940675 Oude Meer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.792013,52.292103,0.000000
+            4.783315,52.284867,0.000000
+            4.782915,52.284659,0.000000
+            4.774830,52.280456,0.000000
+            4.772731,52.281564,0.000000
+            4.771752,52.282061,0.000000
+            4.774440,52.283141,0.000000
+            4.773904,52.286854,0.000000
+            4.779810,52.286929,0.000000
+            4.779978,52.288563,0.000000
+            4.785031,52.291973,0.000000
+            4.788129,52.290310,0.000000
+            4.791203,52.292906,0.000000
+            4.794144,52.299748,0.000000
+            4.794968,52.299382,0.000000
+            4.794849,52.299308,0.000000
+            4.792175,52.292514,0.000000
+            4.792013,52.292103,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

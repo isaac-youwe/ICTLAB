@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07100302 Dedgum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.498490,53.024096,0.000000
+            5.501636,53.023391,0.000000
+            5.505437,53.024292,0.000000
+            5.509786,53.021785,0.000000
+            5.509424,53.021567,0.000000
+            5.510906,53.018870,0.000000
+            5.503450,53.017080,0.000000
+            5.498983,53.018881,0.000000
+            5.496120,53.014584,0.000000
+            5.494903,53.014260,0.000000
+            5.493336,53.015731,0.000000
+            5.489963,53.016177,0.000000
+            5.488702,53.019242,0.000000
+            5.486577,53.020992,0.000000
+            5.482665,53.022397,0.000000
+            5.489478,53.030993,0.000000
+            5.498490,53.024096,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

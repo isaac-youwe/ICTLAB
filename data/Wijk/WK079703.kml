@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK079703 Wijk 03 Nieuwkuijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.167030,51.697863,0.000000
+            5.186129,51.695497,0.000000
+            5.195199,51.694192,0.000000
+            5.191534,51.692157,0.000000
+            5.188067,51.692159,0.000000
+            5.187887,51.691453,0.000000
+            5.186795,51.690662,0.000000
+            5.182955,51.688217,0.000000
+            5.178591,51.688460,0.000000
+            5.174436,51.686166,0.000000
+            5.171091,51.692645,0.000000
+            5.169172,51.696361,0.000000
+            5.168061,51.696343,0.000000
+            5.167030,51.697863,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

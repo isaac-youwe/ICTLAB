@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01800002 Staphorst streek-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.203815,52.637177,0.000000
+            6.198785,52.634659,0.000000
+            6.197224,52.635983,0.000000
+            6.191459,52.633248,0.000000
+            6.184894,52.638011,0.000000
+            6.182046,52.640183,0.000000
+            6.195987,52.646823,0.000000
+            6.203155,52.640931,0.000000
+            6.203815,52.637177,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

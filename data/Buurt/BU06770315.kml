@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770315 Kern Clinge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.102789,51.264232,0.000000
+            4.090485,51.258886,0.000000
+            4.090286,51.258795,0.000000
+            4.088734,51.262878,0.000000
+            4.075023,51.262601,0.000000
+            4.074964,51.263289,0.000000
+            4.076780,51.264195,0.000000
+            4.086844,51.264554,0.000000
+            4.087097,51.266696,0.000000
+            4.084039,51.266711,0.000000
+            4.082962,51.274225,0.000000
+            4.086762,51.274366,0.000000
+            4.090103,51.275460,0.000000
+            4.091485,51.284796,0.000000
+            4.093591,51.285238,0.000000
+            4.092345,51.275190,0.000000
+            4.094718,51.268921,0.000000
+            4.102990,51.268914,0.000000
+            4.102789,51.264232,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

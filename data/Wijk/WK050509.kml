@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK050509 Wijk 09 Crabbehof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.667460,51.797351,0.000000
+            4.669524,51.792203,0.000000
+            4.673020,51.790847,0.000000
+            4.667222,51.784369,0.000000
+            4.663549,51.784626,0.000000
+            4.658592,51.787845,0.000000
+            4.658512,51.790595,0.000000
+            4.658969,51.793076,0.000000
+            4.657386,51.795263,0.000000
+            4.659264,51.795007,0.000000
+            4.667460,51.797351,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

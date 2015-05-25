@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06260004 Boschgeest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.440902,52.121309,0.000000
+            4.435669,52.116681,0.000000
+            4.432638,52.118950,0.000000
+            4.428871,52.116269,0.000000
+            4.425668,52.118177,0.000000
+            4.427466,52.121274,0.000000
+            4.434684,52.126610,0.000000
+            4.434952,52.126711,0.000000
+            4.436357,52.125804,0.000000
+            4.434733,52.124149,0.000000
+            4.440902,52.121309,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

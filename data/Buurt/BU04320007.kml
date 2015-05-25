@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04320007 Verspreide huizen in De Kaag</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.931085,52.683136,0.000000
+            4.928067,52.680319,0.000000
+            4.914245,52.684451,0.000000
+            4.913904,52.684553,0.000000
+            4.905010,52.686315,0.000000
+            4.905000,52.687214,0.000000
+            4.906426,52.687982,0.000000
+            4.916766,52.693552,0.000000
+            4.916782,52.693594,0.000000
+            4.928548,52.697485,0.000000
+            4.930244,52.697008,0.000000
+            4.941069,52.692256,0.000000
+            4.940686,52.691228,0.000000
+            4.936555,52.690583,0.000000
+            4.933843,52.687799,0.000000
+            4.927969,52.684965,0.000000
+            4.931085,52.683136,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

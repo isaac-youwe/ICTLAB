@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK174200 Wijk 00 Stad Rijssen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.530939,52.308031,0.000000
+            6.528380,52.304581,0.000000
+            6.524179,52.301648,0.000000
+            6.523413,52.302868,0.000000
+            6.519623,52.302385,0.000000
+            6.512646,52.303289,0.000000
+            6.512112,52.305595,0.000000
+            6.507002,52.305459,0.000000
+            6.504152,52.307286,0.000000
+            6.509940,52.309371,0.000000
+            6.518044,52.311228,0.000000
+            6.522427,52.312903,0.000000
+            6.531383,52.318625,0.000000
+            6.532822,52.317715,0.000000
+            6.533061,52.317614,0.000000
+            6.526243,52.312367,0.000000
+            6.533704,52.312116,0.000000
+            6.531382,52.310771,0.000000
+            6.530939,52.308031,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

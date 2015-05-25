@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04480004 Oudeschild</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.831144,53.029325,0.000000
+            4.830333,53.029321,0.000000
+            4.832035,53.033830,0.000000
+            4.842564,53.037649,0.000000
+            4.844013,53.039682,0.000000
+            4.842661,53.041736,0.000000
+            4.844220,53.044457,0.000000
+            4.854974,53.045560,0.000000
+            4.855769,53.044164,0.000000
+            4.857959,53.043199,0.000000
+            4.857813,53.042927,0.000000
+            4.853383,53.039312,0.000000
+            4.851903,53.038407,0.000000
+            4.845995,53.033887,0.000000
+            4.838575,53.031157,0.000000
+            4.831144,53.029325,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

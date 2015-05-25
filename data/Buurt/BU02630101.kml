@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02630101 Well</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.206564,51.744213,0.000000
+            5.201954,51.742518,0.000000
+            5.199490,51.744208,0.000000
+            5.199166,51.746523,0.000000
+            5.201868,51.748472,0.000000
+            5.202175,51.752005,0.000000
+            5.206562,51.751827,0.000000
+            5.205723,51.748067,0.000000
+            5.207980,51.746899,0.000000
+            5.206564,51.744213,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

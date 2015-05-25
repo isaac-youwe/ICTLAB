@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02630003 Alem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.348066,51.785209,0.000000
+            5.343135,51.784311,0.000000
+            5.340723,51.784905,0.000000
+            5.337771,51.786996,0.000000
+            5.336516,51.787729,0.000000
+            5.336576,51.789544,0.000000
+            5.339142,51.789378,0.000000
+            5.347014,51.787345,0.000000
+            5.348066,51.785209,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

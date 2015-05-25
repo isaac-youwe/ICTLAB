@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08700495 Zuidhollandschepolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.933810,51.754499,0.000000
+            4.924953,51.731496,0.000000
+            4.922959,51.731900,0.000000
+            4.919465,51.723318,0.000000
+            4.920822,51.720329,0.000000
+            4.918249,51.720052,0.000000
+            4.902347,51.718189,0.000000
+            4.891046,51.719894,0.000000
+            4.891435,51.720838,0.000000
+            4.890132,51.720934,0.000000
+            4.892538,51.725002,0.000000
+            4.897466,51.729315,0.000000
+            4.905857,51.734398,0.000000
+            4.907941,51.735978,0.000000
+            4.919008,51.744798,0.000000
+            4.923802,51.753520,0.000000
+            4.924960,51.756089,0.000000
+            4.933810,51.754499,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

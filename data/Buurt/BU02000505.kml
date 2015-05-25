@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000505 Matenveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.001924,52.191501,0.000000
+            6.006283,52.183474,0.000000
+            5.998537,52.181721,0.000000
+            5.993490,52.188583,0.000000
+            5.989898,52.190578,0.000000
+            5.985370,52.189977,0.000000
+            5.982963,52.193628,0.000000
+            5.987181,52.194363,0.000000
+            5.991452,52.196147,0.000000
+            5.994140,52.194067,0.000000
+            6.000307,52.192569,0.000000
+            6.001924,52.191501,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

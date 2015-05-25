@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110415 Kokkelert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.807810,51.083704,0.000000
+            5.806744,51.081964,0.000000
+            5.805997,51.082612,0.000000
+            5.804763,51.081893,0.000000
+            5.803623,51.083038,0.000000
+            5.802750,51.083649,0.000000
+            5.805508,51.085044,0.000000
+            5.807810,51.083704,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

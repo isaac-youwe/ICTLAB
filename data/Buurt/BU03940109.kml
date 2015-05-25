@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940109 Hoofddorp-Bornholm-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.681289,52.311675,0.000000
+            4.668912,52.303171,0.000000
+            4.667125,52.304985,0.000000
+            4.666210,52.308091,0.000000
+            4.672533,52.312836,0.000000
+            4.675382,52.311348,0.000000
+            4.678302,52.313417,0.000000
+            4.675519,52.314895,0.000000
+            4.675741,52.315803,0.000000
+            4.680664,52.316439,0.000000
+            4.682029,52.312492,0.000000
+            4.681289,52.311675,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09952210 Boeier-Karveel-Golfpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.454845,52.530550,0.000000
+            5.454519,52.525942,0.000000
+            5.464844,52.526325,0.000000
+            5.464633,52.527591,0.000000
+            5.469796,52.527912,0.000000
+            5.469587,52.529794,0.000000
+            5.473919,52.529943,0.000000
+            5.471425,52.524398,0.000000
+            5.471493,52.520537,0.000000
+            5.452458,52.520136,0.000000
+            5.443400,52.519966,0.000000
+            5.445265,52.529925,0.000000
+            5.447923,52.527666,0.000000
+            5.448008,52.529011,0.000000
+            5.454845,52.530550,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

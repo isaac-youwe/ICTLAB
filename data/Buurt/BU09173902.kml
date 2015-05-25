@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09173902 Dr. Schaepmanplein en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.001366,50.887251,0.000000
+            6.006082,50.884353,0.000000
+            6.007962,50.885624,0.000000
+            6.008252,50.885994,0.000000
+            6.008285,50.885973,0.000000
+            6.009682,50.884168,0.000000
+            6.009609,50.878774,0.000000
+            6.009605,50.878444,0.000000
+            6.005129,50.880866,0.000000
+            5.997742,50.882917,0.000000
+            5.995134,50.884284,0.000000
+            6.001366,50.887251,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

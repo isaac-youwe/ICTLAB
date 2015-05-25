@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07153000 Biervliet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.687612,51.333146,0.000000
+            3.694177,51.330421,0.000000
+            3.693408,51.328685,0.000000
+            3.690383,51.329294,0.000000
+            3.690304,51.326916,0.000000
+            3.687812,51.324424,0.000000
+            3.684518,51.323940,0.000000
+            3.679444,51.327437,0.000000
+            3.674997,51.327032,0.000000
+            3.673813,51.328582,0.000000
+            3.673218,51.330010,0.000000
+            3.679780,51.330530,0.000000
+            3.681997,51.331718,0.000000
+            3.682841,51.330944,0.000000
+            3.687612,51.333146,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

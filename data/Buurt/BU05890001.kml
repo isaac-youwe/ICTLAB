@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05890001 Brede Dijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.875455,52.026114,0.000000
+            4.874174,52.025761,0.000000
+            4.871150,52.026040,0.000000
+            4.867265,52.024625,0.000000
+            4.859526,52.035696,0.000000
+            4.860928,52.036767,0.000000
+            4.863502,52.037150,0.000000
+            4.865853,52.038603,0.000000
+            4.868136,52.037492,0.000000
+            4.872283,52.032830,0.000000
+            4.870823,52.032309,0.000000
+            4.875455,52.026114,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

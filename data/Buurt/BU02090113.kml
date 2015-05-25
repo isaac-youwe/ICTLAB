@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02090113 Beuningen De Haaghe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.787753,51.859087,0.000000
+            5.783862,51.857352,0.000000
+            5.781392,51.857897,0.000000
+            5.778876,51.856962,0.000000
+            5.779391,51.857753,0.000000
+            5.781382,51.859564,0.000000
+            5.780890,51.863690,0.000000
+            5.787288,51.862300,0.000000
+            5.787753,51.859087,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

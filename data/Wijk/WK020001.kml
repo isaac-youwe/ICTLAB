@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK020001 Wijk 01 Apeldoorn Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.955533,52.219813,0.000000
+            5.962278,52.216528,0.000000
+            5.964477,52.216864,0.000000
+            5.968973,52.217335,0.000000
+            5.970638,52.217076,0.000000
+            5.970370,52.216684,0.000000
+            5.969569,52.214056,0.000000
+            5.975825,52.211799,0.000000
+            5.977785,52.209075,0.000000
+            5.969880,52.209342,0.000000
+            5.964133,52.209381,0.000000
+            5.957804,52.207678,0.000000
+            5.953904,52.216934,0.000000
+            5.955970,52.217784,0.000000
+            5.954688,52.219992,0.000000
+            5.955533,52.219813,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

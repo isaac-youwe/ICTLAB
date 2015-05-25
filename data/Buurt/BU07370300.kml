@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07370300 Rypsjerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.920002,53.228909,0.000000
+            5.919998,53.225122,0.000000
+            5.920834,53.224283,0.000000
+            5.924255,53.224460,0.000000
+            5.924204,53.221071,0.000000
+            5.911337,53.221084,0.000000
+            5.908650,53.222763,0.000000
+            5.901392,53.223172,0.000000
+            5.900782,53.228630,0.000000
+            5.897796,53.228555,0.000000
+            5.898661,53.232037,0.000000
+            5.903125,53.233241,0.000000
+            5.909055,53.233327,0.000000
+            5.920002,53.228909,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

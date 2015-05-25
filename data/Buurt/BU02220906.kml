@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220906 De Bezelhorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.302396,51.976425,0.000000
+            6.301787,51.974839,0.000000
+            6.294624,51.977089,0.000000
+            6.294716,51.978273,0.000000
+            6.291292,51.979368,0.000000
+            6.291210,51.981099,0.000000
+            6.290097,51.981788,0.000000
+            6.292399,51.984619,0.000000
+            6.296801,51.982545,0.000000
+            6.300132,51.977932,0.000000
+            6.302396,51.976425,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

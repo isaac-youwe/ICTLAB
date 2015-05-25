@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK060603 Wijk 03 Schiedam-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.396406,51.906570,0.000000
+            4.394251,51.906304,0.000000
+            4.386642,51.908256,0.000000
+            4.378283,51.910800,0.000000
+            4.379336,51.913677,0.000000
+            4.385479,51.915105,0.000000
+            4.388801,51.915807,0.000000
+            4.392464,51.917365,0.000000
+            4.394398,51.916030,0.000000
+            4.395488,51.914381,0.000000
+            4.397473,51.913259,0.000000
+            4.399094,51.912364,0.000000
+            4.400467,51.911613,0.000000
+            4.403351,51.909790,0.000000
+            4.400627,51.908015,0.000000
+            4.399220,51.907344,0.000000
+            4.396406,51.906570,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

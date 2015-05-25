@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05121300 Hoog Dalem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.018220,51.833081,0.000000
+            5.015690,51.827905,0.000000
+            5.013193,51.828694,0.000000
+            5.007763,51.830385,0.000000
+            5.004664,51.830775,0.000000
+            5.004159,51.837999,0.000000
+            5.016555,51.838810,0.000000
+            5.020298,51.837896,0.000000
+            5.019175,51.833136,0.000000
+            5.018220,51.833081,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK049801 Wijk 01 Westwoud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.143503,52.696134,0.000000
+            5.155966,52.684109,0.000000
+            5.162079,52.686598,0.000000
+            5.170831,52.672854,0.000000
+            5.147908,52.664196,0.000000
+            5.134697,52.677164,0.000000
+            5.132642,52.679110,0.000000
+            5.095987,52.670693,0.000000
+            5.095921,52.670757,0.000000
+            5.098872,52.671663,0.000000
+            5.096155,52.674933,0.000000
+            5.095891,52.675251,0.000000
+            5.091431,52.678835,0.000000
+            5.124968,52.691348,0.000000
+            5.125369,52.691498,0.000000
+            5.143503,52.696134,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

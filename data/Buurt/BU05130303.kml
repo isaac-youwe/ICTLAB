@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130303 Bloemendaalseweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.708582,52.023802,0.000000
+            4.705154,52.022782,0.000000
+            4.697819,52.027941,0.000000
+            4.695527,52.029515,0.000000
+            4.690791,52.032770,0.000000
+            4.694260,52.034226,0.000000
+            4.704208,52.027068,0.000000
+            4.707655,52.024315,0.000000
+            4.708582,52.023802,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

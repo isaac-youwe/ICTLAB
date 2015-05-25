@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07160200 Scherpenisse</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.108505,51.545611,0.000000
+            4.111614,51.542132,0.000000
+            4.104603,51.541051,0.000000
+            4.103575,51.544261,0.000000
+            4.098514,51.543075,0.000000
+            4.095150,51.547079,0.000000
+            4.104582,51.550029,0.000000
+            4.110007,51.549882,0.000000
+            4.114715,51.547487,0.000000
+            4.109702,51.547203,0.000000
+            4.108505,51.545611,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

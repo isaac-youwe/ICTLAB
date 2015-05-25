@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370500 Rokkeveen-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.471276,52.048381,0.000000
+            4.475218,52.047942,0.000000
+            4.482968,52.047639,0.000000
+            4.491234,52.047018,0.000000
+            4.487131,52.043678,0.000000
+            4.481230,52.041157,0.000000
+            4.475489,52.039476,0.000000
+            4.474401,52.041264,0.000000
+            4.469644,52.040034,0.000000
+            4.458659,52.038249,0.000000
+            4.458331,52.038347,0.000000
+            4.457423,52.039763,0.000000
+            4.463842,52.041420,0.000000
+            4.460943,52.041972,0.000000
+            4.458493,52.044652,0.000000
+            4.459751,52.048103,0.000000
+            4.466319,52.047912,0.000000
+            4.466777,52.048567,0.000000
+            4.471276,52.048381,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK047922 Wijk 22 Zaandam West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.824815,52.440209,0.000000
+            4.818084,52.439031,0.000000
+            4.815916,52.439380,0.000000
+            4.813953,52.438238,0.000000
+            4.812823,52.438173,0.000000
+            4.808418,52.444854,0.000000
+            4.807325,52.449383,0.000000
+            4.805818,52.455320,0.000000
+            4.812288,52.456004,0.000000
+            4.813135,52.454555,0.000000
+            4.819039,52.451853,0.000000
+            4.820694,52.450805,0.000000
+            4.821153,52.445365,0.000000
+            4.824815,52.440209,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

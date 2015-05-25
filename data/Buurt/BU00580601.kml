@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580601 Waaxens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.929082,53.359605,0.000000
+            5.926731,53.358832,0.000000
+            5.922349,53.353974,0.000000
+            5.923057,53.351807,0.000000
+            5.919059,53.351816,0.000000
+            5.916780,53.348719,0.000000
+            5.913980,53.347595,0.000000
+            5.905518,53.356782,0.000000
+            5.912999,53.361128,0.000000
+            5.915926,53.359183,0.000000
+            5.927004,53.366444,0.000000
+            5.929840,53.365209,0.000000
+            5.926777,53.363200,0.000000
+            5.929504,53.361899,0.000000
+            5.929082,53.359605,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

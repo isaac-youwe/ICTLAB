@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01800307 Verspreide huizen Berger Achthoven en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.203815,52.637177,0.000000
+            6.205214,52.631607,0.000000
+            6.211902,52.634759,0.000000
+            6.222553,52.626909,0.000000
+            6.231198,52.630526,0.000000
+            6.234237,52.631833,0.000000
+            6.239619,52.627750,0.000000
+            6.241086,52.623753,0.000000
+            6.242224,52.615463,0.000000
+            6.239652,52.610956,0.000000
+            6.214082,52.618118,0.000000
+            6.208982,52.622214,0.000000
+            6.206471,52.621983,0.000000
+            6.196017,52.629835,0.000000
+            6.191459,52.633248,0.000000
+            6.197224,52.635983,0.000000
+            6.198785,52.634659,0.000000
+            6.203815,52.637177,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

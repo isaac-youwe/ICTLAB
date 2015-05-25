@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640101 Tichelwerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.796168,52.268023,0.000000
+            6.791659,52.266897,0.000000
+            6.790226,52.269272,0.000000
+            6.792185,52.271037,0.000000
+            6.792936,52.275578,0.000000
+            6.801906,52.274424,0.000000
+            6.801416,52.269255,0.000000
+            6.799818,52.268880,0.000000
+            6.796168,52.268023,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

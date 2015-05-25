@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01400001 Easterein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.623553,53.095078,0.000000
+            5.617848,53.094249,0.000000
+            5.612914,53.095082,0.000000
+            5.614228,53.101654,0.000000
+            5.614531,53.102043,0.000000
+            5.617994,53.102362,0.000000
+            5.621811,53.103759,0.000000
+            5.623814,53.102360,0.000000
+            5.624604,53.100572,0.000000
+            5.623553,53.095078,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

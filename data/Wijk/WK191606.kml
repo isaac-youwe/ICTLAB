@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK191606 Wijk 06 Damsigt en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.392890,52.082044,0.000000
+            4.389565,52.080741,0.000000
+            4.382301,52.086315,0.000000
+            4.387962,52.088433,0.000000
+            4.394075,52.091552,0.000000
+            4.400172,52.087195,0.000000
+            4.395821,52.084156,0.000000
+            4.394100,52.084117,0.000000
+            4.392890,52.082044,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020103 Villaparken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.158635,52.232470,0.000000
+            5.158259,52.232149,0.000000
+            5.145584,52.232541,0.000000
+            5.141260,52.236780,0.000000
+            5.142675,52.239415,0.000000
+            5.142674,52.239516,0.000000
+            5.145275,52.239750,0.000000
+            5.145382,52.241041,0.000000
+            5.154630,52.242367,0.000000
+            5.160969,52.241663,0.000000
+            5.161529,52.236814,0.000000
+            5.158635,52.232470,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

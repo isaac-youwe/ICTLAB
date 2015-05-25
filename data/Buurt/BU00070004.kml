@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00070004 Vriescheloo-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.116726,53.076442,0.000000
+            7.119256,53.074360,0.000000
+            7.122099,53.074715,0.000000
+            7.118804,53.069836,0.000000
+            7.118717,53.065726,0.000000
+            7.104943,53.065717,0.000000
+            7.103817,53.067787,0.000000
+            7.113088,53.073055,0.000000
+            7.115524,53.076127,0.000000
+            7.116726,53.076442,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

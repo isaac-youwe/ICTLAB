@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00090101 Winneweer (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.748696,53.309896,0.000000
+            6.746745,53.308771,0.000000
+            6.741170,53.309485,0.000000
+            6.740270,53.310687,0.000000
+            6.740720,53.311888,0.000000
+            6.740895,53.312355,0.000000
+            6.742641,53.312661,0.000000
+            6.745248,53.312318,0.000000
+            6.746720,53.311403,0.000000
+            6.749692,53.310470,0.000000
+            6.748696,53.309896,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

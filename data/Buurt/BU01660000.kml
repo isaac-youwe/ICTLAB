@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01660000 Binnenstad Kampen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.926299,52.552180,0.000000
+            5.923959,52.551595,0.000000
+            5.922059,52.552442,0.000000
+            5.918900,52.552533,0.000000
+            5.911818,52.557130,0.000000
+            5.909378,52.560571,0.000000
+            5.910451,52.565388,0.000000
+            5.915843,52.562849,0.000000
+            5.920504,52.558749,0.000000
+            5.926299,52.552180,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

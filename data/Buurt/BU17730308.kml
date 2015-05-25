@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17730308 Verspreide huizen Elshof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.229064,52.389483,0.000000
+            6.218696,52.385062,0.000000
+            6.217244,52.385971,0.000000
+            6.204040,52.386962,0.000000
+            6.202538,52.385174,0.000000
+            6.201102,52.383466,0.000000
+            6.188349,52.385182,0.000000
+            6.173185,52.385562,0.000000
+            6.181445,52.403344,0.000000
+            6.188138,52.411238,0.000000
+            6.222456,52.407998,0.000000
+            6.232156,52.397551,0.000000
+            6.232105,52.394855,0.000000
+            6.230567,52.391270,0.000000
+            6.230472,52.391157,0.000000
+            6.229064,52.389483,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

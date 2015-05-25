@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09954420 Waterwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.502397,52.486522,0.000000
+            5.497296,52.484336,0.000000
+            5.491757,52.488027,0.000000
+            5.485269,52.492026,0.000000
+            5.481387,52.493151,0.000000
+            5.481863,52.497548,0.000000
+            5.489545,52.497919,0.000000
+            5.498334,52.499826,0.000000
+            5.497799,52.491220,0.000000
+            5.502397,52.486522,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

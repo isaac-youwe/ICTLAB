@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03810306 Franse Kamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.157146,52.264616,0.000000
+            5.161231,52.263983,0.000000
+            5.163128,52.265254,0.000000
+            5.166019,52.257443,0.000000
+            5.166013,52.257439,0.000000
+            5.161628,52.255633,0.000000
+            5.141096,52.260086,0.000000
+            5.138166,52.260080,0.000000
+            5.138166,52.260133,0.000000
+            5.138151,52.262777,0.000000
+            5.141071,52.264580,0.000000
+            5.143816,52.270550,0.000000
+            5.146181,52.270454,0.000000
+            5.147903,52.268721,0.000000
+            5.151268,52.267418,0.000000
+            5.152104,52.266025,0.000000
+            5.156377,52.265391,0.000000
+            5.157146,52.264616,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

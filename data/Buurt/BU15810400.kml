@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15810400 Maarn waaronder Klein Amsterdam</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.377149,52.070821,0.000000
+            5.379621,52.068126,0.000000
+            5.385770,52.067038,0.000000
+            5.389198,52.061843,0.000000
+            5.383674,52.057610,0.000000
+            5.360198,52.060133,0.000000
+            5.351176,52.062128,0.000000
+            5.350435,52.065004,0.000000
+            5.351733,52.067875,0.000000
+            5.357980,52.068194,0.000000
+            5.358003,52.069170,0.000000
+            5.368273,52.069180,0.000000
+            5.367968,52.069883,0.000000
+            5.370530,52.070354,0.000000
+            5.371533,52.068934,0.000000
+            5.377149,52.070821,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510301 Scharsterbrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.784541,52.943725,0.000000
+            5.779908,52.941068,0.000000
+            5.777042,52.940646,0.000000
+            5.775969,52.941488,0.000000
+            5.767921,52.937453,0.000000
+            5.763039,52.940250,0.000000
+            5.778117,52.947765,0.000000
+            5.784678,52.949974,0.000000
+            5.787835,52.947285,0.000000
+            5.783572,52.944990,0.000000
+            5.783881,52.944152,0.000000
+            5.784541,52.943725,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

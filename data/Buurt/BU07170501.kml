@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07170501 Randduin</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.544816,51.569680,0.000000
+            3.545110,51.567424,0.000000
+            3.540019,51.568300,0.000000
+            3.538031,51.569919,0.000000
+            3.534109,51.571893,0.000000
+            3.540879,51.574077,0.000000
+            3.539395,51.576830,0.000000
+            3.546268,51.578456,0.000000
+            3.553353,51.570567,0.000000
+            3.544816,51.569680,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

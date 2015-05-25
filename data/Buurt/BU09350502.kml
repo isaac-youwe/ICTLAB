@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350502 Itteren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.713396,50.891665,0.000000
+            5.709262,50.886343,0.000000
+            5.692745,50.893490,0.000000
+            5.692817,50.893530,0.000000
+            5.695696,50.898916,0.000000
+            5.695750,50.907007,0.000000
+            5.698612,50.909696,0.000000
+            5.707156,50.911471,0.000000
+            5.709994,50.910564,0.000000
+            5.715669,50.908750,0.000000
+            5.712806,50.906061,0.000000
+            5.712787,50.903364,0.000000
+            5.719864,50.898849,0.000000
+            5.720106,50.898461,0.000000
+            5.713396,50.891665,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

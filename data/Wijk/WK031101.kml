@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK031101 Wijk 01 Plassengebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.042076,52.183432,0.000000
+            5.046600,52.165467,0.000000
+            5.027023,52.161102,0.000000
+            5.021279,52.167712,0.000000
+            5.020239,52.167636,0.000000
+            5.017767,52.169842,0.000000
+            5.015987,52.173010,0.000000
+            5.015833,52.185146,0.000000
+            5.033294,52.184305,0.000000
+            5.041358,52.183504,0.000000
+            5.042076,52.183432,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

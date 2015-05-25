@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00560102 Visvliet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.256364,53.267920,0.000000
+            6.255793,53.266258,0.000000
+            6.251287,53.263665,0.000000
+            6.248403,53.263422,0.000000
+            6.242613,53.266028,0.000000
+            6.243118,53.266616,0.000000
+            6.246151,53.268392,0.000000
+            6.250630,53.267461,0.000000
+            6.255145,53.268327,0.000000
+            6.255151,53.268618,0.000000
+            6.256364,53.267920,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

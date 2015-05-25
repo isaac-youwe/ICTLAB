@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04830101 Nieuwe Wetering</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.619283,52.205291,0.000000
+            4.613690,52.200531,0.000000
+            4.610650,52.200874,0.000000
+            4.617213,52.209524,0.000000
+            4.618394,52.214693,0.000000
+            4.618894,52.214696,0.000000
+            4.622410,52.215152,0.000000
+            4.621313,52.209166,0.000000
+            4.619283,52.205291,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

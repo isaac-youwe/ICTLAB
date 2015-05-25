@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15070500 Melderslo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.085528,51.454461,0.000000
+            6.080337,51.452922,0.000000
+            6.078384,51.454887,0.000000
+            6.082761,51.456641,0.000000
+            6.081017,51.458948,0.000000
+            6.081983,51.460418,0.000000
+            6.081206,51.463146,0.000000
+            6.086357,51.463888,0.000000
+            6.089365,51.467327,0.000000
+            6.091788,51.468348,0.000000
+            6.095995,51.469079,0.000000
+            6.098059,51.468301,0.000000
+            6.098580,51.466623,0.000000
+            6.094806,51.464936,0.000000
+            6.089784,51.460860,0.000000
+            6.088427,51.457520,0.000000
+            6.085528,51.454461,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

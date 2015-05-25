@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02740107 Verspreide huizen De Bilderberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.817589,51.988036,0.000000
+            5.813045,51.987894,0.000000
+            5.813321,51.989243,0.000000
+            5.807716,51.993720,0.000000
+            5.814116,51.998418,0.000000
+            5.819086,52.000806,0.000000
+            5.819765,52.000664,0.000000
+            5.830930,51.998897,0.000000
+            5.822819,51.992250,0.000000
+            5.819835,51.991581,0.000000
+            5.817589,51.988036,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

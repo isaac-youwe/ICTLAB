@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411601 Ossenkoppelerhoek-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.661625,52.340559,0.000000
+            6.657749,52.340273,0.000000
+            6.657655,52.344161,0.000000
+            6.658339,52.345836,0.000000
+            6.660757,52.346251,0.000000
+            6.662991,52.344292,0.000000
+            6.661477,52.343913,0.000000
+            6.661625,52.340559,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

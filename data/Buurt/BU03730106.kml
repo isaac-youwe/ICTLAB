@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03730106 Oudtburgh</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.713294,52.677852,0.000000
+            4.713699,52.675900,0.000000
+            4.704892,52.673361,0.000000
+            4.703601,52.674684,0.000000
+            4.706432,52.675697,0.000000
+            4.705053,52.677556,0.000000
+            4.701825,52.676508,0.000000
+            4.701196,52.677150,0.000000
+            4.706539,52.679325,0.000000
+            4.710365,52.680854,0.000000
+            4.713294,52.677852,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

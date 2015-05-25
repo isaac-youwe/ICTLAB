@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15090002 Ulft-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.383091,51.897280,0.000000
+            6.379741,51.894391,0.000000
+            6.376573,51.894554,0.000000
+            6.376197,51.895622,0.000000
+            6.370082,51.899498,0.000000
+            6.363602,51.902168,0.000000
+            6.366672,51.905799,0.000000
+            6.367469,51.905682,0.000000
+            6.374741,51.902988,0.000000
+            6.383091,51.897280,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

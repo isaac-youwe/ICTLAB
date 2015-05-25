@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550200 Besterd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.093167,51.561740,0.000000
+            5.091908,51.559862,0.000000
+            5.091517,51.559884,0.000000
+            5.079965,51.560977,0.000000
+            5.081520,51.567050,0.000000
+            5.086685,51.568274,0.000000
+            5.088166,51.567858,0.000000
+            5.091573,51.561786,0.000000
+            5.093167,51.561740,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

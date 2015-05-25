@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK039202 Wijk 02 Spoorbaan Leiden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.631216,52.385418,0.000000
+            4.628840,52.382384,0.000000
+            4.624276,52.377547,0.000000
+            4.623769,52.377010,0.000000
+            4.610439,52.362961,0.000000
+            4.608447,52.362948,0.000000
+            4.606049,52.362933,0.000000
+            4.607438,52.367436,0.000000
+            4.607126,52.367809,0.000000
+            4.610697,52.376172,0.000000
+            4.614355,52.381082,0.000000
+            4.614363,52.384618,0.000000
+            4.619386,52.383738,0.000000
+            4.624153,52.386978,0.000000
+            4.629518,52.388424,0.000000
+            4.631249,52.388479,0.000000
+            4.631216,52.385418,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000803 Loolaan-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.956566,52.220880,0.000000
+            5.955533,52.219813,0.000000
+            5.954688,52.219992,0.000000
+            5.954492,52.221158,0.000000
+            5.946015,52.227359,0.000000
+            5.945550,52.227437,0.000000
+            5.949399,52.229469,0.000000
+            5.950965,52.230185,0.000000
+            5.951643,52.229229,0.000000
+            5.957483,52.227275,0.000000
+            5.955937,52.223031,0.000000
+            5.956566,52.220880,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

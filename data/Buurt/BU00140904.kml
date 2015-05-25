@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140904 Bovenstreek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.611934,53.236547,0.000000
+            6.603466,53.235018,0.000000
+            6.593740,53.236637,0.000000
+            6.589426,53.239356,0.000000
+            6.593632,53.240947,0.000000
+            6.592931,53.241557,0.000000
+            6.598331,53.244108,0.000000
+            6.603957,53.246124,0.000000
+            6.609343,53.246595,0.000000
+            6.614396,53.240404,0.000000
+            6.611934,53.236547,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

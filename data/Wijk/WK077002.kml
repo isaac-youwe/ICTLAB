@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK077002 Wijk 02 Steensel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.374271,51.388373,0.000000
+            5.388639,51.376687,0.000000
+            5.378585,51.369495,0.000000
+            5.375713,51.368595,0.000000
+            5.374276,51.369494,0.000000
+            5.371404,51.369494,0.000000
+            5.355610,51.362299,0.000000
+            5.352933,51.361460,0.000000
+            5.342505,51.369631,0.000000
+            5.335785,51.376591,0.000000
+            5.333633,51.381707,0.000000
+            5.354898,51.388428,0.000000
+            5.355377,51.381355,0.000000
+            5.367275,51.385471,0.000000
+            5.371904,51.386980,0.000000
+            5.374174,51.388677,0.000000
+            5.374271,51.388373,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

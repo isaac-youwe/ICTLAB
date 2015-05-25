@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00720003 Plan-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.412730,53.170904,0.000000
+            5.422393,53.170420,0.000000
+            5.430480,53.170755,0.000000
+            5.418745,53.159750,0.000000
+            5.414108,53.154893,0.000000
+            5.413204,53.151938,0.000000
+            5.411122,53.151939,0.000000
+            5.415614,53.162722,0.000000
+            5.415619,53.169012,0.000000
+            5.411132,53.169912,0.000000
+            5.409187,53.171082,0.000000
+            5.412730,53.170904,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

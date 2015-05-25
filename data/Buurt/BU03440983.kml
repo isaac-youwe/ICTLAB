@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440983 Bedrijventerrein De Wetering</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.061585,52.105728,0.000000
+            5.065941,52.101289,0.000000
+            5.060732,52.101614,0.000000
+            5.056096,52.101880,0.000000
+            5.053954,52.103948,0.000000
+            5.035365,52.112847,0.000000
+            5.030788,52.115039,0.000000
+            5.032309,52.116671,0.000000
+            5.038765,52.115847,0.000000
+            5.057281,52.108290,0.000000
+            5.061585,52.105728,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

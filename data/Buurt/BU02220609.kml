@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220609 Buitengebied De Huet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.245467,51.969658,0.000000
+            6.236831,51.968930,0.000000
+            6.234460,51.974061,0.000000
+            6.230083,51.976130,0.000000
+            6.231567,51.980450,0.000000
+            6.222900,51.984108,0.000000
+            6.224389,51.985895,0.000000
+            6.227334,51.987672,0.000000
+            6.231719,51.988540,0.000000
+            6.231744,51.988524,0.000000
+            6.234597,51.986721,0.000000
+            6.237423,51.982206,0.000000
+            6.241756,51.980377,0.000000
+            6.248647,51.976020,0.000000
+            6.248899,51.975433,0.000000
+            6.254620,51.974146,0.000000
+            6.255231,51.972867,0.000000
+            6.252091,51.970077,0.000000
+            6.245467,51.969658,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

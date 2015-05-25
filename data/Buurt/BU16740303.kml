@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16740303 Scherpdeel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.445533,51.542288,0.000000
+            4.448401,51.536575,0.000000
+            4.450736,51.537344,0.000000
+            4.452151,51.533893,0.000000
+            4.449816,51.534267,0.000000
+            4.446914,51.532944,0.000000
+            4.444654,51.533588,0.000000
+            4.440016,51.541089,0.000000
+            4.445533,51.542288,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK040511 Wijk 11 Venenlaan-kwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.080365,52.643291,0.000000
+            5.082075,52.641736,0.000000
+            5.081335,52.641958,0.000000
+            5.078380,52.641951,0.000000
+            5.075789,52.640361,0.000000
+            5.068916,52.641229,0.000000
+            5.063335,52.643395,0.000000
+            5.058789,52.644484,0.000000
+            5.058683,52.644791,0.000000
+            5.067997,52.646354,0.000000
+            5.068421,52.646451,0.000000
+            5.075417,52.648376,0.000000
+            5.077727,52.649429,0.000000
+            5.081753,52.646099,0.000000
+            5.084087,52.644648,0.000000
+            5.080365,52.643291,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

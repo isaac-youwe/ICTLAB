@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK091730 Wijk 30 Zeswegen-Nieuw Husken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.967301,50.896770,0.000000
+            5.972057,50.893682,0.000000
+            5.969839,50.893498,0.000000
+            5.967334,50.894274,0.000000
+            5.966343,50.893137,0.000000
+            5.972955,50.891369,0.000000
+            5.972588,50.890528,0.000000
+            5.960419,50.892737,0.000000
+            5.958015,50.892114,0.000000
+            5.950320,50.895223,0.000000
+            5.954400,50.896348,0.000000
+            5.959450,50.895477,0.000000
+            5.957674,50.896627,0.000000
+            5.954910,50.897547,0.000000
+            5.947852,50.902281,0.000000
+            5.950543,50.905448,0.000000
+            5.958087,50.903383,0.000000
+            5.963334,50.901462,0.000000
+            5.967301,50.896770,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

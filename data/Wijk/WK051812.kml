@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051812 Wijk 12 Bomen- en Bloemenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.259710,52.072401,0.000000
+            4.250680,52.069022,0.000000
+            4.248921,52.070767,0.000000
+            4.252251,52.072885,0.000000
+            4.252555,52.074138,0.000000
+            4.250627,52.076456,0.000000
+            4.253950,52.077819,0.000000
+            4.265347,52.082487,0.000000
+            4.272315,52.085336,0.000000
+            4.273399,52.082526,0.000000
+            4.276039,52.079919,0.000000
+            4.277035,52.078664,0.000000
+            4.268460,52.075587,0.000000
+            4.262002,52.073248,0.000000
+            4.259710,52.072401,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

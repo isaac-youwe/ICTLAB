@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05790024 Poelgeest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.498034,52.184183,0.000000
+            4.495286,52.177985,0.000000
+            4.495235,52.177869,0.000000
+            4.494926,52.177275,0.000000
+            4.492819,52.175154,0.000000
+            4.492365,52.175151,0.000000
+            4.487480,52.176606,0.000000
+            4.486487,52.176902,0.000000
+            4.487439,52.177371,0.000000
+            4.487289,52.180212,0.000000
+            4.489382,52.181690,0.000000
+            4.489314,52.181420,0.000000
+            4.490794,52.180532,0.000000
+            4.493683,52.182352,0.000000
+            4.495109,52.184161,0.000000
+            4.498034,52.184183,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

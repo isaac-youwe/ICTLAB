@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05050805 Zeehavenlaan en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.653667,51.797314,0.000000
+            4.655707,51.795665,0.000000
+            4.656870,51.794906,0.000000
+            4.655702,51.794270,0.000000
+            4.648869,51.794550,0.000000
+            4.648896,51.796605,0.000000
+            4.651157,51.796443,0.000000
+            4.653667,51.797314,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

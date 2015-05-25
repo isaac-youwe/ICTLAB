@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00820107 Verspreide huizen Echtenerbrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.828661,52.871478,0.000000
+            5.847257,52.865263,0.000000
+            5.851666,52.863072,0.000000
+            5.843038,52.854493,0.000000
+            5.840103,52.845893,0.000000
+            5.839975,52.845517,0.000000
+            5.839692,52.845124,0.000000
+            5.829077,52.847147,0.000000
+            5.793988,52.851732,0.000000
+            5.793659,52.853531,0.000000
+            5.792689,52.858836,0.000000
+            5.799900,52.859253,0.000000
+            5.800634,52.862272,0.000000
+            5.807027,52.861845,0.000000
+            5.807321,52.866922,0.000000
+            5.817961,52.866455,0.000000
+            5.818371,52.870941,0.000000
+            5.821151,52.869503,0.000000
+            5.824183,52.869266,0.000000
+            5.828661,52.871478,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

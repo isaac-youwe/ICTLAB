@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500905 Okkenbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.328300,52.288496,0.000000
+            6.317250,52.288371,0.000000
+            6.311725,52.290265,0.000000
+            6.310662,52.293684,0.000000
+            6.305607,52.294017,0.000000
+            6.306165,52.300615,0.000000
+            6.306239,52.300816,0.000000
+            6.306565,52.300813,0.000000
+            6.327110,52.301550,0.000000
+            6.328317,52.289963,0.000000
+            6.328329,52.289855,0.000000
+            6.328300,52.288496,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

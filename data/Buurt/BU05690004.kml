@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05690004 Achttienhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.862982,52.153822,0.000000
+            4.872698,52.138593,0.000000
+            4.865656,52.137839,0.000000
+            4.855441,52.136894,0.000000
+            4.855221,52.136938,0.000000
+            4.842261,52.139531,0.000000
+            4.837867,52.140409,0.000000
+            4.833578,52.143872,0.000000
+            4.833440,52.143984,0.000000
+            4.831979,52.143977,0.000000
+            4.831897,52.143963,0.000000
+            4.830191,52.149169,0.000000
+            4.832164,52.150693,0.000000
+            4.839401,52.150803,0.000000
+            4.854139,52.153708,0.000000
+            4.856310,52.156983,0.000000
+            4.856924,52.154951,0.000000
+            4.862982,52.153822,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

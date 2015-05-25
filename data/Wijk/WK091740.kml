@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK091740 Wijk 40 Heerlerbaan-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.007947,50.860803,0.000000
+            6.007564,50.860612,0.000000
+            5.998877,50.868138,0.000000
+            6.006487,50.871631,0.000000
+            6.012673,50.868172,0.000000
+            6.013313,50.866324,0.000000
+            6.015368,50.866079,0.000000
+            6.007947,50.860803,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

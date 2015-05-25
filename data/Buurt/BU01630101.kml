@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01630101 Hellendoorn-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.453552,52.387257,0.000000
+            6.451367,52.386226,0.000000
+            6.449693,52.386242,0.000000
+            6.446045,52.389657,0.000000
+            6.449788,52.392303,0.000000
+            6.453591,52.393170,0.000000
+            6.454203,52.392492,0.000000
+            6.451867,52.391012,0.000000
+            6.451779,52.389415,0.000000
+            6.453552,52.387257,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

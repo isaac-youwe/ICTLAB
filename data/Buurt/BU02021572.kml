@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02021572 Klingelbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.877379,51.986779,0.000000
+            5.876982,51.983351,0.000000
+            5.885710,51.983987,0.000000
+            5.885748,51.983113,0.000000
+            5.877255,51.980582,0.000000
+            5.869177,51.973728,0.000000
+            5.870468,51.975296,0.000000
+            5.868006,51.979171,0.000000
+            5.867605,51.979803,0.000000
+            5.864741,51.984309,0.000000
+            5.864742,51.984381,0.000000
+            5.869605,51.986145,0.000000
+            5.877379,51.986779,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

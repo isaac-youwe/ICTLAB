@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530300 Tubantia-Toekomst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.869382,52.230669,0.000000
+            6.880703,52.226321,0.000000
+            6.879339,52.225515,0.000000
+            6.878731,52.221384,0.000000
+            6.874970,52.221019,0.000000
+            6.867513,52.221398,0.000000
+            6.863190,52.222631,0.000000
+            6.858792,52.225049,0.000000
+            6.861332,52.228704,0.000000
+            6.863250,52.230277,0.000000
+            6.864784,52.230070,0.000000
+            6.866468,52.231744,0.000000
+            6.869382,52.230669,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

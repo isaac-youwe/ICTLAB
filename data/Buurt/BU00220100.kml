@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00220100 Bebouwde kom Zevenhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.353631,53.125619,0.000000
+            6.349363,53.115182,0.000000
+            6.344684,53.115568,0.000000
+            6.343324,53.123308,0.000000
+            6.341504,53.123510,0.000000
+            6.341587,53.125242,0.000000
+            6.345990,53.130594,0.000000
+            6.352741,53.130218,0.000000
+            6.356290,53.129349,0.000000
+            6.353631,53.125619,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

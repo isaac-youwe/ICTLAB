@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04620009 Verspreide huizen Waard-Nieuwlandpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.022676,52.923914,0.000000
+            5.030500,52.922565,0.000000
+            5.033674,52.922980,0.000000
+            5.034720,52.922167,0.000000
+            5.031835,52.915950,0.000000
+            5.028891,52.912346,0.000000
+            5.017051,52.906019,0.000000
+            5.005473,52.902473,0.000000
+            4.990367,52.897844,0.000000
+            4.983012,52.897819,0.000000
+            4.987758,52.904180,0.000000
+            4.988157,52.909368,0.000000
+            4.991631,52.911534,0.000000
+            5.007480,52.918314,0.000000
+            5.010483,52.921563,0.000000
+            5.014720,52.923024,0.000000
+            5.022676,52.923914,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

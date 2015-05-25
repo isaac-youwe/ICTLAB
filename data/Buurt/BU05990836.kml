@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990836 Nieuw-Crooswijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.499280,51.937049,0.000000
+            4.495966,51.933786,0.000000
+            4.489757,51.934695,0.000000
+            4.487500,51.935877,0.000000
+            4.485688,51.938538,0.000000
+            4.486859,51.941304,0.000000
+            4.485788,51.943053,0.000000
+            4.526041,51.948385,0.000000
+            4.512998,51.946071,0.000000
+            4.502944,51.942891,0.000000
+            4.496280,51.939479,0.000000
+            4.499280,51.937049,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

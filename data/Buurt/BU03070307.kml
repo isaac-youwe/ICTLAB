@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03070307 Piet Mondriaanlaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.382166,52.157497,0.000000
+            5.378426,52.154564,0.000000
+            5.375852,52.153681,0.000000
+            5.369931,52.153207,0.000000
+            5.369221,52.155834,0.000000
+            5.375051,52.155370,0.000000
+            5.378801,52.155659,0.000000
+            5.380034,52.158561,0.000000
+            5.382166,52.157497,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

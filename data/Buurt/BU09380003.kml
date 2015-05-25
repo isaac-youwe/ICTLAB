@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09380003 Raar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.796566,50.891411,0.000000
+            5.799353,50.885108,0.000000
+            5.797908,50.882416,0.000000
+            5.789381,50.882446,0.000000
+            5.778020,50.883384,0.000000
+            5.773776,50.878964,0.000000
+            5.769024,50.883065,0.000000
+            5.770009,50.886027,0.000000
+            5.761466,50.890687,0.000000
+            5.765616,50.892598,0.000000
+            5.776459,50.890755,0.000000
+            5.785892,50.890809,0.000000
+            5.789236,50.891427,0.000000
+            5.796594,50.894561,0.000000
+            5.796566,50.891411,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

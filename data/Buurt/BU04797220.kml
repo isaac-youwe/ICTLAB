@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04797220 Langeheit</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.772592,52.493147,0.000000
+            4.770918,52.485405,0.000000
+            4.761838,52.489945,0.000000
+            4.760381,52.489217,0.000000
+            4.756979,52.491150,0.000000
+            4.757502,52.491726,0.000000
+            4.755917,52.493206,0.000000
+            4.757940,52.494504,0.000000
+            4.760711,52.494249,0.000000
+            4.772592,52.493147,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

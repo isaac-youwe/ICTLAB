@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000501 Marina</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.786748,52.943580,0.000000
+            4.777596,52.943172,0.000000
+            4.775301,52.946532,0.000000
+            4.776432,52.948824,0.000000
+            4.777919,52.949150,0.000000
+            4.782258,52.947038,0.000000
+            4.786541,52.946212,0.000000
+            4.786748,52.943580,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

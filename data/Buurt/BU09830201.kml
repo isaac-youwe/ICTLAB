@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830201 Boekend</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.126127,51.368395,0.000000
+            6.124221,51.364679,0.000000
+            6.116194,51.365808,0.000000
+            6.095241,51.365512,0.000000
+            6.095223,51.365546,0.000000
+            6.091167,51.371633,0.000000
+            6.090573,51.385842,0.000000
+            6.091234,51.386247,0.000000
+            6.089899,51.388835,0.000000
+            6.097021,51.390762,0.000000
+            6.116556,51.390446,0.000000
+            6.124466,51.386524,0.000000
+            6.122486,51.384510,0.000000
+            6.122150,51.382579,0.000000
+            6.125998,51.371005,0.000000
+            6.126127,51.368395,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

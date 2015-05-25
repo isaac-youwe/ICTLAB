@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320500 Harmelen waaronder Haanwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.965285,52.096171,0.000000
+            4.963314,52.094542,0.000000
+            4.962817,52.092453,0.000000
+            4.970332,52.089485,0.000000
+            4.970774,52.088033,0.000000
+            4.967487,52.083035,0.000000
+            4.952268,52.084074,0.000000
+            4.950559,52.086426,0.000000
+            4.954239,52.089537,0.000000
+            4.950142,52.092066,0.000000
+            4.951965,52.095908,0.000000
+            4.959745,52.095418,0.000000
+            4.963558,52.097235,0.000000
+            4.965285,52.096171,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

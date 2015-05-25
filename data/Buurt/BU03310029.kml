@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03310029 Polsbroek-Noordzijdseweg-Zuidzijdseweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.910193,51.984756,0.000000
+            4.868877,51.969971,0.000000
+            4.860255,51.967979,0.000000
+            4.850176,51.974114,0.000000
+            4.854661,51.976700,0.000000
+            4.852185,51.980346,0.000000
+            4.849340,51.978931,0.000000
+            4.849858,51.978348,0.000000
+            4.844279,51.976352,0.000000
+            4.833938,51.985775,0.000000
+            4.835394,51.985782,0.000000
+            4.854257,51.991263,0.000000
+            4.891899,52.004887,0.000000
+            4.891966,52.004911,0.000000
+            4.896219,52.006687,0.000000
+            4.910193,51.984756,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

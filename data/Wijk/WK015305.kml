@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK015305 Wijk 05 Ribbelt - Stokhorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.917642,52.240740,0.000000
+            6.921922,52.239061,0.000000
+            6.929073,52.239836,0.000000
+            6.928649,52.233975,0.000000
+            6.927302,52.232305,0.000000
+            6.924988,52.230816,0.000000
+            6.926999,52.228374,0.000000
+            6.928952,52.226002,0.000000
+            6.928838,52.223765,0.000000
+            6.916767,52.224897,0.000000
+            6.909782,52.224504,0.000000
+            6.908958,52.227736,0.000000
+            6.904135,52.228680,0.000000
+            6.900480,52.227751,0.000000
+            6.901150,52.229510,0.000000
+            6.906663,52.233577,0.000000
+            6.917167,52.240867,0.000000
+            6.917642,52.240740,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

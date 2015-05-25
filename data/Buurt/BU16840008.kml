@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16840008 Verspreide huizen ten westen van Cuijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.866517,51.728208,0.000000
+            5.866653,51.726355,0.000000
+            5.864225,51.722661,0.000000
+            5.857956,51.726499,0.000000
+            5.854889,51.727469,0.000000
+            5.848620,51.726740,0.000000
+            5.847806,51.725418,0.000000
+            5.843926,51.726185,0.000000
+            5.841972,51.728628,0.000000
+            5.851380,51.730881,0.000000
+            5.864328,51.732351,0.000000
+            5.863976,51.730408,0.000000
+            5.872760,51.729340,0.000000
+            5.873178,51.728633,0.000000
+            5.866517,51.728208,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

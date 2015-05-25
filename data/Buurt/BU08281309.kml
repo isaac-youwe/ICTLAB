@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08281309 Verspreide huizen De Waarden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.552866,51.806547,0.000000
+            5.548749,51.806311,0.000000
+            5.536130,51.816184,0.000000
+            5.539502,51.816180,0.000000
+            5.545307,51.817071,0.000000
+            5.548214,51.818865,0.000000
+            5.550882,51.822971,0.000000
+            5.553795,51.820807,0.000000
+            5.556821,51.815613,0.000000
+            5.558770,51.810611,0.000000
+            5.557889,51.808691,0.000000
+            5.552866,51.806547,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00590000 Buitenpost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.134972,53.262808,0.000000
+            6.144957,53.259268,0.000000
+            6.146481,53.259889,0.000000
+            6.148928,53.258925,0.000000
+            6.150596,53.257077,0.000000
+            6.154567,53.254335,0.000000
+            6.158961,53.249034,0.000000
+            6.160577,53.245096,0.000000
+            6.155737,53.243447,0.000000
+            6.153261,53.245966,0.000000
+            6.146901,53.244565,0.000000
+            6.147259,53.243128,0.000000
+            6.141468,53.243222,0.000000
+            6.136735,53.244945,0.000000
+            6.133484,53.247525,0.000000
+            6.132919,53.248965,0.000000
+            6.137735,53.253932,0.000000
+            6.132500,53.258928,0.000000
+            6.132426,53.261835,0.000000
+            6.134972,53.262808,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

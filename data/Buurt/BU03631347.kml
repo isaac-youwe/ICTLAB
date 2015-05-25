@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631347 Museumkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.886422,52.352242,0.000000
+            4.886236,52.348486,0.000000
+            4.883666,52.350381,0.000000
+            4.873718,52.352185,0.000000
+            4.870542,52.352072,0.000000
+            4.865482,52.358800,0.000000
+            4.881986,52.362073,0.000000
+            4.887290,52.360246,0.000000
+            4.886748,52.354655,0.000000
+            4.881654,52.353698,0.000000
+            4.883276,52.352572,0.000000
+            4.886422,52.352242,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

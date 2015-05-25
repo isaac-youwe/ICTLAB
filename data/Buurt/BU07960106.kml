@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960106 Vughterpoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.291985,51.674418,0.000000
+            5.291880,51.674099,0.000000
+            5.291772,51.674206,0.000000
+            5.289896,51.675563,0.000000
+            5.284621,51.679379,0.000000
+            5.288561,51.683442,0.000000
+            5.292999,51.682349,0.000000
+            5.294892,51.682129,0.000000
+            5.295160,51.680085,0.000000
+            5.293816,51.678070,0.000000
+            5.294958,51.675627,0.000000
+            5.291985,51.674418,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

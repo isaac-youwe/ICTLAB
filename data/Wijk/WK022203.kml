@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK022203 Wijk 03</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.317734,51.967546,0.000000
+            6.315560,51.965516,0.000000
+            6.311975,51.962192,0.000000
+            6.308499,51.959753,0.000000
+            6.305242,51.958798,0.000000
+            6.300679,51.958295,0.000000
+            6.297756,51.958321,0.000000
+            6.297003,51.958742,0.000000
+            6.300966,51.960889,0.000000
+            6.301713,51.962724,0.000000
+            6.301522,51.966136,0.000000
+            6.311481,51.966710,0.000000
+            6.314865,51.966587,0.000000
+            6.316949,51.967582,0.000000
+            6.317734,51.967546,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

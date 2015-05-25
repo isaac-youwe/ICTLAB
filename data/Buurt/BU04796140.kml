@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04796140 Rosariumbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.767342,52.502654,0.000000
+            4.765406,52.500785,0.000000
+            4.758041,52.502878,0.000000
+            4.762854,52.507141,0.000000
+            4.765562,52.507407,0.000000
+            4.768466,52.506669,0.000000
+            4.768748,52.506599,0.000000
+            4.767342,52.502654,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK079411 Wijk 11 Helmond-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.690695,51.473001,0.000000
+            5.690868,51.472447,0.000000
+            5.679221,51.474439,0.000000
+            5.670002,51.475892,0.000000
+            5.670304,51.476354,0.000000
+            5.674132,51.483177,0.000000
+            5.676180,51.483743,0.000000
+            5.673152,51.486523,0.000000
+            5.676526,51.488522,0.000000
+            5.681659,51.489538,0.000000
+            5.683716,51.486011,0.000000
+            5.687785,51.478772,0.000000
+            5.688640,51.477023,0.000000
+            5.690695,51.473001,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

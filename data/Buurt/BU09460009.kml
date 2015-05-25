@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09460009 Schoor-Roeven-Kraan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.786569,51.246719,0.000000
+            5.790457,51.242591,0.000000
+            5.786882,51.242885,0.000000
+            5.786812,51.242951,0.000000
+            5.781122,51.247466,0.000000
+            5.778280,51.250172,0.000000
+            5.749723,51.261952,0.000000
+            5.744019,51.265565,0.000000
+            5.743964,51.265654,0.000000
+            5.741188,51.270069,0.000000
+            5.741024,51.270312,0.000000
+            5.759881,51.274621,0.000000
+            5.771934,51.262089,0.000000
+            5.786569,51.246719,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04890919 Nieuweland 2</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.520165,51.848144,0.000000
+            4.520085,51.847789,0.000000
+            4.515816,51.848249,0.000000
+            4.516210,51.853852,0.000000
+            4.520866,51.853810,0.000000
+            4.523947,51.851986,0.000000
+            4.519960,51.849277,0.000000
+            4.520165,51.848144,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

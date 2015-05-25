@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411102 Arendsboer en omgeving Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.665691,52.351098,0.000000
+            6.667746,52.349960,0.000000
+            6.665812,52.346324,0.000000
+            6.665542,52.346082,0.000000
+            6.660757,52.346251,0.000000
+            6.660625,52.346527,0.000000
+            6.659765,52.350140,0.000000
+            6.663009,52.350029,0.000000
+            6.665691,52.351098,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

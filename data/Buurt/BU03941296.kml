@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03941296 Noordoost omgeving Zwaanshoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.637309,52.332529,0.000000
+            4.642973,52.329678,0.000000
+            4.645292,52.331054,0.000000
+            4.651484,52.327823,0.000000
+            4.635792,52.316850,0.000000
+            4.636765,52.316325,0.000000
+            4.629104,52.310978,0.000000
+            4.618851,52.316536,0.000000
+            4.622936,52.319086,0.000000
+            4.617712,52.321851,0.000000
+            4.628329,52.329102,0.000000
+            4.631198,52.331060,0.000000
+            4.633307,52.329986,0.000000
+            4.637309,52.332529,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

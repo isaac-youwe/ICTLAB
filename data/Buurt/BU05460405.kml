@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05460405 Tuinstadwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.493968,52.149998,0.000000
+            4.491567,52.147175,0.000000
+            4.484231,52.149361,0.000000
+            4.484434,52.151515,0.000000
+            4.488292,52.153600,0.000000
+            4.493855,52.153334,0.000000
+            4.494254,52.151988,0.000000
+            4.493968,52.149998,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

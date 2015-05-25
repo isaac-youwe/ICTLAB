@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340274 Gooisekant</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.199720,52.351024,0.000000
+            5.182225,52.344756,0.000000
+            5.176851,52.342057,0.000000
+            5.173286,52.346205,0.000000
+            5.173306,52.349937,0.000000
+            5.177837,52.349805,0.000000
+            5.192361,52.354718,0.000000
+            5.192109,52.357109,0.000000
+            5.196300,52.356043,0.000000
+            5.196179,52.354992,0.000000
+            5.199720,52.351024,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

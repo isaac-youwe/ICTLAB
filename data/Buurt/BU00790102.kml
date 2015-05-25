@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00790102 Warfstermolen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.243646,53.300114,0.000000
+            6.246051,53.297024,0.000000
+            6.233415,53.294222,0.000000
+            6.223746,53.294065,0.000000
+            6.221101,53.295365,0.000000
+            6.220565,53.296983,0.000000
+            6.222754,53.299169,0.000000
+            6.232702,53.298248,0.000000
+            6.243646,53.300114,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

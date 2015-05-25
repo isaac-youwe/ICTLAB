@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08740107 Verspreide huizen Zandwijk en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.981467,51.779164,0.000000
+            4.988985,51.767304,0.000000
+            4.985569,51.766936,0.000000
+            4.981602,51.772420,0.000000
+            4.978267,51.774679,0.000000
+            4.968605,51.769606,0.000000
+            4.967065,51.771609,0.000000
+            4.969069,51.773037,0.000000
+            4.965869,51.775441,0.000000
+            4.961333,51.774952,0.000000
+            4.962784,51.776729,0.000000
+            4.970566,51.777429,0.000000
+            4.978604,51.781459,0.000000
+            4.981467,51.779164,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

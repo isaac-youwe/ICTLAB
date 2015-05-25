@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16510300 Usquert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.621912,53.404230,0.000000
+            6.616442,53.398948,0.000000
+            6.613976,53.398450,0.000000
+            6.609197,53.398372,0.000000
+            6.606180,53.399423,0.000000
+            6.604454,53.401228,0.000000
+            6.595698,53.400672,0.000000
+            6.596917,53.403048,0.000000
+            6.601063,53.405289,0.000000
+            6.611094,53.408607,0.000000
+            6.620103,53.408585,0.000000
+            6.622909,53.406998,0.000000
+            6.621912,53.404230,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

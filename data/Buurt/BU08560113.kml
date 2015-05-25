@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08560113 Zoggel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.609754,51.655145,0.000000
+            5.612340,51.653479,0.000000
+            5.615416,51.653966,0.000000
+            5.620056,51.654402,0.000000
+            5.621382,51.652047,0.000000
+            5.624491,51.653954,0.000000
+            5.626623,51.654106,0.000000
+            5.625265,51.653180,0.000000
+            5.628382,51.651690,0.000000
+            5.628737,51.650369,0.000000
+            5.627257,51.648496,0.000000
+            5.616074,51.647642,0.000000
+            5.608734,51.647722,0.000000
+            5.602993,51.651442,0.000000
+            5.607966,51.654357,0.000000
+            5.609754,51.655145,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

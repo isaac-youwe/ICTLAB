@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK173113 Wijk 13 Nieuweroord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.587431,52.761371,0.000000
+            6.592923,52.759174,0.000000
+            6.598101,52.759522,0.000000
+            6.607900,52.755579,0.000000
+            6.588160,52.736062,0.000000
+            6.576413,52.739775,0.000000
+            6.576005,52.739841,0.000000
+            6.570858,52.740677,0.000000
+            6.570515,52.740733,0.000000
+            6.557664,52.745233,0.000000
+            6.557309,52.745358,0.000000
+            6.561844,52.756457,0.000000
+            6.566806,52.758434,0.000000
+            6.587431,52.761371,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700208 Verspreide huizen Peins</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.611775,53.214638,0.000000
+            5.611771,53.213739,0.000000
+            5.614770,53.214632,0.000000
+            5.620724,53.208330,0.000000
+            5.620658,53.208316,0.000000
+            5.604240,53.204766,0.000000
+            5.607814,53.199353,0.000000
+            5.597943,53.198297,0.000000
+            5.598486,53.195914,0.000000
+            5.601713,53.193877,0.000000
+            5.593197,53.192710,0.000000
+            5.590600,53.194737,0.000000
+            5.585125,53.194144,0.000000
+            5.583458,53.196396,0.000000
+            5.582894,53.200543,0.000000
+            5.581149,53.202394,0.000000
+            5.579828,53.211751,0.000000
+            5.606371,53.218718,0.000000
+            5.611775,53.214638,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.591496,53.204485,0.000000
+            5.595904,53.204168,0.000000
+            5.598512,53.205183,0.000000
+            5.599514,53.207404,0.000000
+            5.597131,53.208339,0.000000
+            5.592382,53.208088,0.000000
+            5.590426,53.207305,0.000000
+            5.590159,53.205411,0.000000
+            5.591496,53.204485,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

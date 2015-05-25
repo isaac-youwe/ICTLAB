@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180531 Verspreide huizen Elim-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.605008,52.685347,0.000000
+            6.604716,52.682350,0.000000
+            6.590125,52.682929,0.000000
+            6.586021,52.683527,0.000000
+            6.571263,52.683558,0.000000
+            6.539991,52.684799,0.000000
+            6.541142,52.696256,0.000000
+            6.604202,52.693888,0.000000
+            6.603171,52.685454,0.000000
+            6.605008,52.685347,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

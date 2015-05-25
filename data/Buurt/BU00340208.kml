@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340208 Tussen de Vaarten Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.267917,52.380058,0.000000
+            5.289594,52.374433,0.000000
+            5.291750,52.374139,0.000000
+            5.290550,52.372313,0.000000
+            5.276521,52.363112,0.000000
+            5.278486,52.368919,0.000000
+            5.278468,52.373253,0.000000
+            5.275101,52.375995,0.000000
+            5.271275,52.373600,0.000000
+            5.275096,52.368799,0.000000
+            5.263767,52.365578,0.000000
+            5.259598,52.369755,0.000000
+            5.251650,52.377882,0.000000
+            5.263337,52.382409,0.000000
+            5.267917,52.380058,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

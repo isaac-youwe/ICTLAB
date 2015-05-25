@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15810209 Verspreide huizen in de Geldersche Vallei Overberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.485381,52.056310,0.000000
+            5.487650,52.040593,0.000000
+            5.485092,52.036016,0.000000
+            5.484817,52.035545,0.000000
+            5.481759,52.036788,0.000000
+            5.470870,52.035516,0.000000
+            5.466663,52.033873,0.000000
+            5.462787,52.029732,0.000000
+            5.460872,52.037535,0.000000
+            5.448510,52.036701,0.000000
+            5.448624,52.043967,0.000000
+            5.452814,52.049982,0.000000
+            5.461561,52.049078,0.000000
+            5.464479,52.049975,0.000000
+            5.477607,52.052662,0.000000
+            5.484905,52.056252,0.000000
+            5.485381,52.056310,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

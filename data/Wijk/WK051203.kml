@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051203 Wijk 03 Lingewijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.978118,51.835162,0.000000
+            4.972040,51.834382,0.000000
+            4.974003,51.836112,0.000000
+            4.977548,51.841018,0.000000
+            4.979100,51.846701,0.000000
+            4.987380,51.846331,0.000000
+            4.985502,51.844665,0.000000
+            4.984323,51.839633,0.000000
+            4.978118,51.835162,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

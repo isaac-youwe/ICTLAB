@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440175 Lombok-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.106247,52.093554,0.000000
+            5.108127,52.091600,0.000000
+            5.106049,52.090934,0.000000
+            5.105159,52.090678,0.000000
+            5.101122,52.089441,0.000000
+            5.099387,52.093144,0.000000
+            5.104133,52.092721,0.000000
+            5.106247,52.093554,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

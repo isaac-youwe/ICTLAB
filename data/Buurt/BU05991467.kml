@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991467 Oosterflank</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.562479,51.936023,0.000000
+            4.559802,51.934859,0.000000
+            4.558372,51.935757,0.000000
+            4.555466,51.940784,0.000000
+            4.550225,51.953092,0.000000
+            4.562110,51.954676,0.000000
+            4.562242,51.954518,0.000000
+            4.564904,51.950537,0.000000
+            4.565234,51.950044,0.000000
+            4.566721,51.948256,0.000000
+            4.567187,51.947905,0.000000
+            4.572621,51.943803,0.000000
+            4.572628,51.943415,0.000000
+            4.572502,51.943118,0.000000
+            4.572636,51.943008,0.000000
+            4.572638,51.942904,0.000000
+            4.567416,51.942058,0.000000
+            4.566836,51.941964,0.000000
+            4.561035,51.941025,0.000000
+            4.562479,51.936023,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

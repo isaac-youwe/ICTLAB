@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03100501 Blauwkapel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.168291,52.109052,0.000000
+            5.166465,52.106361,0.000000
+            5.162323,52.107233,0.000000
+            5.162377,52.107316,0.000000
+            5.150679,52.110889,0.000000
+            5.149195,52.115379,0.000000
+            5.149195,52.115380,0.000000
+            5.149180,52.118077,0.000000
+            5.147720,52.119860,0.000000
+            5.161983,52.117032,0.000000
+            5.171426,52.113949,0.000000
+            5.168291,52.109052,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

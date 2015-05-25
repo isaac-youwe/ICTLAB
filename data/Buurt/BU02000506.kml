@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000506 Matengaarde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.004393,52.192497,0.000000
+            6.001924,52.191501,0.000000
+            6.000307,52.192569,0.000000
+            5.994140,52.194067,0.000000
+            5.991452,52.196147,0.000000
+            5.990288,52.199566,0.000000
+            5.991397,52.202178,0.000000
+            5.993187,52.202641,0.000000
+            5.997601,52.202054,0.000000
+            6.001251,52.200659,0.000000
+            6.007836,52.195846,0.000000
+            6.004393,52.192497,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

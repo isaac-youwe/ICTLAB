@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04530003 Kapelbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.645836,52.445377,0.000000
+            4.639728,52.443313,0.000000
+            4.637919,52.449222,0.000000
+            4.632585,52.451251,0.000000
+            4.632497,52.453974,0.000000
+            4.639979,52.455292,0.000000
+            4.639112,52.452355,0.000000
+            4.645836,52.445377,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

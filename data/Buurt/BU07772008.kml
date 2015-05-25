@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07772008 Grauwe Polder 5, t Winhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.645007,51.555805,0.000000
+            4.630642,51.553144,0.000000
+            4.630547,51.553692,0.000000
+            4.630689,51.554947,0.000000
+            4.635792,51.556570,0.000000
+            4.640134,51.559292,0.000000
+            4.636511,51.562018,0.000000
+            4.640599,51.563755,0.000000
+            4.642035,51.563036,0.000000
+            4.643676,51.562173,0.000000
+            4.646907,51.559062,0.000000
+            4.646800,51.556248,0.000000
+            4.645007,51.555805,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

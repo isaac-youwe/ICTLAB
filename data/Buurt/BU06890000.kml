@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06890000 Giessenburg en Nieuwkerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.896350,51.851047,0.000000
+            4.893438,51.848011,0.000000
+            4.890037,51.846064,0.000000
+            4.888625,51.846184,0.000000
+            4.883943,51.849402,0.000000
+            4.879097,51.845373,0.000000
+            4.877338,51.846367,0.000000
+            4.879040,51.847828,0.000000
+            4.877830,51.850202,0.000000
+            4.885959,51.852526,0.000000
+            4.892439,51.853192,0.000000
+            4.896991,51.856330,0.000000
+            4.898430,51.859173,0.000000
+            4.901010,51.859847,0.000000
+            4.903069,51.861819,0.000000
+            4.904922,51.861792,0.000000
+            4.903420,51.859555,0.000000
+            4.900141,51.858242,0.000000
+            4.898803,51.856114,0.000000
+            4.894195,51.852795,0.000000
+            4.896350,51.851047,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

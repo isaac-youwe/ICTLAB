@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00830003 Slappeterp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.627732,53.217593,0.000000
+            5.634614,53.212971,0.000000
+            5.620809,53.208174,0.000000
+            5.620658,53.208316,0.000000
+            5.620724,53.208330,0.000000
+            5.614770,53.214632,0.000000
+            5.611771,53.213739,0.000000
+            5.611775,53.214638,0.000000
+            5.606371,53.218718,0.000000
+            5.605809,53.219142,0.000000
+            5.610306,53.220032,0.000000
+            5.610314,53.221509,0.000000
+            5.622772,53.228932,0.000000
+            5.627791,53.226598,0.000000
+            5.633659,53.223728,0.000000
+            5.627732,53.217593,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

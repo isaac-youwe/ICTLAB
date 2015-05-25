@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK008036 Wijk 36 Camminghaburen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.857193,53.203911,0.000000
+            5.837170,53.201471,0.000000
+            5.831046,53.211451,0.000000
+            5.829529,53.217270,0.000000
+            5.851253,53.216867,0.000000
+            5.855452,53.210211,0.000000
+            5.857704,53.204108,0.000000
+            5.857195,53.204042,0.000000
+            5.857193,53.203911,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

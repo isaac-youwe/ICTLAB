@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480403 Ter Apel-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.018298,52.872977,0.000000
+            7.015328,52.873017,0.000000
+            7.016820,52.875533,0.000000
+            7.041603,52.875373,0.000000
+            7.043572,52.874668,0.000000
+            7.046159,52.872840,0.000000
+            7.040531,52.872903,0.000000
+            7.040567,52.872670,0.000000
+            7.018658,52.872972,0.000000
+            7.018298,52.872977,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

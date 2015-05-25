@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04730008 Vijverparkbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.541151,52.379440,0.000000
+            4.540139,52.377820,0.000000
+            4.533611,52.379402,0.000000
+            4.532619,52.379665,0.000000
+            4.535384,52.383910,0.000000
+            4.538587,52.381711,0.000000
+            4.544156,52.380824,0.000000
+            4.541151,52.379440,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

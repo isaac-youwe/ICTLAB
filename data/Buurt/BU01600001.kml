@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600001 Overig Stad Hardenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.627450,52.571752,0.000000
+            6.625743,52.569108,0.000000
+            6.622855,52.569066,0.000000
+            6.622346,52.569768,0.000000
+            6.615769,52.569318,0.000000
+            6.615366,52.573006,0.000000
+            6.624407,52.574449,0.000000
+            6.619904,52.577882,0.000000
+            6.619829,52.579156,0.000000
+            6.624788,52.579183,0.000000
+            6.628370,52.580378,0.000000
+            6.632956,52.578587,0.000000
+            6.634963,52.576031,0.000000
+            6.631594,52.574567,0.000000
+            6.629374,52.572008,0.000000
+            6.627450,52.571752,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

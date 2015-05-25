@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK086703 Wijk 03 Vrijhoeve</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.025530,51.670460,0.000000
+            5.025874,51.667375,0.000000
+            5.025777,51.667394,0.000000
+            5.018527,51.670069,0.000000
+            5.018236,51.670128,0.000000
+            5.009837,51.671839,0.000000
+            5.009563,51.671902,0.000000
+            4.998957,51.674335,0.000000
+            4.998914,51.677833,0.000000
+            4.997510,51.715029,0.000000
+            4.997900,51.714950,0.000000
+            5.009492,51.713190,0.000000
+            5.009852,51.713150,0.000000
+            5.024983,51.711491,0.000000
+            5.025424,51.678820,0.000000
+            5.025513,51.671738,0.000000
+            5.025530,51.670460,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

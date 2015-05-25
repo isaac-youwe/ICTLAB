@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08150000 Mill-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.787245,51.682987,0.000000
+            5.776537,51.681336,0.000000
+            5.777677,51.684773,0.000000
+            5.776770,51.686191,0.000000
+            5.776104,51.687508,0.000000
+            5.777020,51.690456,0.000000
+            5.779377,51.693489,0.000000
+            5.785326,51.689917,0.000000
+            5.790945,51.688617,0.000000
+            5.792071,51.684078,0.000000
+            5.788785,51.683189,0.000000
+            5.787245,51.682987,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

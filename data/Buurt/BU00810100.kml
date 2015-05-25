@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00810100 Britsum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.790891,53.251822,0.000000
+            5.786850,53.250782,0.000000
+            5.778861,53.250966,0.000000
+            5.780789,53.254003,0.000000
+            5.783839,53.255552,0.000000
+            5.788412,53.256308,0.000000
+            5.791094,53.253716,0.000000
+            5.790891,53.251822,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

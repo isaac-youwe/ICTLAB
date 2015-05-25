@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04910100 Bergstoep</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.778086,51.917179,0.000000
+            4.777555,51.917110,0.000000
+            4.778045,51.927484,0.000000
+            4.773725,51.928178,0.000000
+            4.773888,51.929522,0.000000
+            4.786975,51.931785,0.000000
+            4.788837,51.932340,0.000000
+            4.791725,51.931545,0.000000
+            4.790627,51.919836,0.000000
+            4.778086,51.917179,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

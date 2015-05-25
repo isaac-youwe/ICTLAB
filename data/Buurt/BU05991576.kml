@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991576 Zuidplein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.492282,51.884743,0.000000
+            4.486900,51.884257,0.000000
+            4.486775,51.885289,0.000000
+            4.485504,51.885532,0.000000
+            4.487182,51.889683,0.000000
+            4.488834,51.890393,0.000000
+            4.493923,51.889807,0.000000
+            4.493871,51.889373,0.000000
+            4.492460,51.888340,0.000000
+            4.492282,51.884743,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

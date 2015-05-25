@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02030210 Verspreide huizen Stroesche Zand</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.716582,52.216222,0.000000
+            5.718013,52.214553,0.000000
+            5.725128,52.215858,0.000000
+            5.728267,52.215611,0.000000
+            5.731062,52.208605,0.000000
+            5.741254,52.202283,0.000000
+            5.751429,52.194162,0.000000
+            5.751661,52.194176,0.000000
+            5.750809,52.193749,0.000000
+            5.706254,52.190554,0.000000
+            5.706179,52.188886,0.000000
+            5.703740,52.189591,0.000000
+            5.699166,52.194990,0.000000
+            5.683662,52.193941,0.000000
+            5.681945,52.192476,0.000000
+            5.679924,52.193597,0.000000
+            5.676101,52.197977,0.000000
+            5.674374,52.204003,0.000000
+            5.716582,52.216222,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK024310 Wijk 10 Tweelingstad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.629512,52.330213,0.000000
+            5.622823,52.329690,0.000000
+            5.618944,52.330070,0.000000
+            5.620903,52.335186,0.000000
+            5.621776,52.337900,0.000000
+            5.626921,52.338959,0.000000
+            5.631521,52.339570,0.000000
+            5.639975,52.340987,0.000000
+            5.644859,52.341621,0.000000
+            5.646627,52.341801,0.000000
+            5.647463,52.338519,0.000000
+            5.645069,52.337356,0.000000
+            5.638248,52.333951,0.000000
+            5.635471,52.332564,0.000000
+            5.629512,52.330213,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

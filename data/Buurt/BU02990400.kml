@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02990400 Lathum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.023983,51.987939,0.000000
+            6.029957,51.985348,0.000000
+            6.043735,51.985433,0.000000
+            6.043649,51.983173,0.000000
+            6.021489,51.983070,0.000000
+            6.014263,51.981988,0.000000
+            6.013043,51.983672,0.000000
+            6.008184,51.980706,0.000000
+            6.009908,51.978910,0.000000
+            6.005895,51.979157,0.000000
+            6.001504,51.977382,0.000000
+            6.001553,51.980977,0.000000
+            6.004539,51.986355,0.000000
+            6.004651,51.986752,0.000000
+            6.007652,51.987167,0.000000
+            6.010584,51.988661,0.000000
+            6.014391,51.989099,0.000000
+            6.023983,51.987939,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

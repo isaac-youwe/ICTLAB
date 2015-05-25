@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06930401 Laag-Blokland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.843686,51.902219,0.000000
+            4.849553,51.897751,0.000000
+            4.849827,51.897776,0.000000
+            4.860684,51.890306,0.000000
+            4.868137,51.874224,0.000000
+            4.855705,51.869012,0.000000
+            4.854948,51.868537,0.000000
+            4.848564,51.883394,0.000000
+            4.848296,51.885836,0.000000
+            4.846985,51.885778,0.000000
+            4.840468,51.891867,0.000000
+            4.834247,51.897297,0.000000
+            4.843677,51.902225,0.000000
+            4.843686,51.902219,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

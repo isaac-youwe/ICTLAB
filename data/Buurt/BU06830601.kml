@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830601 Uitwellingerga</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.714900,52.993321,0.000000
+            5.714855,52.993214,0.000000
+            5.700640,53.003475,0.000000
+            5.700092,53.003944,0.000000
+            5.704263,53.006968,0.000000
+            5.708136,53.007413,0.000000
+            5.707718,53.008728,0.000000
+            5.711648,53.009374,0.000000
+            5.714611,53.005916,0.000000
+            5.712598,53.004587,0.000000
+            5.707985,53.003896,0.000000
+            5.714902,52.998087,0.000000
+            5.716295,52.994985,0.000000
+            5.714900,52.993321,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

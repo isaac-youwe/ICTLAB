@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02285001 Ederveen-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.580313,52.067547,0.000000
+            5.579946,52.066458,0.000000
+            5.581824,52.066489,0.000000
+            5.582552,52.065645,0.000000
+            5.583309,52.062212,0.000000
+            5.584636,52.062172,0.000000
+            5.584810,52.058824,0.000000
+            5.582228,52.058980,0.000000
+            5.578416,52.053885,0.000000
+            5.571920,52.055854,0.000000
+            5.572507,52.060612,0.000000
+            5.570518,52.060758,0.000000
+            5.571652,52.063185,0.000000
+            5.572957,52.062984,0.000000
+            5.573886,52.067883,0.000000
+            5.575488,52.069424,0.000000
+            5.580843,52.068880,0.000000
+            5.580313,52.067547,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

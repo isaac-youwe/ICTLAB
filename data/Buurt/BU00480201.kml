@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480201 Pallert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.202659,52.990213,0.000000
+            7.200313,52.989997,0.000000
+            7.198861,52.990831,0.000000
+            7.198191,52.994308,0.000000
+            7.192115,52.994734,0.000000
+            7.190960,52.996399,0.000000
+            7.198340,52.999828,0.000000
+            7.200381,53.003511,0.000000
+            7.202839,53.004314,0.000000
+            7.205315,53.003658,0.000000
+            7.205966,52.997654,0.000000
+            7.203634,52.991032,0.000000
+            7.202659,52.990213,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

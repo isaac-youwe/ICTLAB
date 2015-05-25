@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16740609 Bakkersberg-Langendijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.523598,51.542502,0.000000
+            4.519565,51.527189,0.000000
+            4.513973,51.518157,0.000000
+            4.502880,51.516338,0.000000
+            4.502526,51.516710,0.000000
+            4.498695,51.520744,0.000000
+            4.497642,51.522118,0.000000
+            4.499594,51.526384,0.000000
+            4.501357,51.527824,0.000000
+            4.508843,51.527029,0.000000
+            4.509629,51.531770,0.000000
+            4.504517,51.531943,0.000000
+            4.504607,51.535323,0.000000
+            4.508408,51.534259,0.000000
+            4.508923,51.537110,0.000000
+            4.514261,51.536620,0.000000
+            4.514485,51.537862,0.000000
+            4.511307,51.542079,0.000000
+            4.513625,51.541903,0.000000
+            4.516451,51.543338,0.000000
+            4.523598,51.542502,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

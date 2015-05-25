@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02750103 De Steeg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.063974,52.017127,0.000000
+            6.064524,52.014852,0.000000
+            6.061255,52.016231,0.000000
+            6.048688,52.013896,0.000000
+            6.044559,52.019288,0.000000
+            6.045623,52.019394,0.000000
+            6.048599,52.016275,0.000000
+            6.055963,52.018472,0.000000
+            6.055286,52.023591,0.000000
+            6.063218,52.024144,0.000000
+            6.065193,52.023035,0.000000
+            6.064478,52.021264,0.000000
+            6.067597,52.018698,0.000000
+            6.063974,52.017127,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

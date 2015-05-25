@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630640 De Kommert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.860023,52.364666,0.000000
+            4.859266,52.363748,0.000000
+            4.858054,52.364350,0.000000
+            4.856492,52.371148,0.000000
+            4.855434,52.374384,0.000000
+            4.864480,52.375426,0.000000
+            4.867357,52.372578,0.000000
+            4.866273,52.371610,0.000000
+            4.860023,52.364666,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05530215 Dever</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.552652,52.246303,0.000000
+            4.551035,52.244967,0.000000
+            4.548056,52.245784,0.000000
+            4.549511,52.249128,0.000000
+            4.545462,52.250593,0.000000
+            4.547829,52.253950,0.000000
+            4.549114,52.254438,0.000000
+            4.555063,52.251832,0.000000
+            4.553170,52.250011,0.000000
+            4.553926,52.247571,0.000000
+            4.552652,52.246303,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

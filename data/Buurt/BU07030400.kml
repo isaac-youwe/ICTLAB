@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07030400 Rilland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.186710,51.418302,0.000000
+            4.188396,51.416956,0.000000
+            4.185619,51.413137,0.000000
+            4.181813,51.414377,0.000000
+            4.178704,51.413490,0.000000
+            4.168704,51.416202,0.000000
+            4.171442,51.419466,0.000000
+            4.177048,51.418000,0.000000
+            4.178831,51.420681,0.000000
+            4.186710,51.418302,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

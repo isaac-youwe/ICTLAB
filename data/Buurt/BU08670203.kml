@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08670203 Driessen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.051137,51.674704,0.000000
+            5.052889,51.671024,0.000000
+            5.049718,51.670859,0.000000
+            5.040720,51.673288,0.000000
+            5.041436,51.669138,0.000000
+            5.038647,51.668656,0.000000
+            5.025513,51.671738,0.000000
+            5.025424,51.678820,0.000000
+            5.045404,51.681433,0.000000
+            5.052248,51.675804,0.000000
+            5.051137,51.674704,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

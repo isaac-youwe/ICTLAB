@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01840002 Toppad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.625146,52.661252,0.000000
+            5.625017,52.658108,0.000000
+            5.613793,52.658298,0.000000
+            5.613933,52.661376,0.000000
+            5.615503,52.661385,0.000000
+            5.615552,52.662108,0.000000
+            5.624504,52.661968,0.000000
+            5.625146,52.661252,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

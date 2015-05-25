@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04250007 Oranje Nassaupark Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.160487,52.287246,0.000000
+            5.161929,52.283295,0.000000
+            5.161486,52.283498,0.000000
+            5.157094,52.282590,0.000000
+            5.156412,52.282379,0.000000
+            5.154879,52.285241,0.000000
+            5.150013,52.288109,0.000000
+            5.143897,52.289580,0.000000
+            5.147425,52.292373,0.000000
+            5.151376,52.289671,0.000000
+            5.156579,52.287781,0.000000
+            5.160487,52.287246,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

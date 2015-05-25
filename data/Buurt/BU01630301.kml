@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01630301 Nijverdal-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.471728,52.365487,0.000000
+            6.471302,52.364632,0.000000
+            6.468391,52.364815,0.000000
+            6.464469,52.363610,0.000000
+            6.460900,52.361068,0.000000
+            6.455749,52.363027,0.000000
+            6.453987,52.366630,0.000000
+            6.453867,52.366833,0.000000
+            6.461204,52.366325,0.000000
+            6.471728,52.365487,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

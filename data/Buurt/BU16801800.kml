@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16801800 Gieterveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.839183,53.032900,0.000000
+            6.845652,53.027015,0.000000
+            6.842250,53.027173,0.000000
+            6.839992,53.025282,0.000000
+            6.835615,53.024513,0.000000
+            6.835225,53.017180,0.000000
+            6.831931,53.017188,0.000000
+            6.832790,53.022713,0.000000
+            6.830485,53.027064,0.000000
+            6.833103,53.029132,0.000000
+            6.837359,53.030752,0.000000
+            6.836253,53.031656,0.000000
+            6.839183,53.032900,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

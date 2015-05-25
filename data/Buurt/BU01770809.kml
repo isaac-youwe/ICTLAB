@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770809 Verspreide huizen Woolthuis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.244702,52.429812,0.000000
+            6.253487,52.425142,0.000000
+            6.232650,52.422453,0.000000
+            6.231081,52.423455,0.000000
+            6.230749,52.423668,0.000000
+            6.220909,52.424598,0.000000
+            6.220750,52.424610,0.000000
+            6.222994,52.426636,0.000000
+            6.226844,52.429799,0.000000
+            6.236098,52.429026,0.000000
+            6.238690,52.427989,0.000000
+            6.241556,52.428595,0.000000
+            6.244702,52.429812,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

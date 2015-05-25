@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990110 Stadsdriehoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.485930,51.910593,0.000000
+            4.485379,51.909730,0.000000
+            4.483492,51.910479,0.000000
+            4.482739,51.909395,0.000000
+            4.480701,51.910563,0.000000
+            4.477878,51.910586,0.000000
+            4.476782,51.911561,0.000000
+            4.479725,51.912328,0.000000
+            4.480149,51.917283,0.000000
+            4.480952,51.917571,0.000000
+            4.476941,51.923978,0.000000
+            4.476424,51.926248,0.000000
+            4.479896,51.925900,0.000000
+            4.485037,51.925031,0.000000
+            4.496934,51.923734,0.000000
+            4.497609,51.922832,0.000000
+            4.500164,51.918089,0.000000
+            4.493978,51.916226,0.000000
+            4.485930,51.910593,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

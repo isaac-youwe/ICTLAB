@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080003 Steenwijkerdiep</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.112300,52.787471,0.000000
+            6.113557,52.785453,0.000000
+            6.111894,52.784523,0.000000
+            6.105105,52.785747,0.000000
+            6.102498,52.785293,0.000000
+            6.102446,52.784055,0.000000
+            6.100554,52.783766,0.000000
+            6.098207,52.784099,0.000000
+            6.099353,52.786467,0.000000
+            6.104013,52.789026,0.000000
+            6.112300,52.787471,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

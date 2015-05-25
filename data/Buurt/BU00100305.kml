@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00100305 Krewerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.853534,53.353381,0.000000
+            6.850364,53.351572,0.000000
+            6.845498,53.352242,0.000000
+            6.843529,53.353635,0.000000
+            6.844465,53.355980,0.000000
+            6.847264,53.357571,0.000000
+            6.851430,53.357464,0.000000
+            6.853448,53.355559,0.000000
+            6.853534,53.353381,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

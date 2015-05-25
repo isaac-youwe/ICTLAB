@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110521 Berkelaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.876439,51.124134,0.000000
+            5.876362,51.123247,0.000000
+            5.874383,51.123444,0.000000
+            5.874183,51.122067,0.000000
+            5.876222,51.119490,0.000000
+            5.873630,51.118147,0.000000
+            5.871308,51.116879,0.000000
+            5.870272,51.117939,0.000000
+            5.871531,51.118331,0.000000
+            5.870329,51.121006,0.000000
+            5.866083,51.121260,0.000000
+            5.865866,51.124403,0.000000
+            5.867391,51.125352,0.000000
+            5.870838,51.124292,0.000000
+            5.876439,51.124134,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

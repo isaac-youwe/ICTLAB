@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02210002 Zuidelijk Molenveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.150297,52.009931,0.000000
+            6.148629,52.009451,0.000000
+            6.143452,52.008004,0.000000
+            6.139119,52.009175,0.000000
+            6.132333,52.008378,0.000000
+            6.133113,52.010665,0.000000
+            6.135503,52.009826,0.000000
+            6.139625,52.010453,0.000000
+            6.140204,52.013942,0.000000
+            6.150469,52.011226,0.000000
+            6.149591,52.010613,0.000000
+            6.150297,52.009931,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

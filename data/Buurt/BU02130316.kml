@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130316 Voorstonden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.167971,52.132954,0.000000
+            6.160635,52.119510,0.000000
+            6.157018,52.119681,0.000000
+            6.151852,52.121681,0.000000
+            6.146308,52.122286,0.000000
+            6.125248,52.119561,0.000000
+            6.116484,52.118303,0.000000
+            6.114863,52.122739,0.000000
+            6.106822,52.121748,0.000000
+            6.111413,52.125352,0.000000
+            6.136642,52.129431,0.000000
+            6.145102,52.132085,0.000000
+            6.151294,52.133165,0.000000
+            6.167971,52.132954,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

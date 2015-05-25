@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK078513 Wijk 13 Bedrijventerrein Tijvoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.059946,51.512708,0.000000
+            5.059400,51.512131,0.000000
+            5.054684,51.505795,0.000000
+            5.053271,51.505529,0.000000
+            5.050239,51.505591,0.000000
+            5.047001,51.511153,0.000000
+            5.045860,51.513102,0.000000
+            5.049346,51.512455,0.000000
+            5.053218,51.517061,0.000000
+            5.056546,51.518538,0.000000
+            5.059518,51.517817,0.000000
+            5.059145,51.513476,0.000000
+            5.059946,51.512708,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

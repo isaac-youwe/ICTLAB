@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06220702 Kruidenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.337822,51.935905,0.000000
+            4.344021,51.934541,0.000000
+            4.346522,51.934667,0.000000
+            4.345613,51.933785,0.000000
+            4.340699,51.932878,0.000000
+            4.336922,51.932342,0.000000
+            4.334867,51.935215,0.000000
+            4.337822,51.935905,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

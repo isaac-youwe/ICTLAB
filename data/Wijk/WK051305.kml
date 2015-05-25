@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051305 Wijk 05 Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.719823,52.026517,0.000000
+            4.722692,52.025652,0.000000
+            4.722809,52.025653,0.000000
+            4.728521,52.025685,0.000000
+            4.728858,52.025635,0.000000
+            4.734363,52.024818,0.000000
+            4.743144,52.022170,0.000000
+            4.746136,52.016792,0.000000
+            4.749843,52.014545,0.000000
+            4.745024,52.014768,0.000000
+            4.732494,52.015678,0.000000
+            4.722907,52.016202,0.000000
+            4.721896,52.016251,0.000000
+            4.711281,52.017078,0.000000
+            4.710162,52.017124,0.000000
+            4.708582,52.023802,0.000000
+            4.710277,52.024862,0.000000
+            4.717503,52.026465,0.000000
+            4.719383,52.026204,0.000000
+            4.719823,52.026517,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

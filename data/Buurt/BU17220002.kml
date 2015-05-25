@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17220002 Blija</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.866588,53.350878,0.000000
+            5.856758,53.346729,0.000000
+            5.853626,53.352771,0.000000
+            5.854098,53.353769,0.000000
+            5.856682,53.354992,0.000000
+            5.866488,53.356735,0.000000
+            5.867811,53.356174,0.000000
+            5.866588,53.350878,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

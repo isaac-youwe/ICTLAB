@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08200009 Verspreide huizen ten zuidoosten van Nuenen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.590142,51.465509,0.000000
+            5.584361,51.460125,0.000000
+            5.578821,51.454963,0.000000
+            5.561281,51.452215,0.000000
+            5.559149,51.460326,0.000000
+            5.559000,51.463977,0.000000
+            5.562072,51.463101,0.000000
+            5.570318,51.469946,0.000000
+            5.575369,51.471679,0.000000
+            5.576540,51.474254,0.000000
+            5.578610,51.475813,0.000000
+            5.576572,51.477862,0.000000
+            5.585719,51.479181,0.000000
+            5.585883,51.479001,0.000000
+            5.595940,51.474488,0.000000
+            5.605888,51.471804,0.000000
+            5.605935,51.471737,0.000000
+            5.603339,51.470394,0.000000
+            5.597347,51.467294,0.000000
+            5.590142,51.465509,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

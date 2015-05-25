@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08740200 Rijswijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.026017,51.793292,0.000000
+            5.024748,51.792838,0.000000
+            5.021404,51.795124,0.000000
+            5.021110,51.797035,0.000000
+            5.015311,51.798395,0.000000
+            5.022593,51.805159,0.000000
+            5.023225,51.804927,0.000000
+            5.038586,51.800654,0.000000
+            5.033037,51.795617,0.000000
+            5.026017,51.793292,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02740108 Verspreide huizen De Oorsprong</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.814389,51.985273,0.000000
+            5.817210,51.983109,0.000000
+            5.823727,51.983600,0.000000
+            5.823268,51.985260,0.000000
+            5.827917,51.986262,0.000000
+            5.829538,51.986390,0.000000
+            5.831765,51.984787,0.000000
+            5.832290,51.979481,0.000000
+            5.824925,51.977802,0.000000
+            5.826274,51.975843,0.000000
+            5.822533,51.974823,0.000000
+            5.812036,51.985021,0.000000
+            5.813045,51.987894,0.000000
+            5.817589,51.988036,0.000000
+            5.815152,51.986731,0.000000
+            5.814389,51.985273,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

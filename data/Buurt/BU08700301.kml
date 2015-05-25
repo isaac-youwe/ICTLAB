@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08700301 Kern Nieuwendijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.916421,51.783687,0.000000
+            4.915390,51.782057,0.000000
+            4.914208,51.782296,0.000000
+            4.913443,51.780343,0.000000
+            4.922666,51.779323,0.000000
+            4.920587,51.778144,0.000000
+            4.925646,51.776478,0.000000
+            4.927088,51.778551,0.000000
+            4.927605,51.766340,0.000000
+            4.924960,51.756089,0.000000
+            4.923802,51.753520,0.000000
+            4.921098,51.753877,0.000000
+            4.921421,51.756400,0.000000
+            4.923119,51.758088,0.000000
+            4.923399,51.766125,0.000000
+            4.921646,51.770246,0.000000
+            4.907274,51.778994,0.000000
+            4.908746,51.780898,0.000000
+            4.909401,51.784913,0.000000
+            4.916421,51.783687,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

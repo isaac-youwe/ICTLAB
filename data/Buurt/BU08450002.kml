@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08450002 Venkant-Beekkant-Beekvliet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.362775,51.638093,0.000000
+            5.357938,51.637799,0.000000
+            5.356625,51.638990,0.000000
+            5.357562,51.641333,0.000000
+            5.359916,51.643319,0.000000
+            5.356839,51.646082,0.000000
+            5.356139,51.648003,0.000000
+            5.360117,51.652157,0.000000
+            5.370643,51.642366,0.000000
+            5.363096,51.640299,0.000000
+            5.362775,51.638093,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

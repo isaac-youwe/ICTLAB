@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00070200 Blijham</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.090547,53.114238,0.000000
+            7.098190,53.110870,0.000000
+            7.098399,53.108505,0.000000
+            7.096126,53.106924,0.000000
+            7.090008,53.104928,0.000000
+            7.079036,53.102852,0.000000
+            7.075818,53.102508,0.000000
+            7.067527,53.107171,0.000000
+            7.063734,53.109853,0.000000
+            7.064755,53.115125,0.000000
+            7.066812,53.114350,0.000000
+            7.080164,53.115038,0.000000
+            7.090547,53.114238,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

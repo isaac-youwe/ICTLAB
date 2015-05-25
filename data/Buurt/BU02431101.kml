@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02431101 Glindweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.651173,52.357153,0.000000
+            5.652471,52.355242,0.000000
+            5.663005,52.356025,0.000000
+            5.663306,52.355041,0.000000
+            5.653325,52.353706,0.000000
+            5.649075,52.352399,0.000000
+            5.648125,52.352063,0.000000
+            5.643458,52.356104,0.000000
+            5.648441,52.358538,0.000000
+            5.651173,52.357153,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

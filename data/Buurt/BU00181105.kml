@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00181105 Compagniesterpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.796154,53.163302,0.000000
+            6.796423,53.159021,0.000000
+            6.786731,53.159356,0.000000
+            6.785810,53.160593,0.000000
+            6.786295,53.164285,0.000000
+            6.790058,53.164360,0.000000
+            6.796065,53.164467,0.000000
+            6.796154,53.163302,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

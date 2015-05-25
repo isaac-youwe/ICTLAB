@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16550303 Velletri</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.548977,51.596958,0.000000
+            4.554365,51.594319,0.000000
+            4.556194,51.594670,0.000000
+            4.557859,51.591079,0.000000
+            4.557542,51.588335,0.000000
+            4.549075,51.589403,0.000000
+            4.538502,51.590641,0.000000
+            4.542552,51.593095,0.000000
+            4.548977,51.596958,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

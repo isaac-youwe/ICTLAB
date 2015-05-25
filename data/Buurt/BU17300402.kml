@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17300402 Verspreide huizen Westlaren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.678838,53.076997,0.000000
+            6.678449,53.076559,0.000000
+            6.678169,53.076681,0.000000
+            6.670814,53.080355,0.000000
+            6.670607,53.080414,0.000000
+            6.670854,53.084331,0.000000
+            6.665419,53.089106,0.000000
+            6.663401,53.090880,0.000000
+            6.665806,53.091735,0.000000
+            6.668023,53.091971,0.000000
+            6.677839,53.088388,0.000000
+            6.683922,53.081765,0.000000
+            6.681930,53.078876,0.000000
+            6.678838,53.076997,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

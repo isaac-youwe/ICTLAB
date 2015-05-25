@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06540303 Ellewoutsdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.816728,51.385885,0.000000
+            3.816243,51.385878,0.000000
+            3.812247,51.387638,0.000000
+            3.812851,51.393426,0.000000
+            3.816182,51.394873,0.000000
+            3.818123,51.394333,0.000000
+            3.818954,51.392579,0.000000
+            3.818436,51.387421,0.000000
+            3.819786,51.387126,0.000000
+            3.819710,51.385931,0.000000
+            3.819601,51.385924,0.000000
+            3.816728,51.385885,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

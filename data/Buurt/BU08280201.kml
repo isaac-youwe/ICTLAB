@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280201 Landweer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.551471,51.755006,0.000000
+            5.546204,51.754240,0.000000
+            5.545615,51.756571,0.000000
+            5.545727,51.759161,0.000000
+            5.545678,51.766264,0.000000
+            5.553035,51.766433,0.000000
+            5.553323,51.760965,0.000000
+            5.555429,51.757857,0.000000
+            5.551471,51.755006,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

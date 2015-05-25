@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17740003 Dorper-Es en Potmaten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.004817,52.377720,0.000000
+            6.999839,52.375579,0.000000
+            6.999639,52.374535,0.000000
+            7.002868,52.372374,0.000000
+            6.998510,52.368935,0.000000
+            6.995375,52.371369,0.000000
+            6.998518,52.372489,0.000000
+            6.994601,52.374528,0.000000
+            6.993621,52.375920,0.000000
+            6.996733,52.377978,0.000000
+            6.998464,52.377102,0.000000
+            7.000007,52.378113,0.000000
+            7.003551,52.378525,0.000000
+            7.004882,52.378431,0.000000
+            7.004817,52.377720,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

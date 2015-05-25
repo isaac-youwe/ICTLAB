@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03990202 Oud West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.701197,52.613282,0.000000
+            4.709286,52.609230,0.000000
+            4.704526,52.604037,0.000000
+            4.701728,52.600950,0.000000
+            4.699633,52.601701,0.000000
+            4.696433,52.604692,0.000000
+            4.688570,52.606551,0.000000
+            4.689095,52.609510,0.000000
+            4.693061,52.609198,0.000000
+            4.698462,52.613010,0.000000
+            4.701197,52.613282,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

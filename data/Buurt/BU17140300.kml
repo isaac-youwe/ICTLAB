@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17140300 Eede</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.450223,51.241893,0.000000
+            3.446344,51.241829,0.000000
+            3.440541,51.243530,0.000000
+            3.440358,51.243565,0.000000
+            3.441498,51.245909,0.000000
+            3.438996,51.246001,0.000000
+            3.439286,51.247198,0.000000
+            3.441627,51.248091,0.000000
+            3.452048,51.248127,0.000000
+            3.450223,51.241893,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

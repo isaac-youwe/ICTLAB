@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03010403 Loo_renk en Woud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.249620,52.124480,0.000000
+            6.242900,52.123856,0.000000
+            6.246445,52.130947,0.000000
+            6.251790,52.131623,0.000000
+            6.256431,52.134734,0.000000
+            6.258776,52.133549,0.000000
+            6.257632,52.129187,0.000000
+            6.254810,52.126479,0.000000
+            6.249620,52.124480,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

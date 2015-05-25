@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830002 De Rat-Cloosterkamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.626560,53.013793,0.000000
+            5.628001,53.012946,0.000000
+            5.630300,53.012944,0.000000
+            5.632677,53.010577,0.000000
+            5.634717,53.005545,0.000000
+            5.628218,53.005235,0.000000
+            5.624294,53.011316,0.000000
+            5.626560,53.013793,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

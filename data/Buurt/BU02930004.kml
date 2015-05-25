@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02930004 De Ganzepoel-Schans</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.970433,51.938885,0.000000
+            5.969461,51.938890,0.000000
+            5.969507,51.941350,0.000000
+            5.967009,51.943114,0.000000
+            5.967402,51.945065,0.000000
+            5.975322,51.945887,0.000000
+            5.978232,51.948087,0.000000
+            5.986702,51.946514,0.000000
+            5.986527,51.945996,0.000000
+            5.983582,51.943314,0.000000
+            5.980673,51.943329,0.000000
+            5.970433,51.938885,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

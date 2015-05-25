@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03120000 Bunnik</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.225306,52.065170,0.000000
+            5.218033,52.059767,0.000000
+            5.219181,52.059768,0.000000
+            5.218515,52.059335,0.000000
+            5.186797,52.062604,0.000000
+            5.186272,52.065257,0.000000
+            5.185155,52.070790,0.000000
+            5.186258,52.071253,0.000000
+            5.181819,52.075939,0.000000
+            5.193163,52.077707,0.000000
+            5.194622,52.077709,0.000000
+            5.200462,52.076820,0.000000
+            5.225306,52.065170,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

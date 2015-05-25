@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110106 Susteren centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.855281,51.061168,0.000000
+            5.854075,51.058558,0.000000
+            5.850973,51.059699,0.000000
+            5.847439,51.059311,0.000000
+            5.848514,51.062409,0.000000
+            5.853145,51.064249,0.000000
+            5.855777,51.065502,0.000000
+            5.857946,51.061670,0.000000
+            5.855281,51.061168,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

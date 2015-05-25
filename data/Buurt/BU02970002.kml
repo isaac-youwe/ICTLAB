@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02970002 Zaltbommel Spellewaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.240472,51.808523,0.000000
+            5.243386,51.799753,0.000000
+            5.241133,51.799674,0.000000
+            5.240837,51.801629,0.000000
+            5.236042,51.800613,0.000000
+            5.231519,51.800602,0.000000
+            5.229276,51.807495,0.000000
+            5.232388,51.807641,0.000000
+            5.235427,51.808815,0.000000
+            5.240472,51.808523,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

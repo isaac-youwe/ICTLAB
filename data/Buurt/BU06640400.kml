@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06640400 Kattendijke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.949243,51.521877,0.000000
+            3.944379,51.521207,0.000000
+            3.939493,51.522484,0.000000
+            3.939501,51.523955,0.000000
+            3.940611,51.525178,0.000000
+            3.943058,51.525979,0.000000
+            3.943517,51.526203,0.000000
+            3.945097,51.524174,0.000000
+            3.947450,51.524053,0.000000
+            3.949243,51.521877,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

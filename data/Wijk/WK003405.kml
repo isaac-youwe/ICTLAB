@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK003405 Wijk 05 Almere-Hout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.379869,52.314275,0.000000
+            5.378337,52.313993,0.000000
+            5.350540,52.308876,0.000000
+            5.344673,52.309773,0.000000
+            5.332935,52.314262,0.000000
+            5.332796,52.314170,0.000000
+            5.309902,52.323088,0.000000
+            5.286655,52.331271,0.000000
+            5.272274,52.335410,0.000000
+            5.267901,52.338278,0.000000
+            5.263035,52.343848,0.000000
+            5.257629,52.354724,0.000000
+            5.269299,52.360125,0.000000
+            5.276521,52.363112,0.000000
+            5.290550,52.372313,0.000000
+            5.291750,52.374139,0.000000
+            5.289594,52.374433,0.000000
+            5.294440,52.378397,0.000000
+            5.300547,52.381649,0.000000
+            5.379869,52.314275,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

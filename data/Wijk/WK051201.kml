@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051201 Wijk 01 Gorinchem binnenstad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.978118,51.835162,0.000000
+            4.978138,51.833157,0.000000
+            4.980447,51.833926,0.000000
+            4.982056,51.833866,0.000000
+            4.986198,51.831282,0.000000
+            4.984745,51.830296,0.000000
+            4.984665,51.828302,0.000000
+            4.978781,51.826666,0.000000
+            4.975528,51.826871,0.000000
+            4.977221,51.822667,0.000000
+            4.976659,51.822752,0.000000
+            4.969397,51.823626,0.000000
+            4.959812,51.825285,0.000000
+            4.962914,51.829052,0.000000
+            4.966463,51.830028,0.000000
+            4.972040,51.834382,0.000000
+            4.978118,51.835162,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04791620 Kalverpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.842487,52.472179,0.000000
+            4.814197,52.468995,0.000000
+            4.813196,52.470629,0.000000
+            4.816536,52.475378,0.000000
+            4.811423,52.477757,0.000000
+            4.810529,52.479855,0.000000
+            4.812067,52.482228,0.000000
+            4.811927,52.483600,0.000000
+            4.817421,52.482790,0.000000
+            4.836594,52.480184,0.000000
+            4.836773,52.479863,0.000000
+            4.838099,52.477494,0.000000
+            4.841099,52.473014,0.000000
+            4.841192,52.472958,0.000000
+            4.842487,52.472179,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

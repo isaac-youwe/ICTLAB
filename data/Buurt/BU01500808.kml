@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500808 Bannink</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.245918,52.240373,0.000000
+            6.231650,52.238576,0.000000
+            6.230700,52.239997,0.000000
+            6.232350,52.245602,0.000000
+            6.231965,52.248000,0.000000
+            6.231963,52.250922,0.000000
+            6.263018,52.251745,0.000000
+            6.265337,52.251820,0.000000
+            6.264465,52.250003,0.000000
+            6.257644,52.244347,0.000000
+            6.253993,52.242286,0.000000
+            6.245918,52.240373,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

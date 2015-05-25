@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00090102 Woltersum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.730375,53.268446,0.000000
+            6.729821,53.268234,0.000000
+            6.728577,53.269980,0.000000
+            6.728856,53.273248,0.000000
+            6.732612,53.275673,0.000000
+            6.735555,53.275654,0.000000
+            6.736911,53.275238,0.000000
+            6.739455,53.271042,0.000000
+            6.739452,53.271041,0.000000
+            6.730375,53.268446,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

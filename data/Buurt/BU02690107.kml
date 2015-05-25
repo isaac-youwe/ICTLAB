@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02690107 Verspreide huizen Wezepse Heide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.016315,52.462230,0.000000
+            6.029871,52.452403,0.000000
+            6.022679,52.443805,0.000000
+            6.018266,52.443828,0.000000
+            5.994485,52.425975,0.000000
+            5.994400,52.425910,0.000000
+            5.977972,52.439896,0.000000
+            5.996867,52.449459,0.000000
+            6.002425,52.445530,0.000000
+            6.008368,52.447089,0.000000
+            6.002840,52.453935,0.000000
+            6.007524,52.457928,0.000000
+            6.008759,52.456900,0.000000
+            6.016315,52.462230,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

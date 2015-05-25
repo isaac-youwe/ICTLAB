@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770300 Luttenberg-Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.372030,52.402889,0.000000
+            6.373490,52.400276,0.000000
+            6.372044,52.399943,0.000000
+            6.369613,52.401613,0.000000
+            6.361494,52.399843,0.000000
+            6.357307,52.400060,0.000000
+            6.358508,52.404127,0.000000
+            6.356704,52.404269,0.000000
+            6.358538,52.407669,0.000000
+            6.357416,52.408442,0.000000
+            6.363146,52.409866,0.000000
+            6.367801,52.409978,0.000000
+            6.372147,52.410217,0.000000
+            6.372030,52.402889,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

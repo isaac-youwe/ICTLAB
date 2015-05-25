@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03620006 Uilenstede en Kronenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.882623,52.317551,0.000000
+            4.870906,52.315795,0.000000
+            4.869234,52.322129,0.000000
+            4.869361,52.322130,0.000000
+            4.878013,52.322168,0.000000
+            4.878163,52.322168,0.000000
+            4.882102,52.322185,0.000000
+            4.882623,52.317551,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

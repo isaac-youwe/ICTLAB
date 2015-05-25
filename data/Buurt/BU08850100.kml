@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08850100 Schandelo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.197527,51.415917,0.000000
+            6.196869,51.409604,0.000000
+            6.189555,51.409879,0.000000
+            6.188702,51.416237,0.000000
+            6.179777,51.425197,0.000000
+            6.178282,51.427780,0.000000
+            6.182532,51.429988,0.000000
+            6.183880,51.430246,0.000000
+            6.195774,51.420267,0.000000
+            6.197527,51.415917,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

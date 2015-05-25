@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02850300 Wilp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.153408,52.220369,0.000000
+            6.152907,52.218385,0.000000
+            6.148123,52.212929,0.000000
+            6.143625,52.213185,0.000000
+            6.145032,52.217642,0.000000
+            6.140621,52.216393,0.000000
+            6.139592,52.217851,0.000000
+            6.140140,52.218857,0.000000
+            6.142550,52.218490,0.000000
+            6.146009,52.219197,0.000000
+            6.145460,52.222094,0.000000
+            6.147085,52.222174,0.000000
+            6.150694,52.222865,0.000000
+            6.153408,52.220369,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

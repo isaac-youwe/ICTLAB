@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08480001 De Gentiaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.486995,51.530220,0.000000
+            5.488164,51.527056,0.000000
+            5.490487,51.527503,0.000000
+            5.491735,51.522036,0.000000
+            5.476556,51.520244,0.000000
+            5.470027,51.519593,0.000000
+            5.473277,51.528858,0.000000
+            5.486995,51.530220,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

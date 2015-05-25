@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00850400 Haulerwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.363670,53.065786,0.000000
+            6.363501,53.063385,0.000000
+            6.340341,53.063260,0.000000
+            6.337277,53.061731,0.000000
+            6.336729,53.057893,0.000000
+            6.331944,53.057280,0.000000
+            6.332390,53.060165,0.000000
+            6.324458,53.063915,0.000000
+            6.316435,53.064007,0.000000
+            6.310633,53.061786,0.000000
+            6.303465,53.061046,0.000000
+            6.303876,53.063765,0.000000
+            6.315542,53.066902,0.000000
+            6.326840,53.067287,0.000000
+            6.327412,53.071289,0.000000
+            6.332540,53.071940,0.000000
+            6.339019,53.071031,0.000000
+            6.338693,53.067186,0.000000
+            6.363670,53.065786,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

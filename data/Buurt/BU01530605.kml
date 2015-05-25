@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530605 Wesselerbrink Zuid-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.878621,52.188928,0.000000
+            6.874915,52.184744,0.000000
+            6.869588,52.185654,0.000000
+            6.869847,52.186342,0.000000
+            6.860169,52.187429,0.000000
+            6.861084,52.192880,0.000000
+            6.863011,52.192511,0.000000
+            6.877667,52.191141,0.000000
+            6.878531,52.191036,0.000000
+            6.877868,52.189194,0.000000
+            6.878621,52.188928,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

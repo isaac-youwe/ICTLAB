@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08730201 Calfven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.314904,51.395653,0.000000
+            4.311113,51.395536,0.000000
+            4.311736,51.407535,0.000000
+            4.310814,51.412008,0.000000
+            4.313364,51.416189,0.000000
+            4.320105,51.417186,0.000000
+            4.326984,51.416607,0.000000
+            4.324163,51.413337,0.000000
+            4.320594,51.397948,0.000000
+            4.314904,51.395653,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

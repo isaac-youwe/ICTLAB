@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08560103 Moleneind-Groenewoud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.607966,51.654357,0.000000
+            5.602993,51.651442,0.000000
+            5.599424,51.652123,0.000000
+            5.601492,51.655614,0.000000
+            5.600173,51.663697,0.000000
+            5.600587,51.664613,0.000000
+            5.602381,51.662892,0.000000
+            5.608959,51.661347,0.000000
+            5.606507,51.657359,0.000000
+            5.606440,51.655329,0.000000
+            5.607966,51.654357,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

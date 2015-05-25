@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510205 Snikzwaag</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.820412,52.995705,0.000000
+            5.803164,52.980066,0.000000
+            5.797215,52.975523,0.000000
+            5.793187,52.977396,0.000000
+            5.790975,52.979851,0.000000
+            5.785127,52.976443,0.000000
+            5.784892,52.980676,0.000000
+            5.781978,52.983877,0.000000
+            5.783613,52.985313,0.000000
+            5.782612,52.989365,0.000000
+            5.784909,52.989305,0.000000
+            5.784560,52.989983,0.000000
+            5.817568,53.004116,0.000000
+            5.815963,53.008020,0.000000
+            5.822699,53.011083,0.000000
+            5.827698,53.005982,0.000000
+            5.829724,53.005813,0.000000
+            5.820412,52.995705,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

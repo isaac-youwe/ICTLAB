@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140701 Amsterdamscheveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.925361,52.697169,0.000000
+            6.919171,52.689222,0.000000
+            6.922224,52.688349,0.000000
+            6.920595,52.686246,0.000000
+            6.924559,52.685111,0.000000
+            6.923682,52.683986,0.000000
+            6.912128,52.687301,0.000000
+            6.909394,52.688332,0.000000
+            6.909980,52.689087,0.000000
+            6.912093,52.690943,0.000000
+            6.916382,52.690499,0.000000
+            6.922260,52.698055,0.000000
+            6.925361,52.697169,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

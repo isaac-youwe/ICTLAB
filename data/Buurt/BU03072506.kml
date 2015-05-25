@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03072506 Podium</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.439857,52.190217,0.000000
+            5.438498,52.184400,0.000000
+            5.437538,52.184572,0.000000
+            5.436721,52.184827,0.000000
+            5.437846,52.187417,0.000000
+            5.434013,52.192688,0.000000
+            5.439864,52.196173,0.000000
+            5.439857,52.190217,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

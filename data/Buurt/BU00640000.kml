@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00640000 Bolsward binnen De Wallen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.526671,53.061205,0.000000
+            5.521477,53.059976,0.000000
+            5.519197,53.060291,0.000000
+            5.516462,53.062793,0.000000
+            5.521420,53.064008,0.000000
+            5.525731,53.066573,0.000000
+            5.528453,53.066228,0.000000
+            5.526671,53.061205,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

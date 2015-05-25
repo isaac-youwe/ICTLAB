@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07970507 Industrieterrein Heusden en Bakkersdam</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.156873,51.740338,0.000000
+            5.146932,51.736020,0.000000
+            5.144018,51.740523,0.000000
+            5.162748,51.742350,0.000000
+            5.163402,51.742352,0.000000
+            5.163682,51.741445,0.000000
+            5.156873,51.740338,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

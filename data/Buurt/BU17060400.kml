@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17060400 Soerendonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.576302,51.289218,0.000000
+            5.573436,51.287533,0.000000
+            5.562713,51.295425,0.000000
+            5.563702,51.296094,0.000000
+            5.562543,51.303132,0.000000
+            5.563221,51.303985,0.000000
+            5.575423,51.307420,0.000000
+            5.589675,51.309653,0.000000
+            5.594161,51.304782,0.000000
+            5.585231,51.298652,0.000000
+            5.584788,51.297712,0.000000
+            5.587557,51.293481,0.000000
+            5.586772,51.292848,0.000000
+            5.585116,51.291586,0.000000
+            5.576302,51.289218,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

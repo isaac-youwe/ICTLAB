@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03270500 t Ruige Veld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.438494,52.140878,0.000000
+            5.438365,52.138695,0.000000
+            5.431474,52.138942,0.000000
+            5.426595,52.140087,0.000000
+            5.424903,52.142605,0.000000
+            5.429799,52.143076,0.000000
+            5.436004,52.141935,0.000000
+            5.438494,52.140878,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

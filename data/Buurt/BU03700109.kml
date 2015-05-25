@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03700109 Verspreide huizen Zuidoostbeemster</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.956839,52.529219,0.000000
+            4.955455,52.523049,0.000000
+            4.940448,52.526293,0.000000
+            4.938901,52.527342,0.000000
+            4.933364,52.528713,0.000000
+            4.923235,52.511116,0.000000
+            4.923130,52.511115,0.000000
+            4.908599,52.517235,0.000000
+            4.920749,52.537445,0.000000
+            4.956857,52.529249,0.000000
+            4.956839,52.529219,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

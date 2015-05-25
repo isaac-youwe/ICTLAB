@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510405 Dijken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.692983,52.967824,0.000000
+            5.696591,52.967202,0.000000
+            5.705451,52.967628,0.000000
+            5.711235,52.961758,0.000000
+            5.712116,52.958330,0.000000
+            5.716856,52.951958,0.000000
+            5.718166,52.946542,0.000000
+            5.714656,52.943611,0.000000
+            5.687783,52.945918,0.000000
+            5.690860,52.967136,0.000000
+            5.690944,52.967137,0.000000
+            5.692983,52.967824,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

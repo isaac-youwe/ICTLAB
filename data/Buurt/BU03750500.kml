@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03750500 Westertuinen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.652721,52.493936,0.000000
+            4.648859,52.491684,0.000000
+            4.645026,52.493012,0.000000
+            4.645429,52.498917,0.000000
+            4.649285,52.498941,0.000000
+            4.656668,52.498987,0.000000
+            4.657082,52.499117,0.000000
+            4.657784,52.497723,0.000000
+            4.658220,52.496458,0.000000
+            4.652721,52.493936,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

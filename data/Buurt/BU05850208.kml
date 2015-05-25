@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05850208 Verspreide huizen polder Munnikenland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.492956,51.780507,0.000000
+            4.490531,51.778966,0.000000
+            4.486992,51.781013,0.000000
+            4.487086,51.781067,0.000000
+            4.487639,51.781380,0.000000
+            4.488383,51.783554,0.000000
+            4.477473,51.784267,0.000000
+            4.478219,51.788425,0.000000
+            4.482118,51.788608,0.000000
+            4.482395,51.791106,0.000000
+            4.488389,51.792362,0.000000
+            4.498480,51.792904,0.000000
+            4.510975,51.790529,0.000000
+            4.514567,51.790231,0.000000
+            4.514727,51.786964,0.000000
+            4.514572,51.786963,0.000000
+            4.502977,51.786876,0.000000
+            4.501598,51.783270,0.000000
+            4.492956,51.780507,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

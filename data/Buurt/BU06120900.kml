@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06120900 Hekelingen-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.352730,51.830761,0.000000
+            4.349566,51.827126,0.000000
+            4.352706,51.823636,0.000000
+            4.354264,51.818762,0.000000
+            4.346821,51.817925,0.000000
+            4.339522,51.817104,0.000000
+            4.336050,51.823986,0.000000
+            4.331896,51.823321,0.000000
+            4.333734,51.828202,0.000000
+            4.334903,51.830229,0.000000
+            4.337111,51.829071,0.000000
+            4.341706,51.830321,0.000000
+            4.344362,51.830545,0.000000
+            4.347298,51.830219,0.000000
+            4.350491,51.832520,0.000000
+            4.351563,51.832908,0.000000
+            4.352730,51.830761,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

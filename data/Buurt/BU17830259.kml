@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830259 Vlietpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.230870,51.980691,0.000000
+            4.218306,51.976934,0.000000
+            4.219018,51.978487,0.000000
+            4.220999,51.988606,0.000000
+            4.222580,51.992317,0.000000
+            4.228329,51.996499,0.000000
+            4.235559,51.991973,0.000000
+            4.241133,51.990525,0.000000
+            4.246468,51.987387,0.000000
+            4.230870,51.980691,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

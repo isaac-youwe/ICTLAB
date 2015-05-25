@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03550307 Blikkenburg en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.227170,52.076333,0.000000
+            5.233329,52.072996,0.000000
+            5.241204,52.077987,0.000000
+            5.251416,52.072138,0.000000
+            5.258655,52.066867,0.000000
+            5.258402,52.066679,0.000000
+            5.258161,52.066501,0.000000
+            5.254659,52.063901,0.000000
+            5.254179,52.064411,0.000000
+            5.238709,52.064717,0.000000
+            5.232470,52.068424,0.000000
+            5.227492,52.073841,0.000000
+            5.214885,52.079450,0.000000
+            5.218197,52.080520,0.000000
+            5.219964,52.081923,0.000000
+            5.228878,52.077485,0.000000
+            5.227170,52.076333,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

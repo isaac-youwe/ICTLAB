@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09940301 IJzeren en Heerstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.854350,50.840591,0.000000
+            5.844132,50.833738,0.000000
+            5.835824,50.835528,0.000000
+            5.837200,50.831028,0.000000
+            5.835772,50.830134,0.000000
+            5.835619,50.830135,0.000000
+            5.828632,50.830162,0.000000
+            5.827255,50.830167,0.000000
+            5.822997,50.830183,0.000000
+            5.821594,50.831986,0.000000
+            5.821594,50.832000,0.000000
+            5.821653,50.838279,0.000000
+            5.818963,50.839143,0.000000
+            5.824222,50.839579,0.000000
+            5.828937,50.841038,0.000000
+            5.843975,50.843590,0.000000
+            5.853892,50.847811,0.000000
+            5.854350,50.840591,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

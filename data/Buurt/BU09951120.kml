@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09951120 Atolwijk-Oostrandpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.516584,52.516350,0.000000
+            5.516538,52.514358,0.000000
+            5.514438,52.513081,0.000000
+            5.510209,52.514611,0.000000
+            5.510680,52.510744,0.000000
+            5.498578,52.510192,0.000000
+            5.491280,52.511891,0.000000
+            5.481071,52.511449,0.000000
+            5.478358,52.512761,0.000000
+            5.477881,52.517567,0.000000
+            5.502112,52.518728,0.000000
+            5.509737,52.518965,0.000000
+            5.516584,52.516350,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

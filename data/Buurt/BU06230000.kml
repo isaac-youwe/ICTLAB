@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06230000 Haastrecht-Dorpskern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.786269,52.003002,0.000000
+            4.786019,51.999482,0.000000
+            4.782056,51.998588,0.000000
+            4.777494,51.999415,0.000000
+            4.775528,51.999108,0.000000
+            4.773073,52.000499,0.000000
+            4.770873,52.000468,0.000000
+            4.769997,52.000271,0.000000
+            4.771168,51.998491,0.000000
+            4.761561,51.998426,0.000000
+            4.760089,52.001088,0.000000
+            4.766564,52.001255,0.000000
+            4.782186,52.002903,0.000000
+            4.786269,52.003002,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

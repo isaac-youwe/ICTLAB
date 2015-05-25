@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09280101 Erenstein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.068388,50.872292,0.000000
+            6.068197,50.869932,0.000000
+            6.059389,50.870167,0.000000
+            6.056319,50.869042,0.000000
+            6.057861,50.872257,0.000000
+            6.061572,50.874533,0.000000
+            6.066019,50.874717,0.000000
+            6.068388,50.872292,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

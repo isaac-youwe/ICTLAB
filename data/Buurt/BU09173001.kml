@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09173001 Zeswegen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.967301,50.896770,0.000000
+            5.972057,50.893682,0.000000
+            5.969839,50.893498,0.000000
+            5.967334,50.894274,0.000000
+            5.966343,50.893137,0.000000
+            5.959450,50.895477,0.000000
+            5.957674,50.896627,0.000000
+            5.957699,50.898733,0.000000
+            5.956240,50.900455,0.000000
+            5.958087,50.903383,0.000000
+            5.963334,50.901462,0.000000
+            5.967301,50.896770,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

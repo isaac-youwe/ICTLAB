@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600600 Lutten Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.579709,52.614565,0.000000
+            6.580459,52.611388,0.000000
+            6.584250,52.611654,0.000000
+            6.584324,52.610708,0.000000
+            6.573024,52.610192,0.000000
+            6.569869,52.610476,0.000000
+            6.570080,52.613578,0.000000
+            6.571635,52.613737,0.000000
+            6.579709,52.614565,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

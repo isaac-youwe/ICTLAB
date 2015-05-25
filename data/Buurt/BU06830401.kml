@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830401 Blauwhuis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.551069,53.021858,0.000000
+            5.548408,53.020057,0.000000
+            5.542123,53.018877,0.000000
+            5.537862,53.020251,0.000000
+            5.534242,53.019287,0.000000
+            5.527034,53.018979,0.000000
+            5.524892,53.023540,0.000000
+            5.532059,53.025998,0.000000
+            5.555456,53.032351,0.000000
+            5.558104,53.028292,0.000000
+            5.552676,53.025795,0.000000
+            5.552463,53.023141,0.000000
+            5.551069,53.021858,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

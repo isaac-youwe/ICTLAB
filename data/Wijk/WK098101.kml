@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK098101 Wijk 01 Vaals</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.017977,50.762757,0.000000
+            6.020689,50.753752,0.000000
+            6.014032,50.754635,0.000000
+            6.014778,50.763084,0.000000
+            6.011782,50.765164,0.000000
+            6.010709,50.767692,0.000000
+            6.007884,50.768108,0.000000
+            6.006809,50.769590,0.000000
+            6.007273,50.772528,0.000000
+            6.004078,50.776826,0.000000
+            6.001664,50.779781,0.000000
+            5.996989,50.781058,0.000000
+            6.000541,50.784768,0.000000
+            6.006889,50.781696,0.000000
+            6.026654,50.775296,0.000000
+            6.028047,50.773490,0.000000
+            6.017977,50.762757,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

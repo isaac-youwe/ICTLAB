@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051820 Wijk 20 Valkenboskwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.280793,52.074321,0.000000
+            4.283972,52.070647,0.000000
+            4.275909,52.068658,0.000000
+            4.270182,52.066887,0.000000
+            4.267714,52.070633,0.000000
+            4.264125,52.069484,0.000000
+            4.262002,52.073248,0.000000
+            4.268460,52.075587,0.000000
+            4.277035,52.078664,0.000000
+            4.280793,52.074321,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

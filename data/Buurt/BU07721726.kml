@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721726 Gennep</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.476896,51.405370,0.000000
+            5.461975,51.404533,0.000000
+            5.462008,51.404919,0.000000
+            5.464688,51.415881,0.000000
+            5.466759,51.416233,0.000000
+            5.469241,51.419094,0.000000
+            5.468964,51.421781,0.000000
+            5.469974,51.422949,0.000000
+            5.472440,51.425176,0.000000
+            5.477281,51.424566,0.000000
+            5.478249,51.422267,0.000000
+            5.480224,51.421873,0.000000
+            5.481194,51.420636,0.000000
+            5.480908,51.418831,0.000000
+            5.477770,51.417971,0.000000
+            5.477253,51.417178,0.000000
+            5.474786,51.415207,0.000000
+            5.475181,51.409007,0.000000
+            5.476896,51.405370,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03120200 Werkhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.243316,52.027951,0.000000
+            5.244146,52.026608,0.000000
+            5.249145,52.027156,0.000000
+            5.252873,52.025046,0.000000
+            5.246573,52.022766,0.000000
+            5.244010,52.019940,0.000000
+            5.244718,52.017664,0.000000
+            5.248511,52.016536,0.000000
+            5.243948,52.014859,0.000000
+            5.241562,52.017822,0.000000
+            5.241740,52.020755,0.000000
+            5.239530,52.023406,0.000000
+            5.235897,52.024830,0.000000
+            5.243316,52.027951,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

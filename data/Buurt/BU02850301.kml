@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02850301 Posterenk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.116411,52.211932,0.000000
+            6.114855,52.211582,0.000000
+            6.114768,52.215889,0.000000
+            6.116498,52.216393,0.000000
+            6.117271,52.214260,0.000000
+            6.119793,52.213899,0.000000
+            6.119514,52.212998,0.000000
+            6.116411,52.211932,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420901 Emplacement Kijfhoek en Langeweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.590466,51.836277,0.000000
+            4.588106,51.834102,0.000000
+            4.585395,51.835569,0.000000
+            4.577034,51.839645,0.000000
+            4.575520,51.841397,0.000000
+            4.568789,51.845004,0.000000
+            4.571475,51.846706,0.000000
+            4.594743,51.840411,0.000000
+            4.590466,51.836277,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

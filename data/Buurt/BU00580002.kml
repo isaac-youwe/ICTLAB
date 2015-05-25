@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580002 Dokkum Fonteinslanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.022118,53.324603,0.000000
+            6.022052,53.320110,0.000000
+            6.020811,53.317945,0.000000
+            6.008271,53.322639,0.000000
+            6.008684,53.317184,0.000000
+            6.005091,53.318030,0.000000
+            5.997491,53.317745,0.000000
+            5.996244,53.320076,0.000000
+            5.996153,53.323795,0.000000
+            5.998136,53.322687,0.000000
+            6.003280,53.325190,0.000000
+            6.009567,53.325705,0.000000
+            6.024377,53.325713,0.000000
+            6.024541,53.325313,0.000000
+            6.022118,53.324603,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

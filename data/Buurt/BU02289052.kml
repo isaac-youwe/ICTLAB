@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02289052 Hoog Baarlo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.831579,52.100445,0.000000
+            5.825130,52.100463,0.000000
+            5.824749,52.124718,0.000000
+            5.822147,52.131746,0.000000
+            5.833931,52.134511,0.000000
+            5.852269,52.143337,0.000000
+            5.860615,52.145238,0.000000
+            5.860617,52.145233,0.000000
+            5.864808,52.127238,0.000000
+            5.864807,52.127120,0.000000
+            5.864789,52.125440,0.000000
+            5.874428,52.116410,0.000000
+            5.876005,52.114933,0.000000
+            5.876354,52.114606,0.000000
+            5.883565,52.106485,0.000000
+            5.899592,52.103720,0.000000
+            5.910442,52.100320,0.000000
+            5.831579,52.100445,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350304 Lanakerveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.673081,50.880994,0.000000
+            5.672275,50.866121,0.000000
+            5.661073,50.877190,0.000000
+            5.661450,50.877426,0.000000
+            5.661455,50.878325,0.000000
+            5.668576,50.881005,0.000000
+            5.672840,50.880995,0.000000
+            5.673081,50.880994,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

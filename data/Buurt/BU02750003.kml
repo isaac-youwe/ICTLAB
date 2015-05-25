@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02750003 Spankeren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.107877,52.061139,0.000000
+            6.109821,52.058098,0.000000
+            6.112985,52.060095,0.000000
+            6.113913,52.059141,0.000000
+            6.118029,52.060142,0.000000
+            6.124156,52.057770,0.000000
+            6.123067,52.051956,0.000000
+            6.116208,52.048643,0.000000
+            6.116113,52.048585,0.000000
+            6.111041,52.051689,0.000000
+            6.107697,52.057289,0.000000
+            6.104325,52.059803,0.000000
+            6.107877,52.061139,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

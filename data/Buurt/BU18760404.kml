@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18760404 Achterdrempt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.187291,52.022285,0.000000
+            6.186611,52.021328,0.000000
+            6.183515,52.021744,0.000000
+            6.182042,52.021214,0.000000
+            6.180936,52.019700,0.000000
+            6.178019,52.020375,0.000000
+            6.179955,52.024980,0.000000
+            6.184282,52.024362,0.000000
+            6.187291,52.022285,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

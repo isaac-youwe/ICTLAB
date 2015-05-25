@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03210106 Tiellandt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.159667,52.025028,0.000000
+            5.151826,52.024947,0.000000
+            5.144839,52.029444,0.000000
+            5.148083,52.031735,0.000000
+            5.155360,52.033036,0.000000
+            5.155227,52.030625,0.000000
+            5.156702,52.029660,0.000000
+            5.156657,52.029402,0.000000
+            5.157326,52.029279,0.000000
+            5.158667,52.029069,0.000000
+            5.159667,52.025028,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

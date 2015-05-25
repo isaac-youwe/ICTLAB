@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631348 Stadionbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.860850,52.350785,0.000000
+            4.861454,52.349804,0.000000
+            4.865167,52.350729,0.000000
+            4.866605,52.350559,0.000000
+            4.867892,52.343998,0.000000
+            4.862580,52.342569,0.000000
+            4.857456,52.342314,0.000000
+            4.857343,52.338904,0.000000
+            4.846870,52.338098,0.000000
+            4.848020,52.342633,0.000000
+            4.851736,52.343369,0.000000
+            4.851481,52.344867,0.000000
+            4.852974,52.346822,0.000000
+            4.857505,52.347377,0.000000
+            4.857282,52.349831,0.000000
+            4.860850,52.350785,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

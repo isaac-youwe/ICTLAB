@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03071500 Bekenstein en De Luiaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.396207,52.152642,0.000000
+            5.395788,52.151415,0.000000
+            5.391860,52.151066,0.000000
+            5.385663,52.149507,0.000000
+            5.384837,52.150213,0.000000
+            5.386342,52.152683,0.000000
+            5.389481,52.152331,0.000000
+            5.392844,52.153404,0.000000
+            5.393168,52.153549,0.000000
+            5.396207,52.152642,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

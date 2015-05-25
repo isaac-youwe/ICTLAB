@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08080101 Teeffelen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.495015,51.794080,0.000000
+            5.492029,51.793963,0.000000
+            5.490046,51.794255,0.000000
+            5.488381,51.798932,0.000000
+            5.489109,51.799683,0.000000
+            5.493564,51.800102,0.000000
+            5.499316,51.799584,0.000000
+            5.498309,51.795202,0.000000
+            5.495015,51.794080,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

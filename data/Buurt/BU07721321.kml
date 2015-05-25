@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721321 Doornakkers-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.514568,51.441603,0.000000
+            5.512179,51.434039,0.000000
+            5.504092,51.434901,0.000000
+            5.504902,51.437728,0.000000
+            5.504038,51.441600,0.000000
+            5.502682,51.444346,0.000000
+            5.502288,51.444827,0.000000
+            5.504665,51.444859,0.000000
+            5.512991,51.443794,0.000000
+            5.514568,51.441603,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

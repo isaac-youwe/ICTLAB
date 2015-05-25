@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19870100 Noordbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.879015,53.191772,0.000000
+            6.879471,53.183695,0.000000
+            6.877439,53.183719,0.000000
+            6.875286,53.185069,0.000000
+            6.872125,53.185101,0.000000
+            6.871032,53.189419,0.000000
+            6.868689,53.191405,0.000000
+            6.859445,53.192183,0.000000
+            6.858027,53.193667,0.000000
+            6.865531,53.205053,0.000000
+            6.869450,53.208100,0.000000
+            6.873600,53.208931,0.000000
+            6.881064,53.194326,0.000000
+            6.879015,53.191772,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

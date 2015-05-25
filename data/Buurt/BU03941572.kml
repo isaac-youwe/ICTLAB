@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03941572 Noordoost omgeving Vijfhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.688307,52.344043,0.000000
+            4.670927,52.331969,0.000000
+            4.656780,52.338731,0.000000
+            4.654058,52.341605,0.000000
+            4.664752,52.346190,0.000000
+            4.671212,52.348960,0.000000
+            4.673604,52.340443,0.000000
+            4.696487,52.357035,0.000000
+            4.688944,52.361119,0.000000
+            4.679949,52.365989,0.000000
+            4.687117,52.371096,0.000000
+            4.695172,52.376592,0.000000
+            4.692173,52.378129,0.000000
+            4.708042,52.380836,0.000000
+            4.709962,52.373132,0.000000
+            4.721207,52.367074,0.000000
+            4.715511,52.363085,0.000000
+            4.688307,52.344043,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

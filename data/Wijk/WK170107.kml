@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK170107 Wijk 07 Dieverbrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.353694,52.851651,0.000000
+            6.357470,52.845497,0.000000
+            6.360892,52.843895,0.000000
+            6.359886,52.842546,0.000000
+            6.361299,52.841040,0.000000
+            6.355087,52.838136,0.000000
+            6.345565,52.837110,0.000000
+            6.338323,52.837242,0.000000
+            6.332040,52.835544,0.000000
+            6.337955,52.842653,0.000000
+            6.338432,52.843481,0.000000
+            6.336063,52.843701,0.000000
+            6.338749,52.847067,0.000000
+            6.336087,52.847281,0.000000
+            6.338308,52.849592,0.000000
+            6.343344,52.848758,0.000000
+            6.347521,52.854870,0.000000
+            6.354971,52.852191,0.000000
+            6.353694,52.851651,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

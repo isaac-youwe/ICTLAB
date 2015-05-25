@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06120701 Gaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.333734,51.828202,0.000000
+            4.329263,51.827917,0.000000
+            4.326746,51.830316,0.000000
+            4.327945,51.831532,0.000000
+            4.326992,51.833972,0.000000
+            4.332775,51.835548,0.000000
+            4.333715,51.833273,0.000000
+            4.334867,51.830495,0.000000
+            4.334903,51.830229,0.000000
+            4.333734,51.828202,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15980402 Grosthuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.008740,52.629288,0.000000
+            5.005281,52.613228,0.000000
+            5.003044,52.615400,0.000000
+            4.988470,52.613959,0.000000
+            4.980261,52.612024,0.000000
+            4.959066,52.609231,0.000000
+            4.957788,52.611814,0.000000
+            4.956151,52.611624,0.000000
+            4.956031,52.611909,0.000000
+            4.953683,52.613321,0.000000
+            4.959255,52.617937,0.000000
+            4.965527,52.621177,0.000000
+            5.008740,52.629288,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

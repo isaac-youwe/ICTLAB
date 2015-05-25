@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03880101 Kadijken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.282235,52.735303,0.000000
+            5.281719,52.716096,0.000000
+            5.280147,52.715840,0.000000
+            5.256951,52.716671,0.000000
+            5.256950,52.716881,0.000000
+            5.256918,52.727666,0.000000
+            5.256911,52.727718,0.000000
+            5.260513,52.727673,0.000000
+            5.260225,52.728440,0.000000
+            5.262758,52.730763,0.000000
+            5.264743,52.730702,0.000000
+            5.280645,52.734805,0.000000
+            5.282235,52.735303,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

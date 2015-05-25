@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991081 Bloemhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.507594,51.889750,0.000000
+            4.493871,51.889373,0.000000
+            4.493923,51.889807,0.000000
+            4.493701,51.894282,0.000000
+            4.495246,51.897463,0.000000
+            4.502309,51.898351,0.000000
+            4.501963,51.897396,0.000000
+            4.509250,51.893496,0.000000
+            4.507594,51.889750,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

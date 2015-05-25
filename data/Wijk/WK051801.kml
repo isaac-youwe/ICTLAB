@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051801 Wijk 01 Oostduinen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.327142,52.108511,0.000000
+            4.314892,52.106492,0.000000
+            4.303748,52.110500,0.000000
+            4.293474,52.113867,0.000000
+            4.287468,52.118523,0.000000
+            4.287586,52.118583,0.000000
+            4.303428,52.127719,0.000000
+            4.328391,52.109082,0.000000
+            4.328683,52.108864,0.000000
+            4.327142,52.108511,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

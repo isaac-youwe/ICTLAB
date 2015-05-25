@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03400303 Helling Bergweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.567433,51.972493,0.000000
+            5.576395,51.969672,0.000000
+            5.579559,51.966512,0.000000
+            5.579170,51.964634,0.000000
+            5.575747,51.967600,0.000000
+            5.573308,51.967733,0.000000
+            5.573314,51.968591,0.000000
+            5.568115,51.970224,0.000000
+            5.566310,51.970036,0.000000
+            5.566131,51.969239,0.000000
+            5.563355,51.969997,0.000000
+            5.565173,51.977332,0.000000
+            5.567433,51.972493,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

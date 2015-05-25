@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630004 Nieuwmarkt en Lastage</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.905973,52.366757,0.000000
+            4.901120,52.365781,0.000000
+            4.900127,52.366866,0.000000
+            4.895819,52.367463,0.000000
+            4.895418,52.367542,0.000000
+            4.903084,52.376780,0.000000
+            4.905736,52.379892,0.000000
+            4.910906,52.380008,0.000000
+            4.911737,52.376567,0.000000
+            4.913390,52.373653,0.000000
+            4.913323,52.371452,0.000000
+            4.909741,52.369206,0.000000
+            4.905973,52.366757,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

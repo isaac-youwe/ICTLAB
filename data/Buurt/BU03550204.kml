@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03550204 Mooi Zeist, Sanatorium en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.238109,52.100251,0.000000
+            5.234650,52.099028,0.000000
+            5.233001,52.096746,0.000000
+            5.224790,52.094093,0.000000
+            5.219820,52.096716,0.000000
+            5.215920,52.097892,0.000000
+            5.212051,52.097935,0.000000
+            5.212045,52.099262,0.000000
+            5.215236,52.100092,0.000000
+            5.219170,52.099514,0.000000
+            5.229415,52.100404,0.000000
+            5.237122,52.101925,0.000000
+            5.238109,52.100251,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

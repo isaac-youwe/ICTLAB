@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17090703 Zwingelspaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.521419,51.652313,0.000000
+            4.519888,51.650358,0.000000
+            4.507917,51.655506,0.000000
+            4.493325,51.659795,0.000000
+            4.491596,51.661036,0.000000
+            4.494889,51.661227,0.000000
+            4.495138,51.662363,0.000000
+            4.496309,51.662193,0.000000
+            4.496084,51.660950,0.000000
+            4.508342,51.657454,0.000000
+            4.521419,51.652313,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

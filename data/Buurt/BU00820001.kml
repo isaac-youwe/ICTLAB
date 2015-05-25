@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00820001 Lemmer Kom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.707811,52.839654,0.000000
+            5.707791,52.836957,0.000000
+            5.703345,52.837868,0.000000
+            5.700396,52.840572,0.000000
+            5.699044,52.843909,0.000000
+            5.708538,52.845962,0.000000
+            5.712482,52.846017,0.000000
+            5.711666,52.844435,0.000000
+            5.715468,52.843567,0.000000
+            5.715152,52.843197,0.000000
+            5.709308,52.841447,0.000000
+            5.707811,52.839654,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

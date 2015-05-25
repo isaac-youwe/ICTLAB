@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08240005 Industrieterrein Kerckhoven Laarakkers</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.201016,51.592291,0.000000
+            5.203918,51.588700,0.000000
+            5.209680,51.591406,0.000000
+            5.214030,51.586019,0.000000
+            5.214031,51.586019,0.000000
+            5.213955,51.585526,0.000000
+            5.213895,51.585574,0.000000
+            5.203337,51.584199,0.000000
+            5.201947,51.586236,0.000000
+            5.198171,51.585969,0.000000
+            5.199385,51.583340,0.000000
+            5.183987,51.579928,0.000000
+            5.183182,51.584956,0.000000
+            5.187116,51.586783,0.000000
+            5.188722,51.587692,0.000000
+            5.191765,51.592444,0.000000
+            5.194398,51.596392,0.000000
+            5.200552,51.592579,0.000000
+            5.201016,51.592291,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

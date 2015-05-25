@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16400309 Heioord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.790282,51.171219,0.000000
+            5.800412,51.158411,0.000000
+            5.800373,51.158399,0.000000
+            5.796076,51.157515,0.000000
+            5.791780,51.156631,0.000000
+            5.786046,51.154853,0.000000
+            5.784601,51.153060,0.000000
+            5.777438,51.151286,0.000000
+            5.774610,51.154892,0.000000
+            5.778936,51.159372,0.000000
+            5.778967,51.162968,0.000000
+            5.776123,51.164775,0.000000
+            5.770396,51.163896,0.000000
+            5.769011,51.169294,0.000000
+            5.770449,51.170188,0.000000
+            5.771871,51.169285,0.000000
+            5.780032,51.171816,0.000000
+            5.790282,51.171219,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

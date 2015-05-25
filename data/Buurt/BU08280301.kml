@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280301 Oranjebuurt I en Ruivert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.534167,51.755008,0.000000
+            5.534432,51.752344,0.000000
+            5.533619,51.752407,0.000000
+            5.528640,51.751570,0.000000
+            5.523890,51.755581,0.000000
+            5.530699,51.759696,0.000000
+            5.530794,51.760682,0.000000
+            5.533168,51.759514,0.000000
+            5.537129,51.757514,0.000000
+            5.537519,51.755932,0.000000
+            5.534167,51.755008,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

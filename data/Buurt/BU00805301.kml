@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00805301 Goutum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.804320,53.171940,0.000000
+            5.800538,53.170172,0.000000
+            5.797238,53.171419,0.000000
+            5.793889,53.174486,0.000000
+            5.795342,53.176358,0.000000
+            5.796817,53.183368,0.000000
+            5.797218,53.183389,0.000000
+            5.808211,53.183557,0.000000
+            5.816581,53.184737,0.000000
+            5.818630,53.180394,0.000000
+            5.816167,53.178161,0.000000
+            5.803741,53.173261,0.000000
+            5.804320,53.171940,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

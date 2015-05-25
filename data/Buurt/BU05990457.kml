@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990457 Landzicht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.432824,51.944918,0.000000
+            4.431254,51.944283,0.000000
+            4.430659,51.944815,0.000000
+            4.428628,51.943470,0.000000
+            4.426306,51.945459,0.000000
+            4.428179,51.946074,0.000000
+            4.430944,51.946717,0.000000
+            4.432824,51.944918,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

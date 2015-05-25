@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03840117 Ruimzicht-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.972484,52.339797,0.000000
+            4.971085,52.338699,0.000000
+            4.963199,52.340979,0.000000
+            4.967528,52.345208,0.000000
+            4.973737,52.343221,0.000000
+            4.973678,52.342943,0.000000
+            4.971298,52.342504,0.000000
+            4.971078,52.340524,0.000000
+            4.972484,52.339797,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

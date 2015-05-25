@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00590109 Verspreide huizen Augustinusga</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.184507,53.233458,0.000000
+            6.190286,53.223899,0.000000
+            6.172894,53.213038,0.000000
+            6.169583,53.210958,0.000000
+            6.154671,53.201377,0.000000
+            6.155478,53.201091,0.000000
+            6.150417,53.198079,0.000000
+            6.147236,53.197281,0.000000
+            6.145482,53.201903,0.000000
+            6.144114,53.205340,0.000000
+            6.147542,53.222452,0.000000
+            6.135552,53.221214,0.000000
+            6.137850,53.229193,0.000000
+            6.154450,53.227236,0.000000
+            6.182022,53.237381,0.000000
+            6.184507,53.233458,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.146598,53.212398,0.000000
+            6.151284,53.211986,0.000000
+            6.161027,53.212998,0.000000
+            6.165693,53.212609,0.000000
+            6.167797,53.219004,0.000000
+            6.171271,53.221499,0.000000
+            6.168791,53.222178,0.000000
+            6.165424,53.222034,0.000000
+            6.156007,53.219692,0.000000
+            6.146598,53.212398,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

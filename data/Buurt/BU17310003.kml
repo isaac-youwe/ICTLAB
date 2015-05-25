@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17310003 Brunsting</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.496178,52.870921,0.000000
+            6.492031,52.868341,0.000000
+            6.490612,52.869642,0.000000
+            6.488028,52.868493,0.000000
+            6.485565,52.868482,0.000000
+            6.479349,52.873528,0.000000
+            6.482515,52.874121,0.000000
+            6.483466,52.872234,0.000000
+            6.494164,52.872005,0.000000
+            6.496178,52.870921,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

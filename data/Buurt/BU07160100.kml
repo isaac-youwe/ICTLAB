@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07160100 Poortvliet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.146560,51.546332,0.000000
+            4.149060,51.544142,0.000000
+            4.150558,51.545520,0.000000
+            4.151709,51.544113,0.000000
+            4.150808,51.542508,0.000000
+            4.146794,51.542549,0.000000
+            4.145763,51.540766,0.000000
+            4.141678,51.540785,0.000000
+            4.137404,51.541828,0.000000
+            4.137410,51.542886,0.000000
+            4.135390,51.543290,0.000000
+            4.137188,51.546342,0.000000
+            4.140034,51.546593,0.000000
+            4.139745,51.545204,0.000000
+            4.140558,51.545266,0.000000
+            4.141980,51.548894,0.000000
+            4.145692,51.549424,0.000000
+            4.146560,51.546332,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

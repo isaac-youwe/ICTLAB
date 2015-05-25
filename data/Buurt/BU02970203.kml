@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02970203 Gameren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.225189,51.805137,0.000000
+            5.209288,51.802610,0.000000
+            5.208140,51.800084,0.000000
+            5.209945,51.799320,0.000000
+            5.210272,51.797331,0.000000
+            5.200439,51.796295,0.000000
+            5.199994,51.797980,0.000000
+            5.187431,51.796008,0.000000
+            5.183975,51.800737,0.000000
+            5.182790,51.804241,0.000000
+            5.193341,51.805498,0.000000
+            5.202348,51.804037,0.000000
+            5.207760,51.804312,0.000000
+            5.223106,51.807551,0.000000
+            5.224933,51.805996,0.000000
+            5.225189,51.805137,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

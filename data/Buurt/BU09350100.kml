@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350100 Villapark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.697965,50.833848,0.000000
+            5.697924,50.825431,0.000000
+            5.695447,50.825593,0.000000
+            5.691091,50.834487,0.000000
+            5.687987,50.834999,0.000000
+            5.686656,50.837584,0.000000
+            5.688573,50.841600,0.000000
+            5.695495,50.842487,0.000000
+            5.699652,50.841734,0.000000
+            5.699259,50.840327,0.000000
+            5.697965,50.833848,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

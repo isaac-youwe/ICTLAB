@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK039809 Wijk 09 Centrum en Stationsplein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.832512,52.662869,0.000000
+            4.826800,52.658722,0.000000
+            4.826548,52.658899,0.000000
+            4.824296,52.661699,0.000000
+            4.823939,52.663984,0.000000
+            4.821274,52.665799,0.000000
+            4.824132,52.667323,0.000000
+            4.832512,52.662869,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.824500,52.670768,0.000000
+            4.817778,52.667794,0.000000
+            4.816085,52.669004,0.000000
+            4.822792,52.672137,0.000000
+            4.824500,52.670768,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

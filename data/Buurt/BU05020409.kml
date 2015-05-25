@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020409 Paradijsel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.613656,51.926100,0.000000
+            4.610764,51.925182,0.000000
+            4.606974,51.925936,0.000000
+            4.606791,51.928377,0.000000
+            4.611529,51.929723,0.000000
+            4.618034,51.932897,0.000000
+            4.619162,51.934306,0.000000
+            4.619334,51.934228,0.000000
+            4.619349,51.933329,0.000000
+            4.617941,51.930623,0.000000
+            4.613656,51.926100,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

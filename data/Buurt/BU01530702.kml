@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530702 Koekoeksbeekhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.841407,52.231815,0.000000
+            6.838235,52.229609,0.000000
+            6.830090,52.236684,0.000000
+            6.825158,52.239784,0.000000
+            6.818017,52.241137,0.000000
+            6.819426,52.243570,0.000000
+            6.819566,52.243652,0.000000
+            6.826694,52.240837,0.000000
+            6.841407,52.231815,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770103 t Jagertje-Schuddebeurs</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.071857,51.300463,0.000000
+            4.073395,51.293591,0.000000
+            4.066737,51.290801,0.000000
+            4.060825,51.292616,0.000000
+            4.058066,51.293487,0.000000
+            4.060127,51.296395,0.000000
+            4.062734,51.295786,0.000000
+            4.063418,51.304671,0.000000
+            4.066367,51.305528,0.000000
+            4.067928,51.302042,0.000000
+            4.070814,51.301116,0.000000
+            4.071857,51.300463,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

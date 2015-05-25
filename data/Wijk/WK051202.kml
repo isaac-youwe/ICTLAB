@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051202 Wijk 02 Wijdschild</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.986475,51.838229,0.000000
+            4.988217,51.834950,0.000000
+            4.989788,51.835042,0.000000
+            4.989582,51.831680,0.000000
+            4.989849,51.829181,0.000000
+            4.991641,51.827575,0.000000
+            4.984665,51.828302,0.000000
+            4.984745,51.830296,0.000000
+            4.986198,51.831282,0.000000
+            4.982056,51.833866,0.000000
+            4.980447,51.833926,0.000000
+            4.986475,51.838229,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

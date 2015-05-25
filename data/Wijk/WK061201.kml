@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK061201 Wijk 01 Schiekamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.317361,51.851996,0.000000
+            4.310532,51.850775,0.000000
+            4.305588,51.853548,0.000000
+            4.302351,51.856308,0.000000
+            4.304151,51.857449,0.000000
+            4.314101,51.859060,0.000000
+            4.325049,51.860107,0.000000
+            4.326059,51.858619,0.000000
+            4.328988,51.854763,0.000000
+            4.325184,51.853475,0.000000
+            4.317361,51.851996,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

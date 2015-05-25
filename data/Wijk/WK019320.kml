@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK019320 Wijk 20 Poort van Zwolle</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.065985,52.505657,0.000000
+            6.054356,52.499388,0.000000
+            6.045639,52.503904,0.000000
+            6.045288,52.504067,0.000000
+            6.046585,52.506010,0.000000
+            6.049965,52.507028,0.000000
+            6.054416,52.510145,0.000000
+            6.066108,52.518983,0.000000
+            6.068972,52.521173,0.000000
+            6.071055,52.525412,0.000000
+            6.074245,52.524008,0.000000
+            6.075966,52.520695,0.000000
+            6.083941,52.517029,0.000000
+            6.076109,52.512341,0.000000
+            6.065985,52.505657,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

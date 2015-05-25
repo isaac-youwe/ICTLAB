@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15070000 Griendtsveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.889327,51.444423,0.000000
+            5.889952,51.442191,0.000000
+            5.892999,51.442479,0.000000
+            5.893454,51.440651,0.000000
+            5.883394,51.439658,0.000000
+            5.881400,51.441678,0.000000
+            5.880514,51.441355,0.000000
+            5.876543,51.444710,0.000000
+            5.880131,51.445375,0.000000
+            5.889327,51.444423,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

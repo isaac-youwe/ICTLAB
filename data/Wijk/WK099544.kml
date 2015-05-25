@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK099544 Gebied 44 Lelystad Zuidoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.491280,52.511891,0.000000
+            5.498578,52.510192,0.000000
+            5.510680,52.510744,0.000000
+            5.510508,52.499492,0.000000
+            5.524638,52.499569,0.000000
+            5.530032,52.500309,0.000000
+            5.521857,52.490803,0.000000
+            5.515162,52.486184,0.000000
+            5.507560,52.482396,0.000000
+            5.503194,52.480455,0.000000
+            5.497296,52.484336,0.000000
+            5.491757,52.488027,0.000000
+            5.485269,52.492026,0.000000
+            5.481387,52.493151,0.000000
+            5.481863,52.497548,0.000000
+            5.480279,52.501316,0.000000
+            5.479148,52.505598,0.000000
+            5.479008,52.506750,0.000000
+            5.481576,52.507600,0.000000
+            5.481071,52.511449,0.000000
+            5.491280,52.511891,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

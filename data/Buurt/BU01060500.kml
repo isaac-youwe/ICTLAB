@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060500 Loon</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.617070,53.010127,0.000000
+            6.614046,53.009499,0.000000
+            6.610337,53.010078,0.000000
+            6.608449,53.012062,0.000000
+            6.609818,53.014580,0.000000
+            6.613895,53.016040,0.000000
+            6.616590,53.015410,0.000000
+            6.617361,53.011375,0.000000
+            6.617070,53.010127,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05790023 De Morsebel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.483496,52.199751,0.000000
+            4.484997,52.194765,0.000000
+            4.483444,52.193972,0.000000
+            4.478896,52.195627,0.000000
+            4.476679,52.195325,0.000000
+            4.473801,52.196717,0.000000
+            4.475212,52.198143,0.000000
+            4.476728,52.197049,0.000000
+            4.479062,52.199132,0.000000
+            4.483496,52.199751,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

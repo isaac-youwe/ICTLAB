@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06220706 Hoevenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.360380,51.937645,0.000000
+            4.361876,51.935860,0.000000
+            4.362006,51.935629,0.000000
+            4.362065,51.935526,0.000000
+            4.358145,51.934636,0.000000
+            4.356708,51.937262,0.000000
+            4.353684,51.936482,0.000000
+            4.352342,51.936868,0.000000
+            4.349530,51.940138,0.000000
+            4.346852,51.942457,0.000000
+            4.355059,51.943993,0.000000
+            4.356061,51.943638,0.000000
+            4.360263,51.937808,0.000000
+            4.360380,51.937645,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

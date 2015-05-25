@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290003 Reijmerstok</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.841838,50.795460,0.000000
+            5.832690,50.788645,0.000000
+            5.832536,50.788793,0.000000
+            5.828290,50.789708,0.000000
+            5.827868,50.790115,0.000000
+            5.822667,50.795124,0.000000
+            5.822559,50.795334,0.000000
+            5.835745,50.804929,0.000000
+            5.849325,50.804955,0.000000
+            5.850481,50.803429,0.000000
+            5.847154,50.802049,0.000000
+            5.841838,50.795460,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16550101 Oud Gastel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.463655,51.589830,0.000000
+            4.467781,51.573594,0.000000
+            4.464180,51.572100,0.000000
+            4.459647,51.577631,0.000000
+            4.453838,51.582389,0.000000
+            4.451101,51.582674,0.000000
+            4.449319,51.585226,0.000000
+            4.447186,51.585051,0.000000
+            4.446675,51.587582,0.000000
+            4.449688,51.588966,0.000000
+            4.449016,51.592518,0.000000
+            4.449919,51.594539,0.000000
+            4.454035,51.599585,0.000000
+            4.459222,51.601990,0.000000
+            4.463655,51.589830,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

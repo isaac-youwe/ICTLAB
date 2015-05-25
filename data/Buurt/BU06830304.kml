@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830304 Sandfirden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.523219,52.980705,0.000000
+            5.518285,52.979513,0.000000
+            5.497771,52.980623,0.000000
+            5.512330,52.995502,0.000000
+            5.510848,52.998199,0.000000
+            5.507276,52.999641,0.000000
+            5.531722,53.000164,0.000000
+            5.527525,52.989992,0.000000
+            5.523366,52.985317,0.000000
+            5.523219,52.980705,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK056801 Wijk 01 Heenvliet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.215351,51.851591,0.000000
+            4.198297,51.849718,0.000000
+            4.198346,51.849813,0.000000
+            4.196894,51.849798,0.000000
+            4.186805,51.849695,0.000000
+            4.186735,51.849695,0.000000
+            4.185284,51.849680,0.000000
+            4.239861,51.872701,0.000000
+            4.241336,51.871817,0.000000
+            4.241599,51.871727,0.000000
+            4.245636,51.870351,0.000000
+            4.251591,51.868320,0.000000
+            4.251866,51.868238,0.000000
+            4.249603,51.867234,0.000000
+            4.243359,51.859929,0.000000
+            4.241396,51.854928,0.000000
+            4.224094,51.854198,0.000000
+            4.215351,51.851591,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

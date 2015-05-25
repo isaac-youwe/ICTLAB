@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01710300 Kraggenburg kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.906290,52.665106,0.000000
+            5.908851,52.661421,0.000000
+            5.898080,52.658805,0.000000
+            5.894081,52.662663,0.000000
+            5.892134,52.662014,0.000000
+            5.891924,52.664763,0.000000
+            5.890787,52.665837,0.000000
+            5.891660,52.666063,0.000000
+            5.899025,52.665062,0.000000
+            5.900836,52.667009,0.000000
+            5.904133,52.666436,0.000000
+            5.906290,52.665106,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

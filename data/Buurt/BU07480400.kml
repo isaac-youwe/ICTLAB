@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480400 Halsteren-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.280175,51.533301,0.000000
+            4.276614,51.527930,0.000000
+            4.275101,51.524743,0.000000
+            4.275376,51.520761,0.000000
+            4.262292,51.524493,0.000000
+            4.256626,51.527648,0.000000
+            4.254297,51.528088,0.000000
+            4.263236,51.530346,0.000000
+            4.269309,51.530394,0.000000
+            4.279676,51.534003,0.000000
+            4.280175,51.533301,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

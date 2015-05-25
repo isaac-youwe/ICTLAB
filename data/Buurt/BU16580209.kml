@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16580209 Verspreide huizen Dijkse Heide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.537805,51.307368,0.000000
+            5.537733,51.307331,0.000000
+            5.531310,51.314715,0.000000
+            5.526321,51.316050,0.000000
+            5.526105,51.329581,0.000000
+            5.544805,51.329671,0.000000
+            5.548045,51.332422,0.000000
+            5.550544,51.337662,0.000000
+            5.553929,51.329858,0.000000
+            5.568156,51.320865,0.000000
+            5.567978,51.320810,0.000000
+            5.537805,51.307368,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

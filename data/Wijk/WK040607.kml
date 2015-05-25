@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK040607 Wijk 07 Stad en Lande</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.254176,52.285096,0.000000
+            5.250732,52.284035,0.000000
+            5.247031,52.286330,0.000000
+            5.250032,52.292004,0.000000
+            5.253330,52.297037,0.000000
+            5.256883,52.296461,0.000000
+            5.261664,52.294272,0.000000
+            5.258381,52.289212,0.000000
+            5.257304,52.286059,0.000000
+            5.254176,52.285096,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

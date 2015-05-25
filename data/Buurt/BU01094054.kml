@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01094054 Achterste Erm</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.828401,52.742357,0.000000
+            6.818241,52.740877,0.000000
+            6.816354,52.742384,0.000000
+            6.818294,52.743326,0.000000
+            6.818184,52.745725,0.000000
+            6.823270,52.747902,0.000000
+            6.827713,52.746871,0.000000
+            6.831653,52.743934,0.000000
+            6.828401,52.742357,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

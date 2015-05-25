@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17710006 Coevering</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.598556,51.417848,0.000000
+            5.568718,51.409025,0.000000
+            5.565862,51.415044,0.000000
+            5.565924,51.417309,0.000000
+            5.565137,51.420082,0.000000
+            5.570638,51.421126,0.000000
+            5.578523,51.421453,0.000000
+            5.577972,51.423382,0.000000
+            5.588088,51.425449,0.000000
+            5.599242,51.417923,0.000000
+            5.598556,51.417848,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

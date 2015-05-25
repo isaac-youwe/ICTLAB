@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03400104 Grebbekwartier Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.583635,51.958669,0.000000
+            5.582677,51.957235,0.000000
+            5.577571,51.957834,0.000000
+            5.579028,51.964475,0.000000
+            5.579170,51.964634,0.000000
+            5.582079,51.964951,0.000000
+            5.583168,51.964550,0.000000
+            5.581796,51.961489,0.000000
+            5.583635,51.958669,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

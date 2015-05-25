@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02620208 Verspreide huizen Exel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.439529,52.191932,0.000000
+            6.425807,52.186130,0.000000
+            6.419930,52.179929,0.000000
+            6.415146,52.177504,0.000000
+            6.411948,52.173546,0.000000
+            6.408067,52.175453,0.000000
+            6.394735,52.174247,0.000000
+            6.394887,52.177205,0.000000
+            6.383346,52.175892,0.000000
+            6.381823,52.175820,0.000000
+            6.379280,52.177535,0.000000
+            6.376436,52.182867,0.000000
+            6.380213,52.183640,0.000000
+            6.385645,52.183134,0.000000
+            6.444792,52.205438,0.000000
+            6.452139,52.206386,0.000000
+            6.452398,52.206098,0.000000
+            6.453818,52.204287,0.000000
+            6.456433,52.201799,0.000000
+            6.439529,52.191932,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.412118,52.185281,0.000000
+            6.411996,52.182440,0.000000
+            6.413612,52.181798,0.000000
+            6.414039,52.183435,0.000000
+            6.416642,52.184662,0.000000
+            6.414849,52.186302,0.000000
+            6.412752,52.186069,0.000000
+            6.412118,52.185281,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

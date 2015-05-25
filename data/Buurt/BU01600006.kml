@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600006 Baalder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.653865,52.585985,0.000000
+            6.634963,52.576031,0.000000
+            6.632956,52.578587,0.000000
+            6.628370,52.580378,0.000000
+            6.630349,52.582213,0.000000
+            6.632503,52.588400,0.000000
+            6.634854,52.591589,0.000000
+            6.632524,52.593381,0.000000
+            6.633964,52.594221,0.000000
+            6.650191,52.592765,0.000000
+            6.653865,52.585985,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

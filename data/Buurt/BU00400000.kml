@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00400000 Slochteren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.811353,53.216409,0.000000
+            6.791011,53.197599,0.000000
+            6.782360,53.201455,0.000000
+            6.799075,53.212302,0.000000
+            6.794186,53.214089,0.000000
+            6.801784,53.219851,0.000000
+            6.793216,53.223241,0.000000
+            6.797764,53.225273,0.000000
+            6.801868,53.224354,0.000000
+            6.813368,53.218428,0.000000
+            6.811353,53.216409,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

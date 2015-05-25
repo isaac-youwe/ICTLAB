@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01480105 Verspreide huizen Dalfserveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.284826,52.542924,0.000000
+            6.292421,52.531673,0.000000
+            6.261479,52.529749,0.000000
+            6.252876,52.529238,0.000000
+            6.252012,52.531319,0.000000
+            6.245186,52.530570,0.000000
+            6.240501,52.537337,0.000000
+            6.233255,52.535220,0.000000
+            6.229624,52.541211,0.000000
+            6.193214,52.532004,0.000000
+            6.189113,52.536279,0.000000
+            6.189401,52.536688,0.000000
+            6.196681,52.547014,0.000000
+            6.196807,52.547204,0.000000
+            6.270623,52.566402,0.000000
+            6.273588,52.561385,0.000000
+            6.284826,52.542924,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

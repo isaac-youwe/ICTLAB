@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05370701 Valkenburgerweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.440583,52.189199,0.000000
+            4.442012,52.188523,0.000000
+            4.445520,52.188767,0.000000
+            4.448261,52.182892,0.000000
+            4.447123,52.182783,0.000000
+            4.438119,52.181918,0.000000
+            4.435218,52.180997,0.000000
+            4.430987,52.184297,0.000000
+            4.428285,52.187247,0.000000
+            4.429436,52.190328,0.000000
+            4.440583,52.189199,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

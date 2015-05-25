@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01934020 Veldhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.169688,52.520548,0.000000
+            6.138340,52.505731,0.000000
+            6.130852,52.510182,0.000000
+            6.127832,52.514078,0.000000
+            6.126818,52.519937,0.000000
+            6.128542,52.520470,0.000000
+            6.140184,52.519783,0.000000
+            6.143200,52.520484,0.000000
+            6.150905,52.522844,0.000000
+            6.149231,52.525147,0.000000
+            6.163673,52.524413,0.000000
+            6.169688,52.520548,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

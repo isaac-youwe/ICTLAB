@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17220201 Wanswerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.853607,53.300086,0.000000
+            5.849137,53.298158,0.000000
+            5.845601,53.299676,0.000000
+            5.846467,53.302952,0.000000
+            5.848862,53.303707,0.000000
+            5.851072,53.303573,0.000000
+            5.853993,53.301080,0.000000
+            5.853607,53.300086,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

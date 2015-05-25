@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04895073 BT Veiling</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.559664,51.859178,0.000000
+            4.556399,51.858434,0.000000
+            4.554004,51.861164,0.000000
+            4.554705,51.861578,0.000000
+            4.553131,51.865180,0.000000
+            4.553138,51.865186,0.000000
+            4.554926,51.866665,0.000000
+            4.555145,51.866368,0.000000
+            4.556303,51.864523,0.000000
+            4.559634,51.859208,0.000000
+            4.559664,51.859178,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

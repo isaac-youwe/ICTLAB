@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08450100 Gemonde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.367129,51.619607,0.000000
+            5.360360,51.614064,0.000000
+            5.359147,51.614516,0.000000
+            5.355190,51.613733,0.000000
+            5.354332,51.614204,0.000000
+            5.351014,51.617342,0.000000
+            5.350001,51.620720,0.000000
+            5.353414,51.624866,0.000000
+            5.368296,51.624362,0.000000
+            5.367129,51.619607,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

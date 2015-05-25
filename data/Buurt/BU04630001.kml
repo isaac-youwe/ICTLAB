@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04630001 Wieringerwerf Schepenwijk, Waddenwijk e</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.037151,52.856822,0.000000
+            5.042185,52.851020,0.000000
+            5.036309,52.849229,0.000000
+            5.032869,52.852922,0.000000
+            5.031658,52.852540,0.000000
+            5.029304,52.855605,0.000000
+            5.030220,52.855883,0.000000
+            5.036156,52.857806,0.000000
+            5.037151,52.856822,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

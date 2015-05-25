@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19550208 Verspreide huizen Nieuw-Dijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.193512,51.940967,0.000000
+            6.180835,51.930508,0.000000
+            6.179084,51.927944,0.000000
+            6.169066,51.915506,0.000000
+            6.162466,51.913227,0.000000
+            6.155152,51.912114,0.000000
+            6.154070,51.908513,0.000000
+            6.153188,51.909070,0.000000
+            6.140390,51.915359,0.000000
+            6.141291,51.918591,0.000000
+            6.137970,51.919435,0.000000
+            6.139874,51.922324,0.000000
+            6.140281,51.927342,0.000000
+            6.143133,51.927628,0.000000
+            6.142270,51.932088,0.000000
+            6.139949,51.935338,0.000000
+            6.158097,51.940785,0.000000
+            6.182740,51.948123,0.000000
+            6.183216,51.948262,0.000000
+            6.187271,51.945700,0.000000
+            6.188678,51.942994,0.000000
+            6.193009,51.941166,0.000000
+            6.193512,51.940967,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.150455,51.932232,0.000000
+            6.159764,51.929785,0.000000
+            6.161454,51.934025,0.000000
+            6.152617,51.935010,0.000000
+            6.150455,51.932232,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17420500 Buurtschap Neerdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.402411,52.304796,0.000000
+            6.404718,52.294564,0.000000
+            6.405569,52.292635,0.000000
+            6.409338,52.289978,0.000000
+            6.408156,52.287205,0.000000
+            6.404826,52.284700,0.000000
+            6.403684,52.281014,0.000000
+            6.399626,52.280299,0.000000
+            6.378250,52.276501,0.000000
+            6.373653,52.283323,0.000000
+            6.369958,52.284004,0.000000
+            6.366908,52.287883,0.000000
+            6.371002,52.298846,0.000000
+            6.374384,52.297325,0.000000
+            6.386245,52.297212,0.000000
+            6.394877,52.307882,0.000000
+            6.400258,52.308831,0.000000
+            6.400420,52.308319,0.000000
+            6.402411,52.304796,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

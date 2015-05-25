@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17340203 Valburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.795701,51.908862,0.000000
+            5.793071,51.906139,0.000000
+            5.774332,51.911175,0.000000
+            5.772637,51.912054,0.000000
+            5.772511,51.913413,0.000000
+            5.776026,51.915133,0.000000
+            5.781067,51.915554,0.000000
+            5.781160,51.916577,0.000000
+            5.795322,51.915393,0.000000
+            5.794409,51.912629,0.000000
+            5.795701,51.908862,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

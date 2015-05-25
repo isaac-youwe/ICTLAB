@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03450204 Petenbos-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.557459,52.008076,0.000000
+            5.560793,52.002087,0.000000
+            5.560524,52.002230,0.000000
+            5.557615,52.003133,0.000000
+            5.555006,51.999931,0.000000
+            5.554688,51.999542,0.000000
+            5.553229,51.998645,0.000000
+            5.553066,51.998746,0.000000
+            5.548869,52.001348,0.000000
+            5.548326,52.001684,0.000000
+            5.556319,52.009885,0.000000
+            5.557459,52.008076,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

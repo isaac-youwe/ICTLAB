@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01960009 Verspreide huizen Geitenwaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.086738,51.882102,0.000000
+            6.080749,51.880327,0.000000
+            6.074529,51.876666,0.000000
+            6.070107,51.875435,0.000000
+            6.061384,51.880233,0.000000
+            6.059733,51.883727,0.000000
+            6.060352,51.884585,0.000000
+            6.061359,51.884408,0.000000
+            6.066108,51.882082,0.000000
+            6.086958,51.885179,0.000000
+            6.090609,51.884303,0.000000
+            6.086738,51.882102,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

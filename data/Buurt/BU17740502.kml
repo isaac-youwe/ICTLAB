@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17740502 Ootmarsum villapark Stobbenkamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.894331,52.409891,0.000000
+            6.893400,52.407364,0.000000
+            6.896821,52.404089,0.000000
+            6.894222,52.403179,0.000000
+            6.890679,52.404046,0.000000
+            6.889451,52.404855,0.000000
+            6.889517,52.407466,0.000000
+            6.887097,52.407329,0.000000
+            6.890525,52.410183,0.000000
+            6.892470,52.410635,0.000000
+            6.894331,52.409891,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

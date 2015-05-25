@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK173001 Wijk 01 De Groeve</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.718787,53.106156,0.000000
+            6.709958,53.103885,0.000000
+            6.708555,53.104056,0.000000
+            6.707683,53.106079,0.000000
+            6.704277,53.106076,0.000000
+            6.704687,53.107861,0.000000
+            6.697310,53.112524,0.000000
+            6.694977,53.121419,0.000000
+            6.718312,53.120283,0.000000
+            6.718871,53.120251,0.000000
+            6.721316,53.120110,0.000000
+            6.723397,53.119991,0.000000
+            6.737701,53.119167,0.000000
+            6.743152,53.116610,0.000000
+            6.743590,53.116404,0.000000
+            6.745163,53.115422,0.000000
+            6.739594,53.113976,0.000000
+            6.740587,53.112127,0.000000
+            6.718787,53.106156,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

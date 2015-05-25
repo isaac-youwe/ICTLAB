@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08850105 Genooi (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.165302,51.398162,0.000000
+            6.167870,51.397654,0.000000
+            6.170789,51.399088,0.000000
+            6.171761,51.396521,0.000000
+            6.170436,51.396530,0.000000
+            6.169757,51.396499,0.000000
+            6.153220,51.395748,0.000000
+            6.153177,51.395746,0.000000
+            6.153146,51.395849,0.000000
+            6.150453,51.404754,0.000000
+            6.150399,51.404897,0.000000
+            6.163525,51.404321,0.000000
+            6.165215,51.401233,0.000000
+            6.165302,51.398162,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

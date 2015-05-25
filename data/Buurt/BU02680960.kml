@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680960 Ressen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.856531,51.895347,0.000000
+            5.857908,51.888150,0.000000
+            5.870993,51.888996,0.000000
+            5.873856,51.882634,0.000000
+            5.876626,51.876477,0.000000
+            5.872899,51.877156,0.000000
+            5.871765,51.878435,0.000000
+            5.863769,51.880294,0.000000
+            5.857261,51.877810,0.000000
+            5.850734,51.874036,0.000000
+            5.849433,51.878954,0.000000
+            5.852798,51.881909,0.000000
+            5.851598,51.882272,0.000000
+            5.852665,51.886201,0.000000
+            5.852363,51.888297,0.000000
+            5.850645,51.888660,0.000000
+            5.849965,51.894562,0.000000
+            5.856531,51.895347,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

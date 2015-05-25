@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK069303 Wijk 03 Molenaarsgraaf</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.810931,51.849923,0.000000
+            4.810422,51.849667,0.000000
+            4.806841,51.855878,0.000000
+            4.798646,51.870648,0.000000
+            4.816036,51.875383,0.000000
+            4.825769,51.877912,0.000000
+            4.848564,51.883394,0.000000
+            4.854948,51.868537,0.000000
+            4.854264,51.868107,0.000000
+            4.838378,51.860842,0.000000
+            4.812383,51.849930,0.000000
+            4.810931,51.849923,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

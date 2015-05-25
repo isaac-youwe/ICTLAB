@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130102 Dovenkamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.167768,52.162478,0.000000
+            6.176521,52.161521,0.000000
+            6.185291,52.161462,0.000000
+            6.182207,52.152493,0.000000
+            6.181723,52.152496,0.000000
+            6.171979,52.152562,0.000000
+            6.158920,52.158041,0.000000
+            6.147229,52.158117,0.000000
+            6.144290,52.157237,0.000000
+            6.144124,52.157088,0.000000
+            6.140868,52.158734,0.000000
+            6.141398,52.159054,0.000000
+            6.154567,52.159868,0.000000
+            6.155257,52.160074,0.000000
+            6.160444,52.161627,0.000000
+            6.167768,52.162478,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

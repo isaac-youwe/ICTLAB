@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630433 Oostelijk Havengebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.939406,52.366672,0.000000
+            4.931751,52.366591,0.000000
+            4.932954,52.370017,0.000000
+            4.932413,52.371782,0.000000
+            4.930402,52.373244,0.000000
+            4.923491,52.375185,0.000000
+            4.911737,52.376567,0.000000
+            4.910906,52.380008,0.000000
+            4.919760,52.380816,0.000000
+            4.931398,52.382020,0.000000
+            4.952347,52.382147,0.000000
+            4.959664,52.381543,0.000000
+            4.958417,52.380984,0.000000
+            4.953722,52.376061,0.000000
+            4.956499,52.368392,0.000000
+            4.949783,52.366732,0.000000
+            4.939406,52.366672,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

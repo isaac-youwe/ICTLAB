@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06430109 Verspreide huizen Krimpen aan de Lek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.643874,51.910091,0.000000
+            4.640947,51.897644,0.000000
+            4.637163,51.897789,0.000000
+            4.634880,51.897900,0.000000
+            4.636044,51.901403,0.000000
+            4.631160,51.902556,0.000000
+            4.626907,51.901520,0.000000
+            4.624265,51.898597,0.000000
+            4.620640,51.898111,0.000000
+            4.605865,51.899623,0.000000
+            4.599595,51.902150,0.000000
+            4.600506,51.902694,0.000000
+            4.596394,51.906106,0.000000
+            4.596552,51.906206,0.000000
+            4.596558,51.906209,0.000000
+            4.600902,51.907137,0.000000
+            4.622686,51.908180,0.000000
+            4.623245,51.908261,0.000000
+            4.635736,51.910062,0.000000
+            4.642661,51.911827,0.000000
+            4.643874,51.910091,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

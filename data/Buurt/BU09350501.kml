@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350501 Borgharen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.709262,50.886343,0.000000
+            5.702390,50.877582,0.000000
+            5.701123,50.873997,0.000000
+            5.698888,50.866252,0.000000
+            5.694821,50.870556,0.000000
+            5.682900,50.875247,0.000000
+            5.679673,50.880135,0.000000
+            5.679939,50.880078,0.000000
+            5.679962,50.883674,0.000000
+            5.681406,50.887266,0.000000
+            5.692745,50.893490,0.000000
+            5.709262,50.886343,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

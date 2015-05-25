@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700200 Boer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.561920,53.223448,0.000000
+            5.565605,53.219787,0.000000
+            5.571081,53.221872,0.000000
+            5.573152,53.218839,0.000000
+            5.574538,53.210872,0.000000
+            5.566408,53.208411,0.000000
+            5.565733,53.203594,0.000000
+            5.564831,53.202571,0.000000
+            5.556941,53.201743,0.000000
+            5.558173,53.206710,0.000000
+            5.559662,53.207004,0.000000
+            5.555081,53.211442,0.000000
+            5.554961,53.212955,0.000000
+            5.557067,53.215526,0.000000
+            5.553439,53.221245,0.000000
+            5.557730,53.223764,0.000000
+            5.560162,53.223951,0.000000
+            5.561920,53.223448,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

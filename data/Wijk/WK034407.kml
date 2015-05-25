@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK034407 Wijk 07 Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.143836,52.065817,0.000000
+            5.152632,52.057023,0.000000
+            5.152422,52.056958,0.000000
+            5.150968,52.056056,0.000000
+            5.145155,52.052448,0.000000
+            5.126184,52.055104,0.000000
+            5.124726,52.055101,0.000000
+            5.121893,52.055792,0.000000
+            5.117424,52.056883,0.000000
+            5.111580,52.058667,0.000000
+            5.110829,52.057260,0.000000
+            5.112361,52.061382,0.000000
+            5.113042,52.062577,0.000000
+            5.119151,52.073109,0.000000
+            5.122335,52.078648,0.000000
+            5.129839,52.075714,0.000000
+            5.133913,52.073796,0.000000
+            5.136190,52.072711,0.000000
+            5.143836,52.065817,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

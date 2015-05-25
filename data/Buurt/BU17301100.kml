@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17301100 Bunne</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.541102,53.116320,0.000000
+            6.539749,53.115131,0.000000
+            6.532470,53.115591,0.000000
+            6.532695,53.114305,0.000000
+            6.529928,53.113796,0.000000
+            6.529142,53.114959,0.000000
+            6.527710,53.114560,0.000000
+            6.525368,53.112354,0.000000
+            6.527185,53.108509,0.000000
+            6.523804,53.108210,0.000000
+            6.521486,53.112639,0.000000
+            6.519798,53.113104,0.000000
+            6.527936,53.118452,0.000000
+            6.532383,53.119897,0.000000
+            6.532394,53.122017,0.000000
+            6.530715,53.123382,0.000000
+            6.532679,53.124138,0.000000
+            6.536351,53.118363,0.000000
+            6.541102,53.116320,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08890100 Beesel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.053559,51.272979,0.000000
+            6.049408,51.268454,0.000000
+            6.053201,51.266165,0.000000
+            6.048944,51.264654,0.000000
+            6.036063,51.259919,0.000000
+            6.032881,51.261357,0.000000
+            6.026123,51.267009,0.000000
+            6.026345,51.267054,0.000000
+            6.029236,51.268836,0.000000
+            6.029261,51.270634,0.000000
+            6.029383,51.270929,0.000000
+            6.029485,51.270875,0.000000
+            6.047828,51.274810,0.000000
+            6.053559,51.272979,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

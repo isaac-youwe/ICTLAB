@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640309 Oosterveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.848393,52.278277,0.000000
+            6.841008,52.276570,0.000000
+            6.838078,52.276606,0.000000
+            6.838064,52.276598,0.000000
+            6.837694,52.276766,0.000000
+            6.842449,52.277685,0.000000
+            6.842039,52.278224,0.000000
+            6.839368,52.278047,0.000000
+            6.837108,52.279610,0.000000
+            6.841618,52.281187,0.000000
+            6.849201,52.283817,0.000000
+            6.845804,52.286762,0.000000
+            6.847864,52.289536,0.000000
+            6.853025,52.285411,0.000000
+            6.852907,52.281817,0.000000
+            6.848393,52.278277,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

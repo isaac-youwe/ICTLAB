@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220504 Buitengebied Kemnaderallee</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.309122,51.945413,0.000000
+            6.310807,51.943628,0.000000
+            6.318235,51.940432,0.000000
+            6.323355,51.937189,0.000000
+            6.328524,51.935459,0.000000
+            6.325139,51.935882,0.000000
+            6.321773,51.935171,0.000000
+            6.320898,51.935725,0.000000
+            6.317990,51.935748,0.000000
+            6.315100,51.936670,0.000000
+            6.310775,51.938502,0.000000
+            6.310812,51.940300,0.000000
+            6.306412,51.938536,0.000000
+            6.306121,51.938721,0.000000
+            6.303540,51.940357,0.000000
+            6.302159,51.943963,0.000000
+            6.301384,51.943937,0.000000
+            6.309122,51.945413,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

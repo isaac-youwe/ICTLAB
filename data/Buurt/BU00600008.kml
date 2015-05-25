@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00600008 Verspreide huizen Nes</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.784642,53.461311,0.000000
+            5.785917,53.454499,0.000000
+            5.791734,53.454680,0.000000
+            5.792180,53.451065,0.000000
+            5.786621,53.450961,0.000000
+            5.788527,53.437974,0.000000
+            5.776989,53.438874,0.000000
+            5.772482,53.439787,0.000000
+            5.752925,53.440746,0.000000
+            5.743910,53.442571,0.000000
+            5.730371,53.443508,0.000000
+            5.730329,53.443500,0.000000
+            5.734903,53.448877,0.000000
+            5.731156,53.451825,0.000000
+            5.730983,53.459697,0.000000
+            5.784642,53.461311,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.762868,53.445634,0.000000
+            5.763896,53.443150,0.000000
+            5.764848,53.441855,0.000000
+            5.769226,53.440371,0.000000
+            5.773296,53.440383,0.000000
+            5.774408,53.441565,0.000000
+            5.782351,53.443616,0.000000
+            5.781506,53.446391,0.000000
+            5.776736,53.449207,0.000000
+            5.769003,53.449825,0.000000
+            5.765726,53.448363,0.000000
+            5.762868,53.445634,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

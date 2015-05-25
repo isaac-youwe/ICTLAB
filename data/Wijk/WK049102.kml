@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK049102 Wijk 02 Ammerstol</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.805635,51.922712,0.000000
+            4.801319,51.921799,0.000000
+            4.801464,51.929927,0.000000
+            4.808215,51.932377,0.000000
+            4.810839,51.933303,0.000000
+            4.813782,51.926128,0.000000
+            4.805636,51.922712,0.000000
+            4.805635,51.922712,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

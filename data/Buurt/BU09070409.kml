@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09070409 Diekendaal-Nieuwerf</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.001469,51.655553,0.000000
+            5.976747,51.643993,0.000000
+            5.972479,51.645795,0.000000
+            5.972436,51.645813,0.000000
+            5.968147,51.649430,0.000000
+            5.965303,51.653040,0.000000
+            5.963984,51.662935,0.000000
+            5.963984,51.663001,0.000000
+            5.986252,51.666459,0.000000
+            6.014584,51.674840,0.000000
+            6.030396,51.674597,0.000000
+            6.024795,51.669812,0.000000
+            6.031921,51.662581,0.000000
+            6.024656,51.659924,0.000000
+            6.024340,51.659926,0.000000
+            6.014538,51.659978,0.000000
+            6.007262,51.656421,0.000000
+            6.004359,51.655538,0.000000
+            6.001469,51.655553,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

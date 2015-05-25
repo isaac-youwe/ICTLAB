@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16761201 Burgh</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.736044,51.687140,0.000000
+            3.731915,51.684325,0.000000
+            3.731071,51.684870,0.000000
+            3.732914,51.686118,0.000000
+            3.732602,51.687512,0.000000
+            3.728189,51.687914,0.000000
+            3.726172,51.689429,0.000000
+            3.730888,51.695253,0.000000
+            3.732376,51.695833,0.000000
+            3.735052,51.693525,0.000000
+            3.739032,51.692220,0.000000
+            3.741877,51.689450,0.000000
+            3.736044,51.687140,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

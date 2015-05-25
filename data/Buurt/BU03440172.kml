@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440172 Welgelegen en Den Hommel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.096967,52.084287,0.000000
+            5.090726,52.080974,0.000000
+            5.081285,52.078938,0.000000
+            5.080244,52.082163,0.000000
+            5.085347,52.081543,0.000000
+            5.087555,52.082627,0.000000
+            5.094503,52.087166,0.000000
+            5.098260,52.085214,0.000000
+            5.096967,52.084287,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

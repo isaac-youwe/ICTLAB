@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09840105 Veltum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.962909,51.513359,0.000000
+            5.949678,51.511576,0.000000
+            5.949113,51.512364,0.000000
+            5.947222,51.515747,0.000000
+            5.957876,51.521175,0.000000
+            5.966253,51.522861,0.000000
+            5.969273,51.519978,0.000000
+            5.974969,51.518437,0.000000
+            5.973499,51.514473,0.000000
+            5.962909,51.513359,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

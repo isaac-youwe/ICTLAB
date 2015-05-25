@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04120209 Verspreide huizen in De Kampen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.854167,52.758287,0.000000
+            4.855335,52.747528,0.000000
+            4.855882,52.744994,0.000000
+            4.850722,52.742491,0.000000
+            4.846698,52.738892,0.000000
+            4.846195,52.736151,0.000000
+            4.844563,52.734782,0.000000
+            4.839417,52.744018,0.000000
+            4.832633,52.748267,0.000000
+            4.829093,52.755186,0.000000
+            4.833751,52.756416,0.000000
+            4.836908,52.756312,0.000000
+            4.838064,52.753517,0.000000
+            4.840013,52.753333,0.000000
+            4.843683,52.754404,0.000000
+            4.843690,52.756914,0.000000
+            4.853215,52.758636,0.000000
+            4.854167,52.758287,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

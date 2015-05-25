@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK063706 Wijk 06 Oosterheem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.547349,52.050601,0.000000
+            4.545924,52.048793,0.000000
+            4.537160,52.049629,0.000000
+            4.532804,52.048699,0.000000
+            4.532561,52.048567,0.000000
+            4.523338,52.051777,0.000000
+            4.523307,52.052656,0.000000
+            4.531961,52.059851,0.000000
+            4.529235,52.061188,0.000000
+            4.531186,52.062731,0.000000
+            4.525281,52.065854,0.000000
+            4.533689,52.073151,0.000000
+            4.533799,52.072978,0.000000
+            4.552929,52.064125,0.000000
+            4.557354,52.061460,0.000000
+            4.548925,52.054363,0.000000
+            4.548739,52.054207,0.000000
+            4.547349,52.050601,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

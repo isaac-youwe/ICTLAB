@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09173200 Palemig</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.991628,50.906054,0.000000
+            5.991489,50.905840,0.000000
+            5.992911,50.905833,0.000000
+            5.994285,50.902230,0.000000
+            5.994285,50.902194,0.000000
+            5.985030,50.901055,0.000000
+            5.983350,50.901401,0.000000
+            5.976735,50.899725,0.000000
+            5.973192,50.901405,0.000000
+            5.978638,50.904591,0.000000
+            5.991779,50.906288,0.000000
+            5.991628,50.906054,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

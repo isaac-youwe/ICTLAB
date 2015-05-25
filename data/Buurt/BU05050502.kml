@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05050502 Indische Buurt-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.687697,51.805419,0.000000
+            4.688197,51.805148,0.000000
+            4.681035,51.806063,0.000000
+            4.679851,51.806208,0.000000
+            4.677842,51.809497,0.000000
+            4.678406,51.809827,0.000000
+            4.685678,51.806513,0.000000
+            4.687697,51.805419,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

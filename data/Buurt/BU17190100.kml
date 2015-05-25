@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17190100 Drimmelen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.807813,51.702587,0.000000
+            4.804132,51.701485,0.000000
+            4.800825,51.705066,0.000000
+            4.795118,51.707067,0.000000
+            4.794242,51.708503,0.000000
+            4.798094,51.711734,0.000000
+            4.799912,51.711438,0.000000
+            4.804053,51.710588,0.000000
+            4.818418,51.709317,0.000000
+            4.816570,51.707919,0.000000
+            4.807684,51.704580,0.000000
+            4.807813,51.702587,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

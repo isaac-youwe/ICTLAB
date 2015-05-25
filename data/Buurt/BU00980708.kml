@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00980708 Verspreide huizen Vinkega</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.120709,52.854906,0.000000
+            6.120663,52.854879,0.000000
+            6.111371,52.865633,0.000000
+            6.118242,52.869000,0.000000
+            6.122432,52.869014,0.000000
+            6.130944,52.875339,0.000000
+            6.141348,52.863869,0.000000
+            6.141549,52.863721,0.000000
+            6.120709,52.854906,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.111385,52.873704,0.000000
+            6.106821,52.871276,0.000000
+            6.104592,52.873988,0.000000
+            6.100238,52.879579,0.000000
+            6.107225,52.881861,0.000000
+            6.107748,52.884424,0.000000
+            6.113256,52.888397,0.000000
+            6.120790,52.889318,0.000000
+            6.124725,52.884208,0.000000
+            6.118082,52.881874,0.000000
+            6.119098,52.880728,0.000000
+            6.112047,52.876560,0.000000
+            6.111385,52.873704,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

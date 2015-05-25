@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07370400 Tytsjerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.928353,53.217929,0.000000
+            5.926637,53.213682,0.000000
+            5.924176,53.213131,0.000000
+            5.923447,53.209011,0.000000
+            5.933918,53.209013,0.000000
+            5.930916,53.206816,0.000000
+            5.931384,53.203318,0.000000
+            5.937430,53.195470,0.000000
+            5.921533,53.193472,0.000000
+            5.916479,53.202836,0.000000
+            5.910075,53.208433,0.000000
+            5.908277,53.208712,0.000000
+            5.907096,53.211164,0.000000
+            5.906661,53.211065,0.000000
+            5.905230,53.215527,0.000000
+            5.897734,53.214661,0.000000
+            5.893253,53.215578,0.000000
+            5.889163,53.218068,0.000000
+            5.894257,53.217774,0.000000
+            5.928353,53.217929,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

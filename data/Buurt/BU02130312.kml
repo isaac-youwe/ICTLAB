@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130312 Rhienderense Broek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.133948,52.101381,0.000000
+            6.136824,52.097834,0.000000
+            6.140557,52.098367,0.000000
+            6.139767,52.096709,0.000000
+            6.141431,52.093878,0.000000
+            6.121079,52.092522,0.000000
+            6.120881,52.093401,0.000000
+            6.113705,52.093554,0.000000
+            6.107952,52.093224,0.000000
+            6.105464,52.092151,0.000000
+            6.099478,52.093785,0.000000
+            6.098903,52.097358,0.000000
+            6.116654,52.097950,0.000000
+            6.115766,52.101798,0.000000
+            6.118542,52.102574,0.000000
+            6.133239,52.102364,0.000000
+            6.133948,52.101381,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

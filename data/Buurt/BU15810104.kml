@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15810104 Drift-Sportlaan en Bornia</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.266207,52.070664,0.000000
+            5.271401,52.067497,0.000000
+            5.274778,52.069684,0.000000
+            5.276553,52.068420,0.000000
+            5.276601,52.064530,0.000000
+            5.263918,52.059715,0.000000
+            5.263491,52.059965,0.000000
+            5.261688,52.061674,0.000000
+            5.258395,52.059653,0.000000
+            5.255159,52.060913,0.000000
+            5.255871,52.062617,0.000000
+            5.258402,52.066679,0.000000
+            5.258655,52.066867,0.000000
+            5.258847,52.067010,0.000000
+            5.264560,52.069660,0.000000
+            5.264674,52.069713,0.000000
+            5.266130,52.070613,0.000000
+            5.266207,52.070664,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

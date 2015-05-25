@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08400000 Rucphen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.559551,51.539428,0.000000
+            4.560694,51.536926,0.000000
+            4.562960,51.537525,0.000000
+            4.566461,51.528245,0.000000
+            4.559554,51.528095,0.000000
+            4.554634,51.528212,0.000000
+            4.554857,51.529330,0.000000
+            4.552065,51.530831,0.000000
+            4.547875,51.531004,0.000000
+            4.549436,51.534564,0.000000
+            4.555016,51.533970,0.000000
+            4.553867,51.536777,0.000000
+            4.554787,51.537569,0.000000
+            4.555257,51.536468,0.000000
+            4.558537,51.537038,0.000000
+            4.556723,51.538445,0.000000
+            4.559551,51.539428,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

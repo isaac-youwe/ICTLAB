@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020604 Oostelijk Natuurreservaat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.218917,52.212581,0.000000
+            5.216021,52.204487,0.000000
+            5.192729,52.177484,0.000000
+            5.192285,52.177514,0.000000
+            5.179566,52.178361,0.000000
+            5.179434,52.178361,0.000000
+            5.183603,52.185313,0.000000
+            5.185380,52.199932,0.000000
+            5.186652,52.210417,0.000000
+            5.194253,52.210216,0.000000
+            5.199114,52.205760,0.000000
+            5.200442,52.205981,0.000000
+            5.206237,52.210094,0.000000
+            5.197833,52.213161,0.000000
+            5.198116,52.213808,0.000000
+            5.200623,52.219180,0.000000
+            5.216151,52.216800,0.000000
+            5.218917,52.212581,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

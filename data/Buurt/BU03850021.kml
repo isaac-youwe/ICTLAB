@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03850021 Edam III</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.053730,52.505001,0.000000
+            5.045729,52.503043,0.000000
+            5.044320,52.504896,0.000000
+            5.041681,52.504465,0.000000
+            5.044031,52.510943,0.000000
+            5.048632,52.509438,0.000000
+            5.053390,52.505394,0.000000
+            5.053730,52.505001,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

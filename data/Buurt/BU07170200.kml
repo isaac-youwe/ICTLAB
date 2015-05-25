@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07170200 Vrouwenpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.617863,51.578289,0.000000
+            3.617062,51.577122,0.000000
+            3.620896,51.575500,0.000000
+            3.613477,51.570025,0.000000
+            3.612331,51.570414,0.000000
+            3.615863,51.573247,0.000000
+            3.610075,51.575336,0.000000
+            3.610677,51.578712,0.000000
+            3.613621,51.577499,0.000000
+            3.616153,51.578850,0.000000
+            3.617863,51.578289,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

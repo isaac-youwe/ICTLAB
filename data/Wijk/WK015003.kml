@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK015003 Wijk 03 Borgele en Platvoet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.156178,52.278522,0.000000
+            6.155225,52.270847,0.000000
+            6.154657,52.266597,0.000000
+            6.149035,52.267809,0.000000
+            6.144761,52.267393,0.000000
+            6.142788,52.272842,0.000000
+            6.136147,52.272762,0.000000
+            6.132824,52.271523,0.000000
+            6.128853,52.269140,0.000000
+            6.127027,52.270368,0.000000
+            6.122871,52.269227,0.000000
+            6.122760,52.269739,0.000000
+            6.121447,52.272239,0.000000
+            6.131827,52.277666,0.000000
+            6.136205,52.278271,0.000000
+            6.138044,52.277809,0.000000
+            6.141961,52.279116,0.000000
+            6.145447,52.280206,0.000000
+            6.156178,52.278522,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

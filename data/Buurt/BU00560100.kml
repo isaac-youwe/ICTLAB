@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00560100 Grijpskerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.318449,53.260940,0.000000
+            6.312756,53.258224,0.000000
+            6.299276,53.258459,0.000000
+            6.297725,53.265987,0.000000
+            6.300500,53.267821,0.000000
+            6.305663,53.268335,0.000000
+            6.314541,53.266965,0.000000
+            6.320081,53.264522,0.000000
+            6.320270,53.263063,0.000000
+            6.318449,53.260940,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

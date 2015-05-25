@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17300800 Eelderwolde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.545927,53.179340,0.000000
+            6.546026,53.176843,0.000000
+            6.548770,53.172912,0.000000
+            6.549843,53.172019,0.000000
+            6.550982,53.172273,0.000000
+            6.555894,53.167818,0.000000
+            6.552238,53.167539,0.000000
+            6.549120,53.168327,0.000000
+            6.545505,53.172188,0.000000
+            6.540839,53.178296,0.000000
+            6.539884,53.180045,0.000000
+            6.540207,53.180126,0.000000
+            6.542078,53.178733,0.000000
+            6.543573,53.178719,0.000000
+            6.548133,53.181371,0.000000
+            6.548109,53.180472,0.000000
+            6.548110,53.180472,0.000000
+            6.545927,53.179340,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

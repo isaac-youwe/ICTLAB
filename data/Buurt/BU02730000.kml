@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02730000 Putten-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.610940,52.262227,0.000000
+            5.610410,52.258304,0.000000
+            5.608379,52.255902,0.000000
+            5.604995,52.257547,0.000000
+            5.597820,52.260435,0.000000
+            5.600843,52.262166,0.000000
+            5.602107,52.261646,0.000000
+            5.606419,52.262759,0.000000
+            5.610940,52.262227,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

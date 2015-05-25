@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16400308 Schillersheide en Santfort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.827657,51.170884,0.000000
+            5.827588,51.170674,0.000000
+            5.825492,51.174729,0.000000
+            5.819360,51.179866,0.000000
+            5.813126,51.186314,0.000000
+            5.823818,51.189075,0.000000
+            5.823518,51.198118,0.000000
+            5.827503,51.198705,0.000000
+            5.831612,51.197867,0.000000
+            5.836451,51.192640,0.000000
+            5.848681,51.179471,0.000000
+            5.847758,51.178898,0.000000
+            5.847757,51.178898,0.000000
+            5.846327,51.178903,0.000000
+            5.827657,51.170884,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

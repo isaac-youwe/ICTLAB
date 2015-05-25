@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09570001 Roerzicht-Voorstad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.992219,51.187695,0.000000
+            5.991049,51.185500,0.000000
+            5.988266,51.185262,0.000000
+            5.983750,51.183358,0.000000
+            5.981597,51.184899,0.000000
+            5.976628,51.186268,0.000000
+            5.973304,51.184881,0.000000
+            5.971630,51.188080,0.000000
+            5.980375,51.197904,0.000000
+            5.983497,51.195601,0.000000
+            5.986668,51.189714,0.000000
+            5.990662,51.189156,0.000000
+            5.992098,51.187907,0.000000
+            5.992219,51.187695,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

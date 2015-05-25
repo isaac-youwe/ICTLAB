@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17400103 Pottemsestraat en Groenestraat en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.551323,51.917870,0.000000
+            5.551476,51.917744,0.000000
+            5.551768,51.917864,0.000000
+            5.553074,51.914614,0.000000
+            5.551583,51.911650,0.000000
+            5.544529,51.913736,0.000000
+            5.546581,51.916125,0.000000
+            5.551323,51.917870,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

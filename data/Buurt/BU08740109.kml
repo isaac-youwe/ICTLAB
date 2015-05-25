@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08740109 Verspreide huizen Provincialeweg-Zuid en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.988400,51.775667,0.000000
+            4.996283,51.762947,0.000000
+            4.996272,51.751798,0.000000
+            4.996134,51.751801,0.000000
+            4.990340,51.751782,0.000000
+            4.965710,51.752595,0.000000
+            4.962821,51.751686,0.000000
+            4.957036,51.750765,0.000000
+            4.933827,51.754274,0.000000
+            4.933843,51.754493,0.000000
+            4.935095,51.771234,0.000000
+            4.936655,51.771209,0.000000
+            4.955121,51.765855,0.000000
+            4.965596,51.768270,0.000000
+            4.968605,51.769606,0.000000
+            4.978267,51.774679,0.000000
+            4.981602,51.772420,0.000000
+            4.985569,51.766936,0.000000
+            4.988985,51.767304,0.000000
+            4.981467,51.779164,0.000000
+            4.982534,51.781378,0.000000
+            4.986508,51.783718,0.000000
+            4.988400,51.775667,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130400 Hoef- en Veldbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.708624,52.027991,0.000000
+            4.707655,52.024315,0.000000
+            4.704208,52.027068,0.000000
+            4.705853,52.027857,0.000000
+            4.705697,52.030283,0.000000
+            4.699047,52.036453,0.000000
+            4.700075,52.036938,0.000000
+            4.705016,52.034992,0.000000
+            4.710311,52.030029,0.000000
+            4.708065,52.029483,0.000000
+            4.707777,52.028039,0.000000
+            4.708624,52.027991,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK031001 Wijk 01 Bilthoven-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.217829,52.113701,0.000000
+            5.217908,52.113525,0.000000
+            5.212580,52.113840,0.000000
+            5.206527,52.115415,0.000000
+            5.195401,52.119992,0.000000
+            5.187396,52.122225,0.000000
+            5.186823,52.125409,0.000000
+            5.197454,52.128213,0.000000
+            5.229203,52.136730,0.000000
+            5.229429,52.136790,0.000000
+            5.229433,52.135521,0.000000
+            5.229434,52.135291,0.000000
+            5.230961,52.116416,0.000000
+            5.217829,52.113701,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

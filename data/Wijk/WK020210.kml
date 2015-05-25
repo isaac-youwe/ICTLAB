@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK020210 Wijk 10 Geitenkamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.942770,52.001558,0.000000
+            5.944378,52.000637,0.000000
+            5.945608,52.001436,0.000000
+            5.946402,52.000962,0.000000
+            5.940218,51.997213,0.000000
+            5.938869,51.998030,0.000000
+            5.933836,52.005404,0.000000
+            5.942147,52.007941,0.000000
+            5.942770,52.001558,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

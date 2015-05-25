@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990380 Verspreide huizen Een-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.341107,53.087930,0.000000
+            6.344072,53.087007,0.000000
+            6.344282,53.087357,0.000000
+            6.356147,53.083555,0.000000
+            6.354236,53.077602,0.000000
+            6.356016,53.077360,0.000000
+            6.351624,53.070671,0.000000
+            6.351176,53.070773,0.000000
+            6.331877,53.075421,0.000000
+            6.305132,53.081021,0.000000
+            6.315867,53.094420,0.000000
+            6.337933,53.088904,0.000000
+            6.338141,53.088852,0.000000
+            6.341076,53.087939,0.000000
+            6.341107,53.087930,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

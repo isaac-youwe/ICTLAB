@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000306 De Bouwhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.953856,52.182616,0.000000
+            5.944032,52.181859,0.000000
+            5.941700,52.185403,0.000000
+            5.942585,52.185759,0.000000
+            5.941529,52.187549,0.000000
+            5.944807,52.190646,0.000000
+            5.949997,52.189954,0.000000
+            5.953856,52.182616,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

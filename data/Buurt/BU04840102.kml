@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04840102 Woubrugseweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.665353,52.162852,0.000000
+            4.663485,52.156528,0.000000
+            4.647998,52.158169,0.000000
+            4.643059,52.158482,0.000000
+            4.642793,52.157387,0.000000
+            4.641379,52.161804,0.000000
+            4.641732,52.161806,0.000000
+            4.645493,52.161830,0.000000
+            4.646116,52.161834,0.000000
+            4.665103,52.162850,0.000000
+            4.665353,52.162852,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

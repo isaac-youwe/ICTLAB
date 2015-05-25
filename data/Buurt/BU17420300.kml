@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17420300 Holten-Kom en De Kol</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.435879,52.283592,0.000000
+            6.433706,52.282413,0.000000
+            6.431077,52.278334,0.000000
+            6.429786,52.277590,0.000000
+            6.426418,52.278506,0.000000
+            6.421302,52.278354,0.000000
+            6.419111,52.278969,0.000000
+            6.417883,52.279468,0.000000
+            6.417054,52.282538,0.000000
+            6.415233,52.283044,0.000000
+            6.419859,52.283857,0.000000
+            6.421735,52.284186,0.000000
+            6.426196,52.283090,0.000000
+            6.429549,52.283219,0.000000
+            6.431556,52.284017,0.000000
+            6.432423,52.286063,0.000000
+            6.434774,52.286474,0.000000
+            6.435879,52.283592,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

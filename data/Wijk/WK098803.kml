@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK098803 Wijk 03 Molenakker en Kampershoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.707086,51.258882,0.000000
+            5.703799,51.257811,0.000000
+            5.698673,51.260929,0.000000
+            5.704265,51.264743,0.000000
+            5.703692,51.265224,0.000000
+            5.717439,51.270437,0.000000
+            5.737010,51.276267,0.000000
+            5.741024,51.270312,0.000000
+            5.740671,51.270231,0.000000
+            5.722904,51.264160,0.000000
+            5.716283,51.261915,0.000000
+            5.707086,51.258882,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

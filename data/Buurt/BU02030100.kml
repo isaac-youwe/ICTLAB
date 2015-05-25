@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02030100 Voorthuizen-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.600773,52.184241,0.000000
+            5.588043,52.180230,0.000000
+            5.586793,52.181160,0.000000
+            5.589165,52.182387,0.000000
+            5.589180,52.185710,0.000000
+            5.596875,52.187326,0.000000
+            5.597776,52.189770,0.000000
+            5.602572,52.192144,0.000000
+            5.605354,52.195421,0.000000
+            5.608085,52.195416,0.000000
+            5.608080,52.194517,0.000000
+            5.618149,52.192950,0.000000
+            5.618302,52.189533,0.000000
+            5.605613,52.186906,0.000000
+            5.600773,52.184241,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

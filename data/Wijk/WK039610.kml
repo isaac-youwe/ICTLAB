@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK039610 Wijk 10 Broekpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.698563,52.496489,0.000000
+            4.695097,52.490456,0.000000
+            4.695087,52.491128,0.000000
+            4.686237,52.491975,0.000000
+            4.683535,52.492663,0.000000
+            4.683678,52.492771,0.000000
+            4.684478,52.493352,0.000000
+            4.689417,52.497152,0.000000
+            4.698265,52.504200,0.000000
+            4.701495,52.502406,0.000000
+            4.696896,52.497218,0.000000
+            4.698563,52.496489,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

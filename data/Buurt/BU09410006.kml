@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09410006 Verspreide huizen Molenbaan en Vieruitersten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.911209,51.349438,0.000000
+            5.911168,51.345842,0.000000
+            5.911166,51.345699,0.000000
+            5.906394,51.346683,0.000000
+            5.898347,51.345346,0.000000
+            5.889008,51.348862,0.000000
+            5.878380,51.355050,0.000000
+            5.894142,51.363897,0.000000
+            5.894648,51.364210,0.000000
+            5.895588,51.364790,0.000000
+            5.910926,51.349716,0.000000
+            5.911209,51.349438,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

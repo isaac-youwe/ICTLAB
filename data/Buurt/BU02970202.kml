@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02970202 Beneden-Delwijnen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.193053,51.766676,0.000000
+            5.190159,51.765772,0.000000
+            5.184364,51.765762,0.000000
+            5.183859,51.765918,0.000000
+            5.181462,51.766656,0.000000
+            5.181418,51.766640,0.000000
+            5.181040,51.768326,0.000000
+            5.186259,51.769103,0.000000
+            5.184975,51.772564,0.000000
+            5.187157,51.772933,0.000000
+            5.191796,51.767597,0.000000
+            5.192069,51.767284,0.000000
+            5.193053,51.766676,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

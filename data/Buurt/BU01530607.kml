@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530607 Helmerhoek-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.867557,52.195978,0.000000
+            6.863011,52.192511,0.000000
+            6.861084,52.192880,0.000000
+            6.859168,52.194001,0.000000
+            6.855357,52.194118,0.000000
+            6.854402,52.192439,0.000000
+            6.850749,52.191852,0.000000
+            6.848700,52.193442,0.000000
+            6.849987,52.194877,0.000000
+            6.849041,52.195772,0.000000
+            6.849659,52.199024,0.000000
+            6.853153,52.202491,0.000000
+            6.858902,52.202121,0.000000
+            6.867557,52.195978,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

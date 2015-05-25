@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16740602 Kortendijk L</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.497393,51.528968,0.000000
+            4.499594,51.526384,0.000000
+            4.497642,51.522118,0.000000
+            4.498695,51.520744,0.000000
+            4.490287,51.520950,0.000000
+            4.489106,51.523607,0.000000
+            4.490159,51.528302,0.000000
+            4.496489,51.527883,0.000000
+            4.497393,51.528968,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

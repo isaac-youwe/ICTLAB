@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18760400 Hummelo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.238066,52.002370,0.000000
+            6.230713,52.000944,0.000000
+            6.229290,52.001026,0.000000
+            6.229257,52.003367,0.000000
+            6.231384,52.008016,0.000000
+            6.234052,52.007656,0.000000
+            6.239569,52.004738,0.000000
+            6.238066,52.002370,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

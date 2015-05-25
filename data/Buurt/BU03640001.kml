@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03640001 Midden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.219878,52.730165,0.000000
+            5.216619,52.729322,0.000000
+            5.214738,52.729865,0.000000
+            5.209200,52.728070,0.000000
+            5.211018,52.725411,0.000000
+            5.205035,52.723964,0.000000
+            5.188995,52.744929,0.000000
+            5.185463,52.745980,0.000000
+            5.185506,52.746202,0.000000
+            5.185768,52.746442,0.000000
+            5.193134,52.755442,0.000000
+            5.203496,52.755458,0.000000
+            5.209944,52.746488,0.000000
+            5.215671,52.742107,0.000000
+            5.220101,52.731936,0.000000
+            5.219280,52.731751,0.000000
+            5.219878,52.730165,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

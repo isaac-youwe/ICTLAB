@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17141200 IJzendijke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.613734,51.329317,0.000000
+            3.617624,51.325678,0.000000
+            3.619107,51.326442,0.000000
+            3.622299,51.324401,0.000000
+            3.620567,51.320552,0.000000
+            3.623497,51.316510,0.000000
+            3.617057,51.315925,0.000000
+            3.616564,51.317484,0.000000
+            3.614856,51.317912,0.000000
+            3.611543,51.317375,0.000000
+            3.610665,51.320844,0.000000
+            3.608570,51.321128,0.000000
+            3.612512,51.323263,0.000000
+            3.611419,51.328292,0.000000
+            3.613734,51.329317,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

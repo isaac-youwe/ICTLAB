@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16720304 Hoogewaard (Hoog)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.619999,52.142157,0.000000
+            4.620148,52.141891,0.000000
+            4.623070,52.141910,0.000000
+            4.628589,52.138584,0.000000
+            4.628974,52.138352,0.000000
+            4.622471,52.133446,0.000000
+            4.617632,52.130616,0.000000
+            4.609848,52.129504,0.000000
+            4.609055,52.130083,0.000000
+            4.608062,52.133359,0.000000
+            4.611472,52.133719,0.000000
+            4.609997,52.140024,0.000000
+            4.619999,52.142157,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

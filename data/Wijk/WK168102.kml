@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK168102 Wijk 02 Bronneger</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.809192,52.931300,0.000000
+            6.808231,52.930767,0.000000
+            6.803065,52.934380,0.000000
+            6.800488,52.935278,0.000000
+            6.795752,52.937274,0.000000
+            6.797191,52.939981,0.000000
+            6.797173,52.945361,0.000000
+            6.798446,52.948240,0.000000
+            6.817472,52.950756,0.000000
+            6.817892,52.954162,0.000000
+            6.821495,52.954297,0.000000
+            6.822938,52.954351,0.000000
+            6.824398,52.954405,0.000000
+            6.824507,52.949932,0.000000
+            6.825637,52.946899,0.000000
+            6.816817,52.939777,0.000000
+            6.816007,52.935086,0.000000
+            6.809192,52.931300,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

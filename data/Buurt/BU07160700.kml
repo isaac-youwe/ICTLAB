@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07160700 Sint Philipsland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.161072,51.620668,0.000000
+            4.161838,51.619263,0.000000
+            4.166798,51.620086,0.000000
+            4.169658,51.619276,0.000000
+            4.171319,51.618501,0.000000
+            4.169605,51.616807,0.000000
+            4.169803,51.616668,0.000000
+            4.168409,51.614857,0.000000
+            4.164102,51.613913,0.000000
+            4.159375,51.613442,0.000000
+            4.157260,51.618214,0.000000
+            4.159046,51.620382,0.000000
+            4.161072,51.620668,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

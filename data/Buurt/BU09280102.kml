@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09280102 Rolduckerveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.086204,50.869347,0.000000
+            6.084742,50.866658,0.000000
+            6.084733,50.866643,0.000000
+            6.078252,50.866795,0.000000
+            6.071512,50.865936,0.000000
+            6.068197,50.869932,0.000000
+            6.068388,50.872292,0.000000
+            6.070496,50.872846,0.000000
+            6.074080,50.876003,0.000000
+            6.074032,50.877663,0.000000
+            6.083846,50.876583,0.000000
+            6.086831,50.870502,0.000000
+            6.086204,50.869347,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

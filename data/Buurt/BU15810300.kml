@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15810300 Amerongen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.470555,52.001359,0.000000
+            5.468794,51.999360,0.000000
+            5.467213,51.999714,0.000000
+            5.467086,51.998473,0.000000
+            5.460227,51.996879,0.000000
+            5.461316,51.994032,0.000000
+            5.457428,51.993695,0.000000
+            5.455740,51.996858,0.000000
+            5.449353,52.000558,0.000000
+            5.459103,52.008338,0.000000
+            5.465389,52.007510,0.000000
+            5.469892,52.004372,0.000000
+            5.468763,52.001845,0.000000
+            5.470555,52.001359,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

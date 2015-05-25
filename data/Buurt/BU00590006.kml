@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00590006 Verspreide huizen Twijzel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.117962,53.228333,0.000000
+            6.107718,53.223504,0.000000
+            6.091301,53.227184,0.000000
+            6.102403,53.236351,0.000000
+            6.115767,53.243050,0.000000
+            6.122510,53.245291,0.000000
+            6.131855,53.241903,0.000000
+            6.123493,53.232988,0.000000
+            6.117962,53.228333,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.085175,53.230466,0.000000
+            6.082548,53.228312,0.000000
+            6.066322,53.231761,0.000000
+            6.065542,53.232054,0.000000
+            6.067691,53.235951,0.000000
+            6.075529,53.238731,0.000000
+            6.078461,53.243062,0.000000
+            6.078769,53.247675,0.000000
+            6.074886,53.248696,0.000000
+            6.074886,53.248815,0.000000
+            6.074945,53.248825,0.000000
+            6.095981,53.254980,0.000000
+            6.113310,53.248537,0.000000
+            6.095885,53.239315,0.000000
+            6.081902,53.233883,0.000000
+            6.085175,53.230466,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

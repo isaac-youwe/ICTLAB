@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01890108 Verspreide huizen Huurne II</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.530005,52.361664,0.000000
+            6.575435,52.360975,0.000000
+            6.580977,52.360958,0.000000
+            6.582977,52.361024,0.000000
+            6.577505,52.358758,0.000000
+            6.574027,52.355817,0.000000
+            6.557839,52.342109,0.000000
+            6.537128,52.345640,0.000000
+            6.541811,52.349582,0.000000
+            6.534333,52.353501,0.000000
+            6.529622,52.357392,0.000000
+            6.530005,52.361664,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

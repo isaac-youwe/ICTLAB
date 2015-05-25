@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03620002 Patrimonium</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.850252,52.304051,0.000000
+            4.849962,52.303600,0.000000
+            4.840203,52.305162,0.000000
+            4.841317,52.307588,0.000000
+            4.840532,52.316682,0.000000
+            4.855566,52.316319,0.000000
+            4.853721,52.313689,0.000000
+            4.850744,52.311147,0.000000
+            4.850252,52.304051,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

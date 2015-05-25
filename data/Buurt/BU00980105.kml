@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00980105 Verspreide huizen Sonnega</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.982761,52.863873,0.000000
+            5.985673,52.860879,0.000000
+            5.987397,52.861538,0.000000
+            5.997787,52.851268,0.000000
+            5.992031,52.851376,0.000000
+            5.988319,52.849228,0.000000
+            5.981226,52.848935,0.000000
+            5.977867,52.846871,0.000000
+            5.971839,52.851384,0.000000
+            5.965825,52.857287,0.000000
+            5.965927,52.858444,0.000000
+            5.966676,52.858762,0.000000
+            5.970892,52.860500,0.000000
+            5.969499,52.861868,0.000000
+            5.970571,52.862204,0.000000
+            5.975630,52.857284,0.000000
+            5.978008,52.858002,0.000000
+            5.981741,52.859687,0.000000
+            5.979014,52.862416,0.000000
+            5.982761,52.863873,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16761203 Westenschouwen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.713012,51.667974,0.000000
+            3.713341,51.666690,0.000000
+            3.713006,51.666768,0.000000
+            3.710115,51.666727,0.000000
+            3.701311,51.670197,0.000000
+            3.699254,51.671570,0.000000
+            3.706317,51.675619,0.000000
+            3.706337,51.678099,0.000000
+            3.710761,51.679842,0.000000
+            3.714971,51.675880,0.000000
+            3.714933,51.674855,0.000000
+            3.708115,51.671486,0.000000
+            3.709669,51.669296,0.000000
+            3.713012,51.667974,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04990009 Verspreide huizen Spoelwijk en polder Middelburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.697484,52.094853,0.000000
+            4.698313,52.094730,0.000000
+            4.704151,52.094764,0.000000
+            4.705610,52.094773,0.000000
+            4.710043,52.091202,0.000000
+            4.714570,52.081340,0.000000
+            4.714363,52.080671,0.000000
+            4.713178,52.076837,0.000000
+            4.704425,52.076787,0.000000
+            4.697173,52.074048,0.000000
+            4.694353,52.067739,0.000000
+            4.694267,52.067756,0.000000
+            4.685573,52.069485,0.000000
+            4.684735,52.067608,0.000000
+            4.689985,52.083581,0.000000
+            4.692476,52.088340,0.000000
+            4.697484,52.094853,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

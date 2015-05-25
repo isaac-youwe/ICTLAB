@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK038501 Wijk 01 Purmer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.029398,52.487214,0.000000
+            5.024996,52.485403,0.000000
+            5.024846,52.485453,0.000000
+            4.998415,52.494308,0.000000
+            5.009948,52.506777,0.000000
+            5.010088,52.506929,0.000000
+            5.024694,52.522255,0.000000
+            5.029095,52.520262,0.000000
+            5.040277,52.511602,0.000000
+            5.041768,52.506477,0.000000
+            5.039844,52.504079,0.000000
+            5.033916,52.498996,0.000000
+            5.030209,52.493386,0.000000
+            5.029802,52.489023,0.000000
+            5.030856,52.488113,0.000000
+            5.029398,52.487214,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630766 Oostzanerwerf</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.872511,52.430009,0.000000
+            4.876975,52.425534,0.000000
+            4.891678,52.425596,0.000000
+            4.898635,52.424776,0.000000
+            4.898277,52.416555,0.000000
+            4.896896,52.415538,0.000000
+            4.885591,52.414811,0.000000
+            4.879433,52.419133,0.000000
+            4.878019,52.418937,0.000000
+            4.874727,52.416116,0.000000
+            4.872829,52.416164,0.000000
+            4.867752,52.418282,0.000000
+            4.864426,52.414910,0.000000
+            4.856525,52.417390,0.000000
+            4.859395,52.420064,0.000000
+            4.857871,52.424551,0.000000
+            4.862218,52.429964,0.000000
+            4.866619,52.430882,0.000000
+            4.871919,52.430097,0.000000
+            4.872511,52.430009,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

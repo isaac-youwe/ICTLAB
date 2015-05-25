@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK039608 Wijk 08 Assumburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.679812,52.504735,0.000000
+            4.677150,52.502618,0.000000
+            4.674014,52.502823,0.000000
+            4.670835,52.501602,0.000000
+            4.668896,52.503090,0.000000
+            4.666725,52.504845,0.000000
+            4.672578,52.506554,0.000000
+            4.671905,52.507296,0.000000
+            4.674834,52.508448,0.000000
+            4.676059,52.508757,0.000000
+            4.683502,52.511464,0.000000
+            4.688665,52.509181,0.000000
+            4.679812,52.504735,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

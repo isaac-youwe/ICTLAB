@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK078504 Wijk 04 De Hoge Wal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.089621,51.528214,0.000000
+            5.083200,51.526213,0.000000
+            5.081363,51.526979,0.000000
+            5.082464,51.528888,0.000000
+            5.082533,51.530856,0.000000
+            5.083076,51.530914,0.000000
+            5.087111,51.532607,0.000000
+            5.087389,51.532723,0.000000
+            5.087737,51.532676,0.000000
+            5.089952,51.531026,0.000000
+            5.089621,51.528214,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220205 Overstegen-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.326461,51.975873,0.000000
+            6.317734,51.967546,0.000000
+            6.316949,51.967582,0.000000
+            6.317394,51.968623,0.000000
+            6.314054,51.970475,0.000000
+            6.318038,51.973498,0.000000
+            6.318297,51.975781,0.000000
+            6.320875,51.975810,0.000000
+            6.326461,51.975873,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01091012 Leeuwerikenveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.736089,52.654461,0.000000
+            6.729205,52.647692,0.000000
+            6.721279,52.651485,0.000000
+            6.722037,52.652010,0.000000
+            6.723837,52.653260,0.000000
+            6.724702,52.659309,0.000000
+            6.731306,52.660625,0.000000
+            6.731907,52.660546,0.000000
+            6.738139,52.658948,0.000000
+            6.740524,52.657429,0.000000
+            6.736089,52.654461,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

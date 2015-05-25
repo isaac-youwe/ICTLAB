@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830600 Wateringen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.281425,52.027461,0.000000
+            4.284482,52.025176,0.000000
+            4.280888,52.025161,0.000000
+            4.273721,52.022438,0.000000
+            4.267178,52.019912,0.000000
+            4.266470,52.021194,0.000000
+            4.274297,52.023569,0.000000
+            4.279652,52.024874,0.000000
+            4.278353,52.026678,0.000000
+            4.281425,52.027461,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

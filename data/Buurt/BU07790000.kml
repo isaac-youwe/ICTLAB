@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07790000 Raamsdonksveer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.886215,51.695174,0.000000
+            4.882414,51.687167,0.000000
+            4.877955,51.686400,0.000000
+            4.875652,51.688498,0.000000
+            4.870033,51.687871,0.000000
+            4.858869,51.692299,0.000000
+            4.858035,51.692820,0.000000
+            4.865396,51.696943,0.000000
+            4.867437,51.699705,0.000000
+            4.873983,51.699070,0.000000
+            4.882989,51.696739,0.000000
+            4.886215,51.695174,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

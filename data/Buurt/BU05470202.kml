@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05470202 Leyhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.542141,52.171921,0.000000
+            4.537380,52.169905,0.000000
+            4.536371,52.168581,0.000000
+            4.535926,52.168832,0.000000
+            4.528882,52.171561,0.000000
+            4.522575,52.171108,0.000000
+            4.525082,52.172494,0.000000
+            4.540555,52.175590,0.000000
+            4.540611,52.175507,0.000000
+            4.542141,52.171922,0.000000
+            4.542141,52.171921,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

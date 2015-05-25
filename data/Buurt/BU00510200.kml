@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510200 Vegelinsoord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.862189,52.993421,0.000000
+            5.859550,52.993409,0.000000
+            5.857748,52.994543,0.000000
+            5.855380,52.998352,0.000000
+            5.865357,53.002693,0.000000
+            5.869717,52.998064,0.000000
+            5.866333,52.995028,0.000000
+            5.862189,52.993421,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

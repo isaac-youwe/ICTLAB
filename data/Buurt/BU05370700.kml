@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05370700 Rijnsburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.445520,52.188767,0.000000
+            4.442012,52.188523,0.000000
+            4.440583,52.189199,0.000000
+            4.429436,52.190328,0.000000
+            4.431289,52.193434,0.000000
+            4.430067,52.196119,0.000000
+            4.429573,52.197177,0.000000
+            4.432050,52.197007,0.000000
+            4.451344,52.196257,0.000000
+            4.447787,52.194658,0.000000
+            4.447806,52.193916,0.000000
+            4.454271,52.193949,0.000000
+            4.445520,52.188767,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580601 Kievitsloop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.754926,51.611545,0.000000
+            4.752294,51.607295,0.000000
+            4.749944,51.606181,0.000000
+            4.749310,51.607383,0.000000
+            4.750234,51.608153,0.000000
+            4.747347,51.610240,0.000000
+            4.739036,51.608222,0.000000
+            4.744202,51.617024,0.000000
+            4.746368,51.619028,0.000000
+            4.751373,51.619075,0.000000
+            4.752067,51.615578,0.000000
+            4.754564,51.613473,0.000000
+            4.754926,51.611545,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

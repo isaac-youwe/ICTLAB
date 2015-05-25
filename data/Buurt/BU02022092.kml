@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02022092 Elden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.881596,51.954558,0.000000
+            5.879049,51.950774,0.000000
+            5.867881,51.953873,0.000000
+            5.870528,51.957617,0.000000
+            5.878362,51.966849,0.000000
+            5.882182,51.967031,0.000000
+            5.889853,51.965875,0.000000
+            5.893923,51.964884,0.000000
+            5.897500,51.963023,0.000000
+            5.888750,51.958329,0.000000
+            5.881596,51.954558,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

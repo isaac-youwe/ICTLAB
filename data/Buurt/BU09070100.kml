@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09070100 Ottersum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.989673,51.700755,0.000000
+            5.984294,51.699903,0.000000
+            5.974492,51.702059,0.000000
+            5.974967,51.702749,0.000000
+            5.980035,51.703609,0.000000
+            5.981297,51.706167,0.000000
+            5.982992,51.706533,0.000000
+            5.988719,51.706180,0.000000
+            5.992187,51.703091,0.000000
+            5.989673,51.700755,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

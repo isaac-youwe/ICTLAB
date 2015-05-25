@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK098802 Wijk 02 Laar en Hushoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.717439,51.270437,0.000000
+            5.703692,51.265224,0.000000
+            5.704265,51.264743,0.000000
+            5.698673,51.260929,0.000000
+            5.682005,51.268117,0.000000
+            5.683204,51.269563,0.000000
+            5.687624,51.270430,0.000000
+            5.688260,51.269880,0.000000
+            5.691404,51.272220,0.000000
+            5.688808,51.272711,0.000000
+            5.680379,51.278615,0.000000
+            5.686800,51.281009,0.000000
+            5.705454,51.283657,0.000000
+            5.716916,51.282726,0.000000
+            5.728367,51.281795,0.000000
+            5.728377,51.281794,0.000000
+            5.734091,51.279080,0.000000
+            5.736937,51.276375,0.000000
+            5.737010,51.276267,0.000000
+            5.717439,51.270437,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

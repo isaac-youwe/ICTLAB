@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05460800 Slaaghwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.509981,52.175241,0.000000
+            4.510935,52.171504,0.000000
+            4.505925,52.172001,0.000000
+            4.498414,52.172637,0.000000
+            4.496817,52.172743,0.000000
+            4.495038,52.174026,0.000000
+            4.491510,52.173836,0.000000
+            4.492819,52.175154,0.000000
+            4.494926,52.177275,0.000000
+            4.495235,52.177869,0.000000
+            4.495286,52.177985,0.000000
+            4.497379,52.176977,0.000000
+            4.503302,52.175865,0.000000
+            4.509981,52.175241,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

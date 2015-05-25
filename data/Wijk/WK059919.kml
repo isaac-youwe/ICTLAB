@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK059919 Wijk 19 Nieuw Mathenesse</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.436011,51.903723,0.000000
+            4.435374,51.901931,0.000000
+            4.424640,51.902311,0.000000
+            4.413690,51.900805,0.000000
+            4.414287,51.902787,0.000000
+            4.414906,51.904847,0.000000
+            4.411883,51.910215,0.000000
+            4.412923,51.912944,0.000000
+            4.413258,51.913823,0.000000
+            4.413353,51.913913,0.000000
+            4.430154,51.912962,0.000000
+            4.434502,51.911841,0.000000
+            4.441934,51.906535,0.000000
+            4.436011,51.903723,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

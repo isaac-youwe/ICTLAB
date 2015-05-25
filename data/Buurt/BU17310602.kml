@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17310602 Smilde-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.438727,52.943331,0.000000
+            6.438295,52.942575,0.000000
+            6.441718,52.942616,0.000000
+            6.431094,52.932588,0.000000
+            6.427241,52.929277,0.000000
+            6.422294,52.931223,0.000000
+            6.425855,52.934770,0.000000
+            6.436140,52.944231,0.000000
+            6.438727,52.943331,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

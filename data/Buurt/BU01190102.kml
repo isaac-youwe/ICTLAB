@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01190102 Kolderveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.158061,52.723088,0.000000
+            6.142127,52.718099,0.000000
+            6.142106,52.718154,0.000000
+            6.140657,52.719960,0.000000
+            6.140398,52.720382,0.000000
+            6.159472,52.726933,0.000000
+            6.164449,52.729850,0.000000
+            6.166521,52.727599,0.000000
+            6.158061,52.723088,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

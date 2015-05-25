@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06120200 Maaswijk-Zuid-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.359996,51.830937,0.000000
+            4.352730,51.830761,0.000000
+            4.351563,51.832908,0.000000
+            4.351514,51.836528,0.000000
+            4.351388,51.838707,0.000000
+            4.351324,51.840959,0.000000
+            4.356535,51.839604,0.000000
+            4.355165,51.837345,0.000000
+            4.355508,51.835851,0.000000
+            4.357241,51.834574,0.000000
+            4.360280,51.834191,0.000000
+            4.359996,51.830937,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

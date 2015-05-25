@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19550106 Verspreide huizen Loerbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.193512,51.940967,0.000000
+            6.204562,51.936592,0.000000
+            6.204783,51.936725,0.000000
+            6.212960,51.933668,0.000000
+            6.218459,51.934208,0.000000
+            6.222459,51.932611,0.000000
+            6.216661,51.928459,0.000000
+            6.209989,51.922309,0.000000
+            6.205748,51.916204,0.000000
+            6.201638,51.918956,0.000000
+            6.202271,51.920209,0.000000
+            6.197625,51.922109,0.000000
+            6.192312,51.924009,0.000000
+            6.190224,51.923040,0.000000
+            6.179084,51.927944,0.000000
+            6.180835,51.930508,0.000000
+            6.193512,51.940967,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

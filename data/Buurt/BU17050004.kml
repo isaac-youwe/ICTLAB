@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17050004 Verspreide huizen Ressen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.878390,51.896678,0.000000
+            5.875297,51.891013,0.000000
+            5.879526,51.891158,0.000000
+            5.882107,51.886718,0.000000
+            5.882638,51.885511,0.000000
+            5.875401,51.884110,0.000000
+            5.873856,51.882634,0.000000
+            5.870993,51.888996,0.000000
+            5.857908,51.888150,0.000000
+            5.856531,51.895347,0.000000
+            5.856550,51.897145,0.000000
+            5.857040,51.897143,0.000000
+            5.873986,51.897074,0.000000
+            5.874139,51.897533,0.000000
+            5.878390,51.896678,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

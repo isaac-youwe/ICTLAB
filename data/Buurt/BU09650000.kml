@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09650000 Simpelveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.991806,50.836539,0.000000
+            5.991360,50.833429,0.000000
+            5.994099,50.831296,0.000000
+            5.986653,50.828688,0.000000
+            5.969203,50.828771,0.000000
+            5.966666,50.832326,0.000000
+            5.971228,50.835908,0.000000
+            5.975858,50.834810,0.000000
+            5.981911,50.835221,0.000000
+            5.980830,50.838035,0.000000
+            5.987620,50.838765,0.000000
+            5.989238,50.838798,0.000000
+            5.991806,50.836539,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03730403 Sportlaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.637882,52.621964,0.000000
+            4.638808,52.619013,0.000000
+            4.633544,52.621163,0.000000
+            4.626713,52.621770,0.000000
+            4.624724,52.623717,0.000000
+            4.620679,52.623980,0.000000
+            4.621257,52.627056,0.000000
+            4.637882,52.621964,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

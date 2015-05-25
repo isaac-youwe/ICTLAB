@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04893164 Kilweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.536126,51.846270,0.000000
+            4.536133,51.841583,0.000000
+            4.519882,51.843866,0.000000
+            4.520085,51.847789,0.000000
+            4.520165,51.848144,0.000000
+            4.525297,51.847833,0.000000
+            4.531904,51.846861,0.000000
+            4.536126,51.846270,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

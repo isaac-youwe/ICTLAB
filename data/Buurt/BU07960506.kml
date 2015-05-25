@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960506 Molenhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.361823,51.703637,0.000000
+            5.358328,51.702797,0.000000
+            5.356158,51.706613,0.000000
+            5.352015,51.709845,0.000000
+            5.353069,51.710157,0.000000
+            5.359971,51.712202,0.000000
+            5.370040,51.715184,0.000000
+            5.371089,51.713304,0.000000
+            5.377430,51.709978,0.000000
+            5.380665,51.709519,0.000000
+            5.381660,51.708714,0.000000
+            5.378457,51.707835,0.000000
+            5.361823,51.703637,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

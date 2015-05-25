@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07850914 Vennen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.050805,51.529997,0.000000
+            5.051374,51.529928,0.000000
+            5.052218,51.529931,0.000000
+            5.053084,51.529093,0.000000
+            5.053809,51.527539,0.000000
+            5.056290,51.526036,0.000000
+            5.055427,51.524946,0.000000
+            5.054818,51.523402,0.000000
+            5.052495,51.524807,0.000000
+            5.046919,51.524971,0.000000
+            5.048616,51.526139,0.000000
+            5.050805,51.529997,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

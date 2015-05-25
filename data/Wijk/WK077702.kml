@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK077702 Wijk 02 Etten-Leur landelijk gebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.674111,51.572917,0.000000
+            4.668512,51.571746,0.000000
+            4.664565,51.572199,0.000000
+            4.659795,51.579649,0.000000
+            4.659990,51.580965,0.000000
+            4.670609,51.583614,0.000000
+            4.685854,51.587544,0.000000
+            4.690358,51.574181,0.000000
+            4.690455,51.573976,0.000000
+            4.674111,51.572917,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

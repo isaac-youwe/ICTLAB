@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>GM0372 Bennebroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.611670,52.319379,0.000000
+            4.611755,52.314516,0.000000
+            4.599958,52.318033,0.000000
+            4.599569,52.318057,0.000000
+            4.591330,52.318563,0.000000
+            4.586742,52.318844,0.000000
+            4.586477,52.318922,0.000000
+            4.583792,52.319722,0.000000
+            4.588058,52.324191,0.000000
+            4.588112,52.324246,0.000000
+            4.588095,52.325145,0.000000
+            4.588278,52.325435,0.000000
+            4.590949,52.329659,0.000000
+            4.591009,52.329659,0.000000
+            4.593883,52.329679,0.000000
+            4.597371,52.328992,0.000000
+            4.597686,52.328930,0.000000
+            4.598300,52.328809,0.000000
+            4.611598,52.323504,0.000000
+            4.611670,52.319379,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

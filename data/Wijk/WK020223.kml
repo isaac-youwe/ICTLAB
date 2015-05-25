@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK020223 Wijk 23 Rijkerswoerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.912321,51.944553,0.000000
+            5.902016,51.933811,0.000000
+            5.900787,51.934070,0.000000
+            5.897663,51.934729,0.000000
+            5.895619,51.934738,0.000000
+            5.894755,51.934742,0.000000
+            5.887493,51.935672,0.000000
+            5.883235,51.937010,0.000000
+            5.878797,51.938405,0.000000
+            5.878476,51.938526,0.000000
+            5.879049,51.950774,0.000000
+            5.881596,51.954558,0.000000
+            5.888750,51.958329,0.000000
+            5.890923,51.954012,0.000000
+            5.894247,51.951630,0.000000
+            5.899339,51.948531,0.000000
+            5.905266,51.947074,0.000000
+            5.911697,51.945739,0.000000
+            5.912044,51.945080,0.000000
+            5.912321,51.944553,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

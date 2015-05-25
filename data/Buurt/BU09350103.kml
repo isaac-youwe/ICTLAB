@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350103 Campagne</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.661125,50.833122,0.000000
+            5.659756,50.832707,0.000000
+            5.654871,50.835508,0.000000
+            5.657060,50.836541,0.000000
+            5.666614,50.840460,0.000000
+            5.669392,50.837091,0.000000
+            5.667556,50.836097,0.000000
+            5.661125,50.833122,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

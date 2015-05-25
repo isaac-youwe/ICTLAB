@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990090 Lieveren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.450772,53.114072,0.000000
+            6.450482,53.112553,0.000000
+            6.446495,53.113377,0.000000
+            6.448536,53.116462,0.000000
+            6.447518,53.118938,0.000000
+            6.448742,53.119297,0.000000
+            6.457898,53.116066,0.000000
+            6.455077,53.114036,0.000000
+            6.450772,53.114072,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

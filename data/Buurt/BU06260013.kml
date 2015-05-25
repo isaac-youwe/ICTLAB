@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06260013 Bloemenwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.441168,52.121441,0.000000
+            4.440902,52.121309,0.000000
+            4.434733,52.124149,0.000000
+            4.436357,52.125804,0.000000
+            4.438103,52.127169,0.000000
+            4.444435,52.124668,0.000000
+            4.443187,52.123219,0.000000
+            4.441168,52.121441,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

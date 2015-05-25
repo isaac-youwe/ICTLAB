@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140006 Barger-Oosterveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.959573,52.779494,0.000000
+            6.961896,52.776296,0.000000
+            6.968137,52.776467,0.000000
+            6.970257,52.773762,0.000000
+            6.964811,52.771879,0.000000
+            6.966914,52.769181,0.000000
+            6.962210,52.765516,0.000000
+            6.967059,52.760143,0.000000
+            6.963338,52.759804,0.000000
+            6.957126,52.765454,0.000000
+            6.944855,52.771317,0.000000
+            6.946327,52.773277,0.000000
+            6.950108,52.773555,0.000000
+            6.950277,52.779494,0.000000
+            6.953155,52.781787,0.000000
+            6.956107,52.781508,0.000000
+            6.959573,52.779494,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

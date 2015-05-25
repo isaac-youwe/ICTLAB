@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04530500 Gildenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.649117,52.476218,0.000000
+            4.639354,52.472736,0.000000
+            4.635889,52.475077,0.000000
+            4.634773,52.479974,0.000000
+            4.634899,52.479975,0.000000
+            4.637843,52.479993,0.000000
+            4.638480,52.479911,0.000000
+            4.640397,52.479664,0.000000
+            4.649809,52.478448,0.000000
+            4.649317,52.476861,0.000000
+            4.649117,52.476218,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

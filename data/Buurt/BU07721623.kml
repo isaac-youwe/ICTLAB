@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721623 Lievendaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.431612,51.438629,0.000000
+            5.426020,51.436577,0.000000
+            5.426556,51.439842,0.000000
+            5.427379,51.447800,0.000000
+            5.425815,51.449515,0.000000
+            5.419395,51.452761,0.000000
+            5.435442,51.447032,0.000000
+            5.443261,51.443431,0.000000
+            5.431612,51.438629,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

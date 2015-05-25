@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05032510 Kerkpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.333579,51.984277,0.000000
+            4.329650,51.983380,0.000000
+            4.324246,51.989466,0.000000
+            4.324277,51.989526,0.000000
+            4.325638,51.992175,0.000000
+            4.332091,51.995459,0.000000
+            4.333097,51.995594,0.000000
+            4.332782,51.991089,0.000000
+            4.332756,51.990068,0.000000
+            4.332439,51.985281,0.000000
+            4.333579,51.984277,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

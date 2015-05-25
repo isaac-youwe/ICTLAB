@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990620 Peizermade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.512940,53.186244,0.000000
+            6.509028,53.181111,0.000000
+            6.505724,53.182339,0.000000
+            6.508118,53.186136,0.000000
+            6.509302,53.196765,0.000000
+            6.514424,53.197146,0.000000
+            6.514128,53.196974,0.000000
+            6.514058,53.194278,0.000000
+            6.514103,53.194178,0.000000
+            6.512940,53.186244,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

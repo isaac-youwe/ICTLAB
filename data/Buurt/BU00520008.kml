@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00520008 Winschoten-industriegebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.070132,53.138329,0.000000
+            7.051893,53.130494,0.000000
+            7.050370,53.128763,0.000000
+            7.043305,53.134381,0.000000
+            7.041505,53.138553,0.000000
+            7.044091,53.138371,0.000000
+            7.044251,53.143539,0.000000
+            7.045676,53.146713,0.000000
+            7.049622,53.150843,0.000000
+            7.054399,53.154968,0.000000
+            7.065839,53.150074,0.000000
+            7.073120,53.144829,0.000000
+            7.080983,53.143623,0.000000
+            7.080800,53.143572,0.000000
+            7.070132,53.138329,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

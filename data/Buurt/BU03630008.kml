@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630008 Weesperbuurt en Plantage</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.908223,52.360600,0.000000
+            4.904584,52.359224,0.000000
+            4.902634,52.362874,0.000000
+            4.901120,52.365781,0.000000
+            4.905973,52.366757,0.000000
+            4.909741,52.369206,0.000000
+            4.921659,52.365122,0.000000
+            4.920849,52.364626,0.000000
+            4.922251,52.363774,0.000000
+            4.918287,52.362258,0.000000
+            4.908223,52.360600,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

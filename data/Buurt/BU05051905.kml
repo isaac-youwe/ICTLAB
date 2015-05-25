@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05051905 Julianahaven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.648845,51.793129,0.000000
+            4.648823,51.791767,0.000000
+            4.650218,51.784318,0.000000
+            4.644630,51.784504,0.000000
+            4.635689,51.784785,0.000000
+            4.628020,51.785317,0.000000
+            4.632965,51.790134,0.000000
+            4.633549,51.791829,0.000000
+            4.636198,51.791816,0.000000
+            4.640473,51.793105,0.000000
+            4.648845,51.793129,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

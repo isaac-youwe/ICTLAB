@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03110300 Kockengen waaronder Wagendijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.945779,52.154829,0.000000
+            4.947314,52.153096,0.000000
+            4.954338,52.153509,0.000000
+            4.962619,52.151212,0.000000
+            4.964233,52.149987,0.000000
+            4.963429,52.149567,0.000000
+            4.951010,52.146177,0.000000
+            4.953302,52.143828,0.000000
+            4.950503,52.142721,0.000000
+            4.941816,52.149748,0.000000
+            4.945991,52.150871,0.000000
+            4.942384,52.153964,0.000000
+            4.945779,52.154829,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

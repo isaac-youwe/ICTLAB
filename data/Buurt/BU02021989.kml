@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02021989 Holthuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.910898,51.947256,0.000000
+            5.911697,51.945739,0.000000
+            5.905266,51.947074,0.000000
+            5.908162,51.957588,0.000000
+            5.917606,51.956650,0.000000
+            5.921932,51.956422,0.000000
+            5.921775,51.950803,0.000000
+            5.918214,51.950819,0.000000
+            5.915294,51.949933,0.000000
+            5.910898,51.947256,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

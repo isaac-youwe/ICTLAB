@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02410006 Berg en Dal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.926978,51.815380,0.000000
+            5.922338,51.815129,0.000000
+            5.917025,51.816103,0.000000
+            5.908133,51.821599,0.000000
+            5.903684,51.826826,0.000000
+            5.903694,51.826829,0.000000
+            5.908078,51.829506,0.000000
+            5.916698,51.822276,0.000000
+            5.926799,51.817735,0.000000
+            5.929581,51.816857,0.000000
+            5.926978,51.815380,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16580300 Sterksel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.605215,51.355250,0.000000
+            5.612122,51.354030,0.000000
+            5.619514,51.354588,0.000000
+            5.620794,51.351501,0.000000
+            5.620553,51.347668,0.000000
+            5.616973,51.343675,0.000000
+            5.606992,51.345181,0.000000
+            5.602518,51.346947,0.000000
+            5.594641,51.348629,0.000000
+            5.593672,51.350744,0.000000
+            5.592477,51.352614,0.000000
+            5.594326,51.355423,0.000000
+            5.596145,51.355550,0.000000
+            5.599015,51.361800,0.000000
+            5.601682,51.357861,0.000000
+            5.605215,51.355250,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

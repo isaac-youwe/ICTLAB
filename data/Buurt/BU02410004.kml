@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02410004 Groesbeek Nijerf</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.947836,51.765592,0.000000
+            5.944392,51.764692,0.000000
+            5.937807,51.765719,0.000000
+            5.937012,51.766599,0.000000
+            5.933919,51.769785,0.000000
+            5.942089,51.770538,0.000000
+            5.947326,51.773468,0.000000
+            5.952014,51.772502,0.000000
+            5.947836,51.765592,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

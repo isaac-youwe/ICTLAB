@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01830300 Geesteren kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.741799,52.417487,0.000000
+            6.740993,52.416842,0.000000
+            6.736963,52.417023,0.000000
+            6.722021,52.415684,0.000000
+            6.721201,52.418805,0.000000
+            6.724950,52.419976,0.000000
+            6.732432,52.430271,0.000000
+            6.734343,52.430983,0.000000
+            6.737404,52.429366,0.000000
+            6.739673,52.425597,0.000000
+            6.743139,52.422772,0.000000
+            6.741799,52.417487,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

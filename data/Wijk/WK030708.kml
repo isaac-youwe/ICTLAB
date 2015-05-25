@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK030708 Wijk 08 Schothorst Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.398138,52.170939,0.000000
+            5.394047,52.167535,0.000000
+            5.390006,52.167880,0.000000
+            5.384984,52.166669,0.000000
+            5.380492,52.165479,0.000000
+            5.376744,52.165073,0.000000
+            5.374533,52.165864,0.000000
+            5.375517,52.166306,0.000000
+            5.375503,52.168022,0.000000
+            5.373917,52.169765,0.000000
+            5.374475,52.169876,0.000000
+            5.381880,52.171142,0.000000
+            5.386974,52.172380,0.000000
+            5.390681,52.172799,0.000000
+            5.397899,52.172329,0.000000
+            5.398138,52.170939,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

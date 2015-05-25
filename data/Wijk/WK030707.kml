@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK030707 Wijk 07 De Kruiskamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.403719,52.163480,0.000000
+            5.405028,52.160449,0.000000
+            5.406154,52.158016,0.000000
+            5.401106,52.157191,0.000000
+            5.398054,52.156754,0.000000
+            5.397429,52.158732,0.000000
+            5.394500,52.160245,0.000000
+            5.390164,52.160702,0.000000
+            5.389642,52.160632,0.000000
+            5.387411,52.161724,0.000000
+            5.394528,52.167350,0.000000
+            5.398725,52.165618,0.000000
+            5.403719,52.163480,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

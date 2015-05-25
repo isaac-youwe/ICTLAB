@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00560203 Saaksum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.423380,53.310730,0.000000
+            6.418459,53.310087,0.000000
+            6.415682,53.310834,0.000000
+            6.415180,53.312602,0.000000
+            6.417495,53.315465,0.000000
+            6.420079,53.316058,0.000000
+            6.424672,53.314139,0.000000
+            6.425599,53.312936,0.000000
+            6.423380,53.310730,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

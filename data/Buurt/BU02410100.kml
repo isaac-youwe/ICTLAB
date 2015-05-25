@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02410100 Breedeweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.947476,51.757120,0.000000
+            5.943412,51.754635,0.000000
+            5.940239,51.756364,0.000000
+            5.937259,51.754352,0.000000
+            5.935842,51.754256,0.000000
+            5.934369,51.759542,0.000000
+            5.936294,51.760095,0.000000
+            5.941665,51.763547,0.000000
+            5.947978,51.761043,0.000000
+            5.944887,51.758969,0.000000
+            5.947476,51.757120,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

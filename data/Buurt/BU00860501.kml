@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00860501 Wijnjewoude</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.209912,53.055129,0.000000
+            6.196605,53.049305,0.000000
+            6.191929,53.052353,0.000000
+            6.202980,53.058871,0.000000
+            6.201240,53.059845,0.000000
+            6.205570,53.062684,0.000000
+            6.214158,53.057726,0.000000
+            6.209912,53.055129,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

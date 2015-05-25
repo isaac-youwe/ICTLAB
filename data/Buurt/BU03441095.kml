@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03441095 De Meern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.028453,52.088478,0.000000
+            5.038911,52.087386,0.000000
+            5.040431,52.087423,0.000000
+            5.043916,52.089795,0.000000
+            5.048325,52.089731,0.000000
+            5.048079,52.087111,0.000000
+            5.048437,52.082815,0.000000
+            5.048041,52.080692,0.000000
+            5.045231,52.081203,0.000000
+            5.039450,52.071439,0.000000
+            5.025182,52.073583,0.000000
+            5.026983,52.083695,0.000000
+            5.025691,52.084815,0.000000
+            5.019611,52.085969,0.000000
+            5.021355,52.090549,0.000000
+            5.028453,52.088478,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

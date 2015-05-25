@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07180101 Scheldestraat en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.570730,51.445695,0.000000
+            3.568833,51.444110,0.000000
+            3.566462,51.445170,0.000000
+            3.568639,51.447418,0.000000
+            3.574362,51.449867,0.000000
+            3.578949,51.450473,0.000000
+            3.585910,51.449244,0.000000
+            3.584659,51.446594,0.000000
+            3.570730,51.445695,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

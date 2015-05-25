@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK020214 Wijk 14 Heijenoord en Lombok</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.895995,51.987637,0.000000
+            5.893861,51.985824,0.000000
+            5.892467,51.986094,0.000000
+            5.892130,51.982994,0.000000
+            5.885748,51.983113,0.000000
+            5.885710,51.983987,0.000000
+            5.876982,51.983351,0.000000
+            5.877379,51.986779,0.000000
+            5.878274,51.988955,0.000000
+            5.886485,51.989121,0.000000
+            5.887247,51.990711,0.000000
+            5.890297,51.989352,0.000000
+            5.891549,51.988979,0.000000
+            5.895995,51.987637,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

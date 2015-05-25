@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00220101 De Haspel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.344152,53.093873,0.000000
+            6.341076,53.087939,0.000000
+            6.338141,53.088852,0.000000
+            6.337933,53.088904,0.000000
+            6.339011,53.097429,0.000000
+            6.333912,53.117743,0.000000
+            6.336065,53.118994,0.000000
+            6.338575,53.117684,0.000000
+            6.342602,53.106848,0.000000
+            6.343486,53.102399,0.000000
+            6.344152,53.093873,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

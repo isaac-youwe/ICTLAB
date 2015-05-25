@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17050003 Doornenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.003382,51.885208,0.000000
+            6.000191,51.882677,0.000000
+            5.995231,51.883473,0.000000
+            5.995339,51.884611,0.000000
+            5.996401,51.889414,0.000000
+            5.992704,51.890741,0.000000
+            5.993932,51.893392,0.000000
+            5.995911,51.895306,0.000000
+            6.001644,51.895161,0.000000
+            6.001329,51.893788,0.000000
+            6.007830,51.892031,0.000000
+            6.008259,51.888902,0.000000
+            6.003327,51.887299,0.000000
+            6.003382,51.885208,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

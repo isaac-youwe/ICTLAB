@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK020221 Wijk 21 Elderveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.874935,51.968466,0.000000
+            5.878362,51.966849,0.000000
+            5.870528,51.957617,0.000000
+            5.867881,51.953873,0.000000
+            5.860412,51.955180,0.000000
+            5.851868,51.954915,0.000000
+            5.851194,51.962680,0.000000
+            5.851293,51.963191,0.000000
+            5.853565,51.968765,0.000000
+            5.863733,51.968488,0.000000
+            5.868060,51.968945,0.000000
+            5.874935,51.968466,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

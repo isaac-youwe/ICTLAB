@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16660105 Zevenhuizen-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.588720,52.011703,0.000000
+            4.585429,52.009678,0.000000
+            4.580515,52.017125,0.000000
+            4.580457,52.018135,0.000000
+            4.582746,52.019308,0.000000
+            4.588978,52.015621,0.000000
+            4.586087,52.013832,0.000000
+            4.588720,52.011703,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

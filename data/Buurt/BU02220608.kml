@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220608 Bedrijventerrein De Huet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.271728,51.967588,0.000000
+            6.267985,51.963914,0.000000
+            6.259785,51.968570,0.000000
+            6.256012,51.969816,0.000000
+            6.252091,51.970077,0.000000
+            6.255231,51.972867,0.000000
+            6.254620,51.974146,0.000000
+            6.258194,51.973509,0.000000
+            6.261345,51.971989,0.000000
+            6.271728,51.967588,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03210102 Den Oord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.163266,52.033999,0.000000
+            5.161805,52.029645,0.000000
+            5.156702,52.029660,0.000000
+            5.155227,52.030625,0.000000
+            5.155360,52.033036,0.000000
+            5.155856,52.033531,0.000000
+            5.159408,52.033681,0.000000
+            5.160523,52.034475,0.000000
+            5.163266,52.033999,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

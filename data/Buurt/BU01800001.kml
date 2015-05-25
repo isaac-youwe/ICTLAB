@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01800001 Staphorst plan-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.200886,52.649321,0.000000
+            6.202052,52.645626,0.000000
+            6.205049,52.646917,0.000000
+            6.207755,52.645224,0.000000
+            6.208667,52.643322,0.000000
+            6.203155,52.640931,0.000000
+            6.195987,52.646823,0.000000
+            6.200886,52.649321,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

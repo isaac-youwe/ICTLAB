@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK030711 Wijk 11 Rustenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.422797,52.169520,0.000000
+            5.419198,52.161178,0.000000
+            5.415317,52.160102,0.000000
+            5.413286,52.161900,0.000000
+            5.412395,52.161774,0.000000
+            5.413342,52.163286,0.000000
+            5.411432,52.165912,0.000000
+            5.409965,52.169289,0.000000
+            5.403866,52.171672,0.000000
+            5.404299,52.172130,0.000000
+            5.410674,52.172363,0.000000
+            5.422717,52.170502,0.000000
+            5.423205,52.170424,0.000000
+            5.422797,52.169520,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

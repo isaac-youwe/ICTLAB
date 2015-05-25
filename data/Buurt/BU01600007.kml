@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600007 Baalderveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.659243,52.583296,0.000000
+            6.643922,52.568848,0.000000
+            6.641286,52.569165,0.000000
+            6.639321,52.567875,0.000000
+            6.637315,52.567983,0.000000
+            6.635996,52.569953,0.000000
+            6.633218,52.569843,0.000000
+            6.632234,52.567752,0.000000
+            6.625743,52.569108,0.000000
+            6.627450,52.571752,0.000000
+            6.629374,52.572008,0.000000
+            6.631594,52.574567,0.000000
+            6.634963,52.576031,0.000000
+            6.653865,52.585985,0.000000
+            6.659243,52.583296,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

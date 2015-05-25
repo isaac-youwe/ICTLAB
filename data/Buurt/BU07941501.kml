@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07941501 Houtsdonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.659663,51.468548,0.000000
+            5.662535,51.465980,0.000000
+            5.661355,51.465209,0.000000
+            5.659614,51.467278,0.000000
+            5.656161,51.465264,0.000000
+            5.645632,51.469067,0.000000
+            5.645356,51.469270,0.000000
+            5.642666,51.470750,0.000000
+            5.653341,51.473339,0.000000
+            5.653879,51.473287,0.000000
+            5.659663,51.468548,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

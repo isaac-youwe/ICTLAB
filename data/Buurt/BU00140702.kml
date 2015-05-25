@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140702 Corpus Den Hoorn-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.563246,53.197367,0.000000
+            6.564242,53.192931,0.000000
+            6.550570,53.195002,0.000000
+            6.546668,53.198701,0.000000
+            6.554084,53.201042,0.000000
+            6.559583,53.202352,0.000000
+            6.564221,53.203226,0.000000
+            6.565776,53.201688,0.000000
+            6.563246,53.197367,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

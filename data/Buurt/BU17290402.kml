@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290402 Schweiberg-Dal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.914676,50.792202,0.000000
+            5.915702,50.790050,0.000000
+            5.921779,50.791748,0.000000
+            5.921972,50.787765,0.000000
+            5.918087,50.787388,0.000000
+            5.903296,50.781327,0.000000
+            5.897840,50.784175,0.000000
+            5.895605,50.786461,0.000000
+            5.914676,50.792202,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

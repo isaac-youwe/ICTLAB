@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK049704 Wijk 04 Nieuwerbrug Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.822259,52.105125,0.000000
+            4.823870,52.091801,0.000000
+            4.825476,52.080123,0.000000
+            4.825481,52.079734,0.000000
+            4.817357,52.077975,0.000000
+            4.812462,52.078074,0.000000
+            4.802371,52.082178,0.000000
+            4.795779,52.085930,0.000000
+            4.791984,52.085880,0.000000
+            4.786960,52.084510,0.000000
+            4.785339,52.091907,0.000000
+            4.785658,52.102076,0.000000
+            4.792807,52.103602,0.000000
+            4.796891,52.103722,0.000000
+            4.813932,52.102661,0.000000
+            4.818482,52.104995,0.000000
+            4.822259,52.105125,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

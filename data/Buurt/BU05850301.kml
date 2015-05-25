@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05850301 Cillaarshoek (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.550762,51.778427,0.000000
+            4.545971,51.774161,0.000000
+            4.545431,51.774488,0.000000
+            4.545245,51.774602,0.000000
+            4.538670,51.777787,0.000000
+            4.540193,51.778251,0.000000
+            4.544297,51.776607,0.000000
+            4.548894,51.779052,0.000000
+            4.550762,51.778427,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

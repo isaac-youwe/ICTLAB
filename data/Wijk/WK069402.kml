@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK069402 Wijk 02 Nieuwpoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.877360,51.921050,0.000000
+            4.876761,51.920279,0.000000
+            4.875491,51.921021,0.000000
+            4.871452,51.928082,0.000000
+            4.870208,51.928454,0.000000
+            4.865729,51.934075,0.000000
+            4.863840,51.934968,0.000000
+            4.864843,51.936100,0.000000
+            4.863057,51.940172,0.000000
+            4.863591,51.940065,0.000000
+            4.872338,51.938306,0.000000
+            4.872373,51.938300,0.000000
+            4.873296,51.935848,0.000000
+            4.872418,51.934287,0.000000
+            4.874791,51.930084,0.000000
+            4.876331,51.926566,0.000000
+            4.874687,51.925955,0.000000
+            4.877360,51.921050,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

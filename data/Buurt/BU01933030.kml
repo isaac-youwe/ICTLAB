@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01933030 Holtenbroek III</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.093108,52.527695,0.000000
+            6.083375,52.526648,0.000000
+            6.083033,52.529477,0.000000
+            6.081314,52.531630,0.000000
+            6.082494,52.535126,0.000000
+            6.084100,52.534147,0.000000
+            6.091995,52.531760,0.000000
+            6.093108,52.527695,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

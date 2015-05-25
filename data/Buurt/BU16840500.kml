@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16840500 Beers</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.838207,51.727490,0.000000
+            5.839050,51.724836,0.000000
+            5.834718,51.721973,0.000000
+            5.831601,51.723514,0.000000
+            5.823114,51.723360,0.000000
+            5.815743,51.724730,0.000000
+            5.818868,51.727091,0.000000
+            5.828785,51.726483,0.000000
+            5.838207,51.727490,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

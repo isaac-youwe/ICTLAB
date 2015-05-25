@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350406 Amby</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.738311,50.873278,0.000000
+            5.746658,50.870900,0.000000
+            5.755189,50.871772,0.000000
+            5.759401,50.865466,0.000000
+            5.762249,50.866356,0.000000
+            5.763648,50.863654,0.000000
+            5.751903,50.857769,0.000000
+            5.735389,50.852516,0.000000
+            5.732615,50.852575,0.000000
+            5.728759,50.854668,0.000000
+            5.724229,50.854465,0.000000
+            5.724578,50.861485,0.000000
+            5.718602,50.861682,0.000000
+            5.717600,50.862401,0.000000
+            5.727230,50.868613,0.000000
+            5.734394,50.876066,0.000000
+            5.733898,50.874535,0.000000
+            5.738311,50.873278,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

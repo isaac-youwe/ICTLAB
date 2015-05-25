@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08470100 Lierop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.700714,51.418384,0.000000
+            5.700328,51.417502,0.000000
+            5.696680,51.417534,0.000000
+            5.694536,51.416381,0.000000
+            5.679552,51.414455,0.000000
+            5.676793,51.416501,0.000000
+            5.669946,51.416661,0.000000
+            5.669880,51.423334,0.000000
+            5.700662,51.421166,0.000000
+            5.700644,51.418517,0.000000
+            5.700714,51.418384,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

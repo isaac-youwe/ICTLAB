@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK039601 Wijk 01 Heemskerk-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.671163,52.514005,0.000000
+            4.672916,52.512647,0.000000
+            4.677066,52.513521,0.000000
+            4.678038,52.512603,0.000000
+            4.674729,52.511416,0.000000
+            4.676059,52.508757,0.000000
+            4.674834,52.508448,0.000000
+            4.671905,52.507296,0.000000
+            4.670244,52.508582,0.000000
+            4.669012,52.509693,0.000000
+            4.666873,52.511575,0.000000
+            4.669035,52.513190,0.000000
+            4.671163,52.514005,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

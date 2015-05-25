@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610603 De Horn-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.764489,52.650301,0.000000
+            4.757824,52.648446,0.000000
+            4.757420,52.650276,0.000000
+            4.759716,52.654367,0.000000
+            4.759705,52.657544,0.000000
+            4.763291,52.657758,0.000000
+            4.768835,52.656022,0.000000
+            4.764489,52.650301,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

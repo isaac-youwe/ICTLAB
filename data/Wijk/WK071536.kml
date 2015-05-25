@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK071536 Wijk 36 Hoek-Braakman (Terneuzen)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.769617,51.334967,0.000000
+            3.769557,51.331950,0.000000
+            3.767291,51.332349,0.000000
+            3.765911,51.333636,0.000000
+            3.751178,51.327004,0.000000
+            3.745541,51.323737,0.000000
+            3.744731,51.320748,0.000000
+            3.737307,51.316228,0.000000
+            3.734309,51.312781,0.000000
+            3.733339,51.312871,0.000000
+            3.712442,51.315773,0.000000
+            3.712418,51.315776,0.000000
+            3.712719,51.316164,0.000000
+            3.719444,51.324803,0.000000
+            3.718185,51.327293,0.000000
+            3.718337,51.329986,0.000000
+            3.728850,51.335596,0.000000
+            3.734849,51.340740,0.000000
+            3.750256,51.339921,0.000000
+            3.765349,51.335378,0.000000
+            3.769617,51.334967,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

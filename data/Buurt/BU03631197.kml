@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631197 Gein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.001643,52.292972,0.000000
+            4.997277,52.289362,0.000000
+            4.985958,52.290095,0.000000
+            4.982159,52.290604,0.000000
+            4.981884,52.298734,0.000000
+            4.979834,52.301526,0.000000
+            5.008087,52.301483,0.000000
+            5.007438,52.301081,0.000000
+            5.003062,52.298370,0.000000
+            5.001620,52.295669,0.000000
+            5.001643,52.292972,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

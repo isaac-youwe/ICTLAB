@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03810102 Vondellaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.172460,52.277737,0.000000
+            5.173350,52.276191,0.000000
+            5.171473,52.276909,0.000000
+            5.167823,52.276020,0.000000
+            5.166170,52.276821,0.000000
+            5.164634,52.280351,0.000000
+            5.167177,52.280897,0.000000
+            5.167230,52.280908,0.000000
+            5.167250,52.280912,0.000000
+            5.167604,52.280872,0.000000
+            5.168830,52.280732,0.000000
+            5.172460,52.277737,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16690204 Posterholt De Winkel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.057003,51.109555,0.000000
+            6.045669,51.102549,0.000000
+            6.041054,51.109049,0.000000
+            6.028221,51.108189,0.000000
+            6.026437,51.108786,0.000000
+            6.023921,51.109627,0.000000
+            6.024651,51.110389,0.000000
+            6.029506,51.115451,0.000000
+            6.041630,51.118819,0.000000
+            6.046726,51.122245,0.000000
+            6.050366,51.124712,0.000000
+            6.052627,51.125129,0.000000
+            6.066412,51.119720,0.000000
+            6.069295,51.117762,0.000000
+            6.068547,51.117579,0.000000
+            6.059951,51.115831,0.000000
+            6.055588,51.110462,0.000000
+            6.057003,51.109555,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630980 Lutkemeer en Ookmeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.759997,52.381490,0.000000
+            4.780710,52.369862,0.000000
+            4.789198,52.376279,0.000000
+            4.790533,52.375638,0.000000
+            4.792832,52.373827,0.000000
+            4.805045,52.372756,0.000000
+            4.807448,52.367035,0.000000
+            4.795137,52.364503,0.000000
+            4.786587,52.362724,0.000000
+            4.783426,52.361714,0.000000
+            4.776568,52.356977,0.000000
+            4.767944,52.351241,0.000000
+            4.767731,52.351305,0.000000
+            4.755912,52.356636,0.000000
+            4.757193,52.364301,0.000000
+            4.757265,52.364733,0.000000
+            4.758619,52.372830,0.000000
+            4.757073,52.378215,0.000000
+            4.758045,52.380052,0.000000
+            4.759997,52.381490,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

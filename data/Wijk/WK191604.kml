@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK191604 Wijk 04 Voorburg Midden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.369058,52.068073,0.000000
+            4.363499,52.065427,0.000000
+            4.354817,52.068254,0.000000
+            4.356343,52.068893,0.000000
+            4.349967,52.074694,0.000000
+            4.365937,52.082071,0.000000
+            4.374172,52.079447,0.000000
+            4.381700,52.077635,0.000000
+            4.383979,52.076292,0.000000
+            4.383461,52.076288,0.000000
+            4.379125,52.074453,0.000000
+            4.369058,52.068073,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

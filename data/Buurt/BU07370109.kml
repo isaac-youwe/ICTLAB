@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07370109 Verspreide huizen Oentsjerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.889586,53.258447,0.000000
+            5.889762,53.249472,0.000000
+            5.890748,53.249007,0.000000
+            5.891470,53.244722,0.000000
+            5.883417,53.244620,0.000000
+            5.882572,53.244077,0.000000
+            5.878810,53.246538,0.000000
+            5.879092,53.248035,0.000000
+            5.877322,53.249990,0.000000
+            5.872422,53.248850,0.000000
+            5.871982,53.248126,0.000000
+            5.862869,53.248164,0.000000
+            5.876348,53.259652,0.000000
+            5.889586,53.258447,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

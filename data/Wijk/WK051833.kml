@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051833 Wijk 33 Bouwlust en Vrederust</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.273725,52.043340,0.000000
+            4.279930,52.040354,0.000000
+            4.271075,52.035283,0.000000
+            4.259148,52.030213,0.000000
+            4.258942,52.030131,0.000000
+            4.247615,52.025611,0.000000
+            4.247605,52.025607,0.000000
+            4.235606,52.038971,0.000000
+            4.239622,52.042299,0.000000
+            4.245840,52.040115,0.000000
+            4.263141,52.050428,0.000000
+            4.267794,52.047201,0.000000
+            4.273725,52.043340,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

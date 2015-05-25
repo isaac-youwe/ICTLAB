@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06380000 Zoeterwoude-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.501651,52.116956,0.000000
+            4.495782,52.112721,0.000000
+            4.493111,52.115137,0.000000
+            4.490627,52.119610,0.000000
+            4.491636,52.122451,0.000000
+            4.496216,52.127646,0.000000
+            4.494208,52.130025,0.000000
+            4.494726,52.130221,0.000000
+            4.496118,52.131099,0.000000
+            4.499054,52.132951,0.000000
+            4.499054,52.132951,0.000000
+            4.502621,52.128897,0.000000
+            4.501651,52.116956,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

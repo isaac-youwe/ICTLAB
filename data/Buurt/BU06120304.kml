@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06120304 Sterrenkwartier-Zuidrand</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.318704,51.838850,0.000000
+            4.323059,51.838601,0.000000
+            4.331136,51.838696,0.000000
+            4.331130,51.838058,0.000000
+            4.324564,51.837759,0.000000
+            4.317883,51.837213,0.000000
+            4.318704,51.838850,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

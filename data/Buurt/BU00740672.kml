@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00740672 Oudehorne</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.103193,52.958277,0.000000
+            6.113114,52.950119,0.000000
+            6.092421,52.942258,0.000000
+            6.086384,52.936901,0.000000
+            6.086349,52.936876,0.000000
+            6.081092,52.941584,0.000000
+            6.079188,52.940930,0.000000
+            6.068990,52.950567,0.000000
+            6.071620,52.951411,0.000000
+            6.067091,52.956118,0.000000
+            6.064608,52.955178,0.000000
+            6.057082,52.962101,0.000000
+            6.061000,52.965307,0.000000
+            6.067335,52.972907,0.000000
+            6.067607,52.972960,0.000000
+            6.080751,52.980744,0.000000
+            6.097305,52.965538,0.000000
+            6.096399,52.965088,0.000000
+            6.103193,52.958277,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

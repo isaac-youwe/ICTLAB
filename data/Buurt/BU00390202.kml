@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00390202 Hamrikkerweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.931095,53.196478,0.000000
+            6.925217,53.194330,0.000000
+            6.925214,53.194331,0.000000
+            6.925188,53.194339,0.000000
+            6.923122,53.194993,0.000000
+            6.927006,53.199909,0.000000
+            6.936091,53.205227,0.000000
+            6.940849,53.209696,0.000000
+            6.944039,53.207146,0.000000
+            6.931095,53.196478,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

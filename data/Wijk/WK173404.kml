@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK173404 Wijk 04 Hemmen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.708415,51.936147,0.000000
+            5.705547,51.929592,0.000000
+            5.701583,51.927509,0.000000
+            5.694245,51.920836,0.000000
+            5.680864,51.918391,0.000000
+            5.677974,51.921095,0.000000
+            5.676532,51.922896,0.000000
+            5.675101,51.926495,0.000000
+            5.678026,51.929185,0.000000
+            5.689683,51.932751,0.000000
+            5.695488,51.930938,0.000000
+            5.695494,51.931837,0.000000
+            5.695500,51.932635,0.000000
+            5.695500,51.932736,0.000000
+            5.692604,51.934542,0.000000
+            5.690194,51.935294,0.000000
+            5.701166,51.936803,0.000000
+            5.705999,51.936365,0.000000
+            5.708415,51.936147,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

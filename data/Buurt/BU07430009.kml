@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07430009 Verspreide huizen Asten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.700668,51.422026,0.000000
+            5.727152,51.419943,0.000000
+            5.742863,51.419903,0.000000
+            5.749558,51.419287,0.000000
+            5.749697,51.417054,0.000000
+            5.747460,51.416635,0.000000
+            5.745034,51.415025,0.000000
+            5.744925,51.412647,0.000000
+            5.742649,51.412921,0.000000
+            5.742364,51.412037,0.000000
+            5.736440,51.411206,0.000000
+            5.717789,51.401380,0.000000
+            5.717773,51.401389,0.000000
+            5.704901,51.410415,0.000000
+            5.700714,51.418384,0.000000
+            5.700644,51.418517,0.000000
+            5.700662,51.421166,0.000000
+            5.700662,51.421214,0.000000
+            5.700668,51.422026,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

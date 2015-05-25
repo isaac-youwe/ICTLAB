@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03210120 Ecologische Zone</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.157605,52.016283,0.000000
+            5.159573,52.011562,0.000000
+            5.153688,52.012769,0.000000
+            5.147549,52.015183,0.000000
+            5.132244,52.024585,0.000000
+            5.139114,52.024000,0.000000
+            5.154903,52.016620,0.000000
+            5.157605,52.016283,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

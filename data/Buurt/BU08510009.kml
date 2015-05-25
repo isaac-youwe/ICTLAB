@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08510009 Het Oudland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.331397,51.572603,0.000000
+            4.334253,51.571293,0.000000
+            4.337477,51.572329,0.000000
+            4.361625,51.548008,0.000000
+            4.361418,51.545774,0.000000
+            4.317205,51.551582,0.000000
+            4.295542,51.554076,0.000000
+            4.295513,51.554079,0.000000
+            4.298354,51.555904,0.000000
+            4.298289,51.558600,0.000000
+            4.297936,51.558687,0.000000
+            4.299971,51.563957,0.000000
+            4.301634,51.563591,0.000000
+            4.303029,51.564821,0.000000
+            4.324480,51.578700,0.000000
+            4.327656,51.574979,0.000000
+            4.331397,51.572603,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

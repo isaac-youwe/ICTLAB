@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16630202 Westernieland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.491769,53.400389,0.000000
+            6.491306,53.398327,0.000000
+            6.490836,53.398502,0.000000
+            6.485526,53.398550,0.000000
+            6.484812,53.398543,0.000000
+            6.474441,53.398445,0.000000
+            6.473477,53.401017,0.000000
+            6.476508,53.403650,0.000000
+            6.486110,53.402379,0.000000
+            6.491769,53.400389,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

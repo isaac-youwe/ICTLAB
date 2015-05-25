@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16761301 Oude Moolweg en Laone</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.795295,51.736404,0.000000
+            3.784395,51.729420,0.000000
+            3.785787,51.728146,0.000000
+            3.779556,51.724783,0.000000
+            3.775281,51.726863,0.000000
+            3.781402,51.731895,0.000000
+            3.776360,51.734443,0.000000
+            3.771123,51.735030,0.000000
+            3.768057,51.734206,0.000000
+            3.768514,51.733067,0.000000
+            3.764697,51.732060,0.000000
+            3.761709,51.733342,0.000000
+            3.761437,51.734800,0.000000
+            3.762689,51.735826,0.000000
+            3.761538,51.737780,0.000000
+            3.760067,51.741239,0.000000
+            3.772456,51.743128,0.000000
+            3.788380,51.743347,0.000000
+            3.798052,51.742623,0.000000
+            3.795295,51.736404,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

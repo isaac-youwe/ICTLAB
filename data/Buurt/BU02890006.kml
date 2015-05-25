@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02890006 Buitenwijk Wageningen-Noordoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.682298,51.981844,0.000000
+            5.680695,51.979236,0.000000
+            5.683631,51.971619,0.000000
+            5.669017,51.969310,0.000000
+            5.673467,51.974012,0.000000
+            5.671028,51.978428,0.000000
+            5.672200,51.981084,0.000000
+            5.674458,51.981893,0.000000
+            5.677546,51.981583,0.000000
+            5.679455,51.982471,0.000000
+            5.678907,51.983671,0.000000
+            5.681086,51.984027,0.000000
+            5.682298,51.981844,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

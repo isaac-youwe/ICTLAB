@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00250004 Boerakker</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.331800,53.181323,0.000000
+            6.329636,53.179990,0.000000
+            6.327819,53.180998,0.000000
+            6.326838,53.186603,0.000000
+            6.322472,53.187698,0.000000
+            6.321418,53.188702,0.000000
+            6.321974,53.189699,0.000000
+            6.325726,53.190493,0.000000
+            6.328832,53.192535,0.000000
+            6.332742,53.188550,0.000000
+            6.333655,53.186222,0.000000
+            6.331800,53.181323,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

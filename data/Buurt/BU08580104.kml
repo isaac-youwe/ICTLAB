@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08580104 Keersop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.423113,51.374883,0.000000
+            5.424548,51.372186,0.000000
+            5.427420,51.372185,0.000000
+            5.434579,51.367699,0.000000
+            5.430746,51.366014,0.000000
+            5.429909,51.365619,0.000000
+            5.427186,51.364773,0.000000
+            5.422469,51.363404,0.000000
+            5.426121,51.357090,0.000000
+            5.421769,51.356639,0.000000
+            5.421663,51.356904,0.000000
+            5.420229,51.358703,0.000000
+            5.421673,51.369490,0.000000
+            5.418802,51.371289,0.000000
+            5.421676,51.373985,0.000000
+            5.423113,51.374883,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

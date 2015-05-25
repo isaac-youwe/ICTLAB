@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK042008 Wijk 08 Opperdoes</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.084822,52.763378,0.000000
+            5.090059,52.756282,0.000000
+            5.087114,52.754246,0.000000
+            5.079521,52.752348,0.000000
+            5.080292,52.746872,0.000000
+            5.084391,52.743049,0.000000
+            5.073415,52.738940,0.000000
+            5.070186,52.756416,0.000000
+            5.069246,52.757481,0.000000
+            5.063300,52.757401,0.000000
+            5.061787,52.760987,0.000000
+            5.070084,52.767761,0.000000
+            5.075999,52.769574,0.000000
+            5.083409,52.769593,0.000000
+            5.083461,52.769593,0.000000
+            5.085418,52.766430,0.000000
+            5.084822,52.763378,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

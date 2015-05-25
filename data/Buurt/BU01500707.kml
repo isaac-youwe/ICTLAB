@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500707 Het Fetlaer en Spijkvoorder Enk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.226959,52.264978,0.000000
+            6.223928,52.263287,0.000000
+            6.217831,52.263987,0.000000
+            6.213244,52.260743,0.000000
+            6.209479,52.260602,0.000000
+            6.207493,52.261115,0.000000
+            6.211663,52.265344,0.000000
+            6.213029,52.266712,0.000000
+            6.227840,52.267950,0.000000
+            6.226959,52.264978,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

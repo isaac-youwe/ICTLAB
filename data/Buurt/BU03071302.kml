@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03071302 Verdiweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.417600,52.154686,0.000000
+            5.413781,52.148431,0.000000
+            5.410234,52.149911,0.000000
+            5.409163,52.152516,0.000000
+            5.408073,52.154125,0.000000
+            5.410019,52.153114,0.000000
+            5.414548,52.153820,0.000000
+            5.416824,52.154408,0.000000
+            5.417600,52.154686,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

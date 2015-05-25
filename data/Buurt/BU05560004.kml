@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05560004 Burgemeesterswijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.234813,51.927160,0.000000
+            4.234788,51.925886,0.000000
+            4.224603,51.931490,0.000000
+            4.222473,51.932497,0.000000
+            4.226968,51.935497,0.000000
+            4.227105,51.936419,0.000000
+            4.233211,51.939597,0.000000
+            4.235103,51.934995,0.000000
+            4.239160,51.931748,0.000000
+            4.240611,51.930447,0.000000
+            4.234813,51.927160,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

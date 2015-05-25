@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04410001 Nesdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.804226,52.795353,0.000000
+            4.804722,52.789593,0.000000
+            4.796418,52.788333,0.000000
+            4.795345,52.789512,0.000000
+            4.790254,52.789887,0.000000
+            4.789600,52.789843,0.000000
+            4.787720,52.793057,0.000000
+            4.792900,52.794143,0.000000
+            4.794054,52.792137,0.000000
+            4.795900,52.792317,0.000000
+            4.804180,52.795732,0.000000
+            4.804226,52.795353,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

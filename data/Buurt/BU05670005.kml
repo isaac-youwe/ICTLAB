@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05670005 Kleine Vinke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.594599,51.964946,0.000000
+            4.587936,51.962183,0.000000
+            4.583871,51.965455,0.000000
+            4.589644,51.968191,0.000000
+            4.591099,51.968201,0.000000
+            4.601223,51.971865,0.000000
+            4.601222,51.971866,0.000000
+            4.603458,51.971258,0.000000
+            4.601234,51.969799,0.000000
+            4.599002,51.967954,0.000000
+            4.594599,51.964946,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

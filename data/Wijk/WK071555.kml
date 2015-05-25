@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK071555 Wijk 55 Kern Koewacht (Koewacht)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.966132,51.231881,0.000000
+            3.970121,51.231217,0.000000
+            3.973800,51.233200,0.000000
+            3.979231,51.231748,0.000000
+            3.983200,51.235615,0.000000
+            3.986264,51.233904,0.000000
+            3.978317,51.225214,0.000000
+            3.964032,51.224141,0.000000
+            3.963982,51.224006,0.000000
+            3.949296,51.225287,0.000000
+            3.943694,51.228581,0.000000
+            3.945911,51.232771,0.000000
+            3.964129,51.236196,0.000000
+            3.966132,51.231881,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

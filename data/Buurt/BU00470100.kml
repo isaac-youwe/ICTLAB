@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00470100 Borgercompagnie (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.840001,53.096826,0.000000
+            6.840369,53.087644,0.000000
+            6.830148,53.087919,0.000000
+            6.830499,53.097443,0.000000
+            6.807315,53.098361,0.000000
+            6.807247,53.098589,0.000000
+            6.801950,53.119324,0.000000
+            6.806460,53.120170,0.000000
+            6.803590,53.123799,0.000000
+            6.816133,53.127387,0.000000
+            6.840001,53.096826,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

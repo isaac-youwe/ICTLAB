@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01830000 Tubbergen-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.791656,52.412482,0.000000
+            6.794064,52.410164,0.000000
+            6.796479,52.410325,0.000000
+            6.797444,52.405953,0.000000
+            6.791589,52.403779,0.000000
+            6.790881,52.399383,0.000000
+            6.784295,52.398677,0.000000
+            6.782721,52.399151,0.000000
+            6.778034,52.398316,0.000000
+            6.777078,52.397192,0.000000
+            6.771920,52.399763,0.000000
+            6.763106,52.408827,0.000000
+            6.775338,52.415929,0.000000
+            6.792072,52.415612,0.000000
+            6.791656,52.412482,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

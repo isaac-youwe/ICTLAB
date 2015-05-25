@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00220107 Buitengebied ten noorden van Zevenhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.361953,53.145665,0.000000
+            6.362754,53.144356,0.000000
+            6.366449,53.144596,0.000000
+            6.368776,53.139378,0.000000
+            6.360911,53.137895,0.000000
+            6.357466,53.149769,0.000000
+            6.361035,53.149047,0.000000
+            6.361953,53.145665,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

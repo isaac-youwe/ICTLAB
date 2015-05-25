@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140805 Bangeweer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.518206,53.201187,0.000000
+            6.515573,53.197905,0.000000
+            6.514175,53.198771,0.000000
+            6.514093,53.198792,0.000000
+            6.503882,53.211938,0.000000
+            6.512240,53.211283,0.000000
+            6.531619,53.209851,0.000000
+            6.532511,53.205134,0.000000
+            6.524506,53.202964,0.000000
+            6.521593,53.202252,0.000000
+            6.518206,53.201187,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

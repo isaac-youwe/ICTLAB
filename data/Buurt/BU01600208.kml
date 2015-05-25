@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600208 Heemserveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.546136,52.606911,0.000000
+            6.549269,52.604205,0.000000
+            6.558742,52.604502,0.000000
+            6.570861,52.594110,0.000000
+            6.577323,52.590573,0.000000
+            6.583967,52.584975,0.000000
+            6.594264,52.580341,0.000000
+            6.586442,52.576815,0.000000
+            6.585596,52.575381,0.000000
+            6.586300,52.573441,0.000000
+            6.588896,52.574616,0.000000
+            6.590921,52.572084,0.000000
+            6.590434,52.569900,0.000000
+            6.578248,52.566349,0.000000
+            6.558201,52.579413,0.000000
+            6.558558,52.580157,0.000000
+            6.546192,52.590239,0.000000
+            6.547882,52.590807,0.000000
+            6.529185,52.606084,0.000000
+            6.546136,52.606911,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

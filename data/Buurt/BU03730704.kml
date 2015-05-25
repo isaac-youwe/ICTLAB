@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03730704 Groet met Hargen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.672505,52.725655,0.000000
+            4.678383,52.720154,0.000000
+            4.669853,52.712823,0.000000
+            4.664502,52.712161,0.000000
+            4.638323,52.712156,0.000000
+            4.638166,52.721368,0.000000
+            4.644495,52.721180,0.000000
+            4.656292,52.723620,0.000000
+            4.660400,52.724958,0.000000
+            4.662599,52.727077,0.000000
+            4.669577,52.726600,0.000000
+            4.672505,52.725655,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

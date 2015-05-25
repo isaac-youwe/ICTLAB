@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09172200 Heksenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.975844,50.916706,0.000000
+            5.977230,50.914358,0.000000
+            5.979483,50.914484,0.000000
+            5.979702,50.911036,0.000000
+            5.973644,50.911247,0.000000
+            5.970651,50.911478,0.000000
+            5.970823,50.912737,0.000000
+            5.960505,50.915216,0.000000
+            5.964677,50.918664,0.000000
+            5.972054,50.919968,0.000000
+            5.976553,50.919367,0.000000
+            5.975844,50.916706,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

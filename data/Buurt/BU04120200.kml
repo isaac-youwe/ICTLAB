@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04120200 Oude-Niedorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.876787,52.728606,0.000000
+            4.894545,52.714142,0.000000
+            4.900705,52.709170,0.000000
+            4.900324,52.708766,0.000000
+            4.898864,52.706962,0.000000
+            4.878085,52.712268,0.000000
+            4.872123,52.715838,0.000000
+            4.861709,52.720286,0.000000
+            4.858705,52.723868,0.000000
+            4.852795,52.722943,0.000000
+            4.846907,52.720220,0.000000
+            4.849671,52.725383,0.000000
+            4.851394,52.725897,0.000000
+            4.851091,52.727177,0.000000
+            4.853185,52.728493,0.000000
+            4.870582,52.734326,0.000000
+            4.875566,52.730846,0.000000
+            4.876787,52.728606,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

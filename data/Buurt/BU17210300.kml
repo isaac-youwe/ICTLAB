@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17210300 Loosbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.515457,51.680036,0.000000
+            5.511073,51.675204,0.000000
+            5.501471,51.677456,0.000000
+            5.503704,51.679927,0.000000
+            5.500536,51.681369,0.000000
+            5.501379,51.682993,0.000000
+            5.497929,51.685223,0.000000
+            5.499164,51.686567,0.000000
+            5.508201,51.683573,0.000000
+            5.515457,51.680036,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07771006 Baai 3</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.643291,51.576885,0.000000
+            4.640068,51.576058,0.000000
+            4.638501,51.578819,0.000000
+            4.640855,51.579441,0.000000
+            4.645228,51.580848,0.000000
+            4.645181,51.583760,0.000000
+            4.645483,51.584087,0.000000
+            4.647179,51.581210,0.000000
+            4.649058,51.578331,0.000000
+            4.643291,51.576885,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

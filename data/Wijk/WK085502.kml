@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK085502 Wijk 02 Oud-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.090571,51.577985,0.000000
+            5.096329,51.574028,0.000000
+            5.100397,51.570712,0.000000
+            5.106501,51.565559,0.000000
+            5.108713,51.562107,0.000000
+            5.103549,51.561096,0.000000
+            5.096963,51.559903,0.000000
+            5.091908,51.559862,0.000000
+            5.091517,51.559884,0.000000
+            5.079965,51.560977,0.000000
+            5.077312,51.561145,0.000000
+            5.065105,51.562869,0.000000
+            5.065828,51.568162,0.000000
+            5.065979,51.568569,0.000000
+            5.065732,51.568927,0.000000
+            5.066251,51.575484,0.000000
+            5.066200,51.578583,0.000000
+            5.073399,51.577842,0.000000
+            5.086130,51.578945,0.000000
+            5.090571,51.577985,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

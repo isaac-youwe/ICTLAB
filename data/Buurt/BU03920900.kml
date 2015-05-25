@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03920900 Europawijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.649678,52.366276,0.000000
+            4.652161,52.360355,0.000000
+            4.657186,52.360607,0.000000
+            4.656981,52.356693,0.000000
+            4.635553,52.355031,0.000000
+            4.635551,52.355033,0.000000
+            4.635538,52.355777,0.000000
+            4.635535,52.355932,0.000000
+            4.636942,52.359537,0.000000
+            4.636912,52.361334,0.000000
+            4.636375,52.361331,0.000000
+            4.636959,52.365495,0.000000
+            4.635607,52.368534,0.000000
+            4.637194,52.370595,0.000000
+            4.639902,52.371394,0.000000
+            4.644085,52.370255,0.000000
+            4.644282,52.369042,0.000000
+            4.649678,52.366276,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04990002 Otweg en Rijneveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.692476,52.088340,0.000000
+            4.689985,52.083581,0.000000
+            4.661881,52.084630,0.000000
+            4.662041,52.085938,0.000000
+            4.650115,52.086396,0.000000
+            4.649031,52.085345,0.000000
+            4.647374,52.085415,0.000000
+            4.646882,52.086358,0.000000
+            4.647368,52.086331,0.000000
+            4.646025,52.089501,0.000000
+            4.665015,52.090300,0.000000
+            4.692476,52.088340,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

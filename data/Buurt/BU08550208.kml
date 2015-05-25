@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550208 Industriestrook Goirke-Kanaaldijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.090571,51.577985,0.000000
+            5.089854,51.577331,0.000000
+            5.091939,51.575804,0.000000
+            5.089722,51.575454,0.000000
+            5.084029,51.576735,0.000000
+            5.077279,51.576407,0.000000
+            5.066251,51.575484,0.000000
+            5.066200,51.578583,0.000000
+            5.073399,51.577842,0.000000
+            5.086130,51.578945,0.000000
+            5.090571,51.577985,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

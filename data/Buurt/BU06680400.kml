@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06680400 Kern Beneden-Leeuwen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.526093,51.886832,0.000000
+            5.526885,51.884536,0.000000
+            5.530374,51.884119,0.000000
+            5.529349,51.880410,0.000000
+            5.514723,51.874787,0.000000
+            5.513163,51.871771,0.000000
+            5.510926,51.872254,0.000000
+            5.509250,51.874871,0.000000
+            5.502642,51.875581,0.000000
+            5.503599,51.879978,0.000000
+            5.497399,51.880338,0.000000
+            5.497302,51.886232,0.000000
+            5.503221,51.887476,0.000000
+            5.513936,51.887833,0.000000
+            5.523608,51.886778,0.000000
+            5.525539,51.888186,0.000000
+            5.527510,51.888089,0.000000
+            5.528878,51.887633,0.000000
+            5.526093,51.886832,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

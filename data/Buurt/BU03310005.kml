@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03310005 Wielsekade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.932507,51.977272,0.000000
+            4.934966,51.973630,0.000000
+            4.928642,51.973639,0.000000
+            4.918034,51.971945,0.000000
+            4.909491,51.967109,0.000000
+            4.906830,51.970862,0.000000
+            4.915312,51.975552,0.000000
+            4.925513,51.977187,0.000000
+            4.932507,51.977272,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

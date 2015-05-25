@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04390501 Overlanderstraat en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.980567,52.497229,0.000000
+            4.977876,52.496305,0.000000
+            4.973683,52.498846,0.000000
+            4.975502,52.500743,0.000000
+            4.978259,52.501905,0.000000
+            4.982244,52.506372,0.000000
+            4.985695,52.506735,0.000000
+            4.986790,52.504621,0.000000
+            4.980567,52.497229,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

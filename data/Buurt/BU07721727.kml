@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721727 Beemden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.436073,51.404545,0.000000
+            5.435758,51.404348,0.000000
+            5.436107,51.409033,0.000000
+            5.437648,51.410150,0.000000
+            5.441896,51.410562,0.000000
+            5.445114,51.412484,0.000000
+            5.448468,51.413160,0.000000
+            5.458451,51.415269,0.000000
+            5.464688,51.415881,0.000000
+            5.462008,51.404919,0.000000
+            5.461975,51.404533,0.000000
+            5.461945,51.404531,0.000000
+            5.436073,51.404545,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

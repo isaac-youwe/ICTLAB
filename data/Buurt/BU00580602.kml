@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580602 Brantgum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.932777,53.350040,0.000000
+            5.929394,53.349198,0.000000
+            5.927049,53.350467,0.000000
+            5.926382,53.352366,0.000000
+            5.928965,53.354682,0.000000
+            5.932489,53.355407,0.000000
+            5.934386,53.353569,0.000000
+            5.934390,53.351925,0.000000
+            5.932777,53.350040,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

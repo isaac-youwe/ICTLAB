@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631085 Slotervaart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.834300,52.370394,0.000000
+            4.833791,52.357959,0.000000
+            4.834322,52.345685,0.000000
+            4.827508,52.345661,0.000000
+            4.823586,52.344736,0.000000
+            4.821851,52.346434,0.000000
+            4.820351,52.351739,0.000000
+            4.818039,52.356285,0.000000
+            4.818530,52.358269,0.000000
+            4.817285,52.358864,0.000000
+            4.813359,52.357980,0.000000
+            4.811951,52.359470,0.000000
+            4.826016,52.371623,0.000000
+            4.827059,52.372095,0.000000
+            4.829247,52.370559,0.000000
+            4.834300,52.370394,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02320001 Hogeland-Hoge Weerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.989572,52.358391,0.000000
+            5.988660,52.353752,0.000000
+            5.987088,52.352337,0.000000
+            5.982132,52.354145,0.000000
+            5.979570,52.350787,0.000000
+            5.979807,52.347787,0.000000
+            5.977685,52.346810,0.000000
+            5.960330,52.350959,0.000000
+            5.966898,52.359571,0.000000
+            5.978148,52.355995,0.000000
+            5.982340,52.357925,0.000000
+            5.983427,52.359710,0.000000
+            5.986296,52.360434,0.000000
+            5.989572,52.358391,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600004 Heemse-Oost Heemsermars</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.615366,52.573006,0.000000
+            6.607310,52.571883,0.000000
+            6.601744,52.575093,0.000000
+            6.622569,52.583802,0.000000
+            6.631213,52.589043,0.000000
+            6.632503,52.588400,0.000000
+            6.630349,52.582213,0.000000
+            6.628370,52.580378,0.000000
+            6.624788,52.579183,0.000000
+            6.619829,52.579156,0.000000
+            6.615569,52.577585,0.000000
+            6.615366,52.573006,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

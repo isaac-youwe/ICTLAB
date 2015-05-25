@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09180104 Vosberg-Loo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.000490,51.341782,0.000000
+            5.999010,51.337803,0.000000
+            5.989775,51.337398,0.000000
+            5.989906,51.338535,0.000000
+            5.976932,51.336865,0.000000
+            5.963250,51.338188,0.000000
+            5.963835,51.340809,0.000000
+            5.960143,51.341428,0.000000
+            5.956706,51.342979,0.000000
+            5.969884,51.348109,0.000000
+            5.996154,51.350399,0.000000
+            5.993891,51.343942,0.000000
+            5.999655,51.343181,0.000000
+            6.000490,51.341782,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

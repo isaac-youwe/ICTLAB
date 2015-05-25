@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02440001 Zandkamp en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.071457,52.472704,0.000000
+            6.070639,52.470945,0.000000
+            6.053272,52.473869,0.000000
+            6.053991,52.478605,0.000000
+            6.062229,52.482016,0.000000
+            6.064797,52.478590,0.000000
+            6.069283,52.476787,0.000000
+            6.069040,52.476024,0.000000
+            6.065323,52.475940,0.000000
+            6.065585,52.474513,0.000000
+            6.068006,52.472821,0.000000
+            6.071457,52.472704,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

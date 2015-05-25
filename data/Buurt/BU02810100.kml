@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02810100 Elzenpas</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.427536,51.891998,0.000000
+            5.415824,51.885968,0.000000
+            5.412006,51.888635,0.000000
+            5.410191,51.888926,0.000000
+            5.409899,51.891427,0.000000
+            5.411022,51.892980,0.000000
+            5.416053,51.895377,0.000000
+            5.417871,51.897479,0.000000
+            5.418256,51.900646,0.000000
+            5.424435,51.901056,0.000000
+            5.426442,51.897894,0.000000
+            5.426250,51.893975,0.000000
+            5.427536,51.891998,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

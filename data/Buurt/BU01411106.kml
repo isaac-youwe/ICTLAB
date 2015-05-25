@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411106 Bornsestraat en omgeving Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.679826,52.347380,0.000000
+            6.683694,52.344839,0.000000
+            6.681068,52.344914,0.000000
+            6.677545,52.343067,0.000000
+            6.677324,52.341742,0.000000
+            6.676286,52.341891,0.000000
+            6.676412,52.344959,0.000000
+            6.673996,52.347098,0.000000
+            6.676348,52.348688,0.000000
+            6.679826,52.347380,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

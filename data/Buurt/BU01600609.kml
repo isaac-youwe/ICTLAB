@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600609 Verspreide huizen Oud-Lutten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.628832,52.632277,0.000000
+            6.633456,52.628841,0.000000
+            6.613391,52.618923,0.000000
+            6.608119,52.613080,0.000000
+            6.584250,52.611654,0.000000
+            6.580459,52.611388,0.000000
+            6.579709,52.614565,0.000000
+            6.571635,52.613737,0.000000
+            6.570849,52.615564,0.000000
+            6.566079,52.619064,0.000000
+            6.572612,52.622316,0.000000
+            6.570947,52.623554,0.000000
+            6.587436,52.631691,0.000000
+            6.590770,52.629432,0.000000
+            6.592168,52.629711,0.000000
+            6.610250,52.635312,0.000000
+            6.620518,52.640482,0.000000
+            6.630043,52.633419,0.000000
+            6.628832,52.632277,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

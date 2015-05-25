@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580503 Princenhage</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.742300,51.562339,0.000000
+            4.740035,51.561472,0.000000
+            4.728165,51.576758,0.000000
+            4.726918,51.578357,0.000000
+            4.730679,51.578609,0.000000
+            4.735006,51.581068,0.000000
+            4.742819,51.582464,0.000000
+            4.751138,51.583356,0.000000
+            4.752940,51.579258,0.000000
+            4.743749,51.573173,0.000000
+            4.743342,51.569261,0.000000
+            4.745242,51.567446,0.000000
+            4.746487,51.565078,0.000000
+            4.743069,51.564214,0.000000
+            4.742300,51.562339,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

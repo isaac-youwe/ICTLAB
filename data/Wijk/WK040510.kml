@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK040510 Wijk 10 Binnenstad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.063274,52.633500,0.000000
+            5.062193,52.632920,0.000000
+            5.054799,52.633798,0.000000
+            5.056263,52.635600,0.000000
+            5.057727,52.637401,0.000000
+            5.057351,52.637741,0.000000
+            5.054752,52.640089,0.000000
+            5.052065,52.641709,0.000000
+            5.052026,52.642029,0.000000
+            5.051482,52.643931,0.000000
+            5.050618,52.645586,0.000000
+            5.058789,52.644484,0.000000
+            5.063335,52.643395,0.000000
+            5.068916,52.641229,0.000000
+            5.075789,52.640361,0.000000
+            5.075437,52.640146,0.000000
+            5.073966,52.639243,0.000000
+            5.063274,52.633500,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

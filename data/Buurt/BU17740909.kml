@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17740909 Verspreide huizen Hasselo en Klein Driene</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.876110,52.274335,0.000000
+            6.868725,52.272629,0.000000
+            6.841008,52.276570,0.000000
+            6.848393,52.278277,0.000000
+            6.852907,52.281817,0.000000
+            6.853025,52.285411,0.000000
+            6.847864,52.289536,0.000000
+            6.848424,52.290290,0.000000
+            6.850574,52.290073,0.000000
+            6.858589,52.286800,0.000000
+            6.878338,52.276510,0.000000
+            6.876110,52.274335,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.839943,52.293839,0.000000
+            6.845402,52.292894,0.000000
+            6.846254,52.292018,0.000000
+            6.843003,52.292727,0.000000
+            6.840101,52.293662,0.000000
+            6.836872,52.293702,0.000000
+            6.835704,52.293716,0.000000
+            6.831307,52.293770,0.000000
+            6.828405,52.294704,0.000000
+            6.827124,52.295197,0.000000
+            6.821164,52.297489,0.000000
+            6.819965,52.299849,0.000000
+            6.819785,52.300203,0.000000
+            6.821160,52.302574,0.000000
+            6.831143,52.297474,0.000000
+            6.837065,52.295656,0.000000
+            6.839943,52.293839,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

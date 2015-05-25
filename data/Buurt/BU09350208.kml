@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350208 Dousberg-Hazendas</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.651364,50.844366,0.000000
+            5.640562,50.842650,0.000000
+            5.638553,50.847812,0.000000
+            5.640003,50.853203,0.000000
+            5.641448,50.857694,0.000000
+            5.641453,50.858593,0.000000
+            5.641456,50.859264,0.000000
+            5.655371,50.856148,0.000000
+            5.652452,50.851593,0.000000
+            5.653082,50.847812,0.000000
+            5.653111,50.846133,0.000000
+            5.652995,50.844990,0.000000
+            5.651364,50.844366,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

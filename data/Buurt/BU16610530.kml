@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16610530 Nieuweschans Nieuwbouw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.218901,53.184525,0.000000
+            7.213804,53.182426,0.000000
+            7.209291,53.183466,0.000000
+            7.204405,53.183180,0.000000
+            7.205997,53.189466,0.000000
+            7.208495,53.188763,0.000000
+            7.208267,53.188444,0.000000
+            7.218585,53.184691,0.000000
+            7.218901,53.184525,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

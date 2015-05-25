@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420301 Industriegebied Develpoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.636033,51.816099,0.000000
+            4.633685,51.814479,0.000000
+            4.630467,51.816690,0.000000
+            4.628711,51.818895,0.000000
+            4.627496,51.821254,0.000000
+            4.630380,51.819949,0.000000
+            4.631461,51.819459,0.000000
+            4.633417,51.818574,0.000000
+            4.634059,51.818283,0.000000
+            4.632972,51.817430,0.000000
+            4.636033,51.816099,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

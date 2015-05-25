@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051818 Wijk 18 Waldeck</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.254596,52.060385,0.000000
+            4.248993,52.057598,0.000000
+            4.241712,52.055441,0.000000
+            4.237282,52.054920,0.000000
+            4.233137,52.054333,0.000000
+            4.228577,52.056392,0.000000
+            4.227543,52.058027,0.000000
+            4.226195,52.057717,0.000000
+            4.226004,52.061149,0.000000
+            4.235033,52.063935,0.000000
+            4.243937,52.066539,0.000000
+            4.246193,52.067316,0.000000
+            4.252672,52.064618,0.000000
+            4.251902,52.063649,0.000000
+            4.254596,52.060385,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

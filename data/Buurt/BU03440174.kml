@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440174 Halve Maan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.087555,52.082627,0.000000
+            5.085347,52.081543,0.000000
+            5.080244,52.082163,0.000000
+            5.077196,52.097656,0.000000
+            5.079967,52.094825,0.000000
+            5.084280,52.092431,0.000000
+            5.082720,52.090112,0.000000
+            5.083605,52.085138,0.000000
+            5.087555,52.082627,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

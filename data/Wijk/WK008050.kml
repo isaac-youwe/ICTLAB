@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK008050 Wijk 50 Hempens, Teerns en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.856974,53.181522,0.000000
+            5.861330,53.171673,0.000000
+            5.849669,53.169970,0.000000
+            5.849346,53.169923,0.000000
+            5.842330,53.169949,0.000000
+            5.841868,53.169951,0.000000
+            5.839380,53.168475,0.000000
+            5.830140,53.166945,0.000000
+            5.822551,53.178473,0.000000
+            5.820244,53.177937,0.000000
+            5.818630,53.180394,0.000000
+            5.816581,53.184737,0.000000
+            5.818700,53.185082,0.000000
+            5.837787,53.188221,0.000000
+            5.848434,53.189144,0.000000
+            5.853726,53.186599,0.000000
+            5.854007,53.186081,0.000000
+            5.856951,53.181576,0.000000
+            5.856974,53.181522,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK019330 Wijk 30 Holtenbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.085439,52.517760,0.000000
+            6.083941,52.517029,0.000000
+            6.075966,52.520695,0.000000
+            6.074245,52.524008,0.000000
+            6.071055,52.525412,0.000000
+            6.071265,52.529329,0.000000
+            6.074300,52.535089,0.000000
+            6.074574,52.535875,0.000000
+            6.082494,52.535126,0.000000
+            6.084100,52.534147,0.000000
+            6.091995,52.531760,0.000000
+            6.093108,52.527695,0.000000
+            6.095188,52.523959,0.000000
+            6.096505,52.522726,0.000000
+            6.092108,52.520896,0.000000
+            6.085439,52.517760,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

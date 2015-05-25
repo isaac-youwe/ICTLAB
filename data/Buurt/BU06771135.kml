@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06771135 Kern Vogelwaarde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.959448,51.328540,0.000000
+            3.966600,51.327928,0.000000
+            3.979128,51.328456,0.000000
+            3.981292,51.325506,0.000000
+            3.983312,51.324572,0.000000
+            3.985654,51.326568,0.000000
+            3.988159,51.325360,0.000000
+            3.987248,51.321855,0.000000
+            3.985611,51.319576,0.000000
+            3.984303,51.319745,0.000000
+            3.980949,51.321466,0.000000
+            3.967172,51.323369,0.000000
+            3.965418,51.324406,0.000000
+            3.958029,51.325721,0.000000
+            3.959352,51.328379,0.000000
+            3.959448,51.328540,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

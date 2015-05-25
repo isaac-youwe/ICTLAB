@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04410008 Verspreide huizen ten noorden van het kanaal Stolpen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.798347,52.808971,0.000000
+            4.807270,52.807217,0.000000
+            4.833955,52.808243,0.000000
+            4.832608,52.799394,0.000000
+            4.832186,52.799498,0.000000
+            4.814191,52.803350,0.000000
+            4.803690,52.801570,0.000000
+            4.784113,52.797323,0.000000
+            4.776681,52.800073,0.000000
+            4.786543,52.804418,0.000000
+            4.789472,52.807129,0.000000
+            4.789460,52.808028,0.000000
+            4.798070,52.808942,0.000000
+            4.798347,52.808971,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

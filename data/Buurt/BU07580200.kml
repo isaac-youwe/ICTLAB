@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580200 Brabantpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.817934,51.597128,0.000000
+            4.817987,51.593631,0.000000
+            4.812003,51.593789,0.000000
+            4.811437,51.588373,0.000000
+            4.812538,51.585697,0.000000
+            4.811754,51.583002,0.000000
+            4.803859,51.581595,0.000000
+            4.801891,51.584140,0.000000
+            4.799210,51.585597,0.000000
+            4.786433,51.587086,0.000000
+            4.789298,51.591157,0.000000
+            4.788071,51.593149,0.000000
+            4.791053,51.595632,0.000000
+            4.812306,51.596824,0.000000
+            4.817934,51.597128,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

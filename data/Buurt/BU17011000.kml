@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17011000 Wapserveen midden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.237669,52.826818,0.000000
+            6.210838,52.820897,0.000000
+            6.198873,52.817422,0.000000
+            6.197788,52.820714,0.000000
+            6.211614,52.825114,0.000000
+            6.211522,52.826000,0.000000
+            6.213170,52.826797,0.000000
+            6.218732,52.827353,0.000000
+            6.218963,52.826473,0.000000
+            6.227099,52.828664,0.000000
+            6.236291,52.830108,0.000000
+            6.237669,52.826818,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

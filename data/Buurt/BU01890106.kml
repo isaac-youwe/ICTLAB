@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01890106 Verspreide huizen Broeklanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.608506,52.349320,0.000000
+            6.605447,52.344857,0.000000
+            6.598061,52.343135,0.000000
+            6.599454,52.340424,0.000000
+            6.599812,52.340025,0.000000
+            6.604763,52.334506,0.000000
+            6.593617,52.334423,0.000000
+            6.591489,52.335424,0.000000
+            6.596169,52.338996,0.000000
+            6.594731,52.338918,0.000000
+            6.593204,52.341542,0.000000
+            6.589351,52.344840,0.000000
+            6.581890,52.345449,0.000000
+            6.580345,52.346743,0.000000
+            6.587379,52.350733,0.000000
+            6.590649,52.348108,0.000000
+            6.601596,52.348846,0.000000
+            6.602086,52.353163,0.000000
+            6.611530,52.355482,0.000000
+            6.610097,52.353798,0.000000
+            6.608506,52.349320,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

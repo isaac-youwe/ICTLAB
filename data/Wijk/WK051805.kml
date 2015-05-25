@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051805 Wijk 05 Archipelbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.303347,52.096791,0.000000
+            4.304542,52.095886,0.000000
+            4.306280,52.096359,0.000000
+            4.309199,52.093427,0.000000
+            4.311811,52.089800,0.000000
+            4.300403,52.086895,0.000000
+            4.294611,52.088306,0.000000
+            4.295160,52.091664,0.000000
+            4.301076,52.094664,0.000000
+            4.300805,52.095948,0.000000
+            4.303347,52.096791,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

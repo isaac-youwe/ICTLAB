@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00050002 Zuidwolde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.601052,53.264416,0.000000
+            6.600017,53.261888,0.000000
+            6.596699,53.258864,0.000000
+            6.593506,53.257454,0.000000
+            6.589901,53.257111,0.000000
+            6.590942,53.255507,0.000000
+            6.590592,53.255549,0.000000
+            6.587595,53.255579,0.000000
+            6.587615,53.255664,0.000000
+            6.587809,53.256481,0.000000
+            6.589293,53.262751,0.000000
+            6.588501,53.262524,0.000000
+            6.591303,53.266074,0.000000
+            6.593201,53.266648,0.000000
+            6.598566,53.266767,0.000000
+            6.601052,53.264416,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

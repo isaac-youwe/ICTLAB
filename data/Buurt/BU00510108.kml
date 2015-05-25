@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510108 Verspreide huizen Haskerhorne</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.838507,52.949016,0.000000
+            5.840807,52.948803,0.000000
+            5.841447,52.950811,0.000000
+            5.845758,52.950534,0.000000
+            5.843522,52.943416,0.000000
+            5.839843,52.942695,0.000000
+            5.837028,52.942137,0.000000
+            5.830430,52.937333,0.000000
+            5.812318,52.946970,0.000000
+            5.816571,52.954201,0.000000
+            5.838507,52.949016,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.853364,52.983804,0.000000
+            5.844334,52.962683,0.000000
+            5.841150,52.955227,0.000000
+            5.818802,52.958007,0.000000
+            5.819198,52.958684,0.000000
+            5.837380,52.959031,0.000000
+            5.840355,52.964906,0.000000
+            5.829263,52.967315,0.000000
+            5.827478,52.965172,0.000000
+            5.823689,52.966343,0.000000
+            5.827174,52.972287,0.000000
+            5.833679,52.983377,0.000000
+            5.853364,52.983804,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

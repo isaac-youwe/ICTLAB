@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08610102 De Kelen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.391074,51.434619,0.000000
+            5.391214,51.433613,0.000000
+            5.397416,51.433886,0.000000
+            5.399756,51.430584,0.000000
+            5.398496,51.429079,0.000000
+            5.392531,51.429850,0.000000
+            5.390316,51.429281,0.000000
+            5.381347,51.427714,0.000000
+            5.379785,51.430894,0.000000
+            5.379418,51.433410,0.000000
+            5.381083,51.434921,0.000000
+            5.391074,51.434619,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

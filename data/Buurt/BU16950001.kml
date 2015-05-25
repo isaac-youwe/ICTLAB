@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16950001 Kortgene-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.825021,51.555861,0.000000
+            3.815275,51.553101,0.000000
+            3.812423,51.552163,0.000000
+            3.812454,51.551265,0.000000
+            3.807802,51.548840,0.000000
+            3.806522,51.551111,0.000000
+            3.801124,51.554589,0.000000
+            3.804252,51.554582,0.000000
+            3.806857,51.554618,0.000000
+            3.809010,51.554736,0.000000
+            3.810515,51.557634,0.000000
+            3.824106,51.559148,0.000000
+            3.825021,51.555861,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

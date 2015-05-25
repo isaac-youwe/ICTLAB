@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051814 Wijk 14 Bohemen en Meer en Bos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.235033,52.063935,0.000000
+            4.226004,52.061149,0.000000
+            4.225704,52.063708,0.000000
+            4.223285,52.066417,0.000000
+            4.227601,52.068177,0.000000
+            4.231792,52.068569,0.000000
+            4.240582,52.072224,0.000000
+            4.250627,52.076456,0.000000
+            4.252555,52.074138,0.000000
+            4.252251,52.072885,0.000000
+            4.248921,52.070767,0.000000
+            4.250680,52.069022,0.000000
+            4.246193,52.067316,0.000000
+            4.243937,52.066539,0.000000
+            4.235033,52.063935,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

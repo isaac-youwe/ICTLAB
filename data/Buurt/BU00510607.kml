@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510607 Verspreide huizen Sint Johannesga</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.888643,52.929427,0.000000
+            5.892329,52.925138,0.000000
+            5.893760,52.925641,0.000000
+            5.898841,52.919457,0.000000
+            5.901925,52.915700,0.000000
+            5.885242,52.908926,0.000000
+            5.868444,52.921448,0.000000
+            5.888643,52.929427,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.865837,52.937729,0.000000
+            5.854093,52.932268,0.000000
+            5.839843,52.942695,0.000000
+            5.843522,52.943416,0.000000
+            5.870991,52.948790,0.000000
+            5.872623,52.947952,0.000000
+            5.878284,52.940105,0.000000
+            5.865837,52.937729,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

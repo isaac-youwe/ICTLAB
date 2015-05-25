@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05320102 Plan Zuid en Princenhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.233375,52.686294,0.000000
+            5.233153,52.686270,0.000000
+            5.233018,52.695067,0.000000
+            5.233989,52.695178,0.000000
+            5.251657,52.695835,0.000000
+            5.252332,52.687513,0.000000
+            5.245073,52.686308,0.000000
+            5.233375,52.686294,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

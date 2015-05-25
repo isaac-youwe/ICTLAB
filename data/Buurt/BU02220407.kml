@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220407 Buitengebied IJzevoorde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.369790,51.976680,0.000000
+            6.369731,51.973983,0.000000
+            6.366781,51.972210,0.000000
+            6.365307,51.969597,0.000000
+            6.359789,51.969703,0.000000
+            6.352806,51.963707,0.000000
+            6.347202,51.966597,0.000000
+            6.338301,51.965492,0.000000
+            6.338441,51.960547,0.000000
+            6.333069,51.956810,0.000000
+            6.328874,51.955209,0.000000
+            6.326841,51.955693,0.000000
+            6.324247,51.961971,0.000000
+            6.315560,51.965516,0.000000
+            6.317734,51.967546,0.000000
+            6.326461,51.975873,0.000000
+            6.327552,51.975663,0.000000
+            6.327543,51.975227,0.000000
+            6.337731,51.975145,0.000000
+            6.353741,51.975015,0.000000
+            6.369790,51.976680,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

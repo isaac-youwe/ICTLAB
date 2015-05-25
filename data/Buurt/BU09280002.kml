@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09280002 Terwinselen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.023525,50.863080,0.000000
+            6.003535,50.858607,0.000000
+            6.007564,50.860612,0.000000
+            6.007947,50.860803,0.000000
+            6.015368,50.866079,0.000000
+            6.017988,50.867941,0.000000
+            6.016592,50.869746,0.000000
+            6.021379,50.871528,0.000000
+            6.023732,50.872404,0.000000
+            6.027531,50.871580,0.000000
+            6.026473,50.869761,0.000000
+            6.032323,50.867626,0.000000
+            6.033545,50.864719,0.000000
+            6.031938,50.864581,0.000000
+            6.023525,50.863080,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

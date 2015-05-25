@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK050322 Wijk 22 Tanthof-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.337713,51.974305,0.000000
+            4.337706,51.974304,0.000000
+            4.329650,51.983380,0.000000
+            4.333579,51.984277,0.000000
+            4.346978,51.986254,0.000000
+            4.352205,51.987162,0.000000
+            4.352680,51.987227,0.000000
+            4.353087,51.986729,0.000000
+            4.354017,51.983505,0.000000
+            4.355287,51.980167,0.000000
+            4.355596,51.979334,0.000000
+            4.342123,51.977225,0.000000
+            4.343223,51.975208,0.000000
+            4.337713,51.974305,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

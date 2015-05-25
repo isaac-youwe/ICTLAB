@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180520 Fluitenberg kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.465458,52.738960,0.000000
+            6.465803,52.737461,0.000000
+            6.461156,52.737552,0.000000
+            6.452396,52.730779,0.000000
+            6.446403,52.730828,0.000000
+            6.442681,52.735181,0.000000
+            6.445081,52.736710,0.000000
+            6.447658,52.736665,0.000000
+            6.464554,52.741089,0.000000
+            6.465458,52.738960,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

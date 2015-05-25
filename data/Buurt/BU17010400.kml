@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17010400 Lhee</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.396836,52.829073,0.000000
+            6.398539,52.828204,0.000000
+            6.403059,52.830881,0.000000
+            6.406463,52.829782,0.000000
+            6.407695,52.829093,0.000000
+            6.406155,52.828233,0.000000
+            6.401393,52.827983,0.000000
+            6.401884,52.825646,0.000000
+            6.400880,52.824453,0.000000
+            6.391861,52.822731,0.000000
+            6.389461,52.823682,0.000000
+            6.388471,52.825778,0.000000
+            6.391752,52.826185,0.000000
+            6.392126,52.832717,0.000000
+            6.391052,52.832912,0.000000
+            6.392542,52.835234,0.000000
+            6.396863,52.833660,0.000000
+            6.395968,52.831662,0.000000
+            6.396836,52.829073,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

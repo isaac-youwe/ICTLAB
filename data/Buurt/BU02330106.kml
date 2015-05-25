@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02330106 Verspreide huizen Houtdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.715198,52.240112,0.000000
+            5.711071,52.239280,0.000000
+            5.711064,52.239594,0.000000
+            5.709783,52.241293,0.000000
+            5.702323,52.245742,0.000000
+            5.702459,52.248843,0.000000
+            5.704919,52.249535,0.000000
+            5.706919,52.249657,0.000000
+            5.712052,52.247884,0.000000
+            5.715052,52.242934,0.000000
+            5.715427,52.240204,0.000000
+            5.715198,52.240112,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK045301 Wijk 01 Ten noorden van De lange Nieuwstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.606999,52.457065,0.000000
+            4.605897,52.456960,0.000000
+            4.607865,52.463368,0.000000
+            4.608253,52.463430,0.000000
+            4.617589,52.466739,0.000000
+            4.631327,52.465183,0.000000
+            4.631674,52.463203,0.000000
+            4.632128,52.460304,0.000000
+            4.625254,52.459589,0.000000
+            4.616607,52.458143,0.000000
+            4.606999,52.457065,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

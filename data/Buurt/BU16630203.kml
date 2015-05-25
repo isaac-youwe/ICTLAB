@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16630203 Kaakhorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.485409,53.404464,0.000000
+            6.486110,53.402379,0.000000
+            6.476508,53.403650,0.000000
+            6.469937,53.405137,0.000000
+            6.469076,53.406370,0.000000
+            6.471728,53.407254,0.000000
+            6.478326,53.406611,0.000000
+            6.481718,53.406126,0.000000
+            6.485409,53.404464,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

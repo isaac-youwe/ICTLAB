@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480001 Havenkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.281912,51.496238,0.000000
+            4.281575,51.493030,0.000000
+            4.280594,51.493370,0.000000
+            4.275576,51.493616,0.000000
+            4.273238,51.495063,0.000000
+            4.275701,51.498601,0.000000
+            4.280160,51.499590,0.000000
+            4.281001,51.499674,0.000000
+            4.283589,51.497263,0.000000
+            4.281912,51.496238,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

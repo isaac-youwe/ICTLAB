@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07360004 Vrouwenakker (gedeeltelijk) en Blokland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.815356,52.224264,0.000000
+            4.794725,52.223395,0.000000
+            4.794390,52.223798,0.000000
+            4.794354,52.226494,0.000000
+            4.801673,52.226531,0.000000
+            4.808991,52.226567,0.000000
+            4.814245,52.227401,0.000000
+            4.816928,52.226231,0.000000
+            4.815356,52.224264,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

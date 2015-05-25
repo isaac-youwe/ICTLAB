@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17730507 Verspreide huizen Marle</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.135567,52.412775,0.000000
+            6.130679,52.400060,0.000000
+            6.123483,52.401873,0.000000
+            6.119090,52.402799,0.000000
+            6.111027,52.407830,0.000000
+            6.110361,52.408246,0.000000
+            6.114873,52.414510,0.000000
+            6.113447,52.417216,0.000000
+            6.113492,52.419912,0.000000
+            6.118006,52.426176,0.000000
+            6.119580,52.432459,0.000000
+            6.119577,52.432462,0.000000
+            6.120009,52.432440,0.000000
+            6.130768,52.423549,0.000000
+            6.133283,52.417776,0.000000
+            6.135567,52.412775,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

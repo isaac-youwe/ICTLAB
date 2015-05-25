@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01480002 Dalfsen-Rondweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.266771,52.512010,0.000000
+            6.270382,52.511482,0.000000
+            6.270380,52.512172,0.000000
+            6.272568,52.512389,0.000000
+            6.274395,52.511316,0.000000
+            6.271435,52.508808,0.000000
+            6.267466,52.507616,0.000000
+            6.269565,52.506048,0.000000
+            6.268683,52.503375,0.000000
+            6.263944,52.503748,0.000000
+            6.263488,52.506630,0.000000
+            6.260466,52.507165,0.000000
+            6.260908,52.510215,0.000000
+            6.262064,52.513223,0.000000
+            6.264163,52.513730,0.000000
+            6.266771,52.512010,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

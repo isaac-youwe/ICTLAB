@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09650100 Bocholtz</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.010027,50.804155,0.000000
+            6.004316,50.801488,0.000000
+            5.991631,50.807848,0.000000
+            5.985169,50.810351,0.000000
+            5.994910,50.815215,0.000000
+            5.999787,50.820764,0.000000
+            6.003589,50.821683,0.000000
+            6.015658,50.827276,0.000000
+            6.017413,50.825691,0.000000
+            6.015969,50.823900,0.000000
+            6.017352,50.821196,0.000000
+            6.020166,50.819383,0.000000
+            6.024411,50.818460,0.000000
+            6.021548,50.816678,0.000000
+            6.024374,50.815763,0.000000
+            6.024349,50.813966,0.000000
+            6.015775,50.809517,0.000000
+            6.010027,50.804155,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17050102 Kommerdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.968391,51.871908,0.000000
+            5.962365,51.868702,0.000000
+            5.951504,51.868332,0.000000
+            5.952926,51.871788,0.000000
+            5.956102,51.871597,0.000000
+            5.956434,51.873810,0.000000
+            5.957358,51.873871,0.000000
+            5.962473,51.873779,0.000000
+            5.968391,51.871908,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK007402 Wijk 02 De Knipe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.015476,52.963789,0.000000
+            6.022538,52.956570,0.000000
+            6.001774,52.956868,0.000000
+            5.998064,52.958251,0.000000
+            5.994127,52.957503,0.000000
+            5.984278,52.959378,0.000000
+            5.976744,52.958338,0.000000
+            5.975587,52.959797,0.000000
+            5.967648,52.957798,0.000000
+            5.965546,52.960477,0.000000
+            5.962173,52.959531,0.000000
+            5.961036,52.961268,0.000000
+            5.965265,52.962329,0.000000
+            5.963264,52.969332,0.000000
+            5.957785,52.969438,0.000000
+            5.960923,52.972563,0.000000
+            6.016303,52.966116,0.000000
+            6.015476,52.963789,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

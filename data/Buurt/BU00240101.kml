@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00240101 Westeremden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.718598,53.341152,0.000000
+            6.710177,53.338605,0.000000
+            6.707052,53.339471,0.000000
+            6.708065,53.340443,0.000000
+            6.703977,53.345395,0.000000
+            6.705462,53.346633,0.000000
+            6.711751,53.346744,0.000000
+            6.716177,53.346034,0.000000
+            6.720057,53.344184,0.000000
+            6.720504,53.343344,0.000000
+            6.718598,53.341152,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

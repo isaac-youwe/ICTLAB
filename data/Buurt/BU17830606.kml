@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830606 t Hof en omgeving en Wateringen-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.274297,52.023569,0.000000
+            4.266470,52.021194,0.000000
+            4.265670,52.021343,0.000000
+            4.262162,52.027472,0.000000
+            4.268485,52.029699,0.000000
+            4.266682,52.032118,0.000000
+            4.267400,52.032863,0.000000
+            4.270158,52.033166,0.000000
+            4.272451,52.030104,0.000000
+            4.270447,52.029146,0.000000
+            4.274297,52.023569,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

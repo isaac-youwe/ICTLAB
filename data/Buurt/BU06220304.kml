@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06220304 Deltagebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.322963,51.902180,0.000000
+            4.330032,51.901175,0.000000
+            4.337950,51.902013,0.000000
+            4.340649,51.895187,0.000000
+            4.330857,51.894232,0.000000
+            4.319765,51.894132,0.000000
+            4.319235,51.894127,0.000000
+            4.318390,51.894249,0.000000
+            4.319009,51.901216,0.000000
+            4.322963,51.902180,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

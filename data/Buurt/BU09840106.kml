@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09840106 Brukske</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.002279,51.521087,0.000000
+            5.986079,51.516636,0.000000
+            5.979737,51.517015,0.000000
+            5.977938,51.515069,0.000000
+            5.973499,51.514473,0.000000
+            5.974969,51.518437,0.000000
+            5.977543,51.518542,0.000000
+            5.982787,51.520224,0.000000
+            5.987393,51.523060,0.000000
+            6.000031,51.524916,0.000000
+            6.002279,51.521087,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

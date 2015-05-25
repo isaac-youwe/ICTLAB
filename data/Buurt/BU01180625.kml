@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180625 Verspreide huizen Alteveer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.476363,52.710618,0.000000
+            6.488638,52.710241,0.000000
+            6.495705,52.711048,0.000000
+            6.494076,52.693422,0.000000
+            6.486354,52.693627,0.000000
+            6.486401,52.693899,0.000000
+            6.474568,52.694008,0.000000
+            6.464192,52.693203,0.000000
+            6.463954,52.693504,0.000000
+            6.462757,52.695014,0.000000
+            6.449422,52.694235,0.000000
+            6.451032,52.699614,0.000000
+            6.451206,52.706803,0.000000
+            6.451057,52.706796,0.000000
+            6.453377,52.708633,0.000000
+            6.459520,52.710311,0.000000
+            6.461594,52.711637,0.000000
+            6.476363,52.710618,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

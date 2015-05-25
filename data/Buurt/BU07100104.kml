@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07100104 Schettens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.484781,53.080376,0.000000
+            5.481038,53.079900,0.000000
+            5.479537,53.080759,0.000000
+            5.479845,53.084206,0.000000
+            5.482057,53.085800,0.000000
+            5.484872,53.086118,0.000000
+            5.486421,53.085178,0.000000
+            5.487071,53.082553,0.000000
+            5.484781,53.080376,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

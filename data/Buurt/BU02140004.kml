@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140004 Erichem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.353333,51.900605,0.000000
+            5.361529,51.900570,0.000000
+            5.363842,51.902065,0.000000
+            5.366402,51.900057,0.000000
+            5.372634,51.897885,0.000000
+            5.369666,51.896375,0.000000
+            5.362662,51.899467,0.000000
+            5.356333,51.897546,0.000000
+            5.349819,51.897980,0.000000
+            5.345294,51.900702,0.000000
+            5.347838,51.902591,0.000000
+            5.353333,51.900605,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991574 Oud-Charlois</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.469442,51.895579,0.000000
+            4.474323,51.893390,0.000000
+            4.476493,51.893576,0.000000
+            4.475379,51.892354,0.000000
+            4.472375,51.889363,0.000000
+            4.471527,51.884262,0.000000
+            4.471301,51.883255,0.000000
+            4.464112,51.883495,0.000000
+            4.460477,51.884084,0.000000
+            4.456827,51.885356,0.000000
+            4.462241,51.894633,0.000000
+            4.459406,51.895174,0.000000
+            4.459527,51.899193,0.000000
+            4.466726,51.900118,0.000000
+            4.467627,51.900318,0.000000
+            4.468646,51.898778,0.000000
+            4.466786,51.898311,0.000000
+            4.469442,51.895579,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

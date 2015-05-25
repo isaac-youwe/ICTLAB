@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130103 Raam en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.703304,52.011962,0.000000
+            4.707796,52.009521,0.000000
+            4.709335,52.009850,0.000000
+            4.713920,52.006486,0.000000
+            4.712724,52.006212,0.000000
+            4.708047,52.007246,0.000000
+            4.704286,52.008782,0.000000
+            4.702790,52.011384,0.000000
+            4.703304,52.011962,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

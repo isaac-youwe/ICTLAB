@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16850209 Verspreide huizen Duifhuis-Kreitsberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.699779,51.711584,0.000000
+            5.706964,51.704373,0.000000
+            5.707025,51.704319,0.000000
+            5.691641,51.698364,0.000000
+            5.689824,51.699401,0.000000
+            5.691894,51.700622,0.000000
+            5.684522,51.704471,0.000000
+            5.680407,51.705184,0.000000
+            5.680430,51.708467,0.000000
+            5.679536,51.708451,0.000000
+            5.677080,51.711817,0.000000
+            5.670090,51.713615,0.000000
+            5.668436,51.719459,0.000000
+            5.669064,51.721548,0.000000
+            5.692846,51.722650,0.000000
+            5.709339,51.725345,0.000000
+            5.712903,51.725930,0.000000
+            5.710005,51.725041,0.000000
+            5.705637,51.721457,0.000000
+            5.699779,51.711584,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

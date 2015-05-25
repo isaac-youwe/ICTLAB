@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17310400 Spier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.477098,52.817673,0.000000
+            6.477663,52.815383,0.000000
+            6.465213,52.814506,0.000000
+            6.465245,52.816695,0.000000
+            6.462973,52.816595,0.000000
+            6.467354,52.821711,0.000000
+            6.467540,52.821946,0.000000
+            6.470710,52.821355,0.000000
+            6.471006,52.820155,0.000000
+            6.477098,52.817673,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

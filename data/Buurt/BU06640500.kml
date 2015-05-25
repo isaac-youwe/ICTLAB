@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06640500 s-Heer-Arendskerke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.827957,51.490058,0.000000
+            3.820437,51.488113,0.000000
+            3.819080,51.489254,0.000000
+            3.812937,51.489782,0.000000
+            3.816203,51.493962,0.000000
+            3.818155,51.494437,0.000000
+            3.826938,51.496766,0.000000
+            3.828037,51.495151,0.000000
+            3.826436,51.493526,0.000000
+            3.827957,51.490058,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

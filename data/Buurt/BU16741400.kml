@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16741400 Wouwse Plantage</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.391611,51.482096,0.000000
+            4.391304,51.479970,0.000000
+            4.386542,51.481313,0.000000
+            4.381485,51.484652,0.000000
+            4.389485,51.486041,0.000000
+            4.393028,51.487471,0.000000
+            4.395138,51.487725,0.000000
+            4.396960,51.487007,0.000000
+            4.398269,51.484920,0.000000
+            4.393340,51.483343,0.000000
+            4.391611,51.482096,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK071560 Wijk 60 Kern Zuiddorpe (Zuiddorpe)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.902327,51.232873,0.000000
+            3.893134,51.218549,0.000000
+            3.892368,51.218255,0.000000
+            3.892613,51.218749,0.000000
+            3.888172,51.223188,0.000000
+            3.887272,51.222858,0.000000
+            3.884625,51.225101,0.000000
+            3.895907,51.228542,0.000000
+            3.893552,51.230853,0.000000
+            3.896631,51.231760,0.000000
+            3.901141,51.237497,0.000000
+            3.908817,51.239373,0.000000
+            3.910765,51.238609,0.000000
+            3.910674,51.235321,0.000000
+            3.902327,51.232873,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

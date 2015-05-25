@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK075501 Wijk 01 Venhorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.709294,51.625258,0.000000
+            5.739604,51.622473,0.000000
+            5.751158,51.622438,0.000000
+            5.758144,51.593649,0.000000
+            5.732737,51.590214,0.000000
+            5.732137,51.590133,0.000000
+            5.729546,51.589711,0.000000
+            5.728110,51.592948,0.000000
+            5.720871,51.591737,0.000000
+            5.716391,51.596523,0.000000
+            5.710053,51.603488,0.000000
+            5.709814,51.605802,0.000000
+            5.706353,51.605305,0.000000
+            5.704670,51.610526,0.000000
+            5.704977,51.615689,0.000000
+            5.706565,51.615560,0.000000
+            5.709165,51.625273,0.000000
+            5.709294,51.625258,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

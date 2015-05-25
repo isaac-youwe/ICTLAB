@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05182718 Huygenspark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.324929,52.071042,0.000000
+            4.319314,52.068436,0.000000
+            4.315965,52.069572,0.000000
+            4.312131,52.072073,0.000000
+            4.319489,52.075095,0.000000
+            4.320232,52.074890,0.000000
+            4.323603,52.072800,0.000000
+            4.326145,52.071551,0.000000
+            4.324929,52.071042,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

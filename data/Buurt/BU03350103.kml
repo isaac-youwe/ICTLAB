@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03350103 Heeswijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.990589,52.052928,0.000000
+            4.983412,52.040319,0.000000
+            4.979047,52.039405,0.000000
+            4.979047,52.039403,0.000000
+            4.967246,52.038608,0.000000
+            4.958594,52.034652,0.000000
+            4.956497,52.038219,0.000000
+            4.959753,52.042157,0.000000
+            4.957993,52.043897,0.000000
+            4.960041,52.044422,0.000000
+            4.955516,52.053482,0.000000
+            4.958207,52.053700,0.000000
+            4.967767,52.052107,0.000000
+            4.973710,52.053858,0.000000
+            4.977540,52.056217,0.000000
+            4.980854,52.056874,0.000000
+            4.984111,52.056492,0.000000
+            4.990807,52.052929,0.000000
+            4.990589,52.052928,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

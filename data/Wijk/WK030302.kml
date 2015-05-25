@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK030302 Wijk 02 Dronten Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.737572,52.532293,0.000000
+            5.735091,52.524694,0.000000
+            5.730602,52.525292,0.000000
+            5.730516,52.527158,0.000000
+            5.720335,52.528506,0.000000
+            5.716529,52.528750,0.000000
+            5.709308,52.529498,0.000000
+            5.713031,52.535283,0.000000
+            5.714353,52.538853,0.000000
+            5.717840,52.542169,0.000000
+            5.726200,52.539255,0.000000
+            5.731550,52.538046,0.000000
+            5.738737,52.537661,0.000000
+            5.737572,52.532293,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

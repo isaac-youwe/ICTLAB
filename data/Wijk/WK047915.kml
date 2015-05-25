@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK047915 Wijk 15 Kogerveldwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.839154,52.455338,0.000000
+            4.840682,52.453829,0.000000
+            4.838996,52.454051,0.000000
+            4.832823,52.455005,0.000000
+            4.828788,52.454832,0.000000
+            4.821948,52.454207,0.000000
+            4.819039,52.451853,0.000000
+            4.813135,52.454555,0.000000
+            4.812288,52.456004,0.000000
+            4.812538,52.462789,0.000000
+            4.818007,52.461892,0.000000
+            4.826161,52.461370,0.000000
+            4.836027,52.458827,0.000000
+            4.839319,52.456998,0.000000
+            4.839154,52.455338,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

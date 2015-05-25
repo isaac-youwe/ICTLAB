@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07880108 Verspreide huizen Brokkenbroek en Laar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.223133,51.637596,0.000000
+            5.222496,51.634934,0.000000
+            5.219087,51.635674,0.000000
+            5.217632,51.635272,0.000000
+            5.216716,51.632942,0.000000
+            5.217817,51.630518,0.000000
+            5.201119,51.623731,0.000000
+            5.193398,51.630573,0.000000
+            5.191159,51.636745,0.000000
+            5.191825,51.638055,0.000000
+            5.200511,51.637210,0.000000
+            5.210310,51.641108,0.000000
+            5.219091,51.641987,0.000000
+            5.221053,51.637734,0.000000
+            5.223133,51.637596,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17190200 Terheijden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.747149,51.649812,0.000000
+            4.748500,51.649492,0.000000
+            4.754517,51.650636,0.000000
+            4.755504,51.649243,0.000000
+            4.760587,51.649965,0.000000
+            4.762383,51.649186,0.000000
+            4.762788,51.642724,0.000000
+            4.761511,51.639693,0.000000
+            4.766197,51.637726,0.000000
+            4.769857,51.637237,0.000000
+            4.767176,51.636012,0.000000
+            4.765837,51.633829,0.000000
+            4.764623,51.633751,0.000000
+            4.764562,51.633933,0.000000
+            4.758746,51.636599,0.000000
+            4.748596,51.639241,0.000000
+            4.738466,51.642769,0.000000
+            4.744163,51.646858,0.000000
+            4.741104,51.651146,0.000000
+            4.747149,51.649812,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

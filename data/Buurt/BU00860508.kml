@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00860508 Verspreide huizen Wijnjewoude-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.218584,53.080807,0.000000
+            6.256669,53.059214,0.000000
+            6.248077,53.056126,0.000000
+            6.255225,53.049035,0.000000
+            6.251750,53.047950,0.000000
+            6.233081,53.042120,0.000000
+            6.209912,53.055129,0.000000
+            6.214158,53.057726,0.000000
+            6.205570,53.062684,0.000000
+            6.201240,53.059845,0.000000
+            6.186700,53.067981,0.000000
+            6.195061,53.071189,0.000000
+            6.203859,53.073868,0.000000
+            6.206517,53.076794,0.000000
+            6.215509,53.078753,0.000000
+            6.218584,53.080807,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

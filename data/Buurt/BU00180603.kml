@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00180603 Meerwijck</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.722732,53.152286,0.000000
+            6.722920,53.146712,0.000000
+            6.718830,53.146772,0.000000
+            6.721275,53.145416,0.000000
+            6.721471,53.143736,0.000000
+            6.722533,53.142013,0.000000
+            6.721740,53.137411,0.000000
+            6.716318,53.138104,0.000000
+            6.712892,53.142310,0.000000
+            6.707572,53.145852,0.000000
+            6.707398,53.147367,0.000000
+            6.705395,53.149145,0.000000
+            6.711786,53.152409,0.000000
+            6.722732,53.152286,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

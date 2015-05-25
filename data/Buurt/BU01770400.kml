@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770400 Broekland-Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.208163,52.367426,0.000000
+            6.210819,52.357627,0.000000
+            6.213038,52.357571,0.000000
+            6.213790,52.355932,0.000000
+            6.202584,52.356300,0.000000
+            6.199041,52.360035,0.000000
+            6.197166,52.359948,0.000000
+            6.194937,52.361836,0.000000
+            6.198068,52.366160,0.000000
+            6.200834,52.365521,0.000000
+            6.208163,52.367426,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

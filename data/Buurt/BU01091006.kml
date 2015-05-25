@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01091006 Klooster</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.724702,52.659309,0.000000
+            6.723837,52.653260,0.000000
+            6.722037,52.652010,0.000000
+            6.718292,52.653893,0.000000
+            6.716153,52.651880,0.000000
+            6.708007,52.648604,0.000000
+            6.701583,52.650250,0.000000
+            6.702284,52.651100,0.000000
+            6.700416,52.651563,0.000000
+            6.708803,52.655396,0.000000
+            6.711967,52.654427,0.000000
+            6.715525,52.658853,0.000000
+            6.724702,52.659309,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

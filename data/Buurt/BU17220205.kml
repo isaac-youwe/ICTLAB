@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17220205 Lichtaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.927560,53.325065,0.000000
+            5.929039,53.323261,0.000000
+            5.933564,53.325038,0.000000
+            5.936555,53.324126,0.000000
+            5.936509,53.320532,0.000000
+            5.931984,53.318755,0.000000
+            5.934951,53.316045,0.000000
+            5.924413,53.313397,0.000000
+            5.924335,53.313365,0.000000
+            5.919717,53.318811,0.000000
+            5.913631,53.317950,0.000000
+            5.910804,53.319351,0.000000
+            5.910274,53.323511,0.000000
+            5.913071,53.329599,0.000000
+            5.911245,53.334072,0.000000
+            5.917120,53.330504,0.000000
+            5.917160,53.330498,0.000000
+            5.923114,53.329578,0.000000
+            5.924592,53.327775,0.000000
+            5.927560,53.325065,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

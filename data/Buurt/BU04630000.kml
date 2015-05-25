@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04630000 Wieringerwerf</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.029304,52.855605,0.000000
+            5.031658,52.852540,0.000000
+            5.032869,52.852922,0.000000
+            5.036309,52.849229,0.000000
+            5.033826,52.848738,0.000000
+            5.033399,52.844785,0.000000
+            5.029467,52.844939,0.000000
+            5.027757,52.835169,0.000000
+            5.012963,52.835923,0.000000
+            5.013881,52.843165,0.000000
+            5.017787,52.843639,0.000000
+            5.020094,52.859658,0.000000
+            5.025816,52.860893,0.000000
+            5.030220,52.855883,0.000000
+            5.029304,52.855605,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

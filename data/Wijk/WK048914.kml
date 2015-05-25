@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK048914 Wijk 14 Meerwede</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.493712,51.855472,0.000000
+            4.501443,51.854800,0.000000
+            4.508640,51.855571,0.000000
+            4.508486,51.853739,0.000000
+            4.508469,51.853541,0.000000
+            4.508004,51.848036,0.000000
+            4.500824,51.848170,0.000000
+            4.500031,51.847729,0.000000
+            4.494113,51.849464,0.000000
+            4.493503,51.849833,0.000000
+            4.493760,51.852385,0.000000
+            4.493712,51.855472,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

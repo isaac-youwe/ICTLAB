@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01092030 Stieltjeskanaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.816171,52.673377,0.000000
+            6.795332,52.669789,0.000000
+            6.795505,52.672517,0.000000
+            6.807559,52.675189,0.000000
+            6.834848,52.678280,0.000000
+            6.851694,52.690063,0.000000
+            6.851714,52.689963,0.000000
+            6.853073,52.686351,0.000000
+            6.853085,52.686247,0.000000
+            6.836652,52.675219,0.000000
+            6.816171,52.673377,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK077701 Wijk 01 Etten-Leur Midden, Bedrijventerrein Vosdonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.607531,51.563301,0.000000
+            4.591356,51.560767,0.000000
+            4.591038,51.560961,0.000000
+            4.590943,51.566354,0.000000
+            4.593221,51.566370,0.000000
+            4.595332,51.566744,0.000000
+            4.608269,51.569039,0.000000
+            4.622659,51.571744,0.000000
+            4.625761,51.567452,0.000000
+            4.607531,51.563301,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

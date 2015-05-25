@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK008046 Wijk 46 Nijl_n</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.785173,53.189626,0.000000
+            5.796961,53.186491,0.000000
+            5.797399,53.186489,0.000000
+            5.797218,53.183389,0.000000
+            5.796817,53.183368,0.000000
+            5.773995,53.185366,0.000000
+            5.772058,53.188746,0.000000
+            5.772149,53.190977,0.000000
+            5.773522,53.192667,0.000000
+            5.776965,53.194265,0.000000
+            5.785173,53.189626,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

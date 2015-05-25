@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06540001 Borssele</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.745321,51.428526,0.000000
+            3.746525,51.425609,0.000000
+            3.743562,51.424363,0.000000
+            3.741645,51.425548,0.000000
+            3.739646,51.425170,0.000000
+            3.739845,51.421779,0.000000
+            3.737800,51.419856,0.000000
+            3.733974,51.419145,0.000000
+            3.730118,51.424561,0.000000
+            3.732870,51.425356,0.000000
+            3.732403,51.427049,0.000000
+            3.735302,51.427351,0.000000
+            3.736292,51.425910,0.000000
+            3.742989,51.427266,0.000000
+            3.742563,51.427982,0.000000
+            3.745321,51.428526,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

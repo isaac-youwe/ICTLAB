@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00740113 de Heide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.933219,52.934910,0.000000
+            5.918885,52.932474,0.000000
+            5.912373,52.940489,0.000000
+            5.913868,52.942262,0.000000
+            5.929730,52.947820,0.000000
+            5.931181,52.945623,0.000000
+            5.940918,52.937445,0.000000
+            5.933219,52.934910,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

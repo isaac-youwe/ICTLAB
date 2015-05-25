@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09940001 Broekhem-Plenkert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.823811,50.863930,0.000000
+            5.812304,50.861987,0.000000
+            5.811268,50.862217,0.000000
+            5.810323,50.866274,0.000000
+            5.814148,50.870302,0.000000
+            5.814819,50.872725,0.000000
+            5.822874,50.872435,0.000000
+            5.830698,50.870210,0.000000
+            5.823811,50.863930,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

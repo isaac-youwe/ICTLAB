@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411502 Witvoet en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.650133,52.347560,0.000000
+            6.649510,52.347058,0.000000
+            6.648042,52.347430,0.000000
+            6.648063,52.347866,0.000000
+            6.649319,52.347968,0.000000
+            6.649410,52.351185,0.000000
+            6.653999,52.351261,0.000000
+            6.650403,52.348934,0.000000
+            6.650133,52.347560,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

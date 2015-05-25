@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02820003 Ooij</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.925328,51.860159,0.000000
+            5.931737,51.857591,0.000000
+            5.933181,51.859276,0.000000
+            5.937151,51.860056,0.000000
+            5.943396,51.855809,0.000000
+            5.944393,51.856953,0.000000
+            5.947978,51.854668,0.000000
+            5.945850,51.853669,0.000000
+            5.938884,51.850572,0.000000
+            5.934721,51.854803,0.000000
+            5.927794,51.856811,0.000000
+            5.925269,51.858595,0.000000
+            5.922075,51.856043,0.000000
+            5.920367,51.856856,0.000000
+            5.925328,51.860159,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

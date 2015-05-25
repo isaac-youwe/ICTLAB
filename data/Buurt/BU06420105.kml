@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420105 Noordpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.667905,51.825579,0.000000
+            4.666962,51.822787,0.000000
+            4.662252,51.823773,0.000000
+            4.662602,51.826169,0.000000
+            4.666064,51.826731,0.000000
+            4.666145,51.826649,0.000000
+            4.667610,51.825759,0.000000
+            4.667905,51.825579,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

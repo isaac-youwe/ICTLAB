@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08261309 Steenoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.913740,51.597774,0.000000
+            4.899892,51.592521,0.000000
+            4.899793,51.592654,0.000000
+            4.886326,51.612160,0.000000
+            4.880987,51.617910,0.000000
+            4.887213,51.619603,0.000000
+            4.888976,51.621466,0.000000
+            4.891033,51.626784,0.000000
+            4.907377,51.624030,0.000000
+            4.913648,51.622387,0.000000
+            4.914930,51.622051,0.000000
+            4.913514,51.619348,0.000000
+            4.909191,51.618432,0.000000
+            4.912108,51.615747,0.000000
+            4.917958,51.608579,0.000000
+            4.918032,51.601451,0.000000
+            4.918033,51.601387,0.000000
+            4.913740,51.597774,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

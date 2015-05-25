@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16801300 Eexterzandvoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.782796,53.040719,0.000000
+            6.791239,53.034675,0.000000
+            6.792315,53.035260,0.000000
+            6.794082,53.034944,0.000000
+            6.796044,53.033241,0.000000
+            6.784619,53.028090,0.000000
+            6.782841,53.029535,0.000000
+            6.785387,53.031243,0.000000
+            6.785437,53.032436,0.000000
+            6.783134,53.034106,0.000000
+            6.777381,53.030942,0.000000
+            6.776281,53.031647,0.000000
+            6.776611,53.033400,0.000000
+            6.783231,53.037046,0.000000
+            6.780000,53.039611,0.000000
+            6.782796,53.040719,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

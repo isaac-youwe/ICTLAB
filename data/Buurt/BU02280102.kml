@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02280102 Bosrand</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.683123,52.051870,0.000000
+            5.682217,52.047608,0.000000
+            5.676592,52.050930,0.000000
+            5.672997,52.051748,0.000000
+            5.667219,52.051816,0.000000
+            5.659890,52.051200,0.000000
+            5.657921,52.052900,0.000000
+            5.663797,52.053922,0.000000
+            5.672072,52.055362,0.000000
+            5.674350,52.053952,0.000000
+            5.683123,52.051870,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

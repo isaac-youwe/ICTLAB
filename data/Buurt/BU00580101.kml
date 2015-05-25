@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580101 Jouswier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.076549,53.354001,0.000000
+            6.082527,53.352961,0.000000
+            6.095300,53.353505,0.000000
+            6.078856,53.342951,0.000000
+            6.079566,53.342045,0.000000
+            6.078158,53.341248,0.000000
+            6.070914,53.338596,0.000000
+            6.068776,53.339244,0.000000
+            6.065982,53.338020,0.000000
+            6.063440,53.340638,0.000000
+            6.054711,53.344364,0.000000
+            6.058025,53.346024,0.000000
+            6.062511,53.349948,0.000000
+            6.069239,53.353137,0.000000
+            6.076549,53.354001,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

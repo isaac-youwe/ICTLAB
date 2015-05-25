@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830708 Verspreide huizen Woudsend</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.634446,52.950504,0.000000
+            5.631548,52.944903,0.000000
+            5.627850,52.947837,0.000000
+            5.627478,52.949269,0.000000
+            5.625029,52.949180,0.000000
+            5.623477,52.951341,0.000000
+            5.626885,52.953343,0.000000
+            5.630790,52.957337,0.000000
+            5.634446,52.950504,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

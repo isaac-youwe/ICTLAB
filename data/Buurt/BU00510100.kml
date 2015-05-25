@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510100 Haskerhorne</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.841447,52.950811,0.000000
+            5.840807,52.948803,0.000000
+            5.838507,52.949016,0.000000
+            5.816571,52.954201,0.000000
+            5.818802,52.958007,0.000000
+            5.841150,52.955227,0.000000
+            5.839323,52.950948,0.000000
+            5.841447,52.950811,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

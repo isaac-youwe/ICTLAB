@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06640600 Eindewege</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.826938,51.496766,0.000000
+            3.818155,51.494437,0.000000
+            3.815696,51.496424,0.000000
+            3.813924,51.496456,0.000000
+            3.810307,51.499878,0.000000
+            3.807315,51.499979,0.000000
+            3.808126,51.501505,0.000000
+            3.810013,51.500998,0.000000
+            3.810840,51.500903,0.000000
+            3.811209,51.500875,0.000000
+            3.813499,51.500056,0.000000
+            3.831438,51.499371,0.000000
+            3.826938,51.496766,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

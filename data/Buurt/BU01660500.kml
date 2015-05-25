@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01660500 Wilsum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.974357,52.528896,0.000000
+            5.972435,52.526235,0.000000
+            5.966506,52.526319,0.000000
+            5.962836,52.528829,0.000000
+            5.962047,52.535489,0.000000
+            5.964602,52.537566,0.000000
+            5.966240,52.536701,0.000000
+            5.965936,52.534073,0.000000
+            5.964137,52.532775,0.000000
+            5.965218,52.530708,0.000000
+            5.967824,52.529051,0.000000
+            5.974357,52.528896,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

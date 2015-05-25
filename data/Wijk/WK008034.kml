@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK008034 Wijk 34 Heechterp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.827837,53.211204,0.000000
+            5.819541,53.207940,0.000000
+            5.818506,53.208580,0.000000
+            5.814111,53.212178,0.000000
+            5.824944,53.216279,0.000000
+            5.829529,53.217270,0.000000
+            5.831046,53.211451,0.000000
+            5.827837,53.211204,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290100 Wijlre</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.901735,50.829970,0.000000
+            5.891660,50.826987,0.000000
+            5.889436,50.829486,0.000000
+            5.887413,50.835527,0.000000
+            5.886995,50.837593,0.000000
+            5.884219,50.840062,0.000000
+            5.885155,50.840340,0.000000
+            5.890963,50.842321,0.000000
+            5.898405,50.832600,0.000000
+            5.901735,50.829970,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

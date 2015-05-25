@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07970500 Heusden-Vesting</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.148819,51.734481,0.000000
+            5.145599,51.730687,0.000000
+            5.138647,51.728899,0.000000
+            5.132576,51.729564,0.000000
+            5.129071,51.731708,0.000000
+            5.126464,51.731485,0.000000
+            5.129149,51.733780,0.000000
+            5.130602,51.737790,0.000000
+            5.130915,51.737790,0.000000
+            5.143932,51.740515,0.000000
+            5.144018,51.740523,0.000000
+            5.146932,51.736020,0.000000
+            5.148515,51.735567,0.000000
+            5.148819,51.734481,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

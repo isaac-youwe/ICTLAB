@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721534 Blixembosch-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.483159,51.484048,0.000000
+            5.469823,51.484022,0.000000
+            5.468618,51.486251,0.000000
+            5.465821,51.487946,0.000000
+            5.468197,51.491140,0.000000
+            5.466034,51.493653,0.000000
+            5.468704,51.495189,0.000000
+            5.468870,51.496201,0.000000
+            5.469297,51.496221,0.000000
+            5.479379,51.496214,0.000000
+            5.479619,51.496226,0.000000
+            5.486810,51.489385,0.000000
+            5.489239,51.485171,0.000000
+            5.483159,51.484048,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01091218 Nieuwe Krim</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.653792,52.665019,0.000000
+            6.649172,52.664928,0.000000
+            6.648464,52.665456,0.000000
+            6.646937,52.666593,0.000000
+            6.649792,52.668226,0.000000
+            6.656045,52.677443,0.000000
+            6.655149,52.678270,0.000000
+            6.661178,52.678123,0.000000
+            6.653102,52.666851,0.000000
+            6.654727,52.666395,0.000000
+            6.653792,52.665019,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

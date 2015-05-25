@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK086701 Wijk 01 Bedrijventerreinen Waalwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.076028,51.684311,0.000000
+            5.070790,51.683532,0.000000
+            5.067744,51.683835,0.000000
+            5.067634,51.684593,0.000000
+            5.075840,51.685742,0.000000
+            5.076028,51.684311,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.047255,51.682763,0.000000
+            5.047645,51.681741,0.000000
+            5.058861,51.683402,0.000000
+            5.060551,51.683631,0.000000
+            5.059554,51.677907,0.000000
+            5.060235,51.673394,0.000000
+            5.056067,51.671546,0.000000
+            5.055203,51.672679,0.000000
+            5.052248,51.675804,0.000000
+            5.045404,51.681433,0.000000
+            5.041827,51.686716,0.000000
+            5.043920,51.686743,0.000000
+            5.045289,51.683546,0.000000
+            5.047255,51.682763,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.049438,51.688909,0.000000
+            5.043487,51.688103,0.000000
+            5.041269,51.688487,0.000000
+            5.040698,51.691168,0.000000
+            5.039884,51.706541,0.000000
+            5.053658,51.707547,0.000000
+            5.066285,51.710348,0.000000
+            5.069279,51.693857,0.000000
+            5.065901,51.692572,0.000000
+            5.057442,51.691512,0.000000
+            5.048925,51.690786,0.000000
+            5.049438,51.688909,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

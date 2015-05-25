@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07961008 Maasvallei</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.295210,51.724631,0.000000
+            5.294772,51.721699,0.000000
+            5.290345,51.722851,0.000000
+            5.287774,51.726289,0.000000
+            5.285748,51.727126,0.000000
+            5.283718,51.729558,0.000000
+            5.284973,51.731015,0.000000
+            5.289864,51.729647,0.000000
+            5.290177,51.728223,0.000000
+            5.295210,51.724631,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

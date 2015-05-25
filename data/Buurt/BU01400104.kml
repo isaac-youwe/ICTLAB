@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01400104 K_baard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.576356,53.118470,0.000000
+            5.571072,53.116911,0.000000
+            5.566184,53.117346,0.000000
+            5.565113,53.118010,0.000000
+            5.564943,53.120717,0.000000
+            5.570200,53.123449,0.000000
+            5.573731,53.121538,0.000000
+            5.576356,53.118470,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

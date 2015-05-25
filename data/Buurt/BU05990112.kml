@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990112 Cool</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.479725,51.912328,0.000000
+            4.476782,51.911561,0.000000
+            4.472770,51.916329,0.000000
+            4.470336,51.922490,0.000000
+            4.476941,51.923978,0.000000
+            4.480952,51.917571,0.000000
+            4.480149,51.917283,0.000000
+            4.479725,51.912328,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

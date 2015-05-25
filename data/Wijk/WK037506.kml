@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK037506 Wijk 06 Oosterwijk en Zwaansmeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.678413,52.488783,0.000000
+            4.672407,52.484365,0.000000
+            4.667481,52.488307,0.000000
+            4.665436,52.490084,0.000000
+            4.670324,52.493907,0.000000
+            4.669183,52.494775,0.000000
+            4.672908,52.496900,0.000000
+            4.673179,52.497036,0.000000
+            4.675886,52.494610,0.000000
+            4.683535,52.492663,0.000000
+            4.678413,52.488783,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

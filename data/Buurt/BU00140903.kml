@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140903 Lewenborg-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.614029,53.235522,0.000000
+            6.616051,53.233816,0.000000
+            6.619148,53.233935,0.000000
+            6.620072,53.232534,0.000000
+            6.616882,53.231855,0.000000
+            6.617323,53.231138,0.000000
+            6.609982,53.229463,0.000000
+            6.606978,53.233078,0.000000
+            6.603466,53.235018,0.000000
+            6.611934,53.236547,0.000000
+            6.614029,53.235522,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

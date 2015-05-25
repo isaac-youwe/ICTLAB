@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07941303 Gansenwinkel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.645354,51.462565,0.000000
+            5.639611,51.461557,0.000000
+            5.639346,51.462099,0.000000
+            5.637822,51.467095,0.000000
+            5.645356,51.469270,0.000000
+            5.645632,51.469067,0.000000
+            5.644939,51.467037,0.000000
+            5.646778,51.464252,0.000000
+            5.645354,51.462565,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

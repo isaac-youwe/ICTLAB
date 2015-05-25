@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK165202 Wijk 02 De Mortel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.751865,51.560343,0.000000
+            5.762726,51.543004,0.000000
+            5.750351,51.536610,0.000000
+            5.733593,51.528078,0.000000
+            5.723379,51.527576,0.000000
+            5.722558,51.525696,0.000000
+            5.717895,51.525746,0.000000
+            5.715655,51.526990,0.000000
+            5.712990,51.526745,0.000000
+            5.713140,51.526116,0.000000
+            5.697531,51.524507,0.000000
+            5.682405,51.527490,0.000000
+            5.701371,51.545764,0.000000
+            5.705859,51.551253,0.000000
+            5.728937,51.558129,0.000000
+            5.738294,51.556212,0.000000
+            5.751865,51.560343,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

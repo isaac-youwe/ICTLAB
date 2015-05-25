@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17240100 Weebosch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.306015,51.313260,0.000000
+            5.297545,51.310052,0.000000
+            5.301948,51.300514,0.000000
+            5.300159,51.299860,0.000000
+            5.296622,51.305381,0.000000
+            5.294266,51.306530,0.000000
+            5.292243,51.306322,0.000000
+            5.292762,51.305526,0.000000
+            5.287673,51.303922,0.000000
+            5.288401,51.311958,0.000000
+            5.290598,51.312129,0.000000
+            5.294304,51.310078,0.000000
+            5.298386,51.312643,0.000000
+            5.304656,51.314961,0.000000
+            5.306015,51.313260,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

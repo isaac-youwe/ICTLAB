@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05040001 Dirksland-Nieuw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.095092,51.751273,0.000000
+            4.094701,51.746987,0.000000
+            4.098818,51.747947,0.000000
+            4.100838,51.746857,0.000000
+            4.100866,51.745982,0.000000
+            4.106474,51.746329,0.000000
+            4.108866,51.742361,0.000000
+            4.096208,51.740787,0.000000
+            4.095700,51.743718,0.000000
+            4.089051,51.743076,0.000000
+            4.087532,51.747188,0.000000
+            4.092018,51.747702,0.000000
+            4.090367,51.752494,0.000000
+            4.091982,51.754592,0.000000
+            4.104682,51.755794,0.000000
+            4.104017,51.752743,0.000000
+            4.102399,51.751520,0.000000
+            4.095092,51.751273,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

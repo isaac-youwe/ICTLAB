@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16550209 Verspreide huizen Stampersgat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.461234,51.612052,0.000000
+            4.462604,51.602533,0.000000
+            4.459222,51.601990,0.000000
+            4.454035,51.599585,0.000000
+            4.449919,51.594539,0.000000
+            4.428798,51.593798,0.000000
+            4.428796,51.593906,0.000000
+            4.428554,51.605329,0.000000
+            4.433707,51.605255,0.000000
+            4.434488,51.608318,0.000000
+            4.439415,51.610733,0.000000
+            4.446301,51.611334,0.000000
+            4.456309,51.610050,0.000000
+            4.459766,51.610574,0.000000
+            4.461234,51.612052,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17081000 Belt-Schutsloot</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.091420,52.674252,0.000000
+            6.097493,52.664297,0.000000
+            6.096831,52.664503,0.000000
+            6.084991,52.663674,0.000000
+            6.061173,52.653025,0.000000
+            6.058532,52.651844,0.000000
+            6.056958,52.655171,0.000000
+            6.048218,52.654695,0.000000
+            6.039393,52.655727,0.000000
+            6.036374,52.677575,0.000000
+            6.034554,52.679198,0.000000
+            6.066731,52.683432,0.000000
+            6.080343,52.685189,0.000000
+            6.087548,52.679577,0.000000
+            6.091420,52.674252,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

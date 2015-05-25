@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00400300 Harkstede</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.699682,53.211239,0.000000
+            6.701407,53.208171,0.000000
+            6.698772,53.207694,0.000000
+            6.695689,53.208552,0.000000
+            6.694256,53.210812,0.000000
+            6.681426,53.208417,0.000000
+            6.670552,53.208266,0.000000
+            6.670170,53.209309,0.000000
+            6.671118,53.211433,0.000000
+            6.696670,53.214205,0.000000
+            6.696340,53.217012,0.000000
+            6.699906,53.218826,0.000000
+            6.703533,53.218605,0.000000
+            6.706336,53.215950,0.000000
+            6.703957,53.214057,0.000000
+            6.699682,53.211239,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

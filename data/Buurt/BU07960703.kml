@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960703 Vlietdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.359778,51.725577,0.000000
+            5.361714,51.723557,0.000000
+            5.357486,51.724726,0.000000
+            5.353606,51.723784,0.000000
+            5.352116,51.727395,0.000000
+            5.357555,51.728911,0.000000
+            5.354711,51.732700,0.000000
+            5.358138,51.733294,0.000000
+            5.356866,51.731794,0.000000
+            5.361527,51.726230,0.000000
+            5.359778,51.725577,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

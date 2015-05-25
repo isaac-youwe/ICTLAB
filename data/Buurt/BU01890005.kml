@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01890005 De Stouwe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.615514,52.362868,0.000000
+            6.599921,52.361958,0.000000
+            6.599565,52.365322,0.000000
+            6.606927,52.365471,0.000000
+            6.611535,52.366032,0.000000
+            6.613355,52.365451,0.000000
+            6.616038,52.362895,0.000000
+            6.615514,52.362868,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

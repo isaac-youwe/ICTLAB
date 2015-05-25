@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00900011 De Haven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.075901,53.120270,0.000000
+            6.076769,53.117967,0.000000
+            6.078648,53.118153,0.000000
+            6.079404,53.115043,0.000000
+            6.081801,53.106114,0.000000
+            6.080771,53.106066,0.000000
+            6.060750,53.105150,0.000000
+            6.049163,53.104631,0.000000
+            6.047308,53.109646,0.000000
+            6.044223,53.108782,0.000000
+            6.044072,53.113172,0.000000
+            6.067748,53.119168,0.000000
+            6.075901,53.120270,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

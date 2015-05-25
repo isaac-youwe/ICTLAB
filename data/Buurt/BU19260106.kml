@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19260106 Keijzershof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.444273,52.008625,0.000000
+            4.447545,52.000292,0.000000
+            4.438978,51.998940,0.000000
+            4.437361,52.001496,0.000000
+            4.429261,52.006680,0.000000
+            4.434112,52.007894,0.000000
+            4.434980,52.006409,0.000000
+            4.444273,52.008625,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

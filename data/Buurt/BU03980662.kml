@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03980662 Bomen- en Recreatiebuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.859463,52.668100,0.000000
+            4.850398,52.663106,0.000000
+            4.848589,52.664288,0.000000
+            4.843924,52.661765,0.000000
+            4.838686,52.665329,0.000000
+            4.843411,52.667817,0.000000
+            4.849272,52.671346,0.000000
+            4.859463,52.668100,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06200200 Everdingen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.180540,51.968017,0.000000
+            5.173301,51.959914,0.000000
+            5.173260,51.959858,0.000000
+            5.165513,51.962380,0.000000
+            5.159216,51.963577,0.000000
+            5.158673,51.961237,0.000000
+            5.152627,51.961414,0.000000
+            5.151170,51.962005,0.000000
+            5.153307,51.966045,0.000000
+            5.150820,51.968153,0.000000
+            5.155733,51.971589,0.000000
+            5.155780,51.971567,0.000000
+            5.173254,51.969802,0.000000
+            5.180540,51.968017,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

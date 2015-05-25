@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK071520 Wijk 20 Zuiderpark (Terneuzen)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.850175,51.323480,0.000000
+            3.842412,51.320843,0.000000
+            3.839784,51.324705,0.000000
+            3.838230,51.328333,0.000000
+            3.846844,51.330680,0.000000
+            3.847173,51.328944,0.000000
+            3.850878,51.325016,0.000000
+            3.850175,51.323480,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

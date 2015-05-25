@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09360001 Termaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.831298,50.807677,0.000000
+            5.830819,50.807565,0.000000
+            5.826784,50.814576,0.000000
+            5.842255,50.815402,0.000000
+            5.845725,50.813969,0.000000
+            5.845548,50.813914,0.000000
+            5.842666,50.809430,0.000000
+            5.839811,50.807644,0.000000
+            5.831298,50.807677,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

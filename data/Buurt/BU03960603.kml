@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03960603 Breedweer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.690230,52.518964,0.000000
+            4.690280,52.515766,0.000000
+            4.687882,52.516712,0.000000
+            4.682132,52.521034,0.000000
+            4.678667,52.522712,0.000000
+            4.682430,52.524516,0.000000
+            4.684455,52.523617,0.000000
+            4.684176,52.522999,0.000000
+            4.692622,52.522335,0.000000
+            4.690230,52.518964,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

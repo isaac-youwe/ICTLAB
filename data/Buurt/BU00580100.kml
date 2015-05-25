@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580100 Metslawier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.072106,53.357962,0.000000
+            6.066173,53.356369,0.000000
+            6.064567,53.356925,0.000000
+            6.061655,53.360615,0.000000
+            6.061461,53.362705,0.000000
+            6.063818,53.364147,0.000000
+            6.069704,53.365639,0.000000
+            6.072715,53.365066,0.000000
+            6.074255,53.363921,0.000000
+            6.075407,53.362576,0.000000
+            6.074808,53.360660,0.000000
+            6.072106,53.357962,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

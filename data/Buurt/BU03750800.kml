@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03750800 Wijk aan Zee</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.597808,52.495913,0.000000
+            4.603730,52.494155,0.000000
+            4.606170,52.494920,0.000000
+            4.606187,52.494780,0.000000
+            4.605589,52.489740,0.000000
+            4.596667,52.485971,0.000000
+            4.596512,52.486017,0.000000
+            4.581724,52.489513,0.000000
+            4.587434,52.499439,0.000000
+            4.591885,52.497671,0.000000
+            4.597808,52.495913,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290300 Partij-Wittem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.929409,50.807459,0.000000
+            5.914379,50.806046,0.000000
+            5.911358,50.810215,0.000000
+            5.908079,50.812168,0.000000
+            5.908649,50.813486,0.000000
+            5.907528,50.814425,0.000000
+            5.911601,50.817192,0.000000
+            5.918988,50.812394,0.000000
+            5.924161,50.811261,0.000000
+            5.931292,50.810963,0.000000
+            5.929409,50.807459,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

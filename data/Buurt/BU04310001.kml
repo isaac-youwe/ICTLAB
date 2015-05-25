@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04310001 Zuideinde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.897608,52.434257,0.000000
+            4.898783,52.431465,0.000000
+            4.898970,52.431020,0.000000
+            4.899040,52.424728,0.000000
+            4.898635,52.424776,0.000000
+            4.891678,52.425596,0.000000
+            4.876975,52.425534,0.000000
+            4.872511,52.430009,0.000000
+            4.871919,52.430097,0.000000
+            4.880345,52.431344,0.000000
+            4.888616,52.433600,0.000000
+            4.893483,52.433468,0.000000
+            4.897608,52.434257,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

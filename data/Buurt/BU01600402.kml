@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600402 Kloosterhaar Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.678366,52.497810,0.000000
+            6.672358,52.494846,0.000000
+            6.673773,52.493042,0.000000
+            6.672871,52.493369,0.000000
+            6.669978,52.495199,0.000000
+            6.664011,52.492566,0.000000
+            6.663623,52.492403,0.000000
+            6.658956,52.495260,0.000000
+            6.662203,52.497947,0.000000
+            6.665549,52.497858,0.000000
+            6.674022,52.501606,0.000000
+            6.675594,52.501553,0.000000
+            6.678366,52.497810,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK080902 Wijk 02 De Moer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.037333,51.640983,0.000000
+            5.038042,51.635307,0.000000
+            5.035680,51.632281,0.000000
+            5.035162,51.625064,0.000000
+            5.040362,51.606326,0.000000
+            5.004594,51.607995,0.000000
+            5.001733,51.614106,0.000000
+            5.001653,51.614278,0.000000
+            4.998695,51.622359,0.000000
+            4.998673,51.622425,0.000000
+            4.998512,51.622914,0.000000
+            4.997866,51.624871,0.000000
+            4.992762,51.640319,0.000000
+            4.992748,51.640352,0.000000
+            5.003697,51.637216,0.000000
+            5.020479,51.638106,0.000000
+            5.020829,51.641032,0.000000
+            5.037333,51.640983,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

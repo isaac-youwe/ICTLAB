@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15090303 Heelweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.467351,51.970033,0.000000
+            6.466541,51.969334,0.000000
+            6.464266,51.969948,0.000000
+            6.464147,51.972797,0.000000
+            6.462646,51.974087,0.000000
+            6.464225,51.975532,0.000000
+            6.466299,51.973742,0.000000
+            6.467351,51.970033,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

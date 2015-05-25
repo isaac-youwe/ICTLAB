@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480507 Verspreide huizen Kladde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.267807,51.566403,0.000000
+            4.267852,51.564606,0.000000
+            4.268215,51.564609,0.000000
+            4.267129,51.558554,0.000000
+            4.271365,51.557883,0.000000
+            4.270858,51.556301,0.000000
+            4.267272,51.556777,0.000000
+            4.266171,51.555142,0.000000
+            4.263378,51.554714,0.000000
+            4.262192,51.557455,0.000000
+            4.262664,51.561717,0.000000
+            4.263925,51.564110,0.000000
+            4.267804,51.566544,0.000000
+            4.267807,51.566403,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

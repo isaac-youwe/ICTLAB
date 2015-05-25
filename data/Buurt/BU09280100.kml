@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09280100 Kerkrade-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.069345,50.860750,0.000000
+            6.056132,50.857044,0.000000
+            6.055576,50.858339,0.000000
+            6.050037,50.857592,0.000000
+            6.044030,50.865724,0.000000
+            6.056319,50.869042,0.000000
+            6.059389,50.870167,0.000000
+            6.068197,50.869932,0.000000
+            6.071512,50.865936,0.000000
+            6.069345,50.860750,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

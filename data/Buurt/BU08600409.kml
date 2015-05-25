@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08600409 Verspreide huizen Hurkskese Bossen en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.649879,51.589393,0.000000
+            5.651269,51.582253,0.000000
+            5.652691,51.578654,0.000000
+            5.656998,51.575048,0.000000
+            5.655901,51.573693,0.000000
+            5.652742,51.574850,0.000000
+            5.647211,51.579155,0.000000
+            5.637031,51.573223,0.000000
+            5.633744,51.572688,0.000000
+            5.625373,51.575760,0.000000
+            5.615665,51.575456,0.000000
+            5.614582,51.580031,0.000000
+            5.610471,51.583615,0.000000
+            5.615829,51.583315,0.000000
+            5.629523,51.586523,0.000000
+            5.637695,51.594057,0.000000
+            5.639848,51.592310,0.000000
+            5.647221,51.591498,0.000000
+            5.649879,51.589393,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

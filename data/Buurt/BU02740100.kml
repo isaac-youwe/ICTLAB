@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02740100 Oosterbeek ten zuiden van Utrechtseweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.833289,51.988458,0.000000
+            5.864750,51.985194,0.000000
+            5.864742,51.984381,0.000000
+            5.864741,51.984309,0.000000
+            5.867605,51.979803,0.000000
+            5.868006,51.979171,0.000000
+            5.842643,51.978585,0.000000
+            5.826274,51.975843,0.000000
+            5.824925,51.977802,0.000000
+            5.832290,51.979481,0.000000
+            5.831765,51.984787,0.000000
+            5.829538,51.986390,0.000000
+            5.827917,51.986262,0.000000
+            5.823268,51.985260,0.000000
+            5.823727,51.983600,0.000000
+            5.817210,51.983109,0.000000
+            5.814389,51.985273,0.000000
+            5.815152,51.986731,0.000000
+            5.817589,51.988036,0.000000
+            5.822922,51.986623,0.000000
+            5.833289,51.988458,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

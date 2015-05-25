@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580400 Boeimeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.772861,51.582326,0.000000
+            4.774725,51.580120,0.000000
+            4.776862,51.580640,0.000000
+            4.776239,51.572925,0.000000
+            4.778434,51.571951,0.000000
+            4.777778,51.571825,0.000000
+            4.763090,51.571920,0.000000
+            4.757033,51.570707,0.000000
+            4.756861,51.571853,0.000000
+            4.759748,51.573707,0.000000
+            4.762615,51.579135,0.000000
+            4.765809,51.583116,0.000000
+            4.772861,51.582326,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17090702 Nieuwemolen met Driehoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.438966,51.647979,0.000000
+            4.447589,51.644624,0.000000
+            4.449983,51.647775,0.000000
+            4.457452,51.645358,0.000000
+            4.453989,51.643450,0.000000
+            4.456935,51.641107,0.000000
+            4.455133,51.636679,0.000000
+            4.436990,51.641483,0.000000
+            4.438966,51.647979,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05690001 Noorden (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.841713,52.168582,0.000000
+            4.851809,52.166315,0.000000
+            4.852539,52.166405,0.000000
+            4.853520,52.165572,0.000000
+            4.838999,52.164735,0.000000
+            4.822760,52.162042,0.000000
+            4.808632,52.158743,0.000000
+            4.806639,52.162136,0.000000
+            4.825134,52.166102,0.000000
+            4.825775,52.164754,0.000000
+            4.829730,52.165371,0.000000
+            4.828528,52.169225,0.000000
+            4.836094,52.169076,0.000000
+            4.841713,52.168582,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17340206 Verspreide huizen Zettense Veld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.717540,51.917629,0.000000
+            5.717362,51.915541,0.000000
+            5.708200,51.916092,0.000000
+            5.710681,51.912048,0.000000
+            5.718157,51.913068,0.000000
+            5.719155,51.907897,0.000000
+            5.720205,51.900968,0.000000
+            5.717480,51.890082,0.000000
+            5.706852,51.893153,0.000000
+            5.711237,51.896736,0.000000
+            5.709791,51.897639,0.000000
+            5.708357,51.900340,0.000000
+            5.705508,51.908438,0.000000
+            5.699731,51.913847,0.000000
+            5.692494,51.918361,0.000000
+            5.695116,51.920771,0.000000
+            5.715898,51.919905,0.000000
+            5.717540,51.917629,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

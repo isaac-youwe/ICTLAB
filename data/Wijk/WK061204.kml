@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK061204 Wijk 04 Groenewoud en Gildenwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.331975,51.838095,0.000000
+            4.331130,51.838058,0.000000
+            4.331136,51.838696,0.000000
+            4.330783,51.841847,0.000000
+            4.330587,51.843057,0.000000
+            4.330525,51.843294,0.000000
+            4.334128,51.845862,0.000000
+            4.335189,51.846816,0.000000
+            4.338082,51.848165,0.000000
+            4.343871,51.843801,0.000000
+            4.343953,51.843623,0.000000
+            4.344274,51.842423,0.000000
+            4.344763,51.838661,0.000000
+            4.342436,51.838558,0.000000
+            4.337485,51.838340,0.000000
+            4.331975,51.838095,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

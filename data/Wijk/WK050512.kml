@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK050512 Wijk 12 Sterrenburg 2</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.667222,51.784369,0.000000
+            4.677664,51.784215,0.000000
+            4.685024,51.784298,0.000000
+            4.685861,51.784317,0.000000
+            4.687509,51.784178,0.000000
+            4.693672,51.784212,0.000000
+            4.696285,51.784334,0.000000
+            4.695546,51.776649,0.000000
+            4.687613,51.774654,0.000000
+            4.687445,51.778667,0.000000
+            4.683109,51.778767,0.000000
+            4.676081,51.778784,0.000000
+            4.676058,51.778002,0.000000
+            4.663871,51.779011,0.000000
+            4.663696,51.780383,0.000000
+            4.662636,51.780358,0.000000
+            4.667222,51.784369,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

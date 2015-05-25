@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06430102 Schilders- en Dichtersbuurt c.s.</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.637163,51.897789,0.000000
+            4.636355,51.896154,0.000000
+            4.633792,51.896209,0.000000
+            4.631982,51.894700,0.000000
+            4.628472,51.892153,0.000000
+            4.624798,51.892115,0.000000
+            4.624202,51.893130,0.000000
+            4.626075,51.896727,0.000000
+            4.629075,51.896495,0.000000
+            4.630170,51.898171,0.000000
+            4.634880,51.897900,0.000000
+            4.637163,51.897789,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

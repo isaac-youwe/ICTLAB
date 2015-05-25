@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03210104 De Weerwolf</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.166377,52.036520,0.000000
+            5.164715,52.033902,0.000000
+            5.163266,52.033999,0.000000
+            5.160523,52.034475,0.000000
+            5.159408,52.033681,0.000000
+            5.155856,52.033531,0.000000
+            5.154948,52.035513,0.000000
+            5.150872,52.037718,0.000000
+            5.155535,52.038637,0.000000
+            5.161779,52.039869,0.000000
+            5.163023,52.040149,0.000000
+            5.163879,52.040325,0.000000
+            5.166377,52.036520,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

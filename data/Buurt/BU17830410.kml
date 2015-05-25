@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830410 Heenweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.183291,51.983719,0.000000
+            4.182003,51.979682,0.000000
+            4.180006,51.980552,0.000000
+            4.176427,51.982026,0.000000
+            4.176589,51.982869,0.000000
+            4.180331,51.984356,0.000000
+            4.182540,51.983815,0.000000
+            4.183291,51.983719,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04620001 Den Oever</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.039126,52.933946,0.000000
+            5.040231,52.933616,0.000000
+            5.039054,52.932789,0.000000
+            5.027200,52.928080,0.000000
+            5.022518,52.932333,0.000000
+            5.011854,52.932549,0.000000
+            5.014552,52.933989,0.000000
+            5.015327,52.933875,0.000000
+            5.021269,52.934792,0.000000
+            5.024229,52.936598,0.000000
+            5.027189,52.938405,0.000000
+            5.033154,52.936625,0.000000
+            5.039126,52.933946,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

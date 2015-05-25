@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00980400 Scherpenzeel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.892353,52.827246,0.000000
+            5.876141,52.824320,0.000000
+            5.869501,52.823632,0.000000
+            5.869114,52.824668,0.000000
+            5.867531,52.824621,0.000000
+            5.866292,52.827447,0.000000
+            5.863464,52.829079,0.000000
+            5.862909,52.830716,0.000000
+            5.868582,52.830843,0.000000
+            5.869561,52.832686,0.000000
+            5.868622,52.835172,0.000000
+            5.872037,52.835168,0.000000
+            5.888808,52.834762,0.000000
+            5.888904,52.830543,0.000000
+            5.892353,52.827246,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

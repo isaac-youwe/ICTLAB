@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05850104 Uitbreiding Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.482395,51.791106,0.000000
+            4.476037,51.790706,0.000000
+            4.474297,51.790814,0.000000
+            4.475628,51.793294,0.000000
+            4.474937,51.794041,0.000000
+            4.475881,51.794427,0.000000
+            4.480541,51.800376,0.000000
+            4.482965,51.799790,0.000000
+            4.485403,51.797468,0.000000
+            4.483987,51.794432,0.000000
+            4.488459,51.793833,0.000000
+            4.488389,51.792362,0.000000
+            4.482395,51.791106,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

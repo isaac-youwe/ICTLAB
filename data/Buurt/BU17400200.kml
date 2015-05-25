@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17400200 Kom Dodewaard met Hien</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.651142,51.919872,0.000000
+            5.656915,51.918854,0.000000
+            5.661395,51.919157,0.000000
+            5.670783,51.918346,0.000000
+            5.668701,51.913342,0.000000
+            5.669910,51.909363,0.000000
+            5.675326,51.908834,0.000000
+            5.678568,51.909626,0.000000
+            5.678674,51.907698,0.000000
+            5.674406,51.906517,0.000000
+            5.669848,51.908257,0.000000
+            5.658830,51.907872,0.000000
+            5.654974,51.906747,0.000000
+            5.650118,51.905380,0.000000
+            5.650115,51.917779,0.000000
+            5.651142,51.919872,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

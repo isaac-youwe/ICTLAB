@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130601 Lombok</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.055463,52.112078,0.000000
+            6.049862,52.107333,0.000000
+            6.049366,52.108339,0.000000
+            6.050540,52.109491,0.000000
+            6.046815,52.111860,0.000000
+            6.049313,52.115829,0.000000
+            6.050730,52.115870,0.000000
+            6.055463,52.112078,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK047914 Wijk 14 Rosmolenwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.834697,52.443129,0.000000
+            4.832357,52.441918,0.000000
+            4.830859,52.442659,0.000000
+            4.824815,52.440209,0.000000
+            4.821153,52.445365,0.000000
+            4.820694,52.450805,0.000000
+            4.819039,52.451853,0.000000
+            4.821948,52.454207,0.000000
+            4.828788,52.454832,0.000000
+            4.831257,52.448245,0.000000
+            4.834697,52.443129,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

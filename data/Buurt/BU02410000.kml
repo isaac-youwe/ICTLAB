@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02410000 Groesbeek Centrum-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.949987,51.779540,0.000000
+            5.949968,51.775999,0.000000
+            5.947668,51.774191,0.000000
+            5.940696,51.775277,0.000000
+            5.933029,51.773507,0.000000
+            5.927876,51.774266,0.000000
+            5.925357,51.775580,0.000000
+            5.924330,51.778433,0.000000
+            5.930520,51.778070,0.000000
+            5.940058,51.777527,0.000000
+            5.943918,51.778288,0.000000
+            5.946616,51.778881,0.000000
+            5.949987,51.779540,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK053703 Wijk 03 Katwijk aan den Rijn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.430987,52.184297,0.000000
+            4.424090,52.182865,0.000000
+            4.420255,52.184601,0.000000
+            4.417513,52.187036,0.000000
+            4.419546,52.188799,0.000000
+            4.420032,52.190698,0.000000
+            4.419023,52.195909,0.000000
+            4.419713,52.197839,0.000000
+            4.423627,52.201359,0.000000
+            4.429573,52.197177,0.000000
+            4.430067,52.196119,0.000000
+            4.431289,52.193434,0.000000
+            4.429436,52.190328,0.000000
+            4.428285,52.187247,0.000000
+            4.430987,52.184297,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

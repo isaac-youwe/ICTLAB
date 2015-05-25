@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700402 Sexbierum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.492268,53.221194,0.000000
+            5.491203,53.214289,0.000000
+            5.487237,53.212772,0.000000
+            5.482966,53.214105,0.000000
+            5.481051,53.213087,0.000000
+            5.480746,53.214074,0.000000
+            5.478484,53.216899,0.000000
+            5.476846,53.216224,0.000000
+            5.476130,53.217150,0.000000
+            5.478317,53.218456,0.000000
+            5.480456,53.219577,0.000000
+            5.481614,53.221772,0.000000
+            5.485601,53.223211,0.000000
+            5.490219,53.222956,0.000000
+            5.492268,53.221194,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

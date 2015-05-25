@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06260008 Starrenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.441168,52.121441,0.000000
+            4.444320,52.119802,0.000000
+            4.445685,52.120400,0.000000
+            4.450724,52.117623,0.000000
+            4.441088,52.110925,0.000000
+            4.441077,52.110916,0.000000
+            4.438702,52.112595,0.000000
+            4.436784,52.111587,0.000000
+            4.433164,52.113581,0.000000
+            4.435669,52.116681,0.000000
+            4.440902,52.121309,0.000000
+            4.441168,52.121441,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

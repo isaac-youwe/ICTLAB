@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16400803 Roligt (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.908518,51.264555,0.000000
+            5.902014,51.257719,0.000000
+            5.897925,51.258704,0.000000
+            5.895019,51.261560,0.000000
+            5.892157,51.267996,0.000000
+            5.901326,51.270210,0.000000
+            5.904670,51.266544,0.000000
+            5.908518,51.264555,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

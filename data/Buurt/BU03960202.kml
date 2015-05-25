@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03960202 Landgoed Marquette</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.663471,52.524839,0.000000
+            4.665611,52.523674,0.000000
+            4.669229,52.524484,0.000000
+            4.674831,52.521375,0.000000
+            4.674093,52.520903,0.000000
+            4.665411,52.515200,0.000000
+            4.662050,52.513245,0.000000
+            4.661233,52.513764,0.000000
+            4.657843,52.516152,0.000000
+            4.652485,52.514810,0.000000
+            4.652069,52.516659,0.000000
+            4.656783,52.516783,0.000000
+            4.660503,52.518053,0.000000
+            4.662521,52.517402,0.000000
+            4.664120,52.518371,0.000000
+            4.661197,52.521432,0.000000
+            4.663471,52.524839,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

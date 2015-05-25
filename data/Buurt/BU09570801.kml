@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09570801 Swalmen en Heistraat en Kroppestraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.052376,51.224780,0.000000
+            6.039112,51.221630,0.000000
+            6.036635,51.223086,0.000000
+            6.034583,51.229218,0.000000
+            6.038575,51.231600,0.000000
+            6.052637,51.231695,0.000000
+            6.052376,51.224780,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

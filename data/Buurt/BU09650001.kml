@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09650001 Hulsveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.981911,50.835221,0.000000
+            5.975858,50.834810,0.000000
+            5.971228,50.835908,0.000000
+            5.969735,50.836616,0.000000
+            5.968126,50.839325,0.000000
+            5.971929,50.841526,0.000000
+            5.975688,50.841861,0.000000
+            5.977244,50.841255,0.000000
+            5.980830,50.838035,0.000000
+            5.981911,50.835221,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

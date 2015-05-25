@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01580090 Industriegebied West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.719219,52.149828,0.000000
+            6.709779,52.148674,0.000000
+            6.709752,52.149391,0.000000
+            6.713526,52.150583,0.000000
+            6.715022,52.154409,0.000000
+            6.715450,52.158882,0.000000
+            6.719443,52.158270,0.000000
+            6.725472,52.157984,0.000000
+            6.728335,52.156512,0.000000
+            6.731567,52.156375,0.000000
+            6.732985,52.153624,0.000000
+            6.728050,52.153208,0.000000
+            6.728435,52.152139,0.000000
+            6.719219,52.149828,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

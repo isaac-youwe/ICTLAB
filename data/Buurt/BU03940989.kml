@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940989 Abbenes-Dijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.582195,52.220919,0.000000
+            4.600765,52.216747,0.000000
+            4.627460,52.217101,0.000000
+            4.626771,52.215735,0.000000
+            4.626196,52.215642,0.000000
+            4.622410,52.215152,0.000000
+            4.618894,52.214696,0.000000
+            4.618394,52.214693,0.000000
+            4.602798,52.214590,0.000000
+            4.598392,52.215460,0.000000
+            4.598043,52.215543,0.000000
+            4.583694,52.218957,0.000000
+            4.574304,52.217239,0.000000
+            4.572704,52.218204,0.000000
+            4.582195,52.220919,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

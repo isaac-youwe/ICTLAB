@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110629 Echterbosch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.984859,51.073903,0.000000
+            5.982267,51.073103,0.000000
+            5.980828,51.072211,0.000000
+            5.979390,51.071320,0.000000
+            5.982220,51.069507,0.000000
+            5.979422,51.067196,0.000000
+            5.976432,51.068888,0.000000
+            5.977763,51.071751,0.000000
+            5.977038,51.072543,0.000000
+            5.974960,51.073385,0.000000
+            5.973264,51.073173,0.000000
+            5.975338,51.077537,0.000000
+            5.977634,51.078378,0.000000
+            5.979994,51.077556,0.000000
+            5.984859,51.073903,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

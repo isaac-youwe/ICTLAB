@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04370000 Ouderkerk aan de Amstel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.920739,52.304160,0.000000
+            4.924970,52.299182,0.000000
+            4.922799,52.297606,0.000000
+            4.924575,52.294834,0.000000
+            4.921739,52.293711,0.000000
+            4.917598,52.292659,0.000000
+            4.918145,52.290383,0.000000
+            4.916054,52.288362,0.000000
+            4.908077,52.289621,0.000000
+            4.891755,52.294377,0.000000
+            4.892702,52.294575,0.000000
+            4.900452,52.296194,0.000000
+            4.901909,52.297099,0.000000
+            4.898947,52.299784,0.000000
+            4.903306,52.303397,0.000000
+            4.903830,52.303832,0.000000
+            4.906641,52.302383,0.000000
+            4.909754,52.302551,0.000000
+            4.911421,52.299973,0.000000
+            4.920739,52.304160,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

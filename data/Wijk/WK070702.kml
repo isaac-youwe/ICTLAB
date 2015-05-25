@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK070702 Wijk 02 Hei- en Boeicop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.099218,51.939979,0.000000
+            5.087667,51.927365,0.000000
+            5.087191,51.927511,0.000000
+            5.078924,51.930039,0.000000
+            5.078661,51.929794,0.000000
+            5.064241,51.934504,0.000000
+            5.042795,51.937692,0.000000
+            5.051817,51.950883,0.000000
+            5.054662,51.955040,0.000000
+            5.087517,51.949838,0.000000
+            5.101850,51.946337,0.000000
+            5.102087,51.946279,0.000000
+            5.099201,51.942676,0.000000
+            5.099218,51.939979,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

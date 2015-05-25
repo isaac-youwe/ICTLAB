@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03072500 De Hoef-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.414153,52.173636,0.000000
+            5.421185,52.171988,0.000000
+            5.422717,52.170502,0.000000
+            5.410674,52.172363,0.000000
+            5.404299,52.172130,0.000000
+            5.399257,52.170579,0.000000
+            5.394528,52.167350,0.000000
+            5.394047,52.167535,0.000000
+            5.398138,52.170939,0.000000
+            5.400550,52.172689,0.000000
+            5.405052,52.175654,0.000000
+            5.410839,52.178915,0.000000
+            5.411599,52.176114,0.000000
+            5.414153,52.173636,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

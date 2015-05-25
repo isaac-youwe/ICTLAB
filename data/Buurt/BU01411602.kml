@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411602 Beeklust</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.648063,52.347866,0.000000
+            6.648042,52.347430,0.000000
+            6.645275,52.347721,0.000000
+            6.644019,52.347081,0.000000
+            6.640166,52.348203,0.000000
+            6.645407,52.350593,0.000000
+            6.645075,52.349711,0.000000
+            6.648145,52.349547,0.000000
+            6.648063,52.347866,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

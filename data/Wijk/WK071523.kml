@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK071523 Wijk 23 Zeldenrust (Terneuzen)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.870467,51.312248,0.000000
+            3.857367,51.303693,0.000000
+            3.853208,51.307794,0.000000
+            3.848733,51.313136,0.000000
+            3.854589,51.315131,0.000000
+            3.862700,51.317012,0.000000
+            3.870467,51.312248,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

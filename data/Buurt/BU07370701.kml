@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07370701 Jistrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.068136,53.214243,0.000000
+            6.072437,53.211687,0.000000
+            6.070040,53.211210,0.000000
+            6.069270,53.207602,0.000000
+            6.059922,53.206478,0.000000
+            6.058922,53.213308,0.000000
+            6.056642,53.213178,0.000000
+            6.056095,53.213951,0.000000
+            6.060902,53.216357,0.000000
+            6.068136,53.214243,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

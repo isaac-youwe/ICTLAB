@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05790012 Oudenhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.477400,52.190117,0.000000
+            4.490557,52.186847,0.000000
+            4.490618,52.186884,0.000000
+            4.490668,52.186824,0.000000
+            4.489382,52.181690,0.000000
+            4.487289,52.180212,0.000000
+            4.487439,52.177371,0.000000
+            4.486487,52.176902,0.000000
+            4.486481,52.176904,0.000000
+            4.479116,52.179544,0.000000
+            4.481522,52.181080,0.000000
+            4.477867,52.182786,0.000000
+            4.473556,52.183158,0.000000
+            4.477400,52.190117,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16760500 Bruinisse</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.101857,51.661053,0.000000
+            4.096855,51.655834,0.000000
+            4.085958,51.659910,0.000000
+            4.087454,51.662118,0.000000
+            4.091730,51.664548,0.000000
+            4.090711,51.664941,0.000000
+            4.093756,51.667222,0.000000
+            4.095209,51.667432,0.000000
+            4.094710,51.667110,0.000000
+            4.093316,51.665297,0.000000
+            4.097703,51.663547,0.000000
+            4.101857,51.661053,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08820005 eikske</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.017286,50.886204,0.000000
+            6.016388,50.884455,0.000000
+            6.014813,50.884497,0.000000
+            6.013780,50.883652,0.000000
+            6.015068,50.876960,0.000000
+            6.016320,50.876003,0.000000
+            6.013552,50.876347,0.000000
+            6.010619,50.877905,0.000000
+            6.009617,50.878438,0.000000
+            6.009605,50.878444,0.000000
+            6.009609,50.878774,0.000000
+            6.009682,50.884168,0.000000
+            6.008285,50.885973,0.000000
+            6.008252,50.885994,0.000000
+            6.008553,50.886379,0.000000
+            6.014018,50.886247,0.000000
+            6.017286,50.886204,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000303 Duinbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.732906,52.944801,0.000000
+            4.738221,52.943811,0.000000
+            4.737815,52.943146,0.000000
+            4.734651,52.937732,0.000000
+            4.731820,52.938735,0.000000
+            4.731064,52.939828,0.000000
+            4.723642,52.939242,0.000000
+            4.728888,52.944738,0.000000
+            4.730545,52.944019,0.000000
+            4.732906,52.944801,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

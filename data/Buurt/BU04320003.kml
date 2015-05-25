@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04320003 Wadway</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.979031,52.679401,0.000000
+            4.976090,52.677594,0.000000
+            4.970158,52.679371,0.000000
+            4.967209,52.678461,0.000000
+            4.962799,52.675749,0.000000
+            4.961329,52.674845,0.000000
+            4.961329,52.674818,0.000000
+            4.958183,52.676482,0.000000
+            4.953563,52.676838,0.000000
+            4.957613,52.680513,0.000000
+            4.959436,52.685340,0.000000
+            4.961228,52.687168,0.000000
+            4.979960,52.698494,0.000000
+            4.983756,52.697671,0.000000
+            4.983302,52.697392,0.000000
+            4.980385,52.692888,0.000000
+            4.980448,52.686058,0.000000
+            4.980452,52.685698,0.000000
+            4.979031,52.679401,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

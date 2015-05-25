@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00560000 Zuidhorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.415000,53.244066,0.000000
+            6.411170,53.240023,0.000000
+            6.403415,53.237656,0.000000
+            6.402265,53.240260,0.000000
+            6.392467,53.238065,0.000000
+            6.391212,53.239976,0.000000
+            6.393863,53.241912,0.000000
+            6.392694,53.243822,0.000000
+            6.386841,53.244755,0.000000
+            6.383026,53.249149,0.000000
+            6.386929,53.250056,0.000000
+            6.388031,53.250876,0.000000
+            6.387654,53.252334,0.000000
+            6.390971,53.253214,0.000000
+            6.404204,53.256199,0.000000
+            6.411192,53.249723,0.000000
+            6.413034,53.246298,0.000000
+            6.417126,53.244974,0.000000
+            6.415000,53.244066,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

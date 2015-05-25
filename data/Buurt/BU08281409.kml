@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08281409 Verspreide huizen Ravenstein en Huisseling</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.628130,51.784115,0.000000
+            5.638523,51.781197,0.000000
+            5.655984,51.789770,0.000000
+            5.662535,51.785287,0.000000
+            5.665187,51.780187,0.000000
+            5.666150,51.773560,0.000000
+            5.655224,51.777646,0.000000
+            5.645899,51.777433,0.000000
+            5.635493,51.778828,0.000000
+            5.628027,51.780011,0.000000
+            5.619928,51.782752,0.000000
+            5.613081,51.783416,0.000000
+            5.621147,51.788606,0.000000
+            5.626946,51.790757,0.000000
+            5.628437,51.789466,0.000000
+            5.626179,51.787698,0.000000
+            5.629921,51.785646,0.000000
+            5.628130,51.784115,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

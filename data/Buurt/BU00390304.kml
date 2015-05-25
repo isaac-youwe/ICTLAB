@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00390304 Nieuweweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.066036,53.186924,0.000000
+            7.062984,53.183462,0.000000
+            7.054040,53.183828,0.000000
+            7.053136,53.191460,0.000000
+            7.050176,53.195460,0.000000
+            7.052917,53.197999,0.000000
+            7.064923,53.195251,0.000000
+            7.064853,53.195030,0.000000
+            7.063149,53.189661,0.000000
+            7.066070,53.187822,0.000000
+            7.066036,53.186924,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

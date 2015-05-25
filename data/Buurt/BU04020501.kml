@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020501 Astronomische buurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.203106,52.232226,0.000000
+            5.202716,52.227290,0.000000
+            5.196440,52.228193,0.000000
+            5.193141,52.227712,0.000000
+            5.190740,52.232107,0.000000
+            5.190537,52.232509,0.000000
+            5.195207,52.237071,0.000000
+            5.199691,52.240478,0.000000
+            5.199776,52.240418,0.000000
+            5.199780,52.239519,0.000000
+            5.199934,52.239306,0.000000
+            5.199011,52.238518,0.000000
+            5.203106,52.232226,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

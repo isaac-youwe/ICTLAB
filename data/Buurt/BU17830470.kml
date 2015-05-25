@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830470 Olieblok</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.186526,51.989211,0.000000
+            4.190128,51.988451,0.000000
+            4.195628,51.989294,0.000000
+            4.198325,51.986842,0.000000
+            4.203075,51.985156,0.000000
+            4.209121,51.980043,0.000000
+            4.206667,51.978047,0.000000
+            4.210927,51.971625,0.000000
+            4.203496,51.970186,0.000000
+            4.202548,51.970281,0.000000
+            4.182003,51.979682,0.000000
+            4.183291,51.983719,0.000000
+            4.182540,51.983815,0.000000
+            4.184282,51.988554,0.000000
+            4.186526,51.989211,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

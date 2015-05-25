@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK031006 Wijk 06 Achtienhoven-Westbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.134976,52.136996,0.000000
+            5.126080,52.124247,0.000000
+            5.125779,52.124320,0.000000
+            5.106737,52.133265,0.000000
+            5.121270,52.145883,0.000000
+            5.095401,52.155524,0.000000
+            5.094904,52.155709,0.000000
+            5.117112,52.172054,0.000000
+            5.118185,52.172843,0.000000
+            5.115217,52.180028,0.000000
+            5.122885,52.180831,0.000000
+            5.123985,52.180947,0.000000
+            5.166401,52.179236,0.000000
+            5.166660,52.179205,0.000000
+            5.161941,52.171655,0.000000
+            5.149188,52.152736,0.000000
+            5.147182,52.150521,0.000000
+            5.143040,52.144524,0.000000
+            5.134976,52.136996,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

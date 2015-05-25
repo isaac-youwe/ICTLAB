@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04320100 Hoogwoud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.942461,52.737929,0.000000
+            4.945098,52.736712,0.000000
+            4.949835,52.737889,0.000000
+            4.953086,52.727430,0.000000
+            4.953938,52.718893,0.000000
+            4.955389,52.716507,0.000000
+            4.923184,52.706342,0.000000
+            4.917326,52.704637,0.000000
+            4.917127,52.707795,0.000000
+            4.920057,52.709284,0.000000
+            4.918852,52.712082,0.000000
+            4.920879,52.715782,0.000000
+            4.920505,52.720227,0.000000
+            4.925508,52.722611,0.000000
+            4.925890,52.725070,0.000000
+            4.929100,52.729675,0.000000
+            4.926008,52.734087,0.000000
+            4.942461,52.737929,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

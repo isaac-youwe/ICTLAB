@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04320001 Opmeer-Zuid, Spanbroek (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.979960,52.698494,0.000000
+            4.961228,52.687168,0.000000
+            4.959436,52.685340,0.000000
+            4.951981,52.688158,0.000000
+            4.951406,52.687805,0.000000
+            4.941069,52.692256,0.000000
+            4.930244,52.697008,0.000000
+            4.931914,52.697654,0.000000
+            4.953662,52.705650,0.000000
+            4.979960,52.698494,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

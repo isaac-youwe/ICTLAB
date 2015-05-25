@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130309 Elzenbos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.159498,52.096760,0.000000
+            6.158064,52.096664,0.000000
+            6.154407,52.097444,0.000000
+            6.154996,52.099139,0.000000
+            6.156420,52.099359,0.000000
+            6.156053,52.100747,0.000000
+            6.155057,52.100786,0.000000
+            6.156705,52.102759,0.000000
+            6.159555,52.102362,0.000000
+            6.158731,52.099137,0.000000
+            6.159498,52.096760,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

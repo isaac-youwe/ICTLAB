@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04120002 De Weere (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.896518,52.782725,0.000000
+            4.899485,52.773394,0.000000
+            4.896101,52.771906,0.000000
+            4.892237,52.771448,0.000000
+            4.892457,52.774525,0.000000
+            4.889197,52.776019,0.000000
+            4.881633,52.772002,0.000000
+            4.875229,52.771120,0.000000
+            4.870782,52.766829,0.000000
+            4.868506,52.768940,0.000000
+            4.863710,52.770773,0.000000
+            4.862679,52.774082,0.000000
+            4.863273,52.775744,0.000000
+            4.870111,52.779930,0.000000
+            4.877436,52.788020,0.000000
+            4.886810,52.789196,0.000000
+            4.890835,52.790712,0.000000
+            4.894563,52.786825,0.000000
+            4.894472,52.784199,0.000000
+            4.896518,52.782725,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

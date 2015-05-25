@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17020400 Wanroij</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.826205,51.661088,0.000000
+            5.838368,51.653884,0.000000
+            5.835230,51.650977,0.000000
+            5.810360,51.651110,0.000000
+            5.808305,51.656570,0.000000
+            5.803062,51.655685,0.000000
+            5.800953,51.660928,0.000000
+            5.806397,51.660909,0.000000
+            5.810775,51.665388,0.000000
+            5.812229,51.666282,0.000000
+            5.814360,51.664941,0.000000
+            5.815201,51.664527,0.000000
+            5.818719,51.662796,0.000000
+            5.826205,51.661088,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

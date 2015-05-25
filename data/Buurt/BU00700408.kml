@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700408 Verspreide huizen Pietersbierum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.469588,53.213250,0.000000
+            5.474142,53.212824,0.000000
+            5.480746,53.214074,0.000000
+            5.481051,53.213087,0.000000
+            5.483895,53.209362,0.000000
+            5.479348,53.199535,0.000000
+            5.466524,53.199544,0.000000
+            5.457546,53.200449,0.000000
+            5.456053,53.203145,0.000000
+            5.438101,53.210344,0.000000
+            5.447095,53.219326,0.000000
+            5.456088,53.224713,0.000000
+            5.462081,53.226507,0.000000
+            5.462436,53.226780,0.000000
+            5.476576,53.220619,0.000000
+            5.478317,53.218456,0.000000
+            5.476130,53.217150,0.000000
+            5.470391,53.216013,0.000000
+            5.469156,53.214463,0.000000
+            5.469588,53.213250,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

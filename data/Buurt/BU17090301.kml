@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17090301 Noordschans</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.535466,51.674341,0.000000
+            4.522784,51.673632,0.000000
+            4.522890,51.682357,0.000000
+            4.527446,51.682814,0.000000
+            4.526634,51.685098,0.000000
+            4.531734,51.685239,0.000000
+            4.532122,51.685249,0.000000
+            4.533810,51.675601,0.000000
+            4.535466,51.674341,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK053704 Wijk 04 Katwijk Midden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.419023,52.195909,0.000000
+            4.411757,52.194388,0.000000
+            4.410293,52.194976,0.000000
+            4.409388,52.195327,0.000000
+            4.404150,52.195727,0.000000
+            4.407135,52.200901,0.000000
+            4.408055,52.202043,0.000000
+            4.408015,52.205671,0.000000
+            4.409332,52.206838,0.000000
+            4.418405,52.203574,0.000000
+            4.423627,52.201359,0.000000
+            4.419713,52.197839,0.000000
+            4.419023,52.195909,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

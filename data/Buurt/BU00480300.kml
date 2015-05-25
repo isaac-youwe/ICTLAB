@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480300 Harpel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.100380,52.995531,0.000000
+            7.082584,52.988779,0.000000
+            7.078518,52.991754,0.000000
+            7.078169,53.001217,0.000000
+            7.079387,53.004930,0.000000
+            7.081853,53.006153,0.000000
+            7.084503,53.006242,0.000000
+            7.088937,53.004988,0.000000
+            7.095066,53.001912,0.000000
+            7.098847,52.998408,0.000000
+            7.100380,52.995531,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

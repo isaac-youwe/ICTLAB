@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19260114 De Boezem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.443005,52.024643,0.000000
+            4.438559,52.023414,0.000000
+            4.435360,52.024856,0.000000
+            4.434208,52.028636,0.000000
+            4.447033,52.033271,0.000000
+            4.448078,52.031443,0.000000
+            4.452401,52.029459,0.000000
+            4.445073,52.027123,0.000000
+            4.442542,52.025127,0.000000
+            4.443005,52.024643,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

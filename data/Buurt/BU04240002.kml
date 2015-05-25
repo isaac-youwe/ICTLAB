@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04240002 Muiderberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.124574,52.329264,0.000000
+            5.128996,52.325678,0.000000
+            5.127559,52.324792,0.000000
+            5.123942,52.327613,0.000000
+            5.119809,52.324748,0.000000
+            5.123238,52.322125,0.000000
+            5.123149,52.322070,0.000000
+            5.114513,52.315977,0.000000
+            5.102818,52.324002,0.000000
+            5.107850,52.330187,0.000000
+            5.109405,52.330926,0.000000
+            5.111363,52.330133,0.000000
+            5.124574,52.329264,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

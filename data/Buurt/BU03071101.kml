@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03071101 Rustenburg-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.422797,52.169520,0.000000
+            5.419198,52.161178,0.000000
+            5.415317,52.160102,0.000000
+            5.413286,52.161900,0.000000
+            5.412395,52.161774,0.000000
+            5.413342,52.163286,0.000000
+            5.411432,52.165912,0.000000
+            5.414496,52.166372,0.000000
+            5.422797,52.169520,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

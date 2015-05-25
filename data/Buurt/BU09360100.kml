@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09360100 Cadier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.770622,50.835087,0.000000
+            5.780457,50.826128,0.000000
+            5.784040,50.824646,0.000000
+            5.782422,50.822480,0.000000
+            5.754602,50.826774,0.000000
+            5.755886,50.833664,0.000000
+            5.760979,50.834309,0.000000
+            5.767396,50.832972,0.000000
+            5.770622,50.835087,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

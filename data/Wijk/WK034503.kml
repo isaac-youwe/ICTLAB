@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK034503 Wijk 03 Zuidwest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.543815,52.011534,0.000000
+            5.539975,52.006825,0.000000
+            5.539061,52.007202,0.000000
+            5.535785,52.008556,0.000000
+            5.535623,52.008657,0.000000
+            5.535976,52.014031,0.000000
+            5.536908,52.016976,0.000000
+            5.537473,52.021657,0.000000
+            5.539760,52.025608,0.000000
+            5.541217,52.027539,0.000000
+            5.545112,52.025200,0.000000
+            5.548601,52.024417,0.000000
+            5.552996,52.023314,0.000000
+            5.553399,52.023225,0.000000
+            5.550833,52.020141,0.000000
+            5.549817,52.018895,0.000000
+            5.543985,52.011743,0.000000
+            5.543815,52.011534,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

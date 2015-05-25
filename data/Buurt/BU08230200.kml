@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08230200 Middelbeers</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.253312,51.470451,0.000000
+            5.255457,51.468411,0.000000
+            5.259156,51.469016,0.000000
+            5.260278,51.463569,0.000000
+            5.253256,51.462333,0.000000
+            5.238433,51.464558,0.000000
+            5.238005,51.465563,0.000000
+            5.243197,51.465755,0.000000
+            5.243148,51.470000,0.000000
+            5.248704,51.471774,0.000000
+            5.253312,51.470451,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02620004 Lochem-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.401625,52.151682,0.000000
+            6.390994,52.149126,0.000000
+            6.389031,52.149494,0.000000
+            6.390256,52.151472,0.000000
+            6.388942,52.156604,0.000000
+            6.400246,52.159573,0.000000
+            6.401923,52.155497,0.000000
+            6.404960,52.152910,0.000000
+            6.401625,52.151682,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

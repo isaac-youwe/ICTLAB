@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06080003 Zevender (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.872225,51.950816,0.000000
+            4.859295,51.947983,0.000000
+            4.857565,51.950804,0.000000
+            4.851365,51.951238,0.000000
+            4.850915,51.955290,0.000000
+            4.851774,51.955294,0.000000
+            4.859017,51.958023,0.000000
+            4.866260,51.960752,0.000000
+            4.868937,51.956703,0.000000
+            4.869222,51.956271,0.000000
+            4.871888,51.953838,0.000000
+            4.872163,51.953587,0.000000
+            4.872194,51.950890,0.000000
+            4.872225,51.950816,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

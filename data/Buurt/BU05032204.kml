@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05032204 Azi_buurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.355596,51.979334,0.000000
+            4.342123,51.977225,0.000000
+            4.341874,51.977975,0.000000
+            4.338298,51.977423,0.000000
+            4.336975,51.978875,0.000000
+            4.342121,51.980113,0.000000
+            4.347108,51.981316,0.000000
+            4.354017,51.983505,0.000000
+            4.355287,51.980167,0.000000
+            4.355596,51.979334,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

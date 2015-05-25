@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07660009 Verspreide huizen Dongen-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.928991,51.642595,0.000000
+            4.929377,51.634400,0.000000
+            4.922017,51.635375,0.000000
+            4.922490,51.636680,0.000000
+            4.918703,51.637244,0.000000
+            4.916096,51.629026,0.000000
+            4.917876,51.628980,0.000000
+            4.917064,51.622878,0.000000
+            4.917089,51.622352,0.000000
+            4.913648,51.622387,0.000000
+            4.907377,51.624030,0.000000
+            4.904792,51.624707,0.000000
+            4.913364,51.633731,0.000000
+            4.924535,51.643419,0.000000
+            4.928991,51.642595,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03072001 Erasmusstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.410839,52.178915,0.000000
+            5.405052,52.175654,0.000000
+            5.403527,52.177132,0.000000
+            5.403896,52.178124,0.000000
+            5.407946,52.180375,0.000000
+            5.408122,52.182519,0.000000
+            5.408204,52.183534,0.000000
+            5.412129,52.183654,0.000000
+            5.410839,52.178915,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

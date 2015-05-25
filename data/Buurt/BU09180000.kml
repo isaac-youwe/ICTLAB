@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09180000 Grashoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.944548,51.351348,0.000000
+            5.938585,51.349929,0.000000
+            5.927773,51.370716,0.000000
+            5.921485,51.378850,0.000000
+            5.931725,51.384405,0.000000
+            5.947517,51.383431,0.000000
+            5.957506,51.377988,0.000000
+            5.960288,51.372627,0.000000
+            5.952032,51.367469,0.000000
+            5.945319,51.354726,0.000000
+            5.944548,51.351348,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

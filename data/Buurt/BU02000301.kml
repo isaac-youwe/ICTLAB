@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000301 Ugchelen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.932021,52.188291,0.000000
+            5.940338,52.187014,0.000000
+            5.941529,52.187549,0.000000
+            5.942585,52.185759,0.000000
+            5.941700,52.185403,0.000000
+            5.944032,52.181859,0.000000
+            5.944710,52.180828,0.000000
+            5.939039,52.180570,0.000000
+            5.937053,52.178897,0.000000
+            5.915210,52.182191,0.000000
+            5.919821,52.187286,0.000000
+            5.928336,52.190542,0.000000
+            5.932021,52.188291,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

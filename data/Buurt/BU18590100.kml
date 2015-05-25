@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590100 Eibergen-Centrum en -Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.669443,52.103607,0.000000
+            6.663433,52.095750,0.000000
+            6.654586,52.097374,0.000000
+            6.650331,52.094157,0.000000
+            6.648881,52.094878,0.000000
+            6.643395,52.095146,0.000000
+            6.643912,52.098719,0.000000
+            6.639142,52.107954,0.000000
+            6.643811,52.107870,0.000000
+            6.652809,52.105279,0.000000
+            6.662926,52.103690,0.000000
+            6.669443,52.103607,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

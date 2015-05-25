@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610105 Nassaukwartier en Hout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.737791,52.625017,0.000000
+            4.736711,52.623656,0.000000
+            4.729255,52.626875,0.000000
+            4.732483,52.631014,0.000000
+            4.739912,52.634977,0.000000
+            4.741756,52.634229,0.000000
+            4.739161,52.633727,0.000000
+            4.740776,52.629775,0.000000
+            4.742358,52.629393,0.000000
+            4.737791,52.625017,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

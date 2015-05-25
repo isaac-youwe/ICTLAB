@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00740105 Nijehaske</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.905570,52.955548,0.000000
+            5.904726,52.955308,0.000000
+            5.904668,52.955371,0.000000
+            5.898044,52.962488,0.000000
+            5.906880,52.965356,0.000000
+            5.905907,52.966228,0.000000
+            5.908404,52.967256,0.000000
+            5.916351,52.960148,0.000000
+            5.917074,52.958817,0.000000
+            5.905570,52.955548,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

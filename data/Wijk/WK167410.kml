@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK167410 Wijk 10 Nispen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.485887,51.481084,0.000000
+            4.485959,51.477489,0.000000
+            4.475864,51.478309,0.000000
+            4.471582,51.476478,0.000000
+            4.465933,51.471039,0.000000
+            4.457315,51.470072,0.000000
+            4.442960,51.468158,0.000000
+            4.442238,51.467926,0.000000
+            4.442982,51.474258,0.000000
+            4.421380,51.492040,0.000000
+            4.446075,51.493450,0.000000
+            4.464749,51.494997,0.000000
+            4.482841,51.498314,0.000000
+            4.497030,51.500039,0.000000
+            4.490100,51.486511,0.000000
+            4.493050,51.482937,0.000000
+            4.485887,51.481084,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

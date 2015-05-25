@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17210308 Verspreide huizen ten noorden van Loosbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.529609,51.711029,0.000000
+            5.520327,51.700999,0.000000
+            5.520486,51.700148,0.000000
+            5.525073,51.697285,0.000000
+            5.522264,51.690744,0.000000
+            5.520176,51.686053,0.000000
+            5.518913,51.686126,0.000000
+            5.517277,51.683745,0.000000
+            5.518557,51.683171,0.000000
+            5.515457,51.680036,0.000000
+            5.508201,51.683573,0.000000
+            5.499164,51.686567,0.000000
+            5.502320,51.689998,0.000000
+            5.479535,51.696243,0.000000
+            5.482884,51.701260,0.000000
+            5.492828,51.705661,0.000000
+            5.498295,51.707353,0.000000
+            5.505409,51.705677,0.000000
+            5.514680,51.709290,0.000000
+            5.517131,51.711137,0.000000
+            5.519230,51.712718,0.000000
+            5.529609,51.711029,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

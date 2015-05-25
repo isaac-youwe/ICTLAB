@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04200100 Centrum Wognum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.042108,52.673436,0.000000
+            5.040572,52.672505,0.000000
+            5.037199,52.672871,0.000000
+            5.033467,52.669571,0.000000
+            5.022321,52.673676,0.000000
+            5.018658,52.674063,0.000000
+            5.015582,52.677660,0.000000
+            5.015505,52.679143,0.000000
+            5.016664,52.679176,0.000000
+            5.013432,52.685089,0.000000
+            4.998954,52.685455,0.000000
+            5.004097,52.696741,0.000000
+            5.001750,52.697709,0.000000
+            5.001651,52.698627,0.000000
+            5.005084,52.700707,0.000000
+            5.030123,52.697124,0.000000
+            5.030433,52.686711,0.000000
+            5.030953,52.679281,0.000000
+            5.042108,52.673436,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

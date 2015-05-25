@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02810002 Hertogenwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.434860,51.878126,0.000000
+            5.433681,51.877397,0.000000
+            5.433511,51.877218,0.000000
+            5.427821,51.878115,0.000000
+            5.421624,51.877642,0.000000
+            5.420817,51.880270,0.000000
+            5.428223,51.882197,0.000000
+            5.431948,51.883028,0.000000
+            5.433284,51.882260,0.000000
+            5.434860,51.878126,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

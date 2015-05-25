@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK017706 Wijk 06 Nieuw Heeten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.306565,52.300813,0.000000
+            6.306239,52.300816,0.000000
+            6.309535,52.309838,0.000000
+            6.312961,52.314021,0.000000
+            6.313010,52.317778,0.000000
+            6.314925,52.319440,0.000000
+            6.310828,52.323307,0.000000
+            6.308884,52.328372,0.000000
+            6.321089,52.343169,0.000000
+            6.336841,52.346469,0.000000
+            6.336867,52.346419,0.000000
+            6.345304,52.329271,0.000000
+            6.345426,52.329140,0.000000
+            6.355338,52.318402,0.000000
+            6.352346,52.315730,0.000000
+            6.352219,52.315654,0.000000
+            6.341945,52.309522,0.000000
+            6.327110,52.301550,0.000000
+            6.306565,52.300813,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

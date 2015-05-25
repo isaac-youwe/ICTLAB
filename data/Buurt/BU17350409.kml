@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17350409 Verspreide huizen Elzenerveen en Borkeld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.518433,52.260876,0.000000
+            6.519335,52.255464,0.000000
+            6.472221,52.269711,0.000000
+            6.471765,52.269853,0.000000
+            6.484824,52.275021,0.000000
+            6.515776,52.281921,0.000000
+            6.515839,52.281958,0.000000
+            6.513198,52.273654,0.000000
+            6.512226,52.264632,0.000000
+            6.518433,52.260876,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

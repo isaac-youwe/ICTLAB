@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16801600 Gasselternijveenschemond</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.895435,53.003092,0.000000
+            6.898591,52.997900,0.000000
+            6.921683,53.001978,0.000000
+            6.921804,53.001898,0.000000
+            6.934906,52.994472,0.000000
+            6.933391,52.992936,0.000000
+            6.928900,52.991919,0.000000
+            6.928344,52.991838,0.000000
+            6.925750,52.997959,0.000000
+            6.870286,52.988900,0.000000
+            6.869746,52.990228,0.000000
+            6.867531,52.989956,0.000000
+            6.866309,52.992194,0.000000
+            6.893846,52.996996,0.000000
+            6.890935,53.002125,0.000000
+            6.895435,53.003092,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02431402 Sonnevanck</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.661755,52.325116,0.000000
+            5.665471,52.321723,0.000000
+            5.664312,52.319716,0.000000
+            5.661336,52.318607,0.000000
+            5.654294,52.322872,0.000000
+            5.654953,52.323213,0.000000
+            5.656618,52.322246,0.000000
+            5.661755,52.325116,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

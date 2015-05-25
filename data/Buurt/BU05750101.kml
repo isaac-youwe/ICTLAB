@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05750101 Villawijk-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.428737,52.243351,0.000000
+            4.430847,52.241514,0.000000
+            4.436631,52.243097,0.000000
+            4.440077,52.242123,0.000000
+            4.436362,52.238116,0.000000
+            4.433167,52.236384,0.000000
+            4.426536,52.229230,0.000000
+            4.419520,52.221383,0.000000
+            4.416548,52.218057,0.000000
+            4.414676,52.216126,0.000000
+            4.414305,52.215785,0.000000
+            4.413979,52.215882,0.000000
+            4.405120,52.219404,0.000000
+            4.426460,52.243752,0.000000
+            4.428737,52.243351,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

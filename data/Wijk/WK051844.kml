@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051844 Wijk 44 Leidschenveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.420240,52.062212,0.000000
+            4.421715,52.057171,0.000000
+            4.421814,52.056831,0.000000
+            4.414504,52.057670,0.000000
+            4.414744,52.057468,0.000000
+            4.421931,52.051438,0.000000
+            4.403449,52.052910,0.000000
+            4.395634,52.054484,0.000000
+            4.396031,52.055743,0.000000
+            4.387824,52.061404,0.000000
+            4.395548,52.067886,0.000000
+            4.405652,52.076474,0.000000
+            4.406800,52.076484,0.000000
+            4.411275,52.072026,0.000000
+            4.411422,52.071865,0.000000
+            4.420240,52.062212,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

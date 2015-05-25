@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03970002 Zandvoortselaan en Berkenrode en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.617260,52.361346,0.000000
+            4.617826,52.361212,0.000000
+            4.617924,52.361212,0.000000
+            4.615487,52.357914,0.000000
+            4.612683,52.354297,0.000000
+            4.613126,52.353076,0.000000
+            4.603862,52.354606,0.000000
+            4.604686,52.356107,0.000000
+            4.608447,52.362948,0.000000
+            4.610439,52.362961,0.000000
+            4.610454,52.362962,0.000000
+            4.617260,52.361346,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06640101 Goes-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.894798,51.502800,0.000000
+            3.889825,51.500559,0.000000
+            3.885788,51.501456,0.000000
+            3.884413,51.505578,0.000000
+            3.885204,51.509163,0.000000
+            3.890799,51.509423,0.000000
+            3.893114,51.509096,0.000000
+            3.891342,51.506275,0.000000
+            3.894798,51.502800,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

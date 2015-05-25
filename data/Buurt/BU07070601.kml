@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07070601 Hoogewaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.947690,51.933048,0.000000
+            4.939338,51.928692,0.000000
+            4.931944,51.946501,0.000000
+            4.944866,51.948758,0.000000
+            4.950974,51.952476,0.000000
+            4.950208,51.954959,0.000000
+            4.954919,51.955157,0.000000
+            4.956685,51.957099,0.000000
+            4.956538,51.959238,0.000000
+            4.958234,51.958852,0.000000
+            4.959991,51.955431,0.000000
+            4.954269,51.952199,0.000000
+            4.945075,51.946813,0.000000
+            4.947690,51.933048,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

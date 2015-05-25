@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00250003 Niebert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.333935,53.169772,0.000000
+            6.333856,53.166178,0.000000
+            6.336867,53.167053,0.000000
+            6.339434,53.159360,0.000000
+            6.337055,53.159274,0.000000
+            6.334587,53.155143,0.000000
+            6.332287,53.154724,0.000000
+            6.331045,53.153426,0.000000
+            6.331303,53.152100,0.000000
+            6.326562,53.151273,0.000000
+            6.324097,53.148669,0.000000
+            6.311170,53.147254,0.000000
+            6.306999,53.166709,0.000000
+            6.330236,53.174236,0.000000
+            6.334064,53.169822,0.000000
+            6.333935,53.169772,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

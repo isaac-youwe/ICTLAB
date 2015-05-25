@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830309 Verspreide huizen Gaastmeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.518216,52.976827,0.000000
+            5.519525,52.975013,0.000000
+            5.527161,52.976665,0.000000
+            5.539002,52.974024,0.000000
+            5.540634,52.971777,0.000000
+            5.542138,52.971481,0.000000
+            5.551238,52.969304,0.000000
+            5.556571,52.969345,0.000000
+            5.554348,52.962663,0.000000
+            5.555505,52.962536,0.000000
+            5.557440,52.959105,0.000000
+            5.556597,52.956342,0.000000
+            5.553166,52.952619,0.000000
+            5.543473,52.956820,0.000000
+            5.501827,52.966753,0.000000
+            5.492906,52.971255,0.000000
+            5.492908,52.971258,0.000000
+            5.497395,52.980238,0.000000
+            5.497771,52.980623,0.000000
+            5.518285,52.979513,0.000000
+            5.518216,52.976827,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.541583,52.962503,0.000000
+            5.547014,52.961774,0.000000
+            5.548555,52.962486,0.000000
+            5.547185,52.966659,0.000000
+            5.545337,52.968167,0.000000
+            5.540078,52.965738,0.000000
+            5.539279,52.964120,0.000000
+            5.541583,52.962503,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

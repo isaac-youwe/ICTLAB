@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18760402 Laag-Keppel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.229176,51.993317,0.000000
+            6.226783,51.992669,0.000000
+            6.216798,51.997055,0.000000
+            6.214975,51.998639,0.000000
+            6.215809,52.000497,0.000000
+            6.222732,51.998950,0.000000
+            6.227634,51.997533,0.000000
+            6.228289,51.995645,0.000000
+            6.226625,51.995448,0.000000
+            6.229176,51.993317,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

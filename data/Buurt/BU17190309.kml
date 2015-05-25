@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17190309 Verspreide huizen Wagenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.759016,51.656579,0.000000
+            4.757283,51.656385,0.000000
+            4.756281,51.660116,0.000000
+            4.753667,51.669004,0.000000
+            4.773239,51.673130,0.000000
+            4.776153,51.673331,0.000000
+            4.778757,51.667507,0.000000
+            4.781881,51.663833,0.000000
+            4.781500,51.663688,0.000000
+            4.781655,51.663419,0.000000
+            4.768466,51.658656,0.000000
+            4.759016,51.656579,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05300403 Kickers Bloem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.187023,51.838909,0.000000
+            4.187095,51.836213,0.000000
+            4.184241,51.834386,0.000000
+            4.184195,51.834362,0.000000
+            4.182159,51.836657,0.000000
+            4.178139,51.838127,0.000000
+            4.176205,51.836295,0.000000
+            4.172976,51.837707,0.000000
+            4.168931,51.834566,0.000000
+            4.167295,51.835442,0.000000
+            4.164712,51.839580,0.000000
+            4.167097,51.840370,0.000000
+            4.166552,51.840947,0.000000
+            4.168747,51.842375,0.000000
+            4.183586,51.848480,0.000000
+            4.191396,51.843493,0.000000
+            4.191256,51.843448,0.000000
+            4.187023,51.838909,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

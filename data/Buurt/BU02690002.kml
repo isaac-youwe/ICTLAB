@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02690002 Broekdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.949673,52.462046,0.000000
+            5.914075,52.449065,0.000000
+            5.913194,52.449893,0.000000
+            5.904908,52.448532,0.000000
+            5.902541,52.450834,0.000000
+            5.912694,52.454050,0.000000
+            5.924114,52.455792,0.000000
+            5.947144,52.465006,0.000000
+            5.949673,52.462046,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

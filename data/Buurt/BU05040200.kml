@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05040200 Herkingen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.087807,51.714769,0.000000
+            4.091417,51.713470,0.000000
+            4.092085,51.713961,0.000000
+            4.095242,51.713347,0.000000
+            4.093444,51.711371,0.000000
+            4.095243,51.710854,0.000000
+            4.093412,51.706654,0.000000
+            4.092133,51.706640,0.000000
+            4.089291,51.704810,0.000000
+            4.080536,51.707409,0.000000
+            4.080888,51.711011,0.000000
+            4.078907,51.711493,0.000000
+            4.081740,51.713518,0.000000
+            4.084890,51.712132,0.000000
+            4.087807,51.714769,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

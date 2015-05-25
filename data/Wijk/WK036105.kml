@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK036105 Wijk 05 Huiswaard-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.756460,52.640594,0.000000
+            4.746574,52.638604,0.000000
+            4.744600,52.644956,0.000000
+            4.744028,52.646722,0.000000
+            4.752406,52.647596,0.000000
+            4.753111,52.647696,0.000000
+            4.757824,52.648446,0.000000
+            4.764489,52.650301,0.000000
+            4.768835,52.656022,0.000000
+            4.773033,52.663110,0.000000
+            4.774128,52.664946,0.000000
+            4.778111,52.664161,0.000000
+            4.773802,52.655151,0.000000
+            4.773734,52.655066,0.000000
+            4.772349,52.653346,0.000000
+            4.773884,52.648876,0.000000
+            4.769997,52.646662,0.000000
+            4.762527,52.643180,0.000000
+            4.756460,52.640594,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

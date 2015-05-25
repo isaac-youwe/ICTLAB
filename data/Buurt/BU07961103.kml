@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07961103 Willemspoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.288561,51.683442,0.000000
+            5.284621,51.679379,0.000000
+            5.283082,51.680491,0.000000
+            5.272951,51.684078,0.000000
+            5.272130,51.684179,0.000000
+            5.270274,51.687096,0.000000
+            5.272082,51.686906,0.000000
+            5.282111,51.685856,0.000000
+            5.286535,51.684921,0.000000
+            5.288561,51.683442,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

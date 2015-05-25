@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16630201 Pieterburen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.464442,53.399328,0.000000
+            6.459530,53.397766,0.000000
+            6.445980,53.398672,0.000000
+            6.441801,53.400377,0.000000
+            6.440230,53.402288,0.000000
+            6.440873,53.403288,0.000000
+            6.443909,53.403599,0.000000
+            6.456858,53.402126,0.000000
+            6.464389,53.400424,0.000000
+            6.464442,53.399328,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

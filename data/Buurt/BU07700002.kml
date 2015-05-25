@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07700002 Eersel-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.322172,51.352557,0.000000
+            5.316425,51.350402,0.000000
+            5.313732,51.351870,0.000000
+            5.311959,51.352893,0.000000
+            5.315551,51.356364,0.000000
+            5.321208,51.357689,0.000000
+            5.322425,51.355371,0.000000
+            5.322172,51.352557,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

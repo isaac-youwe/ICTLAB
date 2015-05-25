@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05182245 Zeeheldenkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.303564,52.080138,0.000000
+            4.294470,52.076388,0.000000
+            4.291755,52.078611,0.000000
+            4.287528,52.081663,0.000000
+            4.293693,52.084524,0.000000
+            4.300403,52.086895,0.000000
+            4.304139,52.083819,0.000000
+            4.300920,52.082575,0.000000
+            4.303564,52.080138,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

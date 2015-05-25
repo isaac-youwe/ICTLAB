@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17010003 Wittelte</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.309661,52.830197,0.000000
+            6.308066,52.827904,0.000000
+            6.308604,52.826664,0.000000
+            6.314104,52.825000,0.000000
+            6.318161,52.826069,0.000000
+            6.320210,52.824997,0.000000
+            6.317912,52.822835,0.000000
+            6.311022,52.822776,0.000000
+            6.307789,52.820727,0.000000
+            6.306659,52.821309,0.000000
+            6.309539,52.824185,0.000000
+            6.305260,52.827476,0.000000
+            6.297367,52.827710,0.000000
+            6.298314,52.829867,0.000000
+            6.304920,52.829702,0.000000
+            6.307776,52.830479,0.000000
+            6.308324,52.831978,0.000000
+            6.310446,52.831716,0.000000
+            6.311614,52.830450,0.000000
+            6.309661,52.830197,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

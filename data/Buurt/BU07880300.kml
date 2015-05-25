@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07880300 Biezenmortel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.179176,51.629583,0.000000
+            5.181163,51.615499,0.000000
+            5.180804,51.615193,0.000000
+            5.179518,51.615288,0.000000
+            5.177914,51.620895,0.000000
+            5.176286,51.620768,0.000000
+            5.175132,51.627837,0.000000
+            5.179176,51.629583,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

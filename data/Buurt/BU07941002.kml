@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07941002 Leonardus</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.674132,51.483177,0.000000
+            5.673842,51.483172,0.000000
+            5.661135,51.485495,0.000000
+            5.661314,51.486031,0.000000
+            5.662018,51.486999,0.000000
+            5.667646,51.488874,0.000000
+            5.673152,51.486523,0.000000
+            5.676180,51.483743,0.000000
+            5.674132,51.483177,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

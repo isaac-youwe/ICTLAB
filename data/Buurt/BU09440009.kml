@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09440009 Verspreide huizen Bisselt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.901597,51.770203,0.000000
+            5.905892,51.765690,0.000000
+            5.911646,51.762068,0.000000
+            5.913063,51.759365,0.000000
+            5.913021,51.755769,0.000000
+            5.915538,51.752587,0.000000
+            5.909106,51.750688,0.000000
+            5.905630,51.742717,0.000000
+            5.899926,51.744499,0.000000
+            5.894129,51.747720,0.000000
+            5.893872,51.749600,0.000000
+            5.883063,51.762837,0.000000
+            5.879012,51.764278,0.000000
+            5.880461,51.769082,0.000000
+            5.883756,51.765787,0.000000
+            5.889749,51.765777,0.000000
+            5.901311,51.770492,0.000000
+            5.901597,51.770203,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

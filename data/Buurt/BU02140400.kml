@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140400 Ingen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.490844,51.959102,0.000000
+            5.487558,51.954950,0.000000
+            5.483897,51.953580,0.000000
+            5.479292,51.955731,0.000000
+            5.474514,51.955475,0.000000
+            5.479222,51.960947,0.000000
+            5.476845,51.962166,0.000000
+            5.477375,51.962603,0.000000
+            5.480816,51.962906,0.000000
+            5.488649,51.961989,0.000000
+            5.491258,51.961123,0.000000
+            5.490844,51.959102,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

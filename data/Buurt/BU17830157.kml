@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830157 Hoge Bomen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.197436,51.989003,0.000000
+            4.199583,51.987481,0.000000
+            4.206506,51.988705,0.000000
+            4.207291,51.987183,0.000000
+            4.220552,51.988569,0.000000
+            4.220999,51.988606,0.000000
+            4.219018,51.978487,0.000000
+            4.210711,51.978460,0.000000
+            4.209121,51.980043,0.000000
+            4.203075,51.985156,0.000000
+            4.198325,51.986842,0.000000
+            4.195628,51.989294,0.000000
+            4.197436,51.989003,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280600 Staatsliedenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.507511,51.758581,0.000000
+            5.509443,51.756081,0.000000
+            5.511224,51.756427,0.000000
+            5.511790,51.755663,0.000000
+            5.499784,51.752052,0.000000
+            5.496843,51.755706,0.000000
+            5.502315,51.757181,0.000000
+            5.507511,51.758581,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

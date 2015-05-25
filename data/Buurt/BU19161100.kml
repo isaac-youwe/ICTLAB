@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19161100 t Lien</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.405206,52.090150,0.000000
+            4.400172,52.087195,0.000000
+            4.394075,52.091552,0.000000
+            4.396767,52.092907,0.000000
+            4.406042,52.096955,0.000000
+            4.408474,52.096344,0.000000
+            4.411342,52.094867,0.000000
+            4.405206,52.090150,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

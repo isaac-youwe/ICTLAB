@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02740109 Verspreide huizen Rosandepolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.869177,51.973728,0.000000
+            5.867518,51.971713,0.000000
+            5.863133,51.969933,0.000000
+            5.858766,51.969950,0.000000
+            5.854400,51.969968,0.000000
+            5.854159,51.970025,0.000000
+            5.842784,51.972710,0.000000
+            5.835516,51.973637,0.000000
+            5.825327,51.973675,0.000000
+            5.819513,51.971906,0.000000
+            5.818907,51.973443,0.000000
+            5.822533,51.974823,0.000000
+            5.826274,51.975843,0.000000
+            5.842643,51.978585,0.000000
+            5.868006,51.979171,0.000000
+            5.870468,51.975296,0.000000
+            5.869177,51.973728,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

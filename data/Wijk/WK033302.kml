@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK033302 Wijk 02 Oud-Zuilen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.066933,52.133796,0.000000
+            5.075862,52.126795,0.000000
+            5.072352,52.125341,0.000000
+            5.071737,52.125086,0.000000
+            5.070263,52.126880,0.000000
+            5.061533,52.122362,0.000000
+            5.060778,52.122776,0.000000
+            5.047521,52.130052,0.000000
+            5.049424,52.131264,0.000000
+            5.056669,52.134452,0.000000
+            5.054756,52.136940,0.000000
+            5.055017,52.140900,0.000000
+            5.053381,52.142498,0.000000
+            5.060092,52.136281,0.000000
+            5.066933,52.133796,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

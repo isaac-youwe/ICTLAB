@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03310000 Lopik-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.958551,51.977777,0.000000
+            4.960687,51.972988,0.000000
+            4.937340,51.968731,0.000000
+            4.934966,51.973630,0.000000
+            4.932507,51.977272,0.000000
+            4.942204,51.977304,0.000000
+            4.957262,51.979602,0.000000
+            4.958551,51.977777,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

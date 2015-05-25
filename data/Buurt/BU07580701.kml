@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580701 Nieuw Wolfslaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.820807,51.560080,0.000000
+            4.810478,51.558684,0.000000
+            4.807822,51.559945,0.000000
+            4.807920,51.563025,0.000000
+            4.809458,51.564458,0.000000
+            4.811323,51.564802,0.000000
+            4.811683,51.566087,0.000000
+            4.811569,51.567517,0.000000
+            4.815961,51.571423,0.000000
+            4.816387,51.572968,0.000000
+            4.822919,51.571751,0.000000
+            4.821525,51.565947,0.000000
+            4.820807,51.560080,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

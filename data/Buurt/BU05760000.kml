@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05760000 Noordwijkerhout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.492895,52.270206,0.000000
+            4.501421,52.266982,0.000000
+            4.505741,52.263112,0.000000
+            4.505904,52.262183,0.000000
+            4.500612,52.257244,0.000000
+            4.488108,52.248569,0.000000
+            4.485189,52.249954,0.000000
+            4.482042,52.249170,0.000000
+            4.479839,52.249546,0.000000
+            4.490358,52.256754,0.000000
+            4.477892,52.262766,0.000000
+            4.477776,52.263740,0.000000
+            4.487938,52.270036,0.000000
+            4.489855,52.268830,0.000000
+            4.492895,52.270206,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

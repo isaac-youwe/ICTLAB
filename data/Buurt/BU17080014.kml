@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080014 Groot Verlaat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.093602,52.785114,0.000000
+            6.097386,52.780257,0.000000
+            6.098095,52.780421,0.000000
+            6.101566,52.778965,0.000000
+            6.102423,52.777092,0.000000
+            6.086844,52.773212,0.000000
+            6.088013,52.777390,0.000000
+            6.086207,52.784819,0.000000
+            6.093602,52.785114,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

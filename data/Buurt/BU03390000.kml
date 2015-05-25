@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03390000 Renswoude</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.540755,52.078265,0.000000
+            5.540621,52.077520,0.000000
+            5.538807,52.077617,0.000000
+            5.542947,52.075929,0.000000
+            5.550425,52.074396,0.000000
+            5.547376,52.072088,0.000000
+            5.550196,52.070347,0.000000
+            5.547642,52.068016,0.000000
+            5.542629,52.067682,0.000000
+            5.541319,52.068328,0.000000
+            5.541547,52.069526,0.000000
+            5.535431,52.070698,0.000000
+            5.533102,52.070022,0.000000
+            5.530031,52.070364,0.000000
+            5.530856,52.075494,0.000000
+            5.533257,52.077381,0.000000
+            5.532502,52.078804,0.000000
+            5.538680,52.080267,0.000000
+            5.540755,52.078265,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

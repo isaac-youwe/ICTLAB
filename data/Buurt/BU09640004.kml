@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09640004 Rooskenskant</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.049766,51.405561,0.000000
+            6.046874,51.401023,0.000000
+            6.031497,51.394813,0.000000
+            6.027681,51.394727,0.000000
+            6.027277,51.395942,0.000000
+            6.028447,51.403480,0.000000
+            6.027897,51.407093,0.000000
+            6.036024,51.404712,0.000000
+            6.041784,51.407487,0.000000
+            6.049766,51.405561,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

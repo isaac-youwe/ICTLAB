@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05850000 Heinenoord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.475832,51.828914,0.000000
+            4.475654,51.825764,0.000000
+            4.483948,51.824740,0.000000
+            4.486849,51.825238,0.000000
+            4.491633,51.825034,0.000000
+            4.487053,51.822566,0.000000
+            4.473257,51.823961,0.000000
+            4.468192,51.825740,0.000000
+            4.468593,51.827889,0.000000
+            4.472769,51.826920,0.000000
+            4.471639,51.830379,0.000000
+            4.477686,51.829597,0.000000
+            4.477951,51.828955,0.000000
+            4.475832,51.828914,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

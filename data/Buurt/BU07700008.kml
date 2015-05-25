@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07700008 De Hees en Genderweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.315060,51.382204,0.000000
+            5.322700,51.376863,0.000000
+            5.333633,51.381707,0.000000
+            5.335785,51.376591,0.000000
+            5.342505,51.369631,0.000000
+            5.328425,51.365169,0.000000
+            5.317079,51.376798,0.000000
+            5.312858,51.381099,0.000000
+            5.315060,51.382204,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK164006 Wijk 06 Nunhem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.973599,51.244804,0.000000
+            5.968358,51.238191,0.000000
+            5.964413,51.239954,0.000000
+            5.954302,51.242595,0.000000
+            5.955365,51.243667,0.000000
+            5.952437,51.245398,0.000000
+            5.955500,51.248190,0.000000
+            5.963687,51.251071,0.000000
+            5.965104,51.252978,0.000000
+            5.967404,51.251799,0.000000
+            5.968282,51.250307,0.000000
+            5.967684,51.247556,0.000000
+            5.970747,51.246366,0.000000
+            5.973599,51.244804,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

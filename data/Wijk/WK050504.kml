@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK050504 Wijk 04 Land van Valk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.686745,51.798023,0.000000
+            4.679591,51.795688,0.000000
+            4.676967,51.797147,0.000000
+            4.678603,51.802655,0.000000
+            4.678684,51.802958,0.000000
+            4.679054,51.804148,0.000000
+            4.676877,51.806286,0.000000
+            4.679851,51.806208,0.000000
+            4.681035,51.806063,0.000000
+            4.688197,51.805148,0.000000
+            4.689726,51.804734,0.000000
+            4.697848,51.804001,0.000000
+            4.697018,51.803298,0.000000
+            4.692713,51.799636,0.000000
+            4.686745,51.798023,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

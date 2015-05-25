@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06890002 Giessen en Oude-Bovenkerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.879040,51.847828,0.000000
+            4.877338,51.846367,0.000000
+            4.876170,51.848123,0.000000
+            4.875518,51.850320,0.000000
+            4.876766,51.853199,0.000000
+            4.884365,51.856211,0.000000
+            4.885959,51.852526,0.000000
+            4.877830,51.850202,0.000000
+            4.879040,51.847828,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

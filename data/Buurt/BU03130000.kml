@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03130000 Bunschoten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.377961,52.242840,0.000000
+            5.374647,52.229182,0.000000
+            5.376385,52.229023,0.000000
+            5.376136,52.226726,0.000000
+            5.357615,52.228210,0.000000
+            5.359175,52.235650,0.000000
+            5.365874,52.234669,0.000000
+            5.366743,52.233801,0.000000
+            5.369163,52.234130,0.000000
+            5.369908,52.236862,0.000000
+            5.368960,52.239411,0.000000
+            5.370739,52.241940,0.000000
+            5.372927,52.242872,0.000000
+            5.372749,52.245886,0.000000
+            5.378135,52.244791,0.000000
+            5.377961,52.242840,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01091003 Binnenvree Buitenvree Pikveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.757537,52.657731,0.000000
+            6.754685,52.654460,0.000000
+            6.748773,52.655958,0.000000
+            6.747181,52.658540,0.000000
+            6.745089,52.658601,0.000000
+            6.745319,52.660820,0.000000
+            6.748517,52.662873,0.000000
+            6.758221,52.669165,0.000000
+            6.761503,52.665672,0.000000
+            6.760922,52.662240,0.000000
+            6.757537,52.657731,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

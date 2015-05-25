@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15090009 Verspreide huizen Ulft</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.377654,51.910728,0.000000
+            6.381857,51.907655,0.000000
+            6.383118,51.904796,0.000000
+            6.383206,51.902895,0.000000
+            6.387371,51.896391,0.000000
+            6.386822,51.894716,0.000000
+            6.383091,51.897280,0.000000
+            6.374741,51.902988,0.000000
+            6.367469,51.905682,0.000000
+            6.366672,51.905799,0.000000
+            6.363602,51.902168,0.000000
+            6.370082,51.899498,0.000000
+            6.369095,51.891828,0.000000
+            6.365850,51.889917,0.000000
+            6.356864,51.898863,0.000000
+            6.358295,51.907296,0.000000
+            6.359741,51.909137,0.000000
+            6.360832,51.908618,0.000000
+            6.368908,51.909289,0.000000
+            6.377654,51.910728,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

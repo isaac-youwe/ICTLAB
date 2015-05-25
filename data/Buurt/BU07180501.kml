@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07180501 Zeewijksingel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.597757,51.456940,0.000000
+            3.595294,51.456827,0.000000
+            3.590138,51.457830,0.000000
+            3.592854,51.462880,0.000000
+            3.593248,51.463623,0.000000
+            3.598622,51.460209,0.000000
+            3.604991,51.459272,0.000000
+            3.597757,51.456940,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

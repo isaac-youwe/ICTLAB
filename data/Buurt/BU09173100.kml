@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09173100 Musschemig</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.972064,50.895127,0.000000
+            5.972057,50.893682,0.000000
+            5.967301,50.896770,0.000000
+            5.963334,50.901462,0.000000
+            5.965290,50.902412,0.000000
+            5.970987,50.902344,0.000000
+            5.971237,50.902114,0.000000
+            5.972064,50.895127,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

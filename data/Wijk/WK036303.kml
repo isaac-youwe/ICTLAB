@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK036303 Stadsdeel Oud-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.881986,52.362073,0.000000
+            4.865482,52.358800,0.000000
+            4.865370,52.359012,0.000000
+            4.854717,52.356298,0.000000
+            4.854008,52.356425,0.000000
+            4.854861,52.357856,0.000000
+            4.857303,52.361628,0.000000
+            4.859266,52.363748,0.000000
+            4.860023,52.364666,0.000000
+            4.866273,52.371610,0.000000
+            4.867280,52.371811,0.000000
+            4.875302,52.373432,0.000000
+            4.874429,52.371902,0.000000
+            4.876633,52.368505,0.000000
+            4.877463,52.366805,0.000000
+            4.879193,52.364981,0.000000
+            4.879294,52.364350,0.000000
+            4.881986,52.362073,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

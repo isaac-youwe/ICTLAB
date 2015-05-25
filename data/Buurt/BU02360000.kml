@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02360000 Geldermalsen-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.309874,51.884683,0.000000
+            5.309129,51.881105,0.000000
+            5.290113,51.882483,0.000000
+            5.288855,51.885235,0.000000
+            5.294716,51.886246,0.000000
+            5.299551,51.889408,0.000000
+            5.300425,51.892277,0.000000
+            5.301139,51.891627,0.000000
+            5.305606,51.887287,0.000000
+            5.308358,51.886242,0.000000
+            5.309874,51.884683,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

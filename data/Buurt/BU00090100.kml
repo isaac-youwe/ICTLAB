@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00090100 Ten Post</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.735301,53.294970,0.000000
+            6.725879,53.292899,0.000000
+            6.722461,53.294587,0.000000
+            6.721807,53.296354,0.000000
+            6.722732,53.302404,0.000000
+            6.724394,53.304282,0.000000
+            6.731948,53.300919,0.000000
+            6.737800,53.297137,0.000000
+            6.735301,53.294970,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

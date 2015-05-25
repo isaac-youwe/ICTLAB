@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04760004 t Zand</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.782932,52.851137,0.000000
+            4.794857,52.847602,0.000000
+            4.802196,52.841922,0.000000
+            4.770028,52.827287,0.000000
+            4.777566,52.822266,0.000000
+            4.751968,52.810446,0.000000
+            4.738495,52.811412,0.000000
+            4.737695,52.812476,0.000000
+            4.740720,52.816846,0.000000
+            4.730387,52.812380,0.000000
+            4.712167,52.818524,0.000000
+            4.710079,52.819902,0.000000
+            4.709614,52.821832,0.000000
+            4.719077,52.833834,0.000000
+            4.729275,52.841786,0.000000
+            4.735065,52.845183,0.000000
+            4.759352,52.848681,0.000000
+            4.759216,52.848318,0.000000
+            4.782932,52.851137,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

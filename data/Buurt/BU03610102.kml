@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610102 Staatsliedenkwartier en Landstraten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.751630,52.625087,0.000000
+            4.747786,52.620511,0.000000
+            4.746405,52.621290,0.000000
+            4.747400,52.623029,0.000000
+            4.746060,52.624609,0.000000
+            4.744158,52.625152,0.000000
+            4.746595,52.627662,0.000000
+            4.752932,52.626625,0.000000
+            4.751630,52.625087,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16210317 Bolwerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.463780,51.984939,0.000000
+            4.458629,51.982958,0.000000
+            4.457927,51.984466,0.000000
+            4.453020,51.982803,0.000000
+            4.447989,51.981299,0.000000
+            4.447978,51.984292,0.000000
+            4.453563,51.986563,0.000000
+            4.458333,51.986589,0.000000
+            4.462830,51.985408,0.000000
+            4.463780,51.984939,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140402 Verlengde-Oosterdiep</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.044395,52.750218,0.000000
+            7.042757,52.729528,0.000000
+            7.040849,52.730438,0.000000
+            7.040877,52.731438,0.000000
+            7.038229,52.731624,0.000000
+            7.039701,52.750148,0.000000
+            7.044395,52.750218,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.044454,52.762841,0.000000
+            7.040489,52.762780,0.000000
+            7.041951,52.779935,0.000000
+            7.045928,52.780003,0.000000
+            7.044454,52.762841,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

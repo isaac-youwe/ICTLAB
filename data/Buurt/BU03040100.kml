@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03040100 Waardenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.268762,51.830661,0.000000
+            5.256537,51.827698,0.000000
+            5.252239,51.832246,0.000000
+            5.249431,51.835263,0.000000
+            5.255191,51.836419,0.000000
+            5.257797,51.838332,0.000000
+            5.258266,51.836108,0.000000
+            5.266152,51.835857,0.000000
+            5.265356,51.833334,0.000000
+            5.268051,51.832664,0.000000
+            5.268762,51.830661,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

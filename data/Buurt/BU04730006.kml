@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04730006 Letterkundigenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.542306,52.374605,0.000000
+            4.536785,52.374317,0.000000
+            4.531009,52.375789,0.000000
+            4.533611,52.379402,0.000000
+            4.540139,52.377820,0.000000
+            4.543078,52.377383,0.000000
+            4.545787,52.374891,0.000000
+            4.542306,52.374605,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

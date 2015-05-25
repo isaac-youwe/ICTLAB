@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08930301 Well waaronder Elsteren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.099417,51.548013,0.000000
+            6.080750,51.547231,0.000000
+            6.076439,51.548156,0.000000
+            6.072140,51.549979,0.000000
+            6.071861,51.550156,0.000000
+            6.070967,51.550724,0.000000
+            6.079605,51.559112,0.000000
+            6.081409,51.558155,0.000000
+            6.093397,51.552958,0.000000
+            6.098428,51.551183,0.000000
+            6.099417,51.548013,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

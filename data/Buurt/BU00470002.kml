@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00470002 Veendam-Middenweg en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.895610,53.123908,0.000000
+            6.894457,53.119081,0.000000
+            6.890004,53.119256,0.000000
+            6.889802,53.118184,0.000000
+            6.877488,53.118861,0.000000
+            6.876908,53.117833,0.000000
+            6.867218,53.118395,0.000000
+            6.866046,53.121070,0.000000
+            6.865374,53.124522,0.000000
+            6.865420,53.124796,0.000000
+            6.873820,53.123847,0.000000
+            6.882844,53.125532,0.000000
+            6.883712,53.125522,0.000000
+            6.884337,53.125514,0.000000
+            6.885955,53.129089,0.000000
+            6.894848,53.128531,0.000000
+            6.895610,53.123908,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

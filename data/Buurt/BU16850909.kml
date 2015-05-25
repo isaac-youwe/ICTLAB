@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16850909 Verspreide huizen Peel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.735666,51.673726,0.000000
+            5.738467,51.662031,0.000000
+            5.738542,51.661824,0.000000
+            5.742711,51.650332,0.000000
+            5.734054,51.652156,0.000000
+            5.732650,51.657554,0.000000
+            5.737014,51.661137,0.000000
+            5.734192,51.670135,0.000000
+            5.731328,51.673739,0.000000
+            5.716850,51.671084,0.000000
+            5.716463,51.671020,0.000000
+            5.716304,51.671331,0.000000
+            5.712229,51.677316,0.000000
+            5.704083,51.685951,0.000000
+            5.709304,51.688731,0.000000
+            5.703214,51.692066,0.000000
+            5.708359,51.695875,0.000000
+            5.714292,51.697916,0.000000
+            5.734247,51.677326,0.000000
+            5.735498,51.674152,0.000000
+            5.735666,51.673726,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15980609 Verspreide huizen in Berkmeer polder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.882518,52.680179,0.000000
+            4.878365,52.680110,0.000000
+            4.875429,52.686191,0.000000
+            4.879846,52.688008,0.000000
+            4.881325,52.688014,0.000000
+            4.888690,52.690742,0.000000
+            4.891597,52.695248,0.000000
+            4.900444,52.697981,0.000000
+            4.910780,52.699820,0.000000
+            4.915229,52.698939,0.000000
+            4.918207,52.697153,0.000000
+            4.916782,52.693594,0.000000
+            4.916766,52.693552,0.000000
+            4.906426,52.687982,0.000000
+            4.882518,52.680179,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

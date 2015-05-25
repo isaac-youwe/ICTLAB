@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01710001 Espelervaart-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.745997,52.708823,0.000000
+            5.740666,52.707742,0.000000
+            5.740022,52.708671,0.000000
+            5.732871,52.708751,0.000000
+            5.733123,52.716360,0.000000
+            5.739822,52.716145,0.000000
+            5.743024,52.714941,0.000000
+            5.745997,52.708823,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

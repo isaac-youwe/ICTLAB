@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK020204 Wijk 04 Presikhaaf West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.942238,51.987290,0.000000
+            5.945334,51.983177,0.000000
+            5.947505,51.981340,0.000000
+            5.955884,51.983792,0.000000
+            5.963695,51.976435,0.000000
+            5.955798,51.971943,0.000000
+            5.947142,51.977640,0.000000
+            5.943990,51.978909,0.000000
+            5.935905,51.981180,0.000000
+            5.926547,51.983511,0.000000
+            5.931276,51.983426,0.000000
+            5.937737,51.985535,0.000000
+            5.942238,51.987290,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

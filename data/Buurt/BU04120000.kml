@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04120000 Winkel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.903223,52.769001,0.000000
+            4.917413,52.759852,0.000000
+            4.932254,52.751849,0.000000
+            4.922584,52.747785,0.000000
+            4.913087,52.745200,0.000000
+            4.908147,52.747011,0.000000
+            4.905195,52.745308,0.000000
+            4.903899,52.745542,0.000000
+            4.897718,52.749365,0.000000
+            4.894986,52.750180,0.000000
+            4.893279,52.753201,0.000000
+            4.883468,52.757655,0.000000
+            4.885951,52.761142,0.000000
+            4.890017,52.764123,0.000000
+            4.893393,52.765753,0.000000
+            4.894910,52.764796,0.000000
+            4.903223,52.769001,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

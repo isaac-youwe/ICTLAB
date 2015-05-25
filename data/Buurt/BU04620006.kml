@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04620006 Oosterklief en Westerklief</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.974347,52.891580,0.000000
+            4.968151,52.889679,0.000000
+            4.966665,52.889674,0.000000
+            4.963675,52.891461,0.000000
+            4.939908,52.890476,0.000000
+            4.939422,52.890326,0.000000
+            4.937323,52.891749,0.000000
+            4.944125,52.895577,0.000000
+            4.943972,52.898486,0.000000
+            4.963347,52.904135,0.000000
+            4.970176,52.899177,0.000000
+            4.969998,52.896688,0.000000
+            4.974347,52.891580,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

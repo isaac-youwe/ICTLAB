@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04250010 Rembrandtpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.171245,52.289002,0.000000
+            5.177624,52.284249,0.000000
+            5.177634,52.284250,0.000000
+            5.177601,52.283525,0.000000
+            5.175268,52.282804,0.000000
+            5.174682,52.282623,0.000000
+            5.167604,52.280872,0.000000
+            5.167250,52.280912,0.000000
+            5.167230,52.280908,0.000000
+            5.164965,52.284966,0.000000
+            5.162290,52.284975,0.000000
+            5.162043,52.282979,0.000000
+            5.161973,52.283174,0.000000
+            5.161930,52.283295,0.000000
+            5.161929,52.283295,0.000000
+            5.160487,52.287246,0.000000
+            5.161475,52.287189,0.000000
+            5.167430,52.287550,0.000000
+            5.171245,52.289002,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

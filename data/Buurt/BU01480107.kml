@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01480107 Verspreide huizen Rechteren-Hessum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.315574,52.476721,0.000000
+            6.302210,52.473646,0.000000
+            6.300413,52.487514,0.000000
+            6.287142,52.498737,0.000000
+            6.283231,52.504971,0.000000
+            6.289485,52.506232,0.000000
+            6.291529,52.507915,0.000000
+            6.294660,52.514753,0.000000
+            6.298495,52.517530,0.000000
+            6.303746,52.519554,0.000000
+            6.321650,52.522027,0.000000
+            6.331886,52.522036,0.000000
+            6.331796,52.521745,0.000000
+            6.331795,52.521745,0.000000
+            6.333076,52.512746,0.000000
+            6.334433,52.507342,0.000000
+            6.344198,52.482095,0.000000
+            6.344194,52.481870,0.000000
+            6.344169,52.480734,0.000000
+            6.330119,52.478000,0.000000
+            6.315574,52.476721,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

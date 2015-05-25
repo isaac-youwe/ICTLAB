@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04980302 Hem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.187786,52.664927,0.000000
+            5.187949,52.663049,0.000000
+            5.196695,52.663697,0.000000
+            5.196159,52.661005,0.000000
+            5.197782,52.660559,0.000000
+            5.192493,52.660203,0.000000
+            5.187430,52.658847,0.000000
+            5.183449,52.655702,0.000000
+            5.180702,52.657895,0.000000
+            5.169986,52.655271,0.000000
+            5.169156,52.652973,0.000000
+            5.167542,52.652741,0.000000
+            5.167097,52.652802,0.000000
+            5.167279,52.656595,0.000000
+            5.184154,52.662711,0.000000
+            5.184111,52.664987,0.000000
+            5.187786,52.664927,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

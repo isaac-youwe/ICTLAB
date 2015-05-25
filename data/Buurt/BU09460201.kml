@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09460201 Ospeldijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.826591,51.325467,0.000000
+            5.804429,51.310100,0.000000
+            5.802055,51.311455,0.000000
+            5.813868,51.319458,0.000000
+            5.812393,51.320395,0.000000
+            5.815716,51.323037,0.000000
+            5.817738,51.322032,0.000000
+            5.824350,51.326533,0.000000
+            5.826591,51.325467,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

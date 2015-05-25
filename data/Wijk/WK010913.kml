@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK010913 Wijk 13 Weijerswold</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.784483,52.664219,0.000000
+            6.819338,52.663577,0.000000
+            6.820781,52.663611,0.000000
+            6.821825,52.648103,0.000000
+            6.807490,52.649149,0.000000
+            6.806071,52.650964,0.000000
+            6.803145,52.651897,0.000000
+            6.794250,52.651104,0.000000
+            6.789875,52.652954,0.000000
+            6.787140,52.652572,0.000000
+            6.783331,52.660819,0.000000
+            6.784521,52.661193,0.000000
+            6.784483,52.664219,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

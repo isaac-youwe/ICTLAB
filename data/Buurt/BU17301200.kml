@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17301200 Yde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.595470,53.119533,0.000000
+            6.597529,53.116555,0.000000
+            6.599152,53.110963,0.000000
+            6.597803,53.111707,0.000000
+            6.593641,53.111800,0.000000
+            6.586382,53.108685,0.000000
+            6.575695,53.110634,0.000000
+            6.575680,53.111532,0.000000
+            6.577579,53.111376,0.000000
+            6.581628,53.112559,0.000000
+            6.580949,53.113732,0.000000
+            6.586901,53.114828,0.000000
+            6.586381,53.117716,0.000000
+            6.588384,53.117992,0.000000
+            6.590560,53.117200,0.000000
+            6.594033,53.119501,0.000000
+            6.595470,53.119533,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

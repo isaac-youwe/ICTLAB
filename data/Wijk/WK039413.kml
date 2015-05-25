@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK039413 Wijk 13 Cruquius</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.654058,52.341605,0.000000
+            4.656780,52.338731,0.000000
+            4.670927,52.331969,0.000000
+            4.659189,52.323802,0.000000
+            4.651484,52.327823,0.000000
+            4.645292,52.331054,0.000000
+            4.642973,52.329678,0.000000
+            4.637309,52.332529,0.000000
+            4.633307,52.329986,0.000000
+            4.631198,52.331060,0.000000
+            4.628329,52.329102,0.000000
+            4.620243,52.333526,0.000000
+            4.629986,52.337020,0.000000
+            4.640227,52.338883,0.000000
+            4.647534,52.340727,0.000000
+            4.653214,52.342511,0.000000
+            4.654058,52.341605,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.640214,52.335118,0.000000
+            4.646355,52.332029,0.000000
+            4.649128,52.330633,0.000000
+            4.656025,52.335245,0.000000
+            4.649219,52.338742,0.000000
+            4.643485,52.337395,0.000000
+            4.640214,52.335118,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

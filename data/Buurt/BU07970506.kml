@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07970506 Doeveren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.105114,51.723821,0.000000
+            5.104776,51.722669,0.000000
+            5.101634,51.723745,0.000000
+            5.098484,51.722411,0.000000
+            5.094596,51.722896,0.000000
+            5.091554,51.721799,0.000000
+            5.093181,51.718861,0.000000
+            5.083248,51.720596,0.000000
+            5.081789,51.722390,0.000000
+            5.088990,51.725999,0.000000
+            5.089002,51.726005,0.000000
+            5.101553,51.731246,0.000000
+            5.105114,51.723821,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03580202 Kompolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.801152,52.266080,0.000000
+            4.800894,52.265839,0.000000
+            4.789649,52.277545,0.000000
+            4.790903,52.277717,0.000000
+            4.795465,52.273005,0.000000
+            4.801209,52.267058,0.000000
+            4.801140,52.266979,0.000000
+            4.801152,52.266080,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

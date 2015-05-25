@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05050000 Nieuwe Haven en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.664343,51.816674,0.000000
+            4.658341,51.814393,0.000000
+            4.657262,51.815585,0.000000
+            4.657615,51.815809,0.000000
+            4.658706,51.816498,0.000000
+            4.659051,51.816716,0.000000
+            4.663359,51.819440,0.000000
+            4.669928,51.820296,0.000000
+            4.665680,51.817342,0.000000
+            4.664343,51.816674,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

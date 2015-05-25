@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02281202 De Dreven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.647949,52.020269,0.000000
+            5.647063,52.018732,0.000000
+            5.639410,52.020489,0.000000
+            5.634428,52.021667,0.000000
+            5.636333,52.023693,0.000000
+            5.647802,52.024144,0.000000
+            5.647913,52.023776,0.000000
+            5.649306,52.020563,0.000000
+            5.647949,52.020269,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

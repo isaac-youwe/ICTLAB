@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK022804 Wijk 04 Kernhem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.648960,52.054414,0.000000
+            5.649942,52.050601,0.000000
+            5.642387,52.049550,0.000000
+            5.636279,52.048231,0.000000
+            5.630488,52.047068,0.000000
+            5.623442,52.045876,0.000000
+            5.621098,52.047516,0.000000
+            5.617886,52.053955,0.000000
+            5.628625,52.053124,0.000000
+            5.635505,52.053443,0.000000
+            5.633669,52.056830,0.000000
+            5.637616,52.057775,0.000000
+            5.642336,52.058479,0.000000
+            5.646729,52.056278,0.000000
+            5.648960,52.054414,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

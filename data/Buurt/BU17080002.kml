@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080002 Steenwijk West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.098207,52.784099,0.000000
+            6.100554,52.783766,0.000000
+            6.102446,52.784055,0.000000
+            6.102498,52.785293,0.000000
+            6.105105,52.785747,0.000000
+            6.111894,52.784523,0.000000
+            6.113557,52.785453,0.000000
+            6.113963,52.785301,0.000000
+            6.116295,52.783014,0.000000
+            6.116012,52.780590,0.000000
+            6.111951,52.779595,0.000000
+            6.111497,52.780358,0.000000
+            6.101566,52.778965,0.000000
+            6.098095,52.780421,0.000000
+            6.094282,52.785347,0.000000
+            6.099353,52.786467,0.000000
+            6.098207,52.784099,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK016308 Wijk 08 Daarle</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.564877,52.444990,0.000000
+            6.573465,52.423390,0.000000
+            6.572317,52.423401,0.000000
+            6.576558,52.417066,0.000000
+            6.516402,52.406048,0.000000
+            6.511556,52.408450,0.000000
+            6.505264,52.427051,0.000000
+            6.502209,52.430005,0.000000
+            6.500353,52.438508,0.000000
+            6.510915,52.437484,0.000000
+            6.524220,52.440054,0.000000
+            6.527184,52.440924,0.000000
+            6.530172,52.442693,0.000000
+            6.531735,52.446274,0.000000
+            6.537712,52.449812,0.000000
+            6.543643,52.451552,0.000000
+            6.547614,52.450781,0.000000
+            6.558282,52.448711,0.000000
+            6.561950,52.447164,0.000000
+            6.564877,52.444990,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

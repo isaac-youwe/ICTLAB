@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03580004 Hornmeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.789145,52.257756,0.000000
+            4.769623,52.249045,0.000000
+            4.759327,52.251150,0.000000
+            4.757439,52.256800,0.000000
+            4.760442,52.257065,0.000000
+            4.766612,52.259583,0.000000
+            4.779006,52.264182,0.000000
+            4.789145,52.257756,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

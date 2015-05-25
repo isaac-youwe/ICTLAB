@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600307 Hoogenweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.654620,52.551239,0.000000
+            6.650528,52.549274,0.000000
+            6.638840,52.553040,0.000000
+            6.643922,52.568848,0.000000
+            6.659243,52.583296,0.000000
+            6.665346,52.579084,0.000000
+            6.678597,52.577588,0.000000
+            6.680490,52.576656,0.000000
+            6.680158,52.575271,0.000000
+            6.683853,52.573796,0.000000
+            6.676319,52.564999,0.000000
+            6.663001,52.562491,0.000000
+            6.657878,52.556094,0.000000
+            6.654667,52.553894,0.000000
+            6.654620,52.551239,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

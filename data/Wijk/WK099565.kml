@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK099565 Gebied 65 Lelystad-Zuid Flevopoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.481387,52.493151,0.000000
+            5.485269,52.492026,0.000000
+            5.491757,52.488027,0.000000
+            5.497296,52.484336,0.000000
+            5.503194,52.480455,0.000000
+            5.486765,52.472595,0.000000
+            5.478127,52.468109,0.000000
+            5.469758,52.463295,0.000000
+            5.438260,52.443234,0.000000
+            5.419003,52.457807,0.000000
+            5.417732,52.460206,0.000000
+            5.418087,52.472373,0.000000
+            5.414616,52.477501,0.000000
+            5.418869,52.478798,0.000000
+            5.430097,52.485415,0.000000
+            5.432445,52.486803,0.000000
+            5.444338,52.493830,0.000000
+            5.449765,52.492261,0.000000
+            5.472894,52.494079,0.000000
+            5.481387,52.493151,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

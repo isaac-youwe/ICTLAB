@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950004 Randenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.676879,52.065837,0.000000
+            4.678277,52.060200,0.000000
+            4.676684,52.060235,0.000000
+            4.674816,52.056704,0.000000
+            4.670301,52.055617,0.000000
+            4.669745,52.055905,0.000000
+            4.667752,52.056505,0.000000
+            4.663884,52.057667,0.000000
+            4.663869,52.058566,0.000000
+            4.663757,52.058701,0.000000
+            4.659407,52.063932,0.000000
+            4.665240,52.063968,0.000000
+            4.665211,52.065766,0.000000
+            4.676879,52.065837,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

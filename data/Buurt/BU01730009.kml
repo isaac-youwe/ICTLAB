@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01730009 De Thij</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.917358,52.315085,0.000000
+            6.910829,52.307583,0.000000
+            6.900441,52.310987,0.000000
+            6.877457,52.312261,0.000000
+            6.880549,52.319229,0.000000
+            6.886158,52.321196,0.000000
+            6.887972,52.321832,0.000000
+            6.894733,52.325007,0.000000
+            6.897980,52.323993,0.000000
+            6.907795,52.317745,0.000000
+            6.906312,52.317549,0.000000
+            6.917358,52.315085,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

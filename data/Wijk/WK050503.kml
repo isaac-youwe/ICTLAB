@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK050503 Wijk 03 Nieuw-krispijn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.678603,51.802655,0.000000
+            4.676967,51.797147,0.000000
+            4.674354,51.798192,0.000000
+            4.667460,51.797351,0.000000
+            4.666703,51.798378,0.000000
+            4.666220,51.799267,0.000000
+            4.663736,51.803692,0.000000
+            4.661563,51.806907,0.000000
+            4.661656,51.808236,0.000000
+            4.662476,51.809179,0.000000
+            4.662655,51.807912,0.000000
+            4.673893,51.806630,0.000000
+            4.676877,51.806286,0.000000
+            4.679054,51.804148,0.000000
+            4.678684,51.802958,0.000000
+            4.678603,51.802655,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

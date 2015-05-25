@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080701 Moespot-Leeuwte</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.982967,52.685520,0.000000
+            5.970920,52.684063,0.000000
+            5.957197,52.682805,0.000000
+            5.946194,52.684114,0.000000
+            5.946283,52.684181,0.000000
+            5.949264,52.685964,0.000000
+            5.952211,52.685052,0.000000
+            5.962634,52.690395,0.000000
+            5.965640,52.693975,0.000000
+            5.965699,52.698469,0.000000
+            5.958372,52.703897,0.000000
+            5.957786,52.704623,0.000000
+            5.980581,52.705006,0.000000
+            5.982967,52.685520,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

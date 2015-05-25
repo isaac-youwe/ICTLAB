@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420102 Veerplein - Oostkeetshaven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.669928,51.820296,0.000000
+            4.663359,51.819440,0.000000
+            4.659051,51.816716,0.000000
+            4.658706,51.816498,0.000000
+            4.657276,51.817449,0.000000
+            4.656235,51.818213,0.000000
+            4.659755,51.820661,0.000000
+            4.660139,51.820948,0.000000
+            4.661929,51.819886,0.000000
+            4.662237,51.819707,0.000000
+            4.663442,51.820262,0.000000
+            4.666962,51.822787,0.000000
+            4.667905,51.825579,0.000000
+            4.669075,51.824869,0.000000
+            4.671787,51.821589,0.000000
+            4.672033,51.821291,0.000000
+            4.670597,51.820383,0.000000
+            4.669928,51.820296,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17350603 t Kip</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.703951,52.260820,0.000000
+            6.701520,52.260222,0.000000
+            6.702615,52.264229,0.000000
+            6.699471,52.267881,0.000000
+            6.698565,52.268545,0.000000
+            6.710096,52.268563,0.000000
+            6.709684,52.267299,0.000000
+            6.711269,52.265970,0.000000
+            6.709115,52.264498,0.000000
+            6.710239,52.261893,0.000000
+            6.706745,52.261928,0.000000
+            6.703951,52.260820,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

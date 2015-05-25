@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00240202 Huizinge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.679069,53.344793,0.000000
+            6.673464,53.342885,0.000000
+            6.671553,53.343469,0.000000
+            6.670824,53.347212,0.000000
+            6.675512,53.348286,0.000000
+            6.679693,53.347618,0.000000
+            6.680272,53.346547,0.000000
+            6.679069,53.344793,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

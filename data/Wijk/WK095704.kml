@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK095704 Wijk 04 Donderberg en Roosendael</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.014619,51.183254,0.000000
+            6.012366,51.178184,0.000000
+            6.007742,51.179344,0.000000
+            6.004794,51.181890,0.000000
+            6.003010,51.184462,0.000000
+            6.005290,51.192620,0.000000
+            6.013309,51.191752,0.000000
+            6.010406,51.184358,0.000000
+            6.014869,51.183816,0.000000
+            6.014619,51.183254,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17350002 Bungalow-wijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.573905,52.237975,0.000000
+            6.576431,52.235614,0.000000
+            6.576448,52.233613,0.000000
+            6.567865,52.234977,0.000000
+            6.566755,52.235353,0.000000
+            6.570249,52.237832,0.000000
+            6.571323,52.236853,0.000000
+            6.573905,52.237975,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

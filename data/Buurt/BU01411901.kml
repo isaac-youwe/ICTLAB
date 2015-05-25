@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411901 Kanaalzijde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.617116,52.334209,0.000000
+            6.611100,52.332153,0.000000
+            6.610970,52.332214,0.000000
+            6.605151,52.334072,0.000000
+            6.604763,52.334506,0.000000
+            6.599812,52.340025,0.000000
+            6.616646,52.340516,0.000000
+            6.620470,52.341440,0.000000
+            6.625778,52.344018,0.000000
+            6.627714,52.341213,0.000000
+            6.629190,52.340606,0.000000
+            6.637863,52.340333,0.000000
+            6.637933,52.338467,0.000000
+            6.626338,52.337764,0.000000
+            6.626415,52.335037,0.000000
+            6.623973,52.334490,0.000000
+            6.617116,52.334209,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

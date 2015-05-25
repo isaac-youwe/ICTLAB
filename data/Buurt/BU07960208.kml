@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960208 Eikendonk en Kloosterstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.355393,51.674241,0.000000
+            5.353949,51.671543,0.000000
+            5.343832,51.667045,0.000000
+            5.340942,51.666145,0.000000
+            5.341291,51.665928,0.000000
+            5.342094,51.665155,0.000000
+            5.339498,51.664347,0.000000
+            5.327921,51.673331,0.000000
+            5.326950,51.673028,0.000000
+            5.328299,51.673860,0.000000
+            5.337488,51.676109,0.000000
+            5.342851,51.677503,0.000000
+            5.345343,51.679344,0.000000
+            5.347700,51.683894,0.000000
+            5.356748,51.682314,0.000000
+            5.352495,51.681431,0.000000
+            5.351053,51.676936,0.000000
+            5.355276,51.674313,0.000000
+            5.355393,51.674241,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

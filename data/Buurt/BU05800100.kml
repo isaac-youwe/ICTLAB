@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05800100 Den Bommel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.269988,51.720289,0.000000
+            4.276466,51.718651,0.000000
+            4.280040,51.718714,0.000000
+            4.280986,51.720342,0.000000
+            4.289553,51.718657,0.000000
+            4.290329,51.712101,0.000000
+            4.280395,51.714970,0.000000
+            4.278763,51.714812,0.000000
+            4.277727,51.713510,0.000000
+            4.273153,51.713709,0.000000
+            4.273865,51.717646,0.000000
+            4.256251,51.717160,0.000000
+            4.255160,51.719819,0.000000
+            4.269988,51.720289,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

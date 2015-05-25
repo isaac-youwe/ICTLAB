@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16630300 Kloosterburen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.398484,53.385641,0.000000
+            6.393846,53.383502,0.000000
+            6.388995,53.384410,0.000000
+            6.386725,53.386357,0.000000
+            6.392807,53.392648,0.000000
+            6.394438,53.392576,0.000000
+            6.397025,53.390960,0.000000
+            6.400169,53.387864,0.000000
+            6.398484,53.385641,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

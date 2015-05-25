@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00180604 Polder Wolfsbarge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.747137,53.117674,0.000000
+            6.743152,53.116610,0.000000
+            6.737701,53.119167,0.000000
+            6.723397,53.119991,0.000000
+            6.721316,53.120110,0.000000
+            6.720508,53.125484,0.000000
+            6.722729,53.132079,0.000000
+            6.744878,53.130314,0.000000
+            6.743778,53.125880,0.000000
+            6.746364,53.125273,0.000000
+            6.747137,53.117674,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

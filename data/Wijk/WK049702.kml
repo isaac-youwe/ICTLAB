@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK049702 Wijk 02 Bodegraven Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.761181,52.080684,0.000000
+            4.760638,52.078584,0.000000
+            4.748919,52.080873,0.000000
+            4.742855,52.082301,0.000000
+            4.738385,52.084369,0.000000
+            4.737815,52.084980,0.000000
+            4.740866,52.086829,0.000000
+            4.743210,52.085474,0.000000
+            4.749887,52.084437,0.000000
+            4.756953,52.082138,0.000000
+            4.761181,52.080684,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

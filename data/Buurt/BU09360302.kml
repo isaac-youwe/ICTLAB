@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09360302 Noorbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.821384,50.773337,0.000000
+            5.827496,50.770608,0.000000
+            5.823168,50.768386,0.000000
+            5.809923,50.765166,0.000000
+            5.806013,50.768533,0.000000
+            5.804065,50.771837,0.000000
+            5.807180,50.773300,0.000000
+            5.814013,50.772299,0.000000
+            5.821384,50.773337,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

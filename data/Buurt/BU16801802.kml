@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16801802 Nieuwediep</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.843103,53.052276,0.000000
+            6.862047,53.041300,0.000000
+            6.897045,53.018392,0.000000
+            6.897381,53.018169,0.000000
+            6.894193,53.017472,0.000000
+            6.852120,53.044385,0.000000
+            6.849794,53.043151,0.000000
+            6.847131,53.044659,0.000000
+            6.849610,53.045882,0.000000
+            6.844838,53.048704,0.000000
+            6.840741,53.051204,0.000000
+            6.843103,53.052276,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

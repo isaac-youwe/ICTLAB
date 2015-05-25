@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220708 Buitengebied en Dichterem-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.262871,51.943363,0.000000
+            6.255111,51.943421,0.000000
+            6.262383,51.945409,0.000000
+            6.264931,51.947060,0.000000
+            6.265493,51.948688,0.000000
+            6.268301,51.948712,0.000000
+            6.271547,51.952564,0.000000
+            6.272023,51.954616,0.000000
+            6.269344,51.957490,0.000000
+            6.264442,51.959238,0.000000
+            6.275966,51.959002,0.000000
+            6.275434,51.954464,0.000000
+            6.274462,51.949999,0.000000
+            6.273033,51.943287,0.000000
+            6.263025,51.943362,0.000000
+            6.262871,51.943363,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

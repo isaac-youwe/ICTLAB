@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK168402 Wijk 02 Sint Agatha</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.899251,51.691105,0.000000
+            5.898977,51.690937,0.000000
+            5.893900,51.693404,0.000000
+            5.890274,51.697512,0.000000
+            5.876811,51.705726,0.000000
+            5.888085,51.707657,0.000000
+            5.891289,51.707696,0.000000
+            5.892165,51.709046,0.000000
+            5.892725,51.715044,0.000000
+            5.889663,51.721794,0.000000
+            5.892498,51.722562,0.000000
+            5.905356,51.718946,0.000000
+            5.919808,51.717083,0.000000
+            5.934269,51.716117,0.000000
+            5.928405,51.709852,0.000000
+            5.922596,51.708081,0.000000
+            5.918223,51.705404,0.000000
+            5.915298,51.702720,0.000000
+            5.909480,51.700049,0.000000
+            5.899251,51.691105,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

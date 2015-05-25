@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03580201 Zuidwestpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.789540,52.257932,0.000000
+            4.789145,52.257756,0.000000
+            4.779006,52.264182,0.000000
+            4.774572,52.266866,0.000000
+            4.767965,52.270064,0.000000
+            4.776020,52.276248,0.000000
+            4.787326,52.279976,0.000000
+            4.789649,52.277545,0.000000
+            4.800894,52.265839,0.000000
+            4.795364,52.260658,0.000000
+            4.789540,52.257932,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

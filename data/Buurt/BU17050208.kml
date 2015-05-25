@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17050208 Verspreide huizen Hoeve en Loostraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.929650,51.941206,0.000000
+            5.925931,51.938669,0.000000
+            5.923844,51.939182,0.000000
+            5.922290,51.936832,0.000000
+            5.927884,51.935359,0.000000
+            5.918716,51.929413,0.000000
+            5.915028,51.926000,0.000000
+            5.900787,51.934070,0.000000
+            5.902016,51.933811,0.000000
+            5.912321,51.944553,0.000000
+            5.912044,51.945080,0.000000
+            5.929650,51.941206,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

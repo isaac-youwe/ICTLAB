@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03441097 Rijnenburg, voormalig De Meern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.053510,52.069311,0.000000
+            5.048725,52.058606,0.000000
+            5.041156,52.059901,0.000000
+            5.031814,52.060000,0.000000
+            5.016840,52.062329,0.000000
+            4.999221,52.066441,0.000000
+            5.000617,52.073637,0.000000
+            5.003111,52.077538,0.000000
+            5.003351,52.077913,0.000000
+            5.025182,52.073583,0.000000
+            5.039450,52.071439,0.000000
+            5.053510,52.069311,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16950000 Kortgene-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.806857,51.554618,0.000000
+            3.804252,51.554582,0.000000
+            3.801124,51.554589,0.000000
+            3.793650,51.559407,0.000000
+            3.795332,51.564991,0.000000
+            3.810515,51.557634,0.000000
+            3.809010,51.554736,0.000000
+            3.806857,51.554618,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

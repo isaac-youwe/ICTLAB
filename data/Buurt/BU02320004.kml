@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02320004 Epe-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.994757,52.363938,0.000000
+            5.989572,52.358391,0.000000
+            5.986296,52.360434,0.000000
+            5.983427,52.359710,0.000000
+            5.982340,52.357925,0.000000
+            5.978148,52.355995,0.000000
+            5.966898,52.359571,0.000000
+            5.966840,52.359880,0.000000
+            5.974608,52.367308,0.000000
+            5.975945,52.369973,0.000000
+            5.985466,52.373169,0.000000
+            5.988843,52.368640,0.000000
+            5.988000,52.367038,0.000000
+            5.988671,52.365722,0.000000
+            5.994729,52.365219,0.000000
+            5.994930,52.364159,0.000000
+            5.994757,52.363938,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

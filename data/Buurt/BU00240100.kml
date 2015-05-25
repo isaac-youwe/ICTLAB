@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00240100 Stedum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.687457,53.327532,0.000000
+            6.695321,53.325088,0.000000
+            6.696408,53.325940,0.000000
+            6.700955,53.323687,0.000000
+            6.702628,53.324298,0.000000
+            6.703386,53.323901,0.000000
+            6.701183,53.322888,0.000000
+            6.700257,53.320956,0.000000
+            6.697416,53.319368,0.000000
+            6.694136,53.318640,0.000000
+            6.690812,53.318899,0.000000
+            6.687541,53.320317,0.000000
+            6.686725,53.321524,0.000000
+            6.686315,53.326318,0.000000
+            6.687457,53.327532,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

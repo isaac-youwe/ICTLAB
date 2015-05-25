@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04570004 Aetsveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.047198,52.295417,0.000000
+            5.038645,52.294307,0.000000
+            5.035913,52.296809,0.000000
+            5.036580,52.302381,0.000000
+            5.040591,52.302669,0.000000
+            5.045699,52.301991,0.000000
+            5.050874,52.299067,0.000000
+            5.047198,52.295417,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04780600 Hobrede</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.986652,52.553903,0.000000
+            4.999379,52.542994,0.000000
+            4.998501,52.535919,0.000000
+            4.981490,52.544622,0.000000
+            4.978005,52.540929,0.000000
+            4.976753,52.541438,0.000000
+            4.973809,52.538223,0.000000
+            4.968654,52.541029,0.000000
+            4.972916,52.543658,0.000000
+            4.972968,52.543722,0.000000
+            4.975831,52.547263,0.000000
+            4.977240,52.553530,0.000000
+            4.986652,52.553903,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

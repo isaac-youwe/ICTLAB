@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04844502 Hoge Dijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.759298,52.128627,0.000000
+            4.758516,52.128384,0.000000
+            4.734263,52.136399,0.000000
+            4.731460,52.138640,0.000000
+            4.728348,52.143822,0.000000
+            4.727277,52.151522,0.000000
+            4.723798,52.156119,0.000000
+            4.723984,52.156293,0.000000
+            4.726558,52.158716,0.000000
+            4.728698,52.159256,0.000000
+            4.741121,52.162392,0.000000
+            4.741123,52.162390,0.000000
+            4.759066,52.133724,0.000000
+            4.759116,52.133633,0.000000
+            4.760564,52.131035,0.000000
+            4.759298,52.128627,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

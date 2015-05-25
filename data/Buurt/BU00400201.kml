@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00400201 Oudeweg en Hoofdweg en Oostwolderweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.895328,53.248478,0.000000
+            6.909508,53.244301,0.000000
+            6.909414,53.243841,0.000000
+            6.912378,53.242905,0.000000
+            6.910690,53.237533,0.000000
+            6.909193,53.237552,0.000000
+            6.909152,53.236406,0.000000
+            6.881196,53.243177,0.000000
+            6.878448,53.245388,0.000000
+            6.877549,53.245250,0.000000
+            6.880070,53.248521,0.000000
+            6.880549,53.251337,0.000000
+            6.895328,53.248478,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

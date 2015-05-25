@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01630102 de H_fte</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.453591,52.393170,0.000000
+            6.449788,52.392303,0.000000
+            6.447548,52.394521,0.000000
+            6.446712,52.395691,0.000000
+            6.448606,52.397086,0.000000
+            6.451785,52.396056,0.000000
+            6.455223,52.393463,0.000000
+            6.453591,52.393170,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

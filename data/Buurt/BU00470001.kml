@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00470001 Veendam-Oude Ae</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.894457,53.119081,0.000000
+            6.891116,53.109146,0.000000
+            6.886332,53.110349,0.000000
+            6.871701,53.110471,0.000000
+            6.871233,53.115539,0.000000
+            6.869650,53.117144,0.000000
+            6.867700,53.117248,0.000000
+            6.867218,53.118395,0.000000
+            6.876908,53.117833,0.000000
+            6.877488,53.118861,0.000000
+            6.889802,53.118184,0.000000
+            6.890004,53.119256,0.000000
+            6.894457,53.119081,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

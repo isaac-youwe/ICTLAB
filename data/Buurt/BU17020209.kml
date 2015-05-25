@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17020209 Verspreide huizen Westerbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.882452,51.589873,0.000000
+            5.884842,51.589490,0.000000
+            5.886927,51.590205,0.000000
+            5.892314,51.585969,0.000000
+            5.890838,51.585062,0.000000
+            5.893704,51.583252,0.000000
+            5.877773,51.577926,0.000000
+            5.879197,51.576122,0.000000
+            5.870511,51.573461,0.000000
+            5.870397,51.562674,0.000000
+            5.838701,51.566397,0.000000
+            5.822879,51.568251,0.000000
+            5.827766,51.572525,0.000000
+            5.853909,51.587724,0.000000
+            5.866809,51.588839,0.000000
+            5.871586,51.592593,0.000000
+            5.876516,51.594460,0.000000
+            5.882452,51.589873,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.855831,51.581213,0.000000
+            5.856924,51.579870,0.000000
+            5.860253,51.581335,0.000000
+            5.863590,51.580581,0.000000
+            5.868420,51.582522,0.000000
+            5.869054,51.583981,0.000000
+            5.866175,51.585941,0.000000
+            5.859439,51.583553,0.000000
+            5.855831,51.581213,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

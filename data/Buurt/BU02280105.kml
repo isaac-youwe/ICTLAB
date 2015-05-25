@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02280105 Stationsbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.671140,52.038094,0.000000
+            5.671477,52.036769,0.000000
+            5.675226,52.036860,0.000000
+            5.679338,52.035800,0.000000
+            5.682737,52.025838,0.000000
+            5.669341,52.028316,0.000000
+            5.667031,52.030389,0.000000
+            5.666289,52.039381,0.000000
+            5.671140,52.038094,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07030100 Kruiningen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.031005,51.454293,0.000000
+            4.033896,51.451793,0.000000
+            4.044329,51.446327,0.000000
+            4.034897,51.441738,0.000000
+            4.034088,51.444530,0.000000
+            4.025422,51.448475,0.000000
+            4.024404,51.450853,0.000000
+            4.026755,51.453879,0.000000
+            4.028859,51.454029,0.000000
+            4.029810,51.453579,0.000000
+            4.031005,51.454293,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960203 Bazeldonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.327417,51.684664,0.000000
+            5.327413,51.682931,0.000000
+            5.321022,51.682947,0.000000
+            5.318899,51.685468,0.000000
+            5.315980,51.686979,0.000000
+            5.316999,51.688376,0.000000
+            5.324783,51.687240,0.000000
+            5.323977,51.685200,0.000000
+            5.327417,51.684664,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

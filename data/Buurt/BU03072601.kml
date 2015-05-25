@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03072601 Hoog en Wellerlaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.428436,52.187014,0.000000
+            5.428619,52.184545,0.000000
+            5.433142,52.185368,0.000000
+            5.436443,52.184907,0.000000
+            5.436721,52.184827,0.000000
+            5.434068,52.182703,0.000000
+            5.429622,52.181996,0.000000
+            5.424239,52.182706,0.000000
+            5.420554,52.184688,0.000000
+            5.424646,52.187121,0.000000
+            5.428436,52.187014,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

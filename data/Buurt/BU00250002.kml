@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00250002 Nuis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.299541,53.145031,0.000000
+            6.299956,53.143875,0.000000
+            6.295092,53.143959,0.000000
+            6.290010,53.142658,0.000000
+            6.288789,53.142555,0.000000
+            6.285169,53.158464,0.000000
+            6.285960,53.159994,0.000000
+            6.306999,53.166709,0.000000
+            6.311170,53.147254,0.000000
+            6.305205,53.145464,0.000000
+            6.299541,53.145031,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

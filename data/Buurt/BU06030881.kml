@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06030881 Plaspoelpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.343224,52.046111,0.000000
+            4.343952,52.040980,0.000000
+            4.343979,52.040589,0.000000
+            4.335748,52.036830,0.000000
+            4.329346,52.031730,0.000000
+            4.322047,52.037505,0.000000
+            4.325414,52.039923,0.000000
+            4.333665,52.045965,0.000000
+            4.335971,52.044589,0.000000
+            4.340271,52.047339,0.000000
+            4.343224,52.046111,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

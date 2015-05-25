@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05992459 Bedrijventerrein Rotterdam Noord-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.411946,51.948314,0.000000
+            4.414668,51.945483,0.000000
+            4.415387,51.940719,0.000000
+            4.409824,51.938067,0.000000
+            4.408369,51.938055,0.000000
+            4.404026,51.937120,0.000000
+            4.403650,51.937384,0.000000
+            4.395162,51.943338,0.000000
+            4.389305,51.945086,0.000000
+            4.388535,51.946387,0.000000
+            4.388450,51.946531,0.000000
+            4.404374,51.946253,0.000000
+            4.407614,51.946612,0.000000
+            4.411946,51.948314,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

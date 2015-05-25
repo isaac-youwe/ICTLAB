@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03990401 Heiloo-West Zuiderneg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.696433,52.604692,0.000000
+            4.693630,52.602198,0.000000
+            4.684779,52.603343,0.000000
+            4.682307,52.597299,0.000000
+            4.680590,52.594147,0.000000
+            4.672822,52.596326,0.000000
+            4.674174,52.600665,0.000000
+            4.674170,52.600897,0.000000
+            4.674116,52.604260,0.000000
+            4.678516,52.606084,0.000000
+            4.680659,52.608420,0.000000
+            4.688570,52.606551,0.000000
+            4.696433,52.604692,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

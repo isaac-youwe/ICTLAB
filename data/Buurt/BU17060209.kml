@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17060209 Verspreide huizen Budel-Dorplein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.579035,51.232153,0.000000
+            5.584997,51.231885,0.000000
+            5.592457,51.234357,0.000000
+            5.601486,51.234809,0.000000
+            5.609112,51.228749,0.000000
+            5.601048,51.225232,0.000000
+            5.594797,51.223675,0.000000
+            5.594805,51.225473,0.000000
+            5.566153,51.221026,0.000000
+            5.560430,51.221933,0.000000
+            5.556202,51.239919,0.000000
+            5.556144,51.240215,0.000000
+            5.563143,51.242167,0.000000
+            5.567124,51.241421,0.000000
+            5.566472,51.237371,0.000000
+            5.579415,51.236605,0.000000
+            5.579035,51.232153,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01710809 Creil landelijk gebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.702577,52.775559,0.000000
+            5.702255,52.760462,0.000000
+            5.705328,52.760367,0.000000
+            5.704958,52.745864,0.000000
+            5.696232,52.745932,0.000000
+            5.608398,52.746576,0.000000
+            5.608368,52.747862,0.000000
+            5.594570,52.748050,0.000000
+            5.594571,52.748229,0.000000
+            5.594639,52.762610,0.000000
+            5.596138,52.766202,0.000000
+            5.633384,52.802082,0.000000
+            5.633589,52.802280,0.000000
+            5.683438,52.783428,0.000000
+            5.683495,52.775694,0.000000
+            5.702577,52.775559,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.651799,52.761086,0.000000
+            5.669778,52.760918,0.000000
+            5.669801,52.764474,0.000000
+            5.665275,52.764719,0.000000
+            5.665258,52.768310,0.000000
+            5.660729,52.769826,0.000000
+            5.651799,52.761086,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

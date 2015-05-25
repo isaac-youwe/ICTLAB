@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18960404 Achter Het Singel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.070847,52.641359,0.000000
+            6.067704,52.640454,0.000000
+            6.066370,52.644479,0.000000
+            6.072215,52.645364,0.000000
+            6.071295,52.647743,0.000000
+            6.075280,52.648554,0.000000
+            6.078604,52.644314,0.000000
+            6.073103,52.642399,0.000000
+            6.070847,52.641359,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

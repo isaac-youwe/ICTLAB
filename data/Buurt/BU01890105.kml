@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01890105 Verspreide huizen Lage Egge en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.599165,52.383576,0.000000
+            6.606188,52.371818,0.000000
+            6.607532,52.367309,0.000000
+            6.610444,52.366380,0.000000
+            6.611535,52.366032,0.000000
+            6.606927,52.365471,0.000000
+            6.604617,52.371838,0.000000
+            6.597857,52.373746,0.000000
+            6.594822,52.371470,0.000000
+            6.595258,52.365259,0.000000
+            6.592660,52.365259,0.000000
+            6.587307,52.366999,0.000000
+            6.581605,52.365735,0.000000
+            6.573618,52.365559,0.000000
+            6.566591,52.379240,0.000000
+            6.570520,52.379040,0.000000
+            6.569941,52.380392,0.000000
+            6.593826,52.382576,0.000000
+            6.594753,52.385406,0.000000
+            6.596327,52.386278,0.000000
+            6.599165,52.383576,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09174102 Heerlerbaan-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.002997,50.858340,0.000000
+            5.999710,50.857267,0.000000
+            5.986880,50.864430,0.000000
+            5.985204,50.865317,0.000000
+            5.983281,50.868428,0.000000
+            5.989218,50.869940,0.000000
+            5.993310,50.873008,0.000000
+            5.998877,50.868138,0.000000
+            6.007564,50.860612,0.000000
+            6.003535,50.858607,0.000000
+            6.002997,50.858340,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK170905 Wijk 05 Noordhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.537264,51.644984,0.000000
+            4.542070,51.644243,0.000000
+            4.541690,51.642775,0.000000
+            4.554844,51.641683,0.000000
+            4.535246,51.631557,0.000000
+            4.515768,51.630384,0.000000
+            4.511861,51.631261,0.000000
+            4.502269,51.634729,0.000000
+            4.504876,51.638829,0.000000
+            4.514478,51.645201,0.000000
+            4.525309,51.644169,0.000000
+            4.526841,51.645659,0.000000
+            4.537264,51.644984,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK093500 Wijk 00 Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.706090,50.845640,0.000000
+            5.702899,50.840896,0.000000
+            5.699259,50.840327,0.000000
+            5.699652,50.841734,0.000000
+            5.695495,50.842487,0.000000
+            5.688573,50.841600,0.000000
+            5.683501,50.842717,0.000000
+            5.681382,50.844496,0.000000
+            5.677522,50.849238,0.000000
+            5.677784,50.849707,0.000000
+            5.689959,50.858227,0.000000
+            5.697565,50.860015,0.000000
+            5.702045,50.860258,0.000000
+            5.701925,50.858213,0.000000
+            5.704848,50.851652,0.000000
+            5.706562,50.847475,0.000000
+            5.705357,50.847344,0.000000
+            5.706090,50.845640,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

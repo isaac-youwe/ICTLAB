@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02223102 Wehl-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.203184,51.954074,0.000000
+            6.183216,51.948262,0.000000
+            6.182956,51.948426,0.000000
+            6.178592,51.948456,0.000000
+            6.172852,51.952989,0.000000
+            6.168503,51.953917,0.000000
+            6.162715,51.955753,0.000000
+            6.162481,51.955901,0.000000
+            6.170115,51.956885,0.000000
+            6.179322,51.960265,0.000000
+            6.193771,51.962809,0.000000
+            6.199968,51.963037,0.000000
+            6.200525,51.958085,0.000000
+            6.202739,51.956845,0.000000
+            6.203184,51.954074,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

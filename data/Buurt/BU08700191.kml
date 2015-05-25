@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08700191 Binnenvliet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.915100,51.817819,0.000000
+            4.919503,51.815551,0.000000
+            4.913556,51.811001,0.000000
+            4.910082,51.811754,0.000000
+            4.899502,51.816038,0.000000
+            4.897928,51.815508,0.000000
+            4.891114,51.815142,0.000000
+            4.887248,51.818084,0.000000
+            4.904108,51.824274,0.000000
+            4.912793,51.826107,0.000000
+            4.913137,51.826151,0.000000
+            4.914257,51.821315,0.000000
+            4.915998,51.820108,0.000000
+            4.915100,51.817819,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

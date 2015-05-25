@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05010100 Vierpolders</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.190735,51.877243,0.000000
+            4.190027,51.875097,0.000000
+            4.180617,51.876262,0.000000
+            4.179165,51.874834,0.000000
+            4.175310,51.875699,0.000000
+            4.171356,51.878113,0.000000
+            4.175431,51.881041,0.000000
+            4.176752,51.890269,0.000000
+            4.178075,51.890405,0.000000
+            4.179935,51.890596,0.000000
+            4.181422,51.890749,0.000000
+            4.181491,51.883847,0.000000
+            4.184679,51.883385,0.000000
+            4.185989,51.882373,0.000000
+            4.188970,51.877584,0.000000
+            4.190735,51.877243,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

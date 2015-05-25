@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09360104 Honthem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.803120,50.813524,0.000000
+            5.804899,50.809032,0.000000
+            5.801101,50.810196,0.000000
+            5.794470,50.812288,0.000000
+            5.790994,50.816392,0.000000
+            5.791596,50.821112,0.000000
+            5.803909,50.819662,0.000000
+            5.803120,50.813524,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15090103 Milt en Wieken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.361137,51.870869,0.000000
+            6.358019,51.868412,0.000000
+            6.349204,51.868616,0.000000
+            6.355897,51.873807,0.000000
+            6.351602,51.877687,0.000000
+            6.356190,51.879448,0.000000
+            6.356282,51.877436,0.000000
+            6.361256,51.872582,0.000000
+            6.361137,51.870869,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

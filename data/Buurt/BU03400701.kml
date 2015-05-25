@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03400701 Achterberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.588829,51.975123,0.000000
+            5.595799,51.971896,0.000000
+            5.595756,51.970669,0.000000
+            5.589581,51.970413,0.000000
+            5.590250,51.971287,0.000000
+            5.588661,51.972251,0.000000
+            5.585783,51.971950,0.000000
+            5.582404,51.973759,0.000000
+            5.583960,51.974587,0.000000
+            5.588829,51.975123,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

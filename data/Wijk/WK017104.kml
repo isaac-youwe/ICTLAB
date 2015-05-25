@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK017104 Wijk 04 Ens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.896705,52.617891,0.000000
+            5.844944,52.610911,0.000000
+            5.889342,52.619720,0.000000
+            5.896705,52.617891,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.813437,52.685157,0.000000
+            5.826800,52.672036,0.000000
+            5.838020,52.676340,0.000000
+            5.866236,52.649023,0.000000
+            5.880451,52.631047,0.000000
+            5.885112,52.622470,0.000000
+            5.884942,52.622435,0.000000
+            5.833149,52.612753,0.000000
+            5.771173,52.612970,0.000000
+            5.771340,52.620633,0.000000
+            5.769212,52.625702,0.000000
+            5.771370,52.634672,0.000000
+            5.775670,52.640825,0.000000
+            5.775333,52.676616,0.000000
+            5.792797,52.677318,0.000000
+            5.813437,52.685157,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

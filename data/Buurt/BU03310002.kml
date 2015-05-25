@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03310002 Uitweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.020978,51.985466,0.000000
+            5.018229,51.983968,0.000000
+            5.016813,51.979226,0.000000
+            5.012327,51.980970,0.000000
+            5.004752,51.981139,0.000000
+            4.996576,51.982589,0.000000
+            4.998868,51.985359,0.000000
+            5.011023,51.985030,0.000000
+            5.014139,51.989123,0.000000
+            5.024428,51.989850,0.000000
+            5.023896,51.985871,0.000000
+            5.020978,51.985466,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

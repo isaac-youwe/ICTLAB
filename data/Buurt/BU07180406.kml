@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07180406 West-Souburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.588127,51.467717,0.000000
+            3.588457,51.466622,0.000000
+            3.594998,51.466928,0.000000
+            3.593248,51.463623,0.000000
+            3.592854,51.462880,0.000000
+            3.582858,51.464321,0.000000
+            3.583908,51.468100,0.000000
+            3.588127,51.467717,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

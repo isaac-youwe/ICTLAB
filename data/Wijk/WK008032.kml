@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK008032 Wijk 32 't Vliet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.805048,53.206204,0.000000
+            5.809600,53.203978,0.000000
+            5.811470,53.205171,0.000000
+            5.819382,53.204868,0.000000
+            5.817869,53.202876,0.000000
+            5.816781,53.200371,0.000000
+            5.810239,53.199943,0.000000
+            5.802555,53.199541,0.000000
+            5.803150,53.202028,0.000000
+            5.803446,53.203056,0.000000
+            5.802972,53.205825,0.000000
+            5.805048,53.206204,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

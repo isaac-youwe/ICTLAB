@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09380205 Moorveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.752008,50.922441,0.000000
+            5.756492,50.921078,0.000000
+            5.764556,50.921798,0.000000
+            5.771038,50.919230,0.000000
+            5.765487,50.914891,0.000000
+            5.759848,50.907851,0.000000
+            5.752876,50.910214,0.000000
+            5.751440,50.909523,0.000000
+            5.742765,50.909111,0.000000
+            5.742754,50.909925,0.000000
+            5.745499,50.913033,0.000000
+            5.751276,50.919974,0.000000
+            5.752008,50.922441,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

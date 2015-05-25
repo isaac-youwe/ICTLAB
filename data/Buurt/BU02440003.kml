@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02440003 Hogenkamp en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.070639,52.470945,0.000000
+            6.067997,52.465552,0.000000
+            6.065366,52.465700,0.000000
+            6.063483,52.469688,0.000000
+            6.060540,52.470806,0.000000
+            6.056166,52.469565,0.000000
+            6.056726,52.468963,0.000000
+            6.053873,52.467883,0.000000
+            6.049689,52.468263,0.000000
+            6.048531,52.469259,0.000000
+            6.051819,52.471725,0.000000
+            6.053272,52.473869,0.000000
+            6.070639,52.470945,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

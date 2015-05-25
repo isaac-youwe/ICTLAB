@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK171404 Wijk 04 Sint Kruis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.496337,51.290701,0.000000
+            3.499905,51.287358,0.000000
+            3.504224,51.287398,0.000000
+            3.514902,51.280440,0.000000
+            3.517900,51.280484,0.000000
+            3.527801,51.246756,0.000000
+            3.526713,51.246669,0.000000
+            3.510514,51.251989,0.000000
+            3.500070,51.252944,0.000000
+            3.493523,51.254690,0.000000
+            3.488886,51.254490,0.000000
+            3.488068,51.258377,0.000000
+            3.492469,51.263582,0.000000
+            3.492165,51.265290,0.000000
+            3.485803,51.269909,0.000000
+            3.480146,51.269578,0.000000
+            3.478373,51.271432,0.000000
+            3.486113,51.290152,0.000000
+            3.491521,51.289242,0.000000
+            3.496337,51.290701,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17420101 De Delle</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.512646,52.303289,0.000000
+            6.519623,52.302385,0.000000
+            6.523413,52.302868,0.000000
+            6.524179,52.301648,0.000000
+            6.525368,52.298351,0.000000
+            6.527812,52.296018,0.000000
+            6.506918,52.298616,0.000000
+            6.503895,52.300047,0.000000
+            6.503885,52.301806,0.000000
+            6.506957,52.301758,0.000000
+            6.512646,52.303289,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

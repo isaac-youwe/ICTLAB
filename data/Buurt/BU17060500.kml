@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17060500 Gastel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.559236,51.282109,0.000000
+            5.558195,51.279043,0.000000
+            5.554467,51.278832,0.000000
+            5.552649,51.279777,0.000000
+            5.552334,51.281182,0.000000
+            5.544945,51.278830,0.000000
+            5.539386,51.282194,0.000000
+            5.557871,51.292321,0.000000
+            5.562713,51.295425,0.000000
+            5.573436,51.287533,0.000000
+            5.562553,51.282737,0.000000
+            5.559236,51.282109,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

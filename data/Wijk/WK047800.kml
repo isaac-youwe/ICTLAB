@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK047800 Wijk 00 Beets</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.962232,52.581371,0.000000
+            4.954863,52.580446,0.000000
+            4.953379,52.581339,0.000000
+            4.953326,52.586732,0.000000
+            4.948871,52.593836,0.000000
+            4.948827,52.593906,0.000000
+            4.950285,52.595709,0.000000
+            5.004055,52.597665,0.000000
+            5.008207,52.597724,0.000000
+            5.007296,52.593459,0.000000
+            4.979798,52.588214,0.000000
+            4.977751,52.586703,0.000000
+            4.968100,52.584987,0.000000
+            4.962232,52.581371,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

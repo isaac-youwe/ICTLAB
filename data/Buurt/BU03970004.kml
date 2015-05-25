@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03970004 Van Merlenbuurt en Valkenburgerplein en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.619133,52.347305,0.000000
+            4.622024,52.345001,0.000000
+            4.623966,52.345251,0.000000
+            4.624217,52.344353,0.000000
+            4.621234,52.343121,0.000000
+            4.620590,52.338750,0.000000
+            4.616472,52.336559,0.000000
+            4.614956,52.333413,0.000000
+            4.612073,52.334327,0.000000
+            4.608871,52.332057,0.000000
+            4.606381,52.333550,0.000000
+            4.607491,52.334201,0.000000
+            4.606424,52.335195,0.000000
+            4.602608,52.335689,0.000000
+            4.603114,52.336536,0.000000
+            4.609687,52.348386,0.000000
+            4.610793,52.349062,0.000000
+            4.619133,52.347305,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

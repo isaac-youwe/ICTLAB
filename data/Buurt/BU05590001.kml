@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05590001 Middelharnis-nieuwbouw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.179439,51.753412,0.000000
+            4.160616,51.749574,0.000000
+            4.156937,51.754730,0.000000
+            4.166192,51.756553,0.000000
+            4.171239,51.760511,0.000000
+            4.176062,51.759062,0.000000
+            4.181711,51.756196,0.000000
+            4.181578,51.755573,0.000000
+            4.179439,51.753412,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610100 Kooimeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.738685,52.620640,0.000000
+            4.744578,52.618343,0.000000
+            4.741281,52.615672,0.000000
+            4.738918,52.615094,0.000000
+            4.738913,52.615417,0.000000
+            4.733476,52.618016,0.000000
+            4.734937,52.619110,0.000000
+            4.737628,52.619033,0.000000
+            4.738685,52.620640,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

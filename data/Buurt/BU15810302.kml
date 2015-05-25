@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15810302 Verspreide huizen Overberg en De Haar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.511044,52.016675,0.000000
+            5.510860,52.016450,0.000000
+            5.503746,52.018330,0.000000
+            5.496579,52.021938,0.000000
+            5.490354,52.026860,0.000000
+            5.485092,52.036016,0.000000
+            5.487650,52.040593,0.000000
+            5.485381,52.056310,0.000000
+            5.492198,52.057145,0.000000
+            5.498031,52.057139,0.000000
+            5.515523,52.054425,0.000000
+            5.516963,52.048131,0.000000
+            5.528601,52.040027,0.000000
+            5.524231,52.034663,0.000000
+            5.524211,52.034639,0.000000
+            5.522743,52.031045,0.000000
+            5.522676,52.030962,0.000000
+            5.518406,52.025720,0.000000
+            5.518355,52.025656,0.000000
+            5.512506,52.018471,0.000000
+            5.511044,52.016675,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

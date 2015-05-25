@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02820005 Kekerdom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.016521,51.865169,0.000000
+            6.021495,51.860494,0.000000
+            6.021553,51.858951,0.000000
+            6.020326,51.858534,0.000000
+            6.014927,51.862315,0.000000
+            6.009161,51.862090,0.000000
+            6.007645,51.863142,0.000000
+            6.003870,51.862044,0.000000
+            6.002755,51.864086,0.000000
+            6.010919,51.865736,0.000000
+            6.016521,51.865169,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02160005 Westelijke Buitenwijken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.217457,51.956436,0.000000
+            5.221562,51.952198,0.000000
+            5.216150,51.948779,0.000000
+            5.219213,51.945898,0.000000
+            5.217788,51.945158,0.000000
+            5.201131,51.943466,0.000000
+            5.203769,51.946665,0.000000
+            5.204986,51.946238,0.000000
+            5.206819,51.948233,0.000000
+            5.205042,51.949685,0.000000
+            5.196590,51.950225,0.000000
+            5.197581,51.956211,0.000000
+            5.207372,51.954888,0.000000
+            5.215406,51.955555,0.000000
+            5.217457,51.956436,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08150200 Sint Hubert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.814075,51.677847,0.000000
+            5.815558,51.675854,0.000000
+            5.814568,51.675446,0.000000
+            5.810631,51.676298,0.000000
+            5.808012,51.673830,0.000000
+            5.802680,51.675320,0.000000
+            5.800360,51.678916,0.000000
+            5.802150,51.679980,0.000000
+            5.808805,51.680344,0.000000
+            5.809170,51.680753,0.000000
+            5.814075,51.677847,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

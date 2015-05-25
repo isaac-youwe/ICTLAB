@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK078505 Wijk 05 Abcoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.072348,51.517369,0.000000
+            5.069588,51.516684,0.000000
+            5.067715,51.518797,0.000000
+            5.072776,51.521008,0.000000
+            5.070914,51.524283,0.000000
+            5.075016,51.524002,0.000000
+            5.078068,51.523595,0.000000
+            5.079089,51.523500,0.000000
+            5.079592,51.522223,0.000000
+            5.078465,51.521141,0.000000
+            5.072348,51.517369,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

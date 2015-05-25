@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18960206 Molenwaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.091020,52.593975,0.000000
+            6.085186,52.591860,0.000000
+            6.083789,52.594263,0.000000
+            6.084183,52.597882,0.000000
+            6.087901,52.601132,0.000000
+            6.091753,52.602206,0.000000
+            6.090491,52.601250,0.000000
+            6.089008,52.598595,0.000000
+            6.091735,52.597705,0.000000
+            6.092479,52.596424,0.000000
+            6.091020,52.593975,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

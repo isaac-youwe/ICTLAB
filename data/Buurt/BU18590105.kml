@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590105 Verspreide huizen Hupsel-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.657012,52.075800,0.000000
+            6.659180,52.062710,0.000000
+            6.659024,52.062910,0.000000
+            6.647435,52.065732,0.000000
+            6.642908,52.060386,0.000000
+            6.638534,52.060433,0.000000
+            6.635725,52.055521,0.000000
+            6.635468,52.055071,0.000000
+            6.629246,52.057463,0.000000
+            6.628253,52.057844,0.000000
+            6.631344,52.064105,0.000000
+            6.629236,52.064500,0.000000
+            6.640047,52.087738,0.000000
+            6.643886,52.087720,0.000000
+            6.649461,52.086567,0.000000
+            6.654478,52.082944,0.000000
+            6.657012,52.075800,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

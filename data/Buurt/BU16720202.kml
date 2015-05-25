@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16720202 Bestemmingsplan Rhynenburch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.595785,52.125149,0.000000
+            4.583747,52.123810,0.000000
+            4.582805,52.126675,0.000000
+            4.586387,52.127379,0.000000
+            4.585835,52.128686,0.000000
+            4.592568,52.130878,0.000000
+            4.594705,52.130932,0.000000
+            4.595785,52.125149,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

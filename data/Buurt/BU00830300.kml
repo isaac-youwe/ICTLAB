@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00830300 Beetgum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.690954,53.238738,0.000000
+            5.693485,53.235583,0.000000
+            5.693798,53.234800,0.000000
+            5.690329,53.232644,0.000000
+            5.682465,53.234369,0.000000
+            5.676284,53.238637,0.000000
+            5.676158,53.239430,0.000000
+            5.683898,53.238715,0.000000
+            5.683777,53.239638,0.000000
+            5.686368,53.239652,0.000000
+            5.690954,53.238738,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

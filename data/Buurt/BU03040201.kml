@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03040201 Varik</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.378305,51.825697,0.000000
+            5.370717,51.818895,0.000000
+            5.366690,51.819083,0.000000
+            5.362992,51.817763,0.000000
+            5.360306,51.819211,0.000000
+            5.365509,51.823504,0.000000
+            5.371862,51.831108,0.000000
+            5.375995,51.832492,0.000000
+            5.377945,51.834130,0.000000
+            5.379262,51.829026,0.000000
+            5.378305,51.825697,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

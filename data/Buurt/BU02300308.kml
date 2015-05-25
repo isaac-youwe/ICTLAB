@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02300308 Verspreide huizen Doornspijk-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.858447,52.402463,0.000000
+            5.864703,52.396802,0.000000
+            5.831387,52.384071,0.000000
+            5.830851,52.384454,0.000000
+            5.822099,52.390779,0.000000
+            5.821920,52.391578,0.000000
+            5.820691,52.397076,0.000000
+            5.817796,52.401581,0.000000
+            5.811926,52.402501,0.000000
+            5.802144,52.399978,0.000000
+            5.806527,52.406566,0.000000
+            5.816200,52.410707,0.000000
+            5.818040,52.413814,0.000000
+            5.825476,52.417011,0.000000
+            5.823209,52.420286,0.000000
+            5.839053,52.426620,0.000000
+            5.847882,52.418035,0.000000
+            5.845946,52.417267,0.000000
+            5.856303,52.405946,0.000000
+            5.859592,52.402988,0.000000
+            5.858447,52.402463,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

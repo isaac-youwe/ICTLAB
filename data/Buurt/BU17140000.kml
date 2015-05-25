@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17140000 Sluis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.389016,51.313345,0.000000
+            3.393202,51.309482,0.000000
+            3.391546,51.306361,0.000000
+            3.388688,51.304810,0.000000
+            3.384467,51.304640,0.000000
+            3.382699,51.306064,0.000000
+            3.382453,51.307779,0.000000
+            3.377755,51.310068,0.000000
+            3.376467,51.309520,0.000000
+            3.373975,51.311539,0.000000
+            3.382731,51.311458,0.000000
+            3.382853,51.310386,0.000000
+            3.387460,51.313563,0.000000
+            3.389016,51.313345,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

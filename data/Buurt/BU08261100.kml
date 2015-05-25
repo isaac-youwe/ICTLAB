@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08261100 Den Hout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.815035,51.666676,0.000000
+            4.823242,51.655904,0.000000
+            4.831903,51.652333,0.000000
+            4.832926,51.648950,0.000000
+            4.830785,51.648841,0.000000
+            4.830381,51.650075,0.000000
+            4.814897,51.655936,0.000000
+            4.814673,51.653070,0.000000
+            4.807375,51.653329,0.000000
+            4.808231,51.656489,0.000000
+            4.804304,51.656517,0.000000
+            4.803120,51.658492,0.000000
+            4.808033,51.659260,0.000000
+            4.812874,51.664455,0.000000
+            4.811402,51.664448,0.000000
+            4.811513,51.666589,0.000000
+            4.815035,51.666676,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

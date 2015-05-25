@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01141001 Oosterse Bos en Middendorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.903628,52.659085,0.000000
+            6.906890,52.657924,0.000000
+            6.907713,52.658779,0.000000
+            6.917119,52.654945,0.000000
+            6.922284,52.655270,0.000000
+            6.925987,52.654037,0.000000
+            6.930548,52.650481,0.000000
+            6.927379,52.649960,0.000000
+            6.917645,52.652429,0.000000
+            6.908252,52.653831,0.000000
+            6.896224,52.658279,0.000000
+            6.897609,52.661022,0.000000
+            6.889883,52.664577,0.000000
+            6.891839,52.666661,0.000000
+            6.906798,52.662353,0.000000
+            6.903628,52.659085,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

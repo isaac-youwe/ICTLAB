@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080011 Nieuwe gagels</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.149427,52.787470,0.000000
+            6.151201,52.785679,0.000000
+            6.133919,52.788463,0.000000
+            6.136094,52.789905,0.000000
+            6.138883,52.794956,0.000000
+            6.143793,52.795552,0.000000
+            6.151599,52.791943,0.000000
+            6.153235,52.789656,0.000000
+            6.149427,52.787470,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

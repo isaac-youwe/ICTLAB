@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17350001 De Whee I</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.582186,52.242467,0.000000
+            6.579861,52.239937,0.000000
+            6.582370,52.239165,0.000000
+            6.578147,52.233326,0.000000
+            6.576448,52.233613,0.000000
+            6.576431,52.235614,0.000000
+            6.573905,52.237975,0.000000
+            6.577282,52.241654,0.000000
+            6.578873,52.241145,0.000000
+            6.580875,52.243015,0.000000
+            6.582186,52.242467,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

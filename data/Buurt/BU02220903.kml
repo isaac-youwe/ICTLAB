@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220903 De Kruisberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.289667,51.979411,0.000000
+            6.288287,51.976504,0.000000
+            6.284003,51.977570,0.000000
+            6.287696,51.981144,0.000000
+            6.282415,51.984187,0.000000
+            6.287039,51.987917,0.000000
+            6.292399,51.984619,0.000000
+            6.290097,51.981788,0.000000
+            6.289128,51.981163,0.000000
+            6.289667,51.979411,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

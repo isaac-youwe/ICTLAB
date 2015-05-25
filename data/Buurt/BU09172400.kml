@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09172400 Groot Rennemig</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.946533,50.917005,0.000000
+            5.955355,50.913803,0.000000
+            5.960076,50.914049,0.000000
+            5.961185,50.911599,0.000000
+            5.953786,50.908994,0.000000
+            5.947440,50.908708,0.000000
+            5.945234,50.912698,0.000000
+            5.946533,50.917005,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

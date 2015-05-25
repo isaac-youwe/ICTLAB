@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00802001 Transvaalwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.796904,53.206425,0.000000
+            5.795072,53.205359,0.000000
+            5.792504,53.205796,0.000000
+            5.790991,53.204493,0.000000
+            5.788239,53.204438,0.000000
+            5.787631,53.204354,0.000000
+            5.787788,53.205898,0.000000
+            5.790670,53.208441,0.000000
+            5.796904,53.206425,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

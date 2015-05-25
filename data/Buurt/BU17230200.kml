@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17230200 Galder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.778185,51.509634,0.000000
+            4.775707,51.509464,0.000000
+            4.772999,51.512155,0.000000
+            4.771938,51.516931,0.000000
+            4.773531,51.517767,0.000000
+            4.778320,51.517244,0.000000
+            4.778887,51.515763,0.000000
+            4.778032,51.515042,0.000000
+            4.779282,51.510786,0.000000
+            4.778185,51.509634,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04060001 De Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.240738,52.298440,0.000000
+            5.233414,52.296136,0.000000
+            5.231270,52.297149,0.000000
+            5.227333,52.296363,0.000000
+            5.227137,52.301509,0.000000
+            5.227378,52.301583,0.000000
+            5.228844,52.301585,0.000000
+            5.230297,52.305182,0.000000
+            5.230230,52.305467,0.000000
+            5.234929,52.305371,0.000000
+            5.236255,52.301389,0.000000
+            5.240247,52.299809,0.000000
+            5.240738,52.298440,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

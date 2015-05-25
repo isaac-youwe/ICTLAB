@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03830421 Duin en Bosch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.653018,52.561315,0.000000
+            4.652162,52.556653,0.000000
+            4.654047,52.555077,0.000000
+            4.653904,52.553416,0.000000
+            4.648376,52.553045,0.000000
+            4.643054,52.552298,0.000000
+            4.639989,52.555224,0.000000
+            4.638639,52.560551,0.000000
+            4.641370,52.560543,0.000000
+            4.642903,52.558750,0.000000
+            4.644678,52.560704,0.000000
+            4.642945,52.561144,0.000000
+            4.642404,52.562279,0.000000
+            4.649634,52.561880,0.000000
+            4.653018,52.561315,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

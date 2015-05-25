@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020807 Sporenbuurt-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.585315,51.959209,0.000000
+            4.590307,51.954967,0.000000
+            4.589072,51.954533,0.000000
+            4.586424,51.953621,0.000000
+            4.586131,51.954177,0.000000
+            4.586618,51.955151,0.000000
+            4.585071,51.956175,0.000000
+            4.581666,51.955619,0.000000
+            4.579028,51.956384,0.000000
+            4.585315,51.959209,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770417 Kern Graauw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.108123,51.333595,0.000000
+            4.106334,51.325108,0.000000
+            4.103888,51.325293,0.000000
+            4.097703,51.327647,0.000000
+            4.099988,51.329154,0.000000
+            4.100056,51.330754,0.000000
+            4.102310,51.330685,0.000000
+            4.106291,51.331975,0.000000
+            4.107036,51.333559,0.000000
+            4.108123,51.333595,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

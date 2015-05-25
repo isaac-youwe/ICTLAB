@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17090100 Zevenbergschen Hoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.675373,51.678217,0.000000
+            4.680199,51.676016,0.000000
+            4.683932,51.678133,0.000000
+            4.690688,51.673154,0.000000
+            4.683739,51.670292,0.000000
+            4.684527,51.669308,0.000000
+            4.682348,51.668402,0.000000
+            4.681307,51.669339,0.000000
+            4.677347,51.667785,0.000000
+            4.665804,51.679854,0.000000
+            4.671298,51.683140,0.000000
+            4.673841,51.683168,0.000000
+            4.675373,51.678217,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

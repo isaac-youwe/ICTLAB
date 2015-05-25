@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16801901 Ballo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.635727,52.994371,0.000000
+            6.632636,52.992402,0.000000
+            6.632533,52.990867,0.000000
+            6.632399,52.990086,0.000000
+            6.623967,52.991019,0.000000
+            6.621451,52.992742,0.000000
+            6.622858,52.993975,0.000000
+            6.626545,52.993332,0.000000
+            6.628843,52.997666,0.000000
+            6.632662,52.997793,0.000000
+            6.633404,53.000002,0.000000
+            6.635927,52.999906,0.000000
+            6.635727,52.994371,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

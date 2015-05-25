@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02280104 Burgemeestersbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.683547,52.038434,0.000000
+            5.679338,52.035800,0.000000
+            5.675226,52.036860,0.000000
+            5.671477,52.036769,0.000000
+            5.671140,52.038094,0.000000
+            5.673137,52.043326,0.000000
+            5.692772,52.041434,0.000000
+            5.692612,52.039637,0.000000
+            5.683547,52.038434,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

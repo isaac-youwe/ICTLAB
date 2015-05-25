@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00850202 Langedijke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.290060,52.968978,0.000000
+            6.291891,52.964679,0.000000
+            6.300785,52.967398,0.000000
+            6.300251,52.965242,0.000000
+            6.302003,52.961838,0.000000
+            6.273163,52.952533,0.000000
+            6.271416,52.953927,0.000000
+            6.268586,52.953150,0.000000
+            6.265293,52.953483,0.000000
+            6.261653,52.955996,0.000000
+            6.252134,52.958016,0.000000
+            6.257936,52.963212,0.000000
+            6.260057,52.970911,0.000000
+            6.283561,52.973527,0.000000
+            6.290060,52.968978,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

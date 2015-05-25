@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09954430 De Landerijen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.498334,52.499826,0.000000
+            5.510508,52.499492,0.000000
+            5.524638,52.499569,0.000000
+            5.519563,52.494190,0.000000
+            5.510037,52.488907,0.000000
+            5.502397,52.486522,0.000000
+            5.497799,52.491220,0.000000
+            5.498334,52.499826,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

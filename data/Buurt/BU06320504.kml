@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320504 Gerverscop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.960656,52.133726,0.000000
+            4.969530,52.122072,0.000000
+            4.975421,52.116699,0.000000
+            4.975442,52.116660,0.000000
+            4.940751,52.105205,0.000000
+            4.939638,52.105617,0.000000
+            4.939766,52.105899,0.000000
+            4.927272,52.121443,0.000000
+            4.943188,52.127371,0.000000
+            4.943190,52.127369,0.000000
+            4.960422,52.133641,0.000000
+            4.960656,52.133726,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

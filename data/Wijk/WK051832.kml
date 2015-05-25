@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051832 Wijk 32 Leyenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.275735,52.057376,0.000000
+            4.269737,52.054180,0.000000
+            4.269236,52.054320,0.000000
+            4.264177,52.058548,0.000000
+            4.259368,52.062517,0.000000
+            4.270182,52.066887,0.000000
+            4.273155,52.063011,0.000000
+            4.274856,52.062262,0.000000
+            4.282941,52.061301,0.000000
+            4.275735,52.057376,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

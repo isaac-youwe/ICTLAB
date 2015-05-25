@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02431002 Kranenburg en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.627666,52.334252,0.000000
+            5.627097,52.332198,0.000000
+            5.623059,52.333578,0.000000
+            5.623932,52.334747,0.000000
+            5.620903,52.335186,0.000000
+            5.621776,52.337900,0.000000
+            5.626921,52.338959,0.000000
+            5.628271,52.335734,0.000000
+            5.627666,52.334252,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

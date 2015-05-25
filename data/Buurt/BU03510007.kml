@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03510007 Verspreide huizen Austerlitz</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.382061,52.081685,0.000000
+            5.381115,52.078793,0.000000
+            5.331755,52.084146,0.000000
+            5.298668,52.096524,0.000000
+            5.300465,52.097211,0.000000
+            5.322974,52.102119,0.000000
+            5.333199,52.096731,0.000000
+            5.340499,52.094936,0.000000
+            5.384284,52.090451,0.000000
+            5.384387,52.090446,0.000000
+            5.384865,52.083510,0.000000
+            5.382061,52.081685,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

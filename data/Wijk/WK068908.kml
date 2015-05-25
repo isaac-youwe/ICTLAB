@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK068908 Wijk 08 Schelluinen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.938126,51.864333,0.000000
+            4.938338,51.863581,0.000000
+            4.938604,51.863647,0.000000
+            4.942975,51.844669,0.000000
+            4.943082,51.844205,0.000000
+            4.932958,51.840570,0.000000
+            4.928614,51.839654,0.000000
+            4.924260,51.839637,0.000000
+            4.909800,51.838683,0.000000
+            4.908943,51.842307,0.000000
+            4.913764,51.845579,0.000000
+            4.923666,51.847216,0.000000
+            4.920968,51.860220,0.000000
+            4.929042,51.860955,0.000000
+            4.938126,51.864333,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

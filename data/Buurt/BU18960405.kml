@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18960405 Zomerdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.077005,52.642550,0.000000
+            6.074832,52.640840,0.000000
+            6.073103,52.642399,0.000000
+            6.078604,52.644314,0.000000
+            6.082071,52.644967,0.000000
+            6.088753,52.649791,0.000000
+            6.085619,52.645696,0.000000
+            6.080989,52.642674,0.000000
+            6.077005,52.642550,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

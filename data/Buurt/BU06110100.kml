@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06110100 Klaaswaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.435862,51.781981,0.000000
+            4.436401,51.781861,0.000000
+            4.438677,51.781879,0.000000
+            4.440865,51.779645,0.000000
+            4.442313,51.775899,0.000000
+            4.447016,51.775104,0.000000
+            4.452416,51.775443,0.000000
+            4.454904,51.770495,0.000000
+            4.454077,51.764850,0.000000
+            4.445538,51.764362,0.000000
+            4.439681,51.764697,0.000000
+            4.438499,51.767330,0.000000
+            4.433910,51.767178,0.000000
+            4.424858,51.769537,0.000000
+            4.426241,51.771387,0.000000
+            4.431880,51.770375,0.000000
+            4.439645,51.770122,0.000000
+            4.435821,51.779076,0.000000
+            4.435862,51.781981,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

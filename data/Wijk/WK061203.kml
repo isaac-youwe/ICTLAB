@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK061203 Wijk 03 Sterrenkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.311518,51.844565,0.000000
+            4.313242,51.841993,0.000000
+            4.315855,51.842457,0.000000
+            4.317155,51.842444,0.000000
+            4.319269,51.842538,0.000000
+            4.322570,51.842685,0.000000
+            4.327227,51.843151,0.000000
+            4.330525,51.843294,0.000000
+            4.330587,51.843057,0.000000
+            4.330783,51.841847,0.000000
+            4.331136,51.838696,0.000000
+            4.331130,51.838058,0.000000
+            4.324564,51.837759,0.000000
+            4.317883,51.837213,0.000000
+            4.316227,51.836863,0.000000
+            4.314492,51.836793,0.000000
+            4.311125,51.842889,0.000000
+            4.311518,51.844565,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17730200 Wesepe Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.214230,52.329008,0.000000
+            6.206583,52.325344,0.000000
+            6.202238,52.328253,0.000000
+            6.205974,52.331062,0.000000
+            6.211676,52.331686,0.000000
+            6.212409,52.332473,0.000000
+            6.216234,52.332215,0.000000
+            6.222312,52.330516,0.000000
+            6.214230,52.329008,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

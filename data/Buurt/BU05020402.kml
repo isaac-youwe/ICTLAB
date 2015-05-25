@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020402 Diepenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.606560,51.934892,0.000000
+            4.603293,51.933451,0.000000
+            4.602405,51.933652,0.000000
+            4.599939,51.935268,0.000000
+            4.599491,51.936029,0.000000
+            4.602333,51.937720,0.000000
+            4.604800,51.937378,0.000000
+            4.606560,51.934892,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

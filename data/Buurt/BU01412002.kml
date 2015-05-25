@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01412002 Bedrijvenpark Twente</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.609620,52.389761,0.000000
+            6.613927,52.386121,0.000000
+            6.615396,52.386106,0.000000
+            6.615589,52.386187,0.000000
+            6.619910,52.382842,0.000000
+            6.626007,52.378132,0.000000
+            6.618821,52.374577,0.000000
+            6.618643,52.371129,0.000000
+            6.624160,52.366542,0.000000
+            6.621619,52.363182,0.000000
+            6.616038,52.362895,0.000000
+            6.613355,52.365451,0.000000
+            6.611535,52.366032,0.000000
+            6.610444,52.366380,0.000000
+            6.607532,52.367309,0.000000
+            6.606188,52.371818,0.000000
+            6.599165,52.383576,0.000000
+            6.609620,52.389761,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

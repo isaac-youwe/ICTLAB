@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020102 Trompenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.164571,52.245823,0.000000
+            5.168748,52.244275,0.000000
+            5.171095,52.245641,0.000000
+            5.175118,52.235783,0.000000
+            5.173627,52.234582,0.000000
+            5.168019,52.234137,0.000000
+            5.168213,52.232496,0.000000
+            5.169823,52.231971,0.000000
+            5.168321,52.229878,0.000000
+            5.165053,52.228975,0.000000
+            5.158635,52.232470,0.000000
+            5.161529,52.236814,0.000000
+            5.160969,52.241663,0.000000
+            5.161321,52.245991,0.000000
+            5.164571,52.245823,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

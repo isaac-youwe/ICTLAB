@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411201 Parkweg en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.663845,52.368045,0.000000
+            6.668471,52.366982,0.000000
+            6.671598,52.367177,0.000000
+            6.671982,52.365295,0.000000
+            6.672749,52.362094,0.000000
+            6.667931,52.362131,0.000000
+            6.661444,52.361893,0.000000
+            6.659929,52.361672,0.000000
+            6.660003,52.367424,0.000000
+            6.658992,52.368325,0.000000
+            6.663845,52.368045,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

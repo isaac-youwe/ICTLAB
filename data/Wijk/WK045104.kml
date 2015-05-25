@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK045104 Wijk 04 Legmeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.818332,52.244353,0.000000
+            4.816001,52.241348,0.000000
+            4.809320,52.245204,0.000000
+            4.801141,52.248954,0.000000
+            4.807707,52.257842,0.000000
+            4.815941,52.255366,0.000000
+            4.816336,52.255247,0.000000
+            4.824690,52.252734,0.000000
+            4.820706,52.247544,0.000000
+            4.818332,52.244353,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

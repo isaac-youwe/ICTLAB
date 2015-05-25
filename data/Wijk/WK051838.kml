@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051838 Wijk 38 Laakkwartier en Spoorwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.315505,52.050517,0.000000
+            4.309769,52.048683,0.000000
+            4.308298,52.051804,0.000000
+            4.308383,52.055268,0.000000
+            4.308506,52.056165,0.000000
+            4.311218,52.062484,0.000000
+            4.319314,52.068436,0.000000
+            4.324929,52.071042,0.000000
+            4.326145,52.071551,0.000000
+            4.332718,52.067959,0.000000
+            4.340457,52.061530,0.000000
+            4.340037,52.061526,0.000000
+            4.339671,52.061363,0.000000
+            4.335283,52.059411,0.000000
+            4.330206,52.057152,0.000000
+            4.325604,52.055104,0.000000
+            4.325409,52.055021,0.000000
+            4.324679,52.054712,0.000000
+            4.321273,52.053267,0.000000
+            4.315985,52.050746,0.000000
+            4.315505,52.050517,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

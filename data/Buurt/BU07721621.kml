@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721621 Hurk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.432249,51.437386,0.000000
+            5.447128,51.435242,0.000000
+            5.451969,51.436030,0.000000
+            5.454673,51.431593,0.000000
+            5.449658,51.429808,0.000000
+            5.442433,51.426693,0.000000
+            5.427464,51.421928,0.000000
+            5.427471,51.429719,0.000000
+            5.426961,51.429959,0.000000
+            5.426020,51.436577,0.000000
+            5.431612,51.438629,0.000000
+            5.432249,51.437386,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

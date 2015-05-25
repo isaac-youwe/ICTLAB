@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK054609 Wijk 09 Stevenshofdistrict</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.448767,52.140652,0.000000
+            4.443381,52.140609,0.000000
+            4.443286,52.145103,0.000000
+            4.443267,52.146002,0.000000
+            4.441729,52.149585,0.000000
+            4.441541,52.149810,0.000000
+            4.438731,52.153157,0.000000
+            4.440135,52.155865,0.000000
+            4.448250,52.161843,0.000000
+            4.450813,52.159447,0.000000
+            4.459707,52.152869,0.000000
+            4.462409,52.151899,0.000000
+            4.459544,52.149727,0.000000
+            4.459263,52.149724,0.000000
+            4.458803,52.149337,0.000000
+            4.454955,52.146095,0.000000
+            4.454669,52.145793,0.000000
+            4.450666,52.141566,0.000000
+            4.450274,52.141318,0.000000
+            4.449224,52.140655,0.000000
+            4.448767,52.140652,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03050007 Rijksstraatweg-Zuid en langs de Angstel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.998754,52.230837,0.000000
+            4.995900,52.230242,0.000000
+            4.991043,52.233325,0.000000
+            4.991295,52.235906,0.000000
+            4.999744,52.238895,0.000000
+            4.991867,52.243691,0.000000
+            4.994481,52.244693,0.000000
+            5.004481,52.241368,0.000000
+            5.006210,52.240063,0.000000
+            5.005287,52.237408,0.000000
+            4.998740,52.234295,0.000000
+            4.998754,52.230837,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

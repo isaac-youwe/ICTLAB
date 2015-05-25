@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK008052 Wijk 52 Wytgaard en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.795828,53.144290,0.000000
+            5.804836,53.125165,0.000000
+            5.796551,53.122484,0.000000
+            5.786118,53.125215,0.000000
+            5.778656,53.126138,0.000000
+            5.769692,53.126167,0.000000
+            5.768182,53.124375,0.000000
+            5.754743,53.125315,0.000000
+            5.756235,53.130534,0.000000
+            5.756283,53.130703,0.000000
+            5.763864,53.143261,0.000000
+            5.763919,53.149552,0.000000
+            5.765303,53.153602,0.000000
+            5.783293,53.151874,0.000000
+            5.781764,53.149558,0.000000
+            5.785619,53.148966,0.000000
+            5.785821,53.144687,0.000000
+            5.795828,53.144290,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

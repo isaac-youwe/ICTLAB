@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07942103 Stepekolk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.602472,51.460793,0.000000
+            5.604108,51.456839,0.000000
+            5.609839,51.456323,0.000000
+            5.614897,51.456229,0.000000
+            5.617191,51.449277,0.000000
+            5.616220,51.449279,0.000000
+            5.614529,51.449282,0.000000
+            5.608774,51.449293,0.000000
+            5.607348,51.451993,0.000000
+            5.603040,51.453799,0.000000
+            5.592988,51.458312,0.000000
+            5.592987,51.458312,0.000000
+            5.592756,51.458416,0.000000
+            5.602472,51.460793,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

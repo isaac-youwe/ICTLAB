@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000508 Waterkeringsbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.779153,52.930397,0.000000
+            4.778645,52.928439,0.000000
+            4.777270,52.928496,0.000000
+            4.774114,52.928509,0.000000
+            4.774175,52.929213,0.000000
+            4.772561,52.929237,0.000000
+            4.772757,52.933348,0.000000
+            4.777337,52.933366,0.000000
+            4.779153,52.930397,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

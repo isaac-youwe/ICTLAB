@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02820004 Leuth</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.991105,51.840422,0.000000
+            5.992844,51.840340,0.000000
+            5.996459,51.842053,0.000000
+            5.998457,51.840039,0.000000
+            6.002004,51.836207,0.000000
+            5.989495,51.836233,0.000000
+            5.985555,51.837204,0.000000
+            5.985491,51.840692,0.000000
+            5.987735,51.843078,0.000000
+            5.991105,51.840422,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

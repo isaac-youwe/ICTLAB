@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK082601 Wijk 01 Slotjes</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.849992,51.641081,0.000000
+            4.857917,51.640655,0.000000
+            4.864809,51.641020,0.000000
+            4.868960,51.640361,0.000000
+            4.872396,51.639226,0.000000
+            4.882683,51.638366,0.000000
+            4.880948,51.635637,0.000000
+            4.874125,51.629587,0.000000
+            4.869397,51.630387,0.000000
+            4.859003,51.632175,0.000000
+            4.855640,51.632902,0.000000
+            4.845315,51.636159,0.000000
+            4.849992,51.641081,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

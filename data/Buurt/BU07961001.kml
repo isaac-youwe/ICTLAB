@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07961001 De Italiaanse buurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.302502,51.718692,0.000000
+            5.296197,51.717809,0.000000
+            5.294772,51.721699,0.000000
+            5.295210,51.724631,0.000000
+            5.298421,51.726155,0.000000
+            5.302643,51.726982,0.000000
+            5.302619,51.724454,0.000000
+            5.304914,51.723533,0.000000
+            5.308295,51.719505,0.000000
+            5.302502,51.718692,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

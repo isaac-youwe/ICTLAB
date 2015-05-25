@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17740308 Verspreide huizen Groot Agelo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.876806,52.364895,0.000000
+            6.857248,52.359249,0.000000
+            6.855865,52.360174,0.000000
+            6.862948,52.363501,0.000000
+            6.863756,52.387764,0.000000
+            6.862982,52.406680,0.000000
+            6.878814,52.409744,0.000000
+            6.882235,52.404501,0.000000
+            6.895946,52.401800,0.000000
+            6.888919,52.396522,0.000000
+            6.896757,52.391922,0.000000
+            6.901104,52.387221,0.000000
+            6.899524,52.377674,0.000000
+            6.905822,52.373579,0.000000
+            6.900219,52.371256,0.000000
+            6.889199,52.370007,0.000000
+            6.876806,52.364895,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06120204 Maaswijktuinen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.343953,51.843623,0.000000
+            4.350067,51.842094,0.000000
+            4.358239,51.842468,0.000000
+            4.358301,51.843313,0.000000
+            4.359865,51.842789,0.000000
+            4.361054,51.839227,0.000000
+            4.356535,51.839604,0.000000
+            4.351324,51.840959,0.000000
+            4.351388,51.838707,0.000000
+            4.344804,51.838345,0.000000
+            4.344763,51.838661,0.000000
+            4.344274,51.842423,0.000000
+            4.343953,51.843623,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

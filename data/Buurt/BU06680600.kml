@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06680600 Kern Dreumel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.441084,51.849887,0.000000
+            5.433950,51.844214,0.000000
+            5.429756,51.846312,0.000000
+            5.420968,51.842829,0.000000
+            5.421675,51.840725,0.000000
+            5.428100,51.835074,0.000000
+            5.425127,51.832396,0.000000
+            5.422396,51.831428,0.000000
+            5.423334,51.834170,0.000000
+            5.417811,51.842967,0.000000
+            5.426815,51.846188,0.000000
+            5.423692,51.847925,0.000000
+            5.426427,51.852354,0.000000
+            5.430540,51.852668,0.000000
+            5.432519,51.853891,0.000000
+            5.433567,51.856158,0.000000
+            5.435254,51.856093,0.000000
+            5.434858,51.854476,0.000000
+            5.441201,51.853528,0.000000
+            5.441084,51.849887,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05690100 Nieuwveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.760773,52.200609,0.000000
+            4.758011,52.196371,0.000000
+            4.759478,52.195431,0.000000
+            4.759762,52.193212,0.000000
+            4.760333,52.191269,0.000000
+            4.757683,52.195125,0.000000
+            4.755467,52.196513,0.000000
+            4.750617,52.195773,0.000000
+            4.738812,52.193881,0.000000
+            4.738686,52.195601,0.000000
+            4.742179,52.196299,0.000000
+            4.740101,52.200895,0.000000
+            4.757211,52.205127,0.000000
+            4.760773,52.200609,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

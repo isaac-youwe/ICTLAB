@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08460100 Nijnsel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.481403,51.558227,0.000000
+            5.485986,51.554415,0.000000
+            5.489079,51.555104,0.000000
+            5.490391,51.553343,0.000000
+            5.487735,51.552101,0.000000
+            5.489430,51.550077,0.000000
+            5.488935,51.549161,0.000000
+            5.481050,51.547295,0.000000
+            5.475743,51.552729,0.000000
+            5.478708,51.553292,0.000000
+            5.476482,51.556925,0.000000
+            5.481403,51.558227,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

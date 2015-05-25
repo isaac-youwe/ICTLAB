@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03020001 Nunspeet-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.779265,52.369766,0.000000
+            5.765922,52.364522,0.000000
+            5.761584,52.368130,0.000000
+            5.761101,52.373033,0.000000
+            5.772277,52.382885,0.000000
+            5.782122,52.387474,0.000000
+            5.785134,52.387049,0.000000
+            5.786292,52.384292,0.000000
+            5.786156,52.371214,0.000000
+            5.779265,52.369766,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

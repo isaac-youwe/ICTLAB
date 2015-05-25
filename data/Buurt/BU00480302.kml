@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480302 Jipsingboertange</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.106893,52.963520,0.000000
+            7.102957,52.962709,0.000000
+            7.094917,52.963229,0.000000
+            7.095393,52.965310,0.000000
+            7.107094,52.968852,0.000000
+            7.109386,52.968561,0.000000
+            7.110531,52.967205,0.000000
+            7.106893,52.963520,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

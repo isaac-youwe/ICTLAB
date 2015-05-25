@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07070000 Meerkerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.994411,51.929043,0.000000
+            4.997850,51.928265,0.000000
+            4.999962,51.928634,0.000000
+            5.000392,51.921803,0.000000
+            5.001431,51.921612,0.000000
+            4.997148,51.920172,0.000000
+            4.997420,51.917237,0.000000
+            4.995999,51.915416,0.000000
+            4.991335,51.913597,0.000000
+            4.986451,51.912980,0.000000
+            4.985814,51.913621,0.000000
+            4.990523,51.923125,0.000000
+            4.991527,51.924790,0.000000
+            4.994411,51.929043,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

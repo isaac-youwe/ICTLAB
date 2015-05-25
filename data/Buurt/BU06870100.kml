@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06870100 Griffioen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.605293,51.501686,0.000000
+            3.605049,51.500339,0.000000
+            3.602642,51.499132,0.000000
+            3.599442,51.498943,0.000000
+            3.594627,51.500958,0.000000
+            3.590064,51.500135,0.000000
+            3.588927,51.504658,0.000000
+            3.589935,51.507366,0.000000
+            3.587874,51.507567,0.000000
+            3.585950,51.512232,0.000000
+            3.599257,51.512535,0.000000
+            3.600993,51.506111,0.000000
+            3.605293,51.501686,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

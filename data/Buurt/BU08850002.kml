@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08850002 Lingsfort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.223618,51.475274,0.000000
+            6.223559,51.472064,0.000000
+            6.211764,51.474146,0.000000
+            6.188608,51.470021,0.000000
+            6.190465,51.473599,0.000000
+            6.199624,51.474884,0.000000
+            6.208211,51.477270,0.000000
+            6.214921,51.481379,0.000000
+            6.218427,51.485200,0.000000
+            6.219481,51.485193,0.000000
+            6.223618,51.475274,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05420004 Langeland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.635736,51.910062,0.000000
+            4.623245,51.908261,0.000000
+            4.622805,51.909061,0.000000
+            4.615489,51.915223,0.000000
+            4.610308,51.916517,0.000000
+            4.605301,51.920157,0.000000
+            4.607907,51.920971,0.000000
+            4.617825,51.921074,0.000000
+            4.623608,51.926338,0.000000
+            4.623834,51.926167,0.000000
+            4.631167,51.921727,0.000000
+            4.631179,51.921720,0.000000
+            4.642958,51.912805,0.000000
+            4.642973,51.911906,0.000000
+            4.642661,51.911827,0.000000
+            4.635736,51.910062,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

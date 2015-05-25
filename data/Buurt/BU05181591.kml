@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05181591 Kijkduin</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.223285,52.066417,0.000000
+            4.219515,52.064996,0.000000
+            4.218185,52.065912,0.000000
+            4.215024,52.064160,0.000000
+            4.213279,52.064986,0.000000
+            4.231613,52.078453,0.000000
+            4.237393,52.075977,0.000000
+            4.240582,52.072224,0.000000
+            4.231792,52.068569,0.000000
+            4.227601,52.068177,0.000000
+            4.223285,52.066417,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

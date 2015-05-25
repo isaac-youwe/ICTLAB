@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000601 Oostoever</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.791085,52.935600,0.000000
+            4.792210,52.932972,0.000000
+            4.802815,52.918644,0.000000
+            4.804338,52.915955,0.000000
+            4.808810,52.915078,0.000000
+            4.811808,52.913295,0.000000
+            4.808822,52.914179,0.000000
+            4.804410,52.910563,0.000000
+            4.797216,52.912261,0.000000
+            4.797511,52.914565,0.000000
+            4.795246,52.915938,0.000000
+            4.792357,52.921701,0.000000
+            4.788320,52.928555,0.000000
+            4.786728,52.931172,0.000000
+            4.786782,52.933952,0.000000
+            4.790458,52.933944,0.000000
+            4.791085,52.935600,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

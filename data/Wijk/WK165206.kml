@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK165206 Wijk 06 De Rips</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.809919,51.573696,0.000000
+            5.819966,51.568265,0.000000
+            5.822851,51.568255,0.000000
+            5.822879,51.568251,0.000000
+            5.838701,51.566397,0.000000
+            5.848345,51.525148,0.000000
+            5.839917,51.526258,0.000000
+            5.823322,51.514761,0.000000
+            5.817138,51.513285,0.000000
+            5.794766,51.520795,0.000000
+            5.754840,51.535015,0.000000
+            5.750351,51.536610,0.000000
+            5.762726,51.543004,0.000000
+            5.774527,51.549073,0.000000
+            5.809504,51.573914,0.000000
+            5.809919,51.573696,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

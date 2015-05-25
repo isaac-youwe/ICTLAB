@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08600400 Erp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.602010,51.607232,0.000000
+            5.607281,51.604776,0.000000
+            5.609336,51.605913,0.000000
+            5.613318,51.602643,0.000000
+            5.613202,51.599299,0.000000
+            5.616936,51.598760,0.000000
+            5.617872,51.596414,0.000000
+            5.623100,51.592122,0.000000
+            5.622342,51.589275,0.000000
+            5.620189,51.587464,0.000000
+            5.606367,51.595861,0.000000
+            5.603756,51.597149,0.000000
+            5.599389,51.597891,0.000000
+            5.597288,51.599682,0.000000
+            5.590490,51.599218,0.000000
+            5.591683,51.601594,0.000000
+            5.598530,51.607476,0.000000
+            5.602010,51.607232,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

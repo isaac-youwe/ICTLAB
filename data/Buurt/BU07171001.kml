@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07171001 De Ruiser</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.507136,51.489088,0.000000
+            3.505817,51.488402,0.000000
+            3.500499,51.493683,0.000000
+            3.506771,51.494804,0.000000
+            3.508162,51.492745,0.000000
+            3.505390,51.492232,0.000000
+            3.505605,51.489946,0.000000
+            3.507136,51.489088,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

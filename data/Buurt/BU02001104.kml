@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02001104 Bosgebied Hoog Buurloo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.866200,52.155001,0.000000
+            5.859432,52.148233,0.000000
+            5.859194,52.148834,0.000000
+            5.846071,52.151583,0.000000
+            5.809537,52.151719,0.000000
+            5.809682,52.167000,0.000000
+            5.802465,52.176914,0.000000
+            5.812777,52.184967,0.000000
+            5.799707,52.194902,0.000000
+            5.792414,52.196724,0.000000
+            5.793077,52.196969,0.000000
+            5.828542,52.199916,0.000000
+            5.840168,52.192728,0.000000
+            5.846574,52.189924,0.000000
+            5.856118,52.187856,0.000000
+            5.871867,52.186605,0.000000
+            5.862643,52.180027,0.000000
+            5.862020,52.170517,0.000000
+            5.864506,52.159177,0.000000
+            5.866739,52.156709,0.000000
+            5.866200,52.155001,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

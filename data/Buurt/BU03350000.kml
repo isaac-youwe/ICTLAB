@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03350000 Montfoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.951026,52.051012,0.000000
+            4.955036,52.042686,0.000000
+            4.957993,52.043897,0.000000
+            4.959753,52.042157,0.000000
+            4.956497,52.038219,0.000000
+            4.958594,52.034652,0.000000
+            4.953234,52.031859,0.000000
+            4.952424,52.033056,0.000000
+            4.946401,52.040393,0.000000
+            4.944604,52.040162,0.000000
+            4.941689,52.042775,0.000000
+            4.934976,52.039066,0.000000
+            4.931699,52.042677,0.000000
+            4.930133,52.046268,0.000000
+            4.932529,52.046977,0.000000
+            4.936778,52.045806,0.000000
+            4.941122,52.046146,0.000000
+            4.943541,52.048599,0.000000
+            4.951026,52.051012,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

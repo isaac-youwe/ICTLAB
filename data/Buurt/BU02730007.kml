@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02730007 Verspreide huizen Gerven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.608013,52.205298,0.000000
+            5.551062,52.202700,0.000000
+            5.536812,52.217656,0.000000
+            5.550265,52.218924,0.000000
+            5.555991,52.220279,0.000000
+            5.558453,52.221866,0.000000
+            5.559940,52.224905,0.000000
+            5.568353,52.226568,0.000000
+            5.582929,52.226167,0.000000
+            5.599337,52.224600,0.000000
+            5.607238,52.223032,0.000000
+            5.608518,52.213133,0.000000
+            5.608013,52.205298,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

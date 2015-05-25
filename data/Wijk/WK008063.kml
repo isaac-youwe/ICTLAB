@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK008063 Wijk 63 Valeriuskwartier &amp; Magere Weide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.776674,53.205634,0.000000
+            5.772709,53.205647,0.000000
+            5.775231,53.212010,0.000000
+            5.775193,53.215699,0.000000
+            5.775320,53.217973,0.000000
+            5.780713,53.217591,0.000000
+            5.781067,53.217160,0.000000
+            5.781246,53.213342,0.000000
+            5.782625,53.211664,0.000000
+            5.779557,53.209897,0.000000
+            5.776674,53.205634,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

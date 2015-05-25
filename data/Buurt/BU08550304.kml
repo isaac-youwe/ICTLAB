@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550304 Wandelbos-noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.046717,51.576636,0.000000
+            5.044807,51.572346,0.000000
+            5.037250,51.574912,0.000000
+            5.029055,51.576144,0.000000
+            5.022607,51.578704,0.000000
+            5.027908,51.582943,0.000000
+            5.044620,51.580977,0.000000
+            5.047863,51.577106,0.000000
+            5.046717,51.576636,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

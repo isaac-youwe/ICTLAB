@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000106 Grachtengordel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.782499,52.951054,0.000000
+            4.782665,52.949606,0.000000
+            4.778033,52.950396,0.000000
+            4.778156,52.952262,0.000000
+            4.775725,52.952902,0.000000
+            4.775904,52.953765,0.000000
+            4.771736,52.956189,0.000000
+            4.767225,52.957013,0.000000
+            4.766501,52.957773,0.000000
+            4.771526,52.957701,0.000000
+            4.782499,52.951054,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

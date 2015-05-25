@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940559 Badhoevedorp-Antoniushove</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.790763,52.336040,0.000000
+            4.791641,52.334478,0.000000
+            4.793219,52.335270,0.000000
+            4.796807,52.333603,0.000000
+            4.797385,52.334603,0.000000
+            4.797856,52.334340,0.000000
+            4.801546,52.332283,0.000000
+            4.794893,52.328784,0.000000
+            4.785350,52.334664,0.000000
+            4.785140,52.335495,0.000000
+            4.790763,52.336040,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

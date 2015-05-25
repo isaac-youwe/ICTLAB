@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05310302 Buitengebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.658748,51.840463,0.000000
+            4.659659,51.831014,0.000000
+            4.659860,51.830684,0.000000
+            4.653373,51.829177,0.000000
+            4.653341,51.829395,0.000000
+            4.643428,51.839648,0.000000
+            4.644646,51.840532,0.000000
+            4.645289,51.840119,0.000000
+            4.654078,51.844891,0.000000
+            4.656552,51.842982,0.000000
+            4.658748,51.840463,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

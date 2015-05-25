@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05184001 Erasmus Veld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.291142,52.040124,0.000000
+            4.277692,52.032403,0.000000
+            4.272129,52.035731,0.000000
+            4.271075,52.035283,0.000000
+            4.279930,52.040354,0.000000
+            4.288659,52.044484,0.000000
+            4.290951,52.040943,0.000000
+            4.290964,52.040403,0.000000
+            4.291142,52.040124,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

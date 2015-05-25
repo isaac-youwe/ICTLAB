@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02520107 Verspreide huizen Worsum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.810178,51.756185,0.000000
+            5.809818,51.756139,0.000000
+            5.806939,51.759617,0.000000
+            5.802456,51.762492,0.000000
+            5.790663,51.764660,0.000000
+            5.793317,51.770165,0.000000
+            5.799395,51.775245,0.000000
+            5.812993,51.770815,0.000000
+            5.810736,51.768715,0.000000
+            5.820996,51.766446,0.000000
+            5.821581,51.757028,0.000000
+            5.810178,51.756185,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

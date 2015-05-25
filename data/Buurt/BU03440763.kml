@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440763 Oud Hoograven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.125471,52.070446,0.000000
+            5.124917,52.069265,0.000000
+            5.121295,52.069897,0.000000
+            5.116895,52.060295,0.000000
+            5.112361,52.061382,0.000000
+            5.113042,52.062577,0.000000
+            5.119151,52.073109,0.000000
+            5.125847,52.071279,0.000000
+            5.125471,52.070446,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

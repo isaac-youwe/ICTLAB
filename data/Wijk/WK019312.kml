@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK019312 Wijk 12 Wipstrik</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.130752,52.502100,0.000000
+            6.127388,52.500535,0.000000
+            6.123133,52.504336,0.000000
+            6.122160,52.505465,0.000000
+            6.116018,52.507073,0.000000
+            6.111674,52.508092,0.000000
+            6.104166,52.511996,0.000000
+            6.109256,52.514780,0.000000
+            6.113384,52.517246,0.000000
+            6.118808,52.518513,0.000000
+            6.120288,52.512204,0.000000
+            6.123601,52.507426,0.000000
+            6.127998,52.503794,0.000000
+            6.130752,52.502100,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

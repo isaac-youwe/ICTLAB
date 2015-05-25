@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07370700 Eastermar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.070537,53.187737,0.000000
+            6.077668,53.185818,0.000000
+            6.077503,53.176785,0.000000
+            6.070896,53.169745,0.000000
+            6.070538,53.167159,0.000000
+            6.068436,53.164397,0.000000
+            6.062371,53.165406,0.000000
+            6.061851,53.167166,0.000000
+            6.057029,53.171978,0.000000
+            6.048234,53.178045,0.000000
+            6.053660,53.182145,0.000000
+            6.055491,53.187677,0.000000
+            6.067733,53.186952,0.000000
+            6.070537,53.187737,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

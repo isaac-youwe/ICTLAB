@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK008044 Wijk 44 Huizem-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.797628,53.190517,0.000000
+            5.796961,53.186491,0.000000
+            5.785173,53.189626,0.000000
+            5.776965,53.194265,0.000000
+            5.782938,53.195103,0.000000
+            5.787584,53.195452,0.000000
+            5.796778,53.196858,0.000000
+            5.798696,53.195736,0.000000
+            5.798497,53.193571,0.000000
+            5.798274,53.192692,0.000000
+            5.797843,53.191054,0.000000
+            5.797628,53.190517,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

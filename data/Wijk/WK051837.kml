@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK051837 Wijk 37 Groente- en Fruitmarkt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.301074,52.062611,0.000000
+            4.305950,52.061132,0.000000
+            4.307810,52.061382,0.000000
+            4.311218,52.062484,0.000000
+            4.308506,52.056165,0.000000
+            4.308383,52.055268,0.000000
+            4.292148,52.059038,0.000000
+            4.292510,52.059779,0.000000
+            4.301074,52.062611,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

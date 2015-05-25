@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580300 Blauwe Kei</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.794859,51.570986,0.000000
+            4.792512,51.569668,0.000000
+            4.788344,51.572407,0.000000
+            4.783546,51.573562,0.000000
+            4.790846,51.576438,0.000000
+            4.805306,51.579703,0.000000
+            4.805988,51.579252,0.000000
+            4.806814,51.578205,0.000000
+            4.794859,51.570986,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

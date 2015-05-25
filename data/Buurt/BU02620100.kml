@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02620100 Zwiep</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.453307,52.143759,0.000000
+            6.449600,52.143018,0.000000
+            6.446413,52.143244,0.000000
+            6.448917,52.145250,0.000000
+            6.444310,52.148577,0.000000
+            6.444769,52.150137,0.000000
+            6.447656,52.150278,0.000000
+            6.452870,52.148206,0.000000
+            6.454285,52.145573,0.000000
+            6.453307,52.143759,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

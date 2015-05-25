@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06060909 Agrarisch gebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.378720,51.962976,0.000000
+            4.388450,51.946531,0.000000
+            4.388535,51.946387,0.000000
+            4.392075,51.939984,0.000000
+            4.389008,51.940227,0.000000
+            4.386595,51.942460,0.000000
+            4.385063,51.941581,0.000000
+            4.383939,51.942999,0.000000
+            4.386164,51.944800,0.000000
+            4.386414,51.948042,0.000000
+            4.382177,51.950697,0.000000
+            4.378788,51.949080,0.000000
+            4.372620,51.947999,0.000000
+            4.364350,51.946106,0.000000
+            4.355761,51.944032,0.000000
+            4.349890,51.951038,0.000000
+            4.367263,51.954786,0.000000
+            4.362756,51.961040,0.000000
+            4.378720,51.962976,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

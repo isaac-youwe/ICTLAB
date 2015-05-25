@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590400 Ruurlo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.469575,52.075985,0.000000
+            6.467803,52.074164,0.000000
+            6.460979,52.077533,0.000000
+            6.447118,52.081612,0.000000
+            6.439216,52.083726,0.000000
+            6.444432,52.090321,0.000000
+            6.442907,52.091605,0.000000
+            6.446613,52.094665,0.000000
+            6.452204,52.094805,0.000000
+            6.456906,52.093928,0.000000
+            6.459113,52.093010,0.000000
+            6.460266,52.090451,0.000000
+            6.455451,52.086854,0.000000
+            6.457278,52.085871,0.000000
+            6.456726,52.083515,0.000000
+            6.462253,52.079431,0.000000
+            6.469575,52.075985,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

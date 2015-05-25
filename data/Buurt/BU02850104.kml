@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02850104 Nijbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.066491,52.292732,0.000000
+            6.063943,52.291103,0.000000
+            6.060379,52.291263,0.000000
+            6.059124,52.292770,0.000000
+            6.060982,52.293999,0.000000
+            6.062456,52.294310,0.000000
+            6.066178,52.293271,0.000000
+            6.066491,52.292732,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

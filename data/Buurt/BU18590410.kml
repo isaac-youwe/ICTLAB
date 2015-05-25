@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590410 Verspreide huizen Ruurlosche Broek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.463386,52.046410,0.000000
+            6.471629,52.038897,0.000000
+            6.480680,52.042002,0.000000
+            6.487902,52.032479,0.000000
+            6.487615,52.032273,0.000000
+            6.483221,52.031415,0.000000
+            6.480351,52.033240,0.000000
+            6.465475,52.020791,0.000000
+            6.462583,52.021716,0.000000
+            6.458234,52.022655,0.000000
+            6.457542,52.022753,0.000000
+            6.447753,52.043599,0.000000
+            6.463386,52.046410,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

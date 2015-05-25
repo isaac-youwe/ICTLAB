@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16760003 Zuidhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.939619,51.650749,0.000000
+            3.932094,51.644827,0.000000
+            3.927172,51.645369,0.000000
+            3.924158,51.639642,0.000000
+            3.914085,51.641049,0.000000
+            3.913590,51.639067,0.000000
+            3.908649,51.638855,0.000000
+            3.907581,51.639690,0.000000
+            3.907642,51.639720,0.000000
+            3.908041,51.640109,0.000000
+            3.909463,51.641497,0.000000
+            3.917120,51.645574,0.000000
+            3.920060,51.646807,0.000000
+            3.925959,51.647484,0.000000
+            3.932823,51.648324,0.000000
+            3.937214,51.650088,0.000000
+            3.937733,51.651007,0.000000
+            3.939619,51.650749,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

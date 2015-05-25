@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04500001 District 1</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.715307,52.535269,0.000000
+            4.713770,52.533336,0.000000
+            4.705595,52.536368,0.000000
+            4.706061,52.542018,0.000000
+            4.706954,52.542196,0.000000
+            4.709452,52.540838,0.000000
+            4.710429,52.538347,0.000000
+            4.714878,52.536624,0.000000
+            4.715307,52.535269,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

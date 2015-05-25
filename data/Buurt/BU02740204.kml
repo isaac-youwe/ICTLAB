@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02740204 Verspreide huizen Reyerscamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.812705,52.024062,0.000000
+            5.808283,52.018684,0.000000
+            5.806759,52.011498,0.000000
+            5.803803,52.007014,0.000000
+            5.803801,52.006767,0.000000
+            5.784331,52.012117,0.000000
+            5.780183,52.008079,0.000000
+            5.766399,52.010947,0.000000
+            5.770666,52.021539,0.000000
+            5.777717,52.022385,0.000000
+            5.796660,52.022321,0.000000
+            5.802480,52.021401,0.000000
+            5.803573,52.021734,0.000000
+            5.805402,52.022290,0.000000
+            5.812705,52.024062,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

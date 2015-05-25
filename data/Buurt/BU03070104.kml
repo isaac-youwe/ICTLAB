@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03070104 Coninckstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.397429,52.158732,0.000000
+            5.393079,52.157208,0.000000
+            5.391365,52.158038,0.000000
+            5.386372,52.158009,0.000000
+            5.384924,52.159171,0.000000
+            5.389642,52.160632,0.000000
+            5.390164,52.160702,0.000000
+            5.394500,52.160245,0.000000
+            5.397429,52.158732,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

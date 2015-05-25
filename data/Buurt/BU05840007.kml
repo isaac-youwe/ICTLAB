@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05840007 Zuidwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.415589,51.818810,0.000000
+            4.413985,51.814032,0.000000
+            4.397403,51.815571,0.000000
+            4.396678,51.817010,0.000000
+            4.396002,51.817431,0.000000
+            4.400801,51.821966,0.000000
+            4.402262,51.821248,0.000000
+            4.413397,51.820043,0.000000
+            4.415589,51.818810,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

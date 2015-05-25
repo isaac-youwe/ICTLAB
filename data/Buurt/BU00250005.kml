@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00250005 Lucaswolde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.318761,53.189170,0.000000
+            6.315832,53.185015,0.000000
+            6.293767,53.173809,0.000000
+            6.277308,53.169099,0.000000
+            6.273455,53.179367,0.000000
+            6.284828,53.181833,0.000000
+            6.287857,53.183608,0.000000
+            6.286398,53.185416,0.000000
+            6.283406,53.185439,0.000000
+            6.282022,53.190841,0.000000
+            6.298293,53.193375,0.000000
+            6.298536,53.193413,0.000000
+            6.315053,53.195983,0.000000
+            6.318123,53.199554,0.000000
+            6.318123,53.199563,0.000000
+            6.318338,53.199137,0.000000
+            6.318365,53.199136,0.000000
+            6.318761,53.189170,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

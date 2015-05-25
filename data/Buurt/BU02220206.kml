@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220206 Wonninkhage</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.303820,51.974393,0.000000
+            6.301177,51.972541,0.000000
+            6.301787,51.974839,0.000000
+            6.302396,51.976425,0.000000
+            6.307028,51.979063,0.000000
+            6.312844,51.977377,0.000000
+            6.320226,51.977130,0.000000
+            6.320875,51.975810,0.000000
+            6.318297,51.975781,0.000000
+            6.306278,51.975837,0.000000
+            6.303820,51.974393,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00980801 Boijl</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.207603,52.908334,0.000000
+            6.176801,52.898875,0.000000
+            6.172181,52.904384,0.000000
+            6.186949,52.907878,0.000000
+            6.199349,52.912061,0.000000
+            6.204054,52.912681,0.000000
+            6.204856,52.911938,0.000000
+            6.207603,52.908334,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

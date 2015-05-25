@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK091721 Wijk 21 Heerlerheid-Passart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.960076,50.914049,0.000000
+            5.955355,50.913803,0.000000
+            5.946533,50.917005,0.000000
+            5.946288,50.917104,0.000000
+            5.945730,50.918228,0.000000
+            5.945409,50.921776,0.000000
+            5.942085,50.926811,0.000000
+            5.945727,50.928320,0.000000
+            5.952858,50.927045,0.000000
+            5.952651,50.926001,0.000000
+            5.950170,50.924388,0.000000
+            5.955620,50.920726,0.000000
+            5.962347,50.919907,0.000000
+            5.964677,50.918664,0.000000
+            5.960505,50.915216,0.000000
+            5.960076,50.914049,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09410000 Meijel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.891713,51.334220,0.000000
+            5.888782,51.331053,0.000000
+            5.886544,51.330367,0.000000
+            5.883203,51.332188,0.000000
+            5.879299,51.332133,0.000000
+            5.881782,51.337429,0.000000
+            5.870550,51.340663,0.000000
+            5.874531,51.344994,0.000000
+            5.873839,51.347279,0.000000
+            5.868531,51.351871,0.000000
+            5.871041,51.352309,0.000000
+            5.873922,51.353196,0.000000
+            5.878248,51.354976,0.000000
+            5.878380,51.355050,0.000000
+            5.889008,51.348862,0.000000
+            5.898347,51.345346,0.000000
+            5.892729,51.338970,0.000000
+            5.891713,51.334220,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

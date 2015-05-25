@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04970102 Buitenkerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.740502,52.103957,0.000000
+            4.748013,52.099333,0.000000
+            4.751126,52.099449,0.000000
+            4.759221,52.101834,0.000000
+            4.764160,52.101512,0.000000
+            4.766835,52.100380,0.000000
+            4.739330,52.089150,0.000000
+            4.737835,52.097967,0.000000
+            4.734544,52.102035,0.000000
+            4.734694,52.102129,0.000000
+            4.740502,52.103957,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

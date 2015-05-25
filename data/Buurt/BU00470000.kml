@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00470000 Veendam-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.843254,53.110894,0.000000
+            6.867391,53.109606,0.000000
+            6.871701,53.110471,0.000000
+            6.886332,53.110349,0.000000
+            6.879157,53.103515,0.000000
+            6.875768,53.105861,0.000000
+            6.870339,53.105683,0.000000
+            6.868905,53.105987,0.000000
+            6.864275,53.104683,0.000000
+            6.860584,53.106827,0.000000
+            6.853234,53.107283,0.000000
+            6.852953,53.106604,0.000000
+            6.838178,53.107289,0.000000
+            6.836879,53.108437,0.000000
+            6.837481,53.110008,0.000000
+            6.839726,53.110952,0.000000
+            6.843254,53.110894,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

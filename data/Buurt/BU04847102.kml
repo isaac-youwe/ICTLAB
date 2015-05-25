@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04847102 Zwammerdam Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.734539,52.102032,0.000000
+            4.733336,52.101277,0.000000
+            4.724634,52.105889,0.000000
+            4.720625,52.107989,0.000000
+            4.721242,52.108692,0.000000
+            4.722024,52.108551,0.000000
+            4.729317,52.106638,0.000000
+            4.734539,52.102032,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

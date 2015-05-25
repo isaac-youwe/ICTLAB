@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16960409 Horstermeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.090475,52.240780,0.000000
+            5.084688,52.238250,0.000000
+            5.079077,52.238565,0.000000
+            5.072456,52.236811,0.000000
+            5.068442,52.236672,0.000000
+            5.064665,52.237862,0.000000
+            5.054803,52.246408,0.000000
+            5.054617,52.253480,0.000000
+            5.071114,52.261672,0.000000
+            5.084657,52.260255,0.000000
+            5.093353,52.256496,0.000000
+            5.093540,52.255448,0.000000
+            5.098711,52.249484,0.000000
+            5.090475,52.240780,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

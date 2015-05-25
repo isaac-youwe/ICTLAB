@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01091004 De Heege</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.753465,52.651173,0.000000
+            6.746507,52.650425,0.000000
+            6.739792,52.652474,0.000000
+            6.736089,52.654461,0.000000
+            6.740524,52.657429,0.000000
+            6.745089,52.658601,0.000000
+            6.747181,52.658540,0.000000
+            6.748773,52.655958,0.000000
+            6.754685,52.654460,0.000000
+            6.753465,52.651173,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

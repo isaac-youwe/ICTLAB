@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06450002 Hoogmade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.587185,52.169288,0.000000
+            4.567921,52.163874,0.000000
+            4.568085,52.162447,0.000000
+            4.565501,52.161837,0.000000
+            4.564611,52.161828,0.000000
+            4.562531,52.165653,0.000000
+            4.562724,52.165775,0.000000
+            4.564136,52.168482,0.000000
+            4.564275,52.168552,0.000000
+            4.565344,52.167141,0.000000
+            4.577522,52.169744,0.000000
+            4.580398,52.171156,0.000000
+            4.580747,52.173263,0.000000
+            4.579267,52.175604,0.000000
+            4.585664,52.178422,0.000000
+            4.589784,52.171544,0.000000
+            4.587185,52.169288,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

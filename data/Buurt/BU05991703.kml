@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991703 Rijnpoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.192652,51.954940,0.000000
+            4.217733,51.941707,0.000000
+            4.219187,51.941721,0.000000
+            4.214327,51.936103,0.000000
+            4.212128,51.933560,0.000000
+            4.193195,51.940816,0.000000
+            4.173191,51.949409,0.000000
+            4.143704,51.964198,0.000000
+            4.147742,51.967354,0.000000
+            4.148258,51.969001,0.000000
+            4.153195,51.972005,0.000000
+            4.155046,51.978170,0.000000
+            4.155644,51.977932,0.000000
+            4.174734,51.971838,0.000000
+            4.190311,51.965937,0.000000
+            4.190910,51.965710,0.000000
+            4.186617,51.962969,0.000000
+            4.192652,51.954940,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

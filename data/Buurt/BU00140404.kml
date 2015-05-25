@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140404 Damsterbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.596583,53.221808,0.000000
+            6.580588,53.217156,0.000000
+            6.578751,53.218475,0.000000
+            6.583232,53.220649,0.000000
+            6.589432,53.222339,0.000000
+            6.592871,53.223810,0.000000
+            6.593332,53.225463,0.000000
+            6.596583,53.221808,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

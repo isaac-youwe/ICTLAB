@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17310802 Hoogersmilde-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.396325,52.901191,0.000000
+            6.389567,52.894968,0.000000
+            6.391716,52.894136,0.000000
+            6.389214,52.891965,0.000000
+            6.387800,52.892568,0.000000
+            6.383876,52.889082,0.000000
+            6.381680,52.889770,0.000000
+            6.383890,52.892511,0.000000
+            6.381834,52.893083,0.000000
+            6.390657,52.901801,0.000000
+            6.392723,52.901013,0.000000
+            6.393925,52.902032,0.000000
+            6.396325,52.901191,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480409 Verspreide huizen Halsterse Polders</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.256870,51.537771,0.000000
+            4.253199,51.535019,0.000000
+            4.252900,51.532063,0.000000
+            4.254297,51.528088,0.000000
+            4.256626,51.527648,0.000000
+            4.262292,51.524493,0.000000
+            4.261685,51.513655,0.000000
+            4.249106,51.518084,0.000000
+            4.238545,51.510356,0.000000
+            4.232779,51.512166,0.000000
+            4.220855,51.512913,0.000000
+            4.226432,51.523510,0.000000
+            4.225574,51.523662,0.000000
+            4.225621,51.523737,0.000000
+            4.232362,51.537053,0.000000
+            4.232625,51.536971,0.000000
+            4.238470,51.535871,0.000000
+            4.246236,51.535543,0.000000
+            4.256870,51.537771,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK043903 Wijk 03 Wheermolen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.974197,52.505129,0.000000
+            4.970606,52.503473,0.000000
+            4.964957,52.505275,0.000000
+            4.957143,52.507261,0.000000
+            4.958689,52.508900,0.000000
+            4.963213,52.510417,0.000000
+            4.966261,52.511188,0.000000
+            4.971110,52.512405,0.000000
+            4.983518,52.515521,0.000000
+            4.989355,52.518515,0.000000
+            4.986588,52.515270,0.000000
+            4.983075,52.513283,0.000000
+            4.980643,52.510169,0.000000
+            4.974197,52.505129,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

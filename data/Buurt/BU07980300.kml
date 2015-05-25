@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07980300 Diessen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.181775,51.467453,0.000000
+            5.175661,51.466814,0.000000
+            5.172155,51.471002,0.000000
+            5.166105,51.474731,0.000000
+            5.165572,51.478897,0.000000
+            5.168244,51.481444,0.000000
+            5.171340,51.482296,0.000000
+            5.171232,51.484655,0.000000
+            5.181564,51.486375,0.000000
+            5.181952,51.484631,0.000000
+            5.187004,51.480634,0.000000
+            5.187180,51.478931,0.000000
+            5.183638,51.474130,0.000000
+            5.182604,51.471930,0.000000
+            5.183351,51.469459,0.000000
+            5.181775,51.467453,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01400200 Mantgum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.716119,53.123989,0.000000
+            5.709876,53.123837,0.000000
+            5.715243,53.133470,0.000000
+            5.720068,53.133333,0.000000
+            5.723840,53.132626,0.000000
+            5.725857,53.131395,0.000000
+            5.724037,53.127219,0.000000
+            5.716119,53.123989,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

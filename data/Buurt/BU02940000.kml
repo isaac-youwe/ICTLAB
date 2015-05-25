@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02940000 Centrale deel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.722545,51.964905,0.000000
+            6.719697,51.964670,0.000000
+            6.709782,51.971989,0.000000
+            6.711633,51.972089,0.000000
+            6.714817,51.976898,0.000000
+            6.719200,51.978356,0.000000
+            6.724277,51.973255,0.000000
+            6.724200,51.971649,0.000000
+            6.723652,51.965731,0.000000
+            6.722545,51.964905,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

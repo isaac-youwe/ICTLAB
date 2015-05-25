@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00390004 Scheemdermeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.996192,53.167226,0.000000
+            6.996185,53.165478,0.000000
+            6.995361,53.165845,0.000000
+            6.981795,53.171946,0.000000
+            6.986496,53.173853,0.000000
+            6.985655,53.174943,0.000000
+            6.988617,53.175550,0.000000
+            6.994062,53.176760,0.000000
+            6.998330,53.176457,0.000000
+            6.998766,53.174915,0.000000
+            6.995698,53.172178,0.000000
+            6.998248,53.168563,0.000000
+            6.996192,53.167226,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

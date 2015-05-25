@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07370508 Verspreide huizen Earnew_ld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.950704,53.137993,0.000000
+            5.961192,53.146166,0.000000
+            5.973596,53.141887,0.000000
+            5.980136,53.144248,0.000000
+            5.986262,53.142177,0.000000
+            5.974509,53.135224,0.000000
+            5.962506,53.131688,0.000000
+            5.961698,53.131394,0.000000
+            5.950704,53.137993,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.950704,53.137993,0.000000
+            5.944849,53.134343,0.000000
+            5.932717,53.130047,0.000000
+            5.932498,53.128260,0.000000
+            5.922162,53.131875,0.000000
+            5.908865,53.144515,0.000000
+            5.917888,53.148969,0.000000
+            5.923412,53.153057,0.000000
+            5.950704,53.137993,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

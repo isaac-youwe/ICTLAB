@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07961101 Boschveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.296358,51.698914,0.000000
+            5.293371,51.691296,0.000000
+            5.287640,51.692083,0.000000
+            5.283007,51.690764,0.000000
+            5.279420,51.691813,0.000000
+            5.282423,51.693689,0.000000
+            5.290397,51.697286,0.000000
+            5.293786,51.698772,0.000000
+            5.296358,51.698914,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

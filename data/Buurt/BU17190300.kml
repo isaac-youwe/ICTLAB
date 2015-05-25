@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17190300 Wagenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.753839,51.657266,0.000000
+            4.743066,51.655128,0.000000
+            4.738421,51.656925,0.000000
+            4.736812,51.656313,0.000000
+            4.729247,51.656536,0.000000
+            4.724715,51.662671,0.000000
+            4.727338,51.663349,0.000000
+            4.725455,51.666244,0.000000
+            4.736785,51.669110,0.000000
+            4.749282,51.669664,0.000000
+            4.752917,51.669586,0.000000
+            4.753667,51.669004,0.000000
+            4.756281,51.660116,0.000000
+            4.753839,51.657266,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

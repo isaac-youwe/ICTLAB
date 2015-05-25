@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08990333 Bouwberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.989242,50.958913,0.000000
+            5.989336,50.958893,0.000000
+            5.992183,50.958878,0.000000
+            5.992378,50.958865,0.000000
+            6.006405,50.957904,0.000000
+            6.004969,50.957013,0.000000
+            6.005470,50.956811,0.000000
+            6.001017,50.952476,0.000000
+            5.998829,50.952888,0.000000
+            5.996296,50.950897,0.000000
+            5.994064,50.950071,0.000000
+            5.983823,50.956161,0.000000
+            5.983570,50.956785,0.000000
+            5.990662,50.957362,0.000000
+            5.989242,50.958913,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

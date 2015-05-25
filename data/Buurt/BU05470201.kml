@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05470201 Buitenhof-Midden-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.530072,52.166934,0.000000
+            4.524992,52.166265,0.000000
+            4.521492,52.168777,0.000000
+            4.520002,52.169918,0.000000
+            4.522575,52.171108,0.000000
+            4.528882,52.171561,0.000000
+            4.535926,52.168832,0.000000
+            4.530072,52.166934,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

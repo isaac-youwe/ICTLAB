@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01970204 Bredevoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.621546,51.947392,0.000000
+            6.625408,51.943917,0.000000
+            6.634661,51.946034,0.000000
+            6.635262,51.945456,0.000000
+            6.635327,51.945393,0.000000
+            6.633792,51.939480,0.000000
+            6.626092,51.939863,0.000000
+            6.613093,51.938972,0.000000
+            6.608912,51.938534,0.000000
+            6.605836,51.940485,0.000000
+            6.608111,51.944708,0.000000
+            6.614848,51.945398,0.000000
+            6.621546,51.947392,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

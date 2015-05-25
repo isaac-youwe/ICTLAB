@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15860007 Banninghof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.606640,52.037462,0.000000
+            6.610272,52.035715,0.000000
+            6.601037,52.036612,0.000000
+            6.594876,52.039804,0.000000
+            6.596453,52.041170,0.000000
+            6.602841,52.041429,0.000000
+            6.603032,52.039867,0.000000
+            6.605563,52.039621,0.000000
+            6.606640,52.037462,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

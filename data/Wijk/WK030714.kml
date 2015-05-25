@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK030714 Wijk 14 Randenbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.413505,52.147978,0.000000
+            5.405036,52.140168,0.000000
+            5.400442,52.144588,0.000000
+            5.399756,52.147049,0.000000
+            5.395425,52.150196,0.000000
+            5.395788,52.151415,0.000000
+            5.396207,52.152642,0.000000
+            5.393168,52.153549,0.000000
+            5.398054,52.156754,0.000000
+            5.401106,52.157191,0.000000
+            5.406154,52.158016,0.000000
+            5.406560,52.157245,0.000000
+            5.408073,52.154125,0.000000
+            5.409163,52.152516,0.000000
+            5.410234,52.149911,0.000000
+            5.413781,52.148431,0.000000
+            5.413568,52.148081,0.000000
+            5.413505,52.147978,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK014805 Wijk 05 Kluinhaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.273468,52.465227,0.000000
+            6.270224,52.458794,0.000000
+            6.254011,52.463013,0.000000
+            6.246671,52.463965,0.000000
+            6.245556,52.464168,0.000000
+            6.247252,52.468402,0.000000
+            6.248586,52.468940,0.000000
+            6.273468,52.465227,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

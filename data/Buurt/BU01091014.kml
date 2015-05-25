@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01091014 Klinkenvlier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.773349,52.657652,0.000000
+            6.774533,52.651937,0.000000
+            6.770680,52.650496,0.000000
+            6.754685,52.654460,0.000000
+            6.757537,52.657731,0.000000
+            6.763926,52.656172,0.000000
+            6.769459,52.656678,0.000000
+            6.773349,52.657652,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

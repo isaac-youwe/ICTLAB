@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370004 Driemanspolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.492001,52.054371,0.000000
+            4.482968,52.047639,0.000000
+            4.475218,52.047942,0.000000
+            4.481223,52.060878,0.000000
+            4.490432,52.058729,0.000000
+            4.491343,52.057829,0.000000
+            4.492789,52.056181,0.000000
+            4.492001,52.054371,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

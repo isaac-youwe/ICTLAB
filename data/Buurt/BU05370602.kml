@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05370602 Zuidduinen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.409388,52.195327,0.000000
+            4.408111,52.193529,0.000000
+            4.410524,52.190217,0.000000
+            4.417513,52.187036,0.000000
+            4.406049,52.178797,0.000000
+            4.400255,52.171753,0.000000
+            4.391450,52.176140,0.000000
+            4.375123,52.186789,0.000000
+            4.383456,52.196495,0.000000
+            4.385369,52.195776,0.000000
+            4.390621,52.194683,0.000000
+            4.394028,52.196758,0.000000
+            4.398275,52.195798,0.000000
+            4.404150,52.195727,0.000000
+            4.409388,52.195327,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

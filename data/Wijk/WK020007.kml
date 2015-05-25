@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK020007 Wijk 07 Apeldoorn Noordoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.987260,52.214088,0.000000
+            5.986540,52.213928,0.000000
+            5.970370,52.216684,0.000000
+            5.970638,52.217076,0.000000
+            5.972958,52.221065,0.000000
+            5.975199,52.231112,0.000000
+            5.975765,52.235094,0.000000
+            5.975621,52.239358,0.000000
+            5.977787,52.245294,0.000000
+            5.987146,52.245379,0.000000
+            5.991652,52.246858,0.000000
+            6.006138,52.250139,0.000000
+            6.017426,52.228099,0.000000
+            6.015796,52.227336,0.000000
+            6.008866,52.224090,0.000000
+            5.999989,52.219894,0.000000
+            5.987260,52.214088,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

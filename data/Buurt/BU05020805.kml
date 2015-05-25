@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020805 Hoofdweg Sector G</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.588500,51.961649,0.000000
+            4.584589,51.959900,0.000000
+            4.580591,51.963447,0.000000
+            4.580993,51.963637,0.000000
+            4.583802,51.965411,0.000000
+            4.583871,51.965455,0.000000
+            4.587936,51.962183,0.000000
+            4.588301,51.961889,0.000000
+            4.588500,51.961649,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

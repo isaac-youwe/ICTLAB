@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK173503 Wijk 03 Verspreide huizen Kerspel en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.620069,52.214298,0.000000
+            6.615104,52.209876,0.000000
+            6.596961,52.204264,0.000000
+            6.600913,52.202058,0.000000
+            6.596838,52.201229,0.000000
+            6.594425,52.202385,0.000000
+            6.592930,52.202826,0.000000
+            6.591385,52.205899,0.000000
+            6.591759,52.208019,0.000000
+            6.587724,52.212177,0.000000
+            6.584475,52.210115,0.000000
+            6.579427,52.211901,0.000000
+            6.563145,52.221067,0.000000
+            6.571255,52.222554,0.000000
+            6.584819,52.224344,0.000000
+            6.599435,52.226455,0.000000
+            6.602956,52.227004,0.000000
+            6.622763,52.232021,0.000000
+            6.638623,52.218293,0.000000
+            6.632471,52.217820,0.000000
+            6.621470,52.217257,0.000000
+            6.620069,52.214298,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

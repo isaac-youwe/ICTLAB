@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03920901 Boerhaavewijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.672007,52.370529,0.000000
+            4.675084,52.361570,0.000000
+            4.675151,52.361340,0.000000
+            4.657186,52.360607,0.000000
+            4.652161,52.360355,0.000000
+            4.649678,52.366276,0.000000
+            4.644282,52.369042,0.000000
+            4.644085,52.370255,0.000000
+            4.653950,52.370259,0.000000
+            4.665406,52.370382,0.000000
+            4.671312,52.370503,0.000000
+            4.672007,52.370529,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

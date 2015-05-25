@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK038302 Wijk 02 Castricum-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.690422,52.552951,0.000000
+            4.692311,52.547904,0.000000
+            4.691060,52.548170,0.000000
+            4.688701,52.547148,0.000000
+            4.690288,52.544123,0.000000
+            4.686550,52.542512,0.000000
+            4.680301,52.542506,0.000000
+            4.677893,52.541326,0.000000
+            4.675171,52.542592,0.000000
+            4.670785,52.544730,0.000000
+            4.672842,52.548639,0.000000
+            4.670702,52.549540,0.000000
+            4.674252,52.553660,0.000000
+            4.674649,52.553725,0.000000
+            4.679518,52.560233,0.000000
+            4.679431,52.561603,0.000000
+            4.678004,52.562151,0.000000
+            4.689843,52.561314,0.000000
+            4.689282,52.557798,0.000000
+            4.690422,52.552951,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

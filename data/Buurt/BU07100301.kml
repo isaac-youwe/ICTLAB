@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07100301 Hieslum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.503435,53.011687,0.000000
+            5.503418,53.005396,0.000000
+            5.501921,53.002702,0.000000
+            5.506384,53.000001,0.000000
+            5.504520,52.999582,0.000000
+            5.494459,52.997316,0.000000
+            5.484021,52.992832,0.000000
+            5.483819,52.992741,0.000000
+            5.479779,52.994362,0.000000
+            5.475908,53.001943,0.000000
+            5.475726,53.007363,0.000000
+            5.477665,53.010736,0.000000
+            5.480416,53.012193,0.000000
+            5.488288,53.011092,0.000000
+            5.494903,53.014260,0.000000
+            5.496120,53.014584,0.000000
+            5.495991,53.014391,0.000000
+            5.500460,53.013488,0.000000
+            5.503435,53.011687,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

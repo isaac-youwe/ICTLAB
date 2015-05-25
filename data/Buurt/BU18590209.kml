@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590209 Verspreide huizen Beltrumsche Veld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.554683,52.043755,0.000000
+            6.572269,52.039542,0.000000
+            6.592549,52.040982,0.000000
+            6.589837,52.039364,0.000000
+            6.586853,52.037941,0.000000
+            6.575072,52.032322,0.000000
+            6.538460,52.025495,0.000000
+            6.538456,52.025494,0.000000
+            6.522912,52.038099,0.000000
+            6.523330,52.040806,0.000000
+            6.529810,52.050020,0.000000
+            6.554683,52.043755,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

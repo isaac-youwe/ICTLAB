@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06540200 Ovezande</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.824693,51.431482,0.000000
+            3.827983,51.428926,0.000000
+            3.827896,51.426431,0.000000
+            3.824649,51.425479,0.000000
+            3.822762,51.425208,0.000000
+            3.820157,51.427288,0.000000
+            3.817754,51.426600,0.000000
+            3.816866,51.428872,0.000000
+            3.817674,51.430113,0.000000
+            3.816733,51.430904,0.000000
+            3.813026,51.429266,0.000000
+            3.812156,51.429592,0.000000
+            3.817956,51.433510,0.000000
+            3.818578,51.431586,0.000000
+            3.824693,51.431482,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04760021 Sint Maartensvlotbrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.723620,52.795966,0.000000
+            4.700945,52.768285,0.000000
+            4.680582,52.774597,0.000000
+            4.663826,52.780351,0.000000
+            4.663839,52.780368,0.000000
+            4.668124,52.790281,0.000000
+            4.669591,52.791188,0.000000
+            4.675361,52.801110,0.000000
+            4.675505,52.801449,0.000000
+            4.686729,52.793936,0.000000
+            4.695925,52.804960,0.000000
+            4.708335,52.801593,0.000000
+            4.723620,52.795966,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

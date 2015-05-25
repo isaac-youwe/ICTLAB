@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02690109 Verspreide huizen Hattemerbroekse Heide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.036366,52.474292,0.000000
+            6.036313,52.470697,0.000000
+            6.034723,52.462616,0.000000
+            6.030248,52.453791,0.000000
+            6.030177,52.453652,0.000000
+            6.030164,52.452753,0.000000
+            6.029871,52.452403,0.000000
+            6.016315,52.462230,0.000000
+            6.013715,52.464421,0.000000
+            6.015630,52.466613,0.000000
+            6.019900,52.470762,0.000000
+            6.025079,52.473833,0.000000
+            6.027964,52.474348,0.000000
+            6.030083,52.473660,0.000000
+            6.031931,52.475130,0.000000
+            6.030193,52.476669,0.000000
+            6.033478,52.478116,0.000000
+            6.033474,52.477903,0.000000
+            6.036366,52.474292,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

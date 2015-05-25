@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK050326 Wijk 26 Abtswoude</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.370133,51.980347,0.000000
+            4.375598,51.970135,0.000000
+            4.368392,51.969180,0.000000
+            4.368331,51.971876,0.000000
+            4.359640,51.970003,0.000000
+            4.356564,51.977168,0.000000
+            4.343507,51.975254,0.000000
+            4.343223,51.975208,0.000000
+            4.342123,51.977225,0.000000
+            4.355596,51.979334,0.000000
+            4.368566,51.981350,0.000000
+            4.369496,51.981524,0.000000
+            4.370133,51.980347,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

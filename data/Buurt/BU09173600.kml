@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09173600 Terworm</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.960453,50.879661,0.000000
+            5.953077,50.877827,0.000000
+            5.952760,50.878167,0.000000
+            5.938690,50.889922,0.000000
+            5.938574,50.890034,0.000000
+            5.938982,50.890181,0.000000
+            5.950320,50.895223,0.000000
+            5.958015,50.892114,0.000000
+            5.967874,50.885808,0.000000
+            5.960906,50.881037,0.000000
+            5.960453,50.879661,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

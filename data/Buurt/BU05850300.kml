@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05850300 Maasdam</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.560766,51.791805,0.000000
+            4.561111,51.789143,0.000000
+            4.558263,51.790054,0.000000
+            4.556348,51.788278,0.000000
+            4.557572,51.786059,0.000000
+            4.559562,51.785556,0.000000
+            4.555747,51.782537,0.000000
+            4.553256,51.782575,0.000000
+            4.550784,51.785212,0.000000
+            4.549308,51.785331,0.000000
+            4.552895,51.786876,0.000000
+            4.552726,51.788392,0.000000
+            4.554461,51.787729,0.000000
+            4.557971,51.790915,0.000000
+            4.557042,51.791658,0.000000
+            4.566667,51.798648,0.000000
+            4.567847,51.797887,0.000000
+            4.560766,51.791805,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

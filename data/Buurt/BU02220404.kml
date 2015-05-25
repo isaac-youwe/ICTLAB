@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220404 Koekendaal en Vijverberg-Noordoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.333485,51.949616,0.000000
+            6.319349,51.947687,0.000000
+            6.305522,51.956911,0.000000
+            6.307208,51.957771,0.000000
+            6.317365,51.958515,0.000000
+            6.326841,51.955693,0.000000
+            6.328874,51.955209,0.000000
+            6.331047,51.954211,0.000000
+            6.337384,51.953273,0.000000
+            6.339230,51.951157,0.000000
+            6.342555,51.950943,0.000000
+            6.343226,51.949645,0.000000
+            6.333485,51.949616,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

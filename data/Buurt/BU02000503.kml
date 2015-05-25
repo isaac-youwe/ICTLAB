@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000503 Matendonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.019267,52.194941,0.000000
+            6.011630,52.193805,0.000000
+            6.007836,52.195846,0.000000
+            6.001251,52.200659,0.000000
+            5.997601,52.202054,0.000000
+            5.999794,52.205425,0.000000
+            6.019021,52.199055,0.000000
+            6.019267,52.194941,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

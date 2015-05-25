@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08260700 Vrachelen-Zuidoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.840149,51.647449,0.000000
+            4.839235,51.641535,0.000000
+            4.841853,51.637622,0.000000
+            4.842437,51.637278,0.000000
+            4.841237,51.635757,0.000000
+            4.835237,51.638542,0.000000
+            4.834976,51.640816,0.000000
+            4.834705,51.645440,0.000000
+            4.833790,51.645426,0.000000
+            4.833131,51.648149,0.000000
+            4.841839,51.649190,0.000000
+            4.840149,51.647449,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

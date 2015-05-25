@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04840203 Horstenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.673757,52.154473,0.000000
+            4.671840,52.151644,0.000000
+            4.669256,52.147935,0.000000
+            4.664666,52.148809,0.000000
+            4.662217,52.149289,0.000000
+            4.663373,52.153606,0.000000
+            4.664794,52.153460,0.000000
+            4.665415,52.155720,0.000000
+            4.673757,52.154473,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

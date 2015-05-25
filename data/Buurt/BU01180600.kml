@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180600 Pesse kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.456212,52.774869,0.000000
+            6.461350,52.773215,0.000000
+            6.460547,52.770762,0.000000
+            6.456620,52.770343,0.000000
+            6.457034,52.768355,0.000000
+            6.453589,52.765166,0.000000
+            6.450085,52.767010,0.000000
+            6.448274,52.771314,0.000000
+            6.448729,52.774724,0.000000
+            6.444436,52.774709,0.000000
+            6.446980,52.776951,0.000000
+            6.447017,52.778477,0.000000
+            6.450747,52.779150,0.000000
+            6.450668,52.775578,0.000000
+            6.456212,52.774869,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

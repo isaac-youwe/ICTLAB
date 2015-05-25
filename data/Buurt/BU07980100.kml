@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07980100 Esbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.141304,51.462740,0.000000
+            5.141548,51.462027,0.000000
+            5.139743,51.462252,0.000000
+            5.139455,51.458217,0.000000
+            5.133166,51.455556,0.000000
+            5.132017,51.457716,0.000000
+            5.127091,51.460546,0.000000
+            5.128881,51.463811,0.000000
+            5.131253,51.464881,0.000000
+            5.137401,51.465379,0.000000
+            5.140595,51.467129,0.000000
+            5.141305,51.469648,0.000000
+            5.146992,51.469467,0.000000
+            5.145973,51.466623,0.000000
+            5.141304,51.462740,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

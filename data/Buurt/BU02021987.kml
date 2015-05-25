@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02021987 Eimersweide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.900846,51.964807,0.000000
+            5.909890,51.960519,0.000000
+            5.915160,51.961455,0.000000
+            5.917555,51.960060,0.000000
+            5.917606,51.956650,0.000000
+            5.908162,51.957588,0.000000
+            5.902356,51.960041,0.000000
+            5.897500,51.963023,0.000000
+            5.900846,51.964807,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

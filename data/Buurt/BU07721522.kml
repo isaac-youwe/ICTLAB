@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721522 Achtse Barrier-Gunterslaer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.454519,51.482478,0.000000
+            5.456198,51.478903,0.000000
+            5.442381,51.473916,0.000000
+            5.436650,51.479672,0.000000
+            5.441828,51.481665,0.000000
+            5.443907,51.481588,0.000000
+            5.446275,51.482899,0.000000
+            5.444864,51.485909,0.000000
+            5.452763,51.487038,0.000000
+            5.453691,51.484553,0.000000
+            5.454519,51.482478,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

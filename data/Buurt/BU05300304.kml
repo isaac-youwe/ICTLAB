@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05300304 Tramhaven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.138321,51.824421,0.000000
+            4.139513,51.822080,0.000000
+            4.138215,51.819520,0.000000
+            4.136765,51.819505,0.000000
+            4.131122,51.819445,0.000000
+            4.132547,51.822388,0.000000
+            4.132557,51.822366,0.000000
+            4.138885,51.830288,0.000000
+            4.139561,51.829212,0.000000
+            4.140134,51.827831,0.000000
+            4.138321,51.824421,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

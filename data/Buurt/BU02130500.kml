@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130500 Hall kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.103884,52.110613,0.000000
+            6.097339,52.108430,0.000000
+            6.097247,52.109374,0.000000
+            6.100490,52.110473,0.000000
+            6.099485,52.113852,0.000000
+            6.102932,52.114405,0.000000
+            6.104755,52.113962,0.000000
+            6.103884,52.110613,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

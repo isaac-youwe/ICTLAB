@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK019331 Wijk 31 Aalanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.102944,52.524225,0.000000
+            6.096505,52.522726,0.000000
+            6.095188,52.523959,0.000000
+            6.093108,52.527695,0.000000
+            6.091995,52.531760,0.000000
+            6.084100,52.534147,0.000000
+            6.087036,52.536813,0.000000
+            6.091040,52.538124,0.000000
+            6.094680,52.542001,0.000000
+            6.102541,52.541325,0.000000
+            6.106854,52.540950,0.000000
+            6.111285,52.538641,0.000000
+            6.113175,52.538360,0.000000
+            6.115411,52.532832,0.000000
+            6.114461,52.530095,0.000000
+            6.111617,52.529750,0.000000
+            6.115565,52.527688,0.000000
+            6.116337,52.525874,0.000000
+            6.102944,52.524225,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

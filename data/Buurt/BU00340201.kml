@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340201 Centrum Almere-Stad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.227903,52.366832,0.000000
+            5.215075,52.364890,0.000000
+            5.213534,52.365377,0.000000
+            5.213218,52.366550,0.000000
+            5.214691,52.368410,0.000000
+            5.213950,52.370248,0.000000
+            5.215648,52.372163,0.000000
+            5.214029,52.374440,0.000000
+            5.212587,52.376271,0.000000
+            5.214204,52.378495,0.000000
+            5.222156,52.376733,0.000000
+            5.222596,52.375644,0.000000
+            5.223321,52.374039,0.000000
+            5.225165,52.373186,0.000000
+            5.226435,52.368278,0.000000
+            5.227903,52.366832,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

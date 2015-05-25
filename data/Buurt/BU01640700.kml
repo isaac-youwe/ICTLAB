@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640700 Bedrijventerrein Westermaat-Zuidwest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.778795,52.280559,0.000000
+            6.784370,52.272631,0.000000
+            6.782801,52.271936,0.000000
+            6.781749,52.272736,0.000000
+            6.777542,52.269655,0.000000
+            6.771807,52.275516,0.000000
+            6.762325,52.285291,0.000000
+            6.772214,52.287213,0.000000
+            6.778795,52.280559,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09620003 Sweikhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.858357,50.953824,0.000000
+            5.856103,50.948742,0.000000
+            5.839794,50.951305,0.000000
+            5.839796,50.951483,0.000000
+            5.839838,50.955790,0.000000
+            5.847462,50.956234,0.000000
+            5.852600,50.955748,0.000000
+            5.858357,50.953824,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

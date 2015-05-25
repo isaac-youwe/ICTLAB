@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07100002 Kimswerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.445788,53.138800,0.000000
+            5.440414,53.138356,0.000000
+            5.433180,53.139348,0.000000
+            5.432588,53.140295,0.000000
+            5.435393,53.145111,0.000000
+            5.439962,53.144228,0.000000
+            5.446473,53.142462,0.000000
+            5.447113,53.141343,0.000000
+            5.445788,53.138800,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

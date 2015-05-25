@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16580200 Leenderstrijp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.544805,51.329671,0.000000
+            5.526105,51.329581,0.000000
+            5.523547,51.331583,0.000000
+            5.524097,51.333795,0.000000
+            5.532277,51.334105,0.000000
+            5.534784,51.334844,0.000000
+            5.543842,51.339901,0.000000
+            5.546969,51.342880,0.000000
+            5.548203,51.340622,0.000000
+            5.551291,51.338807,0.000000
+            5.550544,51.337662,0.000000
+            5.548045,51.332422,0.000000
+            5.544805,51.329671,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

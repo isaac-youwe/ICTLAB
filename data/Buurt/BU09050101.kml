@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09050101 Rijckholt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.735087,50.800975,0.000000
+            5.736233,50.800279,0.000000
+            5.735939,50.798334,0.000000
+            5.738878,50.797913,0.000000
+            5.744549,50.799330,0.000000
+            5.744682,50.798987,0.000000
+            5.741845,50.793680,0.000000
+            5.725177,50.798114,0.000000
+            5.727130,50.800999,0.000000
+            5.728736,50.800313,0.000000
+            5.729685,50.801756,0.000000
+            5.735087,50.800975,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

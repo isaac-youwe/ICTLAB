@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03330309 Verspreide huizen Maarsseveen en Binnen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.091981,52.155586,0.000000
+            5.093785,52.154707,0.000000
+            5.095401,52.155524,0.000000
+            5.121270,52.145883,0.000000
+            5.106737,52.133265,0.000000
+            5.103838,52.129663,0.000000
+            5.100359,52.130367,0.000000
+            5.099451,52.130551,0.000000
+            5.087729,52.135915,0.000000
+            5.076105,52.126896,0.000000
+            5.075862,52.126795,0.000000
+            5.066933,52.133796,0.000000
+            5.060092,52.136281,0.000000
+            5.053381,52.142498,0.000000
+            5.061702,52.146694,0.000000
+            5.088236,52.158810,0.000000
+            5.091981,52.155586,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

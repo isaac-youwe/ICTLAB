@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00400301 Scharmer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.712239,53.208303,0.000000
+            6.714770,53.199053,0.000000
+            6.721547,53.192450,0.000000
+            6.714668,53.187680,0.000000
+            6.709157,53.192374,0.000000
+            6.701597,53.206921,0.000000
+            6.699246,53.206920,0.000000
+            6.698772,53.207694,0.000000
+            6.701407,53.208171,0.000000
+            6.699682,53.211239,0.000000
+            6.703957,53.214057,0.000000
+            6.712239,53.208303,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

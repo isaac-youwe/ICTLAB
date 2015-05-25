@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00810000 Stiens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.770691,53.269163,0.000000
+            5.772138,53.264590,0.000000
+            5.777387,53.265344,0.000000
+            5.778645,53.260082,0.000000
+            5.783277,53.256585,0.000000
+            5.765120,53.251802,0.000000
+            5.761813,53.251799,0.000000
+            5.749188,53.260652,0.000000
+            5.749810,53.264233,0.000000
+            5.747179,53.268488,0.000000
+            5.770691,53.269163,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

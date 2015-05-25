@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17090900 Willemstad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.448978,51.692442,0.000000
+            4.446012,51.689238,0.000000
+            4.444009,51.687060,0.000000
+            4.441435,51.690482,0.000000
+            4.440337,51.688899,0.000000
+            4.438112,51.689537,0.000000
+            4.434860,51.689207,0.000000
+            4.432527,51.692404,0.000000
+            4.434692,51.693829,0.000000
+            4.435822,51.696747,0.000000
+            4.439643,51.696482,0.000000
+            4.444796,51.694932,0.000000
+            4.448978,51.692442,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

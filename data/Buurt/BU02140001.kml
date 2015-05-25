@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140001 Buren Appelenboomgaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.328396,51.917701,0.000000
+            5.332138,51.914311,0.000000
+            5.337161,51.914823,0.000000
+            5.339970,51.912490,0.000000
+            5.337071,51.911632,0.000000
+            5.338365,51.912783,0.000000
+            5.335367,51.913767,0.000000
+            5.331870,51.912281,0.000000
+            5.330295,51.910089,0.000000
+            5.326882,51.909551,0.000000
+            5.326472,51.908060,0.000000
+            5.324146,51.912191,0.000000
+            5.325107,51.916269,0.000000
+            5.328396,51.917701,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

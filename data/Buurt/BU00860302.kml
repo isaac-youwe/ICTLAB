@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00860302 Lippenhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.099727,53.015655,0.000000
+            6.097056,53.014736,0.000000
+            6.089727,53.015112,0.000000
+            6.081642,53.013353,0.000000
+            6.080133,53.018239,0.000000
+            6.093429,53.021639,0.000000
+            6.102261,53.025180,0.000000
+            6.106481,53.021603,0.000000
+            6.097441,53.018013,0.000000
+            6.099727,53.015655,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

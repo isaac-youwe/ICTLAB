@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600509 Verspreide huizen Oud-Bergentheim en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.621083,52.537218,0.000000
+            6.622769,52.535208,0.000000
+            6.631001,52.536156,0.000000
+            6.625013,52.531132,0.000000
+            6.623451,52.532170,0.000000
+            6.614230,52.529401,0.000000
+            6.604126,52.523927,0.000000
+            6.610469,52.518927,0.000000
+            6.596194,52.509420,0.000000
+            6.580422,52.516499,0.000000
+            6.567002,52.520274,0.000000
+            6.566921,52.526701,0.000000
+            6.568017,52.527993,0.000000
+            6.572232,52.529803,0.000000
+            6.577511,52.530573,0.000000
+            6.581465,52.531881,0.000000
+            6.584697,52.534046,0.000000
+            6.586546,52.537389,0.000000
+            6.586119,52.539713,0.000000
+            6.621083,52.537218,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

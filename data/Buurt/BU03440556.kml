@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440556 Rijnsweerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.160473,52.080412,0.000000
+            5.160169,52.080236,0.000000
+            5.155736,52.081185,0.000000
+            5.152446,52.084163,0.000000
+            5.147807,52.085041,0.000000
+            5.147921,52.088501,0.000000
+            5.143892,52.096149,0.000000
+            5.156271,52.098326,0.000000
+            5.159605,52.094229,0.000000
+            5.159989,52.093352,0.000000
+            5.162267,52.088157,0.000000
+            5.160669,52.080525,0.000000
+            5.160473,52.080412,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

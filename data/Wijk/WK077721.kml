@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WK077721 Wijk 21 Etten-Leur Zuid Bedrijventerrein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.626831,51.564095,0.000000
+            4.628495,51.559613,0.000000
+            4.629045,51.555636,0.000000
+            4.630547,51.553692,0.000000
+            4.630642,51.553144,0.000000
+            4.624619,51.552755,0.000000
+            4.624774,51.552202,0.000000
+            4.624360,51.552192,0.000000
+            4.624360,51.552193,0.000000
+            4.610223,51.553859,0.000000
+            4.609910,51.553896,0.000000
+            4.601180,51.558333,0.000000
+            4.596822,51.560101,0.000000
+            4.596631,51.560100,0.000000
+            4.592496,51.560072,0.000000
+            4.592311,51.560184,0.000000
+            4.591356,51.560767,0.000000
+            4.607531,51.563301,0.000000
+            4.625761,51.567452,0.000000
+            4.626831,51.564095,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>
