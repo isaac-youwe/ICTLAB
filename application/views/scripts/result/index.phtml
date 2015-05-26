@@ -170,6 +170,13 @@
                         icon: 'images/house-marker.png'
                     });
 
+                    google.maps.event.addListener(map, "mouseover", function() {
+                        this.setIcon("images/MousOver-house-marker.png");
+                    });
+                    google.maps.event.addListener(map, "mouseout", function() {
+                        this.setIcon("images/house-marker.png");
+                    });
+
                     var details =
                         '<p class="text-center">' +
                         '<h5>' + houseAdress + '</h5>' +
@@ -223,10 +230,12 @@
                 google.maps.event.addListener(houseMarker, 'mouseover', function () {
                     infoPopUp.setContent(detailsPopUp);
                     infoPopUp.open(map, houseMarker);
+                    this.setIcon("images/MousOver-house-marker.png");
                 });
 
                 google.maps.event.addListener(houseMarker, 'mouseout', function () {
                     infoPopUp.close();
+                    this.setIcon("images/house-marker.png");
                 });
             }
         </script>
