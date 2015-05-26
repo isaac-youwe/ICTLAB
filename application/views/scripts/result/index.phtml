@@ -230,11 +230,12 @@
                 google.maps.event.addListener(houseMarker, 'mouseover', function () {
                     infoPopUp.setContent(detailsPopUp);
                     infoPopUp.open(map, houseMarker);
-
+                    houseMarker.setIcon("images/MousOver-house-marker.png");
                 });
 
                 google.maps.event.addListener(houseMarker, 'mouseout', function () {
                     infoPopUp.close();
+                    houseMarker.setIcon("images/house-marker.png");
 
                 });
             }
