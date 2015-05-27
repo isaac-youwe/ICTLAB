@@ -32,21 +32,22 @@
                 <?php endforeach; ?>
 
                 <div class="row">
-                    <div class="col-md-6">
-                        <!--                        show vorige als page groter dan 1-->
-                        <?php if ($this->fundaAanbod->page > 1) { ?>
-                            <a href="<?php echo $this->baseUrl . '&page=' . $this->fundaAanbod->page - 1; ?>"
-                               class="btn btn-default" role="button">Vorige</a>
-                        <?php
-                        }
-                        ?>
-                    </div>
-                    <div class="col-md-6" align="right">
-                        <a href="<?php echo $this->baseUrl . '&page=' . $this->fundaAanbod->page + 1; ?>"
-                           class="btn btn-default" role="button">Volgende</a>
+                    <div class="col-md-12 dev-mode" align="center">
+                        <ul class="pagination">
+                            <li class="disabled"><a href="#">&laquo;</a></li>
+                            <li class="active"><a href="#">1</a></li>
+                            <li><a href="#">2</a></li>
+                            <li><a href="#">3</a></li>
+                            <li><a href="#">4</a></li>
+                            <li><a href="#">5</a></li>
+                            <li><a href="#">&raquo;</a></li>
+                        </ul>
                     </div>
                 </div>
             </ul>
+        </div>
+        <div class="col-md-8 col-sm-9">
+            <div id="map-canvas"/>
         </div>
         <script>
             var map;
@@ -79,14 +80,17 @@
                         icon: 'images/house-marker.png'
                     });
 
-                    var details = '<h5>' + houseAdress + '</h5>' +
-                        '<p>' + housePrice + '<br />' +
+                    var details =
+                        '<p class="text-center">' +
+                        '<h5>' + houseAdress + '</h5>' +
+                        housePrice + '<br />' +
                         houseRooms + '<br />' +
                         houseSquare + '<br />' +
-                        houseMakelaar + '<br />' + '</p>' +
-                        '<div>' + housePhoto + '</div>';
+                        houseMakelaar + '<br />' +
+                        '<div class="img-responsive">' + housePhoto + '</div>'+
+                        '</p>';
 
-                    var detailsPopUp = houseAdress + ", " + housePrice;
+                    var detailsPopUp = '<p class="text-center">' + houseAdress + ", " + housePrice + '</p>';
 
                     addInfoWindow(houseMarker, details);
                     addPopupWindow(houseMarker, detailsPopUp);
@@ -136,7 +140,6 @@
                 });
             }
         </script>
-        <div id="map-canvas" class="span12 col-md-8 col-sm-9"/>
     </div>
 </div>
 </div>
