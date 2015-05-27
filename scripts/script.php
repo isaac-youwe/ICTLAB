@@ -49,11 +49,14 @@ function processFiles($path)
         $stringToJson = array(
             "id" => $id,
             "name" => filter($xml->Document->name, NAME),
-            "type" => filter($xml->Document->name, TYPE),
+            "geoType" => filter($xml->Document->name, TYPE),
             "gemeentecode" => filter($xml->Document->name, GEM_CODE),
             "wijkcode" => filter($xml->Document->name, WIJK_CODE),
             "buurtcode" => filter($xml->Document->name, BUURT_CODE),
-            "polylines" => filterCoordinates($xml->Document->Placemark->Polygon->outerBoundaryIs->LinearRing->coordinates)
+            "geometry" => array(
+                "type" => "Polygon",
+                "coordinates" => array(filterCoordinates($xml->Document->Placemark->Polygon->outerBoundaryIs->LinearRing->coordinates))
+            )
         );
 
         // convert string to json
@@ -62,8 +65,8 @@ function processFiles($path)
 
         // create .json file into shapefiles folder
         createFile($id, $json);
-    } else {
-        echo sprintf("%s is not a KML file and will not be processed." . PHP_EOL, $path);
+        } else {
+            echo sprintf("%s is not a KML file and will not be processed." . PHP_EOL, $path);
     }
 }
 
@@ -86,7 +89,7 @@ function createFile($name, $content)
 {
     $jsonFile = fopen("../shapefiles/$name.json", "w") or die("Unable to open file!");
 
-    fwrite($jsonFile, $content);
+    fwrite($jsonFile, "[$content]");
     fclose($jsonFile);
 }
 
@@ -122,9 +125,8 @@ function filterCoordinates($coordinates)
     $coordinatesArray = array_slice($coordinatesArray, 0, count($coordinatesArray) - 1);
 
     for ($i = 0; $i < count($coordinatesArray); $i += 2) {
-        $obj = (Object) array(
-            "latitude" => $coordinatesArray[$i + 1],
-            "longitude" => $coordinatesArray[$i]
+        $obj = array(
+            floatval($coordinatesArray[$i + 1]), floatval($coordinatesArray[$i])
         );
         array_push($polylines, $obj);
     }
