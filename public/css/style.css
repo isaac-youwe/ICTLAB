@@ -81,13 +81,11 @@
     max-width:320px;
 }
 
-<<<<<<< HEAD
 #final-footer {
     margin-top: -2px;
     padding-top: 30px;
     padding-bottom: 30px;
-=======
+
 .dev-mode {
     border: solid red 2px;
->>>>>>> 714ea314aa5f058072dde11e8fff945f78e42961
 }
