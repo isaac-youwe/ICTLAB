@@ -1,15 +1,9 @@
 {
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packages.zendframework.com/"
-        }
-    ],
     "require": {
         "twbs/bootstrap": "3.0.3",
         "guzzle/guzzle": "~3.7",
         "psr/log": "1.0.0",
-        "zendframework/zendframework1": "1.*",
-        "solarium/solarium": "dev-master"
+        "solarium/solarium": "dev-master",
+        "willdurand/geocoder": "dev-master"
     }
 }

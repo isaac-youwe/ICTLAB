@@ -1,0 +1,244 @@
+<!--Author Isaac de Cuba-->
+<!--Editor Adriel Walter, Serhildan Akdeniz-->
+<a id="filter" class="sidebar" href="#sidr" xmlns="http://www.w3.org/1999/html"><p class="vertical-text lead">
+        FILTERS</p></a>
+<div id="sidr">
+    <form action="/result">
+    <nav class="menu slide-menu-left">
+        <ul>
+                <p>Aanwezigheid van</p>
+                <input name="balkon" type="checkbox">Balkon<br>
+                <input name="lift" type="checkbox">Lift <br>
+                <input name="garage" type="checkbox">Garage <br>
+                <input name="tuin" type="checkbox">Tuin<br>
+                <input name="zwembad" type="checkbox">Zwembad <br>
+                <hr/>
+                <p>Aantal kamers</p>
+                <input name="kamers" value="1+kamers" type="radio">1 kamer<br>
+                <input name="kamers" value="2+kamers" type="radio">2+ kamers<br>
+                <input name="kamers" value="3+kamers" type="radio">3+ kamers<br>
+                <input name="kamers" value="4+kamers" type="radio">4+ kamers<br>
+                <hr/>
+                <p>Woonoppervlakte</p>
+                <select id="woonoppervlakte" name="woonoppervlakte">
+                    <option value="default" disabled="disabled" selected="selected">Selecteer</option>
+                    <option value="50m" class="filter_option">50+ m</option>
+                    <option value="75m" class="filter_option">75+ m</option>
+                    <option value="100m" class="filter_option">100+ m</option>
+                    <option value="150m" class="filter_option">150+ m</option>
+                </select>
+                <hr/>
+                <p>Energielabel</p>
+                <select id="energie" name="energie">
+                    <option value="default" disabled="disabled" selected="selected">Selecteer</option>
+                    <option value="a-label" class="filter_option">A-label</option>
+                    <option value="b-label" class="filter_option">B-label</option>
+                    <option value="c-label" class="filter_option">C-label</option>
+                    <option value="d-label" class="filter_option">D-label</option>
+                    <option value="e-label" class="filter_option">E-label</option>
+                    <option value="f-label" class="filter_option">F-label</option>
+                    <option value="g-label" class="filter_option">G-label</option>
+                </select>
+                <hr/>
+                <p>Prijs</p>
+                <select id="sale_amount" name="sale_amount">
+                    <option value="default" disabled="disabled" selected="selected">Selecteer</option>
+                    <option value="0-50000" class="filter_option">€ 0 - 50.000</option>
+                    <option value="0-75000" class="filter_option">€ 0 - € 75.000</option>
+                    <option value="0-100000" class="filter_option">€ 0 - € 100.000</option>
+                    <option value="0-125000" class="filter_option">€ 0 - € 125.000</option>
+                    <option value="0-150000" class="filter_option">€ 0 - € 150.000</option>
+                    <option value="0-175000" class="filter_option">€ 0 - € 175.000</option>
+                    <option value="0-200000" class="filter_option">€ 0 - € 200.000</option>
+                    <option value="0-225000" class="filter_option">€ 0 - € 225.000</option>
+                    <option value="0-250000" class="filter_option">€ 0 - € 250.000</option>
+                    <option value="0-275000" class="filter_option">€ 0 - € 275.000</option>
+                    <option value="0-300000" class="filter_option">€ 0 - € 300.000</option>
+                    <option value="0-325000" class="filter_option">€ 0 - € 325.000</option>
+                    <option value="0-350000" class="filter_option">€ 0 - € 350.000</option>
+                    <option value="0-375000" class="filter_option">€ 0 - € 375.000</option>
+                    <option value="0-400000" class="filter_option">€ 0 - € 400.000</option>
+                    <option value="0-450000" class="filter_option">€ 0 - € 450.000</option>
+                    <option value="0-500000" class="filter_option">€ 0 - € 500.000</option>
+                    <option value="0-550000" class="filter_option">€ 0 - € 550.000</option>
+                    <option value="0-600000" class="filter_option">€ 0 - € 600.000</option>
+                    <option value="0-650000" class="filter_option">€ 0 - € 650.000</option>
+                    <option value="0-700000" class="filter_option">€ 0 - € 700.000</option>
+                    <option value="0-750000" class="filter_option">€ 0 - € 750.000</option>
+                    <option value="0-800000" class="filter_option">€ 0 - € 800.000</option>
+                    <option value="0-900000" class="filter_option">€ 0 - € 900.000</option>
+                    <option value="0-1000000" class="filter_option">€ 0 - € 1.000.000</option>
+                    <option value="0-1250000" class="filter_option">€ 0 - € 1.250.000</option>
+                    <option value="0-1500000" class="filter_option">€ 0 - € 1.500.000</option>
+                    <option value="0-2000000" class="filter_option">€ 0 - € 2.000.000</option>
+                </select>
+            <hr/>
+        </ul>
+    </nav>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12" align="center">
+                <div class="input-group">
+                    <input type="text" value="<?php echo $this->search; ?>" name="search" class="form-control">
+                            <span class="input-group-btn">
+                                <button class="btn btn-default" type="submit">
+                                    <span class="glyphicon glyphicon-search"></span>
+                                </button>
+                            </span>
+                    </input>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <h3>Beschikbare huizen</h3>
+        </div>
+        <div class="col-md-8">
+            <h3>Map</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4 col-sm-3 pre-scrollable">
+            <ul class="list-group">
+                <!--                this parameter is temporary set like this when using filter should be removed-->
+                <?php $params['filters']['city'] = $this->search; ?>
+
+                <?php $collection = $this->fundaAanbod->getCollection($params); ?>
+
+                <script>
+                    var collection = <?php echo json_encode($collection); ?>;
+                    var lat = <?php echo json_encode($this->lat); ?>;
+                    var lng = <?php echo json_encode($this->lng); ?>;
+
+                </script>
+                <?php foreach ($collection as $house): ?>
+                    <li class="list-group-item">
+                        <?php echo sprintf('Adres: %s', $house->Adres) . "<br>"; ?>
+                        <?php echo sprintf('Aantal kamers: %s', $house->AantalKamers) . "<br>"; ?>
+                        <?php echo sprintf('Koop prijs: %s,- euro', $house->Koopprijs) . "<br>"; ?>
+                    </li>
+                <?php endforeach; ?>
+
+                <div class="row">
+                    <div class="col-md-12 dev-mode" align="center">
+                        <ul class="pagination">
+                            <li class="disabled"><a href="#">&laquo;</a></li>
+                            <li class="active"><a href="#">1</a></li>
+                            <li><a href="#">2</a></li>
+                            <li><a href="#">3</a></li>
+                            <li><a href="#">4</a></li>
+                            <li><a href="#">5</a></li>
+                            <li><a href="#">&raquo;</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </ul>
+        </div>
+        <div class="col-md-8 col-sm-9">
+            <div id="map-canvas"/>
+        </div>
+        <script>
+            var map;
+            var infoWindow = new google.maps.InfoWindow();
+            var infoPopUp = new google.maps.InfoWindow();
+
+            function initialize() {
+                var mapOptions = {
+                    minZoom: 8, //minimum zoom level van de kaart
+                    zoom: 12,
+                    center: new google.maps.LatLng(lat, lng),
+                    disableDefaultUI: true,
+                    mapTypeControl: false,
+                    zoomControl: true
+                }
+                map = new google.maps.Map(document.getElementById('map-canvas'),
+                    mapOptions);
+
+                for (var i = 0; i < collection.length; i++) {
+                    housePhoto = '<img src="' + collection[i]['Foto'] + '">';
+                    houseSquare = 'Oppervlakte: ' + collection[i]['Woonoppervlakte'] + ' m' + '<sup>2</sup>';
+                    housePrice = 'Prijs: &#8364;' + collection[i]['Koopprijs'];
+                    houseMakelaar = 'Makelaar: ' + collection[i]['MakelaarNaam'];
+                    houseAdress = collection[i]['Adres'];
+                    houseRooms = 'Aantal kamers: ' + collection[i]['AantalKamers'];
+                    myLatLng = new google.maps.LatLng(collection[i]['WGS84_Y'], collection[i]['WGS84_X']);
+                    houseMarker = new google.maps.Marker({
+                        position: myLatLng,
+                        map: map,
+                        icon: 'images/house-marker.png'
+                    });
+
+                    google.maps.event.addListener(map, "mouseover", function() {
+                        houseMarker.setIcon("images/MousOver-house-marker.png");
+                    });
+                    google.maps.event.addListener(map, "mouseout", function() {
+                        houseMarker.setIcon("images/house-marker.png");
+                    });
+
+                    var details =
+                        '<p class="text-center">' +
+                        '<h5>' + houseAdress + '</h5>' +
+                        housePrice + '<br />' +
+                        houseRooms + '<br />' +
+                        houseSquare + '<br />' +
+                        houseMakelaar + '<br />' +
+                        '<div class="img-responsive">' + housePhoto + '</div>'+
+                        '</p>';
+
+                    var detailsPopUp = '<p class="text-center">' + houseAdress + ", " + housePrice + '</p>';
+
+                    addInfoWindow(houseMarker, details);
+                    addPopupWindow(houseMarker, detailsPopUp);
+
+                }
+                var allowedBounds = new google.maps.LatLngBounds(
+                    new google.maps.LatLng(50.690492, 3.167453),
+                    new google.maps.LatLng(53.587940, 6.993237)
+                );
+                var lastValidCenter = map.getCenter();
+
+                google.maps.event.addListener(map, 'center_changed', function () {
+                    if (allowedBounds.contains(map.getCenter())) {
+
+                        lastValidCenter = map.getCenter();
+                        return;
+                    }
+
+                    map.panTo(lastValidCenter);
+                });
+            }
+
+            google.maps.event.addDomListener(window, 'load', initialize);
+
+            function addInfoWindow(houseMarker, details) {
+                google.maps.event.addListener(houseMarker, 'click', function () {
+                    if (!houseMarker.open) {
+                        infoWindow.setContent(details);
+                        infoWindow.open(map, houseMarker);
+                        houseMarker.open = true;
+                    }
+                    else {
+                        infoWindow.close(map, houseMarker);
+                        houseMarker.open = false;
+                    }
+                });
+
+            }
+            function addPopupWindow(houseMarker, detailsPopUp) {
+                google.maps.event.addListener(houseMarker, 'mouseover', function () {
+                    infoPopUp.setContent(detailsPopUp);
+                    infoPopUp.open(map, houseMarker);
+                    houseMarker.setIcon("images/MousOver-house-marker.png");
+                });
+
+                google.maps.event.addListener(houseMarker, 'mouseout', function () {
+                    infoPopUp.close();
+                    houseMarker.setIcon("images/house-marker.png");
+
+                });
+            }
+        </script>
+    </div>
+</div>
