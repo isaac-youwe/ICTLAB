@@ -188,7 +188,9 @@
 
                     // add a line to the side_bar html
                     var marker_num = gmarkers.length - 1;
-                    side_bar_html += '<a href="javascript:myclick(' + marker_num + ')" onmouseover="gmarkers[' + marker_num + '].setIcon(icon2)" onmouseout="gmarkers[' + marker_num + '].setIcon(icon)">' + '<h4> ' + houseAdressDetails + '</h4></a>';
+                    var rowid = marker_num;
+                    
+                    side_bar_html += '<a style="color:#0000FF " href="javascript:myclick(' + marker_num + ')" onmouseover="gmarkers[' + marker_num + '].setIcon(icon2)" onmouseout="gmarkers[' + marker_num + '].setIcon(icon)">' + '<h4 id="row'+rowid+'"> ' + houseAdressDetails + '</h4></a>';
                     side_bar_html += '<p>' + adressHouseDetails + '</p>';
 
                     var details =
@@ -205,6 +207,14 @@
 
                     addInfoWindow(houseMarker, details);
                     addPopupWindow(houseMarker, detailsPopUp);
+
+                    google.maps.event.addListener(houseMarker, 'mouseover', function() {
+                        document.getElementById("row"+rowid).style.color = "#FF0000";
+                    });
+                    google.maps.event.addListener(houseMarker, 'mouseout', function() {
+                        document.getElementById("row"+rowid).style.color = "#0000FF";
+                    });
+                    console.log("row"+rowid);
 
                 }
 
