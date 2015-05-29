@@ -4,8 +4,8 @@
         FILTERS</p></a>
 <div id="sidr">
     <form action="/result">
-    <nav class="menu slide-menu-left">
-        <ul>
+        <nav class="menu slide-menu-left">
+            <ul>
                 <p>Aanwezigheid van</p>
                 <input name="balkon" type="checkbox">Balkon<br>
                 <input name="lift" type="checkbox">Lift <br>
@@ -72,22 +72,22 @@
                     <option value="0-1500000" class="filter_option">€ 0 - € 1.500.000</option>
                     <option value="0-2000000" class="filter_option">€ 0 - € 2.000.000</option>
                 </select>
-            <hr/>
-        </ul>
-    </nav>
+                <hr/>
+            </ul>
+        </nav>
 </div>
 <div class="container">
     <div class="row">
         <div class="col-md-12" align="center">
-                <div class="input-group">
-                    <input type="text" value="<?php echo $this->search; ?>" name="search" class="form-control">
+            <div class="input-group">
+                <input type="text" value="<?php echo $this->search; ?>" name="search" class="form-control">
                             <span class="input-group-btn">
                                 <button class="btn btn-default" type="submit">
                                     <span class="glyphicon glyphicon-search"></span>
                                 </button>
                             </span>
-                    </input>
-                </div>
+                </input>
+            </div>
             </form>
         </div>
     </div>
@@ -111,16 +111,8 @@
                     var collection = <?php echo json_encode($collection); ?>;
                     var lat = <?php echo json_encode($this->lat); ?>;
                     var lng = <?php echo json_encode($this->lng); ?>;
-
                 </script>
-                <?php foreach ($collection as $house): ?>
-                    <li class="list-group-item">
-                        <?php echo sprintf('Adres: %s', $house->Adres) . "<br>"; ?>
-                        <?php echo sprintf('Aantal kamers: %s', $house->AantalKamers) . "<br>"; ?>
-                        <?php echo sprintf('Koop prijs: %s,- euro', $house->Koopprijs) . "<br>"; ?>
-                    </li>
-                <?php endforeach; ?>
-
+                <li id="side_bar" class="list-group-item"></li>
                 <div class="row">
                     <div class="col-md-12 dev-mode" align="center">
                         <ul class="pagination">
@@ -143,7 +135,19 @@
             var map;
             var infoWindow = new google.maps.InfoWindow();
             var infoPopUp = new google.maps.InfoWindow();
+            // this variable will collect the html which will eventually be placed in the side_bar
+            var side_bar_html = "";
 
+            // arrays to hold copies of the markers and html used by the side_bar
+            var gmarkers = [];
+
+            var icon = new google.maps.MarkerImage('images/house-marker.png');
+            var icon2 = new google.maps.MarkerImage('images/MousOver-house-marker.png');
+
+            // This function picks up the click and opens the corresponding info window
+            function myclick(i) {
+                google.maps.event.trigger(gmarkers[i], "click");
+            }
             function initialize() {
                 var mapOptions = {
                     minZoom: 8, //minimum zoom level van de kaart
@@ -167,8 +171,28 @@
                     houseMarker = new google.maps.Marker({
                         position: myLatLng,
                         map: map,
-                        icon: 'images/house-marker.png'
+                        icon: icon
                     });
+
+                    //Create List Details
+                    var houseAdressDetails =
+                        houseAdress + '<br>';
+
+                    var adressHouseDetails =
+                        houseRooms + '<br>' +
+                        housePrice + '<hr />';
+
+                    gmarkers.push(houseMarker);
+
+                    // add a line to the side_bar html
+                    var marker_id = gmarkers.length - 1;
+
+                    side_bar_html += '<a class ="listmarker" href="javascript:myclick(' + marker_id + ')' +
+                    '" onmouseover="gmarkers[' + marker_id + '].setIcon(icon2)' +
+                    '" onmouseout="gmarkers[' + marker_id + '].setIcon(icon)">' + '<h4> ' + houseAdressDetails + '</h4></a>';
+
+                    //Details from select Adress
+                    side_bar_html += '<p>' + adressHouseDetails + '</p>';
 
                     var details =
                         '<p class="text-center">' +
@@ -177,7 +201,7 @@
                         houseRooms + '<br />' +
                         houseSquare + '<br />' +
                         houseMakelaar + '<br />' +
-                        '<div class="img-responsive">' + housePhoto + '</div>'+
+                        '<div class="img-responsive">' + housePhoto + '</div>' +
                         '</p>';
 
                     var detailsPopUp = '<p class="text-center">' + houseAdress + ", " + housePrice + '</p>';
@@ -186,6 +210,9 @@
                     addPopupWindow(houseMarker, detailsPopUp);
 
                 }
+
+                document.getElementById("side_bar").innerHTML = side_bar_html;
+
                 var allowedBounds = new google.maps.LatLngBounds(
                     new google.maps.LatLng(50.690492, 3.167453),
                     new google.maps.LatLng(53.587940, 6.993237)
@@ -223,10 +250,13 @@
                 google.maps.event.addListener(houseMarker, 'mouseover', function () {
                     infoPopUp.setContent(detailsPopUp);
                     infoPopUp.open(map, houseMarker);
+                    houseMarker.setIcon(icon2);
                 });
 
                 google.maps.event.addListener(houseMarker, 'mouseout', function () {
                     infoPopUp.close();
+                    houseMarker.setIcon(icon);
+
                 });
             }
         </script>

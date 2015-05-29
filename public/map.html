@@ -185,18 +185,39 @@
         });
 
         rotterdam = new google.maps.Polygon({
+            clickable: false,
+            fillColor: '#FFF',
+            fillOpacity: 0,
             paths: rotterdamPol,
             strokeColor: '#FF0000',
-            strokeOpacity: 0.8,
+            strokeOpacity: 1,
             strokeWeight: 1,
-            fillColor: '#f6d992',
-            fillOpacity: 0.25
+            zIndex: 99
         });
 
         csKwartier.setMap(map);
         oudewesten.setMap(map);
         cool.setMap(map);
         rotterdam.setMap(map);
+
+        // Add a listener for the click event
+        google.maps.event.addListener(csKwartier, 'click', showInfo);
+        google.maps.event.addListener(oudewesten, 'click', showInfo);
+        google.maps.event.addListener(cool, 'click', showInfo);
+
+        infowindow = new google.maps.InfoWindow();
+
+        function showInfo(event) {
+
+            var contentString = "<b>Rotterdam</b><br />";
+            contentString += "<br /><a href='#'>Zoom to</a><br />"; // later Zoomto need to be function that will change the search function to the current location.
+
+            // Replace our Info Window's content and position
+            infowindow.setContent(contentString);
+            infowindow.setPosition(event.latLng);
+
+            infowindow.open(map);
+        }
     }
 
     google.maps.event.addDomListener(window, 'load', initialize);
