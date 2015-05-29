@@ -187,7 +187,7 @@
                     // add a line to the side_bar html
                     var marker_id = gmarkers.length - 1;
 
-                    side_bar_html += '<a style="color:#0000FF " href="javascript:myclick(' + marker_id + ')' +
+                    side_bar_html += '<a class ="listmarker" href="javascript:myclick(' + marker_id + ')' +
                     '" onmouseover="gmarkers[' + marker_id + '].setIcon(icon2)' +
                     '" onmouseout="gmarkers[' + marker_id + '].setIcon(icon)">' + '<h4> ' + houseAdressDetails + '</h4></a>';
 
