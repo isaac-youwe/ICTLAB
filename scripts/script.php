@@ -55,8 +55,7 @@ function processFiles($path)
             "buurtcode" => filter($xml->Document->name, BUURT_CODE),
             "geometry" => array(
                 "type" => "Polygon",
-                "coordinates" => array(filterCoordinates($xml->Document->Placemark->Polygon->outerBoundaryIs->LinearRing->coordinates))
-            )
+                "coordinates" => filterCoordinates($xml->Document->Placemark->Polygon->outerBoundaryIs->LinearRing->coordinates))
         );
 
         // convert string to json
