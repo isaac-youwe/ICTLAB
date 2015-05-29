@@ -53,8 +53,7 @@ function processFiles($path)
             "gemeentecode" => filter($xml->Document->name, GEM_CODE),
             "wijkcode" => filter($xml->Document->name, WIJK_CODE),
             "buurtcode" => filter($xml->Document->name, BUURT_CODE),
-            "polygon" => array(
-                "coordinates" => filterCoordinates($xml->Document->Placemark->Polygon->outerBoundaryIs->LinearRing->coordinates))
+            "polygon" => array(filterCoordinates($xml->Document->Placemark->Polygon->outerBoundaryIs->LinearRing->coordinates))
             );
 
         // convert string to json
