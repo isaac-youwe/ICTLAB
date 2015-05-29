@@ -64,3 +64,13 @@ Klik op CREATE PULL REQUEST
 ### Navigate first into the ICTLAB/scripts folder
 ### And run this command
 ```php script.php```
+
+# SOLR
+## Create solr collection
+### Navigate to your Solr directory and run the following commands
+Start the SOLR Server
+```bin/solr start```
+Create collection for shapefiles
+```bin/post -c shapefiles ../vhosts/ICTLAB/shapefiles/*```
+Search 
+```http://localhost:8983/solr/shapefiles/query?q=id:GM0599```
