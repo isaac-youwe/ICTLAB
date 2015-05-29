@@ -15,21 +15,17 @@
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=false"></script>
     <script>
         // This example creates a simple polygon representing the Bermuda Triangle.
-
         function initialize() {
             var mapOptions = {
                 zoom: 14,
                 center: new google.maps.LatLng(51.9267, 4.5),
                 mapTypeId: google.maps.MapTypeId.TERRAIN
             };
-
             var csKwartier;
             var oudewesten;
             var cool;
-
             var map = new google.maps.Map(document.getElementById('map-canvas'),
                     mapOptions);
-
             // Define the LatLng coordinates for the polygon's path.
             var csKwartierPol = [
                 new google.maps.LatLng(51.923978, 4.476941),
@@ -44,7 +40,6 @@
                 new google.maps.LatLng(51.926248, 4.476424),
                 new google.maps.LatLng(51.923978, 4.476941)
             ];
-
             var oudewestenPol = [
                 new google.maps.LatLng(51.912972, 4.467207),
                 new google.maps.LatLng(51.911790, 4.463453),
@@ -53,7 +48,6 @@
                 new google.maps.LatLng(51.916329, 4.472770),
                 new google.maps.LatLng(51.912972, 4.467207)
             ];
-
             var coolPol = [
                 new google.maps.LatLng(51.912328, 4.479725),
                 new google.maps.LatLng(51.911561, 4.476782),
@@ -64,7 +58,6 @@
                 new google.maps.LatLng(51.917283, 4.480149),
                 new google.maps.LatLng(51.912328, 4.479725)
             ];
-
             var rotterdamPol = [
                 new google.maps.LatLng(51.977222442627, 4.5360550880432),
                 new google.maps.LatLng(51.977165222168, 4.5361661911011),
@@ -155,7 +148,6 @@
                 new google.maps.LatLng(51.977241516113, 4.536012172699),
                 new google.maps.LatLng(51.977222442627, 4.5360550880432)
             ];
-
             // Construct the polygon.
             csKwartier = new google.maps.Polygon({
                 paths: csKwartierPol,
@@ -165,7 +157,6 @@
                 fillColor: '#FF0000',
                 fillOpacity: 0.35
             });
-
             oudewesten = new google.maps.Polygon({
                 paths: oudewestenPol,
                 strokeColor: '#FF0000',
@@ -174,7 +165,6 @@
                 fillColor: '#FF0000',
                 fillOpacity: 0.35
             });
-
             cool = new google.maps.Polygon({
                 paths: coolPol,
                 strokeColor: '#FF0000',
@@ -183,21 +173,20 @@
                 fillColor: '#FF0000',
                 fillOpacity: 0.35
             });
-
             rotterdam = new google.maps.Polygon({
+                clickable: false,
+                fillColor: '#FFF',
+                fillOpacity: 0,
                 paths: rotterdamPol,
                 strokeColor: '#FF0000',
-                strokeOpacity: 0.8,
+                strokeOpacity: 1,
                 strokeWeight: 1,
-                fillColor: '#f6d992',
-                fillOpacity: 0.25
+                zIndex: 99
             });
-
             csKwartier.setMap(map);
             oudewesten.setMap(map);
             cool.setMap(map);
-            //rotterdam.setMap(map);
-
+            rotterdam.setMap(map);
             // Add a listener for the click event
             google.maps.event.addListener(csKwartier, 'click', showInfo);
             google.maps.event.addListener(oudewesten, 'click', showInfo);
@@ -221,20 +210,15 @@
             }
 
             function showInfo(event) {
-
                 var contentString = "<b>Rotterdam</b><br />";
                 contentString += "<br /><a href='#'>Zoom to</a><br />"; // later Zoomto need to be function that will change the search function to the current location.
-
                 // Replace our Info Window's content and position
                 infowindow.setContent(contentString);
                 infowindow.setPosition(event.latLng);
-
                 infowindow.open(map);
             }
         }
-
         google.maps.event.addDomListener(window, 'load', initialize);
-
     </script>
 </head>
 <body>
