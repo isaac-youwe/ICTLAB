@@ -3,4 +3,4 @@ vendor/
 composer.phar
 composer.lock
 credentials.json
-shapefiles/
+shapefiles
