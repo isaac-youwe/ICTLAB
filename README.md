@@ -63,7 +63,12 @@ Klik op CREATE PULL REQUEST
 # Convert KML to JSON script
 ### Navigate first into the ICTLAB/scripts folder
 ### And run this command
-```php script.php```
+```php convert-kml-to-json-script.php```
+
+# Calculate the intersection script
+### Navigate first into the ICTLAB/scripts folder
+### And run this command
+```php intersection-script.php```
 
 # SOLR
 ## Create solr collection
