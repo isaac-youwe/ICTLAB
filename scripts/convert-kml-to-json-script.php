@@ -53,8 +53,7 @@ function processFiles($path)
             "gemeentecode" => filter($xml->Document->name, GEM_CODE),
             "wijkcode" => filter($xml->Document->name, WIJK_CODE),
             "buurtcode" => filter($xml->Document->name, BUURT_CODE),
-            "polygon" => array(filterCoordinates($xml->Document->Placemark->Polygon->outerBoundaryIs->LinearRing->coordinates))
-            );
+            "polygon" => filterCoordinates($xml->Document->Placemark->Polygon->outerBoundaryIs->LinearRing->coordinates));
 
         // convert string to json
         $json = json_encode($stringToJson);
@@ -66,15 +65,6 @@ function processFiles($path)
             echo sprintf("%s is not a KML file and will not be processed." . PHP_EOL, $path);
     }
 }
-
-echo PHP_EOL;
-echo 'script done' . PHP_EOL;
-
-$time_end = microtime(true);
-
-$execution_time = $time_end - $time_start;
-
-echo $i . ' files were processed in ' . "$execution_time seconds" . PHP_EOL;
 
 /**
  * Create new json file
@@ -189,3 +179,12 @@ function filter($documentName, $type)
             return '';
     }
 }
+
+echo PHP_EOL;
+echo 'script done' . PHP_EOL;
+
+$time_end = microtime(true);
+
+$execution_time = $time_end - $time_start;
+
+echo $i . ' files were processed in ' . "$execution_time seconds" . PHP_EOL;
