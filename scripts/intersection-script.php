@@ -6,88 +6,116 @@ echo 'script in progress.......' . PHP_EOL;
 $rootPath = realpath(__DIR__ . '/..');
 $shapefilesPath = $rootPath . '/shapefiles';
 if (!file_exists("$shapefilesPath")) {
-    mkdir("$shapefilesPath");
-    chmod("$shapefilesPath", 0777);
+    echo 'script stopped.......' . PHP_EOL;
+    echo 'please run php convert-kml-to-json-script.php first' . PHP_EOL;
+    die();
 }
 
-CONST ID = 'id';
-CONST TYPE = 'type';
-CONST NAME = 'name';
-CONST GEM_CODE = 'gemCode';
-CONST WIJK_CODE = 'wijkCode';
-CONST BUURT_CODE = 'buurtCode';
-
-$path = '../data/';
+require_once '/home/isaac/vhosts/ICTLAB/vendor/autoload.php';
 
 $i = 0;
 
-foreach(glob("$path*/*") as $kml)
+foreach(glob("$shapefilesPath/*") as $json)
 {
-    if ($kml === '.' || $kml === '..') continue;
-//    echo "Filename: " . $kml . PHP_EOL;
-    processFiles($kml);
+    if ($json === '.' || $json === '..') continue;
+    setAangrenzende($json, $shapefilesPath);
     $i++;
 }
 
-/**
- * Read kml file, process and create a new json file
- *
- * @param string $path
- */
-function processFiles($path)
+function setAangrenzende($path, $shapefilesPath)
 {
-    if (endsWith($path, ".kml")) {
-        // content is xml
+    if (endsWith($path, ".json")) {
+        // content is json
         $content = file_get_contents($path);
+        $contentPolygon = getPolygonFromJson($content);
 
-        // read xml file
-        $xml = simplexml_load_string($content);
+        // get Type
+        $type = 'BU';
 
-        $id = filter($xml->Document->name, ID);
+        $aangrenzende = array();
 
-        // json mapping
-        $stringToJson = array(
-            "id" => $id,
-            "name" => filter($xml->Document->name, NAME),
-            "geoType" => filter($xml->Document->name, TYPE),
-            "gemeentecode" => filter($xml->Document->name, GEM_CODE),
-            "wijkcode" => filter($xml->Document->name, WIJK_CODE),
-            "buurtcode" => filter($xml->Document->name, BUURT_CODE),
-            "polygon" => array(filterCoordinates($xml->Document->Placemark->Polygon->outerBoundaryIs->LinearRing->coordinates))
-            );
+        foreach(glob("$shapefilesPath/$type*") as $json)
+        {
+            if ($json === '.' || $json === '..' || $json === $path) continue;
+            $fileContent = file_get_contents($json);
+            $filePolygon = getPolygonFromJson($fileContent);
+            if (isAangrenzend($contentPolygon, $filePolygon)) {
+                array_push($aangrenzende, getIdFromJson($fileContent));
+            }
+        }
 
-        // convert string to json
-        $json = json_encode($stringToJson);
-//        echo $json . PHP_EOL;
+//        [0] => BU00030001
+//        [1] => BU00030002
+//        [2] => GM0003
+//        [3] => WK000300
+//        check type
 
-        // create .json file into shapefiles folder
-        createFile($id, $json);
-        } else {
-            echo sprintf("%s is not a KML file and will not be processed." . PHP_EOL, $path);
+// add new array to the object
+//        http://stackoverflow.com/questions/17806224/how-to-update-edit-json-file-using-php
+//        http://stackoverflow.com/questions/17944933/adding-elements-to-an-stdclass-array-php-codeigniter
+        $data = json_decode($content);
+        echo $path . PHP_EOL;
+        print_r($aangrenzende);
+        print_r($data);
+        die();
+        $data[0]['aangrenzende'] = $aangrenzende;
+        $newJsonString = json_encode($data);
+
+        $myfile = fopen($path, "w+") or die("Unable to open file!");
+        fwrite($myfile, $newJsonString);
+        fclose($myfile);
+    } else {
+        echo sprintf("%s is not a KML file and will not be processed." . PHP_EOL, $path);
     }
 }
 
-echo PHP_EOL;
-echo 'script done' . PHP_EOL;
+/**
+ * @param Polygon $poly1
+ * @param Polygon $poly2
+ * @return bool
+ */
+function isAangrenzend($polygonOne, $polygonTwo)
+{
+    $poly1 = geoPHP::load($polygonOne,'wkt');
+    $poly2 = geoPHP::load($polygonTwo,'wkt');
 
-$time_end = microtime(true);
-
-$execution_time = $time_end - $time_start;
-
-echo $i . ' files were processed in ' . "$execution_time seconds" . PHP_EOL;
+    if ($poly1->intersects($poly2)) {
+        return true;
+    }
+    return false;
+}
 
 /**
- * Create new json file
- *
- * @param string $name
- * @param string $content
+ * @param json $input
+ * @return string
  */
-function createFile($name, $content)
+function getPolygonFromJson($content)
 {
-    $jsonFile = fopen("../shapefiles/$name.json", "w") or die("Unable to open file!");
+    $json = json_decode($content);
 
-    fwrite($jsonFile, "[$content]");
-    fclose($jsonFile);
+    foreach ($json as $object) {
+        $pol = "POLYGON((";
+        for ($i = 0; $i < count($object->polygon); $i++) {
+            $pol .= $object->polygon[$i][0] . " " . $object->polygon[$i][1] . ",";
+        }
+        $pol = substr($pol, 0, -1);
+        $pol .= "))";
+
+        return $pol;
+    }
+}
+
+/**
+ * @param json $input
+ * @return string
+ */
+function getIdFromJson($content)
+{
+    $json = json_decode($content);
+
+    foreach ($json as $object) {
+        return $object->id;
+    }
 }
 
 /**
@@ -103,89 +131,12 @@ function endsWith($haystack, $needle)
     return $needle === "" || (($temp = strlen($haystack) - strlen($needle)) >= 0 && strpos($haystack, $needle, $temp) !== FALSE);
 }
 
-/**
- * Convert the string coordinates from the xml file into json objects
- *
- * @param string $coordinates
- * @return array $polylines
- */
-function filterCoordinates($coordinates)
-{
-    $polylines = array();
+echo PHP_EOL;
+echo 'script done' . PHP_EOL;
 
-    $coordinates = str_replace(array("\n", "\r"), '', $coordinates);
-    $coordinates = str_replace("             ", "", $coordinates);
-    $coordinates = str_replace("            ", "", $coordinates);
-    $coordinates = str_replace(",0.000000", ",", $coordinates);
+$time_end = microtime(true);
 
-    $coordinatesArray = explode(',', $coordinates);
-    $coordinatesArray = array_slice($coordinatesArray, 0, count($coordinatesArray) - 1);
+$execution_time = $time_end - $time_start;
 
-    for ($i = 0; $i < count($coordinatesArray); $i += 2) {
-        $obj = array(
-            floatval($coordinatesArray[$i + 1]), floatval($coordinatesArray[$i])
-        );
-        array_push($polylines, $obj);
-    }
+echo $i . ' files were processed in ' . "$execution_time seconds" . PHP_EOL;
 
-    return $polylines;
-}
-
-/**
- * @param string $documentName
- * @param CONSTANT $type
- * @return string
- */
-function filter($documentName, $type)
-{
-    $string = preg_split('/\s+/', $documentName);
-
-    switch ($type) {
-        case ID:
-            return $string[0];
-            break;
-
-        case TYPE:
-            return substr($documentName, 0, 2);
-            break;
-
-        case NAME:
-            // the string variable is split by space. Create a new string with variable after the first space.
-            $count = count($string);
-            if ($count > 2) {
-                $line = null;
-                for ($i = 1; $i < $count; $i++) {
-                    $line .= $string[$i];
-                    if ($i != $count - 1) {
-                        $line .= ' ';
-                    }
-                }
-                return $line;
-            }
-            return $string[1];
-
-        case GEM_CODE:
-            $string  = $string[0];
-            return substr($string, 2, 4);
-
-        case WIJK_CODE:
-            $string  = $string[0];
-            if (strlen($string) > 6) {
-                return substr($string, 6, 2);
-            } else {
-                return '';
-            }
-
-        case BUURT_CODE:
-            $string  = $string[0];
-            if (strlen($string) > 8) {
-                return substr($string, 8, 2);
-            } else {
-                return '';
-            }
-
-        default:
-            echo 'Filter type is not correct!' . PHP_EOL;
-            return '';
-    }
-}
