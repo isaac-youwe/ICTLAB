@@ -29,14 +29,12 @@ function setAangrenzende($path, $shapefilesPath)
         $content = file_get_contents($path);
         $contentPolygon = getPolygonFromJson($content);
 
-        // get Type
-        $type = 'BU';
 
         $aangrenzende = array();
 
         foreach(glob("$shapefilesPath/$type*") as $json)
         {
-            if ($json === '.' || $json === '..' || $json === $path) continue;
+            if ($json === '.' || $json === '..' || $json === $path || !isSameType($path, $json)) continue;
             $fileContent = file_get_contents($json);
             $filePolygon = getPolygonFromJson($fileContent);
             if (isAangrenzend($contentPolygon, $filePolygon)) {
@@ -44,29 +42,32 @@ function setAangrenzende($path, $shapefilesPath)
             }
         }
 
-//        [0] => BU00030001
-//        [1] => BU00030002
-//        [2] => GM0003
-//        [3] => WK000300
-//        check type
+        $temp = substr($content,0,-2);
+        $temp .=',"aangrenzende":[';
 
-// add new array to the object
-//        http://stackoverflow.com/questions/17806224/how-to-update-edit-json-file-using-php
-//        http://stackoverflow.com/questions/17944933/adding-elements-to-an-stdclass-array-php-codeigniter
-        $data = json_decode($content);
-        echo $path . PHP_EOL;
-        print_r($aangrenzende);
-        print_r($data);
+        foreach ($aangrenzende as $id) {
+            $temp .= '"' . $id . '",';
+        }
+        $temp = substr($temp,0,-1);
+        $temp .= ']}]';
+
+        echo "type: " . $type . PHP_EOL;
+        echo $temp . PHP_EOL;
         die();
-        $data[0]['aangrenzende'] = $aangrenzende;
-        $newJsonString = json_encode($data);
-
         $myfile = fopen($path, "w+") or die("Unable to open file!");
-        fwrite($myfile, $newJsonString);
+        fwrite($myfile, $temp);
         fclose($myfile);
     } else {
-        echo sprintf("%s is not a KML file and will not be processed." . PHP_EOL, $path);
+        echo sprintf("%s is not a JSON file and will not be processed." . PHP_EOL, $path);
     }
+}
+
+function isSameType($path, $checkPath)
+{
+    if () {
+        return true;
+    }
+    return false;
 }
 
 /**
