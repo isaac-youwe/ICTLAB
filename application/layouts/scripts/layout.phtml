@@ -39,7 +39,8 @@
         </div>
     </div>
 </nav>
-    <div class="container">
+<?php echo $this->partial('sidr.phtml', array()); ?>
+<div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="page-header">
@@ -47,9 +48,10 @@
             </div>
         </div>
     </div>
-<?php echo $this->layout()->content ?>
+<?php echo $this->layout()->content ?><br />
 
-<div class="navbar navbar-default navbar-fixed-bottom">
+
+<div class="navbar navbar-default">
     <div class="container">
         <div class="navbar-text"><span class="glyphicon glyphicon-copyright-mark"/> 2000-2015 Funda Real Estate B.V.
         </div>
