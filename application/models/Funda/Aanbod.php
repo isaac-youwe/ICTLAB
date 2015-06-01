@@ -44,11 +44,14 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
         $this->setSince($params);
         $this->setType($params);
 
+
+        // city should come right after $zo/ and then followed by buurt
         $url = '';
         foreach ($params as $key => $value) {
             if ($key === 'controller' || $key === 'action' || $key === 'module') continue;
             $url .= $value . '/';
         }
+        $buil = parent::getBaseUrl() . $this->_aanbodUrl . $this->getApiKey() . '/' . '?type=' . $this->getType() . '&zo=/' . $url .'&' . $this->getSince();
         return parent::getBaseUrl() . $this->_aanbodUrl . $this->getApiKey() . '/' . '?type=' . $this->getType() . '&zo=/' . $url .'&' . $this->getSince();
     }
 
