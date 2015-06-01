@@ -25,9 +25,12 @@ class ResultController extends Zend_Controller_Action
 
     public function indexAction()
     {
-//        $this->view->assign('baseUrl', Zend_Controller_Front::getBaseUrl() . Zend_Controller_Front::getInstance()->getRequest()->getRequestUri());
         $search = $this->getRequest()->getParam('search');
         $this->view->assign('search', $search);
+
+        if (empty($search)) {
+            throw new Exception('Vul een buurt of plaats aub');
+        }
 
         /**
          * Geocoder\Model\Address $addresses
