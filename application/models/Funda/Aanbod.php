@@ -18,6 +18,8 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
     }
 
     /**
+     * Get house collection using the Funda api
+     *
      * @param $params
      * @return mixed
      */
@@ -25,10 +27,15 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
     {
         $request = $this->getGuzzleClient()->createRequest('GET', $this->buildUrl($params));
         $response = json_decode($request->send()->getBody());
-//        check if response has no object
         return $response->Objects;
     }
 
+    /**
+     * Build Funda API call url
+     *
+     * @param $params
+     * @return mixed|string
+     */
     public function buildUrl($params)
     {
         /**
@@ -39,11 +46,10 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
 
         $url = '';
         foreach ($params as $key => $value) {
+            if ($key === 'controller' || $key === 'action' || $key === 'module') continue;
             $url .= $value . '/';
-            $a = 4;
         }
-
-        return parent::getBaseUrl() . $this->_aanbodUrl . $this->getApiKey() . '/' . '?type=' . $this->getType() . '&zo=/' . $url .'/&' . $this->getSince();
+        return parent::getBaseUrl() . $this->_aanbodUrl . $this->getApiKey() . '/' . '?type=' . $this->getType() . '&zo=/' . $url .'&' . $this->getSince();
     }
 
     public function totalObjects($params)
