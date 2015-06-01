@@ -19,24 +19,28 @@ foreach(glob("$shapefilesPath/*") as $json)
 {
     if ($json === '.' || $json === '..') continue;
     setAangrenzende($json, $shapefilesPath);
+
+    echo $json . PHP_EOL;
+//    if ($i % 100 == 0) {
+//        echo $json . PHP_EOL;
+//    }
+
     $i++;
 }
 
 function setAangrenzende($path, $shapefilesPath)
 {
     if (endsWith($path, ".json")) {
-        // content is json
         $content = file_get_contents($path);
         $contentPolygon = getPolygonFromJson($content);
 
-
         $aangrenzende = array();
 
-        foreach(glob("$shapefilesPath/$type*") as $json)
-        {
-            if ($json === '.' || $json === '..' || $json === $path || !isSameType($path, $json)) continue;
+        foreach (glob("$shapefilesPath/*") as $json) {
+            if ($json === '.' || $json === '..' || $json === $path || getJsonType($path) !== getJsonType($json)) continue;
             $fileContent = file_get_contents($json);
             $filePolygon = getPolygonFromJson($fileContent);
+
             if (isAangrenzend($contentPolygon, $filePolygon)) {
                 array_push($aangrenzende, getIdFromJson($fileContent));
             }
@@ -51,9 +55,6 @@ function setAangrenzende($path, $shapefilesPath)
         $temp = substr($temp,0,-1);
         $temp .= ']}]';
 
-        echo "type: " . $type . PHP_EOL;
-        echo $temp . PHP_EOL;
-        die();
         $myfile = fopen($path, "w+") or die("Unable to open file!");
         fwrite($myfile, $temp);
         fclose($myfile);
@@ -62,12 +63,22 @@ function setAangrenzende($path, $shapefilesPath)
     }
 }
 
-function isSameType($path, $checkPath)
+/**
+ * @param string $path
+ * @return string
+ */
+function getJsonType($path)
 {
-    if () {
-        return true;
-    }
-    return false;
+    $id = substr($path, strrpos($path, '/') + 1);
+    $id = substr($id, 0, -5);
+    $type = substr($id, 0, 2);
+
+    return $type;
+}
+
+function startsWith($haystack, $needle) {
+    // search backwards starting from haystack length characters from the end
+    return $needle === "" || strrpos($haystack, $needle, -strlen($haystack)) !== FALSE;
 }
 
 /**
