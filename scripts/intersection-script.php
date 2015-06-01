@@ -37,7 +37,7 @@ function setAangrenzende($path, $shapefilesPath)
         $aangrenzende = array();
 
         foreach (glob("$shapefilesPath/*") as $json) {
-            if ($json === '.' || $json === '..' || $json === $path || getJsonType($path) !== getJsonType($json)) continue;
+            if ($json === '.' || $json === '..' || $json === $path || getJsonType($path) !== getJsonType($json) || $json === '/home/isaac/vhosts/ICTLAB/shapefiles/BU00500005.json') continue;
             $fileContent = file_get_contents($json);
             $filePolygon = getPolygonFromJson($fileContent);
 
