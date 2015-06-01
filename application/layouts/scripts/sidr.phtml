@@ -1,8 +1,7 @@
 <!--Sidebar created by: Adriel walter-->
-<!--Sidr.phtml (view) created by: Isaac de Cuba-->
+<!--Sidr.phtml (view & logic) created by: Isaac de Cuba-->
 <!--Form titles edit by: Serhildan Akdeniz-->
 <?php
-
 $params = Zend_Controller_Front::getInstance()->getRequest()->getParams();
 ?>
 <a id="filter" class="sidebar" href="#sidr" xmlns="http://www.w3.org/1999/html"><h4 class="vertical-text dev-mode">FILTERS</h4></a>
@@ -14,19 +13,19 @@ $params = Zend_Controller_Front::getInstance()->getRequest()->getParams();
                     <label class="control-label">Aanwezigheid van</label>
 
                     <div class="checkbox">
-                        <label><input type="checkbox" name="aanwezigheid" value="balkon-dakterras" <?php echo in_array('balkon-dakterras', $params) ? 'checked' : ''?>>Balkon-Dakterras</label>
+                        <label><input type="checkbox" name="aanwezigheid1" value="balkon-dakterras" <?php echo in_array('balkon-dakterras', $params) ? 'checked' : ''?>>Balkon-Dakterras</label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" name="aanwezigheid" value="lift" <?php echo in_array('lift', $params) ? 'checked' : ''?>>Lift</label>
+                        <label><input type="checkbox" name="aanwezigheid2" value="lift" <?php echo in_array('lift', $params) ? 'checked' : ''?>>Lift</label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" name="aanwezigheid" value="garage" <?php echo in_array('garage', $params) ? 'checked' : ''?>>Garage</label>
+                        <label><input type="checkbox" name="aanwezigheid3" value="garage" <?php echo in_array('garage', $params) ? 'checked' : ''?>>Garage</label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" name="aanwezigheid" value="tuin" <?php echo in_array('tuin', $params) ? 'checked' : ''?>>Tuin</label>
+                        <label><input type="checkbox" name="aanwezigheid4" value="tuin" <?php echo in_array('tuin', $params) ? 'checked' : ''?>>Tuin</label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" name="aanwezigheid" value="zwembad" <?php echo in_array('zwembad', $params) ? 'checked' : ''?>>Zwembad</label>
+                        <label><input type="checkbox" name="aanwezigheid5" value="zwembad" <?php echo in_array('zwembad', $params) ? 'checked' : ''?>>Zwembad</label>
                     </div>
                 </div>
                 <hr/>
