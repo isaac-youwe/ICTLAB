@@ -38,9 +38,9 @@ class ResultController extends Zend_Controller_Action
             $this->view->assign('lng', $address->getLongitude());
         }
 
-        $this->view->fundaAanbod = new Application_Model_Funda_Aanbod();
+        $params = $this->getRequest()->getParams();
+        $fundaAanbod = new Application_Model_Funda_Aanbod();
+        $this->view->collection = $fundaAanbod->getCollection($params);
     }
-
-
 }
 
