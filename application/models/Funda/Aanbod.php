@@ -18,6 +18,8 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
     }
 
     /**
+     * Get house collection using the Funda api
+     *
      * @param $params
      * @return mixed
      */
@@ -25,20 +27,31 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
     {
         $request = $this->getGuzzleClient()->createRequest('GET', $this->buildUrl($params));
         $response = json_decode($request->send()->getBody());
-
         return $response->Objects;
     }
 
+    /**
+     * Build Funda API call url
+     *
+     * @param $params
+     * @return mixed|string
+     */
     public function buildUrl($params)
     {
         /**
          * baseurl / url / apikey / type / city / all filters / since
          */
-        $this->setCity($params);
         $this->setSince($params);
         $this->setType($params);
 
-        return parent::getBaseUrl() . $this->_aanbodUrl . $this->getApiKey() . '/' . '?type=' . $this->getType() . '&zo=/' . $this->getCity() . '/0-400000' . '/p' . $this->page .'/&' . $this->getSince();
+        // city should come right after $zo/ and then followed by buurt
+        $url = '';
+        $url .= $params['search'] . '/';
+        foreach ($params as $key => $value) {
+            if ($key === 'controller' || $key === 'action' || $key === 'module' || $key === 'search' || $key === 'buurt') continue;
+            $url .= $value . '/';
+        }
+        return parent::getBaseUrl() . $this->_aanbodUrl . $this->getApiKey() . '/' . '?type=' . $this->getType() . '&zo=/' . $url . '&' . $this->getSince();
     }
 
     public function totalObjects($params)

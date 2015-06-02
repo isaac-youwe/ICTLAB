@@ -26,16 +26,12 @@
     <div class="row">
         <div class="col-md-4 col-sm-3 pre-scrollable">
             <ul class="list-group">
-                <!--                this parameter is temporary set like this when using filter should be removed-->
-                <?php $params['filters']['city'] = $this->search; ?>
-
-                <?php $collection = $this->fundaAanbod->getCollection($params); ?>
-
                 <script>
-                    var collection = <?php echo json_encode($collection); ?>;
+                    var collection = <?php echo json_encode($this->collection); ?>;
                     var lat = <?php echo json_encode($this->lat); ?>;
                     var lng = <?php echo json_encode($this->lng); ?>;
                 </script>
+                
                 <li id="side_bar" class="list-group-item"></li>
                 <div class="row">
                     <div class="col-md-12 dev-mode" align="center">
