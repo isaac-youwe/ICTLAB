@@ -14,6 +14,15 @@ This README.md is a guide on how to install the project.
 ## Add Vendor/Zend symlink to app/library
 ```ln -s path/to/vendor/zend .```
 
+## Install SolrClient
+```sudo apt-get install libcurl4-gnutls-dev libxml2 libxml2-dev```
+```sudo apt-get install libpcre3-dev```
+```sudo pecl install -n solr```
+```sudo echo "extension=solr.so" >> /etc/php5/apache2/php.ini```
+```sudo echo "extension=solr.so" > /etc/php5/apache2/conf.d/solr.ini```
+```sudo etc/init.d/apache2 restart```
+
+
 **Not for sale purposes**
 
 The Collaborators of this project are:

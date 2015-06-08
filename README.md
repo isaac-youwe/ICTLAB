@@ -20,7 +20,13 @@ This README.md is a guide on how to install the project.
 ```sudo pecl install -n solr```
 ```sudo echo "extension=solr.so" >> /etc/php5/apache2/php.ini```
 ```sudo echo "extension=solr.so" > /etc/php5/apache2/conf.d/solr.ini```
-```sudo etc/init.d/apache2 restart```
+```sudo service apache2 restart```
+
+## Create collection in Solr and index files
+```bin/solr start```
+```bin/solr create -c shfiles```
+//copy the shapefiles into the solr-5.1.0 map
+```bin/post -c shfiles shapefiles/ 
 
 
 **Not for sale purposes**
