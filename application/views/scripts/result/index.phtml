@@ -182,3 +182,20 @@
         </script>
     </div>
 </div>
+<?php
+$flex = new Application_Model_Solr_BuurtCall();
+$processor = new Application_Model_Processor();
+
+if (strpos($this->search, "/")) {
+    $buurt = explode("/", $this->search);
+    $buurt = $buurt[1];
+} else {
+    $buurt = $this->search;
+}
+
+//echo $processor->getPolygonFromArray($flex->getPolygon($buurt));
+//echo $flex->getName($buurt);
+//echo $flex->getId($buurt);
+//echo "</p>";
+?>
+
