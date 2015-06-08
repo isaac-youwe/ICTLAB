@@ -33,6 +33,7 @@ This README.md is a guide on how to install the project.
 ```bin/solr create -c shfiles```
 
 copy the shapefiles into the solr-5.1.0 map
+
 ```bin/post -c shfiles shapefiles/``` 
 
 
