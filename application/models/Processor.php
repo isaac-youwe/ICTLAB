@@ -31,7 +31,7 @@ class Application_Model_Processor
         $pol = "POLYGON((";
 
         for ($i = 0; $i < count($array); $i += 2) {
-            $pol .= $array[$i] . " " . $array[$i+1] . ",";
+            $pol .= $array[$i] . " " . $array[$i + 1] . ",";
         }
 
         $pol = substr($pol, 0, -1);
