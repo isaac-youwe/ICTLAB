@@ -1,13 +1,15 @@
 <!--Sidebar created by: Adriel walter-->
 <!--Sidr.phtml (view & logic) created by: Isaac de Cuba-->
 <!--Form titles edit by: Serhildan Akdeniz-->
+
 <?php
 $params = Zend_Controller_Front::getInstance()->getRequest()->getParams();
 ?>
+<script type="text/javascript" src="/js/submitfilter.js"></script>
 <a id="filter" class="sidebar" href="#sidr" xmlns="http://www.w3.org/1999/html"><h4 class="vertical-text dev-mode">
         FILTERS</h4></a>
 <div id="sidr">
-    <form id="sideform" action="/result">
+    <form id="form" action="/result">
         <nav class="menu slide-menu-left">
             <ul>
                 <div class="form-group">
@@ -206,8 +208,3 @@ $params = Zend_Controller_Front::getInstance()->getRequest()->getParams();
             </ul>
         </nav>
 </div>
-<script>
-    function subm() {
-        document.getElementById('sideform').submit();
-    }
-</script>
