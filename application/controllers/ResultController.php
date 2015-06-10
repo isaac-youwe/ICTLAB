@@ -42,17 +42,9 @@ class ResultController extends Zend_Controller_Action
             $this->view->assign('lng', $address->getLongitude());
         }
 
-        $this->params = $this->getRequest()->getParams();
+        $this->params = $this->view->params = $this->getRequest()->getParams();
         $fundaAanbod = new Application_Model_Funda_Aanbod();
         $this->view->collection = $fundaAanbod->getCollection($this->params);
-    }
-
-    public function isSelected($value)
-    {
-        if (in_array($value, $this->params)) {
-            return true;
-        }
-        return false;
     }
 }
 
