@@ -29,7 +29,13 @@ class Application_Model_Solr_BuurtCall
         $query->setQuery("name:$name");
         $query->addField('id')->addField('name')->addField('polygon')->addField('aangrenzende');
         $query_response = $this->solrClient->query($query);
-        return $query_response->getResponse()->response;
+
+        $response = $query_response->getResponse()->response;
+
+        if ($response->numFound === 0) {
+            return false;
+        }
+        return $response;
     }
 
     /**
@@ -40,6 +46,9 @@ class Application_Model_Solr_BuurtCall
      */
     public function getPolygon($name)
     {
+        if (!$this->getBuurt($name)) {
+            return false;
+        }
         return $this->getBuurt($name)->docs[0]->polygon;
     }
 
@@ -51,6 +60,9 @@ class Application_Model_Solr_BuurtCall
      */
     public function getAangrenzendeBuurten($name)
     {
+        if (!$this->getBuurt($name)) {
+            return false;
+        }
         return $this->getBuurt($name)->docs[0]->aangrenzende;
     }
 
@@ -62,6 +74,9 @@ class Application_Model_Solr_BuurtCall
      */
     public function getName($name)
     {
+        if (!$this->getBuurt($name)) {
+            return false;
+        }
         return $this->getBuurt($name)->docs[0]->name[0];
     }
 
@@ -73,6 +88,9 @@ class Application_Model_Solr_BuurtCall
      */
     public function getId($name)
     {
+        if (!$this->getBuurt($name)) {
+            return false;
+        }
         return $this->getBuurt($name)->docs[0]->id;
     }
 }

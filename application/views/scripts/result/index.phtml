@@ -188,8 +188,10 @@
         </script>
     </div>
 </div>
+<h2>Solr Details</h2>
 <?php
 $flex = new Application_Model_Solr_BuurtCall();
+
 $processor = new Application_Model_Processor();
 
 if (strpos($this->search, "/")) {
@@ -198,10 +200,7 @@ if (strpos($this->search, "/")) {
 } else {
     $buurt = $this->search;
 }
-
-//echo $processor->getPolygonFromArray($flex->getPolygon($buurt));
-//echo $flex->getName($buurt);
-//echo $flex->getId($buurt);
-//echo "</p>";
-?>
+echo "<p>" . $processor->getPolygonFromArray($flex->getPolygon($buurt)) . "</p>";
+echo "<p>" . $flex->getName($buurt) . "</p>";
+echo "<p>" . $flex->getId($buurt) . "</p>";
 

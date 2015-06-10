@@ -23,21 +23,24 @@ class Application_Model_Processor
     }
 
     /**
-     * @param json $input
+     * @param array $input
      * @return string
      */
     function getPolygonFromArray($array)
     {
-        $pol = "POLYGON((";
+        if (is_array($array)) {
+            $pol = "POLYGON((";
 
-        for ($i = 0; $i < count($array); $i += 2) {
-            $pol .= $array[$i] . " " . $array[$i + 1] . ",";
+            for ($i = 0; $i < count($array); $i += 2) {
+                $pol .= $array[$i] . " " . $array[$i + 1] . ",";
+            }
+
+            $pol = substr($pol, 0, -1);
+            $pol .= "))";
+
+            return $pol;
         }
-
-        $pol = substr($pol, 0, -1);
-        $pol .= "))";
-
-        return $pol;
+        return false;
     }
 }
 
