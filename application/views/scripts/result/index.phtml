@@ -34,15 +34,18 @@
                 
                 <li id="side_bar" class="list-group-item"></li>
                 <div class="row">
-                    <div class="col-md-12 dev-mode" align="center">
+                    <div class="col-md-12" align="center">
                         <ul class="pagination">
-                            <li class="disabled"><a href="#">&laquo;</a></li>
-                            <li class="active"><a href="#">1</a></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                            <li><a href="#">4</a></li>
-                            <li><a href="#">5</a></li>
-                            <li><a href="#">&raquo;</a></li>
+                            <?php
+                            (array_key_exists('startp', $this->params) ? $start = $this->params["startp"] : $start = 1);
+                            echo "<li " . ($start <= 1 ? "class='disabled'" : '') . "><a href='/result?search=" . $this->search . "&page=p" . ($start - 1) . "&startp=" . ($start - 5) . "'>&laquo;</a></li>";
+
+                            $max = 5 + $start;
+                            for ($i = $start; $i < $max; $i++) {
+                                echo "<li " . (in_array('p' . $i, $this->params) ? "class='active'" : '') . "><a href='/result?search=" . $this->search . "&page=p" . $i . "&startp=" . $start . "'>$i</a></li>";
+                            }
+                            echo "<li><a href='/result?search=" . $this->search . "&page=p" . $i . "&startp=" . $i . "'>&raquo;</a></li>";
+                            ?>
                         </ul>
                     </div>
                 </div>
@@ -281,3 +284,19 @@ var_dump($ya200->contains($point1));
 echo "Is point 1 in polygon? " . ($ya200->contains($point1) ? "YES" : "NO");
 
 ?>
+
+<h2>Solr Details</h2>
+<?php
+$flex = new Application_Model_Solr_BuurtCall();
+
+$processor = new Application_Model_Processor();
+
+if (strpos($this->search, "/")) {
+    $buurt = explode("/", $this->search);
+    $buurt = $buurt[1];
+} else {
+    $buurt = $this->search;
+}
+echo "<p>" . $processor->getPolygonFromArray($flex->getPolygon($buurt)) . "</p>";
+echo "<p>" . $flex->getName($buurt) . "</p>";
+echo "<p>" . $flex->getId($buurt) . "</p>";

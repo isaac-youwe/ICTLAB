@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: adriel
@@ -26,5 +27,26 @@ class Application_Model_Processor {
 
             return $pol;
         }
+    }
+
+    /**
+     * @param array $input
+     * @return string
+     */
+    function getPolygonFromArray($array)
+    {
+        if (is_array($array)) {
+            $pol = "POLYGON((";
+
+            for ($i = 0; $i < count($array); $i += 2) {
+                $pol .= $array[$i] . " " . $array[$i + 1] . ",";
+            }
+
+            $pol = substr($pol, 0, -1);
+            $pol .= "))";
+
+            return $pol;
+        }
+        return false;
     }
 }
