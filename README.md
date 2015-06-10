@@ -14,6 +14,29 @@ This README.md is a guide on how to install the project.
 ## Add Vendor/Zend symlink to app/library
 ```ln -s path/to/vendor/zend .```
 
+## Install SolrClient
+```sudo apt-get install libcurl4-gnutls-dev libxml2 libxml2-dev```
+
+```sudo apt-get install libpcre3-dev```
+
+```sudo pecl install -n solr```
+
+```sudo echo "extension=solr.so" >> /etc/php5/apache2/php.ini```
+
+```sudo echo "extension=solr.so" > /etc/php5/apache2/conf.d/solr.ini```
+
+```sudo service apache2 restart```
+
+## Create collection in Solr and index files
+```bin/solr start```
+
+```bin/solr create -c shfiles```
+
+copy the shapefiles into the solr-5.1.0 map
+
+```bin/post -c shfiles shapefiles/``` 
+
+
 **Not for sale purposes**
 
 The Collaborators of this project are:
@@ -56,10 +79,6 @@ Verander compare:[branchnaam]
 ## Step 14:
 Klik op CREATE PULL REQUEST
 
-# Windows users
-## Do this only once 
-```git remote add upstream https://github.com/isaac-youwe/ICTLAB.git```
-
 # Convert KML to JSON script
 ### Navigate first into the ICTLAB/scripts folder
 ### And run this command
@@ -69,13 +88,3 @@ Klik op CREATE PULL REQUEST
 ### Navigate first into the ICTLAB/scripts folder
 ### And run this command
 ```php intersection-script.php```
-
-# SOLR
-## Create solr collection
-### Navigate to your Solr directory and run the following commands
-Start the SOLR Server
-```bin/solr start```
-Create collection for shapefiles
-```bin/post -c shapefiles ../vhosts/ICTLAB/shapefiles/*```
-Search 
-```http://localhost:8983/solr/shapefiles/query?q=id:GM0599```

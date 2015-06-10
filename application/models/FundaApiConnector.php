@@ -44,8 +44,8 @@ abstract class Application_Model_FundaApiConnector
      */
     public function setCity($params)
     {
-        if (!empty($params['filters']['city'])) {
-            $this->_city = $params['filters']['city'];
+        if (!empty($params['search'])) {
+            $this->_city = $params['search'];
         } else {
             throw new Zend_Controller_Action_Exception('Geen stad gekozen');
         }

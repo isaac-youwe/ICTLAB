@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="https://twitter.github.io/typeahead.js/releases/latest/typeahead.bundle.js"></script>
+</head>
+<body>
+<form>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+
+            <span class="typeahead-query">
+                <input id="q" name="q" type="text" data-provide="typeahead">
+            </span>
+            <span class="typeahead-button">
+                <button type="submit">
+                    <span class="typeahead-search-icon"></span>
+                </button>
+            </span>
+
+        </div>
+    </div>
+</form>
+<script type="text/javascript">
+    $(document).ready(function(){
+// Instantiate the Bloodhound suggestion engine
+        var movies = new Bloodhound({
+            datumTokenizer: function (datum) {
+                return Bloodhound.tokenizers.whitespace(datum.value);
+            },
+            queryTokenizer: Bloodhound.tokenizers.whitespace,
+            remote: {
+                url: 'http://api.themoviedb.org/3/search/movie?query=%QUERY&api_key=470fd2ec8853e25d2f8d86f685d2270e',
+                //url: 'http://yourhost_ip/foo_autocomplete?query=%QUERY',
+                wildcard: '%QUERY',
+                filter: function (movies) {
+                    // Map the remote source JSON array to a JavaScript array
+                    return $.map(movies.results, function (movie) {
+                        console.log("movie name: " + movie.original_title);
+                        return {
+                            //value: movie //Use this if your url returns a list of strings
+                            value: movie.original_title
+                        };
+                    });
+                }
+            }
+        });
+
+// Initialize the Bloodhound suggestion engine
+        movies.initialize();
+// Instantiate the Typeahead UI
+        $('#q').typeahead(
+                {
+                    hint: true,
+                    highlight: true,
+                    minLength: 1
+                }, {
+                    displayKey: 'value',
+                    source: movies.ttAdapter()
+                });
+    });
+</script>
+
+</body>
+</html>
