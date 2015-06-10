@@ -14,12 +14,10 @@ This README.md is a guide on how to install the project.
 ## Add Vendor/Zend symlink to app/library
 ```ln -s path/to/vendor/zend .```
 
-## Install Solr
+## Download and install Solr
+```wget http://mirrors.supportex.net/apache/lucene/solr/5.1.0/solr-5.1.0.zip```
 
-```/:$ ls solr*```
-```solr-5.1.0.zip```
-```/:$ unzip -q solr-5.1.0.zip```
-```/:$ cd solr-5.1.0/```
+```unzip -q solr-5.1.0.zip```
 
 ## Install SolrClient
 ```sudo apt-get install libcurl4-gnutls-dev libxml2 libxml2-dev```
@@ -41,7 +39,11 @@ This README.md is a guide on how to install the project.
 
 copy the shapefiles into the ICTLAB map
 
-```bin/post -c shfiles shapefiles/```
+```bin/post -c shfiles ICTLAB/shapefiles/```
+
+To delete a collection use:
+
+```bin/solr delete -c collection_name```
 
 ## Download credentials.json from Google Drive and paste it in ICTLAB
 
