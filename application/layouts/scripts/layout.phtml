@@ -41,9 +41,9 @@
         <div class="col-md-4 col-centered">
             <form class="navbar-form" role="search" action="<?php echo $this->serverUrl(); ?>/result">
                 <div class="input-group">
-                    <input id="zb-buurt" class="form-control" name="" type="text" value="<?php echo $this->buurt; ?>"/>
-                    <input id="zb-stad" class="form-control" name="stad" type="hidden" value="<?php echo $this->stad; ?>"/>
-                    <input id="zb-buurt2" class="form-control" name="buurt" type="hidden" value="<?php echo $this->buurt; ?>"/>
+                    <input id="zb-buurt" class="typeahead" name="" type="text" value="<?php echo $this->buurt; ?>"/>
+                    <input id="zb-stad" name="stad" type="hidden" value="<?php echo $this->stad; ?>"/>
+                    <input id="zb-buurt2" name="buurt" type="hidden" value="<?php echo $this->buurt; ?>"/>
                     <span class="input-group-btn">
                         <button class="btn btn-default" type="submit">
                             <span class="glyphicon glyphicon-search"></span>
@@ -63,8 +63,7 @@
 
 <div class="navbar navbar-default">
     <div class="container">
-        <div class="navbar-text"><span class="glyphicon glyphicon-copyright-mark"/> 2000-2015 Funda Real Estate B.V.
-        </div>
+        <div class="navbar-text"><span class="glyphicon glyphicon-copyright-mark"/> 2000-2015 Funda Real Estate B.V.</div>
     </div>
 </div>
 
