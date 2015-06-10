@@ -14,6 +14,13 @@ This README.md is a guide on how to install the project.
 ## Add Vendor/Zend symlink to app/library
 ```ln -s path/to/vendor/zend .```
 
+## Install Solr
+
+```/:$ ls solr*```
+```solr-5.1.0.zip```
+```/:$ unzip -q solr-5.1.0.zip```
+```/:$ cd solr-5.1.0/```
+
 ## Install SolrClient
 ```sudo apt-get install libcurl4-gnutls-dev libxml2 libxml2-dev```
 
@@ -32,11 +39,13 @@ This README.md is a guide on how to install the project.
 
 ```bin/solr create -c shfiles```
 
-copy the shapefiles into the solr-5.1.0 map
+copy the shapefiles into the ICTLAB map
 
-```bin/post -c shfiles shapefiles/``` 
+```bin/post -c shfiles shapefiles/```
 
+## Download credentials.json from Google Drive and paste it in ICTLAB
 
+=======
 **Not for sale purposes**
 
 The Collaborators of this project are:
