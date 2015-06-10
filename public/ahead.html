@@ -32,15 +32,16 @@
             },
             queryTokenizer: Bloodhound.tokenizers.whitespace,
             remote: {
-                url: 'http://zb.funda.info/frontend/geo/suggest/?niveau=3&max=3&type=koop&query=%QUERY',
+                url: 'http://api.themoviedb.org/3/search/movie?query=%QUERY&api_key=470fd2ec8853e25d2f8d86f685d2270e',
                 //url: 'http://yourhost_ip/foo_autocomplete?query=%QUERY',
                 wildcard: '%QUERY',
                 filter: function (movies) {
                     // Map the remote source JSON array to a JavaScript array
-                    return $.map(movies.Results, function (movie) {
+                    return $.map(movies.results, function (movie) {
+                        console.log("movie name: " + movie.original_title);
                         return {
                             //value: movie //Use this if your url returns a list of strings
-                            value: movie.Display.Naam
+                            value: movie.original_title
                         };
                     });
                 }
@@ -54,7 +55,7 @@
                 {
                     hint: true,
                     highlight: true,
-                    minLength: 3
+                    minLength: 1
                 }, {
                     displayKey: 'value',
                     source: movies.ttAdapter()
