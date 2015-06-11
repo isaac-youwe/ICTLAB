@@ -43,7 +43,7 @@ copy the shapefiles into the ICTLAB map
 
 To delete a collection use:
 
-```bin/solr delete -c collection_name```
+```bin/solr delete -c shfiles```
 
 ## Download credentials.json from Google Drive and paste it in ICTLAB
 
