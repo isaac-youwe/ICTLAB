@@ -31,7 +31,7 @@
                     var lat = <?php echo json_encode($this->lat); ?>;
                     var lng = <?php echo json_encode($this->lng); ?>;
                 </script>
-                
+
                 <li id="side_bar" class="list-group-item"></li>
                 <div class="row">
                     <div class="col-md-12" align="center">
@@ -82,60 +82,8 @@
                 }
                 map = new google.maps.Map(document.getElementById('map-canvas'),
                     mapOptions);
+                housmarkers();
 
-                for (var i = 0; i < collection.length; i++) {
-                    housePhoto = '<img src="' + collection[i]['Foto'] + '">';
-                    houseSquare = 'Oppervlakte: ' + collection[i]['Woonoppervlakte'] + ' m' + '<sup>2</sup>';
-                    housePrice = 'Prijs: &#8364;' + collection[i]['Koopprijs'];
-                    houseMakelaar = 'Makelaar: ' + collection[i]['MakelaarNaam'];
-                    houseAdress = collection[i]['Adres'];
-                    houseRooms = 'Aantal kamers: ' + collection[i]['AantalKamers'];
-                    myLatLng = new google.maps.LatLng(collection[i]['WGS84_Y'], collection[i]['WGS84_X']);
-                    houseMarker = new google.maps.Marker({
-                        position: myLatLng,
-                        map: map,
-                        icon: icon
-                    });
-
-                    console.log(collection[i]['WGS84_Y']);
-                    console.log(collection[i]['WGS84_X']);
-
-                    //Create List Details
-                    var houseAdressDetails =
-                        houseAdress + '<br>';
-
-                    var adressHouseDetails =
-                        houseRooms + '<br>' +
-                        housePrice + '<hr />';
-
-                    gmarkers.push(houseMarker);
-
-                    // add a line to the side_bar html
-                    var marker_id = gmarkers.length - 1;
-
-                    side_bar_html += '<a class ="listmarker" href="javascript:myclick(' + marker_id + ')' +
-                    '" onmouseover="gmarkers[' + marker_id + '].setIcon(icon2)' +
-                    '" onmouseout="gmarkers[' + marker_id + '].setIcon(icon)">' + '<h4> ' + houseAdressDetails + '</h4></a>';
-
-                    //Details from select Adress
-                    side_bar_html += '<p>' + adressHouseDetails + '</p>';
-
-                    var details =
-                        '<p class="text-center">' +
-                        '<h5>' + houseAdress + '</h5>' +
-                        housePrice + '<br />' +
-                        houseRooms + '<br />' +
-                        houseSquare + '<br />' +
-                        houseMakelaar + '<br />' +
-                        '<div class="img-responsive">' + housePhoto + '</div>' +
-                        '</p>';
-
-                    var detailsPopUp = '<p class="text-center">' + houseAdress + ", " + housePrice + '</p>';
-
-                    addInfoWindow(houseMarker, details);
-                    addPopupWindow(houseMarker, detailsPopUp);
-
-                }
 
                 document.getElementById("side_bar").innerHTML = side_bar_html;
 
@@ -185,97 +133,90 @@
 
                 });
             }
+
+            function housmarkers(){
+                for (var i = 0; i < collection.length; i++) {
+                    housePhoto = '<img src="' + collection[i]['Foto'] + '">';
+                    houseSquare = 'Oppervlakte: ' + collection[i]['Woonoppervlakte'] + ' m' + '<sup>2</sup>';
+                    housePrice = 'Prijs: &#8364;' + collection[i]['Koopprijs'];
+                    houseMakelaar = 'Makelaar: ' + collection[i]['MakelaarNaam'];
+                    houseAdress = collection[i]['Adres'];
+                    houseRooms = 'Aantal kamers: ' + collection[i]['AantalKamers'];
+                    myLatLng = new google.maps.LatLng(collection[i]['WGS84_Y'], collection[i]['WGS84_X']);
+                    houseMarker = new google.maps.Marker({
+                        position: myLatLng,
+                        map: map,
+                        icon: icon
+                    });
+
+//                    console.log(collection[i]['WGS84_Y']);
+//                    console.log(collection[i]['WGS84_X']);
+
+                    //Create List Details
+                    var houseAdressDetails =
+                        houseAdress + '<br>';
+
+                    var adressHouseDetails =
+                        houseRooms + '<br>' +
+                        housePrice + '<hr />';
+
+                    gmarkers.push(houseMarker);
+
+                    // add a line to the side_bar html
+                    var marker_id = gmarkers.length - 1;
+
+                    side_bar_html += '<a class ="listmarker" href="javascript:myclick(' + marker_id + ')' +
+                    '" onmouseover="gmarkers[' + marker_id + '].setIcon(icon2)' +
+                    '" onmouseout="gmarkers[' + marker_id + '].setIcon(icon)">' + '<h4> ' + houseAdressDetails + '</h4></a>';
+
+                    //Details from select Adress
+                    side_bar_html += '<p>' + adressHouseDetails + '</p>';
+
+                    var details =
+                        '<p class="text-center">' +
+                        '<h5>' + houseAdress + '</h5>' +
+                        housePrice + '<br />' +
+                        houseRooms + '<br />' +
+                        houseSquare + '<br />' +
+                        houseMakelaar + '<br />' +
+                        '<div class="img-responsive">' + housePhoto + '</div>' +
+                        '</p>';
+
+                    var detailsPopUp = '<p class="text-center">' + houseAdress + ", " + housePrice + '</p>';
+
+                    addInfoWindow(houseMarker, details);
+                    addPopupWindow(houseMarker, detailsPopUp);
+
+                }
+            }
         </script>
     </div>
 </div>
 <?php
 
-$string = '[
-  {
-    "id": "BU00030001",
-    "name": "Appingedam-West",
-    "geoType": "BU",
-    "gemeentecode": "0003",
-    "wijkcode": "00",
-    "buurtcode": "01",
-    "polygon": [
-      [
-        53.320406,
-        6.850491
-      ],
-      [
-        53.318863,
-        6.856118
-      ],
-      [
-        53.317754,
-        6.856034
-      ],
-      [
-        53.315088,
-        6.849378
-      ],
-      [
-        53.315102,
-        6.844059
-      ],
-      [
-        53.316549,
-        6.841518
-      ],
-      [
-        53.317335,
-        6.836551
-      ],
-      [
-        53.319446,
-        6.836257
-      ],
-      [
-        53.31927,
-        6.833692
-      ],
-      [
-        53.327481,
-        6.832257
-      ],
-      [
-        53.327475,
-        6.8328
-      ],
-      [
-        53.328276,
-        6.834193
-      ],
-      [
-        53.326725,
-        6.852939
-      ],
-      [
-        53.321321,
-        6.849914
-      ],
-      [
-        53.320406,
-        6.850491
-      ]
-    ],
-    "aangrenzende": [
-      "BU00030000",
-      "BU00030002",
-      "BU00030007",
-      "BU00030009",
-      "BU00240309"
-    ]
-  }
-]';
+$flex = new Application_Model_Solr_BuurtCall();
 
 $processor = new Application_Model_Processor();
-$polygonBuurt = $processor->getPolygonFromJson($string);
 
+if (strpos($this->search, "/")) {
+    $buurt = explode("/", $this->search);
+    $buurt = $buurt[1];
+} else {
+    $buurt = $this->search;
+}
+$processor = new Application_Model_Processor();
+$polygonBuurt = $processor->getPolygonFromArray($flex->getPolygon($buurt));
+$markerPoint = $this->collection;
+foreach ($markerPoint as $value){
+    $pointLat = $markerPoint[0]->WGS84_Y;
+    $pointLng = $markerPoint[0]->WGS84_X;
 
-$latPoint = 53.3173;
-$lngPoint = 6.85149;
+}
+
+$latPoint = $pointLat;
+$lngPoint = $pointLng;
+$pointhous = $latPoint . $lngPoint ;
+
 
 $point1 = geoPHP::load("POINT($latPoint $lngPoint)","wkt");
 
@@ -287,16 +228,8 @@ echo "Is point 1 in polygon? " . ($ya200->contains($point1) ? "YES" : "NO");
 
 <h2>Solr Details</h2>
 <?php
-$flex = new Application_Model_Solr_BuurtCall();
-
-$processor = new Application_Model_Processor();
-
-if (strpos($this->search, "/")) {
-    $buurt = explode("/", $this->search);
-    $buurt = $buurt[1];
-} else {
-    $buurt = $this->search;
-}
 echo "<p>" . $processor->getPolygonFromArray($flex->getPolygon($buurt)) . "</p>";
 echo "<p>" . $flex->getName($buurt) . "</p>";
 echo "<p>" . $flex->getId($buurt) . "</p>";
+
+?>
