@@ -149,9 +149,6 @@
                         icon: icon
                     });
 
-//                    console.log(collection[i]['WGS84_Y']);
-//                    console.log(collection[i]['WGS84_X']);
-
                     //Create List Details
                     var houseAdressDetails =
                         houseAdress + '<br>';
@@ -194,7 +191,7 @@
 </div>
 <?php
 
-$flex = new Application_Model_Solr_BuurtCall();
+$SolrBuurtCall = new Application_Model_Solr_BuurtCall();
 
 $processor = new Application_Model_Processor();
 
@@ -205,31 +202,37 @@ if (strpos($this->search, "/")) {
     $buurt = $this->search;
 }
 $processor = new Application_Model_Processor();
-$polygonBuurt = $processor->getPolygonFromArray($flex->getPolygon($buurt));
-$markerPoint = $this->collection;
-foreach ($markerPoint as $value){
-    $pointLat = $markerPoint[0]->WGS84_Y;
-    $pointLng = $markerPoint[0]->WGS84_X;
+$polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($buurt));
 
+$markerPoint = $this->collection;
+
+foreach ($markerPoint as $value){
+    if($value) {
+        $pointLat = $markerPoint[0]->WGS84_Y;
+        $pointLng = $markerPoint[0]->WGS84_X;
+    }
+    else {
+        $pointLat = 50.690492;
+        $pointLng = 3.167453;
+    }
 }
 
 $latPoint = $pointLat;
 $lngPoint = $pointLng;
-$pointhous = $latPoint . $lngPoint ;
 
 
 $point1 = geoPHP::load("POINT($latPoint $lngPoint)","wkt");
 
-$ya200 = geoPHP::load("$polygonBuurt","wkt");
-var_dump($ya200->contains($point1));
-echo "Is point 1 in polygon? " . ($ya200->contains($point1) ? "YES" : "NO");
+$polygone = geoPHP::load("$polygonBuurt","wkt");
+var_dump($polygone->contains($point1));
+echo "Is all hous in polygon? " . ($polygone->contains($point1) ? "YES" : "NO");
 
 ?>
 
 <h2>Solr Details</h2>
 <?php
-echo "<p>" . $processor->getPolygonFromArray($flex->getPolygon($buurt)) . "</p>";
-echo "<p>" . $flex->getName($buurt) . "</p>";
-echo "<p>" . $flex->getId($buurt) . "</p>";
+echo "<p>" . $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($buurt)) . "</p>";
+echo "<p>" . $SolrBuurtCall->getName($buurt) . "</p>";
+echo "<p>" . $SolrBuurtCall->getId($buurt) . "</p>";
 
 ?>
