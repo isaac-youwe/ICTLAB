@@ -42,7 +42,7 @@ To delete a collection use:
 
 ```bin/solr delete -c shfiles```
 
-### Download credentials.json from Google Drive and paste it in ICTLAB
+Download credentials.json from Google Drive and paste it in the ICTLAB folder
 
 =======
 **Not for sale purposes**
