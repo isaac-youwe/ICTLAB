@@ -21,7 +21,7 @@ $processor = new Application_Model_Processor();
 $processor = new Application_Model_Processor();
 $polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($this->buurt));
 
-//            echo "<p>" . $polygonBuurt . "</p>";
+
 //            echo "<p>" . $SolrBuurtCall->getName($this->buurt) . "</p>";
 //            echo "<p>" . $SolrBuurtCall->getId($this->buurt) . "</p>";
 //            print_r($SolrBuurtCall->getPolygon($this->buurt));
@@ -44,6 +44,7 @@ foreach ($markerPoints as $value) {
                 var collection = <?php echo json_encode($filteredCollection); ?>;
                 var lat = <?php echo json_encode($this->lat); ?>;
                 var lng = <?php echo json_encode($this->lng); ?>;
+                var polygon =<?php echo json_encode($polygon); ?>;
             </script>
 
             <li id="side_bar" class="list-group-item"></li>
@@ -112,6 +113,11 @@ foreach ($markerPoints as $value) {
                     icon: icon
                 });
 
+                for (var i = 0; i < polygon.length; i++){
+                    poly = i;
+                    console.log(i);
+                }
+
                 //Create List Details
                 var houseAdressDetails =
                     houseAdress + '<br>';
@@ -148,6 +154,8 @@ foreach ($markerPoints as $value) {
                 addPopupWindow(houseMarker, detailsPopUp);
 
             }
+
+            polygons();
 
             document.getElementById("side_bar").innerHTML = side_bar_html;
 
@@ -197,7 +205,13 @@ foreach ($markerPoints as $value) {
 
             });
         }
+
+        function polygons(){
+
+        }
     </script>
 </div>
 </div>
+<?php
+      echo "<p>" . $polygonBuurt . "</p>";
 
