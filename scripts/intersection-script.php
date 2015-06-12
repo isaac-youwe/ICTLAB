@@ -14,16 +14,15 @@ if (!file_exists("$shapefilesPath")) {
 require_once '/home/isaac/vhosts/ICTLAB/vendor/autoload.php';
 
 $i = 0;
+$debugPath = '';
 
-foreach(glob("$shapefilesPath/*") as $json)
+// reset
+foreach(glob("$shapefilesPath/BU0599*") as $json)
 {
     if ($json === '.' || $json === '..') continue;
     setAangrenzende($json, $shapefilesPath);
 
     echo $json . PHP_EOL;
-//    if ($i % 100 == 0) {
-//        echo $json . PHP_EOL;
-//    }
 
     $i++;
 }
@@ -32,14 +31,14 @@ function setAangrenzende($path, $shapefilesPath)
 {
     if (endsWith($path, ".json")) {
         $content = file_get_contents($path);
-        $contentPolygon = getPolygonFromJson($content);
+        $contentPolygon = getPolygonFromJson($content, $path);
 
         $aangrenzende = array();
 
         foreach (glob("$shapefilesPath/*") as $json) {
-            if ($json === '.' || $json === '..' || $json === $path || getJsonType($path) !== getJsonType($json) || $json === '/home/isaac/vhosts/ICTLAB/shapefiles/BU00500005.json') continue;
+            if ($json === '.' || $json === '..' || $json === $path || getJsonType($path) !== getJsonType($json)) continue;
             $fileContent = file_get_contents($json);
-            $filePolygon = getPolygonFromJson($fileContent);
+            $filePolygon = getPolygonFromJson($fileContent, $json);
 
             if (isAangrenzend($contentPolygon, $filePolygon)) {
                 array_push($aangrenzende, getIdFromJson($fileContent));
@@ -101,19 +100,42 @@ function isAangrenzend($polygonOne, $polygonTwo)
  * @param json $input
  * @return string
  */
-function getPolygonFromJson($content)
+function getPolygonFromJson($content, $path)
 {
+    $content = iconv('UTF-8', 'UTF-8//IGNORE', utf8_encode($content));
     $json = json_decode($content);
 
-    foreach ($json as $object) {
-        $pol = "POLYGON((";
-        for ($i = 0; $i < count($object->polygon); $i++) {
-            $pol .= $object->polygon[$i][0] . " " . $object->polygon[$i][1] . ",";
-        }
-        $pol = substr($pol, 0, -1);
-        $pol .= "))";
+    switch (json_last_error()) {
+        case JSON_ERROR_NONE:
+            foreach ($json as $object) {
+                $pol = "POLYGON((";
+                for ($i = 0; $i < count($object->polygon); $i++) {
+                    $pol .= $object->polygon[$i][0] . " " . $object->polygon[$i][1] . ",";
+                }
+                $pol = substr($pol, 0, -1);
+                $pol .= "))";
 
-        return $pol;
+                return $pol;
+            }
+            break;
+        case JSON_ERROR_DEPTH:
+            echo $path . ' - Maximum stack depth exceeded';
+            break;
+        case JSON_ERROR_STATE_MISMATCH:
+            echo $path . ' - Underflow or the modes mismatch';
+            break;
+        case JSON_ERROR_CTRL_CHAR:
+            echo $path . ' - Unexpected control character found';
+            break;
+        case JSON_ERROR_SYNTAX:
+            echo $path . ' - Syntax error, malformed JSON';
+            break;
+        case JSON_ERROR_UTF8:
+            echo $path . ' - Malformed UTF-8 characters, possibly incorrectly encoded';
+            break;
+        default:
+            echo $path . ' - Unknown error';
+            break;
     }
 }
 
@@ -123,6 +145,7 @@ function getPolygonFromJson($content)
  */
 function getIdFromJson($content)
 {
+    $content = iconv('UTF-8', 'UTF-8//IGNORE', utf8_encode($content));
     $json = json_decode($content);
 
     foreach ($json as $object) {
