@@ -30,7 +30,7 @@ class ResultController extends Zend_Controller_Action
         $this->view->assign('buurt', $this->params['buurt']);
 
         if (empty($this->params['stad'])) {
-            throw new Exception('Vul een buurt of plaats aub');
+            throw new Exception('Vul een buurt of plaats in aub');
         }
 
         /**

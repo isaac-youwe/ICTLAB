@@ -172,7 +172,7 @@
 <h2>Solr Details</h2>
 <?php
 //phpinfo();
-$flex = new Application_Model_Solr_BuurtCall();
+$call = new Application_Model_Solr_BuurtCall();
 
 $processor = new Application_Model_Processor();
 
@@ -182,8 +182,8 @@ if (strpos($this->buurt, "/")) {
 } else {
     $buurt = $this->buurt;
 }
-echo "<p>" . $processor->getPolygonFromArray($flex->getPolygon($buurt)) . "</p>";
-echo "<p>" . $flex->getName($buurt) . "</p>";
-echo "<p>" . $flex->getId($buurt) . "</p>";
-print_r($flex->getPolygon($buurt));
+echo "<p>" . $processor->getPolygonFromArray($call->getPolygon($buurt)) . "</p>";
+echo "<p>" . $call->getName($buurt) . "</p>";
+echo "<p>" . $call->getId($buurt) . "</p>";
+print_r($call->getPolygon($buurt));
 
