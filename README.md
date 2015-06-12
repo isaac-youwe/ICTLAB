@@ -11,9 +11,6 @@ This README.md is a guide on how to install the project.
 ## Install the project & dependecies 
 ```php composer.phar install```
 
-## Add Vendor/Zend symlink to app/library
-```ln -s path/to/vendor/zend .```
-
 ## Download and install Solr
 ```wget http://mirrors.supportex.net/apache/lucene/solr/5.1.0/solr-5.1.0.zip```
 
