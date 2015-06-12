@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08460003 Cathalijne-Kinderbos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.447895,51.575417,0.000000
+            5.451450,51.569004,0.000000
+            5.456281,51.569988,0.000000
+            5.456485,51.568207,0.000000
+            5.452881,51.567359,0.000000
+            5.450633,51.564694,0.000000
+            5.448707,51.566532,0.000000
+            5.443230,51.567529,0.000000
+            5.447895,51.575417,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

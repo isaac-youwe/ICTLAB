@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05460703 Vogelwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.479139,52.171128,0.000000
+            4.479820,52.170338,0.000000
+            4.467159,52.169119,0.000000
+            4.464786,52.170548,0.000000
+            4.466142,52.170454,0.000000
+            4.467604,52.170465,0.000000
+            4.471916,52.174095,0.000000
+            4.471990,52.174151,0.000000
+            4.479139,52.171128,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00860400 Ureterp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.183460,53.102349,0.000000
+            6.176107,53.087651,0.000000
+            6.160898,53.087970,0.000000
+            6.162756,53.093162,0.000000
+            6.153526,53.095142,0.000000
+            6.152750,53.098755,0.000000
+            6.165782,53.100368,0.000000
+            6.166889,53.103136,0.000000
+            6.174340,53.102814,0.000000
+            6.183460,53.102349,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

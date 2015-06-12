@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280703 Amsteleind</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.500728,51.761697,0.000000
+            5.493087,51.759949,0.000000
+            5.491979,51.761014,0.000000
+            5.499436,51.763681,0.000000
+            5.496826,51.765158,0.000000
+            5.504257,51.765765,0.000000
+            5.505093,51.762744,0.000000
+            5.500728,51.761697,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

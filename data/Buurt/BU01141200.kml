@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01141200 Parc Sandur</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.917424,52.728055,0.000000
+            6.903550,52.724914,0.000000
+            6.892523,52.725852,0.000000
+            6.886492,52.736927,0.000000
+            6.888716,52.737255,0.000000
+            6.888489,52.740091,0.000000
+            6.907661,52.745075,0.000000
+            6.909216,52.743434,0.000000
+            6.919222,52.729369,0.000000
+            6.917175,52.728841,0.000000
+            6.917424,52.728055,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

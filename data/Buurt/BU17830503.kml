@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830503 Poeldijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.233156,52.026248,0.000000
+            4.232942,52.018813,0.000000
+            4.223824,52.020857,0.000000
+            4.212927,52.019971,0.000000
+            4.210283,52.019610,0.000000
+            4.209620,52.024177,0.000000
+            4.211141,52.026144,0.000000
+            4.220206,52.029432,0.000000
+            4.224422,52.029832,0.000000
+            4.229481,52.029288,0.000000
+            4.233156,52.026248,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

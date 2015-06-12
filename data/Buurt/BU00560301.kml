@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00560301 Den Horn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.449293,53.225811,0.000000
+            6.439541,53.225282,0.000000
+            6.438686,53.227962,0.000000
+            6.441265,53.228444,0.000000
+            6.450761,53.229591,0.000000
+            6.452231,53.228794,0.000000
+            6.452333,53.227405,0.000000
+            6.449293,53.225811,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

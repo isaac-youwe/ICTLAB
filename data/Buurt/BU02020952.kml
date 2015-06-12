@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02020952 Alteveer-Cranevelt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.917995,52.001046,0.000000
+            5.916954,51.999403,0.000000
+            5.910493,51.999620,0.000000
+            5.907721,51.997361,0.000000
+            5.907593,51.999224,0.000000
+            5.900686,52.000662,0.000000
+            5.900509,52.002925,0.000000
+            5.898289,52.006363,0.000000
+            5.914520,52.008045,0.000000
+            5.917995,52.001046,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08520006 Binnengouw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.040384,52.451233,0.000000
+            5.043256,52.450489,0.000000
+            5.047889,52.450596,0.000000
+            5.047365,52.448617,0.000000
+            5.047367,52.448337,0.000000
+            5.042201,52.447050,0.000000
+            5.040514,52.447388,0.000000
+            5.039456,52.450496,0.000000
+            5.040384,52.451233,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

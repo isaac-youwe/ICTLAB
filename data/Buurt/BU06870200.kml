@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06870200 Stromenwijkt Zand</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.594627,51.500958,0.000000
+            3.599442,51.498943,0.000000
+            3.602642,51.499132,0.000000
+            3.606777,51.493847,0.000000
+            3.610468,51.494776,0.000000
+            3.613165,51.494113,0.000000
+            3.607276,51.490025,0.000000
+            3.602208,51.480607,0.000000
+            3.595809,51.481926,0.000000
+            3.594004,51.483135,0.000000
+            3.592207,51.487586,0.000000
+            3.594309,51.490287,0.000000
+            3.590867,51.493832,0.000000
+            3.590064,51.500135,0.000000
+            3.594627,51.500958,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

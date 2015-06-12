@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17000209 Verspreide huizen Westerhaar-Vriezenveensewijk-west</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.617858,52.454376,0.000000
+            6.619234,52.443324,0.000000
+            6.628746,52.445676,0.000000
+            6.629208,52.438146,0.000000
+            6.621459,52.436045,0.000000
+            6.620055,52.436648,0.000000
+            6.620060,52.439562,0.000000
+            6.589262,52.431738,0.000000
+            6.585961,52.431695,0.000000
+            6.587310,52.434038,0.000000
+            6.597750,52.439325,0.000000
+            6.596550,52.449226,0.000000
+            6.596551,52.449287,0.000000
+            6.617858,52.454376,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

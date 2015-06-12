@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05450001 Leerdam-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.090830,51.888719,0.000000
+            5.090416,51.888461,0.000000
+            5.089097,51.892105,0.000000
+            5.086611,51.894539,0.000000
+            5.096025,51.895284,0.000000
+            5.097805,51.894614,0.000000
+            5.097223,51.892253,0.000000
+            5.096019,51.890623,0.000000
+            5.093762,51.889790,0.000000
+            5.093859,51.888727,0.000000
+            5.093735,51.888726,0.000000
+            5.090830,51.888719,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

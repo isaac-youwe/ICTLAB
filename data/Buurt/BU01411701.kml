@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411701 Hofkamp-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.675593,52.353225,0.000000
+            6.676722,52.350298,0.000000
+            6.679826,52.347380,0.000000
+            6.676348,52.348688,0.000000
+            6.672980,52.349658,0.000000
+            6.672611,52.350402,0.000000
+            6.670604,52.349812,0.000000
+            6.670184,52.350047,0.000000
+            6.669935,52.351302,0.000000
+            6.671600,52.352715,0.000000
+            6.671822,52.355158,0.000000
+            6.675037,52.355916,0.000000
+            6.675593,52.353225,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

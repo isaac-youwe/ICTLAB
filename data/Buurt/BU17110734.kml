@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110734 Recreatiepark Marisheem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.915741,51.093124,0.000000
+            5.911967,51.090630,0.000000
+            5.909970,51.091120,0.000000
+            5.903795,51.092452,0.000000
+            5.904221,51.094543,0.000000
+            5.904974,51.095190,0.000000
+            5.912223,51.095393,0.000000
+            5.915741,51.093124,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

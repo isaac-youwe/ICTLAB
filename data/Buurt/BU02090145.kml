@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02090145 Beuningen Tinnegieter</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.766851,51.857507,0.000000
+            5.764448,51.854896,0.000000
+            5.758011,51.858681,0.000000
+            5.757600,51.859681,0.000000
+            5.760066,51.860039,0.000000
+            5.762216,51.860334,0.000000
+            5.769362,51.861375,0.000000
+            5.768730,51.859628,0.000000
+            5.766851,51.857507,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

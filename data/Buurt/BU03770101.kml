@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03770101 Oldenhove</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.609884,52.401752,0.000000
+            4.613874,52.399149,0.000000
+            4.617198,52.399566,0.000000
+            4.624242,52.397782,0.000000
+            4.624346,52.397753,0.000000
+            4.623259,52.395687,0.000000
+            4.619302,52.394010,0.000000
+            4.611481,52.395829,0.000000
+            4.608677,52.395522,0.000000
+            4.606708,52.396090,0.000000
+            4.604535,52.397741,0.000000
+            4.605052,52.399594,0.000000
+            4.607791,52.401377,0.000000
+            4.609884,52.401752,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

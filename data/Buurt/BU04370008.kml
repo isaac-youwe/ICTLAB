@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04370008 Verspreide huizen in de Bullewijker polder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.929663,52.307098,0.000000
+            4.953389,52.280220,0.000000
+            4.953507,52.280078,0.000000
+            4.947355,52.280827,0.000000
+            4.943884,52.280106,0.000000
+            4.939275,52.280424,0.000000
+            4.933397,52.282231,0.000000
+            4.927712,52.281036,0.000000
+            4.926279,52.282676,0.000000
+            4.923623,52.282533,0.000000
+            4.923250,52.283738,0.000000
+            4.927145,52.285220,0.000000
+            4.922954,52.288794,0.000000
+            4.921739,52.293711,0.000000
+            4.924575,52.294834,0.000000
+            4.922799,52.297606,0.000000
+            4.924970,52.299182,0.000000
+            4.920739,52.304160,0.000000
+            4.929645,52.308841,0.000000
+            4.929663,52.307098,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

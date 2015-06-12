@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00805002 Buitengebied Hempens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.846064,53.179433,0.000000
+            5.846477,53.175661,0.000000
+            5.849669,53.169970,0.000000
+            5.849346,53.169923,0.000000
+            5.842330,53.169949,0.000000
+            5.837000,53.176945,0.000000
+            5.839900,53.176901,0.000000
+            5.841736,53.179051,0.000000
+            5.841162,53.180834,0.000000
+            5.832552,53.181160,0.000000
+            5.842120,53.182423,0.000000
+            5.842103,53.184099,0.000000
+            5.847228,53.183933,0.000000
+            5.846064,53.179433,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

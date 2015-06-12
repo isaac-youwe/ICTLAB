@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16850100 Reek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.700761,51.744025,0.000000
+            5.676306,51.739066,0.000000
+            5.667631,51.741647,0.000000
+            5.664381,51.744407,0.000000
+            5.663947,51.746479,0.000000
+            5.665753,51.749117,0.000000
+            5.667938,51.753585,0.000000
+            5.668027,51.753695,0.000000
+            5.701384,51.745546,0.000000
+            5.700761,51.744025,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

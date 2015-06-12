@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600701 Schuinesloot Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.557155,52.642607,0.000000
+            6.549177,52.638795,0.000000
+            6.547086,52.639871,0.000000
+            6.541690,52.637011,0.000000
+            6.537910,52.639783,0.000000
+            6.557013,52.649329,0.000000
+            6.560907,52.649963,0.000000
+            6.563497,52.648033,0.000000
+            6.556013,52.644262,0.000000
+            6.557155,52.642607,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

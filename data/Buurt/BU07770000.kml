@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07770000 Centrum Oost 1</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.644634,51.574435,0.000000
+            4.646051,51.570315,0.000000
+            4.648299,51.570570,0.000000
+            4.649152,51.569874,0.000000
+            4.648818,51.569799,0.000000
+            4.646020,51.569239,0.000000
+            4.640507,51.568803,0.000000
+            4.635623,51.569381,0.000000
+            4.634926,51.570777,0.000000
+            4.639519,51.573075,0.000000
+            4.644634,51.574435,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

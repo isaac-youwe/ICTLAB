@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06120902 Beerenplaat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.372691,51.843358,0.000000
+            4.382889,51.841648,0.000000
+            4.409926,51.842758,0.000000
+            4.410441,51.842779,0.000000
+            4.413343,51.842803,0.000000
+            4.423070,51.840316,0.000000
+            4.423559,51.840191,0.000000
+            4.432342,51.836666,0.000000
+            4.428300,51.834095,0.000000
+            4.428046,51.833934,0.000000
+            4.422320,51.830291,0.000000
+            4.415439,51.829380,0.000000
+            4.415086,51.829333,0.000000
+            4.407812,51.830171,0.000000
+            4.407574,51.830194,0.000000
+            4.399088,51.830997,0.000000
+            4.397025,51.830552,0.000000
+            4.394102,51.832949,0.000000
+            4.370612,51.843931,0.000000
+            4.372691,51.843358,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

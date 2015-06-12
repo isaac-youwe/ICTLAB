@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03420000 Soestdijk (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.295019,52.180063,0.000000
+            5.292234,52.178052,0.000000
+            5.288711,52.180454,0.000000
+            5.284436,52.186623,0.000000
+            5.281700,52.191900,0.000000
+            5.281888,52.192879,0.000000
+            5.289197,52.194683,0.000000
+            5.292164,52.195780,0.000000
+            5.297034,52.197581,0.000000
+            5.297100,52.197515,0.000000
+            5.301544,52.188587,0.000000
+            5.299937,52.183911,0.000000
+            5.300701,52.182266,0.000000
+            5.295019,52.180063,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02300300 Doornspijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.816200,52.410707,0.000000
+            5.806527,52.406566,0.000000
+            5.802397,52.408899,0.000000
+            5.806374,52.410306,0.000000
+            5.804189,52.412370,0.000000
+            5.811376,52.415352,0.000000
+            5.809405,52.417082,0.000000
+            5.815089,52.420751,0.000000
+            5.821766,52.422387,0.000000
+            5.823209,52.420286,0.000000
+            5.825476,52.417011,0.000000
+            5.818040,52.413814,0.000000
+            5.816200,52.410707,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

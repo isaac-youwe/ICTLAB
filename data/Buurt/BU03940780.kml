@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940780 Rijsenhout-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.708846,52.261655,0.000000
+            4.716059,52.257823,0.000000
+            4.712882,52.256609,0.000000
+            4.709692,52.258301,0.000000
+            4.703420,52.253662,0.000000
+            4.700065,52.255422,0.000000
+            4.707744,52.261085,0.000000
+            4.704318,52.263063,0.000000
+            4.706293,52.264459,0.000000
+            4.709859,52.262494,0.000000
+            4.708846,52.261655,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

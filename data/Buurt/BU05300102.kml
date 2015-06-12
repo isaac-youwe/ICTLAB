@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05300102 Out Jaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.154748,51.835913,0.000000
+            4.149063,51.833446,0.000000
+            4.148196,51.834036,0.000000
+            4.149004,51.834365,0.000000
+            4.144869,51.838898,0.000000
+            4.151550,51.841368,0.000000
+            4.153255,51.842017,0.000000
+            4.157992,51.837432,0.000000
+            4.156889,51.836982,0.000000
+            4.154748,51.835913,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

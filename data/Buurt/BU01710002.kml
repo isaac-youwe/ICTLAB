@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01710002 Revelsant</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.745997,52.708823,0.000000
+            5.746991,52.705088,0.000000
+            5.739052,52.701721,0.000000
+            5.727782,52.697052,0.000000
+            5.730647,52.700284,0.000000
+            5.730821,52.708775,0.000000
+            5.732871,52.708751,0.000000
+            5.740022,52.708671,0.000000
+            5.740666,52.707742,0.000000
+            5.745997,52.708823,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

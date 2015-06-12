@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630765 Tuindorp Oostzaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.879433,52.419133,0.000000
+            4.885591,52.414811,0.000000
+            4.896896,52.415538,0.000000
+            4.907129,52.407913,0.000000
+            4.906490,52.406435,0.000000
+            4.902105,52.403796,0.000000
+            4.899800,52.401654,0.000000
+            4.893502,52.404615,0.000000
+            4.892568,52.406976,0.000000
+            4.875122,52.415207,0.000000
+            4.874727,52.416116,0.000000
+            4.878019,52.418937,0.000000
+            4.879433,52.419133,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

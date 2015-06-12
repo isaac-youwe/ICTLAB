@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06890101 Neerpolder en Parallelweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.909758,51.838680,0.000000
+            4.896727,51.835930,0.000000
+            4.880796,51.833165,0.000000
+            4.880117,51.833115,0.000000
+            4.894881,51.836505,0.000000
+            4.896609,51.836342,0.000000
+            4.899602,51.839125,0.000000
+            4.906082,51.840700,0.000000
+            4.908943,51.842307,0.000000
+            4.909800,51.838683,0.000000
+            4.909758,51.838680,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.879097,51.845373,0.000000
+            4.874343,51.842335,0.000000
+            4.872811,51.840377,0.000000
+            4.871453,51.836705,0.000000
+            4.871791,51.833905,0.000000
+            4.873121,51.833226,0.000000
+            4.879734,51.833087,0.000000
+            4.867747,51.832209,0.000000
+            4.864274,51.832909,0.000000
+            4.869582,51.837683,0.000000
+            4.870614,51.841025,0.000000
+            4.867028,51.842701,0.000000
+            4.867030,51.843792,0.000000
+            4.871823,51.843648,0.000000
+            4.877338,51.846367,0.000000
+            4.879097,51.845373,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03520200 Cothen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.321388,51.997966,0.000000
+            5.317364,51.993990,0.000000
+            5.315095,51.995076,0.000000
+            5.310646,51.991840,0.000000
+            5.306649,51.993402,0.000000
+            5.294987,51.997124,0.000000
+            5.297153,51.998606,0.000000
+            5.308842,52.000915,0.000000
+            5.320465,51.999221,0.000000
+            5.321388,51.997966,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06120300 Sterrenkwartier-Hoog</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.322720,51.841487,0.000000
+            4.318419,51.841310,0.000000
+            4.317155,51.842444,0.000000
+            4.319269,51.842538,0.000000
+            4.322570,51.842685,0.000000
+            4.327227,51.843151,0.000000
+            4.330525,51.843294,0.000000
+            4.330587,51.843057,0.000000
+            4.330783,51.841847,0.000000
+            4.322720,51.841487,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

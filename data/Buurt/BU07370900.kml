@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07370900 Hurdegaryp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.962279,53.223318,0.000000
+            5.959945,53.209517,0.000000
+            5.953103,53.210273,0.000000
+            5.933918,53.209013,0.000000
+            5.923447,53.209011,0.000000
+            5.924176,53.213131,0.000000
+            5.926637,53.213682,0.000000
+            5.928353,53.217929,0.000000
+            5.928639,53.220206,0.000000
+            5.938634,53.220302,0.000000
+            5.950036,53.223650,0.000000
+            5.962279,53.223318,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

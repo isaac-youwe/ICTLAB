@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550801 Gesworen Hoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.027908,51.582943,0.000000
+            5.022607,51.578704,0.000000
+            5.016851,51.580547,0.000000
+            5.011480,51.583534,0.000000
+            5.006925,51.584317,0.000000
+            5.009153,51.585831,0.000000
+            5.005198,51.587961,0.000000
+            5.005907,51.591226,0.000000
+            5.027908,51.582943,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

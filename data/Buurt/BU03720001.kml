@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03720001 Villawijk Het Duin</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.599580,52.322181,0.000000
+            4.594707,52.318459,0.000000
+            4.590997,52.318598,0.000000
+            4.590886,52.322102,0.000000
+            4.593328,52.323667,0.000000
+            4.594182,52.326069,0.000000
+            4.595760,52.325904,0.000000
+            4.595049,52.324788,0.000000
+            4.599580,52.322181,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

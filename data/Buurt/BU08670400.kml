@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08670400 Capelle</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.985244,51.688422,0.000000
+            4.982099,51.688298,0.000000
+            4.982265,51.691870,0.000000
+            4.983802,51.693066,0.000000
+            4.989775,51.692904,0.000000
+            4.989681,51.691048,0.000000
+            4.985149,51.690872,0.000000
+            4.985244,51.688422,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

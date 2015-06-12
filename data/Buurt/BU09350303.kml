@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350303 Belv_d_re</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.687456,50.862059,0.000000
+            5.684435,50.860696,0.000000
+            5.683519,50.862403,0.000000
+            5.678083,50.864288,0.000000
+            5.672214,50.865226,0.000000
+            5.672275,50.866121,0.000000
+            5.673081,50.880994,0.000000
+            5.675592,50.880988,0.000000
+            5.687456,50.862059,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

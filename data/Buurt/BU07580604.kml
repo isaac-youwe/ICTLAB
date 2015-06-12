@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580604 Heksenwiel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.750513,51.626570,0.000000
+            4.752038,51.624794,0.000000
+            4.757769,51.625935,0.000000
+            4.759271,51.623847,0.000000
+            4.750381,51.620953,0.000000
+            4.747014,51.621058,0.000000
+            4.738970,51.616906,0.000000
+            4.736590,51.618393,0.000000
+            4.736692,51.619142,0.000000
+            4.734077,51.620079,0.000000
+            4.739188,51.623819,0.000000
+            4.743398,51.625132,0.000000
+            4.750513,51.626570,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

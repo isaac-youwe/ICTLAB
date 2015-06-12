@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830000 Oud IJlst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.627977,52.996513,0.000000
+            5.626226,52.996199,0.000000
+            5.626332,53.003243,0.000000
+            5.618172,53.010942,0.000000
+            5.621673,53.011090,0.000000
+            5.626966,53.015009,0.000000
+            5.627665,53.014785,0.000000
+            5.626560,53.013793,0.000000
+            5.624294,53.011316,0.000000
+            5.628218,53.005235,0.000000
+            5.628950,52.999248,0.000000
+            5.627977,52.996513,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

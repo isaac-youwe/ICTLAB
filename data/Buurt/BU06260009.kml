@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06260009 Dobbewijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.440218,52.132505,0.000000
+            4.434952,52.126711,0.000000
+            4.434684,52.126610,0.000000
+            4.430567,52.128862,0.000000
+            4.430870,52.130192,0.000000
+            4.432273,52.131306,0.000000
+            4.433247,52.130722,0.000000
+            4.437600,52.133533,0.000000
+            4.440218,52.132505,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

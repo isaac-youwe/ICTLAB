@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00630005 Oude Bildtdijk Sint Jacobiparochie</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.606584,53.286803,0.000000
+            5.560913,53.270736,0.000000
+            5.558006,53.270900,0.000000
+            5.556793,53.272806,0.000000
+            5.557438,53.274041,0.000000
+            5.561064,53.275620,0.000000
+            5.593026,53.286898,0.000000
+            5.615423,53.293266,0.000000
+            5.634481,53.296084,0.000000
+            5.636003,53.292004,0.000000
+            5.629057,53.291492,0.000000
+            5.606584,53.286803,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

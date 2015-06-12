@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320300 Zegveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.842624,52.114543,0.000000
+            4.864732,52.097080,0.000000
+            4.861942,52.095159,0.000000
+            4.842543,52.103058,0.000000
+            4.836369,52.103028,0.000000
+            4.830337,52.104889,0.000000
+            4.823900,52.105536,0.000000
+            4.825137,52.107089,0.000000
+            4.822380,52.108761,0.000000
+            4.831328,52.115154,0.000000
+            4.829021,52.116252,0.000000
+            4.831565,52.118268,0.000000
+            4.835277,52.118727,0.000000
+            4.842624,52.114543,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

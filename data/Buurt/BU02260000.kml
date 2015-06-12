@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02260000 Duiven Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.034017,51.954350,0.000000
+            6.029706,51.948856,0.000000
+            6.026749,51.949592,0.000000
+            6.024654,51.944546,0.000000
+            6.022842,51.944304,0.000000
+            6.020868,51.945426,0.000000
+            6.011327,51.947860,0.000000
+            6.016608,51.952022,0.000000
+            6.011038,51.953144,0.000000
+            6.016980,51.959895,0.000000
+            6.034017,51.954350,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

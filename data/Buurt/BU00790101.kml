@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00790101 Kollumerpomp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.210387,53.299771,0.000000
+            6.198091,53.299505,0.000000
+            6.186712,53.302111,0.000000
+            6.182345,53.305195,0.000000
+            6.183399,53.307018,0.000000
+            6.190533,53.307223,0.000000
+            6.191220,53.306764,0.000000
+            6.190307,53.306245,0.000000
+            6.199198,53.303806,0.000000
+            6.212895,53.302904,0.000000
+            6.213954,53.301861,0.000000
+            6.210387,53.299771,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000606 De Voorwaarts</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.999184,52.210259,0.000000
+            5.999794,52.205425,0.000000
+            5.993058,52.207687,0.000000
+            5.987026,52.208688,0.000000
+            5.983585,52.209035,0.000000
+            5.995140,52.212286,0.000000
+            5.999996,52.211411,0.000000
+            5.999184,52.210259,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

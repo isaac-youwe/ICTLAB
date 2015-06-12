@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16810100 Buinen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.848353,52.923246,0.000000
+            6.842972,52.922625,0.000000
+            6.841235,52.925663,0.000000
+            6.839652,52.926497,0.000000
+            6.835884,52.926801,0.000000
+            6.834231,52.929179,0.000000
+            6.822419,52.929751,0.000000
+            6.821871,52.930540,0.000000
+            6.836004,52.936888,0.000000
+            6.840450,52.933256,0.000000
+            6.844417,52.932271,0.000000
+            6.846042,52.928241,0.000000
+            6.848353,52.923246,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

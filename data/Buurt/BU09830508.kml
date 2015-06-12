@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830508 Verspreide huizen Kerkberg en Rijksstraatweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.118672,51.318476,0.000000
+            6.116937,51.316938,0.000000
+            6.112059,51.319049,0.000000
+            6.116089,51.323164,0.000000
+            6.117581,51.326751,0.000000
+            6.117585,51.327001,0.000000
+            6.123100,51.327844,0.000000
+            6.126203,51.328515,0.000000
+            6.128979,51.327612,0.000000
+            6.118672,51.318476,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

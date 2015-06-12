@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01800006 Staphorst-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.210004,52.648692,0.000000
+            6.210074,52.646818,0.000000
+            6.208754,52.646386,0.000000
+            6.206596,52.647758,0.000000
+            6.205049,52.646917,0.000000
+            6.202052,52.645626,0.000000
+            6.200886,52.649321,0.000000
+            6.198794,52.658072,0.000000
+            6.203404,52.658702,0.000000
+            6.204766,52.657056,0.000000
+            6.210055,52.652931,0.000000
+            6.213021,52.650476,0.000000
+            6.210004,52.648692,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

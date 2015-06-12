@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04200004 Vlietwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.119979,52.760369,0.000000
+            5.115811,52.759310,0.000000
+            5.113531,52.761192,0.000000
+            5.110161,52.767078,0.000000
+            5.120267,52.770669,0.000000
+            5.120451,52.770581,0.000000
+            5.120511,52.760694,0.000000
+            5.119979,52.760369,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

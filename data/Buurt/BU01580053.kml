@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01580053 Wolferink 3</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.721827,52.160373,0.000000
+            6.721339,52.160105,0.000000
+            6.716694,52.162885,0.000000
+            6.716873,52.163338,0.000000
+            6.718011,52.166217,0.000000
+            6.719718,52.167860,0.000000
+            6.720636,52.167506,0.000000
+            6.723012,52.166588,0.000000
+            6.724007,52.163493,0.000000
+            6.721827,52.160373,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

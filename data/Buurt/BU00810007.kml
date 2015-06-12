@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00810007 Verspreide huizen Finkum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.763314,53.286296,0.000000
+            5.782499,53.279573,0.000000
+            5.781781,53.277700,0.000000
+            5.781194,53.276702,0.000000
+            5.778461,53.276744,0.000000
+            5.773553,53.272974,0.000000
+            5.761328,53.273173,0.000000
+            5.762017,53.275256,0.000000
+            5.764203,53.276145,0.000000
+            5.766296,53.278415,0.000000
+            5.763664,53.280186,0.000000
+            5.754140,53.279909,0.000000
+            5.750123,53.280466,0.000000
+            5.750700,53.279685,0.000000
+            5.739809,53.280190,0.000000
+            5.737800,53.282585,0.000000
+            5.737424,53.289216,0.000000
+            5.757081,53.289215,0.000000
+            5.763354,53.286947,0.000000
+            5.763314,53.286296,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

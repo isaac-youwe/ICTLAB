@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04120104 Wateringskant</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.879989,52.758218,0.000000
+            4.867878,52.753847,0.000000
+            4.865102,52.753839,0.000000
+            4.864935,52.750573,0.000000
+            4.855335,52.747528,0.000000
+            4.854167,52.758287,0.000000
+            4.866347,52.760584,0.000000
+            4.875519,52.763874,0.000000
+            4.876750,52.760511,0.000000
+            4.879989,52.758218,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

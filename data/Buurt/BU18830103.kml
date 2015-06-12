@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18830103 Kollenberg-Park Leyenbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.864632,50.996838,0.000000
+            5.871272,50.993840,0.000000
+            5.874357,50.995475,0.000000
+            5.880244,50.988694,0.000000
+            5.875657,50.984002,0.000000
+            5.876548,50.983520,0.000000
+            5.872266,50.979668,0.000000
+            5.861929,50.981892,0.000000
+            5.862303,50.984391,0.000000
+            5.863854,50.985602,0.000000
+            5.861136,50.990036,0.000000
+            5.861901,50.994193,0.000000
+            5.864632,50.996838,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

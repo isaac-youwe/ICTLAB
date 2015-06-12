@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940781 Rijsenhout-Dijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.694555,52.243031,0.000000
+            4.694460,52.243004,0.000000
+            4.694240,52.244299,0.000000
+            4.699963,52.244701,0.000000
+            4.702917,52.246459,0.000000
+            4.712882,52.256609,0.000000
+            4.716059,52.257823,0.000000
+            4.719872,52.259629,0.000000
+            4.720177,52.261120,0.000000
+            4.724112,52.264249,0.000000
+            4.734160,52.268537,0.000000
+            4.737096,52.266851,0.000000
+            4.736677,52.266642,0.000000
+            4.726475,52.262989,0.000000
+            4.720683,52.258462,0.000000
+            4.713400,52.255724,0.000000
+            4.706214,52.246694,0.000000
+            4.700747,52.244127,0.000000
+            4.700398,52.243964,0.000000
+            4.694555,52.243031,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

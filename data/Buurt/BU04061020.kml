@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04061020 Bijvanck Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.261664,52.294272,0.000000
+            5.262824,52.293951,0.000000
+            5.266189,52.294266,0.000000
+            5.271396,52.290849,0.000000
+            5.271394,52.290847,0.000000
+            5.268682,52.290012,0.000000
+            5.265461,52.290810,0.000000
+            5.264980,52.289474,0.000000
+            5.262053,52.289073,0.000000
+            5.260631,52.289797,0.000000
+            5.258381,52.289212,0.000000
+            5.261664,52.294272,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

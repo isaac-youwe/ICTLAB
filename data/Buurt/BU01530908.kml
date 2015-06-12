@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530908 Buurtschap Twekkelo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.838235,52.229609,0.000000
+            6.837440,52.224248,0.000000
+            6.833682,52.221380,0.000000
+            6.836266,52.217221,0.000000
+            6.831887,52.217724,0.000000
+            6.802894,52.215820,0.000000
+            6.788622,52.226528,0.000000
+            6.768514,52.234887,0.000000
+            6.767997,52.235236,0.000000
+            6.775337,52.238702,0.000000
+            6.788399,52.234952,0.000000
+            6.788631,52.234907,0.000000
+            6.802357,52.232199,0.000000
+            6.802950,52.232082,0.000000
+            6.814573,52.229245,0.000000
+            6.817876,52.240892,0.000000
+            6.818017,52.241137,0.000000
+            6.825158,52.239784,0.000000
+            6.830090,52.236684,0.000000
+            6.838235,52.229609,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

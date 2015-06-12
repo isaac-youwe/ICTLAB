@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16900801 Oldenhave</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.341662,52.749060,0.000000
+            6.340240,52.745552,0.000000
+            6.337222,52.746235,0.000000
+            6.337322,52.748028,0.000000
+            6.336171,52.748987,0.000000
+            6.333449,52.749362,0.000000
+            6.333700,52.750917,0.000000
+            6.337821,52.751571,0.000000
+            6.342245,52.754129,0.000000
+            6.347146,52.754759,0.000000
+            6.349430,52.757141,0.000000
+            6.351538,52.757119,0.000000
+            6.351824,52.754165,0.000000
+            6.348729,52.752419,0.000000
+            6.344213,52.751825,0.000000
+            6.341662,52.749060,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631193 Bijlmer-Centrum D, F en H</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.947055,52.327838,0.000000
+            4.952976,52.322467,0.000000
+            4.956721,52.324016,0.000000
+            4.971354,52.308012,0.000000
+            4.955416,52.302538,0.000000
+            4.940668,52.318791,0.000000
+            4.941268,52.319726,0.000000
+            4.939783,52.321519,0.000000
+            4.936831,52.323305,0.000000
+            4.938289,52.324209,0.000000
+            4.944130,52.326928,0.000000
+            4.945825,52.327455,0.000000
+            4.947055,52.327838,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

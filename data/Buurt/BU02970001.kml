@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02970001 Zaltbommel Vergt en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.262509,51.817150,0.000000
+            5.264040,51.807497,0.000000
+            5.263312,51.807486,0.000000
+            5.258550,51.807097,0.000000
+            5.257880,51.803369,0.000000
+            5.252259,51.802823,0.000000
+            5.243386,51.799753,0.000000
+            5.240472,51.808523,0.000000
+            5.238144,51.813487,0.000000
+            5.242867,51.815051,0.000000
+            5.242726,51.812640,0.000000
+            5.246705,51.808617,0.000000
+            5.248968,51.809643,0.000000
+            5.254986,51.809974,0.000000
+            5.258122,51.812245,0.000000
+            5.257369,51.813510,0.000000
+            5.252577,51.814014,0.000000
+            5.251622,51.816181,0.000000
+            5.262509,51.817150,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

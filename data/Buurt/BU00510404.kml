@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510404 Teroele</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.713863,52.936703,0.000000
+            5.712984,52.933235,0.000000
+            5.711353,52.933240,0.000000
+            5.710936,52.931308,0.000000
+            5.708443,52.930129,0.000000
+            5.704644,52.930451,0.000000
+            5.698101,52.932828,0.000000
+            5.691989,52.933802,0.000000
+            5.690080,52.933288,0.000000
+            5.689161,52.933173,0.000000
+            5.687705,52.937670,0.000000
+            5.687760,52.945759,0.000000
+            5.687783,52.945918,0.000000
+            5.714656,52.943611,0.000000
+            5.713863,52.936703,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

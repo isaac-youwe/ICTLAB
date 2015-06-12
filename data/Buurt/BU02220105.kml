@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220105 De Pas-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.301713,51.962724,0.000000
+            6.300966,51.960889,0.000000
+            6.298055,51.963824,0.000000
+            6.293524,51.965356,0.000000
+            6.297240,51.968977,0.000000
+            6.301178,51.967054,0.000000
+            6.301522,51.966136,0.000000
+            6.301713,51.962724,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

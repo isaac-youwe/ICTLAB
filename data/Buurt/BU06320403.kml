@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320403 Oud-Kamerik</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.905457,52.129089,0.000000
+            4.901045,52.128501,0.000000
+            4.900545,52.150137,0.000000
+            4.898634,52.158403,0.000000
+            4.899183,52.160725,0.000000
+            4.900423,52.161373,0.000000
+            4.902964,52.160615,0.000000
+            4.903868,52.158978,0.000000
+            4.905145,52.149647,0.000000
+            4.905457,52.129089,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

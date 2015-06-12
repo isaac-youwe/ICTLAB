@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580100 Belcrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.784609,51.595331,0.000000
+            4.770921,51.593990,0.000000
+            4.770565,51.595405,0.000000
+            4.769919,51.597430,0.000000
+            4.774066,51.601617,0.000000
+            4.778964,51.601234,0.000000
+            4.779655,51.598891,0.000000
+            4.784609,51.595331,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

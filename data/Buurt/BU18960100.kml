@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18960100 Kamperzeedijk-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.004290,52.597018,0.000000
+            6.001999,52.595626,0.000000
+            6.000141,52.596606,0.000000
+            6.000233,52.598555,0.000000
+            6.010824,52.599367,0.000000
+            6.019014,52.602136,0.000000
+            6.021348,52.602290,0.000000
+            6.022926,52.600969,0.000000
+            6.018430,52.597742,0.000000
+            6.004290,52.597018,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18830100 Sittard-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.868686,51.001807,0.000000
+            5.872232,50.999876,0.000000
+            5.874132,50.999946,0.000000
+            5.875674,50.998880,0.000000
+            5.875517,50.995994,0.000000
+            5.874357,50.995475,0.000000
+            5.871272,50.993840,0.000000
+            5.864632,50.996838,0.000000
+            5.857697,51.000232,0.000000
+            5.859093,51.002185,0.000000
+            5.860522,51.005938,0.000000
+            5.868686,51.001807,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

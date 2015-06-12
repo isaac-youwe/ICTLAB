@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16630001 Zoutkamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.304070,53.345331,0.000000
+            6.306540,53.343096,0.000000
+            6.306133,53.340616,0.000000
+            6.310638,53.339930,0.000000
+            6.313915,53.338539,0.000000
+            6.305528,53.332872,0.000000
+            6.292606,53.339047,0.000000
+            6.297072,53.337216,0.000000
+            6.300132,53.339888,0.000000
+            6.294108,53.339035,0.000000
+            6.287133,53.341612,0.000000
+            6.288274,53.345706,0.000000
+            6.294234,53.343536,0.000000
+            6.298014,53.344540,0.000000
+            6.297537,53.345743,0.000000
+            6.304070,53.345331,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

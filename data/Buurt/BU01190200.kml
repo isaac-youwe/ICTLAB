@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01190200 Kern Rogat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.276189,52.687566,0.000000
+            6.282040,52.684830,0.000000
+            6.282050,52.684825,0.000000
+            6.276487,52.683187,0.000000
+            6.271481,52.686236,0.000000
+            6.268142,52.685633,0.000000
+            6.268702,52.684730,0.000000
+            6.257277,52.685323,0.000000
+            6.256749,52.688520,0.000000
+            6.254945,52.688931,0.000000
+            6.255654,52.690342,0.000000
+            6.261918,52.690727,0.000000
+            6.270128,52.689580,0.000000
+            6.276189,52.687570,0.000000
+            6.276189,52.687566,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

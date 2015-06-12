@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09957720 Edelhertweg-Runderweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.537235,52.505287,0.000000
+            5.531563,52.503347,0.000000
+            5.533304,52.509926,0.000000
+            5.532887,52.530714,0.000000
+            5.531106,52.548028,0.000000
+            5.587736,52.549017,0.000000
+            5.587734,52.548706,0.000000
+            5.591999,52.514543,0.000000
+            5.589784,52.514096,0.000000
+            5.588392,52.513816,0.000000
+            5.561289,52.512393,0.000000
+            5.553810,52.510858,0.000000
+            5.537235,52.505287,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411300 Ootmarsumsestraat en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.687501,52.365652,0.000000
+            6.672749,52.362094,0.000000
+            6.671982,52.365295,0.000000
+            6.680868,52.366855,0.000000
+            6.687891,52.372910,0.000000
+            6.689871,52.373143,0.000000
+            6.685228,52.367943,0.000000
+            6.687128,52.366228,0.000000
+            6.687501,52.365652,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

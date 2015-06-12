@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17220100 Hallum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.790295,53.302607,0.000000
+            5.783496,53.298824,0.000000
+            5.777767,53.301714,0.000000
+            5.778550,53.303974,0.000000
+            5.777145,53.305736,0.000000
+            5.776953,53.308551,0.000000
+            5.785218,53.310736,0.000000
+            5.792812,53.307641,0.000000
+            5.793740,53.306190,0.000000
+            5.790295,53.302607,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

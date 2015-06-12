@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580003 Dokkum Fugellan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.024377,53.325713,0.000000
+            6.009567,53.325705,0.000000
+            6.009547,53.332122,0.000000
+            6.013020,53.332834,0.000000
+            6.019156,53.335950,0.000000
+            6.019710,53.335119,0.000000
+            6.025057,53.334768,0.000000
+            6.024814,53.332954,0.000000
+            6.025558,53.332701,0.000000
+            6.024377,53.325713,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

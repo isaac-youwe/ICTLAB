@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03072501 De Hoef-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.428363,52.175726,0.000000
+            5.423673,52.170349,0.000000
+            5.423205,52.170424,0.000000
+            5.422717,52.170502,0.000000
+            5.421185,52.171988,0.000000
+            5.414153,52.173636,0.000000
+            5.411599,52.176114,0.000000
+            5.410839,52.178915,0.000000
+            5.417943,52.183131,0.000000
+            5.428363,52.175726,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

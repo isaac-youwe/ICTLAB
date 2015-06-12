@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00590001 Twijzel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.102403,53.236351,0.000000
+            6.091301,53.227184,0.000000
+            6.082548,53.228312,0.000000
+            6.085175,53.230466,0.000000
+            6.081902,53.233883,0.000000
+            6.095885,53.239315,0.000000
+            6.113310,53.248537,0.000000
+            6.122510,53.245291,0.000000
+            6.115767,53.243050,0.000000
+            6.102403,53.236351,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04240001 Nieuw Muiden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.067608,52.332844,0.000000
+            5.064285,52.326584,0.000000
+            5.044349,52.332199,0.000000
+            5.044539,52.335515,0.000000
+            5.055549,52.338080,0.000000
+            5.067099,52.336345,0.000000
+            5.067107,52.336290,0.000000
+            5.067608,52.332844,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

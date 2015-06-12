@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02970300 Nederhemert-Noordzijde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.168864,51.768753,0.000000
+            5.174546,51.763366,0.000000
+            5.175024,51.762483,0.000000
+            5.161553,51.758869,0.000000
+            5.157600,51.759025,0.000000
+            5.152963,51.760841,0.000000
+            5.151067,51.764024,0.000000
+            5.153853,51.764609,0.000000
+            5.155149,51.763392,0.000000
+            5.165693,51.765759,0.000000
+            5.164460,51.767100,0.000000
+            5.166813,51.768423,0.000000
+            5.168864,51.768753,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

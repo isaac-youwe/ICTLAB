@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05470001 Ouderzorg inclusief De Houtkamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.533667,52.160301,0.000000
+            4.536312,52.156532,0.000000
+            4.522125,52.152185,0.000000
+            4.522055,52.152163,0.000000
+            4.522023,52.153797,0.000000
+            4.521874,52.154062,0.000000
+            4.520509,52.156483,0.000000
+            4.519013,52.158270,0.000000
+            4.518778,52.158411,0.000000
+            4.522007,52.160733,0.000000
+            4.525568,52.158322,0.000000
+            4.531808,52.161829,0.000000
+            4.533667,52.160301,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

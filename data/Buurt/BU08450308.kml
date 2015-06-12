@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08450308 Verspreide huizen Beekveld-Hersend</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.391455,51.674909,0.000000
+            5.388910,51.672128,0.000000
+            5.397932,51.672491,0.000000
+            5.401986,51.670719,0.000000
+            5.405889,51.668252,0.000000
+            5.399322,51.664297,0.000000
+            5.388167,51.671394,0.000000
+            5.381809,51.675509,0.000000
+            5.381911,51.676852,0.000000
+            5.380328,51.677331,0.000000
+            5.379148,51.679360,0.000000
+            5.383979,51.684505,0.000000
+            5.391267,51.681194,0.000000
+            5.391455,51.674909,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

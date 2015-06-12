@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180626 Verspreide huizen Nijstad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.437061,52.712959,0.000000
+            6.436381,52.706035,0.000000
+            6.426011,52.705228,0.000000
+            6.420008,52.701685,0.000000
+            6.406818,52.707192,0.000000
+            6.405276,52.704508,0.000000
+            6.405015,52.704837,0.000000
+            6.403838,52.706318,0.000000
+            6.404605,52.709280,0.000000
+            6.405463,52.712597,0.000000
+            6.406964,52.713483,0.000000
+            6.407343,52.713594,0.000000
+            6.409945,52.714356,0.000000
+            6.412946,52.716128,0.000000
+            6.414055,52.719262,0.000000
+            6.427518,52.721997,0.000000
+            6.433957,52.719136,0.000000
+            6.436932,52.714753,0.000000
+            6.437061,52.712959,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

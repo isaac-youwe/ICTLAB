@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05420002 Kortland-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.615489,51.915223,0.000000
+            4.622805,51.909061,0.000000
+            4.617185,51.908402,0.000000
+            4.609723,51.913248,0.000000
+            4.596948,51.907879,0.000000
+            4.596933,51.907872,0.000000
+            4.594841,51.908145,0.000000
+            4.588979,51.911696,0.000000
+            4.593225,51.912628,0.000000
+            4.605301,51.920157,0.000000
+            4.610308,51.916517,0.000000
+            4.615489,51.915223,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

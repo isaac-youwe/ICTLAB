@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04530802 Weidbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.665858,52.442804,0.000000
+            4.670540,52.438065,0.000000
+            4.668327,52.438128,0.000000
+            4.665499,52.436465,0.000000
+            4.666518,52.435467,0.000000
+            4.664397,52.434438,0.000000
+            4.661020,52.436658,0.000000
+            4.658461,52.435223,0.000000
+            4.656502,52.436388,0.000000
+            4.655589,52.436986,0.000000
+            4.662113,52.440040,0.000000
+            4.661044,52.440900,0.000000
+            4.665858,52.442804,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

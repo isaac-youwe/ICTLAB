@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05760001 Kleine Zilk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.536664,52.279446,0.000000
+            4.531962,52.276493,0.000000
+            4.530938,52.282005,0.000000
+            4.524913,52.289854,0.000000
+            4.516266,52.292998,0.000000
+            4.516381,52.293090,0.000000
+            4.522139,52.298526,0.000000
+            4.528971,52.302815,0.000000
+            4.550067,52.296041,0.000000
+            4.550045,52.296030,0.000000
+            4.542869,52.287889,0.000000
+            4.542886,52.286990,0.000000
+            4.537161,52.279758,0.000000
+            4.536664,52.279446,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

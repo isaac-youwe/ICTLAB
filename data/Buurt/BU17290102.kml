@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290102 Stokhem-Beertsenhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.891660,50.826987,0.000000
+            5.884347,50.824459,0.000000
+            5.881504,50.827056,0.000000
+            5.879490,50.831556,0.000000
+            5.880759,50.834815,0.000000
+            5.882636,50.835517,0.000000
+            5.887413,50.835527,0.000000
+            5.889436,50.829486,0.000000
+            5.891660,50.826987,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

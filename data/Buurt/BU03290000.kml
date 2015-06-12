@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03290000 Loenen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.022832,52.208646,0.000000
+            5.021425,52.205851,0.000000
+            5.017157,52.207104,0.000000
+            5.015568,52.210774,0.000000
+            5.025406,52.216708,0.000000
+            5.030713,52.214501,0.000000
+            5.027983,52.210214,0.000000
+            5.022832,52.208646,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

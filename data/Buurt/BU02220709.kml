@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220709 Bedrijventerrein en Wijnbergen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.287004,51.951479,0.000000
+            6.294019,51.943691,0.000000
+            6.280324,51.943232,0.000000
+            6.273052,51.943287,0.000000
+            6.273033,51.943287,0.000000
+            6.274462,51.949999,0.000000
+            6.277347,51.949867,0.000000
+            6.277214,51.949021,0.000000
+            6.278601,51.948970,0.000000
+            6.282801,51.947909,0.000000
+            6.284846,51.949309,0.000000
+            6.287004,51.951479,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

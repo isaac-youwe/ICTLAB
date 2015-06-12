@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04320000 Opmeer-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.997793,52.717503,0.000000
+            4.987594,52.713585,0.000000
+            4.984601,52.717170,0.000000
+            4.971322,52.712631,0.000000
+            4.977309,52.705461,0.000000
+            4.984749,52.700992,0.000000
+            4.986245,52.699200,0.000000
+            4.984998,52.698434,0.000000
+            4.983756,52.697671,0.000000
+            4.979960,52.698494,0.000000
+            4.953662,52.705650,0.000000
+            4.931914,52.697654,0.000000
+            4.923184,52.706342,0.000000
+            4.955389,52.716507,0.000000
+            4.971131,52.722187,0.000000
+            4.986477,52.727757,0.000000
+            4.997793,52.717503,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16740709 Haiink</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.430663,51.507337,0.000000
+            4.431412,51.505893,0.000000
+            4.436824,51.506594,0.000000
+            4.441141,51.510005,0.000000
+            4.446712,51.510846,0.000000
+            4.446075,51.493450,0.000000
+            4.421380,51.492040,0.000000
+            4.409626,51.502901,0.000000
+            4.407100,51.508704,0.000000
+            4.406903,51.515571,0.000000
+            4.418942,51.516793,0.000000
+            4.421874,51.517087,0.000000
+            4.427027,51.513803,0.000000
+            4.423895,51.511398,0.000000
+            4.428070,51.508894,0.000000
+            4.425362,51.507656,0.000000
+            4.430663,51.507337,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

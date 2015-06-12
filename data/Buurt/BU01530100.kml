@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530100 Velve-Lindenhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.928838,52.223765,0.000000
+            6.926677,52.218540,0.000000
+            6.917216,52.219071,0.000000
+            6.911804,52.217070,0.000000
+            6.911124,52.216891,0.000000
+            6.912345,52.218942,0.000000
+            6.912152,52.222300,0.000000
+            6.909964,52.223365,0.000000
+            6.909782,52.224504,0.000000
+            6.916767,52.224897,0.000000
+            6.928838,52.223765,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

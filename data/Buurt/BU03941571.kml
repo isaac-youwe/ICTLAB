@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03941571 Vijfhuizen-Nieuwebrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.687117,52.371096,0.000000
+            4.672007,52.370529,0.000000
+            4.672003,52.370541,0.000000
+            4.673414,52.374145,0.000000
+            4.677776,52.376868,0.000000
+            4.706938,52.382408,0.000000
+            4.707067,52.382433,0.000000
+            4.707839,52.382437,0.000000
+            4.708042,52.380836,0.000000
+            4.692173,52.378129,0.000000
+            4.695172,52.376592,0.000000
+            4.687117,52.371096,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

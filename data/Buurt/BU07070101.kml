@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07070101 Sluis en Zouwendijk (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.983218,51.954338,0.000000
+            4.978632,51.951910,0.000000
+            4.974999,51.955189,0.000000
+            4.970497,51.960202,0.000000
+            4.971036,51.960271,0.000000
+            4.975377,51.962983,0.000000
+            4.975941,51.963335,0.000000
+            4.975211,51.960546,0.000000
+            4.976706,51.958661,0.000000
+            4.983218,51.954338,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

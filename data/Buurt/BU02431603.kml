@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02431603 Gebied de Duinen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.698603,52.353189,0.000000
+            5.704240,52.346209,0.000000
+            5.705059,52.344163,0.000000
+            5.687162,52.343036,0.000000
+            5.686555,52.347006,0.000000
+            5.679478,52.345985,0.000000
+            5.678412,52.348844,0.000000
+            5.679305,52.349770,0.000000
+            5.685170,52.350670,0.000000
+            5.685612,52.352185,0.000000
+            5.689257,52.350833,0.000000
+            5.692095,52.353261,0.000000
+            5.698603,52.353189,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

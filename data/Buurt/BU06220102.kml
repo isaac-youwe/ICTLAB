@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06220102 Vettenoordse polder Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.333485,51.908240,0.000000
+            4.339118,51.907003,0.000000
+            4.344683,51.907847,0.000000
+            4.346971,51.903685,0.000000
+            4.337950,51.902013,0.000000
+            4.333953,51.904379,0.000000
+            4.333447,51.908059,0.000000
+            4.333485,51.908240,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

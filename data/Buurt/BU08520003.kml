@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08520003 Ringshemmen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.037736,52.454614,0.000000
+            5.035781,52.451977,0.000000
+            5.035078,52.449928,0.000000
+            5.034700,52.448682,0.000000
+            5.030162,52.448237,0.000000
+            5.025787,52.449471,0.000000
+            5.029239,52.454046,0.000000
+            5.034434,52.453471,0.000000
+            5.037736,52.454614,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

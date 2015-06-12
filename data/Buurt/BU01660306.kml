@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01660306 Sonnenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.958936,52.570578,0.000000
+            5.983079,52.538867,0.000000
+            5.983393,52.537995,0.000000
+            5.970631,52.539349,0.000000
+            5.949955,52.547823,0.000000
+            5.946304,52.548548,0.000000
+            5.940063,52.551837,0.000000
+            5.942320,52.556292,0.000000
+            5.958268,52.553607,0.000000
+            5.958430,52.554578,0.000000
+            5.963334,52.556134,0.000000
+            5.961357,52.557358,0.000000
+            5.958968,52.557643,0.000000
+            5.953977,52.560948,0.000000
+            5.959011,52.564781,0.000000
+            5.954571,52.567612,0.000000
+            5.952663,52.568823,0.000000
+            5.958936,52.570578,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

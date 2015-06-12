@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16960405 Hinderdam</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.063474,52.280268,0.000000
+            5.048701,52.277009,0.000000
+            5.050109,52.281435,0.000000
+            5.058876,52.285055,0.000000
+            5.061807,52.285063,0.000000
+            5.063299,52.281472,0.000000
+            5.063306,52.280573,0.000000
+            5.063474,52.280268,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

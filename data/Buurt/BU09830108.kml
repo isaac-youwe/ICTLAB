@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830108 Hagerhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.160799,51.362076,0.000000
+            6.164112,51.360076,0.000000
+            6.165542,51.360847,0.000000
+            6.171956,51.358851,0.000000
+            6.170607,51.356925,0.000000
+            6.163880,51.355423,0.000000
+            6.158369,51.358168,0.000000
+            6.152964,51.354108,0.000000
+            6.151659,51.354783,0.000000
+            6.146135,51.353737,0.000000
+            6.142579,51.354070,0.000000
+            6.145053,51.355209,0.000000
+            6.149420,51.357352,0.000000
+            6.153615,51.361772,0.000000
+            6.157648,51.365716,0.000000
+            6.162547,51.364543,0.000000
+            6.160799,51.362076,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

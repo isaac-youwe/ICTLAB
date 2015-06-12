@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17310100 Hijken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.496592,52.900027,0.000000
+            6.503467,52.898384,0.000000
+            6.505486,52.899148,0.000000
+            6.506406,52.889789,0.000000
+            6.504840,52.888282,0.000000
+            6.502779,52.888574,0.000000
+            6.503335,52.892156,0.000000
+            6.499589,52.893265,0.000000
+            6.495266,52.892372,0.000000
+            6.491698,52.892621,0.000000
+            6.490087,52.889958,0.000000
+            6.484176,52.888400,0.000000
+            6.482827,52.889991,0.000000
+            6.488659,52.891268,0.000000
+            6.488141,52.895816,0.000000
+            6.492582,52.896359,0.000000
+            6.493006,52.899065,0.000000
+            6.496592,52.900027,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

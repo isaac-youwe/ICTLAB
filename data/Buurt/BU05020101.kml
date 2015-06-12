@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020101 Redebuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.564241,51.912185,0.000000
+            4.557206,51.912093,0.000000
+            4.557204,51.912231,0.000000
+            4.555831,51.914685,0.000000
+            4.560241,51.915377,0.000000
+            4.565046,51.915048,0.000000
+            4.565373,51.913935,0.000000
+            4.564241,51.912185,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

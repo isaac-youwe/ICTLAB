@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02250103 Afferden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.635767,51.878780,0.000000
+            5.635690,51.875921,0.000000
+            5.633431,51.876128,0.000000
+            5.628039,51.878389,0.000000
+            5.622538,51.879097,0.000000
+            5.624656,51.884457,0.000000
+            5.626722,51.885551,0.000000
+            5.647299,51.882590,0.000000
+            5.645791,51.882107,0.000000
+            5.645767,51.881245,0.000000
+            5.642207,51.880688,0.000000
+            5.642152,51.878958,0.000000
+            5.635767,51.878780,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

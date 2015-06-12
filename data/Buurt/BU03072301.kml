@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03072301 Park Schothorst-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.384980,52.183673,0.000000
+            5.391804,52.181936,0.000000
+            5.393182,52.184720,0.000000
+            5.396304,52.185746,0.000000
+            5.397219,52.185106,0.000000
+            5.394317,52.182495,0.000000
+            5.394155,52.180439,0.000000
+            5.379133,52.179627,0.000000
+            5.383316,52.182855,0.000000
+            5.381347,52.183250,0.000000
+            5.380876,52.182418,0.000000
+            5.378215,52.183021,0.000000
+            5.379692,52.184673,0.000000
+            5.382749,52.187350,0.000000
+            5.384524,52.187102,0.000000
+            5.382856,52.184653,0.000000
+            5.384980,52.183673,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

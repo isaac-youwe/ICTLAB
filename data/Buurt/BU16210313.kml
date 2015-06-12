@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16210313 Spoorhaven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.461395,51.975285,0.000000
+            4.460195,51.972152,0.000000
+            4.459108,51.975400,0.000000
+            4.458716,51.976395,0.000000
+            4.458516,51.976633,0.000000
+            4.458887,51.976794,0.000000
+            4.459702,51.977313,0.000000
+            4.461395,51.975285,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

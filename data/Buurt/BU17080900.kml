@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080900 Heetveld kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.016813,52.659215,0.000000
+            6.009167,52.658360,0.000000
+            6.007977,52.664147,0.000000
+            6.009525,52.664669,0.000000
+            6.009259,52.667467,0.000000
+            6.012056,52.668867,0.000000
+            6.015025,52.668486,0.000000
+            6.013883,52.665012,0.000000
+            6.016813,52.659215,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

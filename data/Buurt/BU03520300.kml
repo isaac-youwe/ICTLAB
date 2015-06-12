@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03520300 Nederlangbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.335426,52.016053,0.000000
+            5.330040,52.011578,0.000000
+            5.332390,52.011696,0.000000
+            5.333868,52.010706,0.000000
+            5.333750,52.009300,0.000000
+            5.330154,52.006759,0.000000
+            5.325232,52.008841,0.000000
+            5.322657,52.007608,0.000000
+            5.320463,52.008583,0.000000
+            5.322470,52.010057,0.000000
+            5.320180,52.010933,0.000000
+            5.326113,52.015819,0.000000
+            5.330155,52.015188,0.000000
+            5.332868,52.016985,0.000000
+            5.335426,52.016053,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

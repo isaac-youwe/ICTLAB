@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080607 Nederland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.976861,52.756361,0.000000
+            5.978543,52.754594,0.000000
+            5.993084,52.754965,0.000000
+            5.992504,52.753315,0.000000
+            5.974152,52.752425,0.000000
+            5.965947,52.748617,0.000000
+            5.962764,52.751356,0.000000
+            5.964194,52.753192,0.000000
+            5.962730,52.756465,0.000000
+            5.976861,52.756361,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

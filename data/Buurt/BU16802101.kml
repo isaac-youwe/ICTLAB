@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16802101 Amen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.607169,52.946988,0.000000
+            6.608978,52.944714,0.000000
+            6.612255,52.944871,0.000000
+            6.612757,52.946481,0.000000
+            6.614861,52.946329,0.000000
+            6.614103,52.940518,0.000000
+            6.607546,52.937788,0.000000
+            6.605941,52.938883,0.000000
+            6.604678,52.945284,0.000000
+            6.605455,52.946633,0.000000
+            6.607169,52.946988,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

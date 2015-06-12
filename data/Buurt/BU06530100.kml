@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06530100 Harich</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.568653,52.904094,0.000000
+            5.568461,52.902263,0.000000
+            5.567548,52.902289,0.000000
+            5.563443,52.899849,0.000000
+            5.560406,52.899561,0.000000
+            5.558012,52.900415,0.000000
+            5.558238,52.903053,0.000000
+            5.563730,52.905736,0.000000
+            5.568653,52.904094,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

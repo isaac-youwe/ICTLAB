@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19550101 Kilder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.235422,51.934567,0.000000
+            6.227774,51.934488,0.000000
+            6.228671,51.935579,0.000000
+            6.227446,51.936103,0.000000
+            6.227081,51.940474,0.000000
+            6.232001,51.940631,0.000000
+            6.237360,51.938872,0.000000
+            6.235422,51.934567,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

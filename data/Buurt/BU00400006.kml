@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00400006 Froombosch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.777904,53.188377,0.000000
+            6.765358,53.184072,0.000000
+            6.765463,53.193554,0.000000
+            6.772935,53.195781,0.000000
+            6.782360,53.201455,0.000000
+            6.791011,53.197599,0.000000
+            6.787602,53.194285,0.000000
+            6.786950,53.189039,0.000000
+            6.777904,53.188377,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

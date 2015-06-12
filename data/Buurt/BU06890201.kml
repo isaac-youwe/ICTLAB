@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06890201 Neder-Slingeland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.918770,51.871867,0.000000
+            4.917126,51.870224,0.000000
+            4.914039,51.869938,0.000000
+            4.912298,51.868121,0.000000
+            4.902929,51.868052,0.000000
+            4.898869,51.864882,0.000000
+            4.903069,51.861819,0.000000
+            4.898929,51.861693,0.000000
+            4.896852,51.866314,0.000000
+            4.899482,51.870736,0.000000
+            4.908825,51.870640,0.000000
+            4.918182,51.873310,0.000000
+            4.918770,51.871867,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

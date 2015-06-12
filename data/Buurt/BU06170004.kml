@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06170004 Over de Keen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.549333,51.744199,0.000000
+            4.551834,51.742249,0.000000
+            4.548912,51.740205,0.000000
+            4.544912,51.737273,0.000000
+            4.543157,51.738519,0.000000
+            4.541104,51.738496,0.000000
+            4.541063,51.740691,0.000000
+            4.544443,51.740715,0.000000
+            4.544356,51.743281,0.000000
+            4.547747,51.743299,0.000000
+            4.549333,51.744199,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

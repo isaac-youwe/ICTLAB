@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08450200 Den Dungen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.360398,51.673932,0.000000
+            5.366505,51.671895,0.000000
+            5.368386,51.673112,0.000000
+            5.371044,51.672949,0.000000
+            5.371044,51.671531,0.000000
+            5.376638,51.671260,0.000000
+            5.380346,51.669487,0.000000
+            5.382416,51.667413,0.000000
+            5.382022,51.664147,0.000000
+            5.383302,51.658931,0.000000
+            5.375350,51.657144,0.000000
+            5.375250,51.659079,0.000000
+            5.378013,51.659571,0.000000
+            5.377046,51.660710,0.000000
+            5.372732,51.663359,0.000000
+            5.367896,51.662955,0.000000
+            5.363285,51.667289,0.000000
+            5.361661,51.670355,0.000000
+            5.357060,51.673357,0.000000
+            5.360398,51.673932,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

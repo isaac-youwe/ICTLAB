@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440545 Tolsteegsingel en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.127036,52.081824,0.000000
+            5.126141,52.080784,0.000000
+            5.125169,52.081351,0.000000
+            5.128172,52.084419,0.000000
+            5.129759,52.085406,0.000000
+            5.130341,52.085482,0.000000
+            5.130468,52.084325,0.000000
+            5.130890,52.082802,0.000000
+            5.127036,52.081824,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

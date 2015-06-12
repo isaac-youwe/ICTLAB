@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01630304 Noetsele II en III</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.470279,52.351629,0.000000
+            6.456118,52.349896,0.000000
+            6.457490,52.352390,0.000000
+            6.457035,52.355661,0.000000
+            6.455258,52.357275,0.000000
+            6.463810,52.357921,0.000000
+            6.464343,52.357148,0.000000
+            6.466919,52.353467,0.000000
+            6.470279,52.351629,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

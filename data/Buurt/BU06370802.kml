@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370802 Zoeterhage</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.531961,52.059851,0.000000
+            4.523307,52.052656,0.000000
+            4.520763,52.053640,0.000000
+            4.514512,52.056825,0.000000
+            4.525281,52.065854,0.000000
+            4.531186,52.062731,0.000000
+            4.529235,52.061188,0.000000
+            4.531961,52.059851,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830152 Woerdblok</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.201763,51.996861,0.000000
+            4.199385,51.995779,0.000000
+            4.197129,51.996755,0.000000
+            4.193562,51.998925,0.000000
+            4.193846,52.000047,0.000000
+            4.204631,52.004892,0.000000
+            4.207782,52.000064,0.000000
+            4.204669,51.998396,0.000000
+            4.201103,51.997407,0.000000
+            4.201763,51.996861,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

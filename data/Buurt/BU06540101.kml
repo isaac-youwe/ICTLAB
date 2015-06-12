@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06540101 s-Gravenpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.901330,51.453559,0.000000
+            3.890598,51.451587,0.000000
+            3.889075,51.452096,0.000000
+            3.887660,51.454923,0.000000
+            3.895559,51.457657,0.000000
+            3.894196,51.460032,0.000000
+            3.897124,51.461960,0.000000
+            3.913515,51.466059,0.000000
+            3.916248,51.463607,0.000000
+            3.916488,51.463499,0.000000
+            3.913582,51.462463,0.000000
+            3.914742,51.457665,0.000000
+            3.902334,51.456688,0.000000
+            3.901561,51.456371,0.000000
+            3.902965,51.455144,0.000000
+            3.901330,51.453559,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05690101 Schoterveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.760333,52.191269,0.000000
+            4.761380,52.189544,0.000000
+            4.758980,52.188811,0.000000
+            4.757923,52.190595,0.000000
+            4.753960,52.190005,0.000000
+            4.750617,52.195773,0.000000
+            4.755467,52.196513,0.000000
+            4.757683,52.195125,0.000000
+            4.760333,52.191269,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340107 De Gouwen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.216495,52.343678,0.000000
+            5.210327,52.341575,0.000000
+            5.205855,52.343402,0.000000
+            5.205887,52.345510,0.000000
+            5.204658,52.346664,0.000000
+            5.217290,52.350944,0.000000
+            5.221225,52.346602,0.000000
+            5.221092,52.343886,0.000000
+            5.216495,52.343678,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

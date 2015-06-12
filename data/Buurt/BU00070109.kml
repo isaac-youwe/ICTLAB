@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00070109 Verspreide huizen Veelerveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.162376,53.084858,0.000000
+            7.183511,53.071729,0.000000
+            7.183489,53.073671,0.000000
+            7.195135,53.074479,0.000000
+            7.200436,53.074768,0.000000
+            7.200496,53.074403,0.000000
+            7.204182,53.055470,0.000000
+            7.186215,53.053944,0.000000
+            7.146051,53.043018,0.000000
+            7.140203,53.050889,0.000000
+            7.140989,53.052033,0.000000
+            7.150291,53.055015,0.000000
+            7.151400,53.056812,0.000000
+            7.146951,53.057545,0.000000
+            7.135097,53.056736,0.000000
+            7.130191,53.057876,0.000000
+            7.127334,53.061385,0.000000
+            7.161476,53.084315,0.000000
+            7.162376,53.084858,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

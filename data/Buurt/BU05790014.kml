@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05790014 Voscuyl</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.469357,52.189627,0.000000
+            4.468681,52.185951,0.000000
+            4.470266,52.183399,0.000000
+            4.460617,52.179143,0.000000
+            4.457932,52.178692,0.000000
+            4.457802,52.179178,0.000000
+            4.458387,52.182979,0.000000
+            4.458571,52.182980,0.000000
+            4.461354,52.188710,0.000000
+            4.463998,52.188440,0.000000
+            4.464931,52.190865,0.000000
+            4.467790,52.192432,0.000000
+            4.471341,52.191606,0.000000
+            4.470719,52.189695,0.000000
+            4.469357,52.189627,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

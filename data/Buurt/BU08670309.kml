@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08670309 Verspreide huizen Vrijhoeve</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.024983,51.711491,0.000000
+            5.025424,51.678820,0.000000
+            5.009544,51.678902,0.000000
+            5.009553,51.675482,0.000000
+            4.998914,51.677833,0.000000
+            4.997510,51.715029,0.000000
+            4.997900,51.714950,0.000000
+            5.009492,51.713190,0.000000
+            5.009852,51.713150,0.000000
+            5.024983,51.711491,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

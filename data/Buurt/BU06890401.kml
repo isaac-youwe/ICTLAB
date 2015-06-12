@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06890401 Rietveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.022651,51.875942,0.000000
+            5.021257,51.868746,0.000000
+            5.027109,51.863371,0.000000
+            5.027145,51.858876,0.000000
+            5.015530,51.858840,0.000000
+            5.005375,51.857908,0.000000
+            4.995276,51.861437,0.000000
+            5.000437,51.865070,0.000000
+            4.998043,51.869549,0.000000
+            4.996671,51.868480,0.000000
+            4.994586,51.869113,0.000000
+            4.996312,51.873694,0.000000
+            4.996532,51.873161,0.000000
+            5.024060,51.881340,0.000000
+            5.024530,51.881487,0.000000
+            5.026958,51.882248,0.000000
+            5.025519,51.880446,0.000000
+            5.022651,51.875942,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

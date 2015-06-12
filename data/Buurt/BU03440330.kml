@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440330 Zambesidreef en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.112703,52.119095,0.000000
+            5.109686,52.116166,0.000000
+            5.104188,52.119502,0.000000
+            5.106808,52.121093,0.000000
+            5.105830,52.121699,0.000000
+            5.111253,52.125278,0.000000
+            5.116725,52.122747,0.000000
+            5.112703,52.119095,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

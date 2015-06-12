@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08240101 Omgeving Vinkenberg en Heuvelstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.182059,51.534732,0.000000
+            5.179709,51.529896,0.000000
+            5.174374,51.529938,0.000000
+            5.171017,51.527227,0.000000
+            5.161334,51.523674,0.000000
+            5.155041,51.519494,0.000000
+            5.149421,51.522977,0.000000
+            5.149557,51.523071,0.000000
+            5.169661,51.531399,0.000000
+            5.172274,51.533321,0.000000
+            5.174019,51.536719,0.000000
+            5.175773,51.536613,0.000000
+            5.182059,51.534732,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

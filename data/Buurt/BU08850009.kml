@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08850009 Verspreide huizen Lomm</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.214457,51.446464,0.000000
+            6.182631,51.440553,0.000000
+            6.180534,51.440849,0.000000
+            6.178808,51.453376,0.000000
+            6.169682,51.455595,0.000000
+            6.170017,51.455868,0.000000
+            6.175866,51.461222,0.000000
+            6.175982,51.461363,0.000000
+            6.221905,51.460866,0.000000
+            6.220377,51.455519,0.000000
+            6.220213,51.446530,0.000000
+            6.214459,51.446571,0.000000
+            6.214457,51.446464,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

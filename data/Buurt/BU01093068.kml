@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01093068 Verspreide huizen Nieuwlande</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.648079,52.711944,0.000000
+            6.647588,52.702882,0.000000
+            6.661119,52.706648,0.000000
+            6.664499,52.702112,0.000000
+            6.665954,52.702583,0.000000
+            6.668323,52.699028,0.000000
+            6.631224,52.690824,0.000000
+            6.628496,52.696097,0.000000
+            6.630423,52.712849,0.000000
+            6.636533,52.713985,0.000000
+            6.639614,52.712121,0.000000
+            6.648079,52.711944,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

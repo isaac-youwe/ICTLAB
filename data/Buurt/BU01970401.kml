@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01970401 De Heurne</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.493880,51.887363,0.000000
+            6.486847,51.887362,0.000000
+            6.490105,51.889119,0.000000
+            6.493086,51.892546,0.000000
+            6.494475,51.892100,0.000000
+            6.493272,51.890422,0.000000
+            6.494933,51.889468,0.000000
+            6.493880,51.887363,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

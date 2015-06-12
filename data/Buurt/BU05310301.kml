@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05310301 Sophiapolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.637218,51.825580,0.000000
+            4.637145,51.825568,0.000000
+            4.632778,51.826439,0.000000
+            4.632463,51.826576,0.000000
+            4.634519,51.828001,0.000000
+            4.636997,51.832323,0.000000
+            4.638061,51.835732,0.000000
+            4.639951,51.837138,0.000000
+            4.643428,51.839648,0.000000
+            4.653341,51.829395,0.000000
+            4.653373,51.829177,0.000000
+            4.646090,51.827484,0.000000
+            4.645820,51.827421,0.000000
+            4.642933,51.826504,0.000000
+            4.642786,51.826480,0.000000
+            4.637218,51.825580,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

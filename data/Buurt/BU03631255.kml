@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631255 Frankendael</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.940101,52.347785,0.000000
+            4.927105,52.339820,0.000000
+            4.913137,52.346319,0.000000
+            4.912707,52.347371,0.000000
+            4.912253,52.348171,0.000000
+            4.916373,52.350021,0.000000
+            4.928161,52.355355,0.000000
+            4.940101,52.347785,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

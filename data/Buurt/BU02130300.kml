@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130300 Brummen Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.151993,52.092254,0.000000
+            6.155805,52.090125,0.000000
+            6.158766,52.090534,0.000000
+            6.162918,52.089461,0.000000
+            6.160222,52.085651,0.000000
+            6.159398,52.086230,0.000000
+            6.152190,52.085976,0.000000
+            6.146007,52.087262,0.000000
+            6.146622,52.090796,0.000000
+            6.147254,52.092023,0.000000
+            6.151993,52.092254,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

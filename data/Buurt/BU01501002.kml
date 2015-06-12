@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01501002 Dortherhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.305583,52.247637,0.000000
+            6.303765,52.240788,0.000000
+            6.295062,52.239275,0.000000
+            6.292789,52.230727,0.000000
+            6.286070,52.229955,0.000000
+            6.277251,52.228224,0.000000
+            6.271361,52.226471,0.000000
+            6.271155,52.226472,0.000000
+            6.271090,52.233150,0.000000
+            6.275207,52.236088,0.000000
+            6.275908,52.238748,0.000000
+            6.273396,52.241230,0.000000
+            6.273227,52.242690,0.000000
+            6.262432,52.241456,0.000000
+            6.262467,52.243464,0.000000
+            6.260519,52.244330,0.000000
+            6.276566,52.243686,0.000000
+            6.299302,52.247664,0.000000
+            6.304698,52.247668,0.000000
+            6.305583,52.247637,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09460000 Nederweert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.759881,51.274621,0.000000
+            5.741024,51.270312,0.000000
+            5.737010,51.276267,0.000000
+            5.736937,51.276375,0.000000
+            5.734091,51.279080,0.000000
+            5.728377,51.281794,0.000000
+            5.728367,51.281795,0.000000
+            5.740352,51.289275,0.000000
+            5.745653,51.291180,0.000000
+            5.753367,51.292471,0.000000
+            5.754008,51.288857,0.000000
+            5.755481,51.279822,0.000000
+            5.757329,51.277271,0.000000
+            5.759881,51.274621,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

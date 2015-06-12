@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07980000 Hilvarenbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.147238,51.478029,0.000000
+            5.142994,51.477013,0.000000
+            5.133077,51.478936,0.000000
+            5.127950,51.481773,0.000000
+            5.119764,51.482523,0.000000
+            5.120571,51.485581,0.000000
+            5.127325,51.487297,0.000000
+            5.122081,51.488755,0.000000
+            5.125756,51.491585,0.000000
+            5.126638,51.494557,0.000000
+            5.138348,51.498637,0.000000
+            5.144189,51.493208,0.000000
+            5.148727,51.487023,0.000000
+            5.149071,51.484629,0.000000
+            5.147238,51.478029,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01932130 Bedrijventerrein Voorst-C</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.066108,52.518983,0.000000
+            6.054416,52.510145,0.000000
+            6.049965,52.507028,0.000000
+            6.043990,52.507950,0.000000
+            6.046536,52.514834,0.000000
+            6.051141,52.517732,0.000000
+            6.053933,52.516346,0.000000
+            6.056351,52.518099,0.000000
+            6.061452,52.521805,0.000000
+            6.066108,52.518983,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

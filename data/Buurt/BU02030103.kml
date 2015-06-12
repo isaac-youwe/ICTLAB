@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02030103 Terschuur</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.519344,52.160279,0.000000
+            5.515506,52.160265,0.000000
+            5.516122,52.161739,0.000000
+            5.511764,52.164661,0.000000
+            5.511187,52.166174,0.000000
+            5.511772,52.166820,0.000000
+            5.521332,52.167859,0.000000
+            5.523741,52.163856,0.000000
+            5.522647,52.161817,0.000000
+            5.519344,52.160279,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

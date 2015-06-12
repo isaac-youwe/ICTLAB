@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07550100 Venhorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.742140,51.613040,0.000000
+            5.743244,51.609788,0.000000
+            5.747600,51.609928,0.000000
+            5.748162,51.608856,0.000000
+            5.742317,51.607533,0.000000
+            5.743140,51.606154,0.000000
+            5.734696,51.604354,0.000000
+            5.731801,51.608759,0.000000
+            5.732614,51.610534,0.000000
+            5.737248,51.612675,0.000000
+            5.742140,51.613040,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

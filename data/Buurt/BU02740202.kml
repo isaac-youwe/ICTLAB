@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02740202 Doorwerth</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.801033,51.974708,0.000000
+            5.795543,51.974438,0.000000
+            5.789218,51.974774,0.000000
+            5.789446,51.976966,0.000000
+            5.790945,51.977398,0.000000
+            5.790551,51.980692,0.000000
+            5.792346,51.980715,0.000000
+            5.792324,51.984868,0.000000
+            5.789991,51.986283,0.000000
+            5.796400,51.987136,0.000000
+            5.795978,51.984669,0.000000
+            5.801350,51.983217,0.000000
+            5.805759,51.979018,0.000000
+            5.801033,51.974708,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

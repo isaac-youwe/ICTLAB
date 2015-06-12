@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00790201 Triemen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.101462,53.276358,0.000000
+            6.108171,53.274333,0.000000
+            6.107431,53.269706,0.000000
+            6.101360,53.269820,0.000000
+            6.100338,53.270336,0.000000
+            6.097155,53.269569,0.000000
+            6.087347,53.269602,0.000000
+            6.087724,53.275628,0.000000
+            6.082944,53.275171,0.000000
+            6.082774,53.273281,0.000000
+            6.076027,53.273245,0.000000
+            6.069856,53.272645,0.000000
+            6.072861,53.276746,0.000000
+            6.073006,53.281393,0.000000
+            6.084237,53.282097,0.000000
+            6.084284,53.284233,0.000000
+            6.094147,53.280934,0.000000
+            6.101661,53.278419,0.000000
+            6.101462,53.276358,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

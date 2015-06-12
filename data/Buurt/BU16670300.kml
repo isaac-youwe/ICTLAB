@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16670300 Hulsel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.184011,51.390804,0.000000
+            5.183836,51.387318,0.000000
+            5.180940,51.386550,0.000000
+            5.171689,51.385516,0.000000
+            5.168221,51.387701,0.000000
+            5.170620,51.389897,0.000000
+            5.174360,51.389293,0.000000
+            5.179660,51.390906,0.000000
+            5.181766,51.390779,0.000000
+            5.182757,51.391662,0.000000
+            5.184011,51.390804,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

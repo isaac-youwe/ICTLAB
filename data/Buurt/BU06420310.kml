@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420310 Pilotenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.632778,51.826439,0.000000
+            4.637145,51.825568,0.000000
+            4.637218,51.825580,0.000000
+            4.637653,51.825160,0.000000
+            4.635843,51.823000,0.000000
+            4.635435,51.823189,0.000000
+            4.633563,51.823966,0.000000
+            4.632095,51.824475,0.000000
+            4.630765,51.825139,0.000000
+            4.632288,51.826651,0.000000
+            4.632463,51.826576,0.000000
+            4.632778,51.826439,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

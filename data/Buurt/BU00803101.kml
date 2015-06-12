@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00803101 Cambuursterpad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.811739,53.207167,0.000000
+            5.811470,53.205171,0.000000
+            5.809600,53.203978,0.000000
+            5.805048,53.206204,0.000000
+            5.802972,53.205825,0.000000
+            5.802053,53.206836,0.000000
+            5.806433,53.208988,0.000000
+            5.811739,53.207167,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

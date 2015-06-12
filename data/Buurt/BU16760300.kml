@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16760300 Dreischor</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.991240,51.691148,0.000000
+            3.987061,51.684725,0.000000
+            3.982609,51.685379,0.000000
+            3.980459,51.683239,0.000000
+            3.976358,51.683620,0.000000
+            3.976406,51.686190,0.000000
+            3.982297,51.692938,0.000000
+            3.986275,51.692232,0.000000
+            3.991240,51.691148,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

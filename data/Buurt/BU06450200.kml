@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06450200 Leimuiden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.669850,52.231197,0.000000
+            4.677256,52.225849,0.000000
+            4.683111,52.225884,0.000000
+            4.683425,52.225950,0.000000
+            4.682798,52.223446,0.000000
+            4.682485,52.222199,0.000000
+            4.676277,52.221576,0.000000
+            4.680340,52.214583,0.000000
+            4.679095,52.210734,0.000000
+            4.666751,52.209604,0.000000
+            4.668932,52.220609,0.000000
+            4.672009,52.222616,0.000000
+            4.669808,52.224947,0.000000
+            4.671866,52.226288,0.000000
+            4.668088,52.229725,0.000000
+            4.669850,52.231197,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

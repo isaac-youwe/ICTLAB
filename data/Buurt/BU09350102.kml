@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350102 Biesland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.672858,50.835426,0.000000
+            5.670326,50.834248,0.000000
+            5.667556,50.836097,0.000000
+            5.669392,50.837091,0.000000
+            5.666614,50.840460,0.000000
+            5.681382,50.844496,0.000000
+            5.683501,50.842717,0.000000
+            5.679807,50.840439,0.000000
+            5.675028,50.838896,0.000000
+            5.672858,50.835426,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

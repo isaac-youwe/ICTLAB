@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07370500 Earnew_ld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.942989,53.124590,0.000000
+            5.942954,53.121894,0.000000
+            5.938518,53.125510,0.000000
+            5.932576,53.128233,0.000000
+            5.932498,53.128260,0.000000
+            5.932717,53.130047,0.000000
+            5.944849,53.134343,0.000000
+            5.950704,53.137993,0.000000
+            5.961698,53.131394,0.000000
+            5.942989,53.124590,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

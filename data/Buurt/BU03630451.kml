@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630451 IJburg Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.006162,52.354555,0.000000
+            5.015845,52.347849,0.000000
+            5.012932,52.345143,0.000000
+            5.012532,52.344814,0.000000
+            5.006455,52.343881,0.000000
+            5.002390,52.344664,0.000000
+            4.998267,52.346747,0.000000
+            4.997300,52.349684,0.000000
+            5.003842,52.354516,0.000000
+            5.005294,52.353779,0.000000
+            5.006162,52.354555,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

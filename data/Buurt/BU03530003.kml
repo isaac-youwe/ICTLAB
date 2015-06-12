@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03530003 Groenvliet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.035754,52.021574,0.000000
+            5.039718,52.018723,0.000000
+            5.040523,52.018295,0.000000
+            5.035604,52.016775,0.000000
+            5.035101,52.015750,0.000000
+            5.031098,52.015758,0.000000
+            5.027379,52.014792,0.000000
+            5.024395,52.019777,0.000000
+            5.024242,52.019994,0.000000
+            5.028227,52.020808,0.000000
+            5.030477,52.019246,0.000000
+            5.034370,52.020095,0.000000
+            5.033172,52.020960,0.000000
+            5.035754,52.021574,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

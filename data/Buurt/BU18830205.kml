@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18830205 Kemperkoul</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.905838,51.002449,0.000000
+            5.904242,50.987173,0.000000
+            5.903875,50.986945,0.000000
+            5.891762,50.992477,0.000000
+            5.883053,50.993663,0.000000
+            5.884233,50.996549,0.000000
+            5.888351,50.996581,0.000000
+            5.890588,51.000162,0.000000
+            5.892668,51.001626,0.000000
+            5.896183,51.000619,0.000000
+            5.900806,51.003266,0.000000
+            5.905838,51.002449,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03040107 Verspreide huizen Opijnen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.321046,51.838249,0.000000
+            5.327454,51.833168,0.000000
+            5.319726,51.830642,0.000000
+            5.314778,51.830863,0.000000
+            5.301953,51.829408,0.000000
+            5.290163,51.832454,0.000000
+            5.288687,51.834768,0.000000
+            5.300048,51.837201,0.000000
+            5.308609,51.837283,0.000000
+            5.310526,51.836299,0.000000
+            5.316413,51.837310,0.000000
+            5.319607,51.839063,0.000000
+            5.321046,51.838249,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05690006 Woerdense Verlaat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.874411,52.138776,0.000000
+            4.872698,52.138593,0.000000
+            4.862982,52.153822,0.000000
+            4.856924,52.154951,0.000000
+            4.856310,52.156983,0.000000
+            4.853520,52.165572,0.000000
+            4.852539,52.166405,0.000000
+            4.866176,52.168297,0.000000
+            4.868260,52.169004,0.000000
+            4.866911,52.173701,0.000000
+            4.891682,52.162222,0.000000
+            4.874215,52.155855,0.000000
+            4.874411,52.138776,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

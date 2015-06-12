@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16811200 Valthe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.887680,52.838918,0.000000
+            6.888772,52.837421,0.000000
+            6.884103,52.836707,0.000000
+            6.881131,52.838631,0.000000
+            6.877748,52.838016,0.000000
+            6.873047,52.841958,0.000000
+            6.876124,52.843622,0.000000
+            6.881321,52.843919,0.000000
+            6.895229,52.848248,0.000000
+            6.891835,52.852791,0.000000
+            6.896209,52.853773,0.000000
+            6.902431,52.845804,0.000000
+            6.890477,52.840937,0.000000
+            6.887680,52.838918,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

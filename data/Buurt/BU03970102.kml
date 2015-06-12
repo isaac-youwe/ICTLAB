@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03970102 Manpad en Hartekamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.602608,52.335689,0.000000
+            4.596934,52.328004,0.000000
+            4.593447,52.328690,0.000000
+            4.590573,52.328671,0.000000
+            4.590512,52.328671,0.000000
+            4.593286,52.337678,0.000000
+            4.593342,52.337842,0.000000
+            4.594856,52.337692,0.000000
+            4.603114,52.336536,0.000000
+            4.602608,52.335689,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

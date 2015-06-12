@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06140003 Stuifakker</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.078834,51.896949,0.000000
+            4.075087,51.882886,0.000000
+            4.077713,51.883962,0.000000
+            4.077509,51.883149,0.000000
+            4.060958,51.875756,0.000000
+            4.057575,51.875553,0.000000
+            4.054210,51.878126,0.000000
+            4.052264,51.885780,0.000000
+            4.060909,51.888199,0.000000
+            4.068298,51.891940,0.000000
+            4.070845,51.896488,0.000000
+            4.069453,51.897495,0.000000
+            4.069423,51.898907,0.000000
+            4.077275,51.898054,0.000000
+            4.078834,51.896949,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

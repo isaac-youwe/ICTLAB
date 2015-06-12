@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02250101 Druten zuidelijke uitbreiding</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.604790,51.885440,0.000000
+            5.601818,51.880869,0.000000
+            5.596662,51.881039,0.000000
+            5.588807,51.880949,0.000000
+            5.586891,51.883020,0.000000
+            5.587615,51.885639,0.000000
+            5.595322,51.885913,0.000000
+            5.604790,51.885440,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

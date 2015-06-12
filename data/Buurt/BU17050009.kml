@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17050009 Verspreide huizen Ambtswaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.896939,51.870907,0.000000
+            5.886704,51.864658,0.000000
+            5.885272,51.866462,0.000000
+            5.884517,51.866465,0.000000
+            5.884352,51.874677,0.000000
+            5.888429,51.877716,0.000000
+            5.890280,51.882153,0.000000
+            5.893452,51.884447,0.000000
+            5.900567,51.885826,0.000000
+            5.911204,51.873488,0.000000
+            5.896939,51.870907,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

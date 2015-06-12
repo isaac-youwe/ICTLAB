@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16900500 Fort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.382489,52.654118,0.000000
+            6.387118,52.651791,0.000000
+            6.388861,52.651997,0.000000
+            6.392024,52.647781,0.000000
+            6.388558,52.646569,0.000000
+            6.387343,52.648510,0.000000
+            6.385505,52.647858,0.000000
+            6.382646,52.651318,0.000000
+            6.383989,52.651723,0.000000
+            6.377969,52.654819,0.000000
+            6.380460,52.656651,0.000000
+            6.382855,52.655298,0.000000
+            6.382489,52.654118,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00804101 Schepenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.834015,53.195593,0.000000
+            5.828134,53.194436,0.000000
+            5.822715,53.195589,0.000000
+            5.819310,53.194240,0.000000
+            5.816613,53.195199,0.000000
+            5.816984,53.199212,0.000000
+            5.816781,53.200371,0.000000
+            5.828238,53.202170,0.000000
+            5.830072,53.200646,0.000000
+            5.834015,53.195593,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721543 Vaartbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.489604,51.482372,0.000000
+            5.501059,51.481759,0.000000
+            5.505706,51.482249,0.000000
+            5.509576,51.478207,0.000000
+            5.508127,51.474612,0.000000
+            5.508126,51.474501,0.000000
+            5.503411,51.474773,0.000000
+            5.488481,51.475854,0.000000
+            5.489604,51.482372,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

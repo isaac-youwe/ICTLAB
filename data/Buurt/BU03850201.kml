@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03850201 Volendam-Planetenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.068665,52.493637,0.000000
+            5.057530,52.491140,0.000000
+            5.057380,52.491321,0.000000
+            5.056642,52.494245,0.000000
+            5.059919,52.494811,0.000000
+            5.060494,52.499680,0.000000
+            5.063513,52.500990,0.000000
+            5.067621,52.497784,0.000000
+            5.070491,52.495269,0.000000
+            5.068665,52.493637,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

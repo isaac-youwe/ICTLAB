@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05040000 Dirksland-Oud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.105595,51.752226,0.000000
+            4.105940,51.751034,0.000000
+            4.115406,51.752431,0.000000
+            4.115134,51.746810,0.000000
+            4.107745,51.746390,0.000000
+            4.106474,51.746329,0.000000
+            4.100866,51.745982,0.000000
+            4.100838,51.746857,0.000000
+            4.098818,51.747947,0.000000
+            4.094701,51.746987,0.000000
+            4.095092,51.751273,0.000000
+            4.102399,51.751520,0.000000
+            4.104017,51.752743,0.000000
+            4.105595,51.752226,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

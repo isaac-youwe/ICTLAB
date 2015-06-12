@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370906 Scheidingszone</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.532876,52.074441,0.000000
+            4.529143,52.072210,0.000000
+            4.529758,52.079387,0.000000
+            4.532876,52.074441,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.520427,52.085465,0.000000
+            4.530744,52.080147,0.000000
+            4.529285,52.080137,0.000000
+            4.529615,52.079612,0.000000
+            4.526446,52.079630,0.000000
+            4.525855,52.080184,0.000000
+            4.518686,52.080380,0.000000
+            4.509761,52.079428,0.000000
+            4.508300,52.080219,0.000000
+            4.502278,52.080286,0.000000
+            4.503285,52.081886,0.000000
+            4.502888,52.084477,0.000000
+            4.497278,52.088067,0.000000
+            4.499929,52.088909,0.000000
+            4.499875,52.091605,0.000000
+            4.504218,52.093436,0.000000
+            4.513061,52.089007,0.000000
+            4.520282,52.085535,0.000000
+            4.520427,52.085465,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

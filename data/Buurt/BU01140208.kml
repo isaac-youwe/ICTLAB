@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140208 Roswinkelerstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.046878,52.829351,0.000000
+            7.045163,52.828745,0.000000
+            7.039438,52.834682,0.000000
+            7.042562,52.835787,0.000000
+            7.048187,52.829884,0.000000
+            7.046878,52.829351,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.038765,52.840205,0.000000
+            7.035500,52.839031,0.000000
+            7.029447,52.845554,0.000000
+            7.027991,52.849066,0.000000
+            7.031413,52.850352,0.000000
+            7.034401,52.844889,0.000000
+            7.038765,52.840205,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

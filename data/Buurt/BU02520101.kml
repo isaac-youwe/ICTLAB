@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02520101 Nederasselt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.757355,51.770879,0.000000
+            5.756410,51.768539,0.000000
+            5.744626,51.770197,0.000000
+            5.739656,51.770163,0.000000
+            5.738696,51.771758,0.000000
+            5.735553,51.772754,0.000000
+            5.736516,51.774502,0.000000
+            5.742069,51.774357,0.000000
+            5.751970,51.773163,0.000000
+            5.752985,51.772246,0.000000
+            5.757355,51.770879,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

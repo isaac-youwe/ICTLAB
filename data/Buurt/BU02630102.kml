@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02630102 Wellseind-Slijkwell</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.183639,51.763947,0.000000
+            5.190926,51.758327,0.000000
+            5.194301,51.750241,0.000000
+            5.197124,51.748209,0.000000
+            5.195289,51.746973,0.000000
+            5.190498,51.749927,0.000000
+            5.187887,51.757068,0.000000
+            5.185640,51.759350,0.000000
+            5.181744,51.761286,0.000000
+            5.175045,51.762489,0.000000
+            5.175024,51.762483,0.000000
+            5.174546,51.763366,0.000000
+            5.174231,51.763947,0.000000
+            5.181418,51.766640,0.000000
+            5.181462,51.766656,0.000000
+            5.183859,51.765918,0.000000
+            5.183639,51.763947,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

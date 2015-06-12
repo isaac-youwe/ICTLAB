@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03071900 De Ham</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.378215,52.183021,0.000000
+            5.380876,52.182418,0.000000
+            5.381347,52.183250,0.000000
+            5.383316,52.182855,0.000000
+            5.379133,52.179627,0.000000
+            5.376279,52.174744,0.000000
+            5.375234,52.179228,0.000000
+            5.372079,52.181742,0.000000
+            5.374551,52.184836,0.000000
+            5.379692,52.184673,0.000000
+            5.378215,52.183021,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

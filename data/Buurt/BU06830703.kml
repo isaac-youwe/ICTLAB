@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830703 Smallebrugge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.628467,52.968282,0.000000
+            5.630890,52.967173,0.000000
+            5.639399,52.967433,0.000000
+            5.640921,52.966472,0.000000
+            5.638589,52.957570,0.000000
+            5.634446,52.950504,0.000000
+            5.630790,52.957337,0.000000
+            5.629080,52.960885,0.000000
+            5.627681,52.966216,0.000000
+            5.628467,52.968282,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

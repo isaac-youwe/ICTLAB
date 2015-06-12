@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610403 Bergerhof en Blaeustraatkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.744600,52.644956,0.000000
+            4.746574,52.638604,0.000000
+            4.735310,52.636833,0.000000
+            4.725696,52.640321,0.000000
+            4.727481,52.642360,0.000000
+            4.729256,52.640291,0.000000
+            4.737974,52.639833,0.000000
+            4.739953,52.642428,0.000000
+            4.737118,52.646591,0.000000
+            4.744028,52.646722,0.000000
+            4.744600,52.644956,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

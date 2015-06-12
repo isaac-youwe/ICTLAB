@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550202 Hasselt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.075569,51.567873,0.000000
+            5.069937,51.567359,0.000000
+            5.065828,51.568162,0.000000
+            5.065979,51.568569,0.000000
+            5.065732,51.568927,0.000000
+            5.066251,51.575484,0.000000
+            5.077279,51.576407,0.000000
+            5.078963,51.571472,0.000000
+            5.076273,51.569872,0.000000
+            5.074886,51.568074,0.000000
+            5.075569,51.567873,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

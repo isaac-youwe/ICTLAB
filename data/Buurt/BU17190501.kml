@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17190501 Helkant</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.756184,51.680028,0.000000
+            4.757856,51.677257,0.000000
+            4.769472,51.679571,0.000000
+            4.773239,51.673130,0.000000
+            4.753667,51.669004,0.000000
+            4.752917,51.669586,0.000000
+            4.749282,51.669664,0.000000
+            4.736785,51.669110,0.000000
+            4.747192,51.671407,0.000000
+            4.745860,51.675961,0.000000
+            4.752868,51.676627,0.000000
+            4.751344,51.678787,0.000000
+            4.756184,51.680028,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08880101 Grootgenhout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.822560,50.934673,0.000000
+            5.830449,50.930369,0.000000
+            5.834435,50.925500,0.000000
+            5.834451,50.924038,0.000000
+            5.831410,50.921825,0.000000
+            5.833814,50.920041,0.000000
+            5.833799,50.920041,0.000000
+            5.831076,50.919194,0.000000
+            5.818910,50.924984,0.000000
+            5.814952,50.925063,0.000000
+            5.813912,50.926126,0.000000
+            5.814300,50.927822,0.000000
+            5.809697,50.930777,0.000000
+            5.813308,50.931165,0.000000
+            5.819347,50.930540,0.000000
+            5.821250,50.931326,0.000000
+            5.822560,50.934673,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

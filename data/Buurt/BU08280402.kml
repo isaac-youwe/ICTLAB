@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280402 Mettegeupel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.525453,51.775470,0.000000
+            5.525342,51.774287,0.000000
+            5.525317,51.774024,0.000000
+            5.521145,51.774337,0.000000
+            5.520296,51.775454,0.000000
+            5.518105,51.775347,0.000000
+            5.507603,51.774156,0.000000
+            5.507533,51.775359,0.000000
+            5.506796,51.777921,0.000000
+            5.515587,51.779277,0.000000
+            5.517948,51.778877,0.000000
+            5.525453,51.775470,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

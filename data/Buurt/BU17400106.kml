@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17400106 Verspreide huizen Echteld-Waalbandijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.517098,51.903076,0.000000
+            5.517997,51.900827,0.000000
+            5.515734,51.900448,0.000000
+            5.493822,51.897097,0.000000
+            5.485452,51.899291,0.000000
+            5.480397,51.899217,0.000000
+            5.473284,51.897508,0.000000
+            5.468105,51.895111,0.000000
+            5.461246,51.893664,0.000000
+            5.458998,51.897500,0.000000
+            5.477137,51.901847,0.000000
+            5.487944,51.902197,0.000000
+            5.493395,51.901487,0.000000
+            5.505762,51.901419,0.000000
+            5.517098,51.903076,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

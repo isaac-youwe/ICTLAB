@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01730005 De Meijbree</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.935129,52.316413,0.000000
+            6.930658,52.315667,0.000000
+            6.931412,52.317756,0.000000
+            6.930576,52.320692,0.000000
+            6.933750,52.321007,0.000000
+            6.937468,52.320706,0.000000
+            6.942153,52.317961,0.000000
+            6.935129,52.316413,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

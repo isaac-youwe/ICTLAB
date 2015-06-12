@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02320204 Vaassen-Oosterhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.981366,52.284690,0.000000
+            5.982150,52.283865,0.000000
+            5.979551,52.283565,0.000000
+            5.976140,52.284242,0.000000
+            5.974956,52.281714,0.000000
+            5.972012,52.281971,0.000000
+            5.973728,52.287401,0.000000
+            5.974678,52.290269,0.000000
+            5.975377,52.291924,0.000000
+            5.983924,52.292595,0.000000
+            5.985691,52.292156,0.000000
+            5.985235,52.288696,0.000000
+            5.981366,52.284690,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

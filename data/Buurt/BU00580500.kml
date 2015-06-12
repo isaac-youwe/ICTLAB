@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580500 Ternaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.967959,53.376646,0.000000
+            5.964824,53.375866,0.000000
+            5.960479,53.378302,0.000000
+            5.957732,53.383519,0.000000
+            5.959813,53.386303,0.000000
+            5.963932,53.386924,0.000000
+            5.968004,53.385623,0.000000
+            5.972361,53.380251,0.000000
+            5.967959,53.376646,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

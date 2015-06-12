@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16510002 t Lage van de Weg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.656701,53.406738,0.000000
+            6.654000,53.406136,0.000000
+            6.651489,53.406968,0.000000
+            6.652654,53.410027,0.000000
+            6.651625,53.412888,0.000000
+            6.652126,53.414571,0.000000
+            6.656651,53.415741,0.000000
+            6.658829,53.411729,0.000000
+            6.656701,53.406738,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00980209 Verspreide huizen Oldelamer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.902784,52.892369,0.000000
+            5.913004,52.889541,0.000000
+            5.913689,52.890491,0.000000
+            5.918150,52.889763,0.000000
+            5.937801,52.885168,0.000000
+            5.925681,52.876104,0.000000
+            5.898416,52.858419,0.000000
+            5.894048,52.859404,0.000000
+            5.873456,52.864237,0.000000
+            5.856548,52.868164,0.000000
+            5.856574,52.870618,0.000000
+            5.858079,52.872410,0.000000
+            5.867060,52.878665,0.000000
+            5.877550,52.886712,0.000000
+            5.880542,52.888497,0.000000
+            5.883524,52.889383,0.000000
+            5.885020,52.890276,0.000000
+            5.886558,52.894763,0.000000
+            5.890437,52.895527,0.000000
+            5.892194,52.893786,0.000000
+            5.902784,52.892369,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

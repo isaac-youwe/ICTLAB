@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580701 Hantumhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.998540,53.368922,0.000000
+            5.994244,53.368910,0.000000
+            5.992036,53.370486,0.000000
+            5.993044,53.373355,0.000000
+            5.996344,53.375026,0.000000
+            5.999676,53.375063,0.000000
+            6.002000,53.374470,0.000000
+            6.002868,53.370869,0.000000
+            5.998540,53.368922,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

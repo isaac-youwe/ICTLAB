@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01480705 Verspreide huizen Nieuwleusen-Zuid (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.286625,52.564544,0.000000
+            6.273588,52.561385,0.000000
+            6.270623,52.566402,0.000000
+            6.272255,52.566945,0.000000
+            6.267520,52.575494,0.000000
+            6.277963,52.579878,0.000000
+            6.286625,52.564544,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.310250,52.588639,0.000000
+            6.312457,52.585554,0.000000
+            6.325836,52.588319,0.000000
+            6.325842,52.588310,0.000000
+            6.334349,52.573924,0.000000
+            6.305683,52.571164,0.000000
+            6.303682,52.570165,0.000000
+            6.294328,52.586918,0.000000
+            6.310250,52.588639,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

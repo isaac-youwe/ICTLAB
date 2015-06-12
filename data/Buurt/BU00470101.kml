@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00470101 Ommelanderwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.936407,53.077213,0.000000
+            6.929024,53.072105,0.000000
+            6.902193,53.086915,0.000000
+            6.892426,53.093874,0.000000
+            6.896009,53.099565,0.000000
+            6.904601,53.094918,0.000000
+            6.914013,53.093569,0.000000
+            6.914735,53.090586,0.000000
+            6.937040,53.077579,0.000000
+            6.936407,53.077213,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

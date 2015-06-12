@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18760001 Keijenborg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.298729,52.027635,0.000000
+            6.294742,52.025276,0.000000
+            6.293434,52.025677,0.000000
+            6.289632,52.031312,0.000000
+            6.290348,52.032707,0.000000
+            6.293028,52.033703,0.000000
+            6.300202,52.033956,0.000000
+            6.299353,52.030437,0.000000
+            6.298729,52.027635,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

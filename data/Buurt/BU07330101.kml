@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07330101 Uitbreiding Heukelum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.072709,51.874289,0.000000
+            5.077170,51.871320,0.000000
+            5.079382,51.870666,0.000000
+            5.079168,51.869822,0.000000
+            5.072477,51.867922,0.000000
+            5.066416,51.871654,0.000000
+            5.066735,51.873739,0.000000
+            5.070545,51.873319,0.000000
+            5.071989,51.874287,0.000000
+            5.072044,51.874287,0.000000
+            5.072709,51.874289,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

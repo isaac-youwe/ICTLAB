@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16510107 Oldenzijl</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.719156,53.392411,0.000000
+            6.716223,53.391342,0.000000
+            6.713652,53.391586,0.000000
+            6.712032,53.392605,0.000000
+            6.712519,53.393947,0.000000
+            6.715327,53.395285,0.000000
+            6.717675,53.395331,0.000000
+            6.719612,53.394172,0.000000
+            6.719156,53.392411,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

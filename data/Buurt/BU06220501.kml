@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06220501 Babberspolder Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.355411,51.919953,0.000000
+            4.349918,51.917994,0.000000
+            4.347235,51.921978,0.000000
+            4.352462,51.923213,0.000000
+            4.361536,51.925179,0.000000
+            4.362187,51.925202,0.000000
+            4.362122,51.925075,0.000000
+            4.363281,51.923691,0.000000
+            4.362482,51.922859,0.000000
+            4.355411,51.919953,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

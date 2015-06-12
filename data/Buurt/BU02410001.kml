@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02410001 Groesbeek-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.929868,51.780858,0.000000
+            5.930520,51.778070,0.000000
+            5.924330,51.778433,0.000000
+            5.920805,51.778302,0.000000
+            5.921782,51.780473,0.000000
+            5.915035,51.787665,0.000000
+            5.917498,51.788059,0.000000
+            5.924831,51.788701,0.000000
+            5.929024,51.786454,0.000000
+            5.927101,51.783133,0.000000
+            5.927915,51.781669,0.000000
+            5.929868,51.780858,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610106 Oranjepark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.729255,52.626875,0.000000
+            4.736711,52.623656,0.000000
+            4.733627,52.620362,0.000000
+            4.731125,52.619118,0.000000
+            4.721920,52.622964,0.000000
+            4.723716,52.625091,0.000000
+            4.725439,52.624404,0.000000
+            4.729255,52.626875,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

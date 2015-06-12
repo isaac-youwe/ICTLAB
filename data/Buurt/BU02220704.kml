@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220704 Landelijk Wonen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.264931,51.947060,0.000000
+            6.262383,51.945409,0.000000
+            6.258332,51.949108,0.000000
+            6.260812,51.950205,0.000000
+            6.260421,51.950988,0.000000
+            6.262184,51.952244,0.000000
+            6.268301,51.948712,0.000000
+            6.265493,51.948688,0.000000
+            6.264931,51.947060,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

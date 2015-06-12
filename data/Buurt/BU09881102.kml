@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09881102 Maaspoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.718363,51.250156,0.000000
+            5.716782,51.248049,0.000000
+            5.714812,51.248185,0.000000
+            5.704030,51.248674,0.000000
+            5.705591,51.250373,0.000000
+            5.709594,51.252141,0.000000
+            5.708832,51.255696,0.000000
+            5.714086,51.254989,0.000000
+            5.715710,51.254116,0.000000
+            5.715085,51.251865,0.000000
+            5.718363,51.250156,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

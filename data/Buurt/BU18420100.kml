@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18420100 Maasland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.285581,51.933219,0.000000
+            4.271264,51.927394,0.000000
+            4.270177,51.929760,0.000000
+            4.268064,51.938750,0.000000
+            4.272677,51.939910,0.000000
+            4.279703,51.941677,0.000000
+            4.288113,51.934112,0.000000
+            4.285581,51.933219,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

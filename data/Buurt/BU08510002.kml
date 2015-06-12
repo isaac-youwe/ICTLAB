@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08510002 Steenbergen-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.323407,51.582623,0.000000
+            4.325667,51.579641,0.000000
+            4.324480,51.578700,0.000000
+            4.303029,51.564821,0.000000
+            4.302425,51.565158,0.000000
+            4.309288,51.577308,0.000000
+            4.302701,51.578920,0.000000
+            4.301387,51.580755,0.000000
+            4.308874,51.578864,0.000000
+            4.311373,51.581505,0.000000
+            4.318396,51.581364,0.000000
+            4.323407,51.582623,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

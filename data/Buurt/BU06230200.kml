@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06230200 Stolwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.768037,51.978792,0.000000
+            4.771837,51.976096,0.000000
+            4.774209,51.976485,0.000000
+            4.778043,51.973801,0.000000
+            4.780302,51.969150,0.000000
+            4.783981,51.962697,0.000000
+            4.775579,51.961352,0.000000
+            4.772917,51.966070,0.000000
+            4.770868,51.967460,0.000000
+            4.765222,51.975797,0.000000
+            4.762346,51.977868,0.000000
+            4.765371,51.978566,0.000000
+            4.768037,51.978792,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

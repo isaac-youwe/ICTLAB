@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280909 Vorstengraf</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.573959,51.730730,0.000000
+            5.569616,51.730737,0.000000
+            5.569420,51.730772,0.000000
+            5.559489,51.732550,0.000000
+            5.543582,51.737966,0.000000
+            5.543515,51.737984,0.000000
+            5.543301,51.738416,0.000000
+            5.544445,51.739020,0.000000
+            5.543256,51.740370,0.000000
+            5.544757,51.742759,0.000000
+            5.549445,51.743792,0.000000
+            5.556257,51.744887,0.000000
+            5.563073,51.747173,0.000000
+            5.564092,51.744595,0.000000
+            5.569850,51.739263,0.000000
+            5.573988,51.730739,0.000000
+            5.573959,51.730730,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02030008 Verspreide huizen Achterveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.533303,52.132633,0.000000
+            5.533358,52.129797,0.000000
+            5.525858,52.130112,0.000000
+            5.517739,52.132189,0.000000
+            5.512949,52.132116,0.000000
+            5.513438,52.133608,0.000000
+            5.513606,52.134121,0.000000
+            5.514297,52.136227,0.000000
+            5.511380,52.138028,0.000000
+            5.496780,52.141638,0.000000
+            5.499716,52.147028,0.000000
+            5.498386,52.147234,0.000000
+            5.508301,52.147795,0.000000
+            5.510856,52.146440,0.000000
+            5.518223,52.146074,0.000000
+            5.524704,52.143929,0.000000
+            5.530606,52.143818,0.000000
+            5.535877,52.142403,0.000000
+            5.536219,52.138975,0.000000
+            5.534800,52.133653,0.000000
+            5.533303,52.132633,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02790008 Verspreide huizen ten zuiden van Scherpenzeel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.472692,52.079753,0.000000
+            5.472790,52.076948,0.000000
+            5.475949,52.077482,0.000000
+            5.477962,52.075686,0.000000
+            5.487153,52.075049,0.000000
+            5.488096,52.077034,0.000000
+            5.491858,52.078177,0.000000
+            5.492336,52.074753,0.000000
+            5.499302,52.075230,0.000000
+            5.500409,52.077056,0.000000
+            5.505372,52.075876,0.000000
+            5.505365,52.073313,0.000000
+            5.499526,52.071521,0.000000
+            5.496608,52.071523,0.000000
+            5.493691,52.071526,0.000000
+            5.483476,52.069737,0.000000
+            5.465983,52.076042,0.000000
+            5.458695,52.080542,0.000000
+            5.460157,52.082338,0.000000
+            5.461616,52.082338,0.000000
+            5.461894,52.082508,0.000000
+            5.472692,52.079753,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

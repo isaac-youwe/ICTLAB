@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830702 Westerlee (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.228538,51.973413,0.000000
+            4.225526,51.970439,0.000000
+            4.216569,51.973242,0.000000
+            4.216719,51.973818,0.000000
+            4.222322,51.976237,0.000000
+            4.223915,51.974248,0.000000
+            4.228538,51.973413,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

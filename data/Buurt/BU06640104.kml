@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06640104 Goes-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.889156,51.498169,0.000000
+            3.886615,51.498080,0.000000
+            3.871768,51.498132,0.000000
+            3.870401,51.507922,0.000000
+            3.885204,51.509163,0.000000
+            3.884413,51.505578,0.000000
+            3.885788,51.501456,0.000000
+            3.889825,51.500559,0.000000
+            3.889156,51.498169,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

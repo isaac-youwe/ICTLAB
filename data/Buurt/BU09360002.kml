@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09360002 Groot- en Klein-Welsden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.810880,50.832371,0.000000
+            5.813349,50.831946,0.000000
+            5.819540,50.832737,0.000000
+            5.821594,50.832000,0.000000
+            5.821594,50.831986,0.000000
+            5.822997,50.830183,0.000000
+            5.827255,50.830167,0.000000
+            5.828632,50.830162,0.000000
+            5.803154,50.823494,0.000000
+            5.802080,50.826724,0.000000
+            5.789878,50.832192,0.000000
+            5.794342,50.838255,0.000000
+            5.802086,50.836911,0.000000
+            5.810880,50.832371,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

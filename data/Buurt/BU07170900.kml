@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07170900 Koudekerke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.548660,51.486941,0.000000
+            3.550534,51.484720,0.000000
+            3.558419,51.486453,0.000000
+            3.558928,51.485256,0.000000
+            3.555407,51.484650,0.000000
+            3.561046,51.483400,0.000000
+            3.559700,51.478492,0.000000
+            3.549607,51.477866,0.000000
+            3.547779,51.476978,0.000000
+            3.545049,51.479716,0.000000
+            3.545532,51.481998,0.000000
+            3.547239,51.482345,0.000000
+            3.546547,51.486511,0.000000
+            3.548660,51.486941,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

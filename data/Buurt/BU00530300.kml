@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00530300 Adorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.539186,53.277714,0.000000
+            6.539266,53.276905,0.000000
+            6.546840,53.277283,0.000000
+            6.546625,53.273479,0.000000
+            6.537285,53.273089,0.000000
+            6.537244,53.271552,0.000000
+            6.536075,53.271469,0.000000
+            6.535805,53.274458,0.000000
+            6.532290,53.273279,0.000000
+            6.527595,53.276131,0.000000
+            6.535165,53.275745,0.000000
+            6.534597,53.278017,0.000000
+            6.539186,53.277714,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

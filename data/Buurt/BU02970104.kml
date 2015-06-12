@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02970104 De Rietschoof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.132298,51.778786,0.000000
+            5.140324,51.773500,0.000000
+            5.141459,51.773997,0.000000
+            5.146903,51.770754,0.000000
+            5.145640,51.770661,0.000000
+            5.142416,51.770910,0.000000
+            5.134845,51.774639,0.000000
+            5.129379,51.778706,0.000000
+            5.132298,51.778786,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

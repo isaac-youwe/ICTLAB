@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00181108 Polder De Nijverheid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.816398,53.149712,0.000000
+            6.819268,53.146083,0.000000
+            6.807342,53.147124,0.000000
+            6.811678,53.142578,0.000000
+            6.804830,53.141025,0.000000
+            6.804148,53.140870,0.000000
+            6.802624,53.139989,0.000000
+            6.802587,53.139972,0.000000
+            6.797337,53.147013,0.000000
+            6.796423,53.159021,0.000000
+            6.796154,53.163302,0.000000
+            6.809613,53.164507,0.000000
+            6.815386,53.164033,0.000000
+            6.815658,53.161725,0.000000
+            6.816509,53.154524,0.000000
+            6.816546,53.154205,0.000000
+            6.816398,53.149712,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

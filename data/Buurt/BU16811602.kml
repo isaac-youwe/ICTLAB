@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16811602 Tweede Valthermond</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.013331,52.873044,0.000000
+            7.011252,52.873073,0.000000
+            7.032308,52.902817,0.000000
+            7.035633,52.902233,0.000000
+            7.016914,52.875692,0.000000
+            7.016820,52.875533,0.000000
+            7.015328,52.873017,0.000000
+            7.013843,52.873037,0.000000
+            7.013331,52.873044,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

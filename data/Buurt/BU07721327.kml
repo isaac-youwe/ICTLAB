@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721327 Koudenhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.521486,51.454064,0.000000
+            5.512711,51.451304,0.000000
+            5.507475,51.456510,0.000000
+            5.504128,51.457511,0.000000
+            5.498240,51.457556,0.000000
+            5.498402,51.458503,0.000000
+            5.501457,51.459874,0.000000
+            5.501867,51.461066,0.000000
+            5.504483,51.462608,0.000000
+            5.507291,51.462738,0.000000
+            5.509443,51.464330,0.000000
+            5.514136,51.465444,0.000000
+            5.522480,51.460213,0.000000
+            5.529670,51.458406,0.000000
+            5.532545,51.457504,0.000000
+            5.532539,51.455706,0.000000
+            5.532627,51.455568,0.000000
+            5.531875,51.455485,0.000000
+            5.521486,51.454064,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06540300 Baarland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.883850,51.410104,0.000000
+            3.888008,51.409056,0.000000
+            3.888192,51.410365,0.000000
+            3.890273,51.410444,0.000000
+            3.890167,51.406462,0.000000
+            3.884922,51.406847,0.000000
+            3.884062,51.406215,0.000000
+            3.882812,51.407683,0.000000
+            3.880454,51.407803,0.000000
+            3.880872,51.413854,0.000000
+            3.883016,51.413956,0.000000
+            3.883850,51.410104,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

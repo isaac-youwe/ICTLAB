@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08450000 Sint-Michielsgestel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.360117,51.652157,0.000000
+            5.356139,51.648003,0.000000
+            5.356839,51.646082,0.000000
+            5.359916,51.643319,0.000000
+            5.357562,51.641333,0.000000
+            5.356625,51.638990,0.000000
+            5.357938,51.637799,0.000000
+            5.356846,51.636467,0.000000
+            5.349566,51.636356,0.000000
+            5.348546,51.636371,0.000000
+            5.347675,51.638953,0.000000
+            5.339530,51.643830,0.000000
+            5.346132,51.649545,0.000000
+            5.352248,51.653392,0.000000
+            5.356339,51.649514,0.000000
+            5.360865,51.655040,0.000000
+            5.361835,51.654202,0.000000
+            5.360117,51.652157,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

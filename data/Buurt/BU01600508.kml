@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600508 Verspreide huizen Bergentheimerveen en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.631001,52.536156,0.000000
+            6.676733,52.514385,0.000000
+            6.677134,52.512462,0.000000
+            6.645591,52.503887,0.000000
+            6.625325,52.497991,0.000000
+            6.599884,52.508851,0.000000
+            6.598811,52.508186,0.000000
+            6.596194,52.509420,0.000000
+            6.610469,52.518927,0.000000
+            6.618675,52.525744,0.000000
+            6.622216,52.524175,0.000000
+            6.625110,52.526640,0.000000
+            6.626505,52.526055,0.000000
+            6.628545,52.527762,0.000000
+            6.625013,52.531132,0.000000
+            6.631001,52.536156,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

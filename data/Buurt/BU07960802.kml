@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960802 Maasakker</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.326525,51.738726,0.000000
+            5.329367,51.734543,0.000000
+            5.328734,51.732704,0.000000
+            5.321377,51.731884,0.000000
+            5.317487,51.728235,0.000000
+            5.311742,51.732351,0.000000
+            5.307189,51.736019,0.000000
+            5.314510,51.735567,0.000000
+            5.319444,51.737756,0.000000
+            5.326525,51.738726,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

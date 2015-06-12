@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05183960 Binckhorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.341495,52.061539,0.000000
+            4.340457,52.061530,0.000000
+            4.332718,52.067959,0.000000
+            4.326145,52.071551,0.000000
+            4.334290,52.075102,0.000000
+            4.335469,52.075025,0.000000
+            4.335345,52.074969,0.000000
+            4.354264,52.068023,0.000000
+            4.354474,52.067946,0.000000
+            4.341495,52.061539,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

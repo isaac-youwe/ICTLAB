@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03920604 Overdelft</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.632096,52.404283,0.000000
+            4.626470,52.397171,0.000000
+            4.624346,52.397753,0.000000
+            4.624533,52.398110,0.000000
+            4.628787,52.407126,0.000000
+            4.628799,52.407145,0.000000
+            4.631650,52.411639,0.000000
+            4.635833,52.410816,0.000000
+            4.633971,52.406787,0.000000
+            4.632096,52.404283,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

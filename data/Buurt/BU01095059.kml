@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01095059 Aalden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.715108,52.796545,0.000000
+            6.719360,52.793968,0.000000
+            6.720547,52.794704,0.000000
+            6.727145,52.792110,0.000000
+            6.725450,52.791433,0.000000
+            6.726500,52.788003,0.000000
+            6.719511,52.786342,0.000000
+            6.719520,52.784988,0.000000
+            6.714301,52.784645,0.000000
+            6.712351,52.786239,0.000000
+            6.714223,52.786978,0.000000
+            6.713787,52.789642,0.000000
+            6.709956,52.790943,0.000000
+            6.708985,52.792143,0.000000
+            6.711595,52.792944,0.000000
+            6.713071,52.794855,0.000000
+            6.712563,52.795967,0.000000
+            6.715108,52.796545,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

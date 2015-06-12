@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09570806 Boukoul</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.052505,51.206527,0.000000
+            6.051203,51.206390,0.000000
+            6.040165,51.207712,0.000000
+            6.037480,51.215781,0.000000
+            6.043953,51.217075,0.000000
+            6.043430,51.217688,0.000000
+            6.046692,51.218885,0.000000
+            6.051051,51.216359,0.000000
+            6.054113,51.211633,0.000000
+            6.054092,51.208680,0.000000
+            6.052505,51.206527,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

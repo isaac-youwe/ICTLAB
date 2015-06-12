@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07941102 Straakven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.687785,51.478772,0.000000
+            5.679918,51.478480,0.000000
+            5.676180,51.483743,0.000000
+            5.673152,51.486523,0.000000
+            5.676526,51.488522,0.000000
+            5.681659,51.489538,0.000000
+            5.683716,51.486011,0.000000
+            5.687785,51.478772,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580004 Dokkum Betterwird</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.989710,53.336110,0.000000
+            5.992818,53.332077,0.000000
+            5.995841,53.330640,0.000000
+            5.991125,53.329531,0.000000
+            5.986209,53.326712,0.000000
+            5.982233,53.324773,0.000000
+            5.979011,53.321828,0.000000
+            5.972584,53.321150,0.000000
+            5.972539,53.321260,0.000000
+            5.972133,53.321508,0.000000
+            5.972909,53.323715,0.000000
+            5.974754,53.323219,0.000000
+            5.971448,53.331751,0.000000
+            5.973126,53.334194,0.000000
+            5.983227,53.334880,0.000000
+            5.988894,53.334778,0.000000
+            5.989710,53.336110,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350006 Wyck</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.698772,50.851750,0.000000
+            5.700929,50.850837,0.000000
+            5.704848,50.851652,0.000000
+            5.706562,50.847475,0.000000
+            5.705357,50.847344,0.000000
+            5.706090,50.845640,0.000000
+            5.702899,50.840896,0.000000
+            5.699259,50.840327,0.000000
+            5.699652,50.841734,0.000000
+            5.696821,50.847237,0.000000
+            5.695820,50.851782,0.000000
+            5.698772,50.851750,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

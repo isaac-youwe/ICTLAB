@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991853 Spaanse Polder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.432202,51.926052,0.000000
+            4.437108,51.921998,0.000000
+            4.436374,51.921912,0.000000
+            4.417366,51.920425,0.000000
+            4.415952,51.923734,0.000000
+            4.415051,51.923162,0.000000
+            4.414263,51.923201,0.000000
+            4.410021,51.929511,0.000000
+            4.408507,51.931763,0.000000
+            4.408428,51.935358,0.000000
+            4.414206,51.937204,0.000000
+            4.414815,51.937399,0.000000
+            4.417296,51.937724,0.000000
+            4.421521,51.934081,0.000000
+            4.432202,51.926052,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09340001 Maasbree</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.053189,51.365914,0.000000
+            6.054046,51.364115,0.000000
+            6.059472,51.365722,0.000000
+            6.064515,51.358568,0.000000
+            6.053988,51.355347,0.000000
+            6.038904,51.354087,0.000000
+            6.039276,51.358852,0.000000
+            6.036029,51.359599,0.000000
+            6.035517,51.361205,0.000000
+            6.053189,51.365914,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01934030 Kantorenterrein-Oosterenk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.138340,52.505731,0.000000
+            6.130752,52.502100,0.000000
+            6.127998,52.503794,0.000000
+            6.123601,52.507426,0.000000
+            6.120288,52.512204,0.000000
+            6.118808,52.518513,0.000000
+            6.126402,52.519808,0.000000
+            6.126818,52.519937,0.000000
+            6.127832,52.514078,0.000000
+            6.130852,52.510182,0.000000
+            6.138340,52.505731,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

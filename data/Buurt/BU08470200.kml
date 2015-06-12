@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08470200 Someren-Eind</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.743652,51.348258,0.000000
+            5.733886,51.347449,0.000000
+            5.717030,51.356607,0.000000
+            5.723954,51.363615,0.000000
+            5.721448,51.366634,0.000000
+            5.723307,51.367325,0.000000
+            5.725754,51.370568,0.000000
+            5.730277,51.371175,0.000000
+            5.735065,51.371992,0.000000
+            5.736295,51.374093,0.000000
+            5.739093,51.374646,0.000000
+            5.739124,51.374357,0.000000
+            5.739940,51.371738,0.000000
+            5.743652,51.348258,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

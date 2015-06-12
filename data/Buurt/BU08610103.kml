@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08610103 De Polders</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.410216,51.435118,0.000000
+            5.411652,51.431522,0.000000
+            5.414381,51.429815,0.000000
+            5.409816,51.426070,0.000000
+            5.403913,51.424187,0.000000
+            5.403574,51.429572,0.000000
+            5.399756,51.430584,0.000000
+            5.397416,51.433886,0.000000
+            5.397435,51.433887,0.000000
+            5.400147,51.433321,0.000000
+            5.404463,51.436917,0.000000
+            5.405175,51.436694,0.000000
+            5.410216,51.435118,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08890102 Rijkel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.027070,51.255801,0.000000
+            6.016116,51.252682,0.000000
+            6.016116,51.252726,0.000000
+            6.013288,51.255438,0.000000
+            6.008715,51.257193,0.000000
+            6.006162,51.258173,0.000000
+            6.006210,51.261769,0.000000
+            6.006396,51.262110,0.000000
+            6.007679,51.264458,0.000000
+            6.010570,51.266241,0.000000
+            6.011934,51.266233,0.000000
+            6.023987,51.258712,0.000000
+            6.027070,51.255801,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

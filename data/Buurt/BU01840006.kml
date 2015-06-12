@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01840006 De Reede</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.613933,52.661376,0.000000
+            5.613793,52.658298,0.000000
+            5.610602,52.658305,0.000000
+            5.605952,52.660623,0.000000
+            5.603201,52.660767,0.000000
+            5.602833,52.661310,0.000000
+            5.608481,52.662458,0.000000
+            5.612357,52.665349,0.000000
+            5.613353,52.664992,0.000000
+            5.613933,52.661376,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17710004 Braakhuizen-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.569443,51.428292,0.000000
+            5.562866,51.424410,0.000000
+            5.558542,51.428222,0.000000
+            5.547060,51.433474,0.000000
+            5.548295,51.435009,0.000000
+            5.565579,51.441277,0.000000
+            5.565937,51.441647,0.000000
+            5.579568,51.431275,0.000000
+            5.569443,51.428292,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

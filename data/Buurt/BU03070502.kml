@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03070502 Zon en Schild</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.359587,52.137952,0.000000
+            5.368133,52.134644,0.000000
+            5.373637,52.133107,0.000000
+            5.370691,52.131591,0.000000
+            5.369674,52.131800,0.000000
+            5.355063,52.137190,0.000000
+            5.333171,52.120103,0.000000
+            5.328792,52.118303,0.000000
+            5.311286,52.108405,0.000000
+            5.306903,52.110200,0.000000
+            5.331703,52.126394,0.000000
+            5.333157,52.131788,0.000000
+            5.331694,52.133586,0.000000
+            5.331625,52.133670,0.000000
+            5.350108,52.138747,0.000000
+            5.355167,52.141459,0.000000
+            5.358641,52.141016,0.000000
+            5.360102,52.139100,0.000000
+            5.359587,52.137952,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

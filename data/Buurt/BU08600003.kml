@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08600003 Veghel-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.550710,51.603460,0.000000
+            5.547600,51.602889,0.000000
+            5.546673,51.604993,0.000000
+            5.545164,51.605282,0.000000
+            5.546074,51.609878,0.000000
+            5.544317,51.612952,0.000000
+            5.553771,51.615365,0.000000
+            5.555048,51.613562,0.000000
+            5.558568,51.612704,0.000000
+            5.560105,51.610161,0.000000
+            5.554511,51.608346,0.000000
+            5.554995,51.605969,0.000000
+            5.550710,51.603460,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

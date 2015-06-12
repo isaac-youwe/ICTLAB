@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09860106 Weustenrade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.930302,50.898010,0.000000
+            5.926470,50.897592,0.000000
+            5.924007,50.897874,0.000000
+            5.918295,50.894767,0.000000
+            5.910115,50.895973,0.000000
+            5.907295,50.898151,0.000000
+            5.914661,50.901721,0.000000
+            5.918937,50.902600,0.000000
+            5.923222,50.904379,0.000000
+            5.924644,50.904372,0.000000
+            5.926055,50.903467,0.000000
+            5.930257,50.898053,0.000000
+            5.930302,50.898010,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

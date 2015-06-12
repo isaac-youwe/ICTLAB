@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00400203 Steendam</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.849742,53.269679,0.000000
+            6.848061,53.268648,0.000000
+            6.845869,53.268738,0.000000
+            6.844398,53.269655,0.000000
+            6.841571,53.274289,0.000000
+            6.840218,53.276150,0.000000
+            6.842220,53.279919,0.000000
+            6.850248,53.279646,0.000000
+            6.856085,53.278283,0.000000
+            6.855567,53.277227,0.000000
+            6.850448,53.275309,0.000000
+            6.849742,53.269679,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

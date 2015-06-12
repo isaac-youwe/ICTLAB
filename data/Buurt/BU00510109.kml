@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510109 Verspreide huizen Oudehaske</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.865269,52.963064,0.000000
+            5.844334,52.962683,0.000000
+            5.853364,52.983804,0.000000
+            5.865981,52.983782,0.000000
+            5.872991,52.984563,0.000000
+            5.883837,52.966257,0.000000
+            5.865269,52.963064,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

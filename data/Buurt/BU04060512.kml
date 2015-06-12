@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04060512 Wolfskamer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.245368,52.310193,0.000000
+            5.244368,52.308841,0.000000
+            5.244228,52.308893,0.000000
+            5.241310,52.309139,0.000000
+            5.238877,52.305686,0.000000
+            5.234929,52.305371,0.000000
+            5.230230,52.305467,0.000000
+            5.228809,52.311472,0.000000
+            5.243472,52.312390,0.000000
+            5.244609,52.312566,0.000000
+            5.245368,52.310193,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

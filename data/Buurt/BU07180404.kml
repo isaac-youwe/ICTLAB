@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07180404 Zuidbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.574978,51.470218,0.000000
+            3.575044,51.465050,0.000000
+            3.570848,51.465492,0.000000
+            3.566524,51.464791,0.000000
+            3.564636,51.464676,0.000000
+            3.563727,51.466399,0.000000
+            3.564278,51.470180,0.000000
+            3.564311,51.470405,0.000000
+            3.564776,51.470397,0.000000
+            3.574978,51.470218,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00240300 't Zandt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.781197,53.361325,0.000000
+            6.777595,53.360188,0.000000
+            6.772295,53.362286,0.000000
+            6.769490,53.365663,0.000000
+            6.769451,53.372117,0.000000
+            6.772188,53.373395,0.000000
+            6.776604,53.372626,0.000000
+            6.780112,53.370330,0.000000
+            6.779661,53.367836,0.000000
+            6.782081,53.364215,0.000000
+            6.781197,53.361325,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

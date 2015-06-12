@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00830103 Boksum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.738943,53.177310,0.000000
+            5.728110,53.175072,0.000000
+            5.723282,53.175861,0.000000
+            5.722795,53.177383,0.000000
+            5.724042,53.178952,0.000000
+            5.732017,53.181325,0.000000
+            5.735819,53.181197,0.000000
+            5.737170,53.180434,0.000000
+            5.738943,53.177310,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

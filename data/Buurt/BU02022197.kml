@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02022197 Elderhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.878362,51.966849,0.000000
+            5.870528,51.957617,0.000000
+            5.864061,51.959500,0.000000
+            5.864978,51.962659,0.000000
+            5.863733,51.968488,0.000000
+            5.868060,51.968945,0.000000
+            5.874935,51.968466,0.000000
+            5.878362,51.966849,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

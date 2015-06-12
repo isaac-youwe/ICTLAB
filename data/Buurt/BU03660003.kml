@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03660003 Van Ewijcksluis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.881791,52.881377,0.000000
+            4.873051,52.880251,0.000000
+            4.867208,52.882257,0.000000
+            4.874603,52.887291,0.000000
+            4.876576,52.887610,0.000000
+            4.879025,52.886637,0.000000
+            4.876085,52.883928,0.000000
+            4.881791,52.881377,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

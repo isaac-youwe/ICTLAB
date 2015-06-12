@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00820005 Lemmer Lemstervaart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.723042,52.846335,0.000000
+            5.724601,52.844032,0.000000
+            5.724173,52.844102,0.000000
+            5.727079,52.836005,0.000000
+            5.725587,52.835111,0.000000
+            5.713735,52.837840,0.000000
+            5.712264,52.839642,0.000000
+            5.715253,52.842330,0.000000
+            5.715259,52.843229,0.000000
+            5.715152,52.843197,0.000000
+            5.715468,52.843567,0.000000
+            5.717637,52.843575,0.000000
+            5.723042,52.846335,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

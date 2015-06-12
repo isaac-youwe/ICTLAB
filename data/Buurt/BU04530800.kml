@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04530800 Hofgeest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.664457,52.444278,0.000000
+            4.652993,52.438687,0.000000
+            4.650887,52.440066,0.000000
+            4.655057,52.450740,0.000000
+            4.656899,52.451112,0.000000
+            4.657505,52.453959,0.000000
+            4.659496,52.449497,0.000000
+            4.664457,52.444278,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

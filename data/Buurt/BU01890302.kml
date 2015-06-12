@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01890302 Enter-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.587020,52.283792,0.000000
+            6.578547,52.283719,0.000000
+            6.577722,52.290234,0.000000
+            6.580609,52.294780,0.000000
+            6.581261,52.297819,0.000000
+            6.579002,52.300462,0.000000
+            6.577277,52.301067,0.000000
+            6.579088,52.303192,0.000000
+            6.583051,52.299182,0.000000
+            6.585665,52.285447,0.000000
+            6.587020,52.283792,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

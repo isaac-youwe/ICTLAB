@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04840110 De Heul</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.657317,52.142752,0.000000
+            4.660153,52.141705,0.000000
+            4.662333,52.142492,0.000000
+            4.664194,52.139977,0.000000
+            4.662355,52.139515,0.000000
+            4.660391,52.141120,0.000000
+            4.657068,52.141885,0.000000
+            4.657317,52.142752,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

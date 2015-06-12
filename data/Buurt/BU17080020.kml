@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080020 Basse</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.038927,52.804828,0.000000
+            6.039840,52.803505,0.000000
+            6.029841,52.803785,0.000000
+            6.029294,52.804654,0.000000
+            6.030827,52.807470,0.000000
+            6.031694,52.807503,0.000000
+            6.033463,52.805046,0.000000
+            6.038927,52.804828,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

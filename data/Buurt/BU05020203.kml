@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020203 Reviusbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.575485,51.921455,0.000000
+            4.571430,51.920526,0.000000
+            4.571302,51.920824,0.000000
+            4.568643,51.924272,0.000000
+            4.568880,51.925524,0.000000
+            4.570637,51.926886,0.000000
+            4.572618,51.926451,0.000000
+            4.573633,51.923360,0.000000
+            4.575066,51.923166,0.000000
+            4.575485,51.921455,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

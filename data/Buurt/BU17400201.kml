@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17400201 Kom Wely</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.693132,51.907407,0.000000
+            5.693623,51.903805,0.000000
+            5.687767,51.904025,0.000000
+            5.687891,51.905058,0.000000
+            5.689560,51.905314,0.000000
+            5.690757,51.910182,0.000000
+            5.696114,51.909268,0.000000
+            5.696046,51.908084,0.000000
+            5.693132,51.907407,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

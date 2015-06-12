@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03210107 Wulven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.148083,52.031735,0.000000
+            5.144839,52.029444,0.000000
+            5.142544,52.030889,0.000000
+            5.142535,52.032558,0.000000
+            5.145715,52.036493,0.000000
+            5.150872,52.037718,0.000000
+            5.154948,52.035513,0.000000
+            5.155856,52.033531,0.000000
+            5.155360,52.033036,0.000000
+            5.148083,52.031735,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

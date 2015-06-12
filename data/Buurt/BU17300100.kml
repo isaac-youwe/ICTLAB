@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17300100 De Groeve</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.721865,53.116973,0.000000
+            6.725081,53.116132,0.000000
+            6.729155,53.116218,0.000000
+            6.729213,53.115352,0.000000
+            6.722491,53.115382,0.000000
+            6.717644,53.113883,0.000000
+            6.707683,53.106079,0.000000
+            6.704277,53.106076,0.000000
+            6.704687,53.107861,0.000000
+            6.717444,53.117099,0.000000
+            6.718871,53.120251,0.000000
+            6.721316,53.120110,0.000000
+            6.723397,53.119991,0.000000
+            6.721865,53.116973,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

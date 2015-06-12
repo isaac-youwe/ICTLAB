@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07180602 Landelijk gebied Ritthem-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.648271,51.469812,0.000000
+            3.655534,51.468121,0.000000
+            3.661289,51.468206,0.000000
+            3.661372,51.468234,0.000000
+            3.656302,51.463610,0.000000
+            3.654414,51.462972,0.000000
+            3.655299,51.461265,0.000000
+            3.640175,51.457584,0.000000
+            3.628208,51.456426,0.000000
+            3.624906,51.456450,0.000000
+            3.608640,51.460576,0.000000
+            3.609518,51.460919,0.000000
+            3.611507,51.462103,0.000000
+            3.616145,51.469551,0.000000
+            3.622465,51.473167,0.000000
+            3.636384,51.476747,0.000000
+            3.636547,51.476790,0.000000
+            3.648271,51.469812,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

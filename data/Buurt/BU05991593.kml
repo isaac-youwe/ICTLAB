@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991593 Heijplaat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.425735,51.891273,0.000000
+            4.425694,51.885689,0.000000
+            4.419872,51.886912,0.000000
+            4.421182,51.889789,0.000000
+            4.415429,51.891284,0.000000
+            4.420496,51.892928,0.000000
+            4.418603,51.896277,0.000000
+            4.423500,51.896929,0.000000
+            4.424157,51.893246,0.000000
+            4.425735,51.891273,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

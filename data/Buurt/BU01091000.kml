@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01091000 Coevorden-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.736661,52.667114,0.000000
+            6.738760,52.665835,0.000000
+            6.745159,52.666132,0.000000
+            6.745709,52.664484,0.000000
+            6.748517,52.662873,0.000000
+            6.745319,52.660820,0.000000
+            6.745089,52.658601,0.000000
+            6.740524,52.657429,0.000000
+            6.738139,52.658948,0.000000
+            6.731907,52.660546,0.000000
+            6.736468,52.660911,0.000000
+            6.735758,52.664537,0.000000
+            6.736661,52.667114,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

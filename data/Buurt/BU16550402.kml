@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16550402 Achter t Hof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.559864,51.572114,0.000000
+            4.557181,51.571984,0.000000
+            4.555365,51.580089,0.000000
+            4.565130,51.585246,0.000000
+            4.573956,51.583701,0.000000
+            4.572110,51.580059,0.000000
+            4.568821,51.572756,0.000000
+            4.559864,51.572114,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07155700 Emmabaan -Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.995562,51.242144,0.000000
+            3.996435,51.241616,0.000000
+            4.002135,51.242583,0.000000
+            4.004999,51.242617,0.000000
+            4.005026,51.241718,0.000000
+            3.999380,51.238954,0.000000
+            3.992303,51.236172,0.000000
+            3.986631,51.234306,0.000000
+            3.986264,51.233904,0.000000
+            3.983200,51.235615,0.000000
+            3.984865,51.237236,0.000000
+            3.988310,51.237495,0.000000
+            3.994804,51.242704,0.000000
+            3.994975,51.242498,0.000000
+            3.995562,51.242144,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

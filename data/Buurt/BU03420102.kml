@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03420102 Soestduinen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.297270,52.156256,0.000000
+            5.302735,52.155464,0.000000
+            5.317350,52.156166,0.000000
+            5.337490,52.155023,0.000000
+            5.336062,52.146172,0.000000
+            5.335950,52.145965,0.000000
+            5.314198,52.144496,0.000000
+            5.270126,52.146264,0.000000
+            5.262336,52.145720,0.000000
+            5.273593,52.149803,0.000000
+            5.285099,52.155774,0.000000
+            5.290370,52.158466,0.000000
+            5.297270,52.156256,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

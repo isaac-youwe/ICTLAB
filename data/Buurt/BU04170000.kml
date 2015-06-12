@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04170000 Laren-Dorpskern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.227586,52.251416,0.000000
+            5.225941,52.251411,0.000000
+            5.223215,52.254190,0.000000
+            5.218507,52.255014,0.000000
+            5.222368,52.259821,0.000000
+            5.227601,52.260197,0.000000
+            5.233550,52.255628,0.000000
+            5.229637,52.255249,0.000000
+            5.227586,52.251416,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

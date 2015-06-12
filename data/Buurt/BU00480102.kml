@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480102 Vlagtwedder-Veldhuis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.138052,53.009406,0.000000
+            7.142456,53.006421,0.000000
+            7.144783,53.006757,0.000000
+            7.146198,53.004774,0.000000
+            7.144389,53.003757,0.000000
+            7.140019,53.003384,0.000000
+            7.136509,53.005284,0.000000
+            7.123704,53.016857,0.000000
+            7.123115,53.018164,0.000000
+            7.124876,53.019813,0.000000
+            7.126420,53.019594,0.000000
+            7.131049,53.015877,0.000000
+            7.134537,53.015166,0.000000
+            7.138052,53.009406,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

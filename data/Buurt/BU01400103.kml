@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01400103 Iens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.615391,53.128669,0.000000
+            5.617419,53.125647,0.000000
+            5.621957,53.126828,0.000000
+            5.623424,53.126022,0.000000
+            5.628351,53.123463,0.000000
+            5.628072,53.122412,0.000000
+            5.623723,53.121351,0.000000
+            5.622770,53.120293,0.000000
+            5.616432,53.117191,0.000000
+            5.611329,53.117617,0.000000
+            5.610062,53.119182,0.000000
+            5.605442,53.120519,0.000000
+            5.595324,53.118672,0.000000
+            5.594700,53.122140,0.000000
+            5.613664,53.125045,0.000000
+            5.611887,53.127382,0.000000
+            5.615391,53.128669,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

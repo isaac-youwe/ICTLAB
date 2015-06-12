@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110418 Verspreide huizen Illikhoven en Visserweert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.803623,51.083038,0.000000
+            5.804763,51.081893,0.000000
+            5.805997,51.082612,0.000000
+            5.806744,51.081964,0.000000
+            5.807825,51.080870,0.000000
+            5.812339,51.081546,0.000000
+            5.814962,51.080971,0.000000
+            5.815593,51.078106,0.000000
+            5.814495,51.075861,0.000000
+            5.819833,51.074023,0.000000
+            5.821596,51.074685,0.000000
+            5.820069,51.072923,0.000000
+            5.819584,51.072924,0.000000
+            5.809472,51.059477,0.000000
+            5.808029,51.057684,0.000000
+            5.803749,51.057699,0.000000
+            5.802331,51.058604,0.000000
+            5.800912,51.059508,0.000000
+            5.800824,51.059508,0.000000
+            5.798059,51.059518,0.000000
+            5.800929,51.061305,0.000000
+            5.800945,51.063103,0.000000
+            5.796745,51.072108,0.000000
+            5.799623,51.074795,0.000000
+            5.803928,51.077477,0.000000
+            5.803944,51.079275,0.000000
+            5.802624,51.082684,0.000000
+            5.803623,51.083038,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.799320,51.068126,0.000000
+            5.800299,51.066493,0.000000
+            5.800538,51.068797,0.000000
+            5.799320,51.068126,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.804215,51.063512,0.000000
+            5.803508,51.058751,0.000000
+            5.807692,51.060318,0.000000
+            5.804215,51.063512,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

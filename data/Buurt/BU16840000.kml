@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16840000 Cuijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.889663,51.721794,0.000000
+            5.879623,51.719314,0.000000
+            5.873178,51.728633,0.000000
+            5.872760,51.729340,0.000000
+            5.870616,51.733539,0.000000
+            5.883532,51.736030,0.000000
+            5.883800,51.735289,0.000000
+            5.883824,51.735220,0.000000
+            5.885193,51.728023,0.000000
+            5.886610,51.725320,0.000000
+            5.892370,51.722598,0.000000
+            5.892498,51.722562,0.000000
+            5.889663,51.721794,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

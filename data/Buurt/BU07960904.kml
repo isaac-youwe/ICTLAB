@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960904 De Slagen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.323938,51.711216,0.000000
+            5.319667,51.708438,0.000000
+            5.313709,51.708518,0.000000
+            5.313645,51.707696,0.000000
+            5.310413,51.710358,0.000000
+            5.312072,51.710726,0.000000
+            5.320573,51.714098,0.000000
+            5.323938,51.711216,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

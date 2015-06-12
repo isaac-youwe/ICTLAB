@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09280205 Haanrade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.075146,50.890090,0.000000
+            6.079302,50.882873,0.000000
+            6.080723,50.882865,0.000000
+            6.087760,50.878327,0.000000
+            6.087665,50.872035,0.000000
+            6.086831,50.870502,0.000000
+            6.083846,50.876583,0.000000
+            6.074032,50.877663,0.000000
+            6.070559,50.877694,0.000000
+            6.070101,50.880187,0.000000
+            6.069007,50.879894,0.000000
+            6.065347,50.881680,0.000000
+            6.066742,50.886850,0.000000
+            6.069000,50.886782,0.000000
+            6.070241,50.887737,0.000000
+            6.067741,50.889074,0.000000
+            6.075176,50.892158,0.000000
+            6.075146,50.890090,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

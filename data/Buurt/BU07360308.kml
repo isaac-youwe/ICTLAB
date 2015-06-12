@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07360308 Verspreide huizen in de polder Groot-Mijdrecht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.919197,52.207080,0.000000
+            4.919310,52.197271,0.000000
+            4.916733,52.196356,0.000000
+            4.914588,52.197385,0.000000
+            4.909241,52.196462,0.000000
+            4.904474,52.197334,0.000000
+            4.904577,52.202265,0.000000
+            4.886524,52.201991,0.000000
+            4.886303,52.211547,0.000000
+            4.919144,52.211836,0.000000
+            4.919197,52.207080,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

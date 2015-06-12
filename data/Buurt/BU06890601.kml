@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06890601 Lage Giessen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.942814,51.876979,0.000000
+            4.943569,51.874444,0.000000
+            4.946023,51.875075,0.000000
+            4.946970,51.871901,0.000000
+            4.948302,51.871999,0.000000
+            4.950601,51.866642,0.000000
+            4.939225,51.863802,0.000000
+            4.938604,51.863647,0.000000
+            4.938338,51.863581,0.000000
+            4.938126,51.864333,0.000000
+            4.929042,51.860955,0.000000
+            4.920968,51.860220,0.000000
+            4.919255,51.867744,0.000000
+            4.918807,51.869565,0.000000
+            4.925914,51.870165,0.000000
+            4.933327,51.873236,0.000000
+            4.935194,51.874801,0.000000
+            4.942814,51.876979,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

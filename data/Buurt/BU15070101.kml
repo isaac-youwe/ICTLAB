@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15070101 Meerdal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.963137,51.453932,0.000000
+            5.962751,51.452121,0.000000
+            5.947236,51.453518,0.000000
+            5.942875,51.457231,0.000000
+            5.949573,51.457919,0.000000
+            5.950581,51.458960,0.000000
+            5.960993,51.458599,0.000000
+            5.959480,51.454285,0.000000
+            5.963137,51.453932,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

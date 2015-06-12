@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06530202 Rijs</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.495364,52.870569,0.000000
+            5.496934,52.868028,0.000000
+            5.504370,52.863594,0.000000
+            5.505198,52.861964,0.000000
+            5.503776,52.858608,0.000000
+            5.496626,52.860713,0.000000
+            5.492455,52.862885,0.000000
+            5.484578,52.868783,0.000000
+            5.480770,52.867410,0.000000
+            5.478778,52.869553,0.000000
+            5.479292,52.869708,0.000000
+            5.485238,52.871501,0.000000
+            5.489694,52.871497,0.000000
+            5.495379,52.874069,0.000000
+            5.495364,52.870569,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

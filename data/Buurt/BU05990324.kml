@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990324 Nieuwe Westen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.458069,51.908648,0.000000
+            4.455710,51.908471,0.000000
+            4.449592,51.909702,0.000000
+            4.444226,51.916485,0.000000
+            4.443379,51.918056,0.000000
+            4.437108,51.921998,0.000000
+            4.441148,51.922337,0.000000
+            4.454775,51.923010,0.000000
+            4.454826,51.922716,0.000000
+            4.456189,51.921500,0.000000
+            4.455598,51.914022,0.000000
+            4.457584,51.909556,0.000000
+            4.458069,51.908648,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

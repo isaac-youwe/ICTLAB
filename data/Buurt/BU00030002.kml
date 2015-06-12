@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00030002 Appingedam-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.882428,53.328483,0.000000
+            6.883648,53.323457,0.000000
+            6.883697,53.323257,0.000000
+            6.883448,53.316070,0.000000
+            6.884791,53.311562,0.000000
+            6.870417,53.309059,0.000000
+            6.869147,53.310792,0.000000
+            6.861421,53.311656,0.000000
+            6.857129,53.311365,0.000000
+            6.856897,53.310546,0.000000
+            6.850314,53.311377,0.000000
+            6.856034,53.317754,0.000000
+            6.856118,53.318863,0.000000
+            6.863969,53.321321,0.000000
+            6.868446,53.321871,0.000000
+            6.867172,53.326070,0.000000
+            6.867943,53.327207,0.000000
+            6.871260,53.326769,0.000000
+            6.882020,53.328421,0.000000
+            6.882428,53.328483,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

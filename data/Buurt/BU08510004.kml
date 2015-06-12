@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08510004 Industrieterrein Reinierpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.304345,51.588880,0.000000
+            4.301396,51.587068,0.000000
+            4.297481,51.587554,0.000000
+            4.298353,51.590515,0.000000
+            4.297039,51.590794,0.000000
+            4.297027,51.594263,0.000000
+            4.307477,51.593608,0.000000
+            4.307818,51.592847,0.000000
+            4.306013,51.590929,0.000000
+            4.304375,51.590632,0.000000
+            4.304345,51.588880,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

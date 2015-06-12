@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07360203 Groenlandsekade en Vinkenkade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.963845,52.259584,0.000000
+            4.968332,52.249712,0.000000
+            4.980254,52.227281,0.000000
+            4.983222,52.222797,0.000000
+            4.980371,52.221909,0.000000
+            4.971682,52.237511,0.000000
+            4.971091,52.238598,0.000000
+            4.966793,52.246795,0.000000
+            4.955522,52.254321,0.000000
+            4.956572,52.254164,0.000000
+            4.959493,52.255074,0.000000
+            4.960932,52.257776,0.000000
+            4.960906,52.260472,0.000000
+            4.962371,52.260477,0.000000
+            4.963490,52.259799,0.000000
+            4.963845,52.259584,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

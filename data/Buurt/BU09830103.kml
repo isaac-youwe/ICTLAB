@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830103 Vogelhut</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.184101,51.350225,0.000000
+            6.178923,51.348348,0.000000
+            6.176454,51.351639,0.000000
+            6.186604,51.355674,0.000000
+            6.190024,51.361892,0.000000
+            6.193233,51.361313,0.000000
+            6.195862,51.358907,0.000000
+            6.190490,51.353804,0.000000
+            6.184101,51.350225,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05050006 Bleijenhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.672038,51.820972,0.000000
+            4.672047,51.820392,0.000000
+            4.674948,51.820410,0.000000
+            4.675330,51.820412,0.000000
+            4.675298,51.819872,0.000000
+            4.674673,51.816646,0.000000
+            4.673254,51.814844,0.000000
+            4.668538,51.815960,0.000000
+            4.668455,51.816167,0.000000
+            4.668594,51.817014,0.000000
+            4.672038,51.820972,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

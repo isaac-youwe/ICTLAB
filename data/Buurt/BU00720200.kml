@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00720200 Wijnaldum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.464227,53.194889,0.000000
+            5.461395,53.193487,0.000000
+            5.459090,53.193773,0.000000
+            5.457628,53.195042,0.000000
+            5.458673,53.198269,0.000000
+            5.461925,53.197694,0.000000
+            5.464472,53.195987,0.000000
+            5.464227,53.194889,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

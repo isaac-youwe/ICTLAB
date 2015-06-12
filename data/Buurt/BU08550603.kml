@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550603 De Blaak</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.049696,51.542742,0.000000
+            5.047883,51.539385,0.000000
+            5.033164,51.539857,0.000000
+            5.029897,51.543957,0.000000
+            5.035981,51.546093,0.000000
+            5.037251,51.548971,0.000000
+            5.036406,51.553564,0.000000
+            5.037937,51.553578,0.000000
+            5.039638,51.558281,0.000000
+            5.041030,51.557890,0.000000
+            5.056652,51.547197,0.000000
+            5.053807,51.545548,0.000000
+            5.049696,51.542742,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

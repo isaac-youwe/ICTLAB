@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02090274 Ewijk Veluwestraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.741514,51.873264,0.000000
+            5.740716,51.873008,0.000000
+            5.738509,51.873428,0.000000
+            5.732276,51.874149,0.000000
+            5.736693,51.880180,0.000000
+            5.741407,51.880392,0.000000
+            5.744124,51.878542,0.000000
+            5.742612,51.877485,0.000000
+            5.743344,51.874436,0.000000
+            5.741514,51.873264,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

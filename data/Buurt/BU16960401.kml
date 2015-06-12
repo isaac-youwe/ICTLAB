@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16960401 Overmeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.058445,52.236720,0.000000
+            5.056339,52.236488,0.000000
+            5.056306,52.236508,0.000000
+            5.046002,52.243670,0.000000
+            5.045960,52.249063,0.000000
+            5.042981,52.256233,0.000000
+            5.046468,52.256640,0.000000
+            5.050444,52.256583,0.000000
+            5.052744,52.255847,0.000000
+            5.054617,52.253480,0.000000
+            5.054803,52.246408,0.000000
+            5.064665,52.237862,0.000000
+            5.058445,52.236720,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

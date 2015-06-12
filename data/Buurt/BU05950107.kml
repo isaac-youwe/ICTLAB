@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950107 Oukoop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.782784,52.041534,0.000000
+            4.792112,52.026468,0.000000
+            4.792861,52.025055,0.000000
+            4.783727,52.021597,0.000000
+            4.777453,52.028159,0.000000
+            4.775187,52.027294,0.000000
+            4.770017,52.033077,0.000000
+            4.772007,52.033853,0.000000
+            4.771214,52.038475,0.000000
+            4.777796,52.047845,0.000000
+            4.782784,52.041534,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

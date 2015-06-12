@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09172201 Pronsebroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.970823,50.912737,0.000000
+            5.970651,50.911478,0.000000
+            5.964813,50.911889,0.000000
+            5.961851,50.911050,0.000000
+            5.961185,50.911599,0.000000
+            5.960076,50.914049,0.000000
+            5.960505,50.915216,0.000000
+            5.970823,50.912737,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

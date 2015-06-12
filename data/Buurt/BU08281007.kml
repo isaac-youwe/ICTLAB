@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08281007 Verspreide huizen Duurendseind</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.587005,51.786743,0.000000
+            5.589665,51.786234,0.000000
+            5.592822,51.786632,0.000000
+            5.600874,51.784707,0.000000
+            5.597720,51.782201,0.000000
+            5.595785,51.778903,0.000000
+            5.597187,51.778398,0.000000
+            5.599501,51.779267,0.000000
+            5.605303,51.778232,0.000000
+            5.595655,51.774831,0.000000
+            5.583077,51.771666,0.000000
+            5.581234,51.775255,0.000000
+            5.583064,51.776667,0.000000
+            5.583581,51.780077,0.000000
+            5.574412,51.780463,0.000000
+            5.573686,51.783331,0.000000
+            5.578174,51.789002,0.000000
+            5.580614,51.787450,0.000000
+            5.587005,51.786743,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

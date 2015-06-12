@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19260225 De Venen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.393446,52.047473,0.000000
+            4.385657,52.041624,0.000000
+            4.384353,52.043261,0.000000
+            4.381210,52.039139,0.000000
+            4.375395,52.042916,0.000000
+            4.375461,52.042957,0.000000
+            4.385523,52.049336,0.000000
+            4.385684,52.049421,0.000000
+            4.394171,52.053904,0.000000
+            4.400902,52.053133,0.000000
+            4.399892,52.052367,0.000000
+            4.393446,52.047473,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

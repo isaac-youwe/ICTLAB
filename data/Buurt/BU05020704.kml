@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020704 Stadsdeelpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.600751,51.948295,0.000000
+            4.592814,51.943911,0.000000
+            4.588825,51.941726,0.000000
+            4.579875,51.937355,0.000000
+            4.578540,51.938148,0.000000
+            4.572636,51.943008,0.000000
+            4.572502,51.943118,0.000000
+            4.572628,51.943415,0.000000
+            4.573480,51.945425,0.000000
+            4.576055,51.944962,0.000000
+            4.579028,51.947100,0.000000
+            4.581199,51.948465,0.000000
+            4.585029,51.949192,0.000000
+            4.586553,51.948605,0.000000
+            4.588241,51.947193,0.000000
+            4.592568,51.948751,0.000000
+            4.595937,51.950535,0.000000
+            4.598942,51.951815,0.000000
+            4.601617,51.949394,0.000000
+            4.600751,51.948295,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

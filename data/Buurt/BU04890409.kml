@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04890409 Oranjewijk 1</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.559896,51.849323,0.000000
+            4.557192,51.846189,0.000000
+            4.553275,51.848764,0.000000
+            4.549494,51.848301,0.000000
+            4.546837,51.850344,0.000000
+            4.547121,51.852154,0.000000
+            4.548901,51.852201,0.000000
+            4.554053,51.853494,0.000000
+            4.559896,51.849323,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

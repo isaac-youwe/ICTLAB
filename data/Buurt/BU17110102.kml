@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110102 In de Mehre</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.862538,51.058753,0.000000
+            5.860935,51.055552,0.000000
+            5.859051,51.057530,0.000000
+            5.854075,51.058558,0.000000
+            5.855281,51.061168,0.000000
+            5.857946,51.061670,0.000000
+            5.862681,51.058955,0.000000
+            5.862538,51.058753,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

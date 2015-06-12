@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02030200 Kootwijkerbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.678469,52.156300,0.000000
+            5.675493,52.152868,0.000000
+            5.674250,52.152927,0.000000
+            5.674636,52.147910,0.000000
+            5.671688,52.146504,0.000000
+            5.665711,52.146645,0.000000
+            5.663887,52.149137,0.000000
+            5.658934,52.148612,0.000000
+            5.658158,52.150501,0.000000
+            5.656295,52.150492,0.000000
+            5.656900,52.152642,0.000000
+            5.666931,52.153160,0.000000
+            5.677093,52.157787,0.000000
+            5.678186,52.161280,0.000000
+            5.675126,52.161587,0.000000
+            5.675638,52.164207,0.000000
+            5.680694,52.162001,0.000000
+            5.678469,52.156300,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

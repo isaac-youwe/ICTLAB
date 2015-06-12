@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15860005 Industrieterrein Den Sliem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.621562,52.046697,0.000000
+            6.619204,52.044379,0.000000
+            6.617997,52.045549,0.000000
+            6.615594,52.046055,0.000000
+            6.616607,52.050076,0.000000
+            6.618639,52.050908,0.000000
+            6.618757,52.053300,0.000000
+            6.615570,52.055263,0.000000
+            6.622000,52.056737,0.000000
+            6.627696,52.057099,0.000000
+            6.625016,52.051125,0.000000
+            6.624640,52.047434,0.000000
+            6.621562,52.046697,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

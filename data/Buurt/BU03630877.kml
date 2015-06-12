@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630877 Slotermeer-Zuidwest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.835140,52.373180,0.000000
+            4.834300,52.370394,0.000000
+            4.829247,52.370559,0.000000
+            4.827059,52.372095,0.000000
+            4.826016,52.371623,0.000000
+            4.811951,52.359470,0.000000
+            4.807448,52.367035,0.000000
+            4.805045,52.372756,0.000000
+            4.807462,52.372457,0.000000
+            4.809292,52.380390,0.000000
+            4.812031,52.380580,0.000000
+            4.811866,52.384794,0.000000
+            4.818569,52.384805,0.000000
+            4.818810,52.382279,0.000000
+            4.822582,52.378663,0.000000
+            4.836624,52.376383,0.000000
+            4.835140,52.373180,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

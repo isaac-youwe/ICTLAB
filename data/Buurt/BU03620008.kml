@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03620008 Bankras</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.883040,52.303308,0.000000
+            4.879319,52.296860,0.000000
+            4.869209,52.298622,0.000000
+            4.872029,52.303072,0.000000
+            4.872644,52.307764,0.000000
+            4.874088,52.307852,0.000000
+            4.874168,52.308538,0.000000
+            4.879737,52.308521,0.000000
+            4.883293,52.306996,0.000000
+            4.883040,52.303308,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02810108 Veluwe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.418256,51.900646,0.000000
+            5.400547,51.898520,0.000000
+            5.404422,51.904909,0.000000
+            5.404643,51.905272,0.000000
+            5.409004,51.907968,0.000000
+            5.411913,51.911564,0.000000
+            5.417728,51.913360,0.000000
+            5.420311,51.914956,0.000000
+            5.420637,51.915157,0.000000
+            5.423546,51.916954,0.000000
+            5.423722,51.917063,0.000000
+            5.426597,51.906338,0.000000
+            5.431412,51.901463,0.000000
+            5.424435,51.901056,0.000000
+            5.418256,51.900646,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04200900 Abbekerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.025649,52.728303,0.000000
+            5.025054,52.718485,0.000000
+            5.019896,52.715668,0.000000
+            5.012630,52.719842,0.000000
+            5.007205,52.721118,0.000000
+            5.011197,52.722650,0.000000
+            5.011166,52.726245,0.000000
+            5.008213,52.725337,0.000000
+            5.002242,52.733377,0.000000
+            5.031799,52.743612,0.000000
+            5.025649,52.728303,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

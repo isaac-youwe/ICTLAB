@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17140500 Oostburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.500036,51.335007,0.000000
+            3.500629,51.331268,0.000000
+            3.508846,51.324303,0.000000
+            3.486311,51.322533,0.000000
+            3.486050,51.320075,0.000000
+            3.478171,51.320803,0.000000
+            3.478565,51.322689,0.000000
+            3.480183,51.322362,0.000000
+            3.480751,51.324096,0.000000
+            3.480220,51.326496,0.000000
+            3.475640,51.329541,0.000000
+            3.478159,51.331625,0.000000
+            3.481273,51.329339,0.000000
+            3.485637,51.329010,0.000000
+            3.489173,51.331400,0.000000
+            3.494427,51.331388,0.000000
+            3.493690,51.334318,0.000000
+            3.500036,51.335007,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

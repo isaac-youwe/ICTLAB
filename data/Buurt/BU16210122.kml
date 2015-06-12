@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16210122 Parkwijk (Meerpolder)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.472811,51.994193,0.000000
+            4.470389,51.992106,0.000000
+            4.466215,51.992804,0.000000
+            4.464966,51.993295,0.000000
+            4.469234,51.995337,0.000000
+            4.469824,51.995231,0.000000
+            4.472811,51.994193,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

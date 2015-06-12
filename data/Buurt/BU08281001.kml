@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08281001 Berghem-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.594093,51.769956,0.000000
+            5.588305,51.763359,0.000000
+            5.567889,51.758658,0.000000
+            5.567443,51.760166,0.000000
+            5.565484,51.759562,0.000000
+            5.563218,51.765280,0.000000
+            5.558664,51.764454,0.000000
+            5.556068,51.766237,0.000000
+            5.562824,51.766836,0.000000
+            5.583077,51.771666,0.000000
+            5.595655,51.774831,0.000000
+            5.594093,51.769956,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07941003 Heipoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.668437,51.482289,0.000000
+            5.667039,51.480439,0.000000
+            5.663349,51.481511,0.000000
+            5.660348,51.480739,0.000000
+            5.657493,51.485774,0.000000
+            5.661314,51.486031,0.000000
+            5.661135,51.485495,0.000000
+            5.673842,51.483172,0.000000
+            5.668437,51.482289,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

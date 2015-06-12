@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03830111 Kooiweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.674649,52.553725,0.000000
+            4.674252,52.553660,0.000000
+            4.662569,52.557949,0.000000
+            4.667106,52.562860,0.000000
+            4.678004,52.562151,0.000000
+            4.679431,52.561603,0.000000
+            4.679518,52.560233,0.000000
+            4.674649,52.553725,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

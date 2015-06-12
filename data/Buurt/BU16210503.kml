@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16210503 Overbuurtse Polder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.525922,52.002925,0.000000
+            4.522236,51.995370,0.000000
+            4.500376,52.005978,0.000000
+            4.501965,52.008607,0.000000
+            4.503380,52.015313,0.000000
+            4.503182,52.029327,0.000000
+            4.505132,52.033042,0.000000
+            4.518365,52.041401,0.000000
+            4.518632,52.041514,0.000000
+            4.519016,52.041394,0.000000
+            4.541141,52.035540,0.000000
+            4.536506,52.025480,0.000000
+            4.532656,52.017964,0.000000
+            4.527857,52.015846,0.000000
+            4.524254,52.009190,0.000000
+            4.524585,52.007651,0.000000
+            4.525922,52.002925,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630009 Oostelijke Eilanden en Kadijken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.927080,52.366474,0.000000
+            4.922251,52.363774,0.000000
+            4.920849,52.364626,0.000000
+            4.921659,52.365122,0.000000
+            4.909741,52.369206,0.000000
+            4.913323,52.371452,0.000000
+            4.913390,52.373653,0.000000
+            4.911737,52.376567,0.000000
+            4.923491,52.375185,0.000000
+            4.930402,52.373244,0.000000
+            4.932413,52.371782,0.000000
+            4.932954,52.370017,0.000000
+            4.931751,52.366591,0.000000
+            4.927080,52.366474,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

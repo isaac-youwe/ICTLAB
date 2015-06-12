@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220401 Oosseld en Vijverberg-Zuidwest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.319349,51.947687,0.000000
+            6.309122,51.945413,0.000000
+            6.301745,51.956221,0.000000
+            6.297756,51.958321,0.000000
+            6.300679,51.958295,0.000000
+            6.305522,51.956911,0.000000
+            6.319349,51.947687,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

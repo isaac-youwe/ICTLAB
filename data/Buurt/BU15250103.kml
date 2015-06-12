@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15250103 Hoogh Teylingen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.489314,52.229055,0.000000
+            4.488445,52.228582,0.000000
+            4.495563,52.229082,0.000000
+            4.499744,52.227660,0.000000
+            4.503162,52.225029,0.000000
+            4.500322,52.223565,0.000000
+            4.493955,52.226138,0.000000
+            4.487672,52.222930,0.000000
+            4.486397,52.223760,0.000000
+            4.484655,52.222924,0.000000
+            4.482893,52.228085,0.000000
+            4.487654,52.229876,0.000000
+            4.489314,52.229055,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

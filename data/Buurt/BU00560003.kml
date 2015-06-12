@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00560003 Briltil</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.393863,53.241912,0.000000
+            6.391212,53.239976,0.000000
+            6.383549,53.240694,0.000000
+            6.383475,53.242207,0.000000
+            6.385100,53.242344,0.000000
+            6.386841,53.244755,0.000000
+            6.392694,53.243822,0.000000
+            6.393863,53.241912,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480407 Verspreide huizen Halsters Laag</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.306355,51.543479,0.000000
+            4.301718,51.531721,0.000000
+            4.304478,51.529872,0.000000
+            4.304466,51.528914,0.000000
+            4.298499,51.531075,0.000000
+            4.289583,51.535109,0.000000
+            4.294183,51.539733,0.000000
+            4.289797,51.543417,0.000000
+            4.297547,51.542958,0.000000
+            4.298165,51.544562,0.000000
+            4.306355,51.543479,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

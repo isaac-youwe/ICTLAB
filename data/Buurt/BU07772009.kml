@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07772009 Hoge Neerstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.661841,51.567465,0.000000
+            4.655162,51.559888,0.000000
+            4.654799,51.561604,0.000000
+            4.649830,51.568345,0.000000
+            4.648818,51.569799,0.000000
+            4.649152,51.569874,0.000000
+            4.658311,51.571544,0.000000
+            4.661841,51.567465,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

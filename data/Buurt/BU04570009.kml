@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04570009 Bloemendalerpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.055980,52.310906,0.000000
+            5.048816,52.310387,0.000000
+            5.031604,52.318211,0.000000
+            5.030743,52.321830,0.000000
+            5.035125,52.322740,0.000000
+            5.049816,52.320086,0.000000
+            5.054230,52.318301,0.000000
+            5.055655,52.316574,0.000000
+            5.052844,52.315859,0.000000
+            5.050950,52.314366,0.000000
+            5.052323,52.312678,0.000000
+            5.055980,52.310906,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

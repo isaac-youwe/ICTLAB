@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16550309 Verspreide huizen ten zuiden van Oudenbosch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.555365,51.580089,0.000000
+            4.542442,51.573200,0.000000
+            4.539845,51.571714,0.000000
+            4.537047,51.566024,0.000000
+            4.509365,51.568403,0.000000
+            4.508173,51.570881,0.000000
+            4.516678,51.579236,0.000000
+            4.517559,51.578666,0.000000
+            4.526455,51.583671,0.000000
+            4.528628,51.579556,0.000000
+            4.531246,51.577032,0.000000
+            4.534699,51.577897,0.000000
+            4.533948,51.578676,0.000000
+            4.544367,51.583256,0.000000
+            4.550245,51.585427,0.000000
+            4.549075,51.589403,0.000000
+            4.557542,51.588335,0.000000
+            4.568060,51.586784,0.000000
+            4.565130,51.585246,0.000000
+            4.555365,51.580089,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

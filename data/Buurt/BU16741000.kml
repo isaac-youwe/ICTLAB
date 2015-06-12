@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16741000 Nispen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.465652,51.477779,0.000000
+            4.459551,51.477125,0.000000
+            4.445717,51.483913,0.000000
+            4.445881,51.488413,0.000000
+            4.452612,51.488824,0.000000
+            4.461187,51.491682,0.000000
+            4.466677,51.484081,0.000000
+            4.470085,51.482922,0.000000
+            4.470141,51.482298,0.000000
+            4.465652,51.477779,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

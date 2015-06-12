@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770107 Het Overstigt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.270881,52.403657,0.000000
+            6.273223,52.402241,0.000000
+            6.276122,52.403229,0.000000
+            6.283945,52.400767,0.000000
+            6.284764,52.399306,0.000000
+            6.287339,52.398950,0.000000
+            6.286770,52.396663,0.000000
+            6.283766,52.396025,0.000000
+            6.280910,52.392496,0.000000
+            6.268702,52.400153,0.000000
+            6.267900,52.402799,0.000000
+            6.270881,52.403657,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

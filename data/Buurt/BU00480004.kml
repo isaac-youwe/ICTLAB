@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480004 Jipsinghuizen en Plaggenborg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.157002,52.982196,0.000000
+            7.156150,52.979930,0.000000
+            7.153600,52.977873,0.000000
+            7.149343,52.976421,0.000000
+            7.146339,52.977072,0.000000
+            7.144777,52.978842,0.000000
+            7.144530,52.982887,0.000000
+            7.148921,52.982603,0.000000
+            7.149810,52.980676,0.000000
+            7.154331,52.983359,0.000000
+            7.156331,52.983150,0.000000
+            7.157002,52.982196,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

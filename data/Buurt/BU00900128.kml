@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00900128 De Veenhoop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.990367,53.085542,0.000000
+            5.987766,53.081203,0.000000
+            5.987211,53.081239,0.000000
+            5.982685,53.077666,0.000000
+            5.931989,53.081503,0.000000
+            5.930485,53.080611,0.000000
+            5.927478,53.078827,0.000000
+            5.926772,53.078830,0.000000
+            5.932296,53.086715,0.000000
+            5.934956,53.095548,0.000000
+            5.944366,53.098304,0.000000
+            5.949069,53.102532,0.000000
+            5.975728,53.106961,0.000000
+            5.974649,53.105142,0.000000
+            5.975391,53.102656,0.000000
+            5.991266,53.101382,0.000000
+            5.990194,53.097433,0.000000
+            5.991032,53.096853,0.000000
+            5.991200,53.090145,0.000000
+            5.990367,53.085542,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

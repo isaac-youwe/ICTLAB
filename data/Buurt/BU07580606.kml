@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580606 Kroeten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.734077,51.620079,0.000000
+            4.728413,51.616834,0.000000
+            4.723410,51.617432,0.000000
+            4.723361,51.620198,0.000000
+            4.733281,51.627186,0.000000
+            4.734997,51.626185,0.000000
+            4.729674,51.622558,0.000000
+            4.734077,51.620079,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

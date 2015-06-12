@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07970004 Bedrijvenpark Groenewoud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.152904,51.687343,0.000000
+            5.146040,51.686620,0.000000
+            5.146577,51.691751,0.000000
+            5.145433,51.695397,0.000000
+            5.149504,51.696005,0.000000
+            5.160789,51.697667,0.000000
+            5.160239,51.689912,0.000000
+            5.158156,51.688064,0.000000
+            5.152904,51.687343,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

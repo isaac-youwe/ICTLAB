@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17350501 Diepenheim-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.560495,52.197767,0.000000
+            6.560776,52.196310,0.000000
+            6.555880,52.196697,0.000000
+            6.548103,52.195321,0.000000
+            6.542291,52.198508,0.000000
+            6.541457,52.200646,0.000000
+            6.552607,52.200101,0.000000
+            6.560495,52.197767,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

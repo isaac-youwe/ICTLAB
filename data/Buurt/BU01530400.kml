@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530400 Walhof-Roessingh</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.873764,52.234105,0.000000
+            6.881820,52.232736,0.000000
+            6.886674,52.233836,0.000000
+            6.890186,52.228399,0.000000
+            6.880703,52.226321,0.000000
+            6.869382,52.230669,0.000000
+            6.870981,52.232109,0.000000
+            6.870472,52.233260,0.000000
+            6.873764,52.234105,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

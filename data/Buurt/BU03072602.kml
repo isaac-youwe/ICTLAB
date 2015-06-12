@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03072602 Eindweg en Landweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.430964,52.193505,0.000000
+            5.432190,52.191609,0.000000
+            5.434013,52.192688,0.000000
+            5.437846,52.187417,0.000000
+            5.436721,52.184827,0.000000
+            5.436443,52.184907,0.000000
+            5.435890,52.186684,0.000000
+            5.432508,52.189717,0.000000
+            5.430437,52.190567,0.000000
+            5.425838,52.189761,0.000000
+            5.425835,52.190363,0.000000
+            5.425753,52.192236,0.000000
+            5.430964,52.193505,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

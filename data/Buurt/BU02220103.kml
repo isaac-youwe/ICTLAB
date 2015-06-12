@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220103 Het Loo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.287730,51.967819,0.000000
+            6.286301,51.967207,0.000000
+            6.282076,51.969700,0.000000
+            6.284247,51.970813,0.000000
+            6.286896,51.973120,0.000000
+            6.289721,51.971368,0.000000
+            6.292585,51.970801,0.000000
+            6.287730,51.967819,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

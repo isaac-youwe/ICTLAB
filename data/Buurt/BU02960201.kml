@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02960201 Buurt Bergharen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.667238,51.864311,0.000000
+            5.680644,51.855015,0.000000
+            5.678527,51.852267,0.000000
+            5.672686,51.855288,0.000000
+            5.661713,51.852062,0.000000
+            5.656481,51.855816,0.000000
+            5.653255,51.853646,0.000000
+            5.646164,51.854809,0.000000
+            5.643998,51.859678,0.000000
+            5.639294,51.862749,0.000000
+            5.639589,51.864805,0.000000
+            5.641321,51.865624,0.000000
+            5.662069,51.865245,0.000000
+            5.667238,51.864311,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

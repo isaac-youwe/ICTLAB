@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000804 Kruiszwin</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.743973,52.886289,0.000000
+            4.743687,52.885540,0.000000
+            4.738105,52.886046,0.000000
+            4.734860,52.884995,0.000000
+            4.735373,52.885577,0.000000
+            4.737922,52.888581,0.000000
+            4.736798,52.891538,0.000000
+            4.739970,52.892829,0.000000
+            4.745820,52.892191,0.000000
+            4.743766,52.888354,0.000000
+            4.743973,52.886289,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

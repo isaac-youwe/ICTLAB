@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07700500 Knegsel-kom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.359595,51.398634,0.000000
+            5.354030,51.397009,0.000000
+            5.353450,51.395810,0.000000
+            5.343196,51.397873,0.000000
+            5.341091,51.397189,0.000000
+            5.339514,51.399156,0.000000
+            5.343454,51.401498,0.000000
+            5.348094,51.402578,0.000000
+            5.358956,51.401804,0.000000
+            5.359595,51.398634,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

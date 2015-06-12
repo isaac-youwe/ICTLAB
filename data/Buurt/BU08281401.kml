@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08281401 Ravenstein De Kolk en Schonenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.651198,51.794831,0.000000
+            5.650180,51.791841,0.000000
+            5.648827,51.792359,0.000000
+            5.646936,51.793344,0.000000
+            5.639210,51.792683,0.000000
+            5.636873,51.794612,0.000000
+            5.645483,51.797881,0.000000
+            5.651198,51.794831,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

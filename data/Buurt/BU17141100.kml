@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17141100 Hoofdplaat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.661945,51.368174,0.000000
+            3.661144,51.365541,0.000000
+            3.656854,51.366846,0.000000
+            3.657838,51.368354,0.000000
+            3.654586,51.369213,0.000000
+            3.655290,51.370615,0.000000
+            3.651735,51.373796,0.000000
+            3.651922,51.374554,0.000000
+            3.667567,51.373012,0.000000
+            3.664923,51.368457,0.000000
+            3.661945,51.368174,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

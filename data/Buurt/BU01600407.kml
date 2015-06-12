@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600407 Verspreide huizen Kloosterhaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.706094,52.520872,0.000000
+            6.697687,52.485906,0.000000
+            6.693271,52.485955,0.000000
+            6.673773,52.493042,0.000000
+            6.672358,52.494846,0.000000
+            6.678366,52.497810,0.000000
+            6.675594,52.501553,0.000000
+            6.674022,52.501606,0.000000
+            6.665549,52.497858,0.000000
+            6.662203,52.497947,0.000000
+            6.658956,52.495260,0.000000
+            6.645591,52.503887,0.000000
+            6.677134,52.512462,0.000000
+            6.676733,52.514385,0.000000
+            6.686590,52.530398,0.000000
+            6.690340,52.532953,0.000000
+            6.694606,52.534618,0.000000
+            6.694707,52.534482,0.000000
+            6.706094,52.520872,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

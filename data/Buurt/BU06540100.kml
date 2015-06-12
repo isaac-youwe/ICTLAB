@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06540100 Heinkenszand</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.817791,51.483004,0.000000
+            3.824811,51.476275,0.000000
+            3.826670,51.473915,0.000000
+            3.821980,51.471536,0.000000
+            3.820811,51.466559,0.000000
+            3.817299,51.465538,0.000000
+            3.807421,51.465076,0.000000
+            3.804919,51.470534,0.000000
+            3.804923,51.474076,0.000000
+            3.806778,51.475914,0.000000
+            3.804201,51.477117,0.000000
+            3.804482,51.478411,0.000000
+            3.810364,51.478247,0.000000
+            3.810235,51.476772,0.000000
+            3.813709,51.477338,0.000000
+            3.814617,51.478155,0.000000
+            3.810626,51.482907,0.000000
+            3.817698,51.483003,0.000000
+            3.817791,51.483004,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

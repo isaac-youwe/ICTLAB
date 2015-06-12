@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09940201 Schoonbron</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.877107,50.846117,0.000000
+            5.875238,50.846052,0.000000
+            5.876662,50.849090,0.000000
+            5.875140,50.852953,0.000000
+            5.876694,50.855194,0.000000
+            5.877203,50.855138,0.000000
+            5.884256,50.850613,0.000000
+            5.888477,50.846999,0.000000
+            5.885637,50.847011,0.000000
+            5.881449,50.846587,0.000000
+            5.877108,50.846148,0.000000
+            5.877107,50.846117,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

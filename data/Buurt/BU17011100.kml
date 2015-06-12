@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17011100 Vledder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.213576,52.851381,0.000000
+            6.204316,52.849892,0.000000
+            6.197832,52.851818,0.000000
+            6.197987,52.853386,0.000000
+            6.201581,52.855714,0.000000
+            6.202742,52.858893,0.000000
+            6.198799,52.859104,0.000000
+            6.199999,52.859993,0.000000
+            6.205719,52.861575,0.000000
+            6.209141,52.861737,0.000000
+            6.214372,52.859727,0.000000
+            6.220859,52.859334,0.000000
+            6.218975,52.855715,0.000000
+            6.213175,52.854711,0.000000
+            6.213576,52.851381,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

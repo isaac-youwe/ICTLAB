@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180581 Verspreide huizen Tiendeveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.535684,52.768040,0.000000
+            6.537095,52.765329,0.000000
+            6.566578,52.765935,0.000000
+            6.565573,52.763693,0.000000
+            6.562064,52.756996,0.000000
+            6.561844,52.756457,0.000000
+            6.557309,52.745358,0.000000
+            6.557664,52.745233,0.000000
+            6.553834,52.736826,0.000000
+            6.530049,52.738291,0.000000
+            6.526359,52.743508,0.000000
+            6.513088,52.761919,0.000000
+            6.513298,52.761962,0.000000
+            6.513298,52.761961,0.000000
+            6.535684,52.768040,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.538982,52.750733,0.000000
+            6.542113,52.746651,0.000000
+            6.540398,52.746828,0.000000
+            6.539867,52.744215,0.000000
+            6.541782,52.743814,0.000000
+            6.541420,52.740378,0.000000
+            6.543460,52.740125,0.000000
+            6.544188,52.744080,0.000000
+            6.546528,52.745983,0.000000
+            6.547331,52.750659,0.000000
+            6.540870,52.751216,0.000000
+            6.538982,52.750733,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

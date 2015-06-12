@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03210116 Rijsbrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.184517,52.033696,0.000000
+            5.184191,52.033293,0.000000
+            5.183712,52.032808,0.000000
+            5.181899,52.033524,0.000000
+            5.181332,52.032795,0.000000
+            5.178969,52.032966,0.000000
+            5.177388,52.037353,0.000000
+            5.184141,52.041055,0.000000
+            5.184921,52.040688,0.000000
+            5.184565,52.036423,0.000000
+            5.184383,52.035448,0.000000
+            5.184517,52.033696,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

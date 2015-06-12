@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05850503 Schenkeldijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.592431,51.750780,0.000000
+            4.604611,51.741986,0.000000
+            4.615138,51.747572,0.000000
+            4.616522,51.746726,0.000000
+            4.604812,51.739841,0.000000
+            4.602350,51.740836,0.000000
+            4.592695,51.747538,0.000000
+            4.592088,51.747959,0.000000
+            4.592041,51.750656,0.000000
+            4.592431,51.750780,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

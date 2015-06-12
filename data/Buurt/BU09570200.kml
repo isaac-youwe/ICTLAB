@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09570200 Kapel-Muggenbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.999736,51.177522,0.000000
+            6.000667,51.174380,0.000000
+            5.994607,51.173594,0.000000
+            5.993984,51.172830,0.000000
+            5.989415,51.172594,0.000000
+            5.989280,51.172856,0.000000
+            5.987897,51.176460,0.000000
+            5.983594,51.175583,0.000000
+            5.983588,51.175579,0.000000
+            5.983243,51.175886,0.000000
+            5.988599,51.180305,0.000000
+            5.991049,51.185500,0.000000
+            5.992219,51.187695,0.000000
+            5.994069,51.184890,0.000000
+            6.000774,51.182414,0.000000
+            6.002879,51.180736,0.000000
+            5.999736,51.177522,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

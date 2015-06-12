@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06940100 Langerak-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.882955,51.938412,0.000000
+            4.884507,51.935397,0.000000
+            4.879955,51.934824,0.000000
+            4.881835,51.931165,0.000000
+            4.874791,51.930084,0.000000
+            4.872418,51.934287,0.000000
+            4.873296,51.935848,0.000000
+            4.872373,51.938300,0.000000
+            4.878166,51.937432,0.000000
+            4.882519,51.938350,0.000000
+            4.882955,51.938412,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

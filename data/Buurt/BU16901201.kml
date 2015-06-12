@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16901201 Koekange Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.309443,52.716299,0.000000
+            6.311068,52.714504,0.000000
+            6.312965,52.715233,0.000000
+            6.316905,52.709949,0.000000
+            6.318150,52.710354,0.000000
+            6.319858,52.708209,0.000000
+            6.317992,52.707532,0.000000
+            6.318412,52.705608,0.000000
+            6.320245,52.703300,0.000000
+            6.315399,52.701865,0.000000
+            6.311820,52.709517,0.000000
+            6.305042,52.714773,0.000000
+            6.309443,52.716299,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

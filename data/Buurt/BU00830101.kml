@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00830101 Deinum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.731415,53.188964,0.000000
+            5.722334,53.188967,0.000000
+            5.718655,53.193192,0.000000
+            5.724142,53.194669,0.000000
+            5.725220,53.194747,0.000000
+            5.725349,53.193897,0.000000
+            5.729303,53.193341,0.000000
+            5.728189,53.191569,0.000000
+            5.734049,53.191263,0.000000
+            5.735527,53.190175,0.000000
+            5.731415,53.188964,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

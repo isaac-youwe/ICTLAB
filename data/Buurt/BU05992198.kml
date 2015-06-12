@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05992198 Waalhaven-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.452346,51.870913,0.000000
+            4.440318,51.866462,0.000000
+            4.437910,51.867915,0.000000
+            4.437482,51.868173,0.000000
+            4.434559,51.869048,0.000000
+            4.429235,51.870198,0.000000
+            4.428260,51.870408,0.000000
+            4.432081,51.878181,0.000000
+            4.438532,51.879853,0.000000
+            4.452701,51.878209,0.000000
+            4.453674,51.878046,0.000000
+            4.454963,51.871218,0.000000
+            4.452346,51.870913,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

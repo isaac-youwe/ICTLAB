@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00090005 Achter-Thesinge en Bovenrijge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.681767,53.260612,0.000000
+            6.680088,53.259309,0.000000
+            6.676211,53.260464,0.000000
+            6.662411,53.269673,0.000000
+            6.657428,53.274283,0.000000
+            6.654341,53.279140,0.000000
+            6.654142,53.282170,0.000000
+            6.655741,53.283554,0.000000
+            6.659059,53.283427,0.000000
+            6.661512,53.281026,0.000000
+            6.665433,53.273460,0.000000
+            6.680894,53.262398,0.000000
+            6.681767,53.260612,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

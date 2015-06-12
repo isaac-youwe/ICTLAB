@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510201 Haskerdijken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.878632,52.997607,0.000000
+            5.881303,52.995889,0.000000
+            5.884602,52.996983,0.000000
+            5.889220,52.997001,0.000000
+            5.889202,52.995412,0.000000
+            5.886223,52.995424,0.000000
+            5.883679,52.993157,0.000000
+            5.878471,52.991488,0.000000
+            5.869717,52.998064,0.000000
+            5.876743,53.000500,0.000000
+            5.878632,52.997607,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03270100 Hamersveld-Oud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.431474,52.138942,0.000000
+            5.431183,52.136988,0.000000
+            5.427016,52.136027,0.000000
+            5.426966,52.133975,0.000000
+            5.422766,52.134471,0.000000
+            5.421669,52.137256,0.000000
+            5.417937,52.137449,0.000000
+            5.416110,52.136515,0.000000
+            5.413716,52.136510,0.000000
+            5.413718,52.137275,0.000000
+            5.417119,52.138284,0.000000
+            5.421623,52.138334,0.000000
+            5.426595,52.140087,0.000000
+            5.431474,52.138942,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

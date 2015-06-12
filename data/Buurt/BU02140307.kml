@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140307 Verspreide huizen De Mars en Marsdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.561795,51.954585,0.000000
+            5.585058,51.950953,0.000000
+            5.586513,51.950950,0.000000
+            5.583588,51.947359,0.000000
+            5.576296,51.942877,0.000000
+            5.573365,51.941676,0.000000
+            5.571924,51.941086,0.000000
+            5.567561,51.941092,0.000000
+            5.560299,51.943800,0.000000
+            5.550110,51.942017,0.000000
+            5.539935,51.943828,0.000000
+            5.534643,51.943018,0.000000
+            5.534030,51.943305,0.000000
+            5.529991,51.945194,0.000000
+            5.523788,51.948850,0.000000
+            5.524404,51.965231,0.000000
+            5.526965,51.969907,0.000000
+            5.538562,51.968101,0.000000
+            5.541467,51.966300,0.000000
+            5.547265,51.959999,0.000000
+            5.553076,51.957295,0.000000
+            5.561795,51.954585,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

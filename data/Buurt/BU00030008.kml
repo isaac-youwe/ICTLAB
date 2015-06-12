@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00030008 Verspreide huizen ten zuiden van Eemskanaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.884292,53.297185,0.000000
+            6.860207,53.294786,0.000000
+            6.860268,53.296583,0.000000
+            6.851271,53.296693,0.000000
+            6.846559,53.290459,0.000000
+            6.837809,53.290565,0.000000
+            6.837563,53.290568,0.000000
+            6.828596,53.291575,0.000000
+            6.825807,53.297899,0.000000
+            6.816720,53.295312,0.000000
+            6.814277,53.297604,0.000000
+            6.827409,53.301896,0.000000
+            6.870417,53.309059,0.000000
+            6.884791,53.311562,0.000000
+            6.884792,53.311559,0.000000
+            6.887583,53.309816,0.000000
+            6.887729,53.309725,0.000000
+            6.887323,53.298046,0.000000
+            6.884292,53.297185,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

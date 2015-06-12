@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02690100 Wezep-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.988310,52.467410,0.000000
+            5.992695,52.463923,0.000000
+            5.995771,52.465095,0.000000
+            6.001226,52.463804,0.000000
+            6.007524,52.457928,0.000000
+            6.002840,52.453935,0.000000
+            6.008368,52.447089,0.000000
+            6.002425,52.445530,0.000000
+            5.996867,52.449459,0.000000
+            5.995531,52.450768,0.000000
+            5.994113,52.458369,0.000000
+            5.986550,52.466266,0.000000
+            5.988310,52.467410,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

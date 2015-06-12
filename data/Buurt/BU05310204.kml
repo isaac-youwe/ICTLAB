@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05310204 Ambachtszone</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.634519,51.828001,0.000000
+            4.632463,51.826576,0.000000
+            4.632288,51.826651,0.000000
+            4.622547,51.830868,0.000000
+            4.622125,51.830995,0.000000
+            4.614009,51.833443,0.000000
+            4.614069,51.833494,0.000000
+            4.618788,51.838744,0.000000
+            4.623846,51.836711,0.000000
+            4.627735,51.834806,0.000000
+            4.636997,51.832323,0.000000
+            4.634519,51.828001,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

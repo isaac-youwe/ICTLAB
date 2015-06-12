@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02630400 Rossum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.332269,51.798556,0.000000
+            5.329235,51.797215,0.000000
+            5.325598,51.799020,0.000000
+            5.325253,51.801955,0.000000
+            5.327035,51.802736,0.000000
+            5.324676,51.804871,0.000000
+            5.324614,51.806254,0.000000
+            5.333296,51.810203,0.000000
+            5.333543,51.809974,0.000000
+            5.340799,51.805482,0.000000
+            5.346600,51.804586,0.000000
+            5.347081,51.804526,0.000000
+            5.347064,51.804261,0.000000
+            5.346698,51.799258,0.000000
+            5.337479,51.799170,0.000000
+            5.332269,51.798556,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

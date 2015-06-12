@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990515 Agniesebuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.482706,51.929213,0.000000
+            4.479896,51.925900,0.000000
+            4.476424,51.926248,0.000000
+            4.469296,51.930869,0.000000
+            4.469544,51.931074,0.000000
+            4.470882,51.932051,0.000000
+            4.472551,51.933115,0.000000
+            4.482706,51.929213,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

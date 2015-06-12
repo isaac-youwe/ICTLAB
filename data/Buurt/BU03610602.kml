@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610602 De Horn-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.773033,52.663110,0.000000
+            4.768835,52.656022,0.000000
+            4.763291,52.657758,0.000000
+            4.759705,52.657544,0.000000
+            4.758673,52.659648,0.000000
+            4.760572,52.661152,0.000000
+            4.762709,52.660571,0.000000
+            4.765303,52.660964,0.000000
+            4.764660,52.662948,0.000000
+            4.769959,52.665061,0.000000
+            4.773033,52.663110,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08560117 Eikenheuvel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.613242,51.637782,0.000000
+            5.611056,51.637568,0.000000
+            5.605544,51.640432,0.000000
+            5.602625,51.643182,0.000000
+            5.601828,51.646241,0.000000
+            5.595548,51.649140,0.000000
+            5.599424,51.652123,0.000000
+            5.602993,51.651442,0.000000
+            5.608734,51.647722,0.000000
+            5.616074,51.647642,0.000000
+            5.616411,51.646844,0.000000
+            5.613276,51.642550,0.000000
+            5.613251,51.639048,0.000000
+            5.613242,51.637782,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

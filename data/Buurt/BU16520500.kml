@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16520500 Milheeze</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.785356,51.502150,0.000000
+            5.784280,51.500244,0.000000
+            5.779237,51.500363,0.000000
+            5.779061,51.497749,0.000000
+            5.777177,51.497731,0.000000
+            5.776309,51.499907,0.000000
+            5.771949,51.500741,0.000000
+            5.774010,51.504007,0.000000
+            5.790430,51.508053,0.000000
+            5.788644,51.502395,0.000000
+            5.785356,51.502150,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

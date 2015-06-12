@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01190008 Bedrijvenpark Blankenstein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.208773,52.697189,0.000000
+            6.207163,52.693239,0.000000
+            6.199125,52.695055,0.000000
+            6.199416,52.696045,0.000000
+            6.199738,52.697151,0.000000
+            6.201943,52.699340,0.000000
+            6.208501,52.701323,0.000000
+            6.208773,52.697189,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

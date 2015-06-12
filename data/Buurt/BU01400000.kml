@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01400000 Wommels</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.587742,53.104595,0.000000
+            5.585007,53.102539,0.000000
+            5.582223,53.103090,0.000000
+            5.578849,53.105674,0.000000
+            5.582497,53.110432,0.000000
+            5.588097,53.112620,0.000000
+            5.589846,53.115016,0.000000
+            5.593895,53.115066,0.000000
+            5.599596,53.110000,0.000000
+            5.599342,53.108570,0.000000
+            5.596415,53.104909,0.000000
+            5.587742,53.104595,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

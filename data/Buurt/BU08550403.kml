@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550403 Vlashof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.090112,51.591961,0.000000
+            5.088850,51.587803,0.000000
+            5.086220,51.588148,0.000000
+            5.084879,51.587475,0.000000
+            5.082168,51.581463,0.000000
+            5.076171,51.582640,0.000000
+            5.079947,51.587707,0.000000
+            5.081968,51.592345,0.000000
+            5.081662,51.593990,0.000000
+            5.090112,51.591961,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

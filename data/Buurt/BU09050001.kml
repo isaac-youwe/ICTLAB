@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09050001 Mariadorp-Beezepool</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.726893,50.773776,0.000000
+            5.722807,50.770066,0.000000
+            5.719303,50.771272,0.000000
+            5.718192,50.772958,0.000000
+            5.711195,50.774018,0.000000
+            5.715314,50.782456,0.000000
+            5.718396,50.782350,0.000000
+            5.719772,50.779214,0.000000
+            5.725658,50.778979,0.000000
+            5.728849,50.778100,0.000000
+            5.726893,50.773776,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

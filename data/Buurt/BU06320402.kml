@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320402 Mijzijde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.889038,52.103315,0.000000
+            4.883453,52.103060,0.000000
+            4.880186,52.105319,0.000000
+            4.877195,52.120335,0.000000
+            4.880208,52.132925,0.000000
+            4.883862,52.137754,0.000000
+            4.884371,52.141758,0.000000
+            4.878424,52.142573,0.000000
+            4.877489,52.144583,0.000000
+            4.877778,52.146225,0.000000
+            4.884077,52.147681,0.000000
+            4.888611,52.142660,0.000000
+            4.889239,52.140545,0.000000
+            4.888915,52.136594,0.000000
+            4.885802,52.133300,0.000000
+            4.886028,52.129691,0.000000
+            4.884329,52.123243,0.000000
+            4.884915,52.114911,0.000000
+            4.889038,52.103315,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

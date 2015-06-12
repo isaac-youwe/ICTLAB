@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01095064 Wezuperbrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.709972,52.846190,0.000000
+            6.719221,52.842773,0.000000
+            6.721453,52.844398,0.000000
+            6.723658,52.843715,0.000000
+            6.722048,52.841958,0.000000
+            6.730296,52.840923,0.000000
+            6.729090,52.838674,0.000000
+            6.720870,52.839772,0.000000
+            6.718195,52.827393,0.000000
+            6.714854,52.827857,0.000000
+            6.717826,52.840092,0.000000
+            6.709585,52.843204,0.000000
+            6.708611,52.842663,0.000000
+            6.706096,52.843415,0.000000
+            6.709972,52.846190,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

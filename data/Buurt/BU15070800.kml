@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15070800 Grubbenvorst-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.151185,51.415803,0.000000
+            6.149466,51.413584,0.000000
+            6.148487,51.413788,0.000000
+            6.149468,51.416560,0.000000
+            6.149506,51.418072,0.000000
+            6.143703,51.420784,0.000000
+            6.136703,51.422674,0.000000
+            6.137782,51.424030,0.000000
+            6.140487,51.422775,0.000000
+            6.149802,51.422672,0.000000
+            6.150510,51.420158,0.000000
+            6.151393,51.420080,0.000000
+            6.151185,51.415803,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

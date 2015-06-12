@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08990438 Brandenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.016185,50.944366,0.000000
+            6.018895,50.934462,0.000000
+            6.012138,50.926929,0.000000
+            5.997705,50.937393,0.000000
+            5.998819,50.938112,0.000000
+            6.007375,50.936545,0.000000
+            6.011972,50.938487,0.000000
+            6.014200,50.940288,0.000000
+            6.006918,50.944367,0.000000
+            6.009543,50.945134,0.000000
+            6.016148,50.944462,0.000000
+            6.016185,50.944366,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

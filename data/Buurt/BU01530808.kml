@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530808 Eekmaat West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.957077,52.213707,0.000000
+            6.955990,52.209326,0.000000
+            6.938913,52.213726,0.000000
+            6.939419,52.217506,0.000000
+            6.955721,52.216398,0.000000
+            6.959173,52.216147,0.000000
+            6.959000,52.214372,0.000000
+            6.957077,52.213707,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

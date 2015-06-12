@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940107 Hoofddorp-Pax-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.685585,52.300794,0.000000
+            4.680162,52.296998,0.000000
+            4.674064,52.300345,0.000000
+            4.679977,52.303740,0.000000
+            4.679890,52.308062,0.000000
+            4.683050,52.310110,0.000000
+            4.685057,52.304785,0.000000
+            4.683652,52.302307,0.000000
+            4.685585,52.300794,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830155 Hoge Woerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.213527,51.998362,0.000000
+            4.210409,51.998057,0.000000
+            4.207782,52.000064,0.000000
+            4.204631,52.004892,0.000000
+            4.212952,52.008303,0.000000
+            4.211951,52.005414,0.000000
+            4.213879,52.003715,0.000000
+            4.218505,52.001161,0.000000
+            4.215185,51.999185,0.000000
+            4.213527,51.998362,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

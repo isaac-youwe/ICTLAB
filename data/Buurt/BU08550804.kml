@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550804 Campenhoef</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.002075,51.578114,0.000000
+            5.002448,51.576569,0.000000
+            5.005248,51.577220,0.000000
+            5.007030,51.576711,0.000000
+            5.005282,51.571833,0.000000
+            4.993431,51.573615,0.000000
+            4.995481,51.579989,0.000000
+            5.002075,51.578114,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

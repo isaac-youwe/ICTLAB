@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060105 De Lariks-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.539755,52.996285,0.000000
+            6.539538,52.994697,0.000000
+            6.532488,52.998205,0.000000
+            6.539857,53.002389,0.000000
+            6.541738,53.001332,0.000000
+            6.542316,52.999976,0.000000
+            6.538334,52.997610,0.000000
+            6.539755,52.996285,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990327 Oud-Mathenesse</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.429747,51.916359,0.000000
+            4.431166,51.913941,0.000000
+            4.430154,51.912962,0.000000
+            4.413353,51.913913,0.000000
+            4.415699,51.916154,0.000000
+            4.416107,51.916543,0.000000
+            4.416088,51.917442,0.000000
+            4.416114,51.917493,0.000000
+            4.417483,51.920151,0.000000
+            4.417366,51.920425,0.000000
+            4.436374,51.921912,0.000000
+            4.430230,51.918457,0.000000
+            4.429747,51.916359,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.424037,51.914103,0.000000
+            4.428589,51.913825,0.000000
+            4.425818,51.916079,0.000000
+            4.424037,51.914103,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140006 Verspreide huizen poldergebied Buurmalsen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.314433,51.905194,0.000000
+            5.312865,51.901206,0.000000
+            5.316024,51.899781,0.000000
+            5.312721,51.897332,0.000000
+            5.305580,51.896411,0.000000
+            5.297103,51.901643,0.000000
+            5.295653,51.899844,0.000000
+            5.292741,51.902539,0.000000
+            5.292462,51.902804,0.000000
+            5.273804,51.920501,0.000000
+            5.285430,51.922309,0.000000
+            5.285463,51.922453,0.000000
+            5.291171,51.919348,0.000000
+            5.300152,51.918228,0.000000
+            5.303789,51.916762,0.000000
+            5.312695,51.910046,0.000000
+            5.313301,51.907553,0.000000
+            5.311798,51.905701,0.000000
+            5.314433,51.905194,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

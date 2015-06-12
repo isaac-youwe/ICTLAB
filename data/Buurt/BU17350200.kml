@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17350200 Markelo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.501683,52.241730,0.000000
+            6.501968,52.240353,0.000000
+            6.505765,52.240571,0.000000
+            6.508069,52.239837,0.000000
+            6.507379,52.228474,0.000000
+            6.504248,52.227147,0.000000
+            6.501854,52.227641,0.000000
+            6.499647,52.225526,0.000000
+            6.479278,52.235181,0.000000
+            6.476247,52.237880,0.000000
+            6.484140,52.240140,0.000000
+            6.496058,52.240752,0.000000
+            6.496800,52.241815,0.000000
+            6.499909,52.242295,0.000000
+            6.501683,52.241730,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

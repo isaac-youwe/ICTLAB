@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08990144 Treebeek-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.948986,50.939616,0.000000
+            5.949609,50.936176,0.000000
+            5.943386,50.936770,0.000000
+            5.943230,50.935344,0.000000
+            5.932117,50.932191,0.000000
+            5.932081,50.932206,0.000000
+            5.930680,50.934011,0.000000
+            5.930477,50.934206,0.000000
+            5.929993,50.934673,0.000000
+            5.930325,50.934765,0.000000
+            5.948868,50.939918,0.000000
+            5.948986,50.939616,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

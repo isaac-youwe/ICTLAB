@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05850003 Uitbreiding Dorp Heinenoord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.486849,51.825238,0.000000
+            4.483948,51.824740,0.000000
+            4.475654,51.825764,0.000000
+            4.475832,51.828914,0.000000
+            4.477951,51.828955,0.000000
+            4.487150,51.828668,0.000000
+            4.486849,51.825238,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

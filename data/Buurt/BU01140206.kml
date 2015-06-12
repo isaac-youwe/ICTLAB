@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140206 Oude Schuttingskanaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.009950,52.850330,0.000000
+            7.012287,52.848154,0.000000
+            7.015661,52.849474,0.000000
+            7.017796,52.847473,0.000000
+            7.012394,52.845509,0.000000
+            7.032358,52.824738,0.000000
+            7.033293,52.821804,0.000000
+            7.029842,52.821016,0.000000
+            7.029735,52.823269,0.000000
+            7.006029,52.847930,0.000000
+            7.006599,52.849020,0.000000
+            7.009950,52.850330,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

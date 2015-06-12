@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04910104 Provinciale weg De Hem en Hogedijk (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.830101,51.949233,0.000000
+            4.831552,51.939381,0.000000
+            4.829191,51.940295,0.000000
+            4.821734,51.938521,0.000000
+            4.820224,51.940308,0.000000
+            4.811825,51.937999,0.000000
+            4.811130,51.942121,0.000000
+            4.830101,51.949233,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

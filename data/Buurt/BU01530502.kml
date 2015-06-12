@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530502 Park Stokhorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.928952,52.226002,0.000000
+            6.928838,52.223765,0.000000
+            6.916767,52.224897,0.000000
+            6.918020,52.228024,0.000000
+            6.915839,52.230960,0.000000
+            6.918666,52.232257,0.000000
+            6.927302,52.232305,0.000000
+            6.924988,52.230816,0.000000
+            6.926999,52.228374,0.000000
+            6.928952,52.226002,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

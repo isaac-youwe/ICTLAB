@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130101 Verspreide huizen Empe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.144124,52.157088,0.000000
+            6.141322,52.154560,0.000000
+            6.139800,52.150974,0.000000
+            6.141216,52.148268,0.000000
+            6.144007,52.145633,0.000000
+            6.144840,52.144088,0.000000
+            6.143734,52.143847,0.000000
+            6.101249,52.138568,0.000000
+            6.095213,52.136598,0.000000
+            6.093382,52.137829,0.000000
+            6.077669,52.132762,0.000000
+            6.072686,52.135417,0.000000
+            6.078233,52.138765,0.000000
+            6.076855,52.144167,0.000000
+            6.104745,52.152091,0.000000
+            6.139921,52.158164,0.000000
+            6.140570,52.158555,0.000000
+            6.140868,52.158734,0.000000
+            6.144124,52.157088,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.133393,52.153596,0.000000
+            6.132802,52.151963,0.000000
+            6.136566,52.152094,0.000000
+            6.135998,52.152688,0.000000
+            6.140273,52.154553,0.000000
+            6.141550,52.156545,0.000000
+            6.139338,52.156293,0.000000
+            6.133393,52.153596,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01932110 Westenholte-Stins</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.056351,52.518099,0.000000
+            6.053933,52.516346,0.000000
+            6.051141,52.517732,0.000000
+            6.046536,52.514834,0.000000
+            6.043122,52.516593,0.000000
+            6.039725,52.520186,0.000000
+            6.039010,52.521765,0.000000
+            6.040226,52.523245,0.000000
+            6.053811,52.520745,0.000000
+            6.053672,52.518934,0.000000
+            6.056351,52.518099,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03420007 Pijnenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.262336,52.145720,0.000000
+            5.257123,52.144239,0.000000
+            5.257163,52.144314,0.000000
+            5.252835,52.154882,0.000000
+            5.252747,52.155096,0.000000
+            5.243930,52.170366,0.000000
+            5.248299,52.175765,0.000000
+            5.248413,52.175835,0.000000
+            5.285099,52.155774,0.000000
+            5.273593,52.149803,0.000000
+            5.262336,52.145720,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19550100 Beek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.196645,51.903124,0.000000
+            6.191775,51.902584,0.000000
+            6.185941,51.903425,0.000000
+            6.185287,51.907494,0.000000
+            6.187998,51.909512,0.000000
+            6.187190,51.911054,0.000000
+            6.190017,51.912351,0.000000
+            6.194829,51.910711,0.000000
+            6.194835,51.908689,0.000000
+            6.191590,51.906874,0.000000
+            6.191739,51.905918,0.000000
+            6.196645,51.903124,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08281300 Megen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.565150,51.817580,0.000000
+            5.562800,51.808365,0.000000
+            5.557889,51.808691,0.000000
+            5.558770,51.810611,0.000000
+            5.556821,51.815613,0.000000
+            5.553795,51.820807,0.000000
+            5.550882,51.822971,0.000000
+            5.551132,51.823356,0.000000
+            5.552331,51.824834,0.000000
+            5.552589,51.825152,0.000000
+            5.556948,51.826943,0.000000
+            5.566963,51.827815,0.000000
+            5.568314,51.823665,0.000000
+            5.565150,51.817580,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

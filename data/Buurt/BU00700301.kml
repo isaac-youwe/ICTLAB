@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700301 Hitzum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.525137,53.164979,0.000000
+            5.515374,53.164309,0.000000
+            5.513680,53.164795,0.000000
+            5.512928,53.166405,0.000000
+            5.515587,53.168085,0.000000
+            5.519214,53.168423,0.000000
+            5.522071,53.168185,0.000000
+            5.525414,53.166544,0.000000
+            5.525137,53.164979,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

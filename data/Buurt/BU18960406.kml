@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18960406 De Nieuwesluis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.080989,52.642674,0.000000
+            6.076001,52.635598,0.000000
+            6.072607,52.637290,0.000000
+            6.069289,52.637853,0.000000
+            6.069355,52.638518,0.000000
+            6.074832,52.640840,0.000000
+            6.077005,52.642550,0.000000
+            6.080989,52.642674,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

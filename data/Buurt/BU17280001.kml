@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17280001 Industrieterrein Bladel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.205170,51.365900,0.000000
+            5.206781,51.361580,0.000000
+            5.204774,51.361650,0.000000
+            5.206386,51.357072,0.000000
+            5.208569,51.357113,0.000000
+            5.208751,51.356317,0.000000
+            5.208546,51.353974,0.000000
+            5.200583,51.353965,0.000000
+            5.201657,51.356181,0.000000
+            5.191929,51.356188,0.000000
+            5.191907,51.361241,0.000000
+            5.191907,51.361375,0.000000
+            5.191900,51.362824,0.000000
+            5.197398,51.362632,0.000000
+            5.200591,51.365482,0.000000
+            5.205170,51.365900,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

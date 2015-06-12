@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07850812 De Boschkens-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.061258,51.534313,0.000000
+            5.061013,51.532746,0.000000
+            5.058930,51.532936,0.000000
+            5.056554,51.530421,0.000000
+            5.062232,51.529761,0.000000
+            5.061814,51.528596,0.000000
+            5.053084,51.529093,0.000000
+            5.052218,51.529931,0.000000
+            5.052815,51.529932,0.000000
+            5.051334,51.535322,0.000000
+            5.060230,51.536934,0.000000
+            5.059474,51.536603,0.000000
+            5.061258,51.534313,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

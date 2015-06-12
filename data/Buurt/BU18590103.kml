@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590103 Stichting Rekken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.743623,52.101009,0.000000
+            6.742700,52.099902,0.000000
+            6.736979,52.100619,0.000000
+            6.738853,52.103415,0.000000
+            6.742407,52.103432,0.000000
+            6.743623,52.101009,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.743841,52.106276,0.000000
+            6.742099,52.105609,0.000000
+            6.735008,52.107437,0.000000
+            6.737052,52.108779,0.000000
+            6.737132,52.111161,0.000000
+            6.735267,52.111382,0.000000
+            6.736557,52.116085,0.000000
+            6.733690,52.116334,0.000000
+            6.733941,52.117099,0.000000
+            6.751507,52.116435,0.000000
+            6.751703,52.114244,0.000000
+            6.754007,52.113365,0.000000
+            6.752600,52.111253,0.000000
+            6.747505,52.110463,0.000000
+            6.742377,52.108314,0.000000
+            6.743841,52.106276,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

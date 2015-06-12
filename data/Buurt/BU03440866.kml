@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440866 Rivierenwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.119151,52.073109,0.000000
+            5.113042,52.062577,0.000000
+            5.109421,52.076954,0.000000
+            5.114324,52.077586,0.000000
+            5.119157,52.079560,0.000000
+            5.119654,52.079748,0.000000
+            5.122335,52.078648,0.000000
+            5.119151,52.073109,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

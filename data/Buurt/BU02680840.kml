@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680840 t Acker</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.783406,51.841679,0.000000
+            5.786301,51.840771,0.000000
+            5.786566,51.840893,0.000000
+            5.791478,51.839434,0.000000
+            5.802563,51.838479,0.000000
+            5.803915,51.838333,0.000000
+            5.803473,51.836909,0.000000
+            5.796537,51.833385,0.000000
+            5.796313,51.829949,0.000000
+            5.793313,51.828167,0.000000
+            5.791510,51.832151,0.000000
+            5.789724,51.832419,0.000000
+            5.788278,51.831747,0.000000
+            5.774085,51.835294,0.000000
+            5.780763,51.843334,0.000000
+            5.782795,51.842062,0.000000
+            5.783406,51.841679,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

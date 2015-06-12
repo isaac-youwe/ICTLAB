@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07550006 Verspreide huizen Arendnest-Zijp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.704670,51.610526,0.000000
+            5.706353,51.605305,0.000000
+            5.709814,51.605802,0.000000
+            5.710053,51.603488,0.000000
+            5.716391,51.596523,0.000000
+            5.710620,51.594803,0.000000
+            5.696503,51.593901,0.000000
+            5.689360,51.595118,0.000000
+            5.682758,51.597508,0.000000
+            5.686258,51.599670,0.000000
+            5.689171,51.598745,0.000000
+            5.693521,51.599638,0.000000
+            5.689527,51.603203,0.000000
+            5.678691,51.604158,0.000000
+            5.678902,51.608233,0.000000
+            5.689204,51.608057,0.000000
+            5.704670,51.610526,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16550301 Oudenbosch-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.530476,51.595201,0.000000
+            4.531788,51.592190,0.000000
+            4.542552,51.593095,0.000000
+            4.538502,51.590641,0.000000
+            4.531772,51.586830,0.000000
+            4.526831,51.583882,0.000000
+            4.521680,51.588781,0.000000
+            4.524125,51.591611,0.000000
+            4.520761,51.594990,0.000000
+            4.520844,51.596033,0.000000
+            4.521341,51.596872,0.000000
+            4.525963,51.597809,0.000000
+            4.530476,51.595201,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02970008 Verspreide huizen Oostzijde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.281308,51.820726,0.000000
+            5.284217,51.817133,0.000000
+            5.282777,51.812637,0.000000
+            5.284242,51.806345,0.000000
+            5.284875,51.804978,0.000000
+            5.276240,51.798114,0.000000
+            5.266500,51.794784,0.000000
+            5.263312,51.807486,0.000000
+            5.264040,51.807497,0.000000
+            5.262509,51.817150,0.000000
+            5.251622,51.816181,0.000000
+            5.247595,51.815661,0.000000
+            5.242867,51.815051,0.000000
+            5.238144,51.813487,0.000000
+            5.237318,51.815132,0.000000
+            5.237807,51.815285,0.000000
+            5.246504,51.817093,0.000000
+            5.247126,51.817161,0.000000
+            5.279504,51.820686,0.000000
+            5.279857,51.820724,0.000000
+            5.281308,51.820726,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

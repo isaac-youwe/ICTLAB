@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17090600 Standdaarbuiten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.516043,51.618723,0.000000
+            4.525258,51.612705,0.000000
+            4.525150,51.612636,0.000000
+            4.519478,51.607200,0.000000
+            4.516591,51.607179,0.000000
+            4.516407,51.607120,0.000000
+            4.513731,51.606261,0.000000
+            4.513126,51.608861,0.000000
+            4.508197,51.610521,0.000000
+            4.504518,51.614190,0.000000
+            4.506871,51.617061,0.000000
+            4.509656,51.615381,0.000000
+            4.516043,51.618723,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

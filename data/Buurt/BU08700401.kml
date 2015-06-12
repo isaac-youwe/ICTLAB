@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08700401 Kern Hank</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.890741,51.741728,0.000000
+            4.894887,51.739071,0.000000
+            4.897840,51.740809,0.000000
+            4.905512,51.736273,0.000000
+            4.905857,51.734398,0.000000
+            4.897466,51.729315,0.000000
+            4.892538,51.725002,0.000000
+            4.887906,51.728164,0.000000
+            4.893466,51.728901,0.000000
+            4.891180,51.736678,0.000000
+            4.892755,51.737669,0.000000
+            4.890438,51.740214,0.000000
+            4.887301,51.741119,0.000000
+            4.891301,51.743038,0.000000
+            4.891881,51.742565,0.000000
+            4.890741,51.741728,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

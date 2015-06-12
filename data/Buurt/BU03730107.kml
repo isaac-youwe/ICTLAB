@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03730107 De Rekere</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.716120,52.670090,0.000000
+            4.712947,52.668624,0.000000
+            4.709572,52.669862,0.000000
+            4.704892,52.673361,0.000000
+            4.713699,52.675900,0.000000
+            4.714106,52.673479,0.000000
+            4.717819,52.671185,0.000000
+            4.716120,52.670090,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

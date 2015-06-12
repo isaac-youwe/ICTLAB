@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00650100 Driesum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.048753,53.294646,0.000000
+            6.046621,53.292976,0.000000
+            6.042024,53.293131,0.000000
+            6.041302,53.290521,0.000000
+            6.039752,53.290546,0.000000
+            6.040412,53.294383,0.000000
+            6.039344,53.299629,0.000000
+            6.040143,53.300697,0.000000
+            6.045358,53.301224,0.000000
+            6.056784,53.300401,0.000000
+            6.056548,53.298722,0.000000
+            6.048849,53.295924,0.000000
+            6.048753,53.294646,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

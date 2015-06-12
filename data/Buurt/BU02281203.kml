@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02281203 De Singels</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.649306,52.020563,0.000000
+            5.650370,52.016968,0.000000
+            5.650988,52.014690,0.000000
+            5.639374,52.016349,0.000000
+            5.636830,52.016972,0.000000
+            5.639410,52.020489,0.000000
+            5.647063,52.018732,0.000000
+            5.647949,52.020269,0.000000
+            5.649306,52.020563,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00400400 Overschild</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.793241,53.278260,0.000000
+            6.789087,53.277364,0.000000
+            6.787475,53.278148,0.000000
+            6.781344,53.279561,0.000000
+            6.779725,53.281522,0.000000
+            6.781538,53.285197,0.000000
+            6.787371,53.286727,0.000000
+            6.792636,53.285218,0.000000
+            6.794382,53.279576,0.000000
+            6.793241,53.278260,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

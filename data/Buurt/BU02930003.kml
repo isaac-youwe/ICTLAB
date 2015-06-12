@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02930003 De Leigraaf-De Steenderens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.988042,51.950483,0.000000
+            5.986702,51.946514,0.000000
+            5.978232,51.948087,0.000000
+            5.978943,51.952630,0.000000
+            5.982324,51.956473,0.000000
+            5.985286,51.955242,0.000000
+            5.985192,51.954992,0.000000
+            5.985144,51.951397,0.000000
+            5.988042,51.950483,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09360304 Bergenhuizen en Schey</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.838330,50.775716,0.000000
+            5.840705,50.771099,0.000000
+            5.832403,50.769927,0.000000
+            5.827496,50.770608,0.000000
+            5.821384,50.773337,0.000000
+            5.814013,50.772299,0.000000
+            5.807180,50.773300,0.000000
+            5.803648,50.774494,0.000000
+            5.809445,50.777915,0.000000
+            5.821340,50.781641,0.000000
+            5.825971,50.783877,0.000000
+            5.825375,50.785061,0.000000
+            5.826914,50.785663,0.000000
+            5.835375,50.778063,0.000000
+            5.838330,50.775716,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

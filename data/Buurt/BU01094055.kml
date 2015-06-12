@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01094055 Holsloot</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.787245,52.738641,0.000000
+            6.797011,52.733222,0.000000
+            6.799828,52.734827,0.000000
+            6.802270,52.733555,0.000000
+            6.803554,52.732870,0.000000
+            6.800823,52.731280,0.000000
+            6.813716,52.724124,0.000000
+            6.812088,52.722956,0.000000
+            6.810904,52.722280,0.000000
+            6.789059,52.734204,0.000000
+            6.787876,52.733316,0.000000
+            6.785582,52.734540,0.000000
+            6.784245,52.736616,0.000000
+            6.787245,52.738641,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

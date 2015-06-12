@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500501 Deltabuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.194426,52.253009,0.000000
+            6.190388,52.250607,0.000000
+            6.182488,52.252975,0.000000
+            6.184274,52.256017,0.000000
+            6.181126,52.256557,0.000000
+            6.180946,52.257972,0.000000
+            6.189051,52.256860,0.000000
+            6.192418,52.255144,0.000000
+            6.194426,52.253009,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

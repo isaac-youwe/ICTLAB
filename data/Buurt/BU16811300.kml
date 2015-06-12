@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16811300 Klijndijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.852779,52.838215,0.000000
+            6.867365,52.836194,0.000000
+            6.867526,52.834163,0.000000
+            6.858559,52.828714,0.000000
+            6.864561,52.817619,0.000000
+            6.861810,52.817119,0.000000
+            6.855502,52.827241,0.000000
+            6.848846,52.822949,0.000000
+            6.847910,52.823608,0.000000
+            6.855886,52.828670,0.000000
+            6.853302,52.831653,0.000000
+            6.851647,52.837342,0.000000
+            6.852779,52.838215,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.852779,52.838215,0.000000
+            6.851202,52.838068,0.000000
+            6.849772,52.842276,0.000000
+            6.856138,52.842401,0.000000
+            6.864110,52.841272,0.000000
+            6.863840,52.839462,0.000000
+            6.860749,52.838193,0.000000
+            6.852779,52.838215,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

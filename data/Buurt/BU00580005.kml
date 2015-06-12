@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580005 Dokkum Hoedemakerspolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.996244,53.320076,0.000000
+            5.989528,53.319129,0.000000
+            5.987326,53.323341,0.000000
+            5.987566,53.326439,0.000000
+            5.994635,53.325384,0.000000
+            5.996153,53.323795,0.000000
+            5.996244,53.320076,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

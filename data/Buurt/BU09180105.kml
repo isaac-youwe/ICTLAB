@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09180105 Egchel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.974068,51.299993,0.000000
+            5.966234,51.295347,0.000000
+            5.955097,51.299788,0.000000
+            5.923957,51.308839,0.000000
+            5.935273,51.313411,0.000000
+            5.942019,51.313563,0.000000
+            5.963581,51.316701,0.000000
+            5.967815,51.321710,0.000000
+            5.970325,51.321111,0.000000
+            5.976952,51.319762,0.000000
+            5.977878,51.318606,0.000000
+            5.976110,51.315739,0.000000
+            5.981431,51.311884,0.000000
+            5.975580,51.308768,0.000000
+            5.976773,51.305619,0.000000
+            5.974068,51.299993,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02750000 Dieren-Zuid beneden spoorlijn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.105689,52.030795,0.000000
+            6.106278,52.029225,0.000000
+            6.096370,52.033533,0.000000
+            6.098392,52.035371,0.000000
+            6.092568,52.038043,0.000000
+            6.101019,52.043219,0.000000
+            6.111041,52.051689,0.000000
+            6.116113,52.048585,0.000000
+            6.111791,52.045973,0.000000
+            6.110260,52.041488,0.000000
+            6.110371,52.041349,0.000000
+            6.105533,52.039350,0.000000
+            6.106774,52.033890,0.000000
+            6.105689,52.030795,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

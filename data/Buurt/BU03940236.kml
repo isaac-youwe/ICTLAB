@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940236 Nieuw-Vennep-Getsewoud-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.627172,52.273936,0.000000
+            4.622397,52.270599,0.000000
+            4.612408,52.276201,0.000000
+            4.623765,52.283580,0.000000
+            4.632908,52.277784,0.000000
+            4.631437,52.276913,0.000000
+            4.627172,52.273936,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

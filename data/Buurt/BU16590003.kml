@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16590003 Bedrijventerrein Bemmer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.638030,51.549430,0.000000
+            5.639670,51.546505,0.000000
+            5.639333,51.543013,0.000000
+            5.635920,51.543701,0.000000
+            5.634770,51.541414,0.000000
+            5.630513,51.540549,0.000000
+            5.624235,51.545856,0.000000
+            5.624874,51.546821,0.000000
+            5.629736,51.546789,0.000000
+            5.638030,51.549430,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

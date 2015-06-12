@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08700493 Aakvlaai</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.875198,51.732288,0.000000
+            4.875260,51.726831,0.000000
+            4.878138,51.726131,0.000000
+            4.875012,51.719871,0.000000
+            4.874829,51.719870,0.000000
+            4.864708,51.718926,0.000000
+            4.840325,51.713456,0.000000
+            4.840169,51.713421,0.000000
+            4.837286,51.712508,0.000000
+            4.840137,51.716117,0.000000
+            4.847265,51.725140,0.000000
+            4.847234,51.727750,0.000000
+            4.850035,51.727123,0.000000
+            4.849722,51.726111,0.000000
+            4.852000,51.726121,0.000000
+            4.858456,51.730597,0.000000
+            4.860565,51.731111,0.000000
+            4.861233,51.729700,0.000000
+            4.874057,51.732485,0.000000
+            4.875198,51.732288,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

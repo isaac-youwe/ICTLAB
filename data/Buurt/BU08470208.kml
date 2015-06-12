@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08470208 Verspreide huizen Sluis 1213</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.739940,51.371738,0.000000
+            5.740525,51.369858,0.000000
+            5.744831,51.370742,0.000000
+            5.744841,51.370744,0.000000
+            5.770385,51.333805,0.000000
+            5.760324,51.332039,0.000000
+            5.759575,51.331901,0.000000
+            5.746530,51.329494,0.000000
+            5.745952,51.329387,0.000000
+            5.745908,51.329379,0.000000
+            5.743652,51.348258,0.000000
+            5.739940,51.371738,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

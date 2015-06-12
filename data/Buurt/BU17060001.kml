@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17060001 Heikant, Meemortel, Bosch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.589822,51.257304,0.000000
+            5.586971,51.256148,0.000000
+            5.578247,51.261856,0.000000
+            5.584371,51.266268,0.000000
+            5.586881,51.267072,0.000000
+            5.586895,51.270307,0.000000
+            5.584034,51.271166,0.000000
+            5.585145,51.275855,0.000000
+            5.599805,51.275679,0.000000
+            5.599020,51.266985,0.000000
+            5.589822,51.257304,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

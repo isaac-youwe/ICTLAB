@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17010100 Wapse</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.278303,52.860054,0.000000
+            6.281629,52.855321,0.000000
+            6.265410,52.849447,0.000000
+            6.257563,52.849267,0.000000
+            6.250903,52.854092,0.000000
+            6.254126,52.857225,0.000000
+            6.256658,52.857259,0.000000
+            6.256698,52.856583,0.000000
+            6.264293,52.858604,0.000000
+            6.262794,52.860120,0.000000
+            6.266150,52.860847,0.000000
+            6.263377,52.864035,0.000000
+            6.266384,52.865621,0.000000
+            6.271641,52.864493,0.000000
+            6.278163,52.864201,0.000000
+            6.278303,52.860054,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340313 Sieradenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.301824,52.414432,0.000000
+            5.317462,52.410023,0.000000
+            5.306478,52.405304,0.000000
+            5.298958,52.412180,0.000000
+            5.296690,52.412727,0.000000
+            5.293067,52.411437,0.000000
+            5.290949,52.413443,0.000000
+            5.296478,52.414474,0.000000
+            5.301824,52.414432,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

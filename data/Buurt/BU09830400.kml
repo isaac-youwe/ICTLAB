@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830400 Centrum-Tegelen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.135615,51.349934,0.000000
+            6.139633,51.345506,0.000000
+            6.140912,51.345675,0.000000
+            6.141793,51.344861,0.000000
+            6.145442,51.340050,0.000000
+            6.139835,51.337214,0.000000
+            6.135219,51.333168,0.000000
+            6.134765,51.337454,0.000000
+            6.130432,51.336252,0.000000
+            6.130215,51.339740,0.000000
+            6.127781,51.341541,0.000000
+            6.126182,51.340902,0.000000
+            6.124687,51.341394,0.000000
+            6.126358,51.343564,0.000000
+            6.125427,51.344350,0.000000
+            6.135615,51.349934,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

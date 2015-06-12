@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830007 Meuleveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.142579,51.354070,0.000000
+            6.137854,51.351298,0.000000
+            6.133777,51.352998,0.000000
+            6.131115,51.356415,0.000000
+            6.137316,51.358976,0.000000
+            6.140826,51.360126,0.000000
+            6.145053,51.355209,0.000000
+            6.142579,51.354070,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02030000 Barneveld-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.590259,52.137602,0.000000
+            5.589469,52.137043,0.000000
+            5.585816,52.137477,0.000000
+            5.582413,52.137629,0.000000
+            5.581659,52.138383,0.000000
+            5.583186,52.140977,0.000000
+            5.586162,52.142017,0.000000
+            5.589298,52.141509,0.000000
+            5.590950,52.138909,0.000000
+            5.590259,52.137602,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09620100 Amstenrade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.932187,50.941196,0.000000
+            5.935001,50.938486,0.000000
+            5.927904,50.936731,0.000000
+            5.925058,50.939040,0.000000
+            5.917733,50.935733,0.000000
+            5.916812,50.938458,0.000000
+            5.914582,50.940260,0.000000
+            5.922700,50.945126,0.000000
+            5.938283,50.950010,0.000000
+            5.942244,50.949239,0.000000
+            5.941914,50.949085,0.000000
+            5.936520,50.946569,0.000000
+            5.932187,50.941196,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

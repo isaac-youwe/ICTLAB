@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02960105 Wijchen-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.704898,51.805105,0.000000
+            5.708827,51.803320,0.000000
+            5.714538,51.804750,0.000000
+            5.719691,51.804972,0.000000
+            5.729015,51.804359,0.000000
+            5.732273,51.800295,0.000000
+            5.735826,51.797844,0.000000
+            5.731348,51.795871,0.000000
+            5.727782,51.796485,0.000000
+            5.725280,51.796110,0.000000
+            5.723876,51.795067,0.000000
+            5.723992,51.793451,0.000000
+            5.714003,51.796412,0.000000
+            5.706755,51.795791,0.000000
+            5.706048,51.796185,0.000000
+            5.707973,51.797589,0.000000
+            5.705593,51.801300,0.000000
+            5.704898,51.805105,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

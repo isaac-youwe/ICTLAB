@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02030206 Verspreide huizen Kootwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.799707,52.194902,0.000000
+            5.812777,52.184967,0.000000
+            5.802465,52.176914,0.000000
+            5.809682,52.167000,0.000000
+            5.809537,52.151719,0.000000
+            5.784687,52.150907,0.000000
+            5.774465,52.151840,0.000000
+            5.762737,52.147383,0.000000
+            5.743749,52.148341,0.000000
+            5.738256,52.147935,0.000000
+            5.707417,52.165042,0.000000
+            5.711501,52.168393,0.000000
+            5.708925,52.170755,0.000000
+            5.708904,52.175528,0.000000
+            5.706709,52.175518,0.000000
+            5.706179,52.188886,0.000000
+            5.706254,52.190554,0.000000
+            5.750809,52.193749,0.000000
+            5.751661,52.194176,0.000000
+            5.792410,52.196725,0.000000
+            5.792414,52.196724,0.000000
+            5.799707,52.194902,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.767352,52.182969,0.000000
+            5.769280,52.182636,0.000000
+            5.773807,52.183934,0.000000
+            5.773275,52.188108,0.000000
+            5.767420,52.186107,0.000000
+            5.767352,52.182969,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

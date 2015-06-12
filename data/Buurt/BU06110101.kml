@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06110101 Oude Sluis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.444567,51.759700,0.000000
+            4.437992,51.757161,0.000000
+            4.439931,51.760340,0.000000
+            4.433910,51.767178,0.000000
+            4.438499,51.767330,0.000000
+            4.439681,51.764697,0.000000
+            4.445538,51.764362,0.000000
+            4.445617,51.761656,0.000000
+            4.447374,51.761284,0.000000
+            4.448164,51.760209,0.000000
+            4.444567,51.759700,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

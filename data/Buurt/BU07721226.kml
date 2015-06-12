@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721226 Sportpark Aalsterweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.483478,51.416542,0.000000
+            5.480592,51.405220,0.000000
+            5.480189,51.405248,0.000000
+            5.477758,51.405419,0.000000
+            5.476896,51.405370,0.000000
+            5.475181,51.409007,0.000000
+            5.474786,51.415207,0.000000
+            5.477253,51.417178,0.000000
+            5.483478,51.416542,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

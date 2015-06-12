@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03310003 Lopikerkapel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.050839,51.990935,0.000000
+            5.032943,51.984535,0.000000
+            5.031067,51.984273,0.000000
+            5.025810,51.986125,0.000000
+            5.023896,51.985871,0.000000
+            5.024428,51.989850,0.000000
+            5.029915,51.988098,0.000000
+            5.032309,51.988281,0.000000
+            5.041700,51.991743,0.000000
+            5.052188,51.997432,0.000000
+            5.052247,51.997386,0.000000
+            5.053710,51.996492,0.000000
+            5.053717,51.995593,0.000000
+            5.055186,51.993799,0.000000
+            5.055321,51.993749,0.000000
+            5.050839,51.990935,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721214 Tuindorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.499289,51.427424,0.000000
+            5.495281,51.425374,0.000000
+            5.489185,51.428767,0.000000
+            5.488958,51.430496,0.000000
+            5.493387,51.431979,0.000000
+            5.502800,51.431171,0.000000
+            5.501696,51.429068,0.000000
+            5.499289,51.427424,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

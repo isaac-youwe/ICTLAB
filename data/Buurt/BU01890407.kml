@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01890407 Verspreide huizen Enterveen en Elsslagen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.567888,52.294383,0.000000
+            6.568563,52.292767,0.000000
+            6.564117,52.292880,0.000000
+            6.563967,52.289614,0.000000
+            6.565850,52.284245,0.000000
+            6.553367,52.283938,0.000000
+            6.549644,52.287885,0.000000
+            6.552740,52.294148,0.000000
+            6.550279,52.312151,0.000000
+            6.550285,52.312356,0.000000
+            6.564313,52.309638,0.000000
+            6.564774,52.304837,0.000000
+            6.570907,52.303863,0.000000
+            6.571836,52.303005,0.000000
+            6.567888,52.294383,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

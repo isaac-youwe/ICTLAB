@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480508 Verspreide huizen Klutsdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.317205,51.551582,0.000000
+            4.315912,51.545277,0.000000
+            4.308661,51.547009,0.000000
+            4.307305,51.543400,0.000000
+            4.307378,51.543374,0.000000
+            4.306355,51.543479,0.000000
+            4.298165,51.544562,0.000000
+            4.297547,51.542958,0.000000
+            4.289797,51.543417,0.000000
+            4.284756,51.542783,0.000000
+            4.288579,51.551360,0.000000
+            4.288183,51.552709,0.000000
+            4.291036,51.555041,0.000000
+            4.294850,51.554093,0.000000
+            4.295542,51.554076,0.000000
+            4.317205,51.551582,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

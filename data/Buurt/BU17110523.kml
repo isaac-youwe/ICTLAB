@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110523 De Loop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.857906,51.114120,0.000000
+            5.861231,51.113503,0.000000
+            5.861821,51.113978,0.000000
+            5.867008,51.110689,0.000000
+            5.864547,51.107636,0.000000
+            5.863016,51.100026,0.000000
+            5.852287,51.100362,0.000000
+            5.854169,51.103508,0.000000
+            5.853475,51.104681,0.000000
+            5.849409,51.106523,0.000000
+            5.851104,51.108644,0.000000
+            5.851340,51.108762,0.000000
+            5.857135,51.116829,0.000000
+            5.857225,51.116941,0.000000
+            5.859052,51.116299,0.000000
+            5.857906,51.114120,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15090102 Netterden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.308949,51.849517,0.000000
+            6.308516,51.849387,0.000000
+            6.307199,51.854521,0.000000
+            6.308452,51.858602,0.000000
+            6.317527,51.858869,0.000000
+            6.317895,51.851244,0.000000
+            6.317694,51.851246,0.000000
+            6.308949,51.849517,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

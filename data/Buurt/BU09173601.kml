@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09173601 Welten-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.975634,50.874852,0.000000
+            5.976768,50.872699,0.000000
+            5.973940,50.873114,0.000000
+            5.969150,50.870585,0.000000
+            5.961014,50.869308,0.000000
+            5.954952,50.875815,0.000000
+            5.953077,50.877827,0.000000
+            5.960453,50.879661,0.000000
+            5.960906,50.881037,0.000000
+            5.967874,50.885808,0.000000
+            5.970943,50.883915,0.000000
+            5.973106,50.879387,0.000000
+            5.975634,50.874852,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

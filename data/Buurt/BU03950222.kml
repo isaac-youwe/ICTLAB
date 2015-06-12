@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03950222 Stroet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.765322,52.748906,0.000000
+            4.764488,52.746244,0.000000
+            4.761306,52.747227,0.000000
+            4.759195,52.750788,0.000000
+            4.756915,52.752044,0.000000
+            4.753729,52.752310,0.000000
+            4.751344,52.763445,0.000000
+            4.752960,52.763689,0.000000
+            4.753827,52.762450,0.000000
+            4.755630,52.762384,0.000000
+            4.757143,52.761386,0.000000
+            4.760101,52.756840,0.000000
+            4.765307,52.754926,0.000000
+            4.773226,52.753538,0.000000
+            4.770877,52.750555,0.000000
+            4.764075,52.749983,0.000000
+            4.763658,52.749535,0.000000
+            4.765322,52.748906,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06530300 Oudemirdum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.553227,52.854980,0.000000
+            5.555731,52.846159,0.000000
+            5.557529,52.845188,0.000000
+            5.546075,52.842664,0.000000
+            5.538305,52.842908,0.000000
+            5.528481,52.846051,0.000000
+            5.518046,52.852056,0.000000
+            5.521759,52.853655,0.000000
+            5.528769,52.852041,0.000000
+            5.540292,52.853408,0.000000
+            5.541897,52.854309,0.000000
+            5.542156,52.856057,0.000000
+            5.547675,52.858108,0.000000
+            5.553227,52.854980,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

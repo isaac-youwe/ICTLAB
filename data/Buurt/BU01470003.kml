@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01470003 t Wensink Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.763691,52.288283,0.000000
+            6.760267,52.287377,0.000000
+            6.756199,52.291142,0.000000
+            6.752382,52.294905,0.000000
+            6.755549,52.295728,0.000000
+            6.766119,52.294125,0.000000
+            6.767666,52.292336,0.000000
+            6.768858,52.290993,0.000000
+            6.763691,52.288283,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

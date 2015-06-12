@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07157400 Buitengebied Sas van Gent - Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.820829,51.249473,0.000000
+            3.811884,51.240147,0.000000
+            3.809095,51.235346,0.000000
+            3.806211,51.235545,0.000000
+            3.803924,51.232212,0.000000
+            3.799934,51.232599,0.000000
+            3.795427,51.237166,0.000000
+            3.788875,51.237445,0.000000
+            3.788603,51.245239,0.000000
+            3.792711,51.250690,0.000000
+            3.792837,51.250945,0.000000
+            3.804033,51.248348,0.000000
+            3.812623,51.251536,0.000000
+            3.820829,51.249473,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04530402 Saturnusbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.608605,52.453035,0.000000
+            4.602579,52.448512,0.000000
+            4.596605,52.450679,0.000000
+            4.598136,52.452204,0.000000
+            4.601806,52.455774,0.000000
+            4.603615,52.456308,0.000000
+            4.605897,52.456960,0.000000
+            4.608605,52.453035,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

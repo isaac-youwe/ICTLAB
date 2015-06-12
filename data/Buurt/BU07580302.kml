@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580302 Overakker</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.799987,51.569435,0.000000
+            4.804875,51.565700,0.000000
+            4.811683,51.566087,0.000000
+            4.811323,51.564802,0.000000
+            4.809458,51.564458,0.000000
+            4.807920,51.563025,0.000000
+            4.807822,51.559945,0.000000
+            4.805293,51.557277,0.000000
+            4.800884,51.557317,0.000000
+            4.797527,51.557281,0.000000
+            4.793980,51.555497,0.000000
+            4.793040,51.556924,0.000000
+            4.793730,51.567668,0.000000
+            4.792512,51.569668,0.000000
+            4.794859,51.570986,0.000000
+            4.799987,51.569435,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

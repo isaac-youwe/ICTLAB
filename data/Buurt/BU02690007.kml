@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02690007 Verspreide huizen polder Oldebroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.947144,52.465006,0.000000
+            5.924114,52.455792,0.000000
+            5.912694,52.454050,0.000000
+            5.902541,52.450834,0.000000
+            5.884699,52.443748,0.000000
+            5.886256,52.442548,0.000000
+            5.876889,52.439191,0.000000
+            5.876552,52.439470,0.000000
+            5.872622,52.442717,0.000000
+            5.871151,52.442723,0.000000
+            5.869690,52.443627,0.000000
+            5.869692,52.443818,0.000000
+            5.869706,52.445108,0.000000
+            5.869709,52.445383,0.000000
+            5.902195,52.458604,0.000000
+            5.904442,52.456889,0.000000
+            5.939712,52.471497,0.000000
+            5.947144,52.465006,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

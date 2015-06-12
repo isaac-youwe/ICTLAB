@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340303 Seizoenenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.293498,52.400541,0.000000
+            5.282620,52.396471,0.000000
+            5.279744,52.398784,0.000000
+            5.273800,52.404086,0.000000
+            5.269145,52.407777,0.000000
+            5.280948,52.411036,0.000000
+            5.288613,52.406950,0.000000
+            5.294107,52.402152,0.000000
+            5.292879,52.401201,0.000000
+            5.293498,52.400541,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

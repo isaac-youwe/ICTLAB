@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09570805 Martin Giessen-Bosstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.064886,51.233084,0.000000
+            6.062840,51.231556,0.000000
+            6.056983,51.232896,0.000000
+            6.052637,51.231695,0.000000
+            6.038575,51.231600,0.000000
+            6.040003,51.233324,0.000000
+            6.048910,51.241687,0.000000
+            6.061116,51.242262,0.000000
+            6.062521,51.241749,0.000000
+            6.059550,51.241413,0.000000
+            6.065242,51.233980,0.000000
+            6.064886,51.233084,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

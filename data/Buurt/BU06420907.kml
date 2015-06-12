@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420907 Bedrijventerrein Gors-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.559726,51.829518,0.000000
+            4.555912,51.827638,0.000000
+            4.555859,51.827717,0.000000
+            4.552908,51.830393,0.000000
+            4.557032,51.833882,0.000000
+            4.559541,51.832716,0.000000
+            4.560728,51.831921,0.000000
+            4.559726,51.829518,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

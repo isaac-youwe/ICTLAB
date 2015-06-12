@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04840605 Berendrecht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.675642,52.120559,0.000000
+            4.674208,52.119146,0.000000
+            4.667973,52.120727,0.000000
+            4.664436,52.122330,0.000000
+            4.662759,52.125426,0.000000
+            4.672968,52.126700,0.000000
+            4.674281,52.121310,0.000000
+            4.675642,52.120559,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

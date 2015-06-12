@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05050305 Weizigtpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.668609,51.804649,0.000000
+            4.663736,51.803692,0.000000
+            4.661563,51.806907,0.000000
+            4.661656,51.808236,0.000000
+            4.662476,51.809179,0.000000
+            4.662655,51.807912,0.000000
+            4.673893,51.806630,0.000000
+            4.673859,51.806285,0.000000
+            4.672288,51.805402,0.000000
+            4.668609,51.804649,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

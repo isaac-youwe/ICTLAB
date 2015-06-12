@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07860200 Oud Velp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.724203,51.760604,0.000000
+            5.723617,51.759689,0.000000
+            5.722265,51.759302,0.000000
+            5.716947,51.760529,0.000000
+            5.715364,51.759322,0.000000
+            5.716590,51.758389,0.000000
+            5.715541,51.757498,0.000000
+            5.714050,51.758408,0.000000
+            5.713344,51.760445,0.000000
+            5.715332,51.762734,0.000000
+            5.724203,51.760604,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

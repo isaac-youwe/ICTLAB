@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03030549 Ketelhaven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.763480,52.581535,0.000000
+            5.763465,52.579738,0.000000
+            5.767156,52.579726,0.000000
+            5.770154,52.576054,0.000000
+            5.756986,52.573560,0.000000
+            5.757751,52.577593,0.000000
+            5.756259,52.581558,0.000000
+            5.760529,52.581545,0.000000
+            5.763480,52.581535,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

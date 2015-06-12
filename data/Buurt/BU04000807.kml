@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000807 Boterzwin</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.743990,52.881598,0.000000
+            4.743298,52.881379,0.000000
+            4.742396,52.881483,0.000000
+            4.733999,52.881437,0.000000
+            4.734860,52.884995,0.000000
+            4.738105,52.886046,0.000000
+            4.743687,52.885540,0.000000
+            4.743990,52.881598,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

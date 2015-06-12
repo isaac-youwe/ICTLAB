@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08560301 Odiliapeel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.701481,51.647823,0.000000
+            5.702959,51.645106,0.000000
+            5.711488,51.645996,0.000000
+            5.712500,51.641666,0.000000
+            5.711405,51.639449,0.000000
+            5.709971,51.639093,0.000000
+            5.707681,51.639700,0.000000
+            5.708717,51.641580,0.000000
+            5.705477,51.642210,0.000000
+            5.698446,51.641814,0.000000
+            5.698518,51.647542,0.000000
+            5.701481,51.647823,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

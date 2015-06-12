@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01931360 Hanzeland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.095467,52.503677,0.000000
+            6.103357,52.500610,0.000000
+            6.093961,52.500951,0.000000
+            6.077708,52.502550,0.000000
+            6.080052,52.505945,0.000000
+            6.081664,52.506875,0.000000
+            6.084873,52.507148,0.000000
+            6.095467,52.503677,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

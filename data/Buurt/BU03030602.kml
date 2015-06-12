@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03030602 Oud-Biddinghuizen Buiten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.696551,52.452697,0.000000
+            5.691326,52.449512,0.000000
+            5.687098,52.452034,0.000000
+            5.686561,52.454759,0.000000
+            5.691086,52.457577,0.000000
+            5.692251,52.456726,0.000000
+            5.690940,52.455323,0.000000
+            5.693733,52.454646,0.000000
+            5.696551,52.452697,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

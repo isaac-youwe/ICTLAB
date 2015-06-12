@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08440292 Buitengebied Zuidoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.485377,51.605883,0.000000
+            5.488254,51.601386,0.000000
+            5.492552,51.586998,0.000000
+            5.468046,51.602300,0.000000
+            5.453003,51.598054,0.000000
+            5.452514,51.597915,0.000000
+            5.448377,51.605863,0.000000
+            5.447562,51.607400,0.000000
+            5.458286,51.608302,0.000000
+            5.458136,51.607103,0.000000
+            5.460629,51.607220,0.000000
+            5.468568,51.602151,0.000000
+            5.476769,51.607068,0.000000
+            5.476943,51.608795,0.000000
+            5.485384,51.609023,0.000000
+            5.485377,51.605883,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

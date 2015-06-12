@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07380000 Wijk en Aalburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.131213,51.765051,0.000000
+            5.131264,51.763338,0.000000
+            5.136486,51.763729,0.000000
+            5.135129,51.761172,0.000000
+            5.136597,51.757580,0.000000
+            5.142406,51.754895,0.000000
+            5.138086,51.750391,0.000000
+            5.127973,51.745874,0.000000
+            5.127755,51.745670,0.000000
+            5.126257,51.748782,0.000000
+            5.114325,51.744399,0.000000
+            5.112585,51.747114,0.000000
+            5.124867,51.752096,0.000000
+            5.121994,51.758358,0.000000
+            5.118889,51.757878,0.000000
+            5.116550,51.764059,0.000000
+            5.129354,51.765785,0.000000
+            5.131213,51.765051,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

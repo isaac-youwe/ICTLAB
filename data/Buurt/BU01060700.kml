@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060700 Kloosterveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.516354,52.991909,0.000000
+            6.507258,52.990808,0.000000
+            6.506111,52.993802,0.000000
+            6.505011,52.995972,0.000000
+            6.501946,53.005937,0.000000
+            6.520516,53.008161,0.000000
+            6.521896,53.004478,0.000000
+            6.523740,53.003396,0.000000
+            6.520140,52.997881,0.000000
+            6.516354,52.991909,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

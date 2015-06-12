@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350200 Brusselsepoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.672445,50.847412,0.000000
+            5.669174,50.844895,0.000000
+            5.666583,50.845111,0.000000
+            5.661790,50.849165,0.000000
+            5.663637,50.853709,0.000000
+            5.667056,50.855727,0.000000
+            5.676270,50.855756,0.000000
+            5.676269,50.854165,0.000000
+            5.674182,50.853947,0.000000
+            5.674361,50.851693,0.000000
+            5.677784,50.849707,0.000000
+            5.677522,50.849238,0.000000
+            5.672705,50.848743,0.000000
+            5.672445,50.847412,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

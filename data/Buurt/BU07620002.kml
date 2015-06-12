@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07620002 Zeilberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.822174,51.454345,0.000000
+            5.821336,51.451706,0.000000
+            5.816241,51.452210,0.000000
+            5.804563,51.453358,0.000000
+            5.813355,51.455284,0.000000
+            5.810759,51.458945,0.000000
+            5.814039,51.460639,0.000000
+            5.817172,51.463878,0.000000
+            5.821247,51.463960,0.000000
+            5.821935,51.462861,0.000000
+            5.821227,51.460283,0.000000
+            5.822174,51.454345,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06540302 Driewegen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.811803,51.420193,0.000000
+            3.810176,51.418916,0.000000
+            3.807421,51.419929,0.000000
+            3.805109,51.417362,0.000000
+            3.807737,51.415848,0.000000
+            3.805958,51.414996,0.000000
+            3.803909,51.416134,0.000000
+            3.801639,51.414603,0.000000
+            3.798929,51.416215,0.000000
+            3.799706,51.418802,0.000000
+            3.801131,51.418823,0.000000
+            3.807763,51.424180,0.000000
+            3.810477,51.423725,0.000000
+            3.807834,51.421506,0.000000
+            3.811803,51.420193,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

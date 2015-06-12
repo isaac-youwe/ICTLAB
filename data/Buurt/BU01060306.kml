@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060306 Lonerstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.606331,53.007672,0.000000
+            6.594310,53.000325,0.000000
+            6.595239,52.999822,0.000000
+            6.592985,52.998217,0.000000
+            6.590659,52.998711,0.000000
+            6.588555,52.999158,0.000000
+            6.590091,52.999906,0.000000
+            6.587046,53.002166,0.000000
+            6.583765,53.000373,0.000000
+            6.584227,52.999910,0.000000
+            6.579353,52.999995,0.000000
+            6.589815,53.003746,0.000000
+            6.599442,53.007466,0.000000
+            6.601556,53.009597,0.000000
+            6.606331,53.007672,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

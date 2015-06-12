@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03290101 Mijnden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.034735,52.187006,0.000000
+            5.033294,52.184305,0.000000
+            5.015833,52.185146,0.000000
+            5.015738,52.185150,0.000000
+            5.008331,52.185632,0.000000
+            5.004541,52.192800,0.000000
+            5.005071,52.194509,0.000000
+            5.008398,52.196372,0.000000
+            5.014539,52.197000,0.000000
+            5.020509,52.202209,0.000000
+            5.023030,52.202194,0.000000
+            5.030254,52.198678,0.000000
+            5.037576,52.197801,0.000000
+            5.037597,52.195105,0.000000
+            5.034735,52.187006,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02740002 Heelsum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.752455,51.988472,0.000000
+            5.757594,51.986389,0.000000
+            5.758483,51.987288,0.000000
+            5.759940,51.986801,0.000000
+            5.761375,51.984907,0.000000
+            5.768568,51.982188,0.000000
+            5.771613,51.981015,0.000000
+            5.769123,51.974901,0.000000
+            5.750979,51.975226,0.000000
+            5.750009,51.975336,0.000000
+            5.748418,51.977850,0.000000
+            5.743746,51.979649,0.000000
+            5.744599,51.980113,0.000000
+            5.743103,51.980648,0.000000
+            5.743960,51.981460,0.000000
+            5.750599,51.984773,0.000000
+            5.752455,51.988472,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

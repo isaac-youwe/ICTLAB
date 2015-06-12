@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03290200 Nigtevecht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.034734,52.281297,0.000000
+            5.038120,52.276813,0.000000
+            5.032572,52.275091,0.000000
+            5.029663,52.272386,0.000000
+            5.023794,52.273267,0.000000
+            5.023801,52.272395,0.000000
+            5.019360,52.275895,0.000000
+            5.019376,52.275950,0.000000
+            5.020750,52.279394,0.000000
+            5.020977,52.279087,0.000000
+            5.031736,52.280332,0.000000
+            5.034734,52.281297,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

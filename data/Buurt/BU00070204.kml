@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00070204 Wedderveer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.071349,53.084307,0.000000
+            7.067744,53.082285,0.000000
+            7.065119,53.082790,0.000000
+            7.064411,53.084957,0.000000
+            7.069868,53.094184,0.000000
+            7.073595,53.092608,0.000000
+            7.073235,53.091929,0.000000
+            7.071349,53.084307,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

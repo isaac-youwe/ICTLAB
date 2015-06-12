@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09951130 Bronsweg-Jupiterweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.516849,52.548830,0.000000
+            5.515847,52.542500,0.000000
+            5.514217,52.542617,0.000000
+            5.513719,52.540247,0.000000
+            5.506350,52.540780,0.000000
+            5.505460,52.535833,0.000000
+            5.494472,52.536678,0.000000
+            5.487734,52.537144,0.000000
+            5.487208,52.533913,0.000000
+            5.486393,52.530120,0.000000
+            5.486232,52.527902,0.000000
+            5.477039,52.527604,0.000000
+            5.476551,52.530121,0.000000
+            5.473919,52.529943,0.000000
+            5.481801,52.541798,0.000000
+            5.488213,52.545970,0.000000
+            5.490168,52.549461,0.000000
+            5.499262,52.549736,0.000000
+            5.516849,52.548830,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

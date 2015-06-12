@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590301 Noordijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.576840,52.148936,0.000000
+            6.581818,52.144605,0.000000
+            6.580395,52.144763,0.000000
+            6.577794,52.146901,0.000000
+            6.575473,52.147071,0.000000
+            6.574706,52.146027,0.000000
+            6.579820,52.143374,0.000000
+            6.575160,52.143343,0.000000
+            6.575513,52.144231,0.000000
+            6.573359,52.145015,0.000000
+            6.570508,52.142889,0.000000
+            6.567834,52.143716,0.000000
+            6.571323,52.148479,0.000000
+            6.576840,52.148936,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

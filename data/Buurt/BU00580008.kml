@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580008 Dokkum Weeshuislanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.019156,53.335950,0.000000
+            6.013020,53.332834,0.000000
+            6.009547,53.332122,0.000000
+            5.999959,53.330230,0.000000
+            5.995841,53.330640,0.000000
+            5.992818,53.332077,0.000000
+            5.989710,53.336110,0.000000
+            5.995570,53.334991,0.000000
+            6.004838,53.335896,0.000000
+            6.010913,53.337779,0.000000
+            6.013326,53.337809,0.000000
+            6.017693,53.337112,0.000000
+            6.019156,53.335950,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

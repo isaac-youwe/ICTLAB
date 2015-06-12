@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00240000 Loppersum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.754664,53.336242,0.000000
+            6.759552,53.332162,0.000000
+            6.757694,53.330413,0.000000
+            6.750418,53.326889,0.000000
+            6.738661,53.326901,0.000000
+            6.736485,53.329647,0.000000
+            6.736493,53.333792,0.000000
+            6.736290,53.335649,0.000000
+            6.745511,53.334980,0.000000
+            6.750244,53.336713,0.000000
+            6.754664,53.336242,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

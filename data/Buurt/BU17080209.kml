@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080209 Verspreide huizen Oldemarkt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.961126,52.817733,0.000000
+            5.966602,52.809453,0.000000
+            5.973298,52.813176,0.000000
+            5.981167,52.802682,0.000000
+            5.987131,52.800919,0.000000
+            5.991510,52.800843,0.000000
+            5.991062,52.797798,0.000000
+            5.969898,52.798031,0.000000
+            5.964214,52.798847,0.000000
+            5.949143,52.803653,0.000000
+            5.941909,52.807559,0.000000
+            5.939626,52.810305,0.000000
+            5.938556,52.815833,0.000000
+            5.936971,52.818287,0.000000
+            5.952753,52.823580,0.000000
+            5.966442,52.820337,0.000000
+            5.961126,52.817733,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06640300 Kloetinge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.925498,51.499791,0.000000
+            3.924380,51.495785,0.000000
+            3.918490,51.496190,0.000000
+            3.911073,51.496161,0.000000
+            3.904265,51.497848,0.000000
+            3.906918,51.503462,0.000000
+            3.919729,51.502108,0.000000
+            3.925498,51.499791,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

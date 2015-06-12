@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04480003 De Waal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.826209,53.070730,0.000000
+            4.819754,53.070657,0.000000
+            4.817159,53.071264,0.000000
+            4.819129,53.072620,0.000000
+            4.820600,53.076066,0.000000
+            4.829450,53.074634,0.000000
+            4.830143,53.072512,0.000000
+            4.826209,53.070730,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

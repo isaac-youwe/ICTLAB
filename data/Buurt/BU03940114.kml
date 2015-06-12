@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940114 Toolenburg-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.676515,52.294718,0.000000
+            4.672407,52.291844,0.000000
+            4.670789,52.290711,0.000000
+            4.665117,52.293736,0.000000
+            4.663352,52.292512,0.000000
+            4.657724,52.295457,0.000000
+            4.659574,52.296691,0.000000
+            4.668912,52.303171,0.000000
+            4.674064,52.300345,0.000000
+            4.680162,52.296998,0.000000
+            4.676515,52.294718,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

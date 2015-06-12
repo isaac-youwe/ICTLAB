@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00400008 Verspreide huizen ten zuiden van Kolham</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.751878,53.181218,0.000000
+            6.751127,53.168449,0.000000
+            6.745223,53.168516,0.000000
+            6.729398,53.171302,0.000000
+            6.733181,53.177969,0.000000
+            6.735723,53.176495,0.000000
+            6.737668,53.180455,0.000000
+            6.751878,53.181218,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.729394,53.181051,0.000000
+            6.724235,53.172372,0.000000
+            6.718861,53.173243,0.000000
+            6.719368,53.176042,0.000000
+            6.714886,53.179102,0.000000
+            6.714552,53.180704,0.000000
+            6.709170,53.183865,0.000000
+            6.709677,53.184218,0.000000
+            6.714668,53.187680,0.000000
+            6.721547,53.192450,0.000000
+            6.726764,53.188395,0.000000
+            6.721566,53.186776,0.000000
+            6.721018,53.184555,0.000000
+            6.722930,53.182919,0.000000
+            6.729394,53.181051,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

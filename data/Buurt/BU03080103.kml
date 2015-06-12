@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03080103 Schilderswijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.299843,52.213655,0.000000
+            5.297341,52.213103,0.000000
+            5.291923,52.214001,0.000000
+            5.290216,52.214903,0.000000
+            5.292341,52.220050,0.000000
+            5.288252,52.223447,0.000000
+            5.289134,52.223447,0.000000
+            5.300844,52.223456,0.000000
+            5.302309,52.222559,0.000000
+            5.302311,52.221660,0.000000
+            5.306393,52.219158,0.000000
+            5.306119,52.215924,0.000000
+            5.299843,52.213655,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

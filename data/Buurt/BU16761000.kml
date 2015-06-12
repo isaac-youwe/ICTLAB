@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16761000 Kerkwerve</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.899592,51.682686,0.000000
+            3.898046,51.681990,0.000000
+            3.895529,51.683548,0.000000
+            3.894597,51.685353,0.000000
+            3.899457,51.688932,0.000000
+            3.900755,51.688110,0.000000
+            3.903603,51.685362,0.000000
+            3.899032,51.683936,0.000000
+            3.899592,51.682686,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

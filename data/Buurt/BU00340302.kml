@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340302 Oostvaardersbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.290949,52.413443,0.000000
+            5.293067,52.411437,0.000000
+            5.296690,52.412727,0.000000
+            5.298958,52.412180,0.000000
+            5.306478,52.405304,0.000000
+            5.293498,52.400541,0.000000
+            5.292879,52.401201,0.000000
+            5.294107,52.402152,0.000000
+            5.288613,52.406950,0.000000
+            5.280948,52.411036,0.000000
+            5.283472,52.411665,0.000000
+            5.290949,52.413443,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

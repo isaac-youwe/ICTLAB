@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00090104 Wittewierum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.752278,53.283472,0.000000
+            6.748473,53.283033,0.000000
+            6.744086,53.283384,0.000000
+            6.742594,53.285778,0.000000
+            6.744082,53.288883,0.000000
+            6.747792,53.289912,0.000000
+            6.751335,53.289061,0.000000
+            6.753796,53.286457,0.000000
+            6.752278,53.283472,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

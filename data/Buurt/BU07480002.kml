@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480002 Vestinggronden-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.297053,51.498491,0.000000
+            4.295982,51.495491,0.000000
+            4.293531,51.495406,0.000000
+            4.295260,51.497187,0.000000
+            4.288386,51.498230,0.000000
+            4.283589,51.497263,0.000000
+            4.281001,51.499674,0.000000
+            4.288417,51.500911,0.000000
+            4.297053,51.498491,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480100 Meilust Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.308291,51.509466,0.000000
+            4.311105,51.505811,0.000000
+            4.302113,51.502934,0.000000
+            4.297053,51.498491,0.000000
+            4.288417,51.500911,0.000000
+            4.290038,51.503036,0.000000
+            4.298147,51.507421,0.000000
+            4.299326,51.506684,0.000000
+            4.305091,51.510485,0.000000
+            4.308291,51.509466,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

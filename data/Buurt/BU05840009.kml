@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05840009 Spuioeverwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.407574,51.830194,0.000000
+            4.406402,51.827127,0.000000
+            4.394011,51.827306,0.000000
+            4.387919,51.824653,0.000000
+            4.391751,51.819378,0.000000
+            4.395140,51.816543,0.000000
+            4.391912,51.813117,0.000000
+            4.389126,51.813299,0.000000
+            4.387821,51.815619,0.000000
+            4.383390,51.819177,0.000000
+            4.383330,51.821873,0.000000
+            4.381840,51.823659,0.000000
+            4.394756,51.830062,0.000000
+            4.397025,51.830552,0.000000
+            4.399088,51.830997,0.000000
+            4.407574,51.830194,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08281700 Deursen en Dennenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.628215,51.804073,0.000000
+            5.636954,51.801319,0.000000
+            5.635523,51.799051,0.000000
+            5.639287,51.799279,0.000000
+            5.645483,51.797881,0.000000
+            5.636873,51.794612,0.000000
+            5.635253,51.796090,0.000000
+            5.624938,51.797241,0.000000
+            5.621432,51.800038,0.000000
+            5.621980,51.800944,0.000000
+            5.617213,51.801819,0.000000
+            5.613184,51.801526,0.000000
+            5.614849,51.806360,0.000000
+            5.628215,51.804073,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

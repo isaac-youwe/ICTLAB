@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09410008 Verspreide huizen Steenoven en Langstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.871749,51.325433,0.000000
+            5.859008,51.319147,0.000000
+            5.852057,51.320921,0.000000
+            5.840744,51.330669,0.000000
+            5.873839,51.347279,0.000000
+            5.874531,51.344994,0.000000
+            5.870550,51.340663,0.000000
+            5.881782,51.337429,0.000000
+            5.879299,51.332133,0.000000
+            5.871749,51.325433,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

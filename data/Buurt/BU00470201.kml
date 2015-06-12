@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00470201 Boven-Wildervank</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.873442,53.064245,0.000000
+            6.854246,53.051373,0.000000
+            6.852025,53.053017,0.000000
+            6.839963,53.056043,0.000000
+            6.855265,53.079668,0.000000
+            6.866804,53.077421,0.000000
+            6.877420,53.069687,0.000000
+            6.873442,53.064245,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990534 Liskwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.472551,51.933115,0.000000
+            4.470882,51.932051,0.000000
+            4.468921,51.933662,0.000000
+            4.467276,51.940376,0.000000
+            4.480302,51.942129,0.000000
+            4.478763,51.940714,0.000000
+            4.479419,51.938136,0.000000
+            4.472551,51.933115,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

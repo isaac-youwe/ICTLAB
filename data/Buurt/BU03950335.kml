@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03950335 Rekerlanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.719206,52.708614,0.000000
+            4.718461,52.707893,0.000000
+            4.716757,52.708002,0.000000
+            4.715309,52.710562,0.000000
+            4.710765,52.714811,0.000000
+            4.704797,52.720389,0.000000
+            4.704675,52.720491,0.000000
+            4.705235,52.720932,0.000000
+            4.711442,52.719428,0.000000
+            4.711046,52.716637,0.000000
+            4.717210,52.710638,0.000000
+            4.719156,52.709574,0.000000
+            4.719206,52.708614,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16960101 Rade, Oranjebuurt, Munniksveen en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.120748,52.248779,0.000000
+            5.122397,52.220562,0.000000
+            5.122288,52.220494,0.000000
+            5.122293,52.219711,0.000000
+            5.108975,52.221832,0.000000
+            5.108900,52.237669,0.000000
+            5.106828,52.238754,0.000000
+            5.107053,52.240157,0.000000
+            5.108156,52.242215,0.000000
+            5.109496,52.241788,0.000000
+            5.116520,52.249762,0.000000
+            5.120748,52.248779,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

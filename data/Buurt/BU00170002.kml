@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00170002 Voorveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.631167,53.153915,0.000000
+            6.614533,53.150080,0.000000
+            6.613284,53.150700,0.000000
+            6.603011,53.150501,0.000000
+            6.599446,53.154269,0.000000
+            6.608432,53.158100,0.000000
+            6.614688,53.159406,0.000000
+            6.625150,53.164325,0.000000
+            6.631167,53.153915,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

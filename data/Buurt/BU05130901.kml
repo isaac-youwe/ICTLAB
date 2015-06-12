@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130901 Ringvaartbocht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.693213,52.001021,0.000000
+            4.690377,51.996480,0.000000
+            4.688183,51.995787,0.000000
+            4.683787,51.997558,0.000000
+            4.682270,51.997236,0.000000
+            4.690610,51.999824,0.000000
+            4.690608,52.002634,0.000000
+            4.693532,52.002100,0.000000
+            4.693213,52.001021,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

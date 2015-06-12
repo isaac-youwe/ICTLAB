@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02300304 Hoge Enk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.839053,52.426620,0.000000
+            5.823209,52.420286,0.000000
+            5.821766,52.422387,0.000000
+            5.820866,52.423699,0.000000
+            5.826077,52.424972,0.000000
+            5.824474,52.428371,0.000000
+            5.833059,52.429921,0.000000
+            5.833581,52.430876,0.000000
+            5.838710,52.431914,0.000000
+            5.837516,52.432641,0.000000
+            5.838804,52.433598,0.000000
+            5.848275,52.433867,0.000000
+            5.848995,52.431672,0.000000
+            5.849212,52.430905,0.000000
+            5.839053,52.426620,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411904 Zeven Bosjes</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.623973,52.334490,0.000000
+            6.625438,52.331701,0.000000
+            6.637261,52.332048,0.000000
+            6.636440,52.324642,0.000000
+            6.621957,52.326847,0.000000
+            6.619389,52.326099,0.000000
+            6.616763,52.329458,0.000000
+            6.611100,52.332153,0.000000
+            6.617116,52.334209,0.000000
+            6.623973,52.334490,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

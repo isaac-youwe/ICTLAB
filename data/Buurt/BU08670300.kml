@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08670300 Vrijhoeve</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.025530,51.670460,0.000000
+            5.025874,51.667375,0.000000
+            5.025777,51.667394,0.000000
+            5.018527,51.670069,0.000000
+            5.018236,51.670128,0.000000
+            5.009837,51.671839,0.000000
+            5.009563,51.671902,0.000000
+            5.009553,51.675482,0.000000
+            5.009544,51.678902,0.000000
+            5.025424,51.678820,0.000000
+            5.025513,51.671738,0.000000
+            5.025530,51.670460,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

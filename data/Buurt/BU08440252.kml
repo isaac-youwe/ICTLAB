@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08440252 Duin 2</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.476943,51.608795,0.000000
+            5.476769,51.607068,0.000000
+            5.468568,51.602151,0.000000
+            5.460629,51.607220,0.000000
+            5.458136,51.607103,0.000000
+            5.458286,51.608302,0.000000
+            5.476315,51.608796,0.000000
+            5.476943,51.608795,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

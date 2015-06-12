@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02022449 Schuytgraaf-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.847359,51.955171,0.000000
+            5.845097,51.949957,0.000000
+            5.852486,51.948755,0.000000
+            5.852841,51.944297,0.000000
+            5.849775,51.944816,0.000000
+            5.849756,51.943018,0.000000
+            5.829410,51.944894,0.000000
+            5.829463,51.950287,0.000000
+            5.829977,51.952993,0.000000
+            5.830137,51.953835,0.000000
+            5.831988,51.953820,0.000000
+            5.833018,51.954243,0.000000
+            5.842566,51.954679,0.000000
+            5.845024,51.955762,0.000000
+            5.847359,51.955171,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

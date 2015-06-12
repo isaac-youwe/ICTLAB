@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00530001 Obergum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.519784,53.332954,0.000000
+            6.516488,53.331874,0.000000
+            6.507927,53.332846,0.000000
+            6.506218,53.332719,0.000000
+            6.502795,53.337461,0.000000
+            6.510860,53.338929,0.000000
+            6.518763,53.339081,0.000000
+            6.519784,53.332954,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

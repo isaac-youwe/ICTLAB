@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07330200 Vuren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.090655,51.830384,0.000000
+            5.089838,51.826677,0.000000
+            5.089787,51.826689,0.000000
+            5.081082,51.826667,0.000000
+            5.073835,51.825749,0.000000
+            5.050676,51.818493,0.000000
+            5.040529,51.817565,0.000000
+            5.039872,51.817603,0.000000
+            5.026017,51.818420,0.000000
+            5.027340,51.823493,0.000000
+            5.039758,51.824170,0.000000
+            5.039482,51.826381,0.000000
+            5.062310,51.826929,0.000000
+            5.070931,51.830370,0.000000
+            5.076911,51.831722,0.000000
+            5.080693,51.832109,0.000000
+            5.090655,51.830384,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

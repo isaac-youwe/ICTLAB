@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830100 Centrum-Venlo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.176315,51.368512,0.000000
+            6.172480,51.365570,0.000000
+            6.168166,51.366393,0.000000
+            6.162149,51.368953,0.000000
+            6.166205,51.372195,0.000000
+            6.167458,51.374658,0.000000
+            6.172458,51.373803,0.000000
+            6.178001,51.370825,0.000000
+            6.176315,51.368512,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

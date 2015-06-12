@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18830400 Guttecoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.828975,51.020843,0.000000
+            5.826677,51.008077,0.000000
+            5.813149,51.005387,0.000000
+            5.810405,50.996352,0.000000
+            5.808727,50.996682,0.000000
+            5.811427,51.005512,0.000000
+            5.813160,51.007144,0.000000
+            5.808094,51.010066,0.000000
+            5.801311,51.010071,0.000000
+            5.802840,51.013520,0.000000
+            5.812646,51.021917,0.000000
+            5.817737,51.026264,0.000000
+            5.818219,51.026254,0.000000
+            5.828975,51.020843,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

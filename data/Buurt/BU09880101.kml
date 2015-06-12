@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09880101 Boshoven-Vrakker</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.682005,51.268117,0.000000
+            5.698673,51.260929,0.000000
+            5.687416,51.256495,0.000000
+            5.686153,51.254154,0.000000
+            5.683625,51.257582,0.000000
+            5.676087,51.264378,0.000000
+            5.678121,51.265229,0.000000
+            5.680361,51.265118,0.000000
+            5.682005,51.268117,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

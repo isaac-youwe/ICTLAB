@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440181 Bedrijventerrein Lageweide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.076366,52.102065,0.000000
+            5.077117,52.098093,0.000000
+            5.068173,52.098853,0.000000
+            5.065941,52.101289,0.000000
+            5.061585,52.105728,0.000000
+            5.057281,52.108290,0.000000
+            5.038765,52.115847,0.000000
+            5.032309,52.116671,0.000000
+            5.032508,52.116885,0.000000
+            5.033828,52.116889,0.000000
+            5.039613,52.124097,0.000000
+            5.045421,52.128609,0.000000
+            5.045428,52.128618,0.000000
+            5.045597,52.128829,0.000000
+            5.047521,52.130052,0.000000
+            5.060778,52.122776,0.000000
+            5.074015,52.115103,0.000000
+            5.077197,52.110298,0.000000
+            5.076366,52.102065,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

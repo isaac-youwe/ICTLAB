@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600608 Verspreide huizen Lutten-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.608119,52.613080,0.000000
+            6.604931,52.609519,0.000000
+            6.602068,52.609957,0.000000
+            6.573544,52.608316,0.000000
+            6.573024,52.610192,0.000000
+            6.584324,52.610708,0.000000
+            6.584250,52.611654,0.000000
+            6.608119,52.613080,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

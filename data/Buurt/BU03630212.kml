@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630212 Houthavens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.884301,52.399270,0.000000
+            4.892723,52.393372,0.000000
+            4.895592,52.388858,0.000000
+            4.891105,52.388477,0.000000
+            4.891226,52.390128,0.000000
+            4.877964,52.391633,0.000000
+            4.876396,52.392861,0.000000
+            4.865706,52.393038,0.000000
+            4.871520,52.395407,0.000000
+            4.875969,52.394465,0.000000
+            4.884301,52.399270,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

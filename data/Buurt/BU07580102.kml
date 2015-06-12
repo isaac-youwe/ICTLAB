@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580102 Biesdonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.790208,51.601746,0.000000
+            4.783369,51.600971,0.000000
+            4.778964,51.601234,0.000000
+            4.774653,51.611470,0.000000
+            4.781217,51.609879,0.000000
+            4.789645,51.609194,0.000000
+            4.791385,51.608067,0.000000
+            4.790208,51.601746,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320405 Houtdijken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.931409,52.108757,0.000000
+            4.939766,52.105899,0.000000
+            4.939638,52.105617,0.000000
+            4.938758,52.104959,0.000000
+            4.927239,52.107234,0.000000
+            4.912554,52.103972,0.000000
+            4.911484,52.105068,0.000000
+            4.913395,52.105882,0.000000
+            4.926110,52.108928,0.000000
+            4.931409,52.108757,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

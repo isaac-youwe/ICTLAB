@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00180802 Westerbroekstermadepolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.697720,53.169060,0.000000
+            6.679554,53.163402,0.000000
+            6.677803,53.164767,0.000000
+            6.671876,53.166628,0.000000
+            6.665975,53.169387,0.000000
+            6.663037,53.171216,0.000000
+            6.657576,53.180759,0.000000
+            6.657697,53.181073,0.000000
+            6.697720,53.169060,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

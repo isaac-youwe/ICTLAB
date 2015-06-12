@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01091011 Hare</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.724702,52.659309,0.000000
+            6.715525,52.658853,0.000000
+            6.724498,52.670006,0.000000
+            6.726039,52.667968,0.000000
+            6.728005,52.665043,0.000000
+            6.732698,52.662756,0.000000
+            6.733280,52.661867,0.000000
+            6.731306,52.660625,0.000000
+            6.724702,52.659309,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

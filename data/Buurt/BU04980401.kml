@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04980401 Oosterleek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.206659,52.644711,0.000000
+            5.201029,52.640409,0.000000
+            5.198090,52.636809,0.000000
+            5.190702,52.636797,0.000000
+            5.178132,52.634224,0.000000
+            5.166487,52.635564,0.000000
+            5.168581,52.642253,0.000000
+            5.184936,52.643529,0.000000
+            5.194987,52.641074,0.000000
+            5.195213,52.648651,0.000000
+            5.201399,52.646927,0.000000
+            5.201271,52.645515,0.000000
+            5.202719,52.645373,0.000000
+            5.204730,52.645176,0.000000
+            5.206659,52.644711,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

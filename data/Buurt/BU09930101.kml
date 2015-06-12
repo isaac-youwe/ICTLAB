@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09930101 Meerlo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.076615,51.524843,0.000000
+            6.080113,51.523020,0.000000
+            6.087427,51.523727,0.000000
+            6.085254,51.518660,0.000000
+            6.093994,51.516152,0.000000
+            6.095081,51.515819,0.000000
+            6.095375,51.507211,0.000000
+            6.097005,51.504032,0.000000
+            6.095347,51.501906,0.000000
+            6.092428,51.500208,0.000000
+            6.084073,51.498603,0.000000
+            6.074184,51.495145,0.000000
+            6.065839,51.508529,0.000000
+            6.065755,51.508662,0.000000
+            6.064422,51.515862,0.000000
+            6.067284,51.523560,0.000000
+            6.076615,51.524843,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

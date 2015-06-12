@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00860301 Olterterp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.122132,53.082076,0.000000
+            6.134959,53.063419,0.000000
+            6.135402,53.062279,0.000000
+            6.133743,53.060178,0.000000
+            6.131549,53.055173,0.000000
+            6.125255,53.053638,0.000000
+            6.121692,53.056593,0.000000
+            6.089001,53.063663,0.000000
+            6.088631,53.070802,0.000000
+            6.089440,53.070797,0.000000
+            6.090031,53.070793,0.000000
+            6.105071,53.077894,0.000000
+            6.109372,53.082448,0.000000
+            6.113787,53.081998,0.000000
+            6.119947,53.082777,0.000000
+            6.122132,53.082076,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

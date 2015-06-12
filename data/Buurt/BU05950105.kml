@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950105 Gravekoop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.777796,52.047845,0.000000
+            4.771214,52.038475,0.000000
+            4.772007,52.033853,0.000000
+            4.770017,52.033077,0.000000
+            4.758437,52.028557,0.000000
+            4.756715,52.030876,0.000000
+            4.748879,52.032128,0.000000
+            4.752631,52.040474,0.000000
+            4.758700,52.039315,0.000000
+            4.761257,52.045760,0.000000
+            4.764458,52.052347,0.000000
+            4.778804,52.050812,0.000000
+            4.777796,52.047845,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04620002 Oosterland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.027200,52.928080,0.000000
+            5.031902,52.925457,0.000000
+            5.033674,52.922980,0.000000
+            5.030500,52.922565,0.000000
+            5.022676,52.923914,0.000000
+            5.014720,52.923024,0.000000
+            5.010483,52.921563,0.000000
+            5.007480,52.918314,0.000000
+            5.002395,52.922295,0.000000
+            5.000735,52.926915,0.000000
+            4.997309,52.927947,0.000000
+            4.991879,52.925476,0.000000
+            4.986402,52.931983,0.000000
+            4.987081,52.931986,0.000000
+            4.997469,52.934716,0.000000
+            5.003411,52.935634,0.000000
+            5.014552,52.933989,0.000000
+            5.011854,52.932549,0.000000
+            5.022518,52.932333,0.000000
+            5.027200,52.928080,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

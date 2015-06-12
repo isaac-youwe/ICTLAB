@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03750901 Kagerweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.682157,52.469787,0.000000
+            4.682921,52.461724,0.000000
+            4.682307,52.461390,0.000000
+            4.675051,52.455054,0.000000
+            4.661899,52.462054,0.000000
+            4.661692,52.462164,0.000000
+            4.667475,52.468492,0.000000
+            4.665989,52.469381,0.000000
+            4.665727,52.469538,0.000000
+            4.665830,52.469530,0.000000
+            4.669126,52.469612,0.000000
+            4.672747,52.474905,0.000000
+            4.682157,52.469787,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

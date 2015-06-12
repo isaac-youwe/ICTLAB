@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770110 Absdale</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.011215,51.268967,0.000000
+            4.005143,51.264406,0.000000
+            4.005889,51.263581,0.000000
+            4.003098,51.263086,0.000000
+            4.001944,51.264876,0.000000
+            3.999985,51.265750,0.000000
+            3.998815,51.265460,0.000000
+            3.998142,51.266353,0.000000
+            4.000319,51.267576,0.000000
+            3.999902,51.269000,0.000000
+            4.010259,51.272747,0.000000
+            4.008397,51.274751,0.000000
+            4.018060,51.275569,0.000000
+            4.020393,51.272029,0.000000
+            4.009400,51.270063,0.000000
+            4.011215,51.268967,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

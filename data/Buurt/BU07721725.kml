@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721725 Bennekel-West, Gagelbosch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.458451,51.415269,0.000000
+            5.448468,51.413160,0.000000
+            5.445531,51.419963,0.000000
+            5.447755,51.420445,0.000000
+            5.456501,51.421807,0.000000
+            5.458989,51.418115,0.000000
+            5.458451,51.415269,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

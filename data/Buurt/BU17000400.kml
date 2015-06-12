@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17000400 Vroomshoop-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.573555,52.472112,0.000000
+            6.575725,52.464080,0.000000
+            6.587378,52.465673,0.000000
+            6.589406,52.461541,0.000000
+            6.577226,52.459364,0.000000
+            6.579054,52.449450,0.000000
+            6.578899,52.449405,0.000000
+            6.571616,52.446833,0.000000
+            6.569809,52.457050,0.000000
+            6.569168,52.461492,0.000000
+            6.568522,52.465967,0.000000
+            6.567644,52.471700,0.000000
+            6.573555,52.472112,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

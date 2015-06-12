@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06110003 Schuring</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.488026,51.731965,0.000000
+            4.488636,51.730570,0.000000
+            4.503017,51.729980,0.000000
+            4.501386,51.727147,0.000000
+            4.482756,51.728231,0.000000
+            4.479598,51.720959,0.000000
+            4.476757,51.722095,0.000000
+            4.477058,51.728413,0.000000
+            4.469542,51.728492,0.000000
+            4.469300,51.730668,0.000000
+            4.486481,51.730694,0.000000
+            4.486612,51.731856,0.000000
+            4.488026,51.731965,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

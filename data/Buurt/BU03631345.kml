@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631345 Schinkelbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.851736,52.343369,0.000000
+            4.848020,52.342633,0.000000
+            4.851608,52.348716,0.000000
+            4.854008,52.356425,0.000000
+            4.854717,52.356298,0.000000
+            4.857282,52.349831,0.000000
+            4.857505,52.347377,0.000000
+            4.852974,52.346822,0.000000
+            4.851481,52.344867,0.000000
+            4.851736,52.343369,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05850001 Goidschalxoord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.461409,51.828242,0.000000
+            4.459123,51.821526,0.000000
+            4.457520,51.821139,0.000000
+            4.453739,51.821388,0.000000
+            4.454399,51.824306,0.000000
+            4.456889,51.824749,0.000000
+            4.457613,51.826702,0.000000
+            4.449804,51.826512,0.000000
+            4.449959,51.826919,0.000000
+            4.449941,51.827818,0.000000
+            4.449935,51.828082,0.000000
+            4.457130,51.829077,0.000000
+            4.461409,51.828242,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

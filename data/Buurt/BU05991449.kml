@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991449 Het Lage Land</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.555466,51.940784,0.000000
+            4.534823,51.937423,0.000000
+            4.528605,51.948924,0.000000
+            4.532448,51.949468,0.000000
+            4.533076,51.950327,0.000000
+            4.536600,51.951281,0.000000
+            4.550225,51.953092,0.000000
+            4.555466,51.940784,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08990339 Hendrik en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.011972,50.938487,0.000000
+            6.007375,50.936545,0.000000
+            5.998819,50.938112,0.000000
+            5.997705,50.937393,0.000000
+            5.993165,50.937736,0.000000
+            5.986744,50.940234,0.000000
+            5.987587,50.942082,0.000000
+            5.996117,50.944244,0.000000
+            5.997720,50.948015,0.000000
+            5.996296,50.950897,0.000000
+            6.006918,50.944367,0.000000
+            6.014200,50.940288,0.000000
+            6.011972,50.938487,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

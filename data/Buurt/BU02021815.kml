@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02021815 t Duifje</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.931378,51.956611,0.000000
+            5.931350,51.954355,0.000000
+            5.929852,51.950766,0.000000
+            5.929345,51.950768,0.000000
+            5.926942,51.950779,0.000000
+            5.921775,51.950803,0.000000
+            5.921932,51.956422,0.000000
+            5.928972,51.956235,0.000000
+            5.931378,51.956611,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

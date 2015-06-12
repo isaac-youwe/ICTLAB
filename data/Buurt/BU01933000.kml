@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01933000 Holtenbroek IV</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.092108,52.520896,0.000000
+            6.085439,52.517760,0.000000
+            6.080048,52.520915,0.000000
+            6.083674,52.521589,0.000000
+            6.082398,52.525633,0.000000
+            6.083375,52.526648,0.000000
+            6.093108,52.527695,0.000000
+            6.095188,52.523959,0.000000
+            6.096505,52.522726,0.000000
+            6.092108,52.520896,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

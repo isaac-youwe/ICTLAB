@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350604 Vroendaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.743436,50.821466,0.000000
+            5.728525,50.818082,0.000000
+            5.729444,50.827124,0.000000
+            5.728077,50.831309,0.000000
+            5.726179,50.836888,0.000000
+            5.736035,50.834615,0.000000
+            5.746291,50.830282,0.000000
+            5.743436,50.821466,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

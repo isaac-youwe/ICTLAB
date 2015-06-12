@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02280306 De Velden en Beken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.632220,52.037101,0.000000
+            5.633246,52.034904,0.000000
+            5.628250,52.035835,0.000000
+            5.618027,52.037700,0.000000
+            5.619432,52.041342,0.000000
+            5.619173,52.045068,0.000000
+            5.620877,52.045390,0.000000
+            5.623442,52.045876,0.000000
+            5.630488,52.047068,0.000000
+            5.632576,52.043579,0.000000
+            5.629303,52.042326,0.000000
+            5.630428,52.040703,0.000000
+            5.633716,52.039996,0.000000
+            5.632220,52.037101,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

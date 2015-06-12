@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630539 De Kolenkit</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.846699,52.372330,0.000000
+            4.842120,52.372125,0.000000
+            4.835140,52.373180,0.000000
+            4.836624,52.376383,0.000000
+            4.839167,52.384980,0.000000
+            4.844571,52.385090,0.000000
+            4.844099,52.377988,0.000000
+            4.846162,52.377742,0.000000
+            4.847248,52.375606,0.000000
+            4.845378,52.375232,0.000000
+            4.846699,52.372330,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

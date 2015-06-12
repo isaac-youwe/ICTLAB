@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06260012 Nassauwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.449946,52.127755,0.000000
+            4.448583,52.126812,0.000000
+            4.446988,52.127035,0.000000
+            4.444435,52.124668,0.000000
+            4.438103,52.127169,0.000000
+            4.436357,52.125804,0.000000
+            4.434952,52.126711,0.000000
+            4.440218,52.132505,0.000000
+            4.441472,52.133337,0.000000
+            4.443009,52.133276,0.000000
+            4.446555,52.131207,0.000000
+            4.445182,52.130769,0.000000
+            4.449946,52.127755,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

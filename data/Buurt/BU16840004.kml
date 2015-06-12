@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16840004 Heeswijkse Kampen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.864328,51.732351,0.000000
+            5.851380,51.730881,0.000000
+            5.849906,51.731306,0.000000
+            5.850679,51.732285,0.000000
+            5.844641,51.734198,0.000000
+            5.845329,51.735335,0.000000
+            5.847512,51.736726,0.000000
+            5.847123,51.741049,0.000000
+            5.848048,51.742576,0.000000
+            5.856078,51.744230,0.000000
+            5.865748,51.743118,0.000000
+            5.870616,51.733539,0.000000
+            5.864328,51.732351,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

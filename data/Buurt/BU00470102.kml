@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00470102 Zuidwending</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.959437,53.094890,0.000000
+            6.955529,53.093395,0.000000
+            6.947391,53.094367,0.000000
+            6.918401,53.094442,0.000000
+            6.915010,53.094309,0.000000
+            6.914013,53.093569,0.000000
+            6.904601,53.094918,0.000000
+            6.908440,53.096927,0.000000
+            6.924595,53.099036,0.000000
+            6.953276,53.099334,0.000000
+            6.961010,53.097537,0.000000
+            6.959550,53.095082,0.000000
+            6.959437,53.094890,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

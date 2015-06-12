@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19550007 Verspreide huizen Mengelenberg en Lengel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.230943,51.869881,0.000000
+            6.230250,51.869769,0.000000
+            6.229948,51.874745,0.000000
+            6.237535,51.880691,0.000000
+            6.237944,51.877225,0.000000
+            6.234880,51.869853,0.000000
+            6.230943,51.869881,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.269034,51.885932,0.000000
+            6.272990,51.879662,0.000000
+            6.271355,51.877700,0.000000
+            6.267617,51.877357,0.000000
+            6.269424,51.881421,0.000000
+            6.268370,51.885059,0.000000
+            6.261311,51.885709,0.000000
+            6.256124,51.883259,0.000000
+            6.250797,51.883581,0.000000
+            6.250188,51.883611,0.000000
+            6.256927,51.893250,0.000000
+            6.268310,51.893593,0.000000
+            6.265980,51.897572,0.000000
+            6.268853,51.897962,0.000000
+            6.272436,51.891520,0.000000
+            6.269034,51.885932,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

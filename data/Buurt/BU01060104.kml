@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060104 De Lariks-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.544892,52.997003,0.000000
+            6.551086,52.994084,0.000000
+            6.545926,52.994171,0.000000
+            6.539460,52.994291,0.000000
+            6.539538,52.994697,0.000000
+            6.539755,52.996285,0.000000
+            6.538334,52.997610,0.000000
+            6.542316,52.999976,0.000000
+            6.541738,53.001332,0.000000
+            6.547659,53.000058,0.000000
+            6.544892,52.997003,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

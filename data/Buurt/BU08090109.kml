@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08090109 Verspreide huizen Bernsehoef en Baan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.999974,51.646174,0.000000
+            5.004617,51.645622,0.000000
+            5.012889,51.646162,0.000000
+            5.019038,51.646912,0.000000
+            5.018817,51.648471,0.000000
+            5.028117,51.651129,0.000000
+            5.035026,51.651108,0.000000
+            5.037044,51.651722,0.000000
+            5.039035,51.651392,0.000000
+            5.038966,51.650692,0.000000
+            5.036389,51.645942,0.000000
+            5.037228,51.641439,0.000000
+            5.037333,51.640983,0.000000
+            5.020829,51.641032,0.000000
+            5.020479,51.638106,0.000000
+            5.003697,51.637216,0.000000
+            4.992748,51.640352,0.000000
+            4.986856,51.654682,0.000000
+            4.988173,51.658900,0.000000
+            4.998382,51.659076,0.000000
+            4.999974,51.646174,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

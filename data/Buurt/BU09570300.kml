@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09570300 Kern Maasniel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.007339,51.206700,0.000000
+            6.012731,51.200585,0.000000
+            6.012235,51.199643,0.000000
+            6.015148,51.200136,0.000000
+            6.016351,51.195717,0.000000
+            6.013309,51.191752,0.000000
+            6.005290,51.192620,0.000000
+            6.003012,51.192918,0.000000
+            6.005288,51.200311,0.000000
+            6.003687,51.201502,0.000000
+            6.000955,51.200788,0.000000
+            6.002623,51.202448,0.000000
+            6.003265,51.203314,0.000000
+            6.007339,51.206700,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

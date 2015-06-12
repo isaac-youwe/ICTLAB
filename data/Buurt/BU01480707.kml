@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01480707 Verspreide huizen Ruitenveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.270623,52.566402,0.000000
+            6.196807,52.547204,0.000000
+            6.210335,52.567594,0.000000
+            6.210326,52.567609,0.000000
+            6.232079,52.571850,0.000000
+            6.230501,52.574376,0.000000
+            6.264332,52.581229,0.000000
+            6.267520,52.575494,0.000000
+            6.272255,52.566945,0.000000
+            6.270623,52.566402,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

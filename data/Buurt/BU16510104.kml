@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16510104 Hooilandseweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.787120,53.413627,0.000000
+            6.781258,53.413093,0.000000
+            6.777253,53.413593,0.000000
+            6.768748,53.417214,0.000000
+            6.772833,53.421187,0.000000
+            6.780936,53.419534,0.000000
+            6.789897,53.416336,0.000000
+            6.787120,53.413627,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

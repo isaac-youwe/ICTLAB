@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07560400 Rijkevoort Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.894067,51.660997,0.000000
+            5.894369,51.657744,0.000000
+            5.891454,51.657750,0.000000
+            5.889283,51.652725,0.000000
+            5.882392,51.652806,0.000000
+            5.879274,51.656047,0.000000
+            5.880803,51.657557,0.000000
+            5.878714,51.660344,0.000000
+            5.880057,51.661308,0.000000
+            5.882173,51.660331,0.000000
+            5.884358,51.662053,0.000000
+            5.887730,51.662490,0.000000
+            5.892539,51.662334,0.000000
+            5.894067,51.660997,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09957750 Vliegveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.500650,52.475894,0.000000
+            5.517965,52.464154,0.000000
+            5.522999,52.466924,0.000000
+            5.535468,52.458045,0.000000
+            5.523991,52.451443,0.000000
+            5.513798,52.448645,0.000000
+            5.507038,52.445168,0.000000
+            5.470741,52.422263,0.000000
+            5.447502,52.435606,0.000000
+            5.438686,52.442801,0.000000
+            5.438601,52.442749,0.000000
+            5.438260,52.443234,0.000000
+            5.469758,52.463295,0.000000
+            5.478127,52.468109,0.000000
+            5.486765,52.472595,0.000000
+            5.490066,52.470389,0.000000
+            5.500650,52.475894,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

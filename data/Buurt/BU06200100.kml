@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06200100 Hagestein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.123534,51.981391,0.000000
+            5.126585,51.977363,0.000000
+            5.123914,51.976852,0.000000
+            5.122566,51.978372,0.000000
+            5.115141,51.976177,0.000000
+            5.112467,51.978503,0.000000
+            5.116313,51.981900,0.000000
+            5.120124,51.984798,0.000000
+            5.122769,51.985258,0.000000
+            5.125514,51.981891,0.000000
+            5.123534,51.981391,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

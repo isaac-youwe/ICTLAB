@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02090101 Beuningen Buitengebied Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.727641,51.854960,0.000000
+            5.746998,51.851754,0.000000
+            5.747915,51.853274,0.000000
+            5.749354,51.852925,0.000000
+            5.752870,51.850223,0.000000
+            5.757608,51.848761,0.000000
+            5.759977,51.850453,0.000000
+            5.758700,51.848417,0.000000
+            5.769168,51.845485,0.000000
+            5.774591,51.844245,0.000000
+            5.764457,51.831853,0.000000
+            5.728231,51.838257,0.000000
+            5.718079,51.839185,0.000000
+            5.717467,51.839250,0.000000
+            5.723048,51.845393,0.000000
+            5.730175,51.844646,0.000000
+            5.734176,51.848320,0.000000
+            5.722733,51.850765,0.000000
+            5.727352,51.854931,0.000000
+            5.727641,51.854960,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

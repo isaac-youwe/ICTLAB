@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370301 Seghwaert-Noordoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.525281,52.065854,0.000000
+            4.514512,52.056825,0.000000
+            4.508511,52.059757,0.000000
+            4.514082,52.062168,0.000000
+            4.516636,52.064064,0.000000
+            4.517673,52.066154,0.000000
+            4.516420,52.067795,0.000000
+            4.514318,52.068558,0.000000
+            4.503039,52.070051,0.000000
+            4.507940,52.078090,0.000000
+            4.510253,52.078117,0.000000
+            4.510224,52.077101,0.000000
+            4.520026,52.071570,0.000000
+            4.519581,52.070869,0.000000
+            4.525281,52.065854,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

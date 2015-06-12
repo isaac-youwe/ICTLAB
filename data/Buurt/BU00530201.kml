@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00530201 Den Andel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.512846,53.383593,0.000000
+            6.508656,53.382932,0.000000
+            6.504692,53.392887,0.000000
+            6.511735,53.394012,0.000000
+            6.518913,53.395099,0.000000
+            6.519042,53.392813,0.000000
+            6.516569,53.391681,0.000000
+            6.510745,53.390822,0.000000
+            6.512846,53.383593,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

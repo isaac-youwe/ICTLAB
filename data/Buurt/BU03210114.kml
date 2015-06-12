@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03210114 Wernaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.178969,52.032966,0.000000
+            5.181332,52.032795,0.000000
+            5.181899,52.033524,0.000000
+            5.183712,52.032808,0.000000
+            5.179085,52.031300,0.000000
+            5.177964,52.029859,0.000000
+            5.173435,52.030153,0.000000
+            5.173752,52.031313,0.000000
+            5.171849,52.033187,0.000000
+            5.171918,52.035518,0.000000
+            5.176423,52.037413,0.000000
+            5.177388,52.037353,0.000000
+            5.178969,52.032966,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

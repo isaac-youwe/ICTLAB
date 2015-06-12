@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04840405 Bospark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.657715,52.129009,0.000000
+            4.653333,52.127952,0.000000
+            4.651298,52.128951,0.000000
+            4.650303,52.129324,0.000000
+            4.651097,52.133917,0.000000
+            4.651486,52.134464,0.000000
+            4.656368,52.134473,0.000000
+            4.657715,52.129009,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

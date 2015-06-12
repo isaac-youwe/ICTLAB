@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00900126 De Wilgen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.048788,53.099966,0.000000
+            6.047511,53.097440,0.000000
+            6.050465,53.093587,0.000000
+            6.002863,53.090214,0.000000
+            6.002778,53.088832,0.000000
+            5.991200,53.090145,0.000000
+            5.991032,53.096853,0.000000
+            6.012840,53.097271,0.000000
+            6.012087,53.099318,0.000000
+            6.014398,53.100083,0.000000
+            6.018192,53.099868,0.000000
+            6.028523,53.102012,0.000000
+            6.030357,53.103571,0.000000
+            6.027703,53.108281,0.000000
+            6.040877,53.108108,0.000000
+            6.043135,53.102179,0.000000
+            6.048788,53.099966,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

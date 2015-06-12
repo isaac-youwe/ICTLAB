@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09880202 Hushoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.699076,51.270867,0.000000
+            5.697396,51.268829,0.000000
+            5.701497,51.265445,0.000000
+            5.703692,51.265224,0.000000
+            5.704265,51.264743,0.000000
+            5.698673,51.260929,0.000000
+            5.682005,51.268117,0.000000
+            5.683204,51.269563,0.000000
+            5.687624,51.270430,0.000000
+            5.688260,51.269880,0.000000
+            5.691404,51.272220,0.000000
+            5.697191,51.272746,0.000000
+            5.699076,51.270867,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

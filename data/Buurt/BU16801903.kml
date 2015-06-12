@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16801903 Deurze</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.615081,52.982546,0.000000
+            6.609003,52.977227,0.000000
+            6.606463,52.977633,0.000000
+            6.606118,52.979607,0.000000
+            6.608492,52.981940,0.000000
+            6.605512,52.984966,0.000000
+            6.608547,52.989329,0.000000
+            6.608488,52.989568,0.000000
+            6.612839,52.989920,0.000000
+            6.611986,52.985162,0.000000
+            6.615081,52.982546,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

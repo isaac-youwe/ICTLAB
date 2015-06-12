@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06640110 Overzuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.889543,51.492903,0.000000
+            3.891368,51.489763,0.000000
+            3.902145,51.490672,0.000000
+            3.906981,51.492092,0.000000
+            3.905512,51.487803,0.000000
+            3.908694,51.487087,0.000000
+            3.909443,51.485144,0.000000
+            3.909700,51.484021,0.000000
+            3.903326,51.483981,0.000000
+            3.899707,51.483199,0.000000
+            3.897613,51.481005,0.000000
+            3.896027,51.483435,0.000000
+            3.884780,51.490571,0.000000
+            3.886872,51.492067,0.000000
+            3.889543,51.492903,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

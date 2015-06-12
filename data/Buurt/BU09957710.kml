@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09957710 Plavuizenweg-Visvijverweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.587736,52.549017,0.000000
+            5.531106,52.548028,0.000000
+            5.530958,52.560352,0.000000
+            5.533096,52.566271,0.000000
+            5.537637,52.572859,0.000000
+            5.557410,52.590019,0.000000
+            5.564880,52.593391,0.000000
+            5.573312,52.595190,0.000000
+            5.587799,52.563087,0.000000
+            5.587736,52.549017,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

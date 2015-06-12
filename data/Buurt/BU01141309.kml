@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01141309 Verspreide huizen Veenoord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.841317,52.707799,0.000000
+            6.842600,52.704937,0.000000
+            6.846295,52.705551,0.000000
+            6.848586,52.699890,0.000000
+            6.841734,52.699974,0.000000
+            6.841691,52.699974,0.000000
+            6.841689,52.699974,0.000000
+            6.830713,52.726176,0.000000
+            6.826424,52.730719,0.000000
+            6.826420,52.730723,0.000000
+            6.837928,52.734043,0.000000
+            6.840977,52.728247,0.000000
+            6.843883,52.721809,0.000000
+            6.839179,52.721082,0.000000
+            6.842087,52.714831,0.000000
+            6.839706,52.714418,0.000000
+            6.841317,52.707799,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

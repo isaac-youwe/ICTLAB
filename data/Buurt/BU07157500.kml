@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07157500 Westdorpe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.830494,51.226304,0.000000
+            3.822000,51.224923,0.000000
+            3.806777,51.227426,0.000000
+            3.807917,51.231262,0.000000
+            3.818872,51.232388,0.000000
+            3.835623,51.237634,0.000000
+            3.847654,51.244665,0.000000
+            3.853355,51.250788,0.000000
+            3.855149,51.250568,0.000000
+            3.855210,51.246425,0.000000
+            3.840554,51.234190,0.000000
+            3.838507,51.230409,0.000000
+            3.830494,51.226304,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18830209 Recreatiegebied Schwienswei</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.881752,51.015140,0.000000
+            5.884583,51.013330,0.000000
+            5.888859,51.013312,0.000000
+            5.895954,51.010584,0.000000
+            5.895886,51.004433,0.000000
+            5.892164,51.006102,0.000000
+            5.889227,51.006431,0.000000
+            5.886007,51.007370,0.000000
+            5.881730,51.007499,0.000000
+            5.874445,51.009582,0.000000
+            5.874173,51.012892,0.000000
+            5.881368,51.013290,0.000000
+            5.880941,51.014697,0.000000
+            5.881748,51.015144,0.000000
+            5.881752,51.015140,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

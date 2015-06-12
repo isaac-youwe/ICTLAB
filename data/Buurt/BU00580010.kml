@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580010 Dokkum Kooilanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.015878,53.308460,0.000000
+            6.011377,53.308484,0.000000
+            6.009890,53.309390,0.000000
+            6.009269,53.309446,0.000000
+            6.008684,53.317184,0.000000
+            6.008271,53.322639,0.000000
+            6.020811,53.317945,0.000000
+            6.020511,53.317422,0.000000
+            6.021893,53.309327,0.000000
+            6.021227,53.308936,0.000000
+            6.020379,53.308437,0.000000
+            6.015878,53.308460,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

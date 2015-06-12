@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02320101 Oene</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.042056,52.347511,0.000000
+            6.048286,52.345613,0.000000
+            6.049435,52.346525,0.000000
+            6.053243,52.345979,0.000000
+            6.051470,52.339560,0.000000
+            6.050420,52.339739,0.000000
+            6.051192,52.340900,0.000000
+            6.048401,52.341421,0.000000
+            6.044896,52.340128,0.000000
+            6.043301,52.342018,0.000000
+            6.045575,52.344976,0.000000
+            6.041441,52.346491,0.000000
+            6.042056,52.347511,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

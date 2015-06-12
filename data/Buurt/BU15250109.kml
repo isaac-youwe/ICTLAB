@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15250109 Verspreide huizen Voorhout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.486607,52.217725,0.000000
+            4.488730,52.211410,0.000000
+            4.475927,52.202848,0.000000
+            4.475714,52.202890,0.000000
+            4.464066,52.200103,0.000000
+            4.461103,52.201878,0.000000
+            4.459505,52.204245,0.000000
+            4.483111,52.217195,0.000000
+            4.484370,52.216773,0.000000
+            4.486607,52.217725,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.519242,52.230657,0.000000
+            4.510082,52.224696,0.000000
+            4.502420,52.229412,0.000000
+            4.499744,52.227660,0.000000
+            4.495563,52.229082,0.000000
+            4.524505,52.248250,0.000000
+            4.524582,52.248204,0.000000
+            4.526064,52.247316,0.000000
+            4.523188,52.244598,0.000000
+            4.530578,52.241056,0.000000
+            4.529166,52.238349,0.000000
+            4.525702,52.236171,0.000000
+            4.521492,52.234104,0.000000
+            4.522663,52.233355,0.000000
+            4.519242,52.230657,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

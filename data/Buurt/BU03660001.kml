@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03660001 Gelderse Buurt en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.815786,52.852560,0.000000
+            4.810389,52.849944,0.000000
+            4.809232,52.842955,0.000000
+            4.809812,52.836025,0.000000
+            4.802196,52.841922,0.000000
+            4.794857,52.847602,0.000000
+            4.782932,52.851137,0.000000
+            4.759216,52.848318,0.000000
+            4.759352,52.848681,0.000000
+            4.770662,52.878936,0.000000
+            4.776458,52.887922,0.000000
+            4.809006,52.876150,0.000000
+            4.803284,52.872799,0.000000
+            4.797344,52.866512,0.000000
+            4.790548,52.861239,0.000000
+            4.815786,52.852560,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16810709 Verspreide huizen Nieuw-Buinen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.962868,52.965994,0.000000
+            6.966912,52.962300,0.000000
+            6.970378,52.963776,0.000000
+            6.978279,52.957114,0.000000
+            6.978429,52.956979,0.000000
+            6.980169,52.955405,0.000000
+            6.899828,52.923528,0.000000
+            6.888083,52.934221,0.000000
+            6.887074,52.935115,0.000000
+            6.962868,52.965994,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.898982,52.946169,0.000000
+            6.888444,52.942099,0.000000
+            6.887644,52.942389,0.000000
+            6.875857,52.953604,0.000000
+            6.877141,52.954125,0.000000
+            6.948122,52.982526,0.000000
+            6.952647,52.978716,0.000000
+            6.947107,52.976661,0.000000
+            6.946304,52.975825,0.000000
+            6.948662,52.973629,0.000000
+            6.943014,52.970785,0.000000
+            6.948078,52.966093,0.000000
+            6.898982,52.946169,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03970100 De Glip</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.611114,52.325212,0.000000
+            4.611161,52.322516,0.000000
+            4.597864,52.327821,0.000000
+            4.597249,52.327942,0.000000
+            4.596934,52.328004,0.000000
+            4.602608,52.335689,0.000000
+            4.606424,52.335195,0.000000
+            4.607491,52.334201,0.000000
+            4.606381,52.333550,0.000000
+            4.608871,52.332057,0.000000
+            4.613771,52.327711,0.000000
+            4.611114,52.325212,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

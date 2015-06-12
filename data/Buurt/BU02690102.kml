@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02690102 Hattemerbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.031931,52.475130,0.000000
+            6.030083,52.473660,0.000000
+            6.027964,52.474348,0.000000
+            6.025079,52.473833,0.000000
+            6.019900,52.470762,0.000000
+            6.015630,52.466613,0.000000
+            6.015781,52.471306,0.000000
+            6.015023,52.471969,0.000000
+            6.013112,52.471696,0.000000
+            6.011358,52.472982,0.000000
+            6.029249,52.482317,0.000000
+            6.033466,52.478820,0.000000
+            6.033488,52.478802,0.000000
+            6.033478,52.478116,0.000000
+            6.030193,52.476669,0.000000
+            6.031931,52.475130,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

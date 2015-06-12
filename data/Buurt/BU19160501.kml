@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19160501 Sijtwende I+II</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.384608,52.076297,0.000000
+            4.384188,52.076169,0.000000
+            4.383979,52.076292,0.000000
+            4.381700,52.077635,0.000000
+            4.374172,52.079447,0.000000
+            4.381475,52.083694,0.000000
+            4.379805,52.085367,0.000000
+            4.382301,52.086315,0.000000
+            4.389565,52.080741,0.000000
+            4.391390,52.078376,0.000000
+            4.388118,52.077373,0.000000
+            4.384608,52.076297,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

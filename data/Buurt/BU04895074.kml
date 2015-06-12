@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04895074 BT Handelscentrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.558416,51.854357,0.000000
+            4.554053,51.853494,0.000000
+            4.551667,51.855958,0.000000
+            4.550860,51.856828,0.000000
+            4.553436,51.857380,0.000000
+            4.551613,51.860603,0.000000
+            4.554004,51.861164,0.000000
+            4.556399,51.858434,0.000000
+            4.559047,51.854457,0.000000
+            4.558416,51.854357,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

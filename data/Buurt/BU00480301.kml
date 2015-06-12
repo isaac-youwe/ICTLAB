@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480301 Sellingerbeetse</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.101808,52.932071,0.000000
+            7.088469,52.921778,0.000000
+            7.084620,52.929010,0.000000
+            7.066246,52.920922,0.000000
+            7.064218,52.922184,0.000000
+            7.063199,52.923686,0.000000
+            7.063635,52.930537,0.000000
+            7.063604,52.930822,0.000000
+            7.064379,52.950962,0.000000
+            7.064397,52.951442,0.000000
+            7.067407,52.952299,0.000000
+            7.067521,52.952331,0.000000
+            7.070417,52.953155,0.000000
+            7.070420,52.953220,0.000000
+            7.102402,52.944211,0.000000
+            7.111354,52.940816,0.000000
+            7.107289,52.939695,0.000000
+            7.110185,52.934132,0.000000
+            7.101808,52.932071,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

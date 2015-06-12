@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17141300 Schoondijke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.561841,51.353223,0.000000
+            3.560999,51.350891,0.000000
+            3.557371,51.349731,0.000000
+            3.555368,51.348803,0.000000
+            3.551854,51.351706,0.000000
+            3.549807,51.350947,0.000000
+            3.548673,51.351634,0.000000
+            3.546412,51.355544,0.000000
+            3.546771,51.358123,0.000000
+            3.550626,51.360604,0.000000
+            3.552414,51.359626,0.000000
+            3.559944,51.358898,0.000000
+            3.564465,51.354122,0.000000
+            3.561841,51.353223,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

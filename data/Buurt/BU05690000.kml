@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05690000 Nieuwkoop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.776701,52.143632,0.000000
+            4.769670,52.134128,0.000000
+            4.773497,52.130845,0.000000
+            4.766924,52.131000,0.000000
+            4.759298,52.128627,0.000000
+            4.760564,52.131035,0.000000
+            4.759116,52.133633,0.000000
+            4.765736,52.142550,0.000000
+            4.767351,52.140160,0.000000
+            4.779356,52.151585,0.000000
+            4.784521,52.153561,0.000000
+            4.786980,52.154897,0.000000
+            4.786265,52.155745,0.000000
+            4.788433,52.156362,0.000000
+            4.806639,52.162136,0.000000
+            4.808632,52.158743,0.000000
+            4.795797,52.155080,0.000000
+            4.780436,52.147041,0.000000
+            4.776701,52.143632,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

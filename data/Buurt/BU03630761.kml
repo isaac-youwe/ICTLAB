@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630761 IJplein en Vogelbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.922782,52.397237,0.000000
+            4.924728,52.390692,0.000000
+            4.933174,52.391444,0.000000
+            4.939656,52.390608,0.000000
+            4.938408,52.386696,0.000000
+            4.932848,52.387614,0.000000
+            4.929580,52.387419,0.000000
+            4.928075,52.385958,0.000000
+            4.923846,52.387588,0.000000
+            4.918715,52.385572,0.000000
+            4.919760,52.380816,0.000000
+            4.910906,52.380008,0.000000
+            4.905736,52.379892,0.000000
+            4.901688,52.380984,0.000000
+            4.913940,52.386805,0.000000
+            4.918058,52.389765,0.000000
+            4.922262,52.396698,0.000000
+            4.921221,52.399088,0.000000
+            4.922782,52.397237,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

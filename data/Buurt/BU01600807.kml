@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600807 Verspreide huizen Den Velde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.705763,52.598847,0.000000
+            6.718474,52.589072,0.000000
+            6.718575,52.588995,0.000000
+            6.761053,52.566320,0.000000
+            6.750669,52.570983,0.000000
+            6.697862,52.591338,0.000000
+            6.697093,52.591604,0.000000
+            6.694991,52.589715,0.000000
+            6.688577,52.592145,0.000000
+            6.683541,52.592985,0.000000
+            6.676270,52.598041,0.000000
+            6.673568,52.599000,0.000000
+            6.675409,52.602346,0.000000
+            6.675590,52.603675,0.000000
+            6.685948,52.604730,0.000000
+            6.687862,52.605482,0.000000
+            6.691428,52.608082,0.000000
+            6.691976,52.610255,0.000000
+            6.697510,52.609691,0.000000
+            6.705763,52.598847,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

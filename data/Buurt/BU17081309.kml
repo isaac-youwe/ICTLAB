@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17081309 Verspreide huizen polder Giethoorn-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.075497,52.711434,0.000000
+            6.071983,52.707266,0.000000
+            6.071197,52.703411,0.000000
+            6.059769,52.709468,0.000000
+            6.053813,52.711538,0.000000
+            6.051777,52.711549,0.000000
+            6.050539,52.707382,0.000000
+            6.051576,52.729867,0.000000
+            6.077721,52.732728,0.000000
+            6.077441,52.724250,0.000000
+            6.072870,52.723808,0.000000
+            6.072853,52.721960,0.000000
+            6.078002,52.720001,0.000000
+            6.075497,52.711434,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721532 Tempel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.489604,51.482372,0.000000
+            5.488481,51.475854,0.000000
+            5.479753,51.476100,0.000000
+            5.470561,51.476327,0.000000
+            5.469823,51.484022,0.000000
+            5.483159,51.484048,0.000000
+            5.489239,51.485171,0.000000
+            5.489604,51.482372,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

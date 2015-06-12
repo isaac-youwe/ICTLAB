@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01190010 Berggierslanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.171094,52.687359,0.000000
+            6.175727,52.680500,0.000000
+            6.180287,52.681593,0.000000
+            6.184293,52.677431,0.000000
+            6.182766,52.674745,0.000000
+            6.163623,52.679365,0.000000
+            6.163639,52.680264,0.000000
+            6.169638,52.686487,0.000000
+            6.171094,52.687359,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

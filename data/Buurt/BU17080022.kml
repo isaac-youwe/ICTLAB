@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080022 Onna</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.152355,52.774931,0.000000
+            6.146369,52.772159,0.000000
+            6.144724,52.774117,0.000000
+            6.139802,52.774023,0.000000
+            6.139996,52.775058,0.000000
+            6.149027,52.775911,0.000000
+            6.151180,52.776023,0.000000
+            6.152355,52.774931,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

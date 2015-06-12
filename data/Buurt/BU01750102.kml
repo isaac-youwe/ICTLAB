@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01750102 Buurtschap Stegerveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.493023,52.543284,0.000000
+            6.481659,52.541803,0.000000
+            6.480726,52.545338,0.000000
+            6.474518,52.569064,0.000000
+            6.489185,52.568929,0.000000
+            6.496627,52.571556,0.000000
+            6.505582,52.575962,0.000000
+            6.505591,52.575966,0.000000
+            6.521425,52.560535,0.000000
+            6.526849,52.551879,0.000000
+            6.493023,52.543284,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

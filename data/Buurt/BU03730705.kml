@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03730705 Camperduin</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.652597,52.728329,0.000000
+            4.655224,52.727306,0.000000
+            4.659048,52.728021,0.000000
+            4.662599,52.727077,0.000000
+            4.660400,52.724958,0.000000
+            4.656292,52.723620,0.000000
+            4.644495,52.721180,0.000000
+            4.638166,52.721368,0.000000
+            4.638159,52.721786,0.000000
+            4.639532,52.728086,0.000000
+            4.639603,52.728322,0.000000
+            4.652597,52.728329,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

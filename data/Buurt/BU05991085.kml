@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991085 Katendrecht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.496376,51.904270,0.000000
+            4.494928,51.898112,0.000000
+            4.492319,51.899137,0.000000
+            4.476482,51.895766,0.000000
+            4.468646,51.898778,0.000000
+            4.467627,51.900318,0.000000
+            4.479587,51.904672,0.000000
+            4.480190,51.903439,0.000000
+            4.486080,51.902892,0.000000
+            4.493989,51.904878,0.000000
+            4.496376,51.904270,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

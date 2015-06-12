@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00240001 Garrelsweer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.772372,53.309215,0.000000
+            6.755046,53.307885,0.000000
+            6.746862,53.308755,0.000000
+            6.746745,53.308771,0.000000
+            6.748696,53.309896,0.000000
+            6.751678,53.310681,0.000000
+            6.776188,53.313503,0.000000
+            6.778206,53.312637,0.000000
+            6.777854,53.310617,0.000000
+            6.772372,53.309215,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03010203 Voorsteralleekwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.234881,52.155722,0.000000
+            6.237511,52.146192,0.000000
+            6.233497,52.146734,0.000000
+            6.224259,52.145685,0.000000
+            6.220090,52.147282,0.000000
+            6.216324,52.146756,0.000000
+            6.215443,52.150779,0.000000
+            6.218626,52.152779,0.000000
+            6.223278,52.154032,0.000000
+            6.231958,52.155743,0.000000
+            6.234881,52.155722,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

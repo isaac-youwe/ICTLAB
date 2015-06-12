@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07970505 Heesbeen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.125513,51.730756,0.000000
+            5.125847,51.727339,0.000000
+            5.120313,51.725394,0.000000
+            5.114793,51.726354,0.000000
+            5.111247,51.727911,0.000000
+            5.108707,51.725535,0.000000
+            5.110512,51.722652,0.000000
+            5.107805,51.721330,0.000000
+            5.104776,51.722669,0.000000
+            5.105114,51.723821,0.000000
+            5.101553,51.731246,0.000000
+            5.101996,51.731431,0.000000
+            5.118672,51.735791,0.000000
+            5.119253,51.735943,0.000000
+            5.120400,51.732966,0.000000
+            5.125513,51.730756,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03130004 Bikkersvaart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.372927,52.242872,0.000000
+            5.370739,52.241940,0.000000
+            5.362177,52.243614,0.000000
+            5.360422,52.244155,0.000000
+            5.365633,52.251151,0.000000
+            5.373146,52.249199,0.000000
+            5.372749,52.245886,0.000000
+            5.372927,52.242872,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

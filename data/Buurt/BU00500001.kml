@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00500001 Eerste woonwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.528425,52.338296,0.000000
+            5.531122,52.336924,0.000000
+            5.540088,52.338214,0.000000
+            5.541109,52.337950,0.000000
+            5.541288,52.337545,0.000000
+            5.545235,52.335117,0.000000
+            5.543015,52.334641,0.000000
+            5.543956,52.332805,0.000000
+            5.537819,52.331708,0.000000
+            5.538823,52.329542,0.000000
+            5.534822,52.327901,0.000000
+            5.529257,52.326863,0.000000
+            5.525056,52.335591,0.000000
+            5.528425,52.338296,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

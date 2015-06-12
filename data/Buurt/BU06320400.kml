@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320400 Kamerik waaronder Kanis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.898340,52.131880,0.000000
+            4.899262,52.115755,0.000000
+            4.901345,52.113264,0.000000
+            4.899520,52.112752,0.000000
+            4.899855,52.106983,0.000000
+            4.890901,52.107097,0.000000
+            4.889958,52.107102,0.000000
+            4.887484,52.111059,0.000000
+            4.887541,52.115281,0.000000
+            4.890760,52.115238,0.000000
+            4.890510,52.123092,0.000000
+            4.889185,52.123054,0.000000
+            4.889326,52.125568,0.000000
+            4.890610,52.125756,0.000000
+            4.890538,52.134007,0.000000
+            4.895705,52.133602,0.000000
+            4.898340,52.131880,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

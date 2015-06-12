@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16740402 Kroeven-Zuidwest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.463155,51.512621,0.000000
+            4.454838,51.511065,0.000000
+            4.455675,51.514756,0.000000
+            4.453562,51.519012,0.000000
+            4.457689,51.519365,0.000000
+            4.459279,51.515887,0.000000
+            4.461639,51.515546,0.000000
+            4.463155,51.512621,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

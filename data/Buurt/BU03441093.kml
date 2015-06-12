@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03441093 Vleuterweide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.021355,52.090549,0.000000
+            5.019611,52.085969,0.000000
+            5.004867,52.088006,0.000000
+            5.004871,52.088033,0.000000
+            4.994632,52.090696,0.000000
+            4.993458,52.092124,0.000000
+            4.993385,52.092212,0.000000
+            4.993498,52.092235,0.000000
+            4.995895,52.098861,0.000000
+            4.994997,52.104172,0.000000
+            4.997042,52.104027,0.000000
+            5.012839,52.102717,0.000000
+            5.021355,52.090549,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

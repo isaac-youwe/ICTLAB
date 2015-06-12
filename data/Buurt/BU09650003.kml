@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09650003 Molsberg-Rodeput</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.986853,50.844083,0.000000
+            5.988674,50.841568,0.000000
+            5.992207,50.843754,0.000000
+            5.997744,50.841079,0.000000
+            5.997835,50.841035,0.000000
+            5.993579,50.839333,0.000000
+            5.999823,50.834747,0.000000
+            5.994099,50.831296,0.000000
+            5.991360,50.833429,0.000000
+            5.991806,50.836539,0.000000
+            5.989238,50.838798,0.000000
+            5.987620,50.838765,0.000000
+            5.983025,50.841698,0.000000
+            5.983087,50.842800,0.000000
+            5.986853,50.844083,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

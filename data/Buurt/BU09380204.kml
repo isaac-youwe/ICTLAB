@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09380204 Hulsen-Oostbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.751276,50.919974,0.000000
+            5.745499,50.913033,0.000000
+            5.741093,50.914069,0.000000
+            5.744961,50.921515,0.000000
+            5.740425,50.922715,0.000000
+            5.745024,50.928293,0.000000
+            5.748596,50.935616,0.000000
+            5.752123,50.934114,0.000000
+            5.750608,50.929830,0.000000
+            5.752008,50.922441,0.000000
+            5.751276,50.919974,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

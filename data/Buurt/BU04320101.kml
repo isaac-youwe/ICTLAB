@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04320101 Aartswoud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.957607,52.753028,0.000000
+            4.987241,52.752232,0.000000
+            4.987358,52.752233,0.000000
+            4.987039,52.747295,0.000000
+            4.962252,52.741430,0.000000
+            4.949835,52.737889,0.000000
+            4.945098,52.736712,0.000000
+            4.942461,52.737929,0.000000
+            4.942728,52.745191,0.000000
+            4.932408,52.749068,0.000000
+            4.932461,52.749339,0.000000
+            4.939858,52.750266,0.000000
+            4.944275,52.752979,0.000000
+            4.945429,52.753688,0.000000
+            4.945747,52.753883,0.000000
+            4.954617,52.755713,0.000000
+            4.954635,52.753916,0.000000
+            4.957607,52.753028,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

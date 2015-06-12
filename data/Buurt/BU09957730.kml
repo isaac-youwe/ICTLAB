@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09957730 Dronterweg-Zeeasterweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.565301,52.470542,0.000000
+            5.565323,52.470518,0.000000
+            5.552690,52.483796,0.000000
+            5.537235,52.505287,0.000000
+            5.553810,52.510858,0.000000
+            5.561289,52.512393,0.000000
+            5.588392,52.513816,0.000000
+            5.587575,52.513651,0.000000
+            5.591932,52.500161,0.000000
+            5.606581,52.484859,0.000000
+            5.606585,52.484855,0.000000
+            5.565301,52.470542,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

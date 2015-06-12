@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05051907 Krabbepolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.628020,51.785317,0.000000
+            4.626882,51.784237,0.000000
+            4.626206,51.784248,0.000000
+            4.623172,51.794014,0.000000
+            4.621633,51.801045,0.000000
+            4.628134,51.800172,0.000000
+            4.630897,51.798737,0.000000
+            4.634327,51.794732,0.000000
+            4.633549,51.791829,0.000000
+            4.632965,51.790134,0.000000
+            4.628020,51.785317,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

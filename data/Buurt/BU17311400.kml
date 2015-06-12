@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17311400 Zwiggelte</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.584529,52.879256,0.000000
+            6.590909,52.877273,0.000000
+            6.592372,52.876134,0.000000
+            6.590147,52.875137,0.000000
+            6.587970,52.867444,0.000000
+            6.586613,52.868251,0.000000
+            6.582784,52.867680,0.000000
+            6.581146,52.872744,0.000000
+            6.583862,52.873344,0.000000
+            6.583901,52.876457,0.000000
+            6.583268,52.877936,0.000000
+            6.579787,52.877699,0.000000
+            6.579688,52.879037,0.000000
+            6.584529,52.879256,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

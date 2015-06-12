@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02090305 Weurt Buitengebied Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.824992,51.866170,0.000000
+            5.825729,51.865801,0.000000
+            5.825694,51.862205,0.000000
+            5.824207,51.858615,0.000000
+            5.824086,51.858467,0.000000
+            5.821140,51.860061,0.000000
+            5.816205,51.859915,0.000000
+            5.813288,51.858383,0.000000
+            5.808846,51.858812,0.000000
+            5.801086,51.859149,0.000000
+            5.800604,51.861688,0.000000
+            5.803781,51.866297,0.000000
+            5.806840,51.866034,0.000000
+            5.808528,51.867353,0.000000
+            5.810385,51.872816,0.000000
+            5.818503,51.869423,0.000000
+            5.824992,51.866170,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

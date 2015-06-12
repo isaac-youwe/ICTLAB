@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950101 Zoutman</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.721249,52.042440,0.000000
+            4.719352,52.035692,0.000000
+            4.716634,52.037337,0.000000
+            4.715720,52.037891,0.000000
+            4.715218,52.038195,0.000000
+            4.712558,52.038996,0.000000
+            4.712289,52.039077,0.000000
+            4.706445,52.039942,0.000000
+            4.704216,52.040351,0.000000
+            4.711308,52.045221,0.000000
+            4.721249,52.042440,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

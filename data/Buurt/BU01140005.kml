@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140005 Emmerschans</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.942182,52.802385,0.000000
+            6.942188,52.800460,0.000000
+            6.948745,52.800167,0.000000
+            6.949315,52.797930,0.000000
+            6.939913,52.798600,0.000000
+            6.938358,52.797175,0.000000
+            6.932522,52.795336,0.000000
+            6.931294,52.797200,0.000000
+            6.928905,52.801581,0.000000
+            6.931731,52.802677,0.000000
+            6.932336,52.802103,0.000000
+            6.937780,52.804228,0.000000
+            6.940112,52.803842,0.000000
+            6.942182,52.802385,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

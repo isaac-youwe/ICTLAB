@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09710000 Oud-Stein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.766472,50.962995,0.000000
+            5.756966,50.958450,0.000000
+            5.754056,50.959281,0.000000
+            5.750972,50.961638,0.000000
+            5.748981,50.967151,0.000000
+            5.764454,50.984854,0.000000
+            5.764054,50.983364,0.000000
+            5.769263,50.982545,0.000000
+            5.767268,50.978328,0.000000
+            5.765703,50.970242,0.000000
+            5.764820,50.965880,0.000000
+            5.766472,50.962995,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

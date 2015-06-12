@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05850303 Maasdam nieuwbouw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.544197,51.786131,0.000000
+            4.548896,51.784316,0.000000
+            4.549308,51.785331,0.000000
+            4.550784,51.785212,0.000000
+            4.553256,51.782575,0.000000
+            4.553115,51.780243,0.000000
+            4.550762,51.778427,0.000000
+            4.548894,51.779052,0.000000
+            4.549688,51.781665,0.000000
+            4.544983,51.784294,0.000000
+            4.544197,51.786131,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.562574,51.787776,0.000000
+            4.559562,51.785556,0.000000
+            4.557572,51.786059,0.000000
+            4.556348,51.788278,0.000000
+            4.558263,51.790054,0.000000
+            4.561111,51.789143,0.000000
+            4.562574,51.787776,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.557971,51.790915,0.000000
+            4.554461,51.787729,0.000000
+            4.552726,51.788392,0.000000
+            4.547910,51.790870,0.000000
+            4.548180,51.790975,0.000000
+            4.550751,51.790780,0.000000
+            4.553067,51.793211,0.000000
+            4.557042,51.791658,0.000000
+            4.557971,51.790915,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

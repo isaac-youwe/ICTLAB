@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680733 Meijhorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.802812,51.815471,0.000000
+            5.803248,51.811922,0.000000
+            5.803469,51.809484,0.000000
+            5.799050,51.809152,0.000000
+            5.794522,51.807742,0.000000
+            5.789400,51.814371,0.000000
+            5.796174,51.815407,0.000000
+            5.796689,51.814817,0.000000
+            5.802812,51.815471,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

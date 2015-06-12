@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220208 Wassinkbrink-Zuidoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.327581,51.977025,0.000000
+            6.327552,51.975663,0.000000
+            6.326461,51.975873,0.000000
+            6.309751,51.980638,0.000000
+            6.318025,51.982831,0.000000
+            6.327022,51.989042,0.000000
+            6.331431,51.989157,0.000000
+            6.336504,51.985943,0.000000
+            6.327581,51.977025,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

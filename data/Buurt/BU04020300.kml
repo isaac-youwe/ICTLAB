@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020300 Sportparkkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.180396,52.220353,0.000000
+            5.184477,52.219617,0.000000
+            5.186809,52.219971,0.000000
+            5.189548,52.219338,0.000000
+            5.190716,52.215748,0.000000
+            5.198116,52.213808,0.000000
+            5.197833,52.213161,0.000000
+            5.206237,52.210094,0.000000
+            5.200442,52.205981,0.000000
+            5.199114,52.205760,0.000000
+            5.194253,52.210216,0.000000
+            5.186652,52.210417,0.000000
+            5.179249,52.211040,0.000000
+            5.183094,52.216353,0.000000
+            5.182922,52.218324,0.000000
+            5.180396,52.220353,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

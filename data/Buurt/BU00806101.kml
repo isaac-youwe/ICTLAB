@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00806101 Vossepark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.777387,53.205439,0.000000
+            5.787631,53.204354,0.000000
+            5.788239,53.204438,0.000000
+            5.787108,53.201868,0.000000
+            5.788597,53.200618,0.000000
+            5.788402,53.198882,0.000000
+            5.787681,53.198176,0.000000
+            5.774979,53.199827,0.000000
+            5.776674,53.205634,0.000000
+            5.777387,53.205439,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

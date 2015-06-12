@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02740207 Verspreide huizen Buunderkamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.770666,52.021539,0.000000
+            5.766399,52.010947,0.000000
+            5.766095,52.011004,0.000000
+            5.741023,52.015563,0.000000
+            5.745639,52.019790,0.000000
+            5.752932,52.020667,0.000000
+            5.770424,52.021510,0.000000
+            5.770666,52.021539,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

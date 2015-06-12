@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05050101 Park Merwestein en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.677842,51.809497,0.000000
+            4.673403,51.807279,0.000000
+            4.672182,51.809093,0.000000
+            4.676924,51.813202,0.000000
+            4.677513,51.813510,0.000000
+            4.682809,51.811768,0.000000
+            4.682011,51.811271,0.000000
+            4.678406,51.809827,0.000000
+            4.677842,51.809497,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

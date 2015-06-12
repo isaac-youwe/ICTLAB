@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02740209 Verspreide huizen Doorwerthse waarden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.747313,51.971387,0.000000
+            5.784178,51.968821,0.000000
+            5.802937,51.968916,0.000000
+            5.808957,51.969718,0.000000
+            5.809494,51.969296,0.000000
+            5.809274,51.969239,0.000000
+            5.785900,51.959432,0.000000
+            5.780080,51.959452,0.000000
+            5.779832,51.959499,0.000000
+            5.765552,51.962196,0.000000
+            5.752499,51.967631,0.000000
+            5.746692,51.969447,0.000000
+            5.746007,51.969449,0.000000
+            5.747313,51.971387,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

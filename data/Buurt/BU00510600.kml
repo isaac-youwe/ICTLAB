@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510600 Sint Johannesga</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.888643,52.929427,0.000000
+            5.868444,52.921448,0.000000
+            5.852262,52.931286,0.000000
+            5.854093,52.932268,0.000000
+            5.865837,52.937729,0.000000
+            5.878284,52.940105,0.000000
+            5.885178,52.931976,0.000000
+            5.886596,52.931806,0.000000
+            5.888643,52.929427,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

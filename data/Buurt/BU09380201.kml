@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09380201 Kasen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.752041,50.899353,0.000000
+            5.747228,50.896211,0.000000
+            5.740250,50.898931,0.000000
+            5.736258,50.898655,0.000000
+            5.736936,50.901866,0.000000
+            5.742765,50.909111,0.000000
+            5.751440,50.909523,0.000000
+            5.752876,50.910214,0.000000
+            5.759848,50.907851,0.000000
+            5.759741,50.907717,0.000000
+            5.753996,50.900544,0.000000
+            5.754285,50.900360,0.000000
+            5.752041,50.899353,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

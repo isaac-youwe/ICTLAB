@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17081401 Overig Giethoorn-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.089771,52.758475,0.000000
+            6.090547,52.755468,0.000000
+            6.094539,52.755778,0.000000
+            6.103463,52.746633,0.000000
+            6.109042,52.746572,0.000000
+            6.109563,52.742012,0.000000
+            6.108053,52.738443,0.000000
+            6.093601,52.736699,0.000000
+            6.094181,52.734842,0.000000
+            6.084974,52.733955,0.000000
+            6.083475,52.739846,0.000000
+            6.084794,52.741733,0.000000
+            6.079451,52.742835,0.000000
+            6.076574,52.742379,0.000000
+            6.080095,52.756955,0.000000
+            6.085702,52.770403,0.000000
+            6.090291,52.773824,0.000000
+            6.091258,52.774062,0.000000
+            6.089771,52.758475,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

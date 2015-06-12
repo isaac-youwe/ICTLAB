@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09173700 Bekkerveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.987386,50.877893,0.000000
+            5.980491,50.875935,0.000000
+            5.978838,50.880806,0.000000
+            5.980748,50.881945,0.000000
+            5.984082,50.883311,0.000000
+            5.986007,50.882851,0.000000
+            5.989249,50.878816,0.000000
+            5.987386,50.877893,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

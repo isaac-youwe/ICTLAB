@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08670500 Waspik</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.948045,51.692383,0.000000
+            4.948220,51.689919,0.000000
+            4.964108,51.690501,0.000000
+            4.951832,51.688997,0.000000
+            4.952725,51.682330,0.000000
+            4.950659,51.681847,0.000000
+            4.950655,51.681103,0.000000
+            4.948630,51.681409,0.000000
+            4.947076,51.681660,0.000000
+            4.942109,51.682460,0.000000
+            4.940693,51.685131,0.000000
+            4.936510,51.684398,0.000000
+            4.929414,51.686063,0.000000
+            4.929058,51.687341,0.000000
+            4.937689,51.686123,0.000000
+            4.936454,51.691419,0.000000
+            4.942970,51.691586,0.000000
+            4.944636,51.692634,0.000000
+            4.948045,51.692383,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

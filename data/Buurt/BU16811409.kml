@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16811409 Verspreide huizen Odoornerveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.800428,52.862096,0.000000
+            6.786847,52.858596,0.000000
+            6.813131,52.846100,0.000000
+            6.828238,52.849167,0.000000
+            6.831961,52.841107,0.000000
+            6.836222,52.835143,0.000000
+            6.827858,52.825784,0.000000
+            6.824472,52.824990,0.000000
+            6.820759,52.827048,0.000000
+            6.821901,52.827862,0.000000
+            6.763850,52.855482,0.000000
+            6.754493,52.859782,0.000000
+            6.754192,52.858741,0.000000
+            6.753422,52.859225,0.000000
+            6.752050,52.862836,0.000000
+            6.752051,52.862890,0.000000
+            6.752060,52.863180,0.000000
+            6.766270,52.867527,0.000000
+            6.787471,52.872704,0.000000
+            6.800428,52.862096,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

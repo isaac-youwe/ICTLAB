@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01480701 Nieuwleusen-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.294328,52.586918,0.000000
+            6.277963,52.579878,0.000000
+            6.268312,52.595021,0.000000
+            6.268417,52.595042,0.000000
+            6.274320,52.594998,0.000000
+            6.280224,52.594954,0.000000
+            6.289098,52.595785,0.000000
+            6.289474,52.595833,0.000000
+            6.294328,52.586918,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

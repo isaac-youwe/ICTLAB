@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16610310 Beerta-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.107062,53.179734,0.000000
+            7.104719,53.177604,0.000000
+            7.110493,53.174874,0.000000
+            7.109716,53.174282,0.000000
+            7.103999,53.176951,0.000000
+            7.101752,53.174908,0.000000
+            7.102769,53.174278,0.000000
+            7.090990,53.167045,0.000000
+            7.086632,53.168606,0.000000
+            7.092281,53.172703,0.000000
+            7.094125,53.172345,0.000000
+            7.096711,53.174876,0.000000
+            7.098947,53.176461,0.000000
+            7.094198,53.178661,0.000000
+            7.095355,53.179620,0.000000
+            7.099146,53.178714,0.000000
+            7.103589,53.181478,0.000000
+            7.107062,53.179734,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

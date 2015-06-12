@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09954410 Boswijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.491280,52.511891,0.000000
+            5.498578,52.510192,0.000000
+            5.510680,52.510744,0.000000
+            5.510508,52.499492,0.000000
+            5.498334,52.499826,0.000000
+            5.489545,52.497919,0.000000
+            5.481863,52.497548,0.000000
+            5.480279,52.501316,0.000000
+            5.479148,52.505598,0.000000
+            5.479008,52.506750,0.000000
+            5.481576,52.507600,0.000000
+            5.481071,52.511449,0.000000
+            5.491280,52.511891,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

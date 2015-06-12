@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04051102 Buurt 11 02</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.072458,52.645256,0.000000
+            5.076198,52.644429,0.000000
+            5.078608,52.644989,0.000000
+            5.080365,52.643291,0.000000
+            5.082075,52.641736,0.000000
+            5.081335,52.641958,0.000000
+            5.078380,52.641951,0.000000
+            5.075789,52.640361,0.000000
+            5.068916,52.641229,0.000000
+            5.063335,52.643395,0.000000
+            5.066780,52.644659,0.000000
+            5.067082,52.644185,0.000000
+            5.072458,52.645256,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991082 Hillesluis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.518837,51.891018,0.000000
+            4.507594,51.889750,0.000000
+            4.509250,51.893496,0.000000
+            4.501963,51.897396,0.000000
+            4.502309,51.898351,0.000000
+            4.508954,51.899190,0.000000
+            4.511722,51.901360,0.000000
+            4.511829,51.902876,0.000000
+            4.512798,51.901736,0.000000
+            4.521597,51.891957,0.000000
+            4.518837,51.891018,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

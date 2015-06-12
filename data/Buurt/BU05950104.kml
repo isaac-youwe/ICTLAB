@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950104 Platteweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.743642,52.027164,0.000000
+            4.748468,52.024674,0.000000
+            4.747077,52.019875,0.000000
+            4.749918,52.014542,0.000000
+            4.749843,52.014545,0.000000
+            4.746136,52.016792,0.000000
+            4.743144,52.022170,0.000000
+            4.734363,52.024818,0.000000
+            4.728858,52.025635,0.000000
+            4.728521,52.025685,0.000000
+            4.722809,52.025653,0.000000
+            4.722692,52.025652,0.000000
+            4.719823,52.026517,0.000000
+            4.719765,52.026534,0.000000
+            4.719711,52.030130,0.000000
+            4.719705,52.030535,0.000000
+            4.728981,52.030392,0.000000
+            4.733418,52.030114,0.000000
+            4.743642,52.027164,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00980700 Steggerda</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.104592,52.873988,0.000000
+            6.106821,52.871276,0.000000
+            6.109398,52.868022,0.000000
+            6.088210,52.859393,0.000000
+            6.056884,52.848060,0.000000
+            6.055380,52.851147,0.000000
+            6.058709,52.856897,0.000000
+            6.057874,52.860410,0.000000
+            6.061766,52.861014,0.000000
+            6.067883,52.860408,0.000000
+            6.070619,52.861114,0.000000
+            6.072207,52.861633,0.000000
+            6.072691,52.863293,0.000000
+            6.075589,52.864665,0.000000
+            6.090507,52.869211,0.000000
+            6.088729,52.871345,0.000000
+            6.093689,52.872823,0.000000
+            6.094559,52.871358,0.000000
+            6.104592,52.873988,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

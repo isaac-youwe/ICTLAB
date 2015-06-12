@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03980772 Heemradenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.849652,52.676567,0.000000
+            4.848979,52.671449,0.000000
+            4.841120,52.674055,0.000000
+            4.839153,52.675369,0.000000
+            4.842028,52.676602,0.000000
+            4.844978,52.676682,0.000000
+            4.845159,52.679102,0.000000
+            4.849285,52.679391,0.000000
+            4.849652,52.676567,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

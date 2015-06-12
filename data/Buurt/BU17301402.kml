@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17301402 Taarlo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.629044,53.032723,0.000000
+            6.624428,53.029483,0.000000
+            6.622379,53.030270,0.000000
+            6.624482,53.032076,0.000000
+            6.623337,53.032638,0.000000
+            6.619952,53.031798,0.000000
+            6.617092,53.033097,0.000000
+            6.617839,53.033852,0.000000
+            6.625768,53.035645,0.000000
+            6.629422,53.034534,0.000000
+            6.629044,53.032723,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

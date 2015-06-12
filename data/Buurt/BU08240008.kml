@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08240008 Verspreide huizen Kerkhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.187116,51.586783,0.000000
+            5.176485,51.586463,0.000000
+            5.171608,51.592803,0.000000
+            5.172146,51.593141,0.000000
+            5.179342,51.597649,0.000000
+            5.186544,51.601257,0.000000
+            5.187444,51.600699,0.000000
+            5.190886,51.598568,0.000000
+            5.194398,51.596392,0.000000
+            5.191765,51.592444,0.000000
+            5.188722,51.587692,0.000000
+            5.187116,51.586783,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

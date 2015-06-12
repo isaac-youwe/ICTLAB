@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09930105 Legert-Osterbos-Gun</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.140545,51.501012,0.000000
+            6.143198,51.494082,0.000000
+            6.142125,51.494603,0.000000
+            6.135402,51.495523,0.000000
+            6.127813,51.495232,0.000000
+            6.116732,51.498360,0.000000
+            6.108148,51.505043,0.000000
+            6.115583,51.511973,0.000000
+            6.121866,51.508035,0.000000
+            6.128448,51.506713,0.000000
+            6.137763,51.503674,0.000000
+            6.140545,51.501012,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

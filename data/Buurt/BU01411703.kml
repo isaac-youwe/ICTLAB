@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411703 Kollenveld-Bolkshoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.693815,52.352345,0.000000
+            6.708307,52.344869,0.000000
+            6.710669,52.344350,0.000000
+            6.709633,52.343738,0.000000
+            6.713981,52.341892,0.000000
+            6.721290,52.340910,0.000000
+            6.718275,52.338247,0.000000
+            6.709258,52.331157,0.000000
+            6.707769,52.331634,0.000000
+            6.700996,52.336554,0.000000
+            6.683694,52.344839,0.000000
+            6.679826,52.347380,0.000000
+            6.676722,52.350298,0.000000
+            6.681734,52.350265,0.000000
+            6.683455,52.351877,0.000000
+            6.689624,52.348222,0.000000
+            6.692093,52.349430,0.000000
+            6.693815,52.352345,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

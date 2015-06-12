@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03850011 Industrieterrein-Oosthuizerweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.030610,52.519576,0.000000
+            5.043885,52.517818,0.000000
+            5.046319,52.519317,0.000000
+            5.046386,52.515879,0.000000
+            5.044031,52.510943,0.000000
+            5.041681,52.504465,0.000000
+            5.039844,52.504079,0.000000
+            5.041768,52.506477,0.000000
+            5.040277,52.511602,0.000000
+            5.029095,52.520262,0.000000
+            5.030610,52.519576,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

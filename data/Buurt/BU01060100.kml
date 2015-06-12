@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060100 Veningerland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.556634,53.001471,0.000000
+            6.550813,52.999586,0.000000
+            6.548964,53.002755,0.000000
+            6.548966,53.004298,0.000000
+            6.552093,53.006425,0.000000
+            6.553695,53.005443,0.000000
+            6.562347,53.003764,0.000000
+            6.563380,53.002611,0.000000
+            6.556634,53.001471,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

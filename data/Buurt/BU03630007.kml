@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630007 De Weteringschans</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.887941,52.362730,0.000000
+            4.896035,52.361651,0.000000
+            4.902634,52.362874,0.000000
+            4.904584,52.359224,0.000000
+            4.898670,52.357997,0.000000
+            4.890796,52.358343,0.000000
+            4.887290,52.360246,0.000000
+            4.881986,52.362073,0.000000
+            4.879294,52.364350,0.000000
+            4.879193,52.364981,0.000000
+            4.882644,52.366175,0.000000
+            4.884427,52.365060,0.000000
+            4.887941,52.362730,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

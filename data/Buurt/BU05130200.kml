@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130200 De Korte Akkeren-Oud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.702790,52.011384,0.000000
+            4.704286,52.008782,0.000000
+            4.708047,52.007246,0.000000
+            4.705129,52.005376,0.000000
+            4.707595,52.003998,0.000000
+            4.705212,52.002665,0.000000
+            4.699206,52.004804,0.000000
+            4.700231,52.005796,0.000000
+            4.695504,52.007388,0.000000
+            4.693027,52.006129,0.000000
+            4.689850,52.008777,0.000000
+            4.692756,52.010854,0.000000
+            4.697071,52.011341,0.000000
+            4.699711,52.010146,0.000000
+            4.702790,52.011384,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

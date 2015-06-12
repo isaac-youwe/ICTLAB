@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03560201 Plettenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.114273,52.028879,0.000000
+            5.114502,52.025265,0.000000
+            5.112752,52.021295,0.000000
+            5.097859,52.027694,0.000000
+            5.096906,52.027209,0.000000
+            5.090927,52.032278,0.000000
+            5.095749,52.037954,0.000000
+            5.099293,52.041985,0.000000
+            5.104427,52.048254,0.000000
+            5.104360,52.049665,0.000000
+            5.105565,52.050040,0.000000
+            5.111665,52.037484,0.000000
+            5.110940,52.037148,0.000000
+            5.114273,52.028879,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

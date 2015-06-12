@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18830203 Vrangendael</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.884233,50.996549,0.000000
+            5.883053,50.993663,0.000000
+            5.875517,50.995994,0.000000
+            5.875674,50.998880,0.000000
+            5.887984,51.001388,0.000000
+            5.890588,51.000162,0.000000
+            5.888351,50.996581,0.000000
+            5.884233,50.996549,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

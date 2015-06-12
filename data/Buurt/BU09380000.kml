@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09380000 Meerssen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.762457,50.880014,0.000000
+            5.759186,50.877585,0.000000
+            5.749158,50.877841,0.000000
+            5.746952,50.880633,0.000000
+            5.737184,50.883937,0.000000
+            5.738567,50.889161,0.000000
+            5.747228,50.896211,0.000000
+            5.752041,50.899353,0.000000
+            5.752939,50.896074,0.000000
+            5.757052,50.894338,0.000000
+            5.761466,50.890687,0.000000
+            5.770009,50.886027,0.000000
+            5.769024,50.883065,0.000000
+            5.762457,50.880014,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06130203 Deltawijk en Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.404426,51.852824,0.000000
+            4.401104,51.849496,0.000000
+            4.410272,51.846988,0.000000
+            4.409926,51.842758,0.000000
+            4.382889,51.841648,0.000000
+            4.384100,51.852446,0.000000
+            4.384094,51.852715,0.000000
+            4.386824,51.852585,0.000000
+            4.392062,51.854189,0.000000
+            4.396103,51.856539,0.000000
+            4.404426,51.852824,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

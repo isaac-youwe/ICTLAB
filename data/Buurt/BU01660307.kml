@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01660307 Trekvaart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.942758,52.557792,0.000000
+            5.942320,52.556292,0.000000
+            5.922465,52.559582,0.000000
+            5.932768,52.559757,0.000000
+            5.930758,52.562898,0.000000
+            5.935481,52.564604,0.000000
+            5.935681,52.565327,0.000000
+            5.939533,52.564342,0.000000
+            5.936749,52.562624,0.000000
+            5.939485,52.561724,0.000000
+            5.939325,52.560433,0.000000
+            5.942758,52.557792,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

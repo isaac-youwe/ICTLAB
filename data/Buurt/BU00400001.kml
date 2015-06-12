@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00400001 Kolham</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.765463,53.193554,0.000000
+            6.765358,53.184072,0.000000
+            6.757693,53.182329,0.000000
+            6.751878,53.181218,0.000000
+            6.737668,53.180455,0.000000
+            6.729394,53.181051,0.000000
+            6.722930,53.182919,0.000000
+            6.721018,53.184555,0.000000
+            6.721566,53.186776,0.000000
+            6.726764,53.188395,0.000000
+            6.730809,53.185884,0.000000
+            6.737528,53.185339,0.000000
+            6.765463,53.193554,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

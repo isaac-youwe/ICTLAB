@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05121411 Oost II</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.021160,51.841799,0.000000
+            5.020298,51.837896,0.000000
+            5.016555,51.838810,0.000000
+            5.004159,51.837999,0.000000
+            5.003506,51.840542,0.000000
+            5.002873,51.843474,0.000000
+            5.008407,51.842636,0.000000
+            5.021160,51.841799,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

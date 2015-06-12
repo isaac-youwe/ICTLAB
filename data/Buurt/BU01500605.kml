@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500605 Epse-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.211158,52.236356,0.000000
+            6.214608,52.231376,0.000000
+            6.214360,52.231378,0.000000
+            6.217002,52.226320,0.000000
+            6.217188,52.225965,0.000000
+            6.211366,52.227803,0.000000
+            6.203531,52.229468,0.000000
+            6.202617,52.229662,0.000000
+            6.189426,52.228853,0.000000
+            6.182204,52.234296,0.000000
+            6.182181,52.234290,0.000000
+            6.182131,52.234366,0.000000
+            6.211158,52.236356,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

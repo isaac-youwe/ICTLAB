@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01935080 Katerveer-Engelse Werk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.070365,52.492932,0.000000
+            6.061659,52.490301,0.000000
+            6.061635,52.490331,0.000000
+            6.057327,52.497546,0.000000
+            6.054409,52.499360,0.000000
+            6.054356,52.499388,0.000000
+            6.065985,52.505657,0.000000
+            6.068972,52.505587,0.000000
+            6.077708,52.502550,0.000000
+            6.075255,52.497755,0.000000
+            6.072562,52.494241,0.000000
+            6.070365,52.492932,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510007 Sewei en De Ekers</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.829263,52.967315,0.000000
+            5.840355,52.964906,0.000000
+            5.837380,52.959031,0.000000
+            5.819198,52.958684,0.000000
+            5.815697,52.958067,0.000000
+            5.812822,52.959849,0.000000
+            5.811110,52.960737,0.000000
+            5.815455,52.966960,0.000000
+            5.816377,52.966729,0.000000
+            5.822862,52.965282,0.000000
+            5.823689,52.966343,0.000000
+            5.827478,52.965172,0.000000
+            5.829263,52.967315,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

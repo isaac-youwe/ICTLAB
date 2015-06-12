@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00050004 Onderdendam</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.595612,53.336001,0.000000
+            6.591861,53.330316,0.000000
+            6.588787,53.330865,0.000000
+            6.587074,53.333181,0.000000
+            6.582456,53.332820,0.000000
+            6.580412,53.333727,0.000000
+            6.581283,53.336481,0.000000
+            6.584571,53.338207,0.000000
+            6.593199,53.337655,0.000000
+            6.595612,53.336001,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

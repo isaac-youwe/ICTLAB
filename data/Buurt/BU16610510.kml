@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16610510 Nieuweschans De Bron</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.201644,53.173264,0.000000
+            7.201430,53.173038,0.000000
+            7.197755,53.176452,0.000000
+            7.194208,53.182298,0.000000
+            7.197947,53.184753,0.000000
+            7.205997,53.189466,0.000000
+            7.204405,53.183180,0.000000
+            7.207515,53.181103,0.000000
+            7.206313,53.176792,0.000000
+            7.206281,53.176789,0.000000
+            7.203290,53.176834,0.000000
+            7.201644,53.173264,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

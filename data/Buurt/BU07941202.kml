@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07941202 Eeuwsels</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.670185,51.495611,0.000000
+            5.669898,51.494252,0.000000
+            5.666478,51.494121,0.000000
+            5.665449,51.495478,0.000000
+            5.652104,51.495205,0.000000
+            5.652698,51.503914,0.000000
+            5.652700,51.505556,0.000000
+            5.656598,51.507626,0.000000
+            5.663769,51.502215,0.000000
+            5.675267,51.498592,0.000000
+            5.675897,51.498098,0.000000
+            5.677071,51.496886,0.000000
+            5.670185,51.495611,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

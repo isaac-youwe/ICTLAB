@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07970501 Oudheusden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.142637,51.726087,0.000000
+            5.143898,51.720131,0.000000
+            5.141059,51.720790,0.000000
+            5.136521,51.719940,0.000000
+            5.126843,51.724150,0.000000
+            5.125847,51.727339,0.000000
+            5.125513,51.730756,0.000000
+            5.126464,51.731485,0.000000
+            5.129071,51.731708,0.000000
+            5.132576,51.729564,0.000000
+            5.138647,51.728899,0.000000
+            5.142637,51.726087,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

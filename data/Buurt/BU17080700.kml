@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080700 Vollenhove</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.970920,52.684063,0.000000
+            5.971103,52.681565,0.000000
+            5.972626,52.681742,0.000000
+            5.976661,52.678163,0.000000
+            5.974010,52.676773,0.000000
+            5.971411,52.676111,0.000000
+            5.969094,52.679126,0.000000
+            5.967189,52.678719,0.000000
+            5.968137,52.675711,0.000000
+            5.953430,52.672872,0.000000
+            5.943870,52.674210,0.000000
+            5.939855,52.679374,0.000000
+            5.946194,52.684114,0.000000
+            5.957197,52.682805,0.000000
+            5.970920,52.684063,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

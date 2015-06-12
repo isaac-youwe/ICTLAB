@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03290003 Loenersloot</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.006517,52.225776,0.000000
+            5.005057,52.221201,0.000000
+            4.999051,52.219742,0.000000
+            4.992698,52.221507,0.000000
+            4.993452,52.224629,0.000000
+            4.983222,52.222797,0.000000
+            4.980254,52.227281,0.000000
+            4.994868,52.230028,0.000000
+            4.995900,52.230242,0.000000
+            4.998754,52.230837,0.000000
+            4.999252,52.230941,0.000000
+            5.006529,52.231859,0.000000
+            5.006517,52.225776,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00520004 Udesweg-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.036545,53.119920,0.000000
+            7.033388,53.115469,0.000000
+            7.030402,53.115510,0.000000
+            7.028942,53.116429,0.000000
+            7.022969,53.116511,0.000000
+            7.022588,53.116506,0.000000
+            7.024689,53.122866,0.000000
+            7.023228,53.133301,0.000000
+            7.043305,53.134381,0.000000
+            7.050370,53.128763,0.000000
+            7.050330,53.128718,0.000000
+            7.036545,53.119920,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09510002 Industrieterrein De Horsel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.881840,50.921511,0.000000
+            5.877121,50.920603,0.000000
+            5.874468,50.921073,0.000000
+            5.871257,50.921977,0.000000
+            5.866749,50.924644,0.000000
+            5.869439,50.927989,0.000000
+            5.882290,50.932430,0.000000
+            5.882521,50.932502,0.000000
+            5.888750,50.923146,0.000000
+            5.881840,50.921511,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

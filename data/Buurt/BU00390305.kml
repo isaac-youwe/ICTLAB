@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00390305 Niesoord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.027121,53.189990,0.000000
+            7.035169,53.168512,0.000000
+            7.029457,53.169454,0.000000
+            7.028886,53.169462,0.000000
+            7.024626,53.182905,0.000000
+            7.018735,53.184455,0.000000
+            7.021816,53.187936,0.000000
+            7.024107,53.189612,0.000000
+            7.027121,53.189990,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07860000 Binnenstad-Grave</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.744722,51.756076,0.000000
+            5.741281,51.753617,0.000000
+            5.739405,51.754955,0.000000
+            5.736591,51.754848,0.000000
+            5.736088,51.756013,0.000000
+            5.734131,51.756579,0.000000
+            5.733283,51.760002,0.000000
+            5.733246,51.760850,0.000000
+            5.740603,51.762848,0.000000
+            5.740699,51.762708,0.000000
+            5.745016,51.759099,0.000000
+            5.745249,51.759012,0.000000
+            5.743096,51.757590,0.000000
+            5.744722,51.756076,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

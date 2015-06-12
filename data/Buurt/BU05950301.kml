@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950301 Waarder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.823450,52.057315,0.000000
+            4.821527,52.056243,0.000000
+            4.814691,52.059900,0.000000
+            4.814999,52.063892,0.000000
+            4.815470,52.063894,0.000000
+            4.825317,52.065679,0.000000
+            4.824447,52.062217,0.000000
+            4.826926,52.059229,0.000000
+            4.823450,52.057315,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

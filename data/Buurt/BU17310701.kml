@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17310701 Bovensmilde-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.493652,52.992414,0.000000
+            6.493927,52.992243,0.000000
+            6.494919,52.992233,0.000000
+            6.483988,52.981700,0.000000
+            6.479524,52.983565,0.000000
+            6.491000,52.994066,0.000000
+            6.490995,52.994082,0.000000
+            6.492490,52.994284,0.000000
+            6.492484,52.994054,0.000000
+            6.492461,52.993155,0.000000
+            6.493652,52.992414,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

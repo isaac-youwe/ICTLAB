@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220911 Wassinkbrink-Noordwest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.318025,51.982831,0.000000
+            6.309751,51.980638,0.000000
+            6.307081,51.981663,0.000000
+            6.302979,51.982828,0.000000
+            6.296081,51.988176,0.000000
+            6.307517,51.992466,0.000000
+            6.316291,51.994195,0.000000
+            6.316618,51.994192,0.000000
+            6.320659,51.994160,0.000000
+            6.326445,51.992316,0.000000
+            6.331431,51.989157,0.000000
+            6.327022,51.989042,0.000000
+            6.318025,51.982831,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

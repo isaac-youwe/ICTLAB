@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700003 Vliet, Tuinen en Frisia</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.533944,53.180357,0.000000
+            5.530159,53.179744,0.000000
+            5.526278,53.180062,0.000000
+            5.529699,53.184441,0.000000
+            5.535253,53.184614,0.000000
+            5.537987,53.185494,0.000000
+            5.545396,53.184713,0.000000
+            5.533944,53.180357,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

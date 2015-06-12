@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04510310 Zijdelwaard-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.831152,52.248461,0.000000
+            4.835691,52.245971,0.000000
+            4.838551,52.247611,0.000000
+            4.842398,52.245618,0.000000
+            4.834105,52.240783,0.000000
+            4.830615,52.242864,0.000000
+            4.825718,52.246097,0.000000
+            4.820706,52.247544,0.000000
+            4.824690,52.252734,0.000000
+            4.824763,52.252711,0.000000
+            4.832109,52.250948,0.000000
+            4.832717,52.250633,0.000000
+            4.831152,52.248461,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

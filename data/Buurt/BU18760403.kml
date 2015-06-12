@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18760403 Drempt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.176197,52.004782,0.000000
+            6.172802,52.004433,0.000000
+            6.162948,52.005252,0.000000
+            6.160472,52.006295,0.000000
+            6.173874,52.008987,0.000000
+            6.176759,52.010352,0.000000
+            6.179854,52.008005,0.000000
+            6.176197,52.004782,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

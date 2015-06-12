@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07380600 Babyloni_nbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.036616,51.747370,0.000000
+            5.037920,51.744141,0.000000
+            5.031539,51.742222,0.000000
+            5.022066,51.740205,0.000000
+            5.005665,51.741110,0.000000
+            5.000528,51.742327,0.000000
+            4.997010,51.744130,0.000000
+            4.995572,51.747163,0.000000
+            5.004520,51.745468,0.000000
+            5.021862,51.745174,0.000000
+            5.028052,51.745268,0.000000
+            5.036616,51.747370,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

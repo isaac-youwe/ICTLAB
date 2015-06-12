@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350302 Frontenkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.689959,50.858227,0.000000
+            5.677784,50.849707,0.000000
+            5.674361,50.851693,0.000000
+            5.674182,50.853947,0.000000
+            5.676269,50.854165,0.000000
+            5.676270,50.855756,0.000000
+            5.678139,50.856455,0.000000
+            5.681546,50.855113,0.000000
+            5.682780,50.855909,0.000000
+            5.682825,50.857738,0.000000
+            5.685195,50.859498,0.000000
+            5.684435,50.860696,0.000000
+            5.687456,50.862059,0.000000
+            5.689959,50.858227,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05690202 Recreatiegebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.846979,52.177361,0.000000
+            4.843464,52.176031,0.000000
+            4.839233,52.178122,0.000000
+            4.833905,52.182580,0.000000
+            4.837132,52.183678,0.000000
+            4.837335,52.183555,0.000000
+            4.842913,52.180854,0.000000
+            4.843336,52.180649,0.000000
+            4.846979,52.177361,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

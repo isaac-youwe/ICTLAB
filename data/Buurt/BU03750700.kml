@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03750700 Bleriotlaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.664881,52.497905,0.000000
+            4.658220,52.496458,0.000000
+            4.657784,52.497723,0.000000
+            4.657082,52.499117,0.000000
+            4.657282,52.499179,0.000000
+            4.665461,52.501738,0.000000
+            4.665619,52.501643,0.000000
+            4.668400,52.499979,0.000000
+            4.664881,52.497905,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

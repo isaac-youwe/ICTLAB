@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05850501 Boendersweg-Strijensedijk (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.613544,51.765896,0.000000
+            4.612845,51.762534,0.000000
+            4.608755,51.763048,0.000000
+            4.611473,51.770724,0.000000
+            4.597337,51.771816,0.000000
+            4.597456,51.773786,0.000000
+            4.606292,51.773018,0.000000
+            4.614646,51.772483,0.000000
+            4.617834,51.772313,0.000000
+            4.613544,51.765896,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

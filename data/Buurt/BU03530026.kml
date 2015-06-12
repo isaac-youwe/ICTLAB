@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03530026 Achterveld-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.038454,52.026850,0.000000
+            5.032705,52.023764,0.000000
+            5.028547,52.028264,0.000000
+            5.027465,52.029618,0.000000
+            5.033881,52.031814,0.000000
+            5.036747,52.030177,0.000000
+            5.039127,52.027319,0.000000
+            5.038454,52.026850,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

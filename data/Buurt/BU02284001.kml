@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02284001 Centrum Lunteren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.615702,52.086860,0.000000
+            5.619443,52.086104,0.000000
+            5.623654,52.086528,0.000000
+            5.626280,52.081872,0.000000
+            5.629066,52.079704,0.000000
+            5.631741,52.077760,0.000000
+            5.628435,52.076893,0.000000
+            5.626594,52.077608,0.000000
+            5.625700,52.079154,0.000000
+            5.622199,52.079593,0.000000
+            5.616297,52.077944,0.000000
+            5.613583,52.078007,0.000000
+            5.611729,52.083208,0.000000
+            5.609925,52.083199,0.000000
+            5.609243,52.084055,0.000000
+            5.608811,52.085262,0.000000
+            5.610934,52.085253,0.000000
+            5.615702,52.086860,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

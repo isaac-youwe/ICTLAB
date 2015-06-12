@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09050002 Withuis-Stationsstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.725062,50.767544,0.000000
+            5.721984,50.763673,0.000000
+            5.721732,50.763995,0.000000
+            5.720321,50.764898,0.000000
+            5.716031,50.759517,0.000000
+            5.710361,50.759533,0.000000
+            5.703269,50.758653,0.000000
+            5.702840,50.758294,0.000000
+            5.711195,50.774018,0.000000
+            5.718192,50.772958,0.000000
+            5.719303,50.771272,0.000000
+            5.722807,50.770066,0.000000
+            5.725062,50.767544,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

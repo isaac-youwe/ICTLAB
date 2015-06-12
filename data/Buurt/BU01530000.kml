@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530000 City</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.899532,52.223426,0.000000
+            6.900333,52.216967,0.000000
+            6.900211,52.216255,0.000000
+            6.896273,52.216537,0.000000
+            6.896635,52.217514,0.000000
+            6.890914,52.217861,0.000000
+            6.888524,52.218805,0.000000
+            6.887515,52.222253,0.000000
+            6.887698,52.223544,0.000000
+            6.892273,52.223180,0.000000
+            6.899423,52.223766,0.000000
+            6.899532,52.223426,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

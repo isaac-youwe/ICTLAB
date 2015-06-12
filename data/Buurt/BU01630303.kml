@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01630303 Nijverdal West - Noetsele I</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.453987,52.366630,0.000000
+            6.455749,52.363027,0.000000
+            6.460900,52.361068,0.000000
+            6.463810,52.357921,0.000000
+            6.455258,52.357275,0.000000
+            6.454582,52.360809,0.000000
+            6.448469,52.361192,0.000000
+            6.450224,52.365637,0.000000
+            6.446372,52.365478,0.000000
+            6.446784,52.367043,0.000000
+            6.453987,52.366630,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

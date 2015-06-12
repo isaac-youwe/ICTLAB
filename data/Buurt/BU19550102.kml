@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19550102 Loerbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.201638,51.918956,0.000000
+            6.195194,51.914012,0.000000
+            6.192591,51.914997,0.000000
+            6.196847,51.919608,0.000000
+            6.190542,51.921355,0.000000
+            6.190224,51.923040,0.000000
+            6.192312,51.924009,0.000000
+            6.197625,51.922109,0.000000
+            6.202271,51.920209,0.000000
+            6.201638,51.918956,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

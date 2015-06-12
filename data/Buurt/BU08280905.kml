@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280905 Geffense Bosjes</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.507383,51.738009,0.000000
+            5.498689,51.735321,0.000000
+            5.497243,51.736221,0.000000
+            5.495974,51.736222,0.000000
+            5.494347,51.736224,0.000000
+            5.491454,51.737125,0.000000
+            5.491458,51.738923,0.000000
+            5.492912,51.741619,0.000000
+            5.498713,51.745209,0.000000
+            5.498151,51.745472,0.000000
+            5.506476,51.743594,0.000000
+            5.508784,51.740281,0.000000
+            5.509323,51.738192,0.000000
+            5.507383,51.738009,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

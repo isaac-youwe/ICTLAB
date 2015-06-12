@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01190100 Kern Nijeveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.174927,52.729449,0.000000
+            6.166521,52.727599,0.000000
+            6.164449,52.729850,0.000000
+            6.161003,52.735827,0.000000
+            6.172260,52.738636,0.000000
+            6.174593,52.736425,0.000000
+            6.174073,52.735493,0.000000
+            6.171324,52.734867,0.000000
+            6.173048,52.732668,0.000000
+            6.174927,52.729449,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

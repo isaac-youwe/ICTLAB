@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04390503 Maten- en Zuivelbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.984228,52.495889,0.000000
+            4.982856,52.494549,0.000000
+            4.977876,52.496305,0.000000
+            4.980567,52.497229,0.000000
+            4.986790,52.504621,0.000000
+            4.985695,52.506735,0.000000
+            4.986360,52.507513,0.000000
+            4.993535,52.504862,0.000000
+            4.984228,52.495889,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17301500 Zeijen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.545564,53.057346,0.000000
+            6.547750,53.050474,0.000000
+            6.552291,53.050471,0.000000
+            6.552082,53.050112,0.000000
+            6.550519,53.047431,0.000000
+            6.553405,53.043808,0.000000
+            6.551842,53.040284,0.000000
+            6.544922,53.043028,0.000000
+            6.540099,53.043322,0.000000
+            6.543288,53.045075,0.000000
+            6.543047,53.046842,0.000000
+            6.540840,53.046862,0.000000
+            6.539348,53.049317,0.000000
+            6.540511,53.051769,0.000000
+            6.542136,53.051563,0.000000
+            6.543299,53.052614,0.000000
+            6.542405,53.056900,0.000000
+            6.545564,53.057346,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

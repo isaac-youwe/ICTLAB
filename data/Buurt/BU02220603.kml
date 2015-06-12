@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220603 De Huet fase 2</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.259785,51.968570,0.000000
+            6.267985,51.963914,0.000000
+            6.265048,51.961419,0.000000
+            6.263093,51.961570,0.000000
+            6.258778,51.963362,0.000000
+            6.255836,51.963195,0.000000
+            6.252345,51.965146,0.000000
+            6.254535,51.964908,0.000000
+            6.259785,51.968570,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

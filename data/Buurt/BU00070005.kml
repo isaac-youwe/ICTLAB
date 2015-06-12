@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00070005 Oudeschans</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.140591,53.135385,0.000000
+            7.135651,53.135001,0.000000
+            7.133932,53.135661,0.000000
+            7.133254,53.139319,0.000000
+            7.135411,53.141101,0.000000
+            7.138285,53.141439,0.000000
+            7.142817,53.141135,0.000000
+            7.145967,53.136919,0.000000
+            7.140591,53.135385,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03990604 Oosterzij</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.704018,52.580166,0.000000
+            4.696655,52.579225,0.000000
+            4.696581,52.579236,0.000000
+            4.696416,52.579260,0.000000
+            4.702298,52.587990,0.000000
+            4.704964,52.593544,0.000000
+            4.706457,52.595602,0.000000
+            4.709212,52.594602,0.000000
+            4.711735,52.592267,0.000000
+            4.710369,52.587677,0.000000
+            4.710142,52.580202,0.000000
+            4.704018,52.580166,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

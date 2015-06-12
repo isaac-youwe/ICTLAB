@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350101 Jekerdal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.684349,50.837195,0.000000
+            5.679080,50.830979,0.000000
+            5.678141,50.831185,0.000000
+            5.681591,50.836051,0.000000
+            5.679807,50.840439,0.000000
+            5.683501,50.842717,0.000000
+            5.688573,50.841600,0.000000
+            5.686656,50.837584,0.000000
+            5.684349,50.837195,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280202 Danenhoef</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.556068,51.766237,0.000000
+            5.558664,51.764454,0.000000
+            5.563218,51.765280,0.000000
+            5.565484,51.759562,0.000000
+            5.564641,51.757883,0.000000
+            5.566102,51.756177,0.000000
+            5.558943,51.753759,0.000000
+            5.554396,51.751995,0.000000
+            5.551471,51.755006,0.000000
+            5.555429,51.757857,0.000000
+            5.553323,51.760965,0.000000
+            5.553035,51.766433,0.000000
+            5.556068,51.766237,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

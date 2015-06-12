@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01400400 Weidum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.748137,53.144768,0.000000
+            5.741808,53.142648,0.000000
+            5.735676,53.144257,0.000000
+            5.734436,53.146435,0.000000
+            5.735668,53.147362,0.000000
+            5.748664,53.150351,0.000000
+            5.751118,53.148921,0.000000
+            5.750344,53.146676,0.000000
+            5.748137,53.144768,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

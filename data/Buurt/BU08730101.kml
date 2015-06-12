@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08730101 Eiland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.371097,51.430121,0.000000
+            4.372209,51.428841,0.000000
+            4.373536,51.429335,0.000000
+            4.374641,51.427712,0.000000
+            4.366948,51.425697,0.000000
+            4.364646,51.422372,0.000000
+            4.361495,51.427053,0.000000
+            4.371097,51.430121,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

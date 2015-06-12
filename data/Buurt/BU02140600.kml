@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140600 Ravenswaaij</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.334495,51.953491,0.000000
+            5.337526,51.951463,0.000000
+            5.335054,51.950317,0.000000
+            5.332598,51.952129,0.000000
+            5.329429,51.949999,0.000000
+            5.325466,51.951744,0.000000
+            5.326493,51.953409,0.000000
+            5.334495,51.953491,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

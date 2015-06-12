@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09460008 Strateris-Bosserstraat-Lage Kuilen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.745653,51.291180,0.000000
+            5.740352,51.289275,0.000000
+            5.737219,51.294168,0.000000
+            5.726369,51.301922,0.000000
+            5.718573,51.310580,0.000000
+            5.706333,51.315812,0.000000
+            5.701743,51.320596,0.000000
+            5.713654,51.323047,0.000000
+            5.714338,51.323188,0.000000
+            5.745908,51.329379,0.000000
+            5.745952,51.329387,0.000000
+            5.746530,51.329494,0.000000
+            5.753367,51.292471,0.000000
+            5.745653,51.291180,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

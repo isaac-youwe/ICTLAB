@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00790302 Veenklooster</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.108171,53.274333,0.000000
+            6.115274,53.272638,0.000000
+            6.127469,53.272919,0.000000
+            6.127438,53.261962,0.000000
+            6.117093,53.260259,0.000000
+            6.111099,53.260295,0.000000
+            6.106558,53.257626,0.000000
+            6.106107,53.257513,0.000000
+            6.105920,53.258545,0.000000
+            6.099550,53.258536,0.000000
+            6.098886,53.259467,0.000000
+            6.100574,53.263062,0.000000
+            6.101360,53.269820,0.000000
+            6.107431,53.269706,0.000000
+            6.108171,53.274333,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

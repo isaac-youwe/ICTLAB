@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960305 Hintham-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.351495,51.698738,0.000000
+            5.350742,51.693531,0.000000
+            5.340622,51.693645,0.000000
+            5.340243,51.695855,0.000000
+            5.335258,51.697417,0.000000
+            5.334653,51.700145,0.000000
+            5.342251,51.700402,0.000000
+            5.350926,51.701807,0.000000
+            5.351495,51.698738,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

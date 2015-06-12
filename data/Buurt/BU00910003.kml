@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00910003 Hemdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.634058,53.037831,0.000000
+            5.649176,53.035818,0.000000
+            5.656088,53.034883,0.000000
+            5.632593,53.023153,0.000000
+            5.627727,53.025615,0.000000
+            5.627197,53.025883,0.000000
+            5.621710,53.028381,0.000000
+            5.622204,53.030064,0.000000
+            5.626399,53.033385,0.000000
+            5.626154,53.034156,0.000000
+            5.630247,53.037179,0.000000
+            5.632513,53.036471,0.000000
+            5.634058,53.037831,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

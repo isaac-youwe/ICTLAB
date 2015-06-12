@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06870104 Sint Laurens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.607194,51.530082,0.000000
+            3.609228,51.521283,0.000000
+            3.607179,51.520409,0.000000
+            3.604410,51.520195,0.000000
+            3.604618,51.521658,0.000000
+            3.600474,51.519468,0.000000
+            3.595603,51.522889,0.000000
+            3.594135,51.528337,0.000000
+            3.589742,51.530067,0.000000
+            3.589687,51.531454,0.000000
+            3.589671,51.531865,0.000000
+            3.599686,51.533817,0.000000
+            3.610767,51.534853,0.000000
+            3.611178,51.534891,0.000000
+            3.612619,51.534913,0.000000
+            3.614095,51.534036,0.000000
+            3.615375,51.530493,0.000000
+            3.607194,51.530082,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

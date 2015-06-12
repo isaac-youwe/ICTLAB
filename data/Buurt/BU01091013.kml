@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01091013 De Heege en De Mars</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.739792,52.652474,0.000000
+            6.746507,52.650425,0.000000
+            6.753465,52.651173,0.000000
+            6.755249,52.648103,0.000000
+            6.742341,52.645415,0.000000
+            6.730275,52.637461,0.000000
+            6.727271,52.633970,0.000000
+            6.722582,52.636346,0.000000
+            6.728008,52.640669,0.000000
+            6.723049,52.643016,0.000000
+            6.729205,52.647692,0.000000
+            6.736089,52.654461,0.000000
+            6.739792,52.652474,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

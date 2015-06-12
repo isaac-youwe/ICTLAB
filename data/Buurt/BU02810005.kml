@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02810005 Sandwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.431750,51.893415,0.000000
+            5.434985,51.890784,0.000000
+            5.436803,51.891695,0.000000
+            5.436738,51.893117,0.000000
+            5.438267,51.893355,0.000000
+            5.438880,51.889233,0.000000
+            5.435545,51.888449,0.000000
+            5.431688,51.888911,0.000000
+            5.429818,51.889258,0.000000
+            5.427536,51.891998,0.000000
+            5.432600,51.894651,0.000000
+            5.431750,51.893415,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

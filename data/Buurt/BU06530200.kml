@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06530200 Bakhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.473329,52.871542,0.000000
+            5.469674,52.867614,0.000000
+            5.466965,52.866833,0.000000
+            5.460218,52.866538,0.000000
+            5.461326,52.865591,0.000000
+            5.454527,52.863127,0.000000
+            5.452824,52.864951,0.000000
+            5.455797,52.866908,0.000000
+            5.451344,52.868130,0.000000
+            5.449802,52.872411,0.000000
+            5.464442,52.871516,0.000000
+            5.471873,52.873309,0.000000
+            5.473329,52.871542,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

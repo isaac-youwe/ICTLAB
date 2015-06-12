@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02330105 Verspreide huizen Staverden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.748102,52.271848,0.000000
+            5.740694,52.271231,0.000000
+            5.740656,52.273114,0.000000
+            5.736040,52.277833,0.000000
+            5.730841,52.278520,0.000000
+            5.731811,52.284330,0.000000
+            5.726206,52.289903,0.000000
+            5.730298,52.293144,0.000000
+            5.736628,52.292009,0.000000
+            5.744900,52.291973,0.000000
+            5.744873,52.288565,0.000000
+            5.746324,52.286763,0.000000
+            5.755082,52.282242,0.000000
+            5.755044,52.277748,0.000000
+            5.748102,52.271848,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

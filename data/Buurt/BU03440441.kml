@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440441 Huizingalaan K. Doormanlaan en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.143892,52.096149,0.000000
+            5.141959,52.095707,0.000000
+            5.141700,52.099381,0.000000
+            5.133166,52.102271,0.000000
+            5.133523,52.102930,0.000000
+            5.140353,52.102487,0.000000
+            5.143269,52.102346,0.000000
+            5.143892,52.096149,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

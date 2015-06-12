@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04390603 Purmerbos en verspreide bebouwing</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.995493,52.491602,0.000000
+            4.976584,52.472720,0.000000
+            4.976525,52.472661,0.000000
+            4.973598,52.470854,0.000000
+            4.969183,52.470838,0.000000
+            4.958060,52.471647,0.000000
+            4.957399,52.471695,0.000000
+            4.952948,52.475274,0.000000
+            4.954341,52.483369,0.000000
+            4.953955,52.483426,0.000000
+            4.954796,52.486304,0.000000
+            4.965098,52.483508,0.000000
+            4.967966,52.486128,0.000000
+            4.972257,52.484531,0.000000
+            4.977492,52.489480,0.000000
+            4.982856,52.494549,0.000000
+            4.984228,52.495889,0.000000
+            4.995623,52.491722,0.000000
+            4.995493,52.491602,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

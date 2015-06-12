@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17300401 Westlaren Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.665419,53.089106,0.000000
+            6.657025,53.086464,0.000000
+            6.642513,53.093201,0.000000
+            6.642277,53.094854,0.000000
+            6.642365,53.096086,0.000000
+            6.647945,53.097301,0.000000
+            6.650899,53.098414,0.000000
+            6.649407,53.098784,0.000000
+            6.655415,53.100813,0.000000
+            6.660292,53.101319,0.000000
+            6.663265,53.100623,0.000000
+            6.665304,53.097875,0.000000
+            6.668410,53.097091,0.000000
+            6.667461,53.095468,0.000000
+            6.664293,53.095416,0.000000
+            6.664440,53.093166,0.000000
+            6.665806,53.091735,0.000000
+            6.663401,53.090880,0.000000
+            6.665419,53.089106,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

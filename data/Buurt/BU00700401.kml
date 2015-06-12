@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700401 Pietersbierum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.476130,53.217150,0.000000
+            5.476846,53.216224,0.000000
+            5.478484,53.216899,0.000000
+            5.480746,53.214074,0.000000
+            5.474142,53.212824,0.000000
+            5.469588,53.213250,0.000000
+            5.469156,53.214463,0.000000
+            5.470391,53.216013,0.000000
+            5.476130,53.217150,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

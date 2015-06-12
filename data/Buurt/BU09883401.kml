@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09883401 Stramproy</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.732945,51.192477,0.000000
+            5.726867,51.189785,0.000000
+            5.720239,51.190920,0.000000
+            5.711715,51.189250,0.000000
+            5.703059,51.190631,0.000000
+            5.697219,51.199929,0.000000
+            5.709399,51.201038,0.000000
+            5.718151,51.203248,0.000000
+            5.719543,51.204218,0.000000
+            5.721058,51.204271,0.000000
+            5.721335,51.202152,0.000000
+            5.724922,51.197258,0.000000
+            5.732945,51.192477,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

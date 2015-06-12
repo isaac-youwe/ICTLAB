@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680736 Malvert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.807691,51.811509,0.000000
+            5.809385,51.810482,0.000000
+            5.814131,51.811155,0.000000
+            5.816141,51.806272,0.000000
+            5.806546,51.804035,0.000000
+            5.803828,51.807394,0.000000
+            5.803469,51.809484,0.000000
+            5.803248,51.811922,0.000000
+            5.807691,51.811509,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

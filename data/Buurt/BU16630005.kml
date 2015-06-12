@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16630005 Lauwersoog</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.221783,53.405818,0.000000
+            6.219453,53.401692,0.000000
+            6.215060,53.403309,0.000000
+            6.214176,53.402469,0.000000
+            6.209961,53.402756,0.000000
+            6.208499,53.401755,0.000000
+            6.203350,53.404117,0.000000
+            6.203329,53.404127,0.000000
+            6.209849,53.405296,0.000000
+            6.213317,53.407508,0.000000
+            6.219397,53.408596,0.000000
+            6.217791,53.406354,0.000000
+            6.221783,53.405818,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

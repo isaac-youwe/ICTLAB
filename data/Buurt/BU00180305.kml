@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00180305 Kalkwijk-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.779775,53.148397,0.000000
+            6.781078,53.148013,0.000000
+            6.785155,53.149084,0.000000
+            6.794405,53.136568,0.000000
+            6.795055,53.136492,0.000000
+            6.795037,53.136483,0.000000
+            6.803590,53.123799,0.000000
+            6.806460,53.120170,0.000000
+            6.801950,53.119324,0.000000
+            6.807247,53.098589,0.000000
+            6.807315,53.098361,0.000000
+            6.811283,53.085059,0.000000
+            6.811520,53.083799,0.000000
+            6.766664,53.144204,0.000000
+            6.762320,53.150403,0.000000
+            6.770186,53.152557,0.000000
+            6.772283,53.153138,0.000000
+            6.775761,53.153338,0.000000
+            6.775911,53.151632,0.000000
+            6.779775,53.148397,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

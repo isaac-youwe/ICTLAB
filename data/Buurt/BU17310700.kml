@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17310700 Bovensmilde-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.487196,52.972699,0.000000
+            6.483319,52.968608,0.000000
+            6.473810,52.972173,0.000000
+            6.475041,52.973297,0.000000
+            6.470298,52.975118,0.000000
+            6.479524,52.983565,0.000000
+            6.483988,52.981700,0.000000
+            6.483067,52.980763,0.000000
+            6.490459,52.977770,0.000000
+            6.486005,52.973441,0.000000
+            6.487196,52.972699,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

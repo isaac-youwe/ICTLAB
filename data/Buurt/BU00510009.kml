@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510009 Buitengebied Joure</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.812822,52.959849,0.000000
+            5.815697,52.958067,0.000000
+            5.819198,52.958684,0.000000
+            5.818802,52.958007,0.000000
+            5.816571,52.954201,0.000000
+            5.812318,52.946970,0.000000
+            5.810292,52.948037,0.000000
+            5.793450,52.956583,0.000000
+            5.798857,52.955562,0.000000
+            5.808930,52.957383,0.000000
+            5.812822,52.959849,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.833679,52.983377,0.000000
+            5.827174,52.972287,0.000000
+            5.816460,52.975379,0.000000
+            5.803164,52.980066,0.000000
+            5.820412,52.995705,0.000000
+            5.829724,53.005813,0.000000
+            5.833829,53.004281,0.000000
+            5.841175,53.003476,0.000000
+            5.837525,52.999564,0.000000
+            5.833661,52.998432,0.000000
+            5.833797,52.995274,0.000000
+            5.837187,52.994274,0.000000
+            5.837381,52.992562,0.000000
+            5.831544,52.986045,0.000000
+            5.834577,52.984856,0.000000
+            5.833679,52.983377,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03020101 Vierhouten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.821118,52.336501,0.000000
+            5.824366,52.334815,0.000000
+            5.831181,52.334866,0.000000
+            5.832212,52.331710,0.000000
+            5.839138,52.330977,0.000000
+            5.838164,52.329279,0.000000
+            5.832793,52.329923,0.000000
+            5.830621,52.328733,0.000000
+            5.826699,52.321590,0.000000
+            5.824940,52.321281,0.000000
+            5.821815,52.317301,0.000000
+            5.815365,52.318833,0.000000
+            5.818094,52.326033,0.000000
+            5.822150,52.328382,0.000000
+            5.821985,52.332285,0.000000
+            5.818422,52.334145,0.000000
+            5.821118,52.336501,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

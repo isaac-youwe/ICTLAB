@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03560003 Batau-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.062547,52.025624,0.000000
+            5.062238,52.025377,0.000000
+            5.062226,52.027079,0.000000
+            5.063545,52.041097,0.000000
+            5.066709,52.039987,0.000000
+            5.078975,52.038977,0.000000
+            5.076194,52.031254,0.000000
+            5.074800,52.028637,0.000000
+            5.067491,52.027454,0.000000
+            5.062547,52.025624,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

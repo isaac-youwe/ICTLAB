@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15810008 Verspreide huizen op de Heuvelrug-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.339537,52.058508,0.000000
+            5.351326,52.052510,0.000000
+            5.349348,52.047823,0.000000
+            5.337198,52.052184,0.000000
+            5.325510,52.045047,0.000000
+            5.318784,52.037030,0.000000
+            5.318218,52.037167,0.000000
+            5.315754,52.037762,0.000000
+            5.312612,52.038291,0.000000
+            5.301834,52.043598,0.000000
+            5.300890,52.044640,0.000000
+            5.302253,52.047706,0.000000
+            5.306013,52.052807,0.000000
+            5.307282,52.052542,0.000000
+            5.312101,52.055399,0.000000
+            5.338130,52.070836,0.000000
+            5.339537,52.058508,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

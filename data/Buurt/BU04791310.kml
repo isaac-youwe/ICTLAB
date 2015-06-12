@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04791310 Peldersveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.853072,52.442669,0.000000
+            4.842668,52.441157,0.000000
+            4.840714,52.444281,0.000000
+            4.838996,52.454051,0.000000
+            4.840682,52.453829,0.000000
+            4.843028,52.452993,0.000000
+            4.842825,52.452348,0.000000
+            4.853072,52.442669,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05790015 Buitenlust</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.453685,52.178219,0.000000
+            4.451930,52.177808,0.000000
+            4.447123,52.182783,0.000000
+            4.448261,52.182892,0.000000
+            4.448335,52.182899,0.000000
+            4.458387,52.182979,0.000000
+            4.457802,52.179178,0.000000
+            4.453307,52.178762,0.000000
+            4.453685,52.178219,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01932270 Breezicht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.051850,52.542895,0.000000
+            6.046259,52.541133,0.000000
+            6.041493,52.547967,0.000000
+            6.068735,52.555643,0.000000
+            6.070288,52.558499,0.000000
+            6.074450,52.556773,0.000000
+            6.074759,52.556657,0.000000
+            6.067893,52.553664,0.000000
+            6.056520,52.549528,0.000000
+            6.051850,52.542895,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

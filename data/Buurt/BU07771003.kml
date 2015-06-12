@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07771003 Noord 4, Stichting Het Hooghuys</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.662448,51.583323,0.000000
+            4.658795,51.581598,0.000000
+            4.658618,51.581823,0.000000
+            4.655677,51.585358,0.000000
+            4.658442,51.585447,0.000000
+            4.661380,51.584212,0.000000
+            4.662448,51.583323,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

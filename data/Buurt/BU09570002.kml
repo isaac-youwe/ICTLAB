@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09570002 Roer-Roer-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.971630,51.188080,0.000000
+            5.973304,51.184881,0.000000
+            5.976628,51.186268,0.000000
+            5.981597,51.184899,0.000000
+            5.983750,51.183358,0.000000
+            5.988266,51.185262,0.000000
+            5.991049,51.185500,0.000000
+            5.988599,51.180305,0.000000
+            5.983243,51.175886,0.000000
+            5.983588,51.175579,0.000000
+            5.975022,51.170281,0.000000
+            5.972518,51.173351,0.000000
+            5.975722,51.175872,0.000000
+            5.974639,51.178683,0.000000
+            5.971734,51.180807,0.000000
+            5.971829,51.185495,0.000000
+            5.970103,51.187177,0.000000
+            5.971630,51.188080,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

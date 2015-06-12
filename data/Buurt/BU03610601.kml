@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610601 t Rak-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.756138,52.666732,0.000000
+            4.759536,52.663564,0.000000
+            4.756818,52.664381,0.000000
+            4.755518,52.662876,0.000000
+            4.760572,52.661152,0.000000
+            4.758673,52.659648,0.000000
+            4.756541,52.661023,0.000000
+            4.753807,52.661023,0.000000
+            4.753145,52.659317,0.000000
+            4.748692,52.657537,0.000000
+            4.746160,52.658703,0.000000
+            4.746041,52.659065,0.000000
+            4.746774,52.662936,0.000000
+            4.752943,52.666937,0.000000
+            4.756138,52.666732,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

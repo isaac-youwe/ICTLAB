@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03400502 Veeneind</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.552428,51.996870,0.000000
+            5.550640,51.995545,0.000000
+            5.545302,51.997780,0.000000
+            5.542632,51.999910,0.000000
+            5.545461,52.001580,0.000000
+            5.540517,52.004546,0.000000
+            5.538328,52.006248,0.000000
+            5.539061,52.007202,0.000000
+            5.539975,52.006825,0.000000
+            5.540149,52.006753,0.000000
+            5.548326,52.001684,0.000000
+            5.548869,52.001348,0.000000
+            5.553066,51.998746,0.000000
+            5.552428,51.996870,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

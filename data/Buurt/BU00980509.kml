@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00980509 Verspreide huizen Nijeholtpade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.085439,52.903642,0.000000
+            6.082437,52.899911,0.000000
+            6.081673,52.899201,0.000000
+            6.079132,52.900541,0.000000
+            6.077935,52.899508,0.000000
+            6.075388,52.900666,0.000000
+            6.071447,52.903922,0.000000
+            6.083374,52.911063,0.000000
+            6.099680,52.916853,0.000000
+            6.104414,52.919322,0.000000
+            6.111052,52.913585,0.000000
+            6.103761,52.910162,0.000000
+            6.099542,52.908088,0.000000
+            6.085439,52.903642,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.096883,52.926710,0.000000
+            6.058374,52.912825,0.000000
+            6.050825,52.921072,0.000000
+            6.062391,52.925351,0.000000
+            6.062403,52.925355,0.000000
+            6.078861,52.931552,0.000000
+            6.086349,52.936876,0.000000
+            6.086384,52.936901,0.000000
+            6.096636,52.926954,0.000000
+            6.096883,52.926710,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

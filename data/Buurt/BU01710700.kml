@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01710700 Espel kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.646550,52.728132,0.000000
+            5.646860,52.725720,0.000000
+            5.648751,52.725753,0.000000
+            5.648725,52.720160,0.000000
+            5.652116,52.720175,0.000000
+            5.652049,52.717056,0.000000
+            5.640904,52.717130,0.000000
+            5.640925,52.720688,0.000000
+            5.639585,52.720691,0.000000
+            5.639602,52.723504,0.000000
+            5.640968,52.728110,0.000000
+            5.646550,52.728132,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07170300 Serooskerke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.591459,51.554734,0.000000
+            3.593564,51.552583,0.000000
+            3.596302,51.553353,0.000000
+            3.596268,51.554347,0.000000
+            3.598951,51.554721,0.000000
+            3.600804,51.553510,0.000000
+            3.603494,51.549160,0.000000
+            3.603112,51.546100,0.000000
+            3.602739,51.544531,0.000000
+            3.599153,51.543646,0.000000
+            3.592975,51.545735,0.000000
+            3.588635,51.548264,0.000000
+            3.584405,51.554044,0.000000
+            3.586223,51.554952,0.000000
+            3.588360,51.555572,0.000000
+            3.591459,51.554734,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

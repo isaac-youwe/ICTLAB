@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04820001 Kinderdijk (gedeeltelijk) oude bebouwing</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.648374,51.865966,0.000000
+            4.644952,51.864411,0.000000
+            4.636012,51.869057,0.000000
+            4.634968,51.869097,0.000000
+            4.634959,51.869604,0.000000
+            4.626064,51.880334,0.000000
+            4.628954,51.881252,0.000000
+            4.631859,51.879491,0.000000
+            4.631889,51.879473,0.000000
+            4.631895,51.879122,0.000000
+            4.633221,51.877976,0.000000
+            4.634927,51.876500,0.000000
+            4.641155,51.875083,0.000000
+            4.639338,51.873088,0.000000
+            4.640276,51.870837,0.000000
+            4.647001,51.867848,0.000000
+            4.648374,51.865966,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

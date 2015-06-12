@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09172001 Uterweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.970439,50.923554,0.000000
+            5.965950,50.923384,0.000000
+            5.965048,50.925865,0.000000
+            5.966451,50.927808,0.000000
+            5.965077,50.928119,0.000000
+            5.966219,50.932057,0.000000
+            5.966256,50.932029,0.000000
+            5.971408,50.930724,0.000000
+            5.975350,50.928657,0.000000
+            5.975833,50.923556,0.000000
+            5.970439,50.923554,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

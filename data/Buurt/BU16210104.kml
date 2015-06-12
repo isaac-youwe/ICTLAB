@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16210104 Berkel Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.482287,51.993139,0.000000
+            4.479720,51.990632,0.000000
+            4.472811,51.994193,0.000000
+            4.469824,51.995231,0.000000
+            4.474243,51.997078,0.000000
+            4.477652,51.995926,0.000000
+            4.476140,51.994806,0.000000
+            4.478229,51.994229,0.000000
+            4.482287,51.993139,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

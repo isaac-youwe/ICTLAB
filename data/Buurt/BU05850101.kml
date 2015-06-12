@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05850101 Westdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.475628,51.793294,0.000000
+            4.474297,51.790814,0.000000
+            4.471326,51.791221,0.000000
+            4.471823,51.794675,0.000000
+            4.460487,51.800635,0.000000
+            4.459567,51.816887,0.000000
+            4.464766,51.815121,0.000000
+            4.463829,51.805164,0.000000
+            4.464490,51.802033,0.000000
+            4.474306,51.796487,0.000000
+            4.475881,51.794427,0.000000
+            4.474937,51.794041,0.000000
+            4.475628,51.793294,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

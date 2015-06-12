@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950204 Laageind</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.795566,52.043507,0.000000
+            4.782784,52.041534,0.000000
+            4.777796,52.047845,0.000000
+            4.778804,52.050812,0.000000
+            4.783545,52.064627,0.000000
+            4.805257,52.063844,0.000000
+            4.798915,52.049219,0.000000
+            4.800209,52.046292,0.000000
+            4.795196,52.045690,0.000000
+            4.795566,52.043507,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

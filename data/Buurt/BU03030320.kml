@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03030320 Centrum Dronten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.721998,52.525225,0.000000
+            5.720862,52.522718,0.000000
+            5.715717,52.523053,0.000000
+            5.715501,52.521738,0.000000
+            5.713561,52.521859,0.000000
+            5.713981,52.524906,0.000000
+            5.709086,52.528172,0.000000
+            5.709308,52.529498,0.000000
+            5.716529,52.528750,0.000000
+            5.715640,52.527544,0.000000
+            5.720156,52.527244,0.000000
+            5.721998,52.525225,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

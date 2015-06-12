@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15070600 Broekhuizenvorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.163821,51.492751,0.000000
+            6.158630,51.491314,0.000000
+            6.157576,51.493010,0.000000
+            6.151545,51.493926,0.000000
+            6.152085,51.496649,0.000000
+            6.155719,51.497387,0.000000
+            6.158978,51.497920,0.000000
+            6.162299,51.497424,0.000000
+            6.162532,51.495862,0.000000
+            6.163821,51.492751,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

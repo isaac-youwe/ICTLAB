@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140502 Eck en Wiel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.459946,51.970925,0.000000
+            5.460097,51.966247,0.000000
+            5.456916,51.966950,0.000000
+            5.454689,51.965564,0.000000
+            5.454473,51.964149,0.000000
+            5.452863,51.964003,0.000000
+            5.454969,51.972675,0.000000
+            5.461179,51.971464,0.000000
+            5.459946,51.970925,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

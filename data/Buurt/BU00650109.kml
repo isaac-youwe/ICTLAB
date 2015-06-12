@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00650109 Verspreide huizen Wouterswoude</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.044387,53.284766,0.000000
+            6.029999,53.272824,0.000000
+            6.029699,53.271037,0.000000
+            6.022779,53.271441,0.000000
+            6.022859,53.277266,0.000000
+            6.020516,53.277186,0.000000
+            6.020509,53.283580,0.000000
+            6.038634,53.284820,0.000000
+            6.039343,53.286265,0.000000
+            6.042705,53.286162,0.000000
+            6.044387,53.284766,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.038496,53.315997,0.000000
+            6.040143,53.300697,0.000000
+            6.035079,53.302753,0.000000
+            6.032786,53.307498,0.000000
+            6.021477,53.306168,0.000000
+            6.021227,53.308936,0.000000
+            6.021893,53.309327,0.000000
+            6.020511,53.317422,0.000000
+            6.020811,53.317945,0.000000
+            6.022052,53.320110,0.000000
+            6.022118,53.324603,0.000000
+            6.024541,53.325313,0.000000
+            6.025133,53.325486,0.000000
+            6.032637,53.325446,0.000000
+            6.035764,53.325429,0.000000
+            6.039768,53.319632,0.000000
+            6.038496,53.315997,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

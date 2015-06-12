@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04792120 Zuiderhout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.817738,52.434129,0.000000
+            4.819747,52.431411,0.000000
+            4.821369,52.431934,0.000000
+            4.826677,52.426437,0.000000
+            4.826301,52.420934,0.000000
+            4.810833,52.423433,0.000000
+            4.810336,52.423494,0.000000
+            4.814324,52.428364,0.000000
+            4.814797,52.433630,0.000000
+            4.815608,52.433811,0.000000
+            4.817738,52.434129,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

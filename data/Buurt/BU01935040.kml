@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01935040 Oldenelerlanden-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.099805,52.490253,0.000000
+            6.102173,52.488446,0.000000
+            6.105041,52.488477,0.000000
+            6.107247,52.483061,0.000000
+            6.103409,52.482198,0.000000
+            6.096421,52.488292,0.000000
+            6.096889,52.489845,0.000000
+            6.099805,52.490253,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

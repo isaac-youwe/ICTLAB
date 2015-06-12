@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02930002 Westervoort-Lange Maat en Hoogeind</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.975322,51.945887,0.000000
+            5.967402,51.945065,0.000000
+            5.966608,51.948590,0.000000
+            5.969932,51.950114,0.000000
+            5.971963,51.953620,0.000000
+            5.978943,51.952630,0.000000
+            5.978232,51.948087,0.000000
+            5.975322,51.945887,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

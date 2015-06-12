@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05370101 Rijnsoever-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.428356,52.215023,0.000000
+            4.422120,52.207492,0.000000
+            4.421362,52.206744,0.000000
+            4.409704,52.210295,0.000000
+            4.410682,52.212456,0.000000
+            4.414305,52.215785,0.000000
+            4.419871,52.214132,0.000000
+            4.425685,52.215978,0.000000
+            4.428356,52.215023,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

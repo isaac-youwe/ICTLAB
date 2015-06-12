@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00100304 Losdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.843450,53.373114,0.000000
+            6.832427,53.372226,0.000000
+            6.831775,53.373028,0.000000
+            6.832875,53.373728,0.000000
+            6.827822,53.375485,0.000000
+            6.826015,53.377886,0.000000
+            6.827548,53.380090,0.000000
+            6.830711,53.381277,0.000000
+            6.834640,53.380113,0.000000
+            6.836698,53.377757,0.000000
+            6.841204,53.375789,0.000000
+            6.843450,53.373114,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

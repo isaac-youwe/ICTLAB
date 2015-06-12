@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721524 Achtse Barrier-Hoeven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.452763,51.487038,0.000000
+            5.444864,51.485909,0.000000
+            5.444116,51.487052,0.000000
+            5.440642,51.487437,0.000000
+            5.437288,51.490594,0.000000
+            5.438077,51.491651,0.000000
+            5.441843,51.492208,0.000000
+            5.442152,51.493596,0.000000
+            5.449133,51.495335,0.000000
+            5.449846,51.495334,0.000000
+            5.450573,51.495334,0.000000
+            5.451167,51.495362,0.000000
+            5.452763,51.487038,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

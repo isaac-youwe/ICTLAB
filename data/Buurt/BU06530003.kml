@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06530003 Ruigahuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.584850,52.874421,0.000000
+            5.580110,52.871114,0.000000
+            5.575978,52.869845,0.000000
+            5.573145,52.867960,0.000000
+            5.565928,52.872557,0.000000
+            5.562781,52.873163,0.000000
+            5.558019,52.870306,0.000000
+            5.546944,52.876866,0.000000
+            5.570745,52.892871,0.000000
+            5.574116,52.894203,0.000000
+            5.579839,52.891771,0.000000
+            5.592615,52.886530,0.000000
+            5.591348,52.885385,0.000000
+            5.592357,52.884343,0.000000
+            5.589949,52.881721,0.000000
+            5.582121,52.876099,0.000000
+            5.584850,52.874421,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

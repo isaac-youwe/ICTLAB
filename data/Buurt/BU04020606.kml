@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020606 Loosdrechtse Bos en Hoorneboeg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.144331,52.210803,0.000000
+            5.146781,52.209559,0.000000
+            5.148592,52.210346,0.000000
+            5.157240,52.207614,0.000000
+            5.161194,52.205386,0.000000
+            5.177908,52.201236,0.000000
+            5.176678,52.196318,0.000000
+            5.172599,52.189669,0.000000
+            5.155216,52.196036,0.000000
+            5.151698,52.195186,0.000000
+            5.145835,52.196567,0.000000
+            5.145813,52.200769,0.000000
+            5.139369,52.208621,0.000000
+            5.144331,52.210803,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

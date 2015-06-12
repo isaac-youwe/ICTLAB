@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130606 Eerbeek Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.066465,52.099267,0.000000
+            6.064876,52.097255,0.000000
+            6.066879,52.095523,0.000000
+            6.059962,52.093368,0.000000
+            6.051718,52.097639,0.000000
+            6.053028,52.098321,0.000000
+            6.057158,52.097732,0.000000
+            6.062264,52.099709,0.000000
+            6.062671,52.101093,0.000000
+            6.060677,52.101485,0.000000
+            6.062945,52.105624,0.000000
+            6.068180,52.101063,0.000000
+            6.069391,52.099800,0.000000
+            6.066465,52.099267,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

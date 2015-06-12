@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00470202 Bareveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.864129,53.045770,0.000000
+            6.865974,53.042505,0.000000
+            6.865090,53.043060,0.000000
+            6.862047,53.041300,0.000000
+            6.843103,53.052276,0.000000
+            6.843028,53.052319,0.000000
+            6.837184,53.055985,0.000000
+            6.836643,53.056347,0.000000
+            6.839963,53.056043,0.000000
+            6.852025,53.053017,0.000000
+            6.854246,53.051373,0.000000
+            6.860822,53.046909,0.000000
+            6.864129,53.045770,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

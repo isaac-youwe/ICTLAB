@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17420503 Zomerhuisjesterrein De Borkeld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.441875,52.275737,0.000000
+            6.447992,52.274906,0.000000
+            6.465273,52.274977,0.000000
+            6.466280,52.272694,0.000000
+            6.457980,52.268838,0.000000
+            6.452794,52.265127,0.000000
+            6.441503,52.274251,0.000000
+            6.441875,52.275737,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

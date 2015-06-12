@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06430001 Schuwacht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.674258,51.897521,0.000000
+            4.674170,51.893808,0.000000
+            4.676323,51.890486,0.000000
+            4.669494,51.889597,0.000000
+            4.647688,51.890361,0.000000
+            4.647215,51.890407,0.000000
+            4.639410,51.891161,0.000000
+            4.640855,51.897270,0.000000
+            4.653130,51.896736,0.000000
+            4.674258,51.897521,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

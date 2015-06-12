@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110312 Recreatiepark Hommelheide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.890119,51.067383,0.000000
+            5.885145,51.064069,0.000000
+            5.881310,51.064191,0.000000
+            5.877795,51.065894,0.000000
+            5.877451,51.067378,0.000000
+            5.879704,51.069222,0.000000
+            5.879463,51.071411,0.000000
+            5.881495,51.072449,0.000000
+            5.890119,51.067383,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

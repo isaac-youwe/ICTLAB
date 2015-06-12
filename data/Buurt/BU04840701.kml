@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04840701 Kortsteekterbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.690631,52.119406,0.000000
+            4.708175,52.114569,0.000000
+            4.711453,52.116739,0.000000
+            4.710279,52.113753,0.000000
+            4.722477,52.109841,0.000000
+            4.723720,52.110646,0.000000
+            4.722941,52.109695,0.000000
+            4.722024,52.108551,0.000000
+            4.721242,52.108692,0.000000
+            4.716349,52.109609,0.000000
+            4.705743,52.113925,0.000000
+            4.691626,52.117272,0.000000
+            4.674593,52.119045,0.000000
+            4.674208,52.119146,0.000000
+            4.675642,52.120559,0.000000
+            4.683315,52.119363,0.000000
+            4.690631,52.119406,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640900 Beckum (kern)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.742509,52.208320,0.000000
+            6.738507,52.207914,0.000000
+            6.737624,52.208401,0.000000
+            6.740158,52.210373,0.000000
+            6.738687,52.212155,0.000000
+            6.738242,52.212742,0.000000
+            6.743373,52.215599,0.000000
+            6.746902,52.213006,0.000000
+            6.747651,52.211092,0.000000
+            6.742509,52.208320,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

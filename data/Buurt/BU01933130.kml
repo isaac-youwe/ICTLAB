@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01933130 Aalanden-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.114461,52.530095,0.000000
+            6.111617,52.529750,0.000000
+            6.110021,52.529767,0.000000
+            6.106378,52.535343,0.000000
+            6.102558,52.539959,0.000000
+            6.102541,52.541325,0.000000
+            6.106854,52.540950,0.000000
+            6.111285,52.538641,0.000000
+            6.113175,52.538360,0.000000
+            6.115411,52.532832,0.000000
+            6.114461,52.530095,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16520609 Verspreide huizen Rips</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.809919,51.573696,0.000000
+            5.819966,51.568265,0.000000
+            5.822851,51.568255,0.000000
+            5.822879,51.568251,0.000000
+            5.838701,51.566397,0.000000
+            5.848345,51.525148,0.000000
+            5.839917,51.526258,0.000000
+            5.823322,51.514761,0.000000
+            5.817138,51.513285,0.000000
+            5.794766,51.520795,0.000000
+            5.754840,51.535015,0.000000
+            5.750351,51.536610,0.000000
+            5.762726,51.543004,0.000000
+            5.774527,51.549073,0.000000
+            5.809504,51.573914,0.000000
+            5.809919,51.573696,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.805664,51.548570,0.000000
+            5.813328,51.547057,0.000000
+            5.815120,51.549912,0.000000
+            5.819611,51.548849,0.000000
+            5.820507,51.550222,0.000000
+            5.811176,51.552842,0.000000
+            5.811799,51.553445,0.000000
+            5.810837,51.554439,0.000000
+            5.809035,51.554803,0.000000
+            5.807266,51.550050,0.000000
+            5.805664,51.548570,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

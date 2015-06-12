@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01750608 Buurtschap Ommerschans en Ommerveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.362219,52.591626,0.000000
+            6.362813,52.591607,0.000000
+            6.374211,52.591513,0.000000
+            6.374619,52.591510,0.000000
+            6.392328,52.591361,0.000000
+            6.392658,52.591358,0.000000
+            6.398457,52.591309,0.000000
+            6.401182,52.591286,0.000000
+            6.402658,52.591273,0.000000
+            6.415454,52.570493,0.000000
+            6.415048,52.570257,0.000000
+            6.377680,52.565654,0.000000
+            6.376351,52.567373,0.000000
+            6.367193,52.579210,0.000000
+            6.365978,52.579018,0.000000
+            6.362219,52.591626,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

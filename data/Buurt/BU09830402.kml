@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830402 Windhond</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.156769,51.343006,0.000000
+            6.137537,51.324487,0.000000
+            6.128979,51.327612,0.000000
+            6.135219,51.333168,0.000000
+            6.139835,51.337214,0.000000
+            6.145442,51.340050,0.000000
+            6.157863,51.345615,0.000000
+            6.156769,51.343006,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

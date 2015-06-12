@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16510205 Eppenhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.697112,53.378356,0.000000
+            6.693748,53.378297,0.000000
+            6.691954,53.379351,0.000000
+            6.692388,53.380988,0.000000
+            6.695059,53.382424,0.000000
+            6.698018,53.382575,0.000000
+            6.699809,53.381723,0.000000
+            6.699156,53.379278,0.000000
+            6.697112,53.378356,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

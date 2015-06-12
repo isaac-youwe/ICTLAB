@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00180605 Kropswolderbuitenpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.724001,53.156636,0.000000
+            6.723631,53.152701,0.000000
+            6.725439,53.152347,0.000000
+            6.724628,53.152334,0.000000
+            6.722732,53.152286,0.000000
+            6.711786,53.152409,0.000000
+            6.705395,53.149145,0.000000
+            6.703298,53.150749,0.000000
+            6.702110,53.153654,0.000000
+            6.689508,53.153676,0.000000
+            6.689439,53.153855,0.000000
+            6.683649,53.160210,0.000000
+            6.679554,53.163402,0.000000
+            6.697720,53.169060,0.000000
+            6.723009,53.161724,0.000000
+            6.724497,53.160275,0.000000
+            6.723956,53.157773,0.000000
+            6.724001,53.156636,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

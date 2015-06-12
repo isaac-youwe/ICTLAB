@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04530601 Biezenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.647589,52.437185,0.000000
+            4.643151,52.436665,0.000000
+            4.639728,52.443313,0.000000
+            4.645836,52.445377,0.000000
+            4.650421,52.447467,0.000000
+            4.654637,52.451517,0.000000
+            4.655057,52.450740,0.000000
+            4.650887,52.440066,0.000000
+            4.650409,52.439028,0.000000
+            4.648994,52.438803,0.000000
+            4.647589,52.437185,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

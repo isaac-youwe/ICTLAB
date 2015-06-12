@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18960308 Ter Wees Hoek-Noordoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.128299,52.586543,0.000000
+            6.130911,52.581601,0.000000
+            6.147188,52.584194,0.000000
+            6.156010,52.582340,0.000000
+            6.157454,52.580533,0.000000
+            6.161735,52.572422,0.000000
+            6.128872,52.556458,0.000000
+            6.118705,52.557407,0.000000
+            6.109915,52.561057,0.000000
+            6.110019,52.567348,0.000000
+            6.104119,52.567384,0.000000
+            6.103725,52.566916,0.000000
+            6.103384,52.576288,0.000000
+            6.094375,52.586224,0.000000
+            6.104196,52.583768,0.000000
+            6.106988,52.588179,0.000000
+            6.108035,52.590814,0.000000
+            6.109245,52.590450,0.000000
+            6.113154,52.589752,0.000000
+            6.128299,52.586543,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

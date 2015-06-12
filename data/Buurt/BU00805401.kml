@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00805401 Techum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.797238,53.171419,0.000000
+            5.800538,53.170172,0.000000
+            5.804320,53.171940,0.000000
+            5.806737,53.168448,0.000000
+            5.806225,53.166701,0.000000
+            5.802729,53.163958,0.000000
+            5.805911,53.161170,0.000000
+            5.789968,53.159118,0.000000
+            5.787624,53.166111,0.000000
+            5.793889,53.174486,0.000000
+            5.797238,53.171419,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

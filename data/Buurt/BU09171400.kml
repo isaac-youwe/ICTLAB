@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09171400 De Koumen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.935592,50.919025,0.000000
+            5.936002,50.917977,0.000000
+            5.938852,50.918433,0.000000
+            5.946288,50.917104,0.000000
+            5.946533,50.917005,0.000000
+            5.945234,50.912698,0.000000
+            5.947440,50.908708,0.000000
+            5.948363,50.905828,0.000000
+            5.941055,50.904381,0.000000
+            5.935620,50.901123,0.000000
+            5.919693,50.908607,0.000000
+            5.920238,50.909090,0.000000
+            5.930289,50.905926,0.000000
+            5.934936,50.909657,0.000000
+            5.930164,50.913072,0.000000
+            5.935099,50.918945,0.000000
+            5.935592,50.919025,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

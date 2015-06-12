@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06680700 Kern Maasbommel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.532930,51.825999,0.000000
+            5.534280,51.823655,0.000000
+            5.538294,51.823753,0.000000
+            5.544602,51.819186,0.000000
+            5.543460,51.818204,0.000000
+            5.532992,51.819237,0.000000
+            5.532417,51.822242,0.000000
+            5.531158,51.822296,0.000000
+            5.530898,51.821233,0.000000
+            5.528999,51.821349,0.000000
+            5.528096,51.822890,0.000000
+            5.530327,51.825021,0.000000
+            5.532930,51.825999,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

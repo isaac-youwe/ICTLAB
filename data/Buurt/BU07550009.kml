@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07550009 Verspreide huizen Bovenstehuis en Peelsehuis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.709165,51.625273,0.000000
+            5.706565,51.615560,0.000000
+            5.704977,51.615689,0.000000
+            5.704670,51.610526,0.000000
+            5.689204,51.608057,0.000000
+            5.678902,51.608233,0.000000
+            5.674478,51.609412,0.000000
+            5.670402,51.621982,0.000000
+            5.667227,51.624743,0.000000
+            5.666553,51.628880,0.000000
+            5.680271,51.628277,0.000000
+            5.686203,51.628016,0.000000
+            5.709165,51.625273,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

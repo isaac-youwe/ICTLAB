@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440219 Elinkwijk en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.074556,52.115386,0.000000
+            5.081424,52.111427,0.000000
+            5.085880,52.113600,0.000000
+            5.091986,52.110103,0.000000
+            5.083832,52.106477,0.000000
+            5.077197,52.110298,0.000000
+            5.074015,52.115103,0.000000
+            5.074556,52.115386,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

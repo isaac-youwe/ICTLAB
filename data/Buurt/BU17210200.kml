@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17210200 Vorstenbosch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.558319,51.656494,0.000000
+            5.558430,51.654502,0.000000
+            5.556544,51.654012,0.000000
+            5.558340,51.650480,0.000000
+            5.550451,51.648850,0.000000
+            5.545922,51.651101,0.000000
+            5.546268,51.654792,0.000000
+            5.548288,51.656213,0.000000
+            5.551126,51.655696,0.000000
+            5.551798,51.657138,0.000000
+            5.555632,51.657814,0.000000
+            5.558319,51.656494,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

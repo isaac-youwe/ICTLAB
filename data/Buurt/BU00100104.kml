@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00100104 Uitwierde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.898526,53.340488,0.000000
+            6.896386,53.339400,0.000000
+            6.893594,53.340465,0.000000
+            6.892794,53.342550,0.000000
+            6.894642,53.344460,0.000000
+            6.896701,53.344655,0.000000
+            6.899061,53.343526,0.000000
+            6.899352,53.342157,0.000000
+            6.898526,53.340488,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

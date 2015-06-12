@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06200007 Verspreide huizen Helsdingen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.067038,51.983962,0.000000
+            5.080720,51.975012,0.000000
+            5.082795,51.973942,0.000000
+            5.079601,51.971684,0.000000
+            5.075647,51.970459,0.000000
+            5.063952,51.964385,0.000000
+            5.053857,51.976716,0.000000
+            5.048034,51.976699,0.000000
+            5.039294,51.977572,0.000000
+            5.043633,51.981181,0.000000
+            5.062487,51.991123,0.000000
+            5.068285,51.994734,0.000000
+            5.077004,51.997454,0.000000
+            5.078460,51.997458,0.000000
+            5.078643,51.997521,0.000000
+            5.081612,51.991946,0.000000
+            5.071851,51.988965,0.000000
+            5.068105,51.986387,0.000000
+            5.067038,51.983962,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

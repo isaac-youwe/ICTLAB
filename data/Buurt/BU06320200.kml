@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320200 Geestdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.927239,52.107234,0.000000
+            4.938758,52.104959,0.000000
+            4.939256,52.103706,0.000000
+            4.938469,52.103151,0.000000
+            4.934773,52.104651,0.000000
+            4.928391,52.105305,0.000000
+            4.918815,52.102227,0.000000
+            4.914531,52.097461,0.000000
+            4.908084,52.097177,0.000000
+            4.901151,52.094251,0.000000
+            4.897021,52.094470,0.000000
+            4.893844,52.096185,0.000000
+            4.894176,52.097301,0.000000
+            4.894341,52.099357,0.000000
+            4.906778,52.103529,0.000000
+            4.907327,52.103001,0.000000
+            4.912554,52.103972,0.000000
+            4.927239,52.107234,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

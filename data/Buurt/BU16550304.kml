@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16550304 Spui</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.526455,51.583671,0.000000
+            4.517559,51.578666,0.000000
+            4.516678,51.579236,0.000000
+            4.519302,51.582075,0.000000
+            4.517793,51.589582,0.000000
+            4.518524,51.596489,0.000000
+            4.519287,51.596906,0.000000
+            4.520761,51.594990,0.000000
+            4.524125,51.591611,0.000000
+            4.521680,51.588781,0.000000
+            4.526831,51.583882,0.000000
+            4.526455,51.583671,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

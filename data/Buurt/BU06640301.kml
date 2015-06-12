@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06640301 Oostmolenpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.914001,51.485942,0.000000
+            3.909443,51.485144,0.000000
+            3.908694,51.487087,0.000000
+            3.905512,51.487803,0.000000
+            3.906981,51.492092,0.000000
+            3.911073,51.496161,0.000000
+            3.918490,51.496190,0.000000
+            3.919189,51.493609,0.000000
+            3.917766,51.493128,0.000000
+            3.918996,51.492972,0.000000
+            3.918713,51.489503,0.000000
+            3.913453,51.487429,0.000000
+            3.914001,51.485942,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

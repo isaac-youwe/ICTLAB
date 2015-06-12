@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05880302 Zuidzijde (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.376954,51.780005,0.000000
+            4.376440,51.778899,0.000000
+            4.367989,51.779299,0.000000
+            4.370418,51.776685,0.000000
+            4.367354,51.775634,0.000000
+            4.361878,51.779668,0.000000
+            4.346390,51.779800,0.000000
+            4.346406,51.780820,0.000000
+            4.359669,51.781438,0.000000
+            4.376954,51.780005,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

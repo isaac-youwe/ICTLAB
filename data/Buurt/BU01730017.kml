@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01730017 Het Hulsbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.905527,52.304052,0.000000
+            6.880170,52.294845,0.000000
+            6.879734,52.294966,0.000000
+            6.872495,52.297754,0.000000
+            6.865137,52.296948,0.000000
+            6.859333,52.298818,0.000000
+            6.861037,52.305989,0.000000
+            6.863292,52.307536,0.000000
+            6.870044,52.312169,0.000000
+            6.877375,52.312077,0.000000
+            6.877457,52.312261,0.000000
+            6.900441,52.310987,0.000000
+            6.910829,52.307583,0.000000
+            6.905527,52.304052,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

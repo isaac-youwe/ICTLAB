@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580303 Ginneken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.792027,51.553246,0.000000
+            4.789378,51.553064,0.000000
+            4.786871,51.554702,0.000000
+            4.785407,51.557517,0.000000
+            4.789717,51.562118,0.000000
+            4.783377,51.566145,0.000000
+            4.776123,51.566414,0.000000
+            4.777778,51.571825,0.000000
+            4.778434,51.571951,0.000000
+            4.783546,51.573562,0.000000
+            4.788344,51.572407,0.000000
+            4.792512,51.569668,0.000000
+            4.793730,51.567668,0.000000
+            4.793040,51.556924,0.000000
+            4.793980,51.555497,0.000000
+            4.792027,51.553246,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

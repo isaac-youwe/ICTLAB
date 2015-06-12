@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060701 Tussengebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.532488,52.998205,0.000000
+            6.539538,52.994697,0.000000
+            6.539460,52.994291,0.000000
+            6.531470,52.994227,0.000000
+            6.525919,52.993547,0.000000
+            6.516354,52.991909,0.000000
+            6.520140,52.997881,0.000000
+            6.525861,52.998529,0.000000
+            6.525920,52.997466,0.000000
+            6.531246,52.998936,0.000000
+            6.532488,52.998205,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

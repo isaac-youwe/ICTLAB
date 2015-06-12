@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000700 Mari_ndal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.737923,52.929236,0.000000
+            4.736977,52.914785,0.000000
+            4.713589,52.915926,0.000000
+            4.713629,52.916376,0.000000
+            4.713382,52.932359,0.000000
+            4.727298,52.932782,0.000000
+            4.733938,52.936366,0.000000
+            4.736103,52.936113,0.000000
+            4.737118,52.934312,0.000000
+            4.738533,52.930634,0.000000
+            4.737923,52.929236,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

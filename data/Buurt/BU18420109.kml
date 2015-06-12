@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18420109 Verspreide huizen Duifpolder en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.321998,51.942361,0.000000
+            4.315301,51.937243,0.000000
+            4.313911,51.934533,0.000000
+            4.295292,51.922675,0.000000
+            4.295120,51.922620,0.000000
+            4.285581,51.933219,0.000000
+            4.288113,51.934112,0.000000
+            4.279703,51.941677,0.000000
+            4.272677,51.939910,0.000000
+            4.276455,51.947678,0.000000
+            4.277432,51.949413,0.000000
+            4.284071,51.950614,0.000000
+            4.297106,51.957314,0.000000
+            4.313454,51.959637,0.000000
+            4.322702,51.942758,0.000000
+            4.322444,51.942702,0.000000
+            4.321998,51.942361,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

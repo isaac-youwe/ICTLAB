@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04910004 Tussenlanen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.808309,51.956949,0.000000
+            4.811130,51.942121,0.000000
+            4.811825,51.937999,0.000000
+            4.807137,51.936859,0.000000
+            4.794426,51.933818,0.000000
+            4.794318,51.939734,0.000000
+            4.786989,51.938068,0.000000
+            4.787175,51.940598,0.000000
+            4.787483,51.944762,0.000000
+            4.780733,51.943940,0.000000
+            4.780604,51.952103,0.000000
+            4.780600,51.952259,0.000000
+            4.789237,51.953194,0.000000
+            4.808104,51.956885,0.000000
+            4.808309,51.956949,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

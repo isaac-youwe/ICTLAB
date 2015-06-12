@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411802 Schelfhorst-Noordwest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.669805,52.386725,0.000000
+            6.675547,52.383458,0.000000
+            6.680044,52.385016,0.000000
+            6.681196,52.382482,0.000000
+            6.677187,52.382231,0.000000
+            6.677098,52.380513,0.000000
+            6.679984,52.379049,0.000000
+            6.678402,52.378023,0.000000
+            6.675881,52.379258,0.000000
+            6.668520,52.378871,0.000000
+            6.666807,52.384315,0.000000
+            6.669805,52.386725,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

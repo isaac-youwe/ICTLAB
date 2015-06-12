@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09180108 Onder-Eindt-Zandberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.023256,51.345170,0.000000
+            6.038383,51.331125,0.000000
+            6.038717,51.330815,0.000000
+            6.041535,51.327203,0.000000
+            6.041636,51.327030,0.000000
+            6.032958,51.327184,0.000000
+            6.019662,51.325509,0.000000
+            6.008091,51.325201,0.000000
+            5.995599,51.326000,0.000000
+            5.990090,51.328159,0.000000
+            5.991032,51.330779,0.000000
+            5.996338,51.333969,0.000000
+            5.999010,51.337803,0.000000
+            6.000490,51.341782,0.000000
+            5.999655,51.343181,0.000000
+            6.007609,51.341771,0.000000
+            6.008966,51.343849,0.000000
+            6.023256,51.345170,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04792230 Schilders- en Waddenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.811456,52.449925,0.000000
+            4.807325,52.449383,0.000000
+            4.805818,52.455320,0.000000
+            4.812288,52.456004,0.000000
+            4.813135,52.454555,0.000000
+            4.819039,52.451853,0.000000
+            4.816616,52.450722,0.000000
+            4.811456,52.449925,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

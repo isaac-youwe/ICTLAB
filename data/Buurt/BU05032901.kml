@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05032901 Bedrijventerrein Technopolis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.392558,51.985030,0.000000
+            4.378742,51.982784,0.000000
+            4.372628,51.992418,0.000000
+            4.381976,51.994693,0.000000
+            4.389509,51.996551,0.000000
+            4.389621,51.996331,0.000000
+            4.389647,51.996273,0.000000
+            4.391864,51.991347,0.000000
+            4.393776,51.987100,0.000000
+            4.392051,51.986926,0.000000
+            4.392558,51.985030,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

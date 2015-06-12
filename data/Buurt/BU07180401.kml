@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07180401 Bossenburgh-Weyevliet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.582858,51.464321,0.000000
+            3.581044,51.460344,0.000000
+            3.569417,51.460514,0.000000
+            3.566524,51.464791,0.000000
+            3.570848,51.465492,0.000000
+            3.575044,51.465050,0.000000
+            3.582858,51.464321,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

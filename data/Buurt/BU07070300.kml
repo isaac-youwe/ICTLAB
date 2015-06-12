@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07070300 Leerbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.057251,51.911103,0.000000
+            5.061618,51.910216,0.000000
+            5.055883,51.905742,0.000000
+            5.055837,51.905705,0.000000
+            5.055850,51.903932,0.000000
+            5.045028,51.903255,0.000000
+            5.048116,51.908140,0.000000
+            5.040005,51.911975,0.000000
+            5.041790,51.913855,0.000000
+            5.050523,51.910189,0.000000
+            5.056666,51.913986,0.000000
+            5.060534,51.913249,0.000000
+            5.060145,51.912909,0.000000
+            5.057251,51.911103,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

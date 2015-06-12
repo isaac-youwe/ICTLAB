@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721626 Wielewaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.441765,51.450387,0.000000
+            5.435442,51.447032,0.000000
+            5.419395,51.452761,0.000000
+            5.412994,51.456166,0.000000
+            5.409093,51.459773,0.000000
+            5.418104,51.463852,0.000000
+            5.445853,51.453900,0.000000
+            5.441765,51.450387,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

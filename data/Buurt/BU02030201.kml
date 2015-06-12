@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02030201 Stroe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.696114,52.188754,0.000000
+            5.695574,52.184725,0.000000
+            5.693489,52.183752,0.000000
+            5.687975,52.183766,0.000000
+            5.687059,52.185037,0.000000
+            5.690690,52.186514,0.000000
+            5.690677,52.187913,0.000000
+            5.686997,52.187137,0.000000
+            5.686015,52.188664,0.000000
+            5.693885,52.190500,0.000000
+            5.696114,52.188754,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

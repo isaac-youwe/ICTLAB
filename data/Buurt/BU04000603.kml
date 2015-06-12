@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000603 Kooypunt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.797511,52.914565,0.000000
+            4.797216,52.912261,0.000000
+            4.796952,52.912324,0.000000
+            4.795466,52.912316,0.000000
+            4.788168,52.902393,0.000000
+            4.788079,52.902284,0.000000
+            4.782358,52.903927,0.000000
+            4.778899,52.905873,0.000000
+            4.774206,52.913080,0.000000
+            4.773457,52.914626,0.000000
+            4.785244,52.914897,0.000000
+            4.793309,52.913273,0.000000
+            4.795246,52.915938,0.000000
+            4.797511,52.914565,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

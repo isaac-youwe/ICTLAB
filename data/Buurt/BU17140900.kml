@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17140900 Groede</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.504736,51.382285,0.000000
+            3.505637,51.381352,0.000000
+            3.511693,51.382939,0.000000
+            3.512156,51.381181,0.000000
+            3.510015,51.380555,0.000000
+            3.508842,51.375432,0.000000
+            3.506862,51.374634,0.000000
+            3.503936,51.376434,0.000000
+            3.500555,51.376770,0.000000
+            3.499305,51.380018,0.000000
+            3.502081,51.382435,0.000000
+            3.505681,51.383345,0.000000
+            3.506138,51.382705,0.000000
+            3.504736,51.382285,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

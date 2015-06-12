@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08930101 Heukelom-Gening-Berkenkamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.027489,51.631275,0.000000
+            6.030007,51.628862,0.000000
+            6.034063,51.630240,0.000000
+            6.041761,51.630446,0.000000
+            6.070372,51.627407,0.000000
+            6.055166,51.622127,0.000000
+            6.052250,51.624093,0.000000
+            6.038707,51.620067,0.000000
+            6.039534,51.617733,0.000000
+            6.038250,51.616131,0.000000
+            6.032740,51.614565,0.000000
+            6.023982,51.612028,0.000000
+            6.023986,51.612281,0.000000
+            6.024036,51.615877,0.000000
+            6.022643,51.619481,0.000000
+            6.019792,51.622193,0.000000
+            6.008371,51.629425,0.000000
+            6.015701,51.632620,0.000000
+            6.027489,51.631275,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

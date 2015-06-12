@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550302 Mariaziekenhuis-Vredeburcht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.065828,51.568162,0.000000
+            5.065105,51.562869,0.000000
+            5.061796,51.563333,0.000000
+            5.062523,51.568606,0.000000
+            5.061460,51.572029,0.000000
+            5.062998,51.575425,0.000000
+            5.047863,51.577106,0.000000
+            5.044620,51.580977,0.000000
+            5.066200,51.578583,0.000000
+            5.066251,51.575484,0.000000
+            5.065732,51.568927,0.000000
+            5.065979,51.568569,0.000000
+            5.065828,51.568162,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

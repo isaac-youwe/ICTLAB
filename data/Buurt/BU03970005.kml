@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03970005 Schouwbroekerpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.636920,52.353399,0.000000
+            4.629988,52.350307,0.000000
+            4.628425,52.351562,0.000000
+            4.629750,52.357438,0.000000
+            4.635538,52.355777,0.000000
+            4.635551,52.355033,0.000000
+            4.635553,52.355031,0.000000
+            4.636920,52.353399,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

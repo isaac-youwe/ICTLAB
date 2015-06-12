@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01143201 Oost- en West-Weiteveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.023123,52.671095,0.000000
+            7.026445,52.669916,0.000000
+            7.026124,52.668951,0.000000
+            7.021999,52.668560,0.000000
+            7.003974,52.669803,0.000000
+            7.004642,52.670858,0.000000
+            7.014613,52.670493,0.000000
+            7.016039,52.671401,0.000000
+            7.023123,52.671095,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.972214,52.672278,0.000000
+            6.971693,52.671461,0.000000
+            6.963960,52.671800,0.000000
+            6.963419,52.671177,0.000000
+            6.958707,52.672510,0.000000
+            6.959607,52.673667,0.000000
+            6.963040,52.672680,0.000000
+            6.972214,52.672278,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

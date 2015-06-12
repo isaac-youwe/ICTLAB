@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03850081 Zeevangpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.067970,52.516694,0.000000
+            5.062916,52.515257,0.000000
+            5.046386,52.515879,0.000000
+            5.046319,52.519317,0.000000
+            5.046818,52.519624,0.000000
+            5.065928,52.525969,0.000000
+            5.065948,52.523273,0.000000
+            5.071458,52.518832,0.000000
+            5.067970,52.516694,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

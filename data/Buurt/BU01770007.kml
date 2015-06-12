@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770007 Langkamp II</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.266031,52.382219,0.000000
+            6.264424,52.380260,0.000000
+            6.259360,52.380887,0.000000
+            6.258091,52.383643,0.000000
+            6.260533,52.387846,0.000000
+            6.263963,52.386930,0.000000
+            6.263600,52.383169,0.000000
+            6.266031,52.382219,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

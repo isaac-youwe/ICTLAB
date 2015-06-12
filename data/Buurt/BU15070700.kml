@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15070700 Lottum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.164225,51.460109,0.000000
+            6.158793,51.456507,0.000000
+            6.154990,51.459015,0.000000
+            6.154869,51.461303,0.000000
+            6.158419,51.464503,0.000000
+            6.162865,51.465041,0.000000
+            6.162954,51.466794,0.000000
+            6.165423,51.466041,0.000000
+            6.164225,51.460109,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

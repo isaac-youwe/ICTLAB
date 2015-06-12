@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16840309 Verspreide huizen Katwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.865892,51.750550,0.000000
+            5.871656,51.746512,0.000000
+            5.879649,51.746811,0.000000
+            5.880568,51.744260,0.000000
+            5.870755,51.742602,0.000000
+            5.865748,51.743118,0.000000
+            5.856078,51.744230,0.000000
+            5.848048,51.742576,0.000000
+            5.846554,51.743426,0.000000
+            5.842472,51.743335,0.000000
+            5.844125,51.749143,0.000000
+            5.848673,51.749150,0.000000
+            5.862609,51.751309,0.000000
+            5.865892,51.750550,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

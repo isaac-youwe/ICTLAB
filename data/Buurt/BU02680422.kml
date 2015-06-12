@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680422 Hees</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.840875,51.844657,0.000000
+            5.840577,51.841951,0.000000
+            5.836655,51.839107,0.000000
+            5.833801,51.840926,0.000000
+            5.821765,51.834749,0.000000
+            5.817627,51.838344,0.000000
+            5.822734,51.841226,0.000000
+            5.825900,51.844576,0.000000
+            5.829485,51.842981,0.000000
+            5.835496,51.844556,0.000000
+            5.837106,51.846458,0.000000
+            5.840875,51.844657,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

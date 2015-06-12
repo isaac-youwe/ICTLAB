@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09810000 Vijlen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.961723,50.799904,0.000000
+            5.976800,50.791157,0.000000
+            5.977197,50.785631,0.000000
+            5.968421,50.780842,0.000000
+            5.964907,50.780760,0.000000
+            5.944380,50.775643,0.000000
+            5.944423,50.775722,0.000000
+            5.944498,50.782014,0.000000
+            5.941759,50.790118,0.000000
+            5.943220,50.793707,0.000000
+            5.945890,50.795374,0.000000
+            5.946079,50.795492,0.000000
+            5.951730,50.793666,0.000000
+            5.957459,50.798133,0.000000
+            5.957521,50.798159,0.000000
+            5.961723,50.799904,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

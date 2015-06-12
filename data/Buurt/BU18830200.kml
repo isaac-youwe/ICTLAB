@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18830200 Overhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.859071,51.015083,0.000000
+            5.861800,51.011199,0.000000
+            5.874173,51.012892,0.000000
+            5.874445,51.009582,0.000000
+            5.873555,51.007604,0.000000
+            5.871470,51.006752,0.000000
+            5.868112,51.002375,0.000000
+            5.868686,51.001807,0.000000
+            5.860522,51.005938,0.000000
+            5.859071,51.015083,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

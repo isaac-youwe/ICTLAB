@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02160002 Noordoostelijke Buitenwijken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.247407,51.958518,0.000000
+            5.229307,51.952445,0.000000
+            5.228433,51.957436,0.000000
+            5.223530,51.960734,0.000000
+            5.224755,51.961714,0.000000
+            5.226284,51.963014,0.000000
+            5.230682,51.963435,0.000000
+            5.233298,51.965925,0.000000
+            5.247407,51.958518,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

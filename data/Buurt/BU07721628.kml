@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721628 Mispelhoef</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.418104,51.463852,0.000000
+            5.409093,51.459773,0.000000
+            5.406161,51.464903,0.000000
+            5.403448,51.477957,0.000000
+            5.405880,51.482255,0.000000
+            5.412409,51.484179,0.000000
+            5.432398,51.468866,0.000000
+            5.429247,51.467145,0.000000
+            5.424140,51.466215,0.000000
+            5.418104,51.463852,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02960203 Leur</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.699513,51.815679,0.000000
+            5.697348,51.815360,0.000000
+            5.691756,51.817001,0.000000
+            5.690456,51.819243,0.000000
+            5.691266,51.821095,0.000000
+            5.692163,51.821083,0.000000
+            5.699278,51.819980,0.000000
+            5.699513,51.815679,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

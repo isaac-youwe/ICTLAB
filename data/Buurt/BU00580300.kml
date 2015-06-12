@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580300 Anjum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.133868,53.372403,0.000000
+            6.127850,53.370035,0.000000
+            6.120798,53.372059,0.000000
+            6.119095,53.373861,0.000000
+            6.119020,53.376134,0.000000
+            6.123539,53.380475,0.000000
+            6.130921,53.381741,0.000000
+            6.135488,53.380062,0.000000
+            6.136527,53.376678,0.000000
+            6.133868,53.372403,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

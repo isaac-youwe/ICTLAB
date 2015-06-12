@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01730007 Zuid Berghuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.949060,52.306657,0.000000
+            6.941447,52.298666,0.000000
+            6.947089,52.292298,0.000000
+            6.941164,52.290578,0.000000
+            6.936772,52.290636,0.000000
+            6.936396,52.290868,0.000000
+            6.935197,52.293544,0.000000
+            6.933507,52.292909,0.000000
+            6.930636,52.296162,0.000000
+            6.931864,52.299452,0.000000
+            6.930979,52.303492,0.000000
+            6.931648,52.303993,0.000000
+            6.932626,52.303068,0.000000
+            6.940647,52.305093,0.000000
+            6.942091,52.305671,0.000000
+            6.940566,52.307065,0.000000
+            6.949292,52.306926,0.000000
+            6.949060,52.306657,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

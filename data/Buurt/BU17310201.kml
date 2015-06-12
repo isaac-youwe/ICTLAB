@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17310201 Laaghalen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.534526,52.925721,0.000000
+            6.532234,52.919796,0.000000
+            6.531214,52.917500,0.000000
+            6.523253,52.919417,0.000000
+            6.517180,52.922018,0.000000
+            6.513808,52.924937,0.000000
+            6.514969,52.925681,0.000000
+            6.522611,52.920656,0.000000
+            6.528133,52.919928,0.000000
+            6.530354,52.926652,0.000000
+            6.529353,52.927889,0.000000
+            6.535485,52.928207,0.000000
+            6.534526,52.925721,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

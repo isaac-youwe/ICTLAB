@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16802100 Ekehaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.608636,52.952017,0.000000
+            6.606858,52.948066,0.000000
+            6.605306,52.948018,0.000000
+            6.603230,52.951042,0.000000
+            6.601254,52.950548,0.000000
+            6.598154,52.954710,0.000000
+            6.604084,52.956971,0.000000
+            6.607343,52.955243,0.000000
+            6.608636,52.952017,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

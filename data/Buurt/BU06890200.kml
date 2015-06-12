@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06890200 Muisbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.904012,51.864478,0.000000
+            4.904922,51.861792,0.000000
+            4.903069,51.861819,0.000000
+            4.898869,51.864882,0.000000
+            4.902929,51.868052,0.000000
+            4.912298,51.868121,0.000000
+            4.914039,51.869938,0.000000
+            4.917126,51.870224,0.000000
+            4.918807,51.869565,0.000000
+            4.919255,51.867744,0.000000
+            4.914969,51.866631,0.000000
+            4.905477,51.865682,0.000000
+            4.904012,51.864478,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

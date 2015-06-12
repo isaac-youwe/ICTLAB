@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00806302 Magere Weide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.781246,53.213342,0.000000
+            5.782625,53.211664,0.000000
+            5.775231,53.212010,0.000000
+            5.775193,53.215699,0.000000
+            5.775320,53.217973,0.000000
+            5.780713,53.217591,0.000000
+            5.781067,53.217160,0.000000
+            5.781246,53.213342,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

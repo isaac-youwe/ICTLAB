@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03071401 Randenbroekerweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.408073,52.154125,0.000000
+            5.409163,52.152516,0.000000
+            5.408014,52.152208,0.000000
+            5.402123,52.151168,0.000000
+            5.395788,52.151415,0.000000
+            5.396207,52.152642,0.000000
+            5.397707,52.153581,0.000000
+            5.399104,52.152700,0.000000
+            5.402663,52.153036,0.000000
+            5.404007,52.154684,0.000000
+            5.403689,52.155921,0.000000
+            5.401661,52.156202,0.000000
+            5.401106,52.157191,0.000000
+            5.406154,52.158016,0.000000
+            5.406560,52.157245,0.000000
+            5.408073,52.154125,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

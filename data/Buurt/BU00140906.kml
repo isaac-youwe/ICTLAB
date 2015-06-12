@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140906 Beijum-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.587615,53.255664,0.000000
+            6.587595,53.255579,0.000000
+            6.590592,53.255549,0.000000
+            6.590942,53.255507,0.000000
+            6.598331,53.244108,0.000000
+            6.592931,53.241557,0.000000
+            6.593632,53.240947,0.000000
+            6.589426,53.239356,0.000000
+            6.583689,53.243104,0.000000
+            6.581219,53.246990,0.000000
+            6.578867,53.248196,0.000000
+            6.580532,53.249788,0.000000
+            6.587809,53.256481,0.000000
+            6.587615,53.255664,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

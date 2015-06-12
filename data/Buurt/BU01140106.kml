@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140106 Siepelveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.983788,52.839045,0.000000
+            6.975382,52.835825,0.000000
+            6.973985,52.837139,0.000000
+            6.958122,52.831024,0.000000
+            6.944230,52.829586,0.000000
+            6.943750,52.831360,0.000000
+            6.955986,52.832627,0.000000
+            6.982037,52.842645,0.000000
+            6.984372,52.840441,0.000000
+            6.982908,52.839877,0.000000
+            6.983788,52.839045,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

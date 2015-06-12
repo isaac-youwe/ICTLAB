@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06870309 Mortiere</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.652246,51.481646,0.000000
+            3.648480,51.479922,0.000000
+            3.636547,51.476790,0.000000
+            3.636483,51.476828,0.000000
+            3.629114,51.481213,0.000000
+            3.620688,51.475691,0.000000
+            3.617740,51.477445,0.000000
+            3.617042,51.477288,0.000000
+            3.624819,51.483834,0.000000
+            3.637468,51.492383,0.000000
+            3.643907,51.488458,0.000000
+            3.649095,51.486374,0.000000
+            3.648816,51.485409,0.000000
+            3.652246,51.481646,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

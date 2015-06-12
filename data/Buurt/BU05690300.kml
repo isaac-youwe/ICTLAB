@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05690300 Ter Aar (buitengebied)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.686879,52.186769,0.000000
+            4.699485,52.179743,0.000000
+            4.703362,52.184663,0.000000
+            4.716618,52.177574,0.000000
+            4.727239,52.177986,0.000000
+            4.720639,52.158915,0.000000
+            4.704702,52.150237,0.000000
+            4.704759,52.150501,0.000000
+            4.706193,52.152307,0.000000
+            4.700279,52.156768,0.000000
+            4.699668,52.157108,0.000000
+            4.681109,52.167442,0.000000
+            4.686660,52.186352,0.000000
+            4.686879,52.186769,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.701271,52.163278,0.000000
+            4.707198,52.159983,0.000000
+            4.708258,52.163723,0.000000
+            4.711953,52.168978,0.000000
+            4.703942,52.173719,0.000000
+            4.700415,52.168107,0.000000
+            4.700225,52.167300,0.000000
+            4.702913,52.165957,0.000000
+            4.701271,52.163278,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.709263,52.162816,0.000000
+            4.712598,52.161814,0.000000
+            4.715019,52.163153,0.000000
+            4.714298,52.165353,0.000000
+            4.714382,52.165812,0.000000
+            4.710729,52.165763,0.000000
+            4.709263,52.162816,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

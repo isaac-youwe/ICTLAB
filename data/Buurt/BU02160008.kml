@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02160008 Verspreide huizen Redichem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.256211,51.970822,0.000000
+            5.269324,51.965443,0.000000
+            5.254807,51.954643,0.000000
+            5.247407,51.958518,0.000000
+            5.233298,51.965925,0.000000
+            5.230682,51.963435,0.000000
+            5.226284,51.963014,0.000000
+            5.224755,51.961714,0.000000
+            5.218619,51.963721,0.000000
+            5.224204,51.967187,0.000000
+            5.229994,51.976184,0.000000
+            5.235807,51.978888,0.000000
+            5.241630,51.978896,0.000000
+            5.244544,51.978000,0.000000
+            5.256211,51.970822,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01480600 Lemelerveld kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.342562,52.453650,0.000000
+            6.342344,52.449573,0.000000
+            6.352088,52.449671,0.000000
+            6.351924,52.447640,0.000000
+            6.354517,52.444566,0.000000
+            6.359454,52.443975,0.000000
+            6.343641,52.436132,0.000000
+            6.341543,52.436583,0.000000
+            6.330643,52.436126,0.000000
+            6.333966,52.443566,0.000000
+            6.328168,52.444689,0.000000
+            6.329868,52.448194,0.000000
+            6.340827,52.446466,0.000000
+            6.341066,52.451609,0.000000
+            6.342562,52.453650,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

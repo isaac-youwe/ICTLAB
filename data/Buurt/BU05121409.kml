@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05121409 Linge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.980447,51.833926,0.000000
+            4.978138,51.833157,0.000000
+            4.978118,51.835162,0.000000
+            4.984323,51.839633,0.000000
+            4.985502,51.844665,0.000000
+            4.987380,51.846331,0.000000
+            4.996527,51.845016,0.000000
+            4.993511,51.844237,0.000000
+            4.989762,51.841011,0.000000
+            4.990073,51.840240,0.000000
+            4.986475,51.838229,0.000000
+            4.980447,51.833926,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

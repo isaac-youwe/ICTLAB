@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000200 Oud-Den Helder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.752300,52.960184,0.000000
+            4.747979,52.958842,0.000000
+            4.743016,52.959125,0.000000
+            4.743988,52.962547,0.000000
+            4.739987,52.962764,0.000000
+            4.739507,52.964118,0.000000
+            4.739685,52.964155,0.000000
+            4.748615,52.964203,0.000000
+            4.759090,52.964892,0.000000
+            4.759885,52.963093,0.000000
+            4.754646,52.962503,0.000000
+            4.752300,52.960184,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

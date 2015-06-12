@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00830000 Menaldum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.663895,53.220888,0.000000
+            5.675519,53.213874,0.000000
+            5.669796,53.211229,0.000000
+            5.664209,53.210527,0.000000
+            5.660868,53.211280,0.000000
+            5.659436,53.211900,0.000000
+            5.659717,53.213001,0.000000
+            5.653718,53.214585,0.000000
+            5.652679,53.215793,0.000000
+            5.652166,53.216799,0.000000
+            5.653930,53.218919,0.000000
+            5.655116,53.219923,0.000000
+            5.656296,53.219511,0.000000
+            5.658575,53.221853,0.000000
+            5.660376,53.222039,0.000000
+            5.663895,53.220888,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

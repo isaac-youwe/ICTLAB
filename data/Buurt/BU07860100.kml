@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07860100 Escharen kom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.747955,51.740790,0.000000
+            5.742405,51.740463,0.000000
+            5.741413,51.743303,0.000000
+            5.743261,51.743453,0.000000
+            5.746553,51.746401,0.000000
+            5.749797,51.743309,0.000000
+            5.750111,51.742084,0.000000
+            5.747955,51.740790,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

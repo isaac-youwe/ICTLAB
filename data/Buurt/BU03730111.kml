@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03730111 Boendermaker</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.705108,52.668916,0.000000
+            4.712733,52.667118,0.000000
+            4.713063,52.663345,0.000000
+            4.710686,52.664048,0.000000
+            4.708702,52.664660,0.000000
+            4.708944,52.666102,0.000000
+            4.705563,52.665137,0.000000
+            4.702529,52.665287,0.000000
+            4.700163,52.665625,0.000000
+            4.700125,52.668031,0.000000
+            4.702717,52.667794,0.000000
+            4.703563,52.669064,0.000000
+            4.705108,52.668916,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

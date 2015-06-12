@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15860201 Zieuwent</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.523054,52.000393,0.000000
+            6.519830,51.999606,0.000000
+            6.517143,51.999709,0.000000
+            6.513833,52.002613,0.000000
+            6.516415,52.006607,0.000000
+            6.517977,52.006670,0.000000
+            6.516836,52.009008,0.000000
+            6.520516,52.008631,0.000000
+            6.524939,52.006883,0.000000
+            6.525107,52.004506,0.000000
+            6.523064,52.003041,0.000000
+            6.523054,52.000393,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

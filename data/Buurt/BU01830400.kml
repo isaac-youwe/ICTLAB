@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01830400 Langeveen kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.710503,52.471378,0.000000
+            6.713330,52.470188,0.000000
+            6.717275,52.470719,0.000000
+            6.722121,52.466891,0.000000
+            6.722536,52.459942,0.000000
+            6.720503,52.458878,0.000000
+            6.717530,52.459453,0.000000
+            6.713508,52.458408,0.000000
+            6.707124,52.466531,0.000000
+            6.707428,52.466920,0.000000
+            6.710503,52.471378,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00650000 Damwoude</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.995622,53.300713,0.000000
+            5.996340,53.297883,0.000000
+            6.001390,53.298319,0.000000
+            6.001955,53.295454,0.000000
+            6.020498,53.297173,0.000000
+            6.020509,53.283580,0.000000
+            6.003840,53.281916,0.000000
+            6.003723,53.282423,0.000000
+            6.000855,53.281894,0.000000
+            6.001058,53.280900,0.000000
+            5.996855,53.280274,0.000000
+            5.994996,53.280753,0.000000
+            5.980257,53.277883,0.000000
+            5.974289,53.282995,0.000000
+            5.968191,53.286265,0.000000
+            5.964837,53.290598,0.000000
+            5.963769,53.293964,0.000000
+            5.966092,53.295373,0.000000
+            5.995622,53.300713,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

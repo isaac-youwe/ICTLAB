@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140607 De Wijert-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.575331,53.193448,0.000000
+            6.575666,53.191124,0.000000
+            6.577309,53.191599,0.000000
+            6.579960,53.185988,0.000000
+            6.581776,53.185807,0.000000
+            6.581163,53.185541,0.000000
+            6.581088,53.182845,0.000000
+            6.576601,53.182890,0.000000
+            6.575898,53.182897,0.000000
+            6.575878,53.182914,0.000000
+            6.568174,53.187210,0.000000
+            6.564242,53.192931,0.000000
+            6.575331,53.193448,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

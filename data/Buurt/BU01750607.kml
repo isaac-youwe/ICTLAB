@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01750607 Buurtschap Vinkenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.362219,52.591626,0.000000
+            6.365978,52.579018,0.000000
+            6.367193,52.579210,0.000000
+            6.376351,52.567373,0.000000
+            6.356250,52.567815,0.000000
+            6.334350,52.572137,0.000000
+            6.334387,52.573860,0.000000
+            6.334349,52.573924,0.000000
+            6.325842,52.588310,0.000000
+            6.325836,52.588319,0.000000
+            6.322986,52.592827,0.000000
+            6.362219,52.591626,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

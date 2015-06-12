@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16690201 Holst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.042467,51.141171,0.000000
+            6.044862,51.139052,0.000000
+            6.043988,51.137058,0.000000
+            6.055970,51.137185,0.000000
+            6.055784,51.136120,0.000000
+            6.051916,51.134892,0.000000
+            6.052037,51.128249,0.000000
+            6.053315,51.128392,0.000000
+            6.054848,51.125778,0.000000
+            6.052627,51.125129,0.000000
+            6.050366,51.124712,0.000000
+            6.046726,51.122245,0.000000
+            6.035379,51.127101,0.000000
+            6.023763,51.131264,0.000000
+            6.017591,51.135102,0.000000
+            6.035937,51.140946,0.000000
+            6.037003,51.140319,0.000000
+            6.041250,51.141581,0.000000
+            6.042467,51.141171,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

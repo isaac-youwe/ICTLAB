@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08610200 Oerle</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.367063,51.433938,0.000000
+            5.368912,51.430052,0.000000
+            5.379785,51.430894,0.000000
+            5.381347,51.427714,0.000000
+            5.378914,51.426506,0.000000
+            5.382508,51.419728,0.000000
+            5.376751,51.418215,0.000000
+            5.367856,51.417474,0.000000
+            5.365189,51.417778,0.000000
+            5.365142,51.420764,0.000000
+            5.362157,51.422895,0.000000
+            5.356376,51.423687,0.000000
+            5.359784,51.430310,0.000000
+            5.360606,51.431909,0.000000
+            5.367063,51.433938,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

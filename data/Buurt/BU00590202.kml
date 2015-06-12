@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00590202 Surhuizum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.172894,53.213038,0.000000
+            6.181557,53.209408,0.000000
+            6.183381,53.209748,0.000000
+            6.184516,53.195755,0.000000
+            6.182680,53.195701,0.000000
+            6.179784,53.198144,0.000000
+            6.173521,53.204772,0.000000
+            6.169583,53.210958,0.000000
+            6.172894,53.213038,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

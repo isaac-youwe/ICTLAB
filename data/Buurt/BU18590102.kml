@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590102 Rekken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.728270,52.097679,0.000000
+            6.726915,52.093278,0.000000
+            6.725501,52.093404,0.000000
+            6.721750,52.092580,0.000000
+            6.719461,52.093443,0.000000
+            6.711554,52.091313,0.000000
+            6.710229,52.092602,0.000000
+            6.718012,52.095430,0.000000
+            6.721281,52.098282,0.000000
+            6.723375,52.098977,0.000000
+            6.726179,52.098840,0.000000
+            6.728270,52.097679,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

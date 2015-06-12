@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16960302 Nieuw-Loosdrechtsedijk (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.105102,52.187460,0.000000
+            5.081563,52.185073,0.000000
+            5.072155,52.185298,0.000000
+            5.073043,52.187941,0.000000
+            5.081069,52.187963,0.000000
+            5.099773,52.189849,0.000000
+            5.127001,52.197424,0.000000
+            5.131620,52.196058,0.000000
+            5.126248,52.192795,0.000000
+            5.105102,52.187460,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

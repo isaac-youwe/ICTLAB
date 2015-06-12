@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09360300 Mheer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.800649,50.771967,0.000000
+            5.792822,50.769906,0.000000
+            5.792661,50.770061,0.000000
+            5.784132,50.767394,0.000000
+            5.779932,50.773701,0.000000
+            5.777329,50.781320,0.000000
+            5.778289,50.784515,0.000000
+            5.776930,50.789120,0.000000
+            5.777766,50.790850,0.000000
+            5.791949,50.795384,0.000000
+            5.809445,50.777915,0.000000
+            5.803648,50.774494,0.000000
+            5.800649,50.771967,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

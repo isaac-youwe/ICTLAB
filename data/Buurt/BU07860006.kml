@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07860006 Industrieterrein Wisseveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.740603,51.762848,0.000000
+            5.733246,51.760850,0.000000
+            5.731921,51.763646,0.000000
+            5.730255,51.767372,0.000000
+            5.731760,51.771822,0.000000
+            5.732075,51.771723,0.000000
+            5.736322,51.769063,0.000000
+            5.736401,51.769014,0.000000
+            5.740603,51.762848,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

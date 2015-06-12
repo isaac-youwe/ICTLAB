@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17300500 Schuilingsoord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.700944,53.073291,0.000000
+            6.706360,53.068311,0.000000
+            6.706272,53.068286,0.000000
+            6.705414,53.067787,0.000000
+            6.700547,53.071677,0.000000
+            6.697635,53.070649,0.000000
+            6.698137,53.075713,0.000000
+            6.700944,53.073291,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

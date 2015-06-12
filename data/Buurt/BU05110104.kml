@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05110104 Horrelshoogten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.935032,51.816858,0.000000
+            3.932517,51.816271,0.000000
+            3.930521,51.820296,0.000000
+            3.930814,51.821188,0.000000
+            3.934032,51.821927,0.000000
+            3.936133,51.821957,0.000000
+            3.937248,51.820471,0.000000
+            3.935306,51.819928,0.000000
+            3.935032,51.816858,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00640004 Bolsward-Noordoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.523004,53.074577,0.000000
+            5.530462,53.073669,0.000000
+            5.530568,53.073669,0.000000
+            5.540908,53.073656,0.000000
+            5.546736,53.073649,0.000000
+            5.546344,53.072774,0.000000
+            5.540819,53.072120,0.000000
+            5.539349,53.070302,0.000000
+            5.542000,53.064721,0.000000
+            5.541706,53.063869,0.000000
+            5.540117,53.063779,0.000000
+            5.533210,53.064366,0.000000
+            5.528453,53.066228,0.000000
+            5.525731,53.066573,0.000000
+            5.524907,53.069520,0.000000
+            5.526632,53.071104,0.000000
+            5.523111,53.072355,0.000000
+            5.521610,53.074578,0.000000
+            5.523004,53.074577,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

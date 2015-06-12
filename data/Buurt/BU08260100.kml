@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08260100 Slotjes-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.880948,51.635637,0.000000
+            4.874125,51.629587,0.000000
+            4.869397,51.630387,0.000000
+            4.869994,51.632771,0.000000
+            4.867916,51.636335,0.000000
+            4.868960,51.640361,0.000000
+            4.872396,51.639226,0.000000
+            4.882683,51.638366,0.000000
+            4.880948,51.635637,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

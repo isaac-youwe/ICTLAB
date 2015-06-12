@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17000005 West ten westen Kanaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.610143,52.390335,0.000000
+            6.615149,52.386527,0.000000
+            6.615589,52.386187,0.000000
+            6.615396,52.386106,0.000000
+            6.613927,52.386121,0.000000
+            6.609620,52.389761,0.000000
+            6.599165,52.383576,0.000000
+            6.596327,52.386278,0.000000
+            6.596301,52.386302,0.000000
+            6.580945,52.409573,0.000000
+            6.595040,52.413189,0.000000
+            6.597590,52.410633,0.000000
+            6.600686,52.404246,0.000000
+            6.605676,52.396630,0.000000
+            6.610143,52.390335,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

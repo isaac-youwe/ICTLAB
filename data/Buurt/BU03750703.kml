@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03750703 Overbos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.664274,52.489217,0.000000
+            4.660359,52.487488,0.000000
+            4.660002,52.489835,0.000000
+            4.659951,52.490171,0.000000
+            4.668119,52.495537,0.000000
+            4.669183,52.494775,0.000000
+            4.670324,52.493907,0.000000
+            4.665436,52.490084,0.000000
+            4.664274,52.489217,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

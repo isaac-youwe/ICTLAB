@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130703 Vrijheidsbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.752052,52.010532,0.000000
+            4.756549,52.001567,0.000000
+            4.754500,52.001736,0.000000
+            4.750825,52.002040,0.000000
+            4.752741,52.007566,0.000000
+            4.751813,52.010806,0.000000
+            4.751956,52.010762,0.000000
+            4.752052,52.010532,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

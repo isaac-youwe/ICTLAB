@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01093032 Oosterhesselen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.727540,52.763511,0.000000
+            6.728618,52.758920,0.000000
+            6.727783,52.756861,0.000000
+            6.725717,52.755623,0.000000
+            6.728597,52.750114,0.000000
+            6.717297,52.748226,0.000000
+            6.716639,52.747549,0.000000
+            6.707252,52.762304,0.000000
+            6.708431,52.763307,0.000000
+            6.713391,52.762197,0.000000
+            6.721184,52.762027,0.000000
+            6.727540,52.763511,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

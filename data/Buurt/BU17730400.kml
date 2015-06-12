@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17730400 Boerhaar kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.153136,52.374719,0.000000
+            6.149181,52.371071,0.000000
+            6.147035,52.371281,0.000000
+            6.147066,52.375315,0.000000
+            6.150658,52.377280,0.000000
+            6.152267,52.382189,0.000000
+            6.156457,52.381759,0.000000
+            6.153599,52.377816,0.000000
+            6.153136,52.374719,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

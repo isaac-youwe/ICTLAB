@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130311 Verspreide huizen Rhienderen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.153848,52.105482,0.000000
+            6.150880,52.100524,0.000000
+            6.149274,52.103579,0.000000
+            6.147980,52.103556,0.000000
+            6.149556,52.097876,0.000000
+            6.145102,52.096372,0.000000
+            6.139767,52.096709,0.000000
+            6.140557,52.098367,0.000000
+            6.136824,52.097834,0.000000
+            6.133948,52.101381,0.000000
+            6.137397,52.101001,0.000000
+            6.142875,52.101575,0.000000
+            6.147400,52.104802,0.000000
+            6.153848,52.105482,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.165904,52.097374,0.000000
+            6.159498,52.096760,0.000000
+            6.158731,52.099137,0.000000
+            6.159555,52.102362,0.000000
+            6.156705,52.102759,0.000000
+            6.159206,52.105804,0.000000
+            6.158079,52.106171,0.000000
+            6.161389,52.107150,0.000000
+            6.163446,52.106134,0.000000
+            6.165374,52.103392,0.000000
+            6.167381,52.102843,0.000000
+            6.165904,52.097374,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

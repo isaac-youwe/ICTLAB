@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04630004 Kreileroord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.084794,52.839875,0.000000
+            5.082118,52.838695,0.000000
+            5.080478,52.838863,0.000000
+            5.078691,52.841047,0.000000
+            5.079204,52.844700,0.000000
+            5.082379,52.846006,0.000000
+            5.085218,52.842953,0.000000
+            5.084794,52.839875,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

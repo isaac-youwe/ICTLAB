@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01680000 Losser-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.017567,52.251790,0.000000
+            7.009778,52.251897,0.000000
+            7.009723,52.256020,0.000000
+            7.008200,52.259319,0.000000
+            7.003596,52.263587,0.000000
+            7.004311,52.265900,0.000000
+            7.006786,52.268420,0.000000
+            7.004971,52.271844,0.000000
+            7.010554,52.272804,0.000000
+            7.019476,52.271436,0.000000
+            7.015969,52.267253,0.000000
+            7.017007,52.258997,0.000000
+            7.020224,52.258762,0.000000
+            7.017567,52.251790,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07370600 Sumar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.007289,53.187675,0.000000
+            6.008206,53.178633,0.000000
+            6.014284,53.178872,0.000000
+            6.015338,53.177978,0.000000
+            6.013051,53.171208,0.000000
+            6.011111,53.171217,0.000000
+            6.011000,53.172085,0.000000
+            6.008549,53.172545,0.000000
+            5.996466,53.172593,0.000000
+            5.996427,53.175997,0.000000
+            5.994118,53.175230,0.000000
+            5.989079,53.180854,0.000000
+            5.989141,53.185617,0.000000
+            6.002874,53.186379,0.000000
+            6.007289,53.187675,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

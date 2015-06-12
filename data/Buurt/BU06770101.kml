@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770101 Binnenstad Hulst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.052262,51.285114,0.000000
+            4.057593,51.283661,0.000000
+            4.057680,51.282079,0.000000
+            4.060546,51.281487,0.000000
+            4.061122,51.278331,0.000000
+            4.063201,51.278281,0.000000
+            4.062996,51.277721,0.000000
+            4.056444,51.276022,0.000000
+            4.050182,51.276233,0.000000
+            4.049934,51.277743,0.000000
+            4.048114,51.278440,0.000000
+            4.047450,51.283314,0.000000
+            4.048208,51.284110,0.000000
+            4.050927,51.283698,0.000000
+            4.052262,51.285114,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

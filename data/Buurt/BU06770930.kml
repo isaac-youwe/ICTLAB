@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770930 Kuitaart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.036383,51.341597,0.000000
+            4.036739,51.336982,0.000000
+            4.034897,51.337151,0.000000
+            4.032730,51.337023,0.000000
+            4.033454,51.340329,0.000000
+            4.030483,51.344082,0.000000
+            4.033646,51.344333,0.000000
+            4.036383,51.341597,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

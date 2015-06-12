@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02020212 Boulevardwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.920601,51.978358,0.000000
+            5.918113,51.978225,0.000000
+            5.915554,51.978357,0.000000
+            5.915795,51.980645,0.000000
+            5.923568,51.982012,0.000000
+            5.924154,51.981102,0.000000
+            5.921501,51.980481,0.000000
+            5.920601,51.978358,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

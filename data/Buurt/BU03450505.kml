@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03450505 De Faktorij en De Vendel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.548131,52.038744,0.000000
+            5.546728,52.037200,0.000000
+            5.541753,52.037862,0.000000
+            5.539447,52.036523,0.000000
+            5.538132,52.037034,0.000000
+            5.532038,52.040152,0.000000
+            5.538416,52.041715,0.000000
+            5.555119,52.041984,0.000000
+            5.554064,52.039395,0.000000
+            5.553225,52.038966,0.000000
+            5.548131,52.038744,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05184003 Parkeinde oosteinde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.297811,52.026304,0.000000
+            4.287270,52.023161,0.000000
+            4.287011,52.023285,0.000000
+            4.284482,52.025176,0.000000
+            4.281425,52.027461,0.000000
+            4.281073,52.027724,0.000000
+            4.280879,52.028010,0.000000
+            4.289566,52.028092,0.000000
+            4.294070,52.029956,0.000000
+            4.297162,52.029546,0.000000
+            4.299826,52.026379,0.000000
+            4.297811,52.026304,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290201 Trintelen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.948095,50.844927,0.000000
+            5.950924,50.844014,0.000000
+            5.950994,50.844043,0.000000
+            5.951090,50.841946,0.000000
+            5.952854,50.839582,0.000000
+            5.952484,50.836883,0.000000
+            5.946504,50.836802,0.000000
+            5.945364,50.844079,0.000000
+            5.948095,50.844927,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03750109 Westerhout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.641399,52.481193,0.000000
+            4.640397,52.479664,0.000000
+            4.638480,52.479911,0.000000
+            4.635684,52.482128,0.000000
+            4.627579,52.483218,0.000000
+            4.628923,52.487956,0.000000
+            4.633145,52.487416,0.000000
+            4.639011,52.485482,0.000000
+            4.644018,52.484248,0.000000
+            4.644329,52.483965,0.000000
+            4.640450,52.482209,0.000000
+            4.641399,52.481193,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

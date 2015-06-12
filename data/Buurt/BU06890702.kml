@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06890702 Minkeloos (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.970129,51.886757,0.000000
+            4.966366,51.884785,0.000000
+            4.964284,51.885246,0.000000
+            4.962659,51.884728,0.000000
+            4.960466,51.882653,0.000000
+            4.945611,51.883206,0.000000
+            4.960200,51.905460,0.000000
+            4.959570,51.907375,0.000000
+            4.962417,51.910849,0.000000
+            4.964808,51.910628,0.000000
+            4.972972,51.908139,0.000000
+            4.974479,51.897674,0.000000
+            4.971404,51.892769,0.000000
+            4.971477,51.889130,0.000000
+            4.970129,51.886757,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

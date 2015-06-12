@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03770004 Provinciaal Ziekenhuis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.624171,52.421443,0.000000
+            4.616244,52.413601,0.000000
+            4.613558,52.415461,0.000000
+            4.615597,52.416731,0.000000
+            4.614956,52.418280,0.000000
+            4.613028,52.419078,0.000000
+            4.614942,52.426006,0.000000
+            4.615231,52.425915,0.000000
+            4.616641,52.425072,0.000000
+            4.616717,52.425026,0.000000
+            4.621144,52.424156,0.000000
+            4.624131,52.421479,0.000000
+            4.624171,52.421443,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08930000 Siebengewald</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.102720,51.660372,0.000000
+            6.118547,51.655779,0.000000
+            6.117015,51.650394,0.000000
+            6.109732,51.646844,0.000000
+            6.111148,51.645037,0.000000
+            6.107080,51.640098,0.000000
+            6.095660,51.650307,0.000000
+            6.096427,51.653842,0.000000
+            6.094795,51.658312,0.000000
+            6.093642,51.659265,0.000000
+            6.099787,51.657693,0.000000
+            6.102720,51.660372,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

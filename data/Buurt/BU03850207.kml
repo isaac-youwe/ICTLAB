@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03850207 Volendam-Bloemenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.075084,52.498905,0.000000
+            5.070491,52.495269,0.000000
+            5.067621,52.497784,0.000000
+            5.069393,52.499060,0.000000
+            5.067711,52.500503,0.000000
+            5.071295,52.503024,0.000000
+            5.074367,52.502867,0.000000
+            5.073541,52.499529,0.000000
+            5.075084,52.498905,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

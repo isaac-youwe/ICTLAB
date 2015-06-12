@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02960207 Verspreide huizen Hernense Bosch en Leur</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.708789,51.815882,0.000000
+            5.706268,51.814407,0.000000
+            5.703953,51.815871,0.000000
+            5.699513,51.815679,0.000000
+            5.699278,51.819980,0.000000
+            5.692163,51.821083,0.000000
+            5.695084,51.824873,0.000000
+            5.683058,51.828987,0.000000
+            5.685261,51.833707,0.000000
+            5.687494,51.835313,0.000000
+            5.692035,51.834800,0.000000
+            5.691128,51.833048,0.000000
+            5.709623,51.829111,0.000000
+            5.710471,51.828130,0.000000
+            5.714882,51.826627,0.000000
+            5.715323,51.825846,0.000000
+            5.712711,51.821777,0.000000
+            5.709499,51.820455,0.000000
+            5.708789,51.815882,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

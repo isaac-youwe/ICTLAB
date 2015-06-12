@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721115 TU-terrein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.500512,51.447062,0.000000
+            5.502288,51.444827,0.000000
+            5.502682,51.444346,0.000000
+            5.484695,51.442138,0.000000
+            5.483709,51.443763,0.000000
+            5.483248,51.445024,0.000000
+            5.480747,51.444966,0.000000
+            5.480616,51.446169,0.000000
+            5.484625,51.452675,0.000000
+            5.494006,51.452035,0.000000
+            5.497078,51.450685,0.000000
+            5.500512,51.447062,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

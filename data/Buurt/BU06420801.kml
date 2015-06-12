@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420801 Molenweg-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.563430,51.836836,0.000000
+            4.562454,51.835735,0.000000
+            4.559906,51.835991,0.000000
+            4.558819,51.836199,0.000000
+            4.558805,51.836201,0.000000
+            4.560013,51.838535,0.000000
+            4.563736,51.840894,0.000000
+            4.566298,51.839572,0.000000
+            4.563430,51.836836,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

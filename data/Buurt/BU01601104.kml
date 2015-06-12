@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01601104 Industriegebied Rollepaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.495399,52.598152,0.000000
+            6.486949,52.595132,0.000000
+            6.480199,52.601277,0.000000
+            6.480813,52.602256,0.000000
+            6.477287,52.602979,0.000000
+            6.475034,52.606815,0.000000
+            6.486185,52.607600,0.000000
+            6.489288,52.606266,0.000000
+            6.497774,52.599177,0.000000
+            6.495399,52.598152,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

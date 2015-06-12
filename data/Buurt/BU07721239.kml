@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721239 Leenderheide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.505064,51.403596,0.000000
+            5.503944,51.401506,0.000000
+            5.499839,51.411291,0.000000
+            5.505382,51.411899,0.000000
+            5.505030,51.415162,0.000000
+            5.509160,51.416754,0.000000
+            5.517266,51.409448,0.000000
+            5.525192,51.405434,0.000000
+            5.525192,51.405372,0.000000
+            5.525189,51.404473,0.000000
+            5.507941,51.404493,0.000000
+            5.505064,51.403596,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

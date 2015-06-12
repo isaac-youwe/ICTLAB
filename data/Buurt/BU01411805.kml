@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411805 Schelfhorst-Zuidoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.684278,52.372266,0.000000
+            6.678986,52.369139,0.000000
+            6.678353,52.372756,0.000000
+            6.678402,52.378023,0.000000
+            6.679984,52.379049,0.000000
+            6.688683,52.378950,0.000000
+            6.691474,52.378488,0.000000
+            6.692603,52.376591,0.000000
+            6.690414,52.373271,0.000000
+            6.689871,52.373143,0.000000
+            6.687891,52.372910,0.000000
+            6.684278,52.372266,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

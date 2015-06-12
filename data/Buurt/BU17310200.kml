@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17310200 Hooghalen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.544677,52.927159,0.000000
+            6.544814,52.920747,0.000000
+            6.542863,52.915137,0.000000
+            6.541249,52.915151,0.000000
+            6.536995,52.917841,0.000000
+            6.537713,52.918989,0.000000
+            6.532234,52.919796,0.000000
+            6.534526,52.925721,0.000000
+            6.536920,52.923373,0.000000
+            6.541249,52.923388,0.000000
+            6.542208,52.926333,0.000000
+            6.544677,52.927159,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

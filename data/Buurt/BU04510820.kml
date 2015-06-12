@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04510820 De Kwakel-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.809320,52.245204,0.000000
+            4.808004,52.243761,0.000000
+            4.805379,52.245075,0.000000
+            4.803467,52.241774,0.000000
+            4.797349,52.241344,0.000000
+            4.792539,52.241873,0.000000
+            4.792170,52.243256,0.000000
+            4.790251,52.244323,0.000000
+            4.785897,52.245116,0.000000
+            4.768979,52.248381,0.000000
+            4.769158,52.248838,0.000000
+            4.769623,52.249045,0.000000
+            4.789145,52.257756,0.000000
+            4.789540,52.257932,0.000000
+            4.795364,52.260658,0.000000
+            4.807118,52.258019,0.000000
+            4.807707,52.257842,0.000000
+            4.801141,52.248954,0.000000
+            4.809320,52.245204,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

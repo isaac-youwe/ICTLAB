@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140102 Tramwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.937237,52.828822,0.000000
+            6.932805,52.827186,0.000000
+            6.931113,52.829187,0.000000
+            6.934016,52.830088,0.000000
+            6.945352,52.837400,0.000000
+            6.949459,52.842530,0.000000
+            6.952144,52.842031,0.000000
+            6.951281,52.839549,0.000000
+            6.946238,52.834355,0.000000
+            6.937237,52.828822,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

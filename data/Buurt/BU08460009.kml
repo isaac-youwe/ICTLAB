@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08460009 Verspreide huizen Jekschot</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.550212,51.568953,0.000000
+            5.548760,51.566258,0.000000
+            5.548530,51.566044,0.000000
+            5.526378,51.566597,0.000000
+            5.506343,51.562327,0.000000
+            5.499280,51.570830,0.000000
+            5.492969,51.581474,0.000000
+            5.499434,51.584370,0.000000
+            5.501196,51.586990,0.000000
+            5.501210,51.586990,0.000000
+            5.514196,51.586078,0.000000
+            5.525733,51.583368,0.000000
+            5.525888,51.583246,0.000000
+            5.531491,51.578866,0.000000
+            5.533392,51.577677,0.000000
+            5.540130,51.573461,0.000000
+            5.540120,51.570764,0.000000
+            5.550212,51.568953,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

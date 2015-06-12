@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16761202 Hogeweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.720784,51.676407,0.000000
+            3.714971,51.675880,0.000000
+            3.710761,51.679842,0.000000
+            3.713566,51.681367,0.000000
+            3.713192,51.682650,0.000000
+            3.726172,51.689429,0.000000
+            3.728189,51.687914,0.000000
+            3.732602,51.687512,0.000000
+            3.732914,51.686118,0.000000
+            3.731071,51.684870,0.000000
+            3.731915,51.684325,0.000000
+            3.726060,51.680428,0.000000
+            3.726472,51.678602,0.000000
+            3.720784,51.676407,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

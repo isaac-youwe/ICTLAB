@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06110004 Numansdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.438063,51.725658,0.000000
+            4.428448,51.725420,0.000000
+            4.428434,51.727972,0.000000
+            4.430420,51.728326,0.000000
+            4.431612,51.738188,0.000000
+            4.440291,51.739334,0.000000
+            4.439593,51.728255,0.000000
+            4.444131,51.728253,0.000000
+            4.444099,51.727534,0.000000
+            4.444058,51.726614,0.000000
+            4.438063,51.725658,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

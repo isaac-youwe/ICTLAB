@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17240002 Industrieterrein Bergeyk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.337137,51.320114,0.000000
+            5.337735,51.319399,0.000000
+            5.340839,51.320007,0.000000
+            5.341487,51.318074,0.000000
+            5.349498,51.319100,0.000000
+            5.354180,51.314762,0.000000
+            5.348480,51.313100,0.000000
+            5.343065,51.312562,0.000000
+            5.341766,51.315508,0.000000
+            5.341642,51.316644,0.000000
+            5.336272,51.315995,0.000000
+            5.334422,51.319296,0.000000
+            5.337137,51.320114,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

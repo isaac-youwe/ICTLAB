@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01094044 t Haantje</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.821745,52.814018,0.000000
+            6.809443,52.806526,0.000000
+            6.806697,52.806730,0.000000
+            6.807599,52.808941,0.000000
+            6.818753,52.815853,0.000000
+            6.833400,52.816205,0.000000
+            6.836437,52.814290,0.000000
+            6.821745,52.814018,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

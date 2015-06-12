@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00100200 Woldendorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.038716,53.267171,0.000000
+            7.036647,53.266228,0.000000
+            7.033292,53.267190,0.000000
+            7.021842,53.266169,0.000000
+            7.021384,53.267092,0.000000
+            7.024463,53.269305,0.000000
+            7.023185,53.274362,0.000000
+            7.024093,53.277182,0.000000
+            7.026040,53.279280,0.000000
+            7.031113,53.280250,0.000000
+            7.033760,53.280070,0.000000
+            7.036382,53.278610,0.000000
+            7.035481,53.276000,0.000000
+            7.036420,53.272717,0.000000
+            7.035472,53.271187,0.000000
+            7.038675,53.268513,0.000000
+            7.038716,53.267171,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

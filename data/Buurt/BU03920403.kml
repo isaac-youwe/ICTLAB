@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03920403 Rozenprieel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.642577,52.373670,0.000000
+            4.639902,52.371394,0.000000
+            4.633675,52.373437,0.000000
+            4.635086,52.375910,0.000000
+            4.639565,52.376745,0.000000
+            4.641443,52.376562,0.000000
+            4.641947,52.376290,0.000000
+            4.642577,52.373670,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

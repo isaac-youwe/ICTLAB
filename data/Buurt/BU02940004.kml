@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02940004 Winterswijk-Zuidoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.733890,51.958762,0.000000
+            6.727454,51.958177,0.000000
+            6.719697,51.964670,0.000000
+            6.722545,51.964905,0.000000
+            6.723652,51.965731,0.000000
+            6.724200,51.971649,0.000000
+            6.732383,51.972494,0.000000
+            6.736797,51.970216,0.000000
+            6.739506,51.969825,0.000000
+            6.739265,51.964826,0.000000
+            6.736834,51.959910,0.000000
+            6.733890,51.958762,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

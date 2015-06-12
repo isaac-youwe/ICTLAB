@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02160000 Oude Binnenstad en Nieuwstad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.229516,51.952266,0.000000
+            5.226534,51.950632,0.000000
+            5.222296,51.953802,0.000000
+            5.223892,51.955227,0.000000
+            5.219741,51.959276,0.000000
+            5.222150,51.960835,0.000000
+            5.223530,51.960734,0.000000
+            5.228433,51.957436,0.000000
+            5.229307,51.952445,0.000000
+            5.229516,51.952266,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

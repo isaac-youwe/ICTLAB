@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02990101 Camphuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.116423,51.910453,0.000000
+            6.116439,51.909068,0.000000
+            6.110384,51.908440,0.000000
+            6.106678,51.909704,0.000000
+            6.106246,51.909241,0.000000
+            6.110650,51.902837,0.000000
+            6.106162,51.897783,0.000000
+            6.097818,51.900428,0.000000
+            6.094954,51.903142,0.000000
+            6.092104,51.906755,0.000000
+            6.095068,51.910333,0.000000
+            6.084936,51.913091,0.000000
+            6.084713,51.913126,0.000000
+            6.086844,51.916848,0.000000
+            6.090176,51.918658,0.000000
+            6.102738,51.915388,0.000000
+            6.116423,51.910453,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

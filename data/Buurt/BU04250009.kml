@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04250009 Beethovenpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.175745,52.296659,0.000000
+            5.182590,52.288723,0.000000
+            5.183329,52.285045,0.000000
+            5.186317,52.284449,0.000000
+            5.177634,52.284250,0.000000
+            5.177624,52.284249,0.000000
+            5.171245,52.289002,0.000000
+            5.167430,52.287550,0.000000
+            5.161475,52.287189,0.000000
+            5.160686,52.290955,0.000000
+            5.167307,52.292098,0.000000
+            5.170251,52.293841,0.000000
+            5.170719,52.296582,0.000000
+            5.175745,52.296659,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

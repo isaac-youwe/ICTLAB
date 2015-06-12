@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02330001 Ermelo-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.629690,52.312138,0.000000
+            5.631145,52.309880,0.000000
+            5.634824,52.310102,0.000000
+            5.639079,52.305197,0.000000
+            5.640316,52.301311,0.000000
+            5.641611,52.301286,0.000000
+            5.643102,52.299931,0.000000
+            5.641805,52.297038,0.000000
+            5.643825,52.294744,0.000000
+            5.648183,52.293799,0.000000
+            5.647924,52.292360,0.000000
+            5.643485,52.290915,0.000000
+            5.641140,52.292312,0.000000
+            5.637459,52.291368,0.000000
+            5.629272,52.293125,0.000000
+            5.632103,52.301847,0.000000
+            5.627727,52.311981,0.000000
+            5.629690,52.312138,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

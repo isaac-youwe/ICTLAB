@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01141109 Delftlanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.866184,52.744164,0.000000
+            6.861784,52.743358,0.000000
+            6.860214,52.748082,0.000000
+            6.851033,52.750890,0.000000
+            6.849554,52.752770,0.000000
+            6.848599,52.757420,0.000000
+            6.845756,52.758342,0.000000
+            6.847467,52.761519,0.000000
+            6.859131,52.759334,0.000000
+            6.873808,52.757926,0.000000
+            6.875082,52.749461,0.000000
+            6.866184,52.744164,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

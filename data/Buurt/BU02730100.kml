@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02730100 Koudhoorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.669698,52.228456,0.000000
+            5.663126,52.227834,0.000000
+            5.659243,52.228296,0.000000
+            5.654246,52.231100,0.000000
+            5.654477,52.235159,0.000000
+            5.656059,52.237720,0.000000
+            5.674926,52.236678,0.000000
+            5.672297,52.231067,0.000000
+            5.673236,52.230496,0.000000
+            5.669698,52.228456,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

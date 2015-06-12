@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07660003 Industrieterrein De Wildert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.998188,51.615832,0.000000
+            4.998999,51.613836,0.000000
+            5.001733,51.614106,0.000000
+            5.004594,51.607995,0.000000
+            4.993043,51.607957,0.000000
+            4.992444,51.607996,0.000000
+            4.992453,51.609121,0.000000
+            4.992993,51.614707,0.000000
+            4.998188,51.615832,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05031405 Hoornse Hof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.337137,52.008379,0.000000
+            4.338153,52.005856,0.000000
+            4.332558,52.007520,0.000000
+            4.331102,52.007507,0.000000
+            4.330938,52.007455,0.000000
+            4.325154,52.012582,0.000000
+            4.325148,52.012848,0.000000
+            4.329475,52.014685,0.000000
+            4.329869,52.014852,0.000000
+            4.332763,52.011784,0.000000
+            4.337137,52.008379,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

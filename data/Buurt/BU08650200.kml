@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08650200 Cromvoirt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.234738,51.665220,0.000000
+            5.236202,51.663155,0.000000
+            5.245693,51.659736,0.000000
+            5.246737,51.656235,0.000000
+            5.244316,51.654750,0.000000
+            5.242289,51.654629,0.000000
+            5.238855,51.651572,0.000000
+            5.236416,51.651413,0.000000
+            5.233877,51.653540,0.000000
+            5.234930,51.657398,0.000000
+            5.223374,51.660831,0.000000
+            5.222414,51.661543,0.000000
+            5.220946,51.661770,0.000000
+            5.221670,51.664019,0.000000
+            5.229434,51.663185,0.000000
+            5.232788,51.670037,0.000000
+            5.236581,51.670100,0.000000
+            5.234738,51.665220,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

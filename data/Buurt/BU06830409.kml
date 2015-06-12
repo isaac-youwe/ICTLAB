@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830409 Verspreide huizen Wolsum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.574607,53.040431,0.000000
+            5.562305,53.036952,0.000000
+            5.563347,53.034879,0.000000
+            5.555456,53.032351,0.000000
+            5.532059,53.025998,0.000000
+            5.534780,53.026931,0.000000
+            5.534799,53.032323,0.000000
+            5.530344,53.037721,0.000000
+            5.531850,53.042213,0.000000
+            5.531856,53.044010,0.000000
+            5.534847,53.046703,0.000000
+            5.539322,53.046697,0.000000
+            5.546788,53.049384,0.000000
+            5.549778,53.051177,0.000000
+            5.550733,53.052321,0.000000
+            5.569719,53.047565,0.000000
+            5.571374,53.046649,0.000000
+            5.570219,53.045159,0.000000
+            5.574698,53.043813,0.000000
+            5.574607,53.040431,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.542534,53.034510,0.000000
+            5.545991,53.034173,0.000000
+            5.548415,53.035259,0.000000
+            5.548558,53.037037,0.000000
+            5.546246,53.038466,0.000000
+            5.541942,53.037121,0.000000
+            5.542534,53.034510,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

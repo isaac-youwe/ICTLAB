@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16610320 Beerta-Nieuwbouw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.096711,53.174876,0.000000
+            7.094125,53.172345,0.000000
+            7.092281,53.172703,0.000000
+            7.084154,53.175356,0.000000
+            7.085104,53.179237,0.000000
+            7.082808,53.180202,0.000000
+            7.084307,53.180326,0.000000
+            7.089266,53.178279,0.000000
+            7.096711,53.174876,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

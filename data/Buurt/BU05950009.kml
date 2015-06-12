@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950009 Verspreide huizen polder Reeuwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.717568,52.075963,0.000000
+            4.719188,52.065185,0.000000
+            4.733694,52.070660,0.000000
+            4.739568,52.067996,0.000000
+            4.735231,52.065275,0.000000
+            4.737006,52.064201,0.000000
+            4.726647,52.057466,0.000000
+            4.724081,52.055702,0.000000
+            4.716365,52.059232,0.000000
+            4.713916,52.061663,0.000000
+            4.707682,52.067854,0.000000
+            4.693896,52.065567,0.000000
+            4.694267,52.067756,0.000000
+            4.694353,52.067739,0.000000
+            4.697173,52.074048,0.000000
+            4.704425,52.076787,0.000000
+            4.713178,52.076837,0.000000
+            4.717568,52.075963,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03960403 Noorddorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.669347,52.530538,0.000000
+            4.663471,52.524839,0.000000
+            4.661197,52.521432,0.000000
+            4.664120,52.518371,0.000000
+            4.662521,52.517402,0.000000
+            4.660503,52.518053,0.000000
+            4.656783,52.516783,0.000000
+            4.654082,52.518226,0.000000
+            4.651701,52.517443,0.000000
+            4.649334,52.521045,0.000000
+            4.648949,52.524313,0.000000
+            4.652714,52.530432,0.000000
+            4.653200,52.530426,0.000000
+            4.659936,52.532117,0.000000
+            4.660540,52.532269,0.000000
+            4.669347,52.530538,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

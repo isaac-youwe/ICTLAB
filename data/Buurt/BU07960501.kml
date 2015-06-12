@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960501 Maliskamp-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.368397,51.696717,0.000000
+            5.368137,51.696717,0.000000
+            5.361823,51.703637,0.000000
+            5.378457,51.707835,0.000000
+            5.379693,51.705985,0.000000
+            5.375648,51.703485,0.000000
+            5.375649,51.700316,0.000000
+            5.375629,51.700314,0.000000
+            5.372736,51.699415,0.000000
+            5.371289,51.697617,0.000000
+            5.368397,51.696717,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

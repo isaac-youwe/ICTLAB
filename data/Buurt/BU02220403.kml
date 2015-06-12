@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220403 Buitengebied de Wrange</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.343226,51.949645,0.000000
+            6.354704,51.948343,0.000000
+            6.347234,51.948468,0.000000
+            6.342782,51.947339,0.000000
+            6.341337,51.944600,0.000000
+            6.338867,51.944425,0.000000
+            6.332484,51.938618,0.000000
+            6.319349,51.947687,0.000000
+            6.333485,51.949616,0.000000
+            6.343226,51.949645,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

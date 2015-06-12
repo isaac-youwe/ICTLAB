@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01601203 Balkbrug Benedenvaart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.370790,52.604220,0.000000
+            6.376808,52.603224,0.000000
+            6.381541,52.604095,0.000000
+            6.381144,52.601829,0.000000
+            6.375175,52.601115,0.000000
+            6.373941,52.599748,0.000000
+            6.374458,52.598748,0.000000
+            6.372579,52.598522,0.000000
+            6.374211,52.591513,0.000000
+            6.362813,52.591607,0.000000
+            6.362219,52.591626,0.000000
+            6.322986,52.592827,0.000000
+            6.322053,52.594917,0.000000
+            6.365023,52.599944,0.000000
+            6.364161,52.602615,0.000000
+            6.368563,52.602859,0.000000
+            6.370790,52.604220,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

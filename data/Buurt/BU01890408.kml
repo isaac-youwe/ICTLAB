@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01890408 Verspreide huizen Zuiderveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.573401,52.283939,0.000000
+            6.578547,52.283719,0.000000
+            6.587020,52.283792,0.000000
+            6.589227,52.279972,0.000000
+            6.585795,52.273716,0.000000
+            6.587130,52.270406,0.000000
+            6.575520,52.268750,0.000000
+            6.568265,52.270615,0.000000
+            6.568243,52.270621,0.000000
+            6.563896,52.272462,0.000000
+            6.553923,52.283348,0.000000
+            6.553367,52.283938,0.000000
+            6.565850,52.284245,0.000000
+            6.573401,52.283939,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

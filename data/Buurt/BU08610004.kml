@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08610004 Zonderwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.390457,51.405823,0.000000
+            5.385702,51.405550,0.000000
+            5.384587,51.409311,0.000000
+            5.381418,51.412430,0.000000
+            5.382362,51.412722,0.000000
+            5.396181,51.415838,0.000000
+            5.400997,51.408228,0.000000
+            5.394075,51.407237,0.000000
+            5.390457,51.405823,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

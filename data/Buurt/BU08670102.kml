@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08670102 Bedrijventerrein Zanddonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.060235,51.673394,0.000000
+            5.056067,51.671546,0.000000
+            5.055203,51.672679,0.000000
+            5.052248,51.675804,0.000000
+            5.045404,51.681433,0.000000
+            5.047645,51.681741,0.000000
+            5.058861,51.683402,0.000000
+            5.060551,51.683631,0.000000
+            5.059554,51.677907,0.000000
+            5.060235,51.673394,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

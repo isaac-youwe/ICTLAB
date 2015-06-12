@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05110200 Woonkern Stellendam</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.034516,51.802671,0.000000
+            4.028075,51.798846,0.000000
+            4.026051,51.799790,0.000000
+            4.021914,51.797531,0.000000
+            4.013977,51.802945,0.000000
+            4.024580,51.810967,0.000000
+            4.031267,51.808277,0.000000
+            4.032749,51.807029,0.000000
+            4.032148,51.805757,0.000000
+            4.034516,51.802671,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

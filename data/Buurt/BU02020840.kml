@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02020840 Velperweg-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.929069,51.988007,0.000000
+            5.921810,51.985211,0.000000
+            5.920966,51.985916,0.000000
+            5.925948,51.988922,0.000000
+            5.931417,51.991883,0.000000
+            5.934137,51.990467,0.000000
+            5.934225,51.988826,0.000000
+            5.933949,51.988761,0.000000
+            5.929069,51.988007,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

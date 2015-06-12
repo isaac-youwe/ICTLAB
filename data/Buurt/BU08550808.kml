@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550808 Koolhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.993431,51.573615,0.000000
+            4.993118,51.564867,0.000000
+            4.967500,51.569321,0.000000
+            4.968839,51.571015,0.000000
+            4.967372,51.573706,0.000000
+            4.968781,51.577307,0.000000
+            4.970052,51.577312,0.000000
+            4.986543,51.574621,0.000000
+            4.993431,51.573615,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

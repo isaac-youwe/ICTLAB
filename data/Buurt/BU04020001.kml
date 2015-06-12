@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020001 Winkelcentrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.171335,52.226328,0.000000
+            5.172554,52.225060,0.000000
+            5.177538,52.226092,0.000000
+            5.177844,52.223007,0.000000
+            5.179833,52.220788,0.000000
+            5.177159,52.220464,0.000000
+            5.174867,52.218410,0.000000
+            5.173689,52.220761,0.000000
+            5.173957,52.221840,0.000000
+            5.170977,52.223303,0.000000
+            5.168456,52.222973,0.000000
+            5.168829,52.225188,0.000000
+            5.170731,52.226151,0.000000
+            5.171335,52.226328,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17350005 Gijmink</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.602956,52.227004,0.000000
+            6.599435,52.226455,0.000000
+            6.598961,52.228278,0.000000
+            6.595156,52.229360,0.000000
+            6.595065,52.230122,0.000000
+            6.595296,52.230547,0.000000
+            6.598122,52.233857,0.000000
+            6.597508,52.235776,0.000000
+            6.599686,52.236583,0.000000
+            6.605700,52.237678,0.000000
+            6.606078,52.237094,0.000000
+            6.603799,52.232894,0.000000
+            6.605564,52.232262,0.000000
+            6.602956,52.227004,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

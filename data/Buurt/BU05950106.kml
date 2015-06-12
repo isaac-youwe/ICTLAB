@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950106 Twaalfmorgen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.770017,52.033077,0.000000
+            4.775187,52.027294,0.000000
+            4.777453,52.028159,0.000000
+            4.783727,52.021597,0.000000
+            4.792861,52.025055,0.000000
+            4.796428,52.025217,0.000000
+            4.798436,52.022426,0.000000
+            4.784027,52.016094,0.000000
+            4.775310,52.014251,0.000000
+            4.766582,52.013306,0.000000
+            4.750545,52.014120,0.000000
+            4.749843,52.014545,0.000000
+            4.749918,52.014542,0.000000
+            4.747077,52.019875,0.000000
+            4.748468,52.024674,0.000000
+            4.758437,52.028557,0.000000
+            4.770017,52.033077,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17000406 Industrieterrein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.571472,52.446782,0.000000
+            6.564094,52.445957,0.000000
+            6.562875,52.446726,0.000000
+            6.562082,52.448856,0.000000
+            6.559137,52.450186,0.000000
+            6.558565,52.453579,0.000000
+            6.565823,52.454228,0.000000
+            6.565491,52.456397,0.000000
+            6.569809,52.457050,0.000000
+            6.571616,52.446833,0.000000
+            6.571472,52.446782,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

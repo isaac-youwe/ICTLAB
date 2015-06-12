@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16590001 Donk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.624235,51.545856,0.000000
+            5.630513,51.540549,0.000000
+            5.634770,51.541414,0.000000
+            5.636435,51.539512,0.000000
+            5.636304,51.535523,0.000000
+            5.633705,51.534417,0.000000
+            5.634154,51.532990,0.000000
+            5.631548,51.532939,0.000000
+            5.627528,51.533375,0.000000
+            5.627806,51.534173,0.000000
+            5.619812,51.537039,0.000000
+            5.616084,51.543280,0.000000
+            5.619898,51.545250,0.000000
+            5.624235,51.545856,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

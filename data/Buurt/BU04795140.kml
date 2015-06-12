@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04795140 Karnemelksepolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.795097,52.500658,0.000000
+            4.795100,52.500367,0.000000
+            4.778071,52.504532,0.000000
+            4.781357,52.511551,0.000000
+            4.789536,52.510938,0.000000
+            4.793539,52.506942,0.000000
+            4.794430,52.503347,0.000000
+            4.795097,52.500658,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

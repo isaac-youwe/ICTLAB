@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02360300 Buurmalsen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.296149,51.894209,0.000000
+            5.297207,51.892330,0.000000
+            5.295877,51.889998,0.000000
+            5.293444,51.889058,0.000000
+            5.290411,51.892045,0.000000
+            5.291952,51.893076,0.000000
+            5.290254,51.893971,0.000000
+            5.287795,51.892525,0.000000
+            5.290601,51.896119,0.000000
+            5.292540,51.896571,0.000000
+            5.296149,51.894209,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

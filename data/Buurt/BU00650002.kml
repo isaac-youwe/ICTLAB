@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00650002 De Valom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.008697,53.274967,0.000000
+            6.010842,53.273608,0.000000
+            6.014507,53.273995,0.000000
+            6.017916,53.272999,0.000000
+            6.017613,53.271418,0.000000
+            6.022779,53.271441,0.000000
+            6.029699,53.271037,0.000000
+            6.029649,53.265115,0.000000
+            6.021530,53.262908,0.000000
+            6.021414,53.261034,0.000000
+            6.007762,53.251124,0.000000
+            6.006779,53.248347,0.000000
+            5.995285,53.258460,0.000000
+            5.996672,53.259244,0.000000
+            5.996713,53.261010,0.000000
+            5.991965,53.265625,0.000000
+            6.005630,53.269600,0.000000
+            6.007276,53.271525,0.000000
+            6.006811,53.274801,0.000000
+            6.008697,53.274967,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

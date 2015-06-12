@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07961105 De Moerputten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.270274,51.687096,0.000000
+            5.272130,51.684179,0.000000
+            5.265717,51.684969,0.000000
+            5.254150,51.684058,0.000000
+            5.245475,51.683149,0.000000
+            5.233896,51.685831,0.000000
+            5.232438,51.689425,0.000000
+            5.226649,51.690316,0.000000
+            5.228092,51.691217,0.000000
+            5.248332,51.694838,0.000000
+            5.248342,51.694854,0.000000
+            5.260728,51.692228,0.000000
+            5.263196,51.691527,0.000000
+            5.270274,51.687096,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

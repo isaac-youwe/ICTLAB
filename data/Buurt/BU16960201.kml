@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16960201 Ankeveense Rade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.120231,52.256110,0.000000
+            5.120748,52.248779,0.000000
+            5.116520,52.249762,0.000000
+            5.103056,52.253108,0.000000
+            5.107084,52.264336,0.000000
+            5.120414,52.260415,0.000000
+            5.122898,52.258308,0.000000
+            5.120231,52.256110,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

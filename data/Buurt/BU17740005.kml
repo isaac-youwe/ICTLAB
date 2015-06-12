@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17740005 Janskamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.010579,52.388214,0.000000
+            7.011553,52.382380,0.000000
+            7.013574,52.382438,0.000000
+            7.010714,52.379726,0.000000
+            7.005478,52.381937,0.000000
+            7.000654,52.382498,0.000000
+            7.000865,52.383748,0.000000
+            7.003163,52.387357,0.000000
+            7.010579,52.388214,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

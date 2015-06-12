@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140907 Ulgersmabuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.594209,53.229789,0.000000
+            6.590737,53.228356,0.000000
+            6.584572,53.233528,0.000000
+            6.578556,53.236126,0.000000
+            6.568104,53.239292,0.000000
+            6.568968,53.241088,0.000000
+            6.575223,53.244069,0.000000
+            6.578867,53.248196,0.000000
+            6.581219,53.246990,0.000000
+            6.583689,53.243104,0.000000
+            6.589426,53.239356,0.000000
+            6.593740,53.236637,0.000000
+            6.603466,53.235018,0.000000
+            6.606978,53.233078,0.000000
+            6.604097,53.231677,0.000000
+            6.594209,53.229789,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

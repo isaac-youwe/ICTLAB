@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17240401 Loveren en Braambosch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.414405,51.333393,0.000000
+            5.405066,51.331359,0.000000
+            5.402651,51.333334,0.000000
+            5.404006,51.334293,0.000000
+            5.401871,51.337544,0.000000
+            5.404755,51.338850,0.000000
+            5.411583,51.345348,0.000000
+            5.414533,51.346825,0.000000
+            5.424082,51.347107,0.000000
+            5.424525,51.344318,0.000000
+            5.421651,51.339824,0.000000
+            5.421649,51.338408,0.000000
+            5.417896,51.337918,0.000000
+            5.415820,51.336774,0.000000
+            5.414405,51.333393,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

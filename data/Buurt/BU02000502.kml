@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000502 Matenhorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.999794,52.205425,0.000000
+            5.997601,52.202054,0.000000
+            5.993187,52.202641,0.000000
+            5.991397,52.202178,0.000000
+            5.985481,52.204839,0.000000
+            5.985573,52.207056,0.000000
+            5.986905,52.207407,0.000000
+            5.987026,52.208688,0.000000
+            5.993058,52.207687,0.000000
+            5.999794,52.205425,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

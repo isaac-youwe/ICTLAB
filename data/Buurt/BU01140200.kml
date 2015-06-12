@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140200 Roswinkel-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.043023,52.841115,0.000000
+            7.046165,52.837573,0.000000
+            7.047633,52.838108,0.000000
+            7.048881,52.836776,0.000000
+            7.044751,52.835250,0.000000
+            7.043721,52.836208,0.000000
+            7.042562,52.835787,0.000000
+            7.039438,52.834682,0.000000
+            7.038045,52.836126,0.000000
+            7.034867,52.834977,0.000000
+            7.033420,52.836392,0.000000
+            7.036937,52.837630,0.000000
+            7.035500,52.839031,0.000000
+            7.038765,52.840205,0.000000
+            7.039219,52.839719,0.000000
+            7.043023,52.841115,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

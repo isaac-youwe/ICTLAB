@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000304 Donkere Duinen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.727298,52.932782,0.000000
+            4.713382,52.932359,0.000000
+            4.713379,52.932553,0.000000
+            4.714763,52.938350,0.000000
+            4.723642,52.939242,0.000000
+            4.731064,52.939828,0.000000
+            4.731820,52.938735,0.000000
+            4.734651,52.937732,0.000000
+            4.733938,52.936366,0.000000
+            4.727298,52.932782,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

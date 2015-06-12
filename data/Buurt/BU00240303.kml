@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00240303 Leermens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.802115,53.339498,0.000000
+            6.799721,53.339442,0.000000
+            6.795561,53.342689,0.000000
+            6.793746,53.343652,0.000000
+            6.795331,53.348521,0.000000
+            6.797387,53.349573,0.000000
+            6.801745,53.349398,0.000000
+            6.804734,53.347115,0.000000
+            6.804239,53.340692,0.000000
+            6.802115,53.339498,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

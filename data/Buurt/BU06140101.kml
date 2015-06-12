@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06140101 De Waranda</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.092513,51.903991,0.000000
+            4.086669,51.901000,0.000000
+            4.085965,51.901196,0.000000
+            4.082190,51.903079,0.000000
+            4.083224,51.906865,0.000000
+            4.086864,51.906493,0.000000
+            4.091547,51.904840,0.000000
+            4.092513,51.903991,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06290102 Oostdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.402066,52.153323,0.000000
+            4.395005,52.146862,0.000000
+            4.390841,52.148924,0.000000
+            4.394343,52.152459,0.000000
+            4.395098,52.151693,0.000000
+            4.398635,52.152723,0.000000
+            4.400540,52.154273,0.000000
+            4.402066,52.153323,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

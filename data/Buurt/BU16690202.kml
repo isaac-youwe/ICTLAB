@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16690202 Posterholt-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.029506,51.115451,0.000000
+            6.024651,51.110389,0.000000
+            6.021351,51.113351,0.000000
+            6.021099,51.113513,0.000000
+            6.028709,51.123222,0.000000
+            6.035379,51.127101,0.000000
+            6.046726,51.122245,0.000000
+            6.041630,51.118819,0.000000
+            6.029506,51.115451,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

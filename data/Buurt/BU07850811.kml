@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07850811 Tilburgseweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.064870,51.537098,0.000000
+            5.071064,51.530390,0.000000
+            5.065113,51.529448,0.000000
+            5.065302,51.528664,0.000000
+            5.063281,51.528524,0.000000
+            5.061814,51.528596,0.000000
+            5.062232,51.529761,0.000000
+            5.056554,51.530421,0.000000
+            5.058930,51.532936,0.000000
+            5.061013,51.532746,0.000000
+            5.061258,51.534313,0.000000
+            5.059474,51.536603,0.000000
+            5.060230,51.536934,0.000000
+            5.061411,51.537148,0.000000
+            5.064294,51.537156,0.000000
+            5.064870,51.537098,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

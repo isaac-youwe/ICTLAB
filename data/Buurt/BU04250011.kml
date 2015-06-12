@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04250011 Bos van Bredius</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.195189,52.285355,0.000000
+            5.195203,52.282170,0.000000
+            5.195209,52.280861,0.000000
+            5.190820,52.279056,0.000000
+            5.184962,52.278147,0.000000
+            5.177609,52.283527,0.000000
+            5.177601,52.283525,0.000000
+            5.177634,52.284250,0.000000
+            5.186317,52.284449,0.000000
+            5.193221,52.288206,0.000000
+            5.195175,52.288576,0.000000
+            5.195189,52.285355,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

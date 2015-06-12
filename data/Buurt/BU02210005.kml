@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02210005 Beinum II</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.118361,52.006312,0.000000
+            6.119842,52.004925,0.000000
+            6.122334,52.004910,0.000000
+            6.125334,52.003242,0.000000
+            6.127221,51.998301,0.000000
+            6.128349,51.997319,0.000000
+            6.114511,51.996552,0.000000
+            6.113904,51.996518,0.000000
+            6.109536,51.996545,0.000000
+            6.112492,51.999224,0.000000
+            6.115477,52.003700,0.000000
+            6.118361,52.006312,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

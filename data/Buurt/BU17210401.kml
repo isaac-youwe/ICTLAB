@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17210401 Dinther</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.496673,51.646169,0.000000
+            5.493345,51.640368,0.000000
+            5.491285,51.638150,0.000000
+            5.489716,51.639988,0.000000
+            5.485777,51.641923,0.000000
+            5.480757,51.640125,0.000000
+            5.478742,51.640594,0.000000
+            5.478057,51.643472,0.000000
+            5.475378,51.644586,0.000000
+            5.473982,51.643021,0.000000
+            5.471136,51.642940,0.000000
+            5.469953,51.644069,0.000000
+            5.478598,51.656898,0.000000
+            5.479224,51.657836,0.000000
+            5.481819,51.656585,0.000000
+            5.488009,51.650946,0.000000
+            5.495802,51.650052,0.000000
+            5.493000,51.648170,0.000000
+            5.496673,51.646169,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

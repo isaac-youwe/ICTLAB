@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03400504 Prattenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.539061,52.007202,0.000000
+            5.538328,52.006248,0.000000
+            5.533455,52.008001,0.000000
+            5.528941,52.008448,0.000000
+            5.525674,52.010761,0.000000
+            5.507499,52.012319,0.000000
+            5.510860,52.016450,0.000000
+            5.511044,52.016675,0.000000
+            5.512506,52.018471,0.000000
+            5.527062,52.013961,0.000000
+            5.532886,52.013055,0.000000
+            5.531424,52.011258,0.000000
+            5.535623,52.008657,0.000000
+            5.535785,52.008556,0.000000
+            5.539061,52.007202,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

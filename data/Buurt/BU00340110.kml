@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340110 Overgooi</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.247690,52.340953,0.000000
+            5.266330,52.336265,0.000000
+            5.267901,52.338278,0.000000
+            5.272274,52.335410,0.000000
+            5.286655,52.331271,0.000000
+            5.309902,52.323088,0.000000
+            5.298997,52.312511,0.000000
+            5.268378,52.322305,0.000000
+            5.239738,52.329287,0.000000
+            5.241497,52.329664,0.000000
+            5.244276,52.335051,0.000000
+            5.247690,52.340953,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

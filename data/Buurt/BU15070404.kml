@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15070404 Nieuwstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.052173,51.446465,0.000000
+            6.049301,51.446087,0.000000
+            6.047070,51.450367,0.000000
+            6.050612,51.451254,0.000000
+            6.049793,51.448981,0.000000
+            6.052949,51.448636,0.000000
+            6.055165,51.447500,0.000000
+            6.052173,51.446465,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

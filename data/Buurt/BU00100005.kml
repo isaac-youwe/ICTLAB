@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00100005 Tuikwerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.900632,53.320419,0.000000
+            6.905682,53.319816,0.000000
+            6.912573,53.322820,0.000000
+            6.916654,53.320475,0.000000
+            6.910101,53.316762,0.000000
+            6.894713,53.313288,0.000000
+            6.893966,53.313119,0.000000
+            6.888683,53.311891,0.000000
+            6.887583,53.309816,0.000000
+            6.884792,53.311559,0.000000
+            6.884791,53.311562,0.000000
+            6.883448,53.316070,0.000000
+            6.883697,53.323257,0.000000
+            6.883648,53.323457,0.000000
+            6.888570,53.324328,0.000000
+            6.898830,53.322315,0.000000
+            6.899142,53.321067,0.000000
+            6.900632,53.320419,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15070410 Hoogveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.065330,51.447084,0.000000
+            6.064398,51.445380,0.000000
+            6.060994,51.443664,0.000000
+            6.056652,51.442708,0.000000
+            6.056307,51.439801,0.000000
+            6.051132,51.436103,0.000000
+            6.050021,51.436675,0.000000
+            6.049109,51.438890,0.000000
+            6.050129,51.443241,0.000000
+            6.052481,51.445615,0.000000
+            6.059474,51.445493,0.000000
+            6.063044,51.447677,0.000000
+            6.065330,51.447084,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

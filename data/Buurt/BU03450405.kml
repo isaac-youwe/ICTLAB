@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03450405 De Batterijen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.567963,52.040872,0.000000
+            5.567961,52.040499,0.000000
+            5.561283,52.041920,0.000000
+            5.555614,52.041992,0.000000
+            5.558339,52.048939,0.000000
+            5.570908,52.048059,0.000000
+            5.570870,52.047944,0.000000
+            5.569431,52.043567,0.000000
+            5.569374,52.043461,0.000000
+            5.567963,52.040872,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

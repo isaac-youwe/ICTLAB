@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03450000 Koopcentrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.557675,52.023235,0.000000
+            5.553399,52.023225,0.000000
+            5.552996,52.023314,0.000000
+            5.553900,52.024373,0.000000
+            5.552388,52.024968,0.000000
+            5.556109,52.030794,0.000000
+            5.560688,52.030634,0.000000
+            5.559563,52.028473,0.000000
+            5.557276,52.026312,0.000000
+            5.558485,52.024605,0.000000
+            5.557675,52.023235,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

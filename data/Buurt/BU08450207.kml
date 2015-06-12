@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08450207 Verspreide huizen Spurk en t Woud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.411712,51.657104,0.000000
+            5.423670,51.653772,0.000000
+            5.423334,51.653563,0.000000
+            5.414664,51.655364,0.000000
+            5.410326,51.650870,0.000000
+            5.405989,51.648174,0.000000
+            5.395873,51.645478,0.000000
+            5.378533,51.646377,0.000000
+            5.378545,51.646369,0.000000
+            5.378081,51.646575,0.000000
+            5.373465,51.645555,0.000000
+            5.372092,51.653086,0.000000
+            5.376460,51.654388,0.000000
+            5.375350,51.657144,0.000000
+            5.383302,51.658931,0.000000
+            5.382022,51.664147,0.000000
+            5.382416,51.667413,0.000000
+            5.385302,51.668411,0.000000
+            5.388167,51.671394,0.000000
+            5.399322,51.664297,0.000000
+            5.411712,51.657104,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

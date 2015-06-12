@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00980103 Oldeholtwolde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.004777,52.910477,0.000000
+            6.008195,52.908947,0.000000
+            6.014351,52.910130,0.000000
+            6.016329,52.906440,0.000000
+            6.021913,52.893225,0.000000
+            6.016832,52.892414,0.000000
+            6.013258,52.899731,0.000000
+            5.998060,52.903469,0.000000
+            6.004965,52.905495,0.000000
+            6.001524,52.906270,0.000000
+            6.004777,52.910477,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

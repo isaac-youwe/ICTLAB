@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01141002 Westerse Bos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.869366,52.662222,0.000000
+            6.859594,52.661178,0.000000
+            6.855604,52.671792,0.000000
+            6.873188,52.673322,0.000000
+            6.873414,52.672427,0.000000
+            6.874621,52.667628,0.000000
+            6.868235,52.666989,0.000000
+            6.869366,52.662222,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

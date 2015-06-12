@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18830008 Industrieterrein Bergerweg-Rosengarten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.846924,51.005237,0.000000
+            5.851733,51.003250,0.000000
+            5.859093,51.002185,0.000000
+            5.857697,51.000232,0.000000
+            5.852878,50.995865,0.000000
+            5.840960,50.986626,0.000000
+            5.838953,50.989148,0.000000
+            5.838656,50.994434,0.000000
+            5.841079,51.003634,0.000000
+            5.842300,51.004511,0.000000
+            5.845280,51.003860,0.000000
+            5.846924,51.005237,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

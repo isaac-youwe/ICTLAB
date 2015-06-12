@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02750005 Laag-Soeren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.086466,52.076003,0.000000
+            6.074475,52.074877,0.000000
+            6.070315,52.077949,0.000000
+            6.071465,52.084936,0.000000
+            6.069778,52.086412,0.000000
+            6.068060,52.088352,0.000000
+            6.069213,52.088414,0.000000
+            6.075982,52.087539,0.000000
+            6.077385,52.083935,0.000000
+            6.084653,52.082095,0.000000
+            6.084648,52.081781,0.000000
+            6.084841,52.081167,0.000000
+            6.086466,52.076003,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

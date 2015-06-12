@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06230003 Rozendaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.846796,52.018020,0.000000
+            4.848401,52.016076,0.000000
+            4.837242,52.014266,0.000000
+            4.822929,52.013951,0.000000
+            4.821319,52.016006,0.000000
+            4.821906,52.016282,0.000000
+            4.824808,52.017195,0.000000
+            4.833561,52.016337,0.000000
+            4.840845,52.016371,0.000000
+            4.846651,52.018196,0.000000
+            4.846796,52.018020,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

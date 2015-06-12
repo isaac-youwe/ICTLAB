@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07560200 Beugen Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.938402,51.678115,0.000000
+            5.943300,51.673547,0.000000
+            5.945900,51.673575,0.000000
+            5.946624,51.672668,0.000000
+            5.945276,51.663453,0.000000
+            5.943487,51.663706,0.000000
+            5.943601,51.666963,0.000000
+            5.942818,51.667046,0.000000
+            5.941574,51.666855,0.000000
+            5.940555,51.670300,0.000000
+            5.934281,51.669730,0.000000
+            5.930290,51.671007,0.000000
+            5.931019,51.674155,0.000000
+            5.936304,51.676716,0.000000
+            5.936678,51.678288,0.000000
+            5.938402,51.678115,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

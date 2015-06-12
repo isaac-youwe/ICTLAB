@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280401 Hertogenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.513978,51.766989,0.000000
+            5.510114,51.766629,0.000000
+            5.508113,51.769354,0.000000
+            5.507816,51.770445,0.000000
+            5.507603,51.774156,0.000000
+            5.518105,51.775347,0.000000
+            5.520374,51.772318,0.000000
+            5.514944,51.770858,0.000000
+            5.513978,51.766989,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>
