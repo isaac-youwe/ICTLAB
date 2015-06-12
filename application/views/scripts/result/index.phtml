@@ -1,192 +1,11 @@
 <!--Author Isaac de Cuba-->
 <!--Editor Adriel Walter, Serhildan Akdeniz-->
-<div class="container">
-    <div class="row">
-        <div class="col-md-12" align="center">
-            <div class="input-group">
-                <input type="text" value="<?php echo $this->search; ?>" name="search" class="form-control">
-                            <span class="input-group-btn">
-                                <button class="btn btn-default" type="submit">
-                                    <span class="glyphicon glyphicon-search"></span>
-                                </button>
-                            </span>
-                </input>
-            </div>
-            </form>
-        </div>
+<div class="row">
+    <div class="col-md-4">
+        <h3>Beschikbare huizen</h3>
     </div>
-    <div class="row">
-        <div class="col-md-4">
-            <h3>Beschikbare huizen</h3>
-        </div>
-        <div class="col-md-8">
-            <h3>Map</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-4 col-sm-3 pre-scrollable">
-            <ul class="list-group">
-                <script>
-                    var collection = <?php echo json_encode($this->collection); ?>;
-                    var lat = <?php echo json_encode($this->lat); ?>;
-                    var lng = <?php echo json_encode($this->lng); ?>;
-                </script>
-
-                <li id="side_bar" class="list-group-item"></li>
-                <div class="row">
-                    <div class="col-md-12" align="center">
-                        <ul class="pagination">
-                            <?php
-                            (array_key_exists('startp', $this->params) ? $start = $this->params["startp"] : $start = 1);
-                            echo "<li " . ($start <= 1 ? "class='disabled'" : '') . "><a href='/result?search=" . $this->search . "&page=p" . ($start - 1) . "&startp=" . ($start - 5) . "'>&laquo;</a></li>";
-
-                            $max = 5 + $start;
-                            for ($i = $start; $i < $max; $i++) {
-                                echo "<li " . (in_array('p' . $i, $this->params) ? "class='active'" : '') . "><a href='/result?search=" . $this->search . "&page=p" . $i . "&startp=" . $start . "'>$i</a></li>";
-                            }
-                            echo "<li><a href='/result?search=" . $this->search . "&page=p" . $i . "&startp=" . $i . "'>&raquo;</a></li>";
-                            ?>
-                        </ul>
-                    </div>
-                </div>
-            </ul>
-        </div>
-        <div class="col-md-8 col-sm-9">
-            <div id="map-canvas"/>
-        </div>
-        <script>
-            var map;
-            var infoWindow = new google.maps.InfoWindow();
-            var infoPopUp = new google.maps.InfoWindow();
-            // this variable will collect the html which will eventually be placed in the side_bar
-            var side_bar_html = "";
-
-            // arrays to hold copies of the markers and html used by the side_bar
-            var gmarkers = [];
-
-            var icon = new google.maps.MarkerImage('images/house-marker.png');
-            var icon2 = new google.maps.MarkerImage('images/MousOver-house-marker.png');
-
-            // This function picks up the click and opens the corresponding info window
-            function myclick(i) {
-                google.maps.event.trigger(gmarkers[i], "click");
-            }
-            function initialize() {
-                var mapOptions = {
-                    minZoom: 8, //minimum zoom level van de kaart
-                    zoom: 12,
-                    center: new google.maps.LatLng(lat, lng),
-                    disableDefaultUI: true,
-                    mapTypeControl: false,
-                    zoomControl: true
-                }
-                map = new google.maps.Map(document.getElementById('map-canvas'),
-                    mapOptions);
-                housmarkers();
-
-
-                document.getElementById("side_bar").innerHTML = side_bar_html;
-
-                var allowedBounds = new google.maps.LatLngBounds(
-                    new google.maps.LatLng(50.690492, 3.167453),
-                    new google.maps.LatLng(53.587940, 6.993237)
-                );
-                var lastValidCenter = map.getCenter();
-
-                google.maps.event.addListener(map, 'center_changed', function () {
-                    if (allowedBounds.contains(map.getCenter())) {
-
-                        lastValidCenter = map.getCenter();
-                        return;
-                    }
-
-                    map.panTo(lastValidCenter);
-                });
-            }
-
-            google.maps.event.addDomListener(window, 'load', initialize);
-
-            function addInfoWindow(houseMarker, details) {
-                google.maps.event.addListener(houseMarker, 'click', function () {
-                    if (!houseMarker.open) {
-                        infoWindow.setContent(details);
-                        infoWindow.open(map, houseMarker);
-                        houseMarker.open = true;
-                    }
-                    else {
-                        infoWindow.close(map, houseMarker);
-                        houseMarker.open = false;
-                    }
-                });
-
-            }
-            function addPopupWindow(houseMarker, detailsPopUp) {
-                google.maps.event.addListener(houseMarker, 'mouseover', function () {
-                    infoPopUp.setContent(detailsPopUp);
-                    infoPopUp.open(map, houseMarker);
-                    houseMarker.setIcon(icon2);
-                });
-
-                google.maps.event.addListener(houseMarker, 'mouseout', function () {
-                    infoPopUp.close();
-                    houseMarker.setIcon(icon);
-
-                });
-            }
-
-            function housmarkers(){
-                for (var i = 0; i < collection.length; i++) {
-                    housePhoto = '<img src="' + collection[i]['Foto'] + '">';
-                    houseSquare = 'Oppervlakte: ' + collection[i]['Woonoppervlakte'] + ' m' + '<sup>2</sup>';
-                    housePrice = 'Prijs: &#8364;' + collection[i]['Koopprijs'];
-                    houseMakelaar = 'Makelaar: ' + collection[i]['MakelaarNaam'];
-                    houseAdress = collection[i]['Adres'];
-                    houseRooms = 'Aantal kamers: ' + collection[i]['AantalKamers'];
-                    myLatLng = new google.maps.LatLng(collection[i]['WGS84_Y'], collection[i]['WGS84_X']);
-                    houseMarker = new google.maps.Marker({
-                        position: myLatLng,
-                        map: map,
-                        icon: icon
-                    });
-
-                    //Create List Details
-                    var houseAdressDetails =
-                        houseAdress + '<br>';
-
-                    var adressHouseDetails =
-                        houseRooms + '<br>' +
-                        housePrice + '<hr />';
-
-                    gmarkers.push(houseMarker);
-
-                    // add a line to the side_bar html
-                    var marker_id = gmarkers.length - 1;
-
-                    side_bar_html += '<a class ="listmarker" href="javascript:myclick(' + marker_id + ')' +
-                    '" onmouseover="gmarkers[' + marker_id + '].setIcon(icon2)' +
-                    '" onmouseout="gmarkers[' + marker_id + '].setIcon(icon)">' + '<h4> ' + houseAdressDetails + '</h4></a>';
-
-                    //Details from select Adress
-                    side_bar_html += '<p>' + adressHouseDetails + '</p>';
-
-                    var details =
-                        '<p class="text-center">' +
-                        '<h5>' + houseAdress + '</h5>' +
-                        housePrice + '<br />' +
-                        houseRooms + '<br />' +
-                        houseSquare + '<br />' +
-                        houseMakelaar + '<br />' +
-                        '<div class="img-responsive">' + housePhoto + '</div>' +
-                        '</p>';
-
-                    var detailsPopUp = '<p class="text-center">' + houseAdress + ", " + housePrice + '</p>';
-
-                    addInfoWindow(houseMarker, details);
-                    addPopupWindow(houseMarker, detailsPopUp);
-
-                }
-            }
-        </script>
+    <div class="col-md-8">
+        <h3>Map</h3>
     </div>
 </div>
 <?php
@@ -195,45 +14,190 @@ $SolrBuurtCall = new Application_Model_Solr_BuurtCall();
 
 $processor = new Application_Model_Processor();
 
-if (strpos($this->search, "/")) {
-    $buurt = explode("/", $this->search);
-    $buurt = $buurt[1];
-} else {
-    $buurt = $this->search;
-}
+//            echo $this->buurt;
+//            echo "<br>";
+//            echo $this->stad;
+
 $processor = new Application_Model_Processor();
-$polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($buurt));
+$polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($this->buurt));
 
-$markerPoint = $this->collection;
+//            echo "<p>" . $polygonBuurt . "</p>";
+//            echo "<p>" . $SolrBuurtCall->getName($this->buurt) . "</p>";
+//            echo "<p>" . $SolrBuurtCall->getId($this->buurt) . "</p>";
+//            print_r($SolrBuurtCall->getPolygon($this->buurt));
 
-foreach ($markerPoint as $value){
-    if($value) {
-        $pointLat = $markerPoint[0]->WGS84_Y;
-        $pointLng = $markerPoint[0]->WGS84_X;
-    }
-    else {
-        $pointLat = 50.690492;
-        $pointLng = 3.167453;
+$markerPoints = $this->collection;
+$polygon = geoPHP::load("$polygonBuurt", "wkt");
+
+$filteredCollection = array();
+foreach ($markerPoints as $value) {
+    $point1 = geoPHP::load("POINT($value->WGS84_Y $value->WGS84_X)", "wkt");
+    if ($polygon->contains($point1)) {
+        array_push($filteredCollection, $value);
     }
 }
-
-$latPoint = $pointLat;
-$lngPoint = $pointLng;
-
-
-$point1 = geoPHP::load("POINT($latPoint $lngPoint)","wkt");
-
-$polygone = geoPHP::load("$polygonBuurt","wkt");
-var_dump($polygone->contains($point1));
-echo "Is all hous in polygon? " . ($polygone->contains($point1) ? "YES" : "NO");
-
 ?>
+<div class="row">
+    <div class="col-md-4 col-sm-3 pre-scrollable">
+        <ul class="list-group">
+            <script>
+                var collection = <?php echo json_encode($filteredCollection); ?>;
+                var lat = <?php echo json_encode($this->lat); ?>;
+                var lng = <?php echo json_encode($this->lng); ?>;
+            </script>
 
-<h2>Solr Details</h2>
-<?php
-echo "<p>" . $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($buurt)) . "</p>";
-echo "<p>" . $SolrBuurtCall->getName($buurt) . "</p>";
-echo "<p>" . $SolrBuurtCall->getId($buurt) . "</p>";
-print_r($SolrBuurtCall->getAangrenzendeBuurten($buurt));
+            <li id="side_bar" class="list-group-item"></li>
+            <div class="row">
+                <div class="col-md-12" align="center">
+                    <ul class="pagination">
+                        <?php
+                        (array_key_exists('startp', $this->params) ? $start = $this->params["startp"] : $start = 1);
+                        echo "<li " . ($start <= 1 ? "class='disabled'" : '') . "><a href='/result?search=" . $this->search . "&page=p" . ($start - 1) . "&startp=" . ($start - 5) . "'>&laquo;</a></li>";
 
-?>
+                        $max = 5 + $start;
+                        for ($i = $start; $i < $max; $i++) {
+                            echo "<li " . (in_array('p' . $i, $this->params) ? "class='active'" : '') . "><a href='/result?search=" . $this->search . "&page=p" . $i . "&startp=" . $start . "'>$i</a></li>";
+                        }
+                        echo "<li><a href='/result?search=" . $this->search . "&page=p" . $i . "&startp=" . $i . "'>&raquo;</a></li>";
+                        ?>
+                    </ul>
+                </div>
+            </div>
+        </ul>
+    </div>
+    <div class="col-md-8 col-sm-9">
+        <div id="map-canvas"/>
+    </div>
+    <script>
+        var map;
+        var infoWindow = new google.maps.InfoWindow();
+        var infoPopUp = new google.maps.InfoWindow();
+        // this variable will collect the html which will eventually be placed in the side_bar
+        var side_bar_html = "";
+
+        // arrays to hold copies of the markers and html used by the side_bar
+        var gmarkers = [];
+
+        var icon = new google.maps.MarkerImage('images/house-marker.png');
+        var icon2 = new google.maps.MarkerImage('images/MousOver-house-marker.png');
+
+        // This function picks up the click and opens the corresponding info window
+        function myclick(i) {
+            google.maps.event.trigger(gmarkers[i], "click");
+        }
+        function initialize() {
+            var mapOptions = {
+                minZoom: 8, //minimum zoom level van de kaart
+                zoom: 12,
+                center: new google.maps.LatLng(lat, lng),
+                disableDefaultUI: true,
+                mapTypeControl: false,
+                zoomControl: true
+            }
+
+            map = new google.maps.Map(document.getElementById('map-canvas'),
+                mapOptions);
+
+            for (var i = 0; i < collection.length; i++) {
+                housePhoto = '<img src="' + collection[i]['Foto'] + '">';
+                houseSquare = 'Oppervlakte: ' + collection[i]['Woonoppervlakte'] + ' m' + '<sup>2</sup>';
+                housePrice = 'Prijs: &#8364;' + collection[i]['Koopprijs'];
+                houseMakelaar = 'Makelaar: ' + collection[i]['MakelaarNaam'];
+                houseAdress = collection[i]['Adres'];
+                houseRooms = 'Aantal kamers: ' + collection[i]['AantalKamers'];
+                myLatLng = new google.maps.LatLng(collection[i]['WGS84_Y'], collection[i]['WGS84_X']);
+                houseMarker = new google.maps.Marker({
+                    position: myLatLng,
+                    map: map,
+                    icon: icon
+                });
+
+                //Create List Details
+                var houseAdressDetails =
+                    houseAdress + '<br>';
+
+                var adressHouseDetails =
+                    houseRooms + '<br>' +
+                    housePrice + '<hr />';
+
+                gmarkers.push(houseMarker);
+
+                // add a line to the side_bar html
+                var marker_id = gmarkers.length - 1;
+
+                side_bar_html += '<a class ="listmarker" href="javascript:myclick(' + marker_id + ')' +
+                '" onmouseover="gmarkers[' + marker_id + '].setIcon(icon2)' +
+                '" onmouseout="gmarkers[' + marker_id + '].setIcon(icon)">' + '<h4> ' + houseAdressDetails + '</h4></a>';
+
+                //Details from select Adress
+                side_bar_html += '<p>' + adressHouseDetails + '</p>';
+
+                var details =
+                    '<p class="text-center">' +
+                    '<h5>' + houseAdress + '</h5>' +
+                    housePrice + '<br />' +
+                    houseRooms + '<br />' +
+                    houseSquare + '<br />' +
+                    houseMakelaar + '<br />' +
+                    '<div class="img-responsive">' + housePhoto + '</div>' +
+                    '</p>';
+
+                var detailsPopUp = '<p class="text-center">' + houseAdress + ", " + housePrice + '</p>';
+
+                addInfoWindow(houseMarker, details);
+                addPopupWindow(houseMarker, detailsPopUp);
+
+            }
+
+            document.getElementById("side_bar").innerHTML = side_bar_html;
+
+            var allowedBounds = new google.maps.LatLngBounds(
+                new google.maps.LatLng(50.690492, 3.167453),
+                new google.maps.LatLng(53.587940, 6.993237)
+            );
+            var lastValidCenter = map.getCenter();
+
+            google.maps.event.addListener(map, 'center_changed', function () {
+                if (allowedBounds.contains(map.getCenter())) {
+
+                    lastValidCenter = map.getCenter();
+                    return;
+                }
+
+                map.panTo(lastValidCenter);
+            });
+        }
+
+        google.maps.event.addDomListener(window, 'load', initialize);
+
+        function addInfoWindow(houseMarker, details) {
+            google.maps.event.addListener(houseMarker, 'click', function () {
+                if (!houseMarker.open) {
+                    infoWindow.setContent(details);
+                    infoWindow.open(map, houseMarker);
+                    houseMarker.open = true;
+                }
+                else {
+                    infoWindow.close(map, houseMarker);
+                    houseMarker.open = false;
+                }
+            });
+
+        }
+        function addPopupWindow(houseMarker, detailsPopUp) {
+            google.maps.event.addListener(houseMarker, 'mouseover', function () {
+                infoPopUp.setContent(detailsPopUp);
+                infoPopUp.open(map, houseMarker);
+                houseMarker.setIcon(icon2);
+            });
+
+            google.maps.event.addListener(houseMarker, 'mouseout', function () {
+                infoPopUp.close();
+                houseMarker.setIcon(icon);
+
+            });
+        }
+    </script>
+</div>
+</div>
+
