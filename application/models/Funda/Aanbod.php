@@ -46,7 +46,7 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
 
         // city should come right after $zo/ and then followed by buurt
         $url = '';
-        $url .= $params['search'] . '/';
+        $url .= $params['stad'] . '/' . $params['buurt'] . '/';
         foreach ($params as $key => $value) {
             if ($key === 'controller' || $key === 'action' || $key === 'module' || $key === 'search' || $key === 'buurt') continue;
             $url .= $value . '/';

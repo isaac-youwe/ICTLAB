@@ -25,24 +25,24 @@ class ResultController extends Zend_Controller_Action
 
     public function indexAction()
     {
-        $search = $this->getRequest()->getParam('search');
-        $this->view->assign('search', $search);
+        $this->params = $this->view->params = $this->getRequest()->getParams();
+        $this->view->assign('stad', $this->params['stad']);
+        $this->view->assign('buurt', $this->params['buurt']);
 
-        if (empty($search)) {
-            throw new Exception('Vul een buurt of plaats aub');
+        if (empty($this->params['stad'])) {
+            throw new Exception('Vul een buurt of plaats in aub');
         }
 
         /**
          * Geocoder\Model\Address $addresses
          */
-        $addresses = $this->_geocoder->geocode($search);
+        $addresses = $this->_geocoder->geocode($this->params['stad']);
 
         foreach ($addresses as $address) {
             $this->view->assign('lat', $address->getLatitude());
             $this->view->assign('lng', $address->getLongitude());
         }
 
-        $this->params = $this->view->params = $this->getRequest()->getParams();
         $fundaAanbod = new Application_Model_Funda_Aanbod();
         $this->view->collection = $fundaAanbod->getCollection($this->params);
     }
