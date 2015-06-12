@@ -1,7 +1,14 @@
 <?php
 
-class Application_Model_Processor
-{
+/**
+ * Created by PhpStorm.
+ * User: adriel
+ * Date: 8-6-15
+ * Time: 15:20
+ */
+
+class Application_Model_Processor {
+
     /**
      * @param json $input
      * @return string
@@ -43,4 +50,3 @@ class Application_Model_Processor
         return false;
     }
 }
-
