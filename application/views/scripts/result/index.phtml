@@ -234,5 +234,6 @@ echo "Is all hous in polygon? " . ($polygone->contains($point1) ? "YES" : "NO");
 echo "<p>" . $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($buurt)) . "</p>";
 echo "<p>" . $SolrBuurtCall->getName($buurt) . "</p>";
 echo "<p>" . $SolrBuurtCall->getId($buurt) . "</p>";
+print_r($SolrBuurtCall->getAangrenzendeBuurten($buurt));
 
 ?>
