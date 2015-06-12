@@ -99,3 +99,7 @@ Klik op CREATE PULL REQUEST
 ### Navigate first into the ICTLAB/scripts folder
 ### And run this command
 ```php intersection-script.php```
+
+# PHPStorm changes
+## To prevent PHPStorm of running slow (exclude index for the shapefiles and data folders)
+### Right click on data and shapefiles folder in ICTLAB folder and Mark Directory As Excluded
