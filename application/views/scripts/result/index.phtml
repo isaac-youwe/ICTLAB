@@ -8,11 +8,31 @@
         <h3>Map</h3>
     </div>
 </div>
+<?php
+
+$SolrBuurtCall = new Application_Model_Solr_BuurtCall();
+
+$processor = new Application_Model_Processor();
+
+$processor = new Application_Model_Processor();
+$polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($this->buurt));
+
+$markerPoints = $this->collection;
+$polygon = geoPHP::load("$polygonBuurt", "wkt");
+
+$filteredCollection = array();
+foreach ($markerPoints as $value) {
+    $point1 = geoPHP::load("POINT($value->WGS84_Y $value->WGS84_X)", "wkt");
+    if ($polygon->contains($point1)) {
+        array_push($filteredCollection, $value);
+    }
+}
+?>
 <div class="row">
     <div class="col-md-4 col-sm-3 pre-scrollable">
         <ul class="list-group">
             <script>
-                var collection = <?php echo json_encode($this->collection); ?>;
+                var collection = <?php echo json_encode($filteredCollection); ?>;
                 var lat = <?php echo json_encode($this->lat); ?>;
                 var lng = <?php echo json_encode($this->lng); ?>;
             </script>
@@ -65,6 +85,7 @@
                 mapTypeControl: false,
                 zoomControl: true
             }
+
             map = new google.maps.Map(document.getElementById('map-canvas'),
                 mapOptions);
 
@@ -169,21 +190,5 @@
         }
     </script>
 </div>
-<h2>Solr Details</h2>
-<?php
-//phpinfo();
-$call = new Application_Model_Solr_BuurtCall();
-
-$processor = new Application_Model_Processor();
-
-if (strpos($this->buurt, "/")) {
-    $buurt = explode("/", $this->buurt);
-    $buurt = $buurt[1];
-} else {
-    $buurt = $this->buurt;
-}
-echo "<p>" . $processor->getPolygonFromArray($call->getPolygon($buurt)) . "</p>";
-echo "<p>" . $call->getName($buurt) . "</p>";
-echo "<p>" . $call->getId($buurt) . "</p>";
-print_r($call->getPolygon($buurt));
+</div>
 
