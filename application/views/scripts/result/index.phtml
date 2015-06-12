@@ -14,17 +14,8 @@ $SolrBuurtCall = new Application_Model_Solr_BuurtCall();
 
 $processor = new Application_Model_Processor();
 
-//            echo $this->buurt;
-//            echo "<br>";
-//            echo $this->stad;
-
 $processor = new Application_Model_Processor();
 $polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($this->buurt));
-
-//            echo "<p>" . $polygonBuurt . "</p>";
-//            echo "<p>" . $SolrBuurtCall->getName($this->buurt) . "</p>";
-//            echo "<p>" . $SolrBuurtCall->getId($this->buurt) . "</p>";
-//            print_r($SolrBuurtCall->getPolygon($this->buurt));
 
 $markerPoints = $this->collection;
 $polygon = geoPHP::load("$polygonBuurt", "wkt");
@@ -200,5 +191,4 @@ foreach ($markerPoints as $value) {
     </script>
 </div>
 </div>
-<h2>Solr Details</h2>
 
