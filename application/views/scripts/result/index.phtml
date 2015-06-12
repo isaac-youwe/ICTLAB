@@ -8,11 +8,40 @@
         <h3>Map</h3>
     </div>
 </div>
+<?php
+
+$SolrBuurtCall = new Application_Model_Solr_BuurtCall();
+
+$processor = new Application_Model_Processor();
+
+//            echo $this->buurt;
+//            echo "<br>";
+//            echo $this->stad;
+
+$processor = new Application_Model_Processor();
+$polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($this->buurt));
+
+//            echo "<p>" . $polygonBuurt . "</p>";
+//            echo "<p>" . $SolrBuurtCall->getName($this->buurt) . "</p>";
+//            echo "<p>" . $SolrBuurtCall->getId($this->buurt) . "</p>";
+//            print_r($SolrBuurtCall->getPolygon($this->buurt));
+
+$markerPoints = $this->collection;
+$polygon = geoPHP::load("$polygonBuurt", "wkt");
+
+$filteredCollection = array();
+foreach ($markerPoints as $value) {
+    $point1 = geoPHP::load("POINT($value->WGS84_Y $value->WGS84_X)", "wkt");
+    if ($polygon->contains($point1)) {
+        array_push($filteredCollection, $value);
+    }
+}
+?>
 <div class="row">
     <div class="col-md-4 col-sm-3 pre-scrollable">
         <ul class="list-group">
             <script>
-                var collection = <?php echo json_encode($this->collection); ?>;
+                var collection = <?php echo json_encode($filteredCollection); ?>;
                 var lat = <?php echo json_encode($this->lat); ?>;
                 var lng = <?php echo json_encode($this->lng); ?>;
             </script>
@@ -172,39 +201,4 @@
 </div>
 </div>
 <h2>Solr Details</h2>
-<?php
 
-$SolrBuurtCall = new Application_Model_Solr_BuurtCall();
-
-$processor = new Application_Model_Processor();
-
-echo $this->buurt;
-echo "<br>";
-echo $this->stad;
-
-$processor = new Application_Model_Processor();
-$polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($this->buurt));
-
-echo "<p>" . $polygonBuurt . "</p>";
-echo "<p>" . $SolrBuurtCall->getName($this->buurt) . "</p>";
-echo "<p>" . $SolrBuurtCall->getId($this->buurt) . "</p>";
-print_r($SolrBuurtCall->getPolygon($this->buurt));
-
-$markerPoints = $this->collection;
-
-foreach ($markerPoints as $value){
-    if($value) {
-        $pointLat = $markerPoints[0]->WGS84_Y;
-        $pointLng = $markerPoints[0]->WGS84_X;
-    } else {
-        $pointLat = 50.690492;
-        $pointLng = 3.167453;
-    }
-}
-
-$point1 = geoPHP::load("POINT($pointLat $pointLng)","wkt");
-$polygon = geoPHP::load("$polygonBuurt","wkt");
-var_dump($polygon->contains($point1));
-echo "<p>Is the last house in the polygon? " . ($polygon->contains($point1) ? "YES" : "NO") . "</p>";
-
-?>
