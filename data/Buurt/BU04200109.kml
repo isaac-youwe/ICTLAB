@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04200109 Verspreide huizen langs Zomerdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.015582,52.677660,0.000000
+            5.018658,52.674063,0.000000
+            5.022321,52.673676,0.000000
+            5.033467,52.669571,0.000000
+            5.034814,52.666902,0.000000
+            5.020566,52.664257,0.000000
+            5.017282,52.665640,0.000000
+            5.005728,52.670502,0.000000
+            5.004234,52.672295,0.000000
+            5.002732,52.674986,0.000000
+            4.983509,52.674923,0.000000
+            4.979031,52.679401,0.000000
+            4.980452,52.685698,0.000000
+            4.980448,52.686058,0.000000
+            4.998954,52.685455,0.000000
+            5.013432,52.685089,0.000000
+            5.016664,52.679176,0.000000
+            5.015505,52.679143,0.000000
+            5.015582,52.677660,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

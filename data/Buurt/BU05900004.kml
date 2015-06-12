@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05900004 Middenpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.705368,51.823287,0.000000
+            4.695671,51.822371,0.000000
+            4.696096,51.824511,0.000000
+            4.693009,51.825675,0.000000
+            4.698973,51.833591,0.000000
+            4.706488,51.831098,0.000000
+            4.705119,51.828812,0.000000
+            4.705715,51.823289,0.000000
+            4.705368,51.823287,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

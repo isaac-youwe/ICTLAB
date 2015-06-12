@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17011200 Frederiksoord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.188266,52.843516,0.000000
+            6.189587,52.842701,0.000000
+            6.191542,52.843824,0.000000
+            6.194007,52.842008,0.000000
+            6.187571,52.838674,0.000000
+            6.185874,52.840817,0.000000
+            6.183473,52.841749,0.000000
+            6.180616,52.840667,0.000000
+            6.180055,52.841079,0.000000
+            6.179335,52.841609,0.000000
+            6.187647,52.846758,0.000000
+            6.190589,52.846939,0.000000
+            6.191836,52.847768,0.000000
+            6.193705,52.846554,0.000000
+            6.188266,52.843516,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

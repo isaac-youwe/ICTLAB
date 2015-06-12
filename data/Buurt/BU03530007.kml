@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03530007 IJsselveld-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.052005,52.029747,0.000000
+            5.060775,52.026176,0.000000
+            5.062226,52.027079,0.000000
+            5.062238,52.025377,0.000000
+            5.059209,52.022950,0.000000
+            5.052550,52.024861,0.000000
+            5.047989,52.026234,0.000000
+            5.048396,52.027997,0.000000
+            5.049683,52.029220,0.000000
+            5.051332,52.029035,0.000000
+            5.051427,52.030276,0.000000
+            5.052005,52.029747,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

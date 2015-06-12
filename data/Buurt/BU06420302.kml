@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420302 Corridor-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.639389,51.815870,0.000000
+            4.636149,51.813451,0.000000
+            4.633685,51.814479,0.000000
+            4.636033,51.816099,0.000000
+            4.632972,51.817430,0.000000
+            4.634059,51.818283,0.000000
+            4.635954,51.817425,0.000000
+            4.639389,51.815870,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

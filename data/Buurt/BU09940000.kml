@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09940000 Valkenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.844008,50.869330,0.000000
+            5.845136,50.865981,0.000000
+            5.844729,50.861210,0.000000
+            5.839435,50.856143,0.000000
+            5.823381,50.855308,0.000000
+            5.820428,50.859873,0.000000
+            5.815098,50.859485,0.000000
+            5.814822,50.861428,0.000000
+            5.812304,50.861987,0.000000
+            5.823811,50.863930,0.000000
+            5.830698,50.870210,0.000000
+            5.832783,50.869287,0.000000
+            5.834374,50.869445,0.000000
+            5.836872,50.870959,0.000000
+            5.839857,50.874906,0.000000
+            5.842077,50.872650,0.000000
+            5.846604,50.870507,0.000000
+            5.844008,50.869330,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

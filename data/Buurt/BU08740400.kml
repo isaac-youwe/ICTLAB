@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08740400 Andel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.068356,51.779888,0.000000
+            5.071261,51.778997,0.000000
+            5.071541,51.778997,0.000000
+            5.070378,51.776308,0.000000
+            5.064922,51.777132,0.000000
+            5.064093,51.775104,0.000000
+            5.051383,51.777548,0.000000
+            5.052586,51.780190,0.000000
+            5.047427,51.780922,0.000000
+            5.048592,51.789327,0.000000
+            5.058151,51.789719,0.000000
+            5.059614,51.786156,0.000000
+            5.065444,51.781678,0.000000
+            5.068356,51.779888,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

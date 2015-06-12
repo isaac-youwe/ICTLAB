@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05370708 Polder Kamphuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.452701,52.198108,0.000000
+            4.454072,52.196910,0.000000
+            4.464204,52.197407,0.000000
+            4.465585,52.197418,0.000000
+            4.461354,52.188710,0.000000
+            4.458571,52.182980,0.000000
+            4.458387,52.182979,0.000000
+            4.448335,52.182899,0.000000
+            4.448261,52.182892,0.000000
+            4.445520,52.188767,0.000000
+            4.454271,52.193949,0.000000
+            4.447806,52.193916,0.000000
+            4.447787,52.194658,0.000000
+            4.451344,52.196257,0.000000
+            4.451262,52.197370,0.000000
+            4.452701,52.198108,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

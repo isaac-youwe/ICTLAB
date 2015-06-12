@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09360301 Banholt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.821340,50.781641,0.000000
+            5.809445,50.777915,0.000000
+            5.791949,50.795384,0.000000
+            5.794346,50.796415,0.000000
+            5.797152,50.800552,0.000000
+            5.802434,50.800588,0.000000
+            5.819991,50.804658,0.000000
+            5.821274,50.797826,0.000000
+            5.822559,50.795334,0.000000
+            5.822667,50.795124,0.000000
+            5.827868,50.790115,0.000000
+            5.826321,50.788397,0.000000
+            5.828178,50.786159,0.000000
+            5.826914,50.785663,0.000000
+            5.825375,50.785061,0.000000
+            5.825971,50.783877,0.000000
+            5.821340,50.781641,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

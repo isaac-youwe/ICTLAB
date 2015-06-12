@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990558 Blijdorpse Polder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.441148,51.922337,0.000000
+            4.437108,51.921998,0.000000
+            4.432202,51.926052,0.000000
+            4.445779,51.933620,0.000000
+            4.449712,51.933521,0.000000
+            4.447667,51.925249,0.000000
+            4.445441,51.923345,0.000000
+            4.441148,51.922337,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

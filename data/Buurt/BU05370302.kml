@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05370302 t Sandt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.429436,52.190328,0.000000
+            4.428285,52.187247,0.000000
+            4.426126,52.188494,0.000000
+            4.424670,52.190784,0.000000
+            4.425134,52.193615,0.000000
+            4.430067,52.196119,0.000000
+            4.431289,52.193434,0.000000
+            4.429436,52.190328,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

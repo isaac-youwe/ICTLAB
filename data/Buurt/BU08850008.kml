@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08850008 Verspreide huizen Brandemolen en Veld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.198795,51.485185,0.000000
+            6.196533,51.481022,0.000000
+            6.193267,51.479825,0.000000
+            6.191276,51.480323,0.000000
+            6.188938,51.479610,0.000000
+            6.187005,51.477753,0.000000
+            6.185831,51.478595,0.000000
+            6.185390,51.482006,0.000000
+            6.177271,51.483947,0.000000
+            6.170222,51.482302,0.000000
+            6.166370,51.488084,0.000000
+            6.178737,51.490746,0.000000
+            6.190652,51.489805,0.000000
+            6.198795,51.485185,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

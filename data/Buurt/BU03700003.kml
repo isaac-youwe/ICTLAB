@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03700003 Oostbeemster</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.970821,52.555147,0.000000
+            4.970477,52.553654,0.000000
+            4.969242,52.552241,0.000000
+            4.960522,52.554233,0.000000
+            4.956499,52.547435,0.000000
+            4.930349,52.553288,0.000000
+            4.934108,52.559443,0.000000
+            4.939939,52.568984,0.000000
+            4.965926,52.563128,0.000000
+            4.962246,52.557009,0.000000
+            4.970821,52.555147,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

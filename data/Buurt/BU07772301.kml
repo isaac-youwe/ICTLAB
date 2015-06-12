@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07772301 Landelijk gebied 2 (Zuid)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.660825,51.526355,0.000000
+            4.660467,51.526165,0.000000
+            4.655079,51.531719,0.000000
+            4.655297,51.535879,0.000000
+            4.650638,51.539868,0.000000
+            4.651503,51.540805,0.000000
+            4.646412,51.549757,0.000000
+            4.645007,51.555805,0.000000
+            4.646800,51.556248,0.000000
+            4.649880,51.557009,0.000000
+            4.655162,51.559888,0.000000
+            4.656469,51.557716,0.000000
+            4.658456,51.556961,0.000000
+            4.662546,51.553265,0.000000
+            4.672650,51.546850,0.000000
+            4.676523,51.545549,0.000000
+            4.681044,51.540937,0.000000
+            4.680777,51.540861,0.000000
+            4.660825,51.526355,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04793110 Oud Koog</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.812288,52.456004,0.000000
+            4.805818,52.455320,0.000000
+            4.805002,52.469816,0.000000
+            4.813196,52.470629,0.000000
+            4.814197,52.468995,0.000000
+            4.818844,52.466678,0.000000
+            4.812698,52.463599,0.000000
+            4.812538,52.462789,0.000000
+            4.812288,52.456004,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

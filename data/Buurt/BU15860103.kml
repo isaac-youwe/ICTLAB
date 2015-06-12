@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15860103 Buurt Lievelde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.594287,52.021918,0.000000
+            6.592409,52.016628,0.000000
+            6.596298,52.013144,0.000000
+            6.599091,52.012165,0.000000
+            6.599383,52.010880,0.000000
+            6.591476,52.013569,0.000000
+            6.590703,52.012269,0.000000
+            6.592593,52.010578,0.000000
+            6.591866,52.007497,0.000000
+            6.587559,52.003979,0.000000
+            6.577815,52.005519,0.000000
+            6.578638,52.010629,0.000000
+            6.583444,52.014539,0.000000
+            6.577565,52.016961,0.000000
+            6.579280,52.019407,0.000000
+            6.581529,52.019086,0.000000
+            6.583663,52.022057,0.000000
+            6.593618,52.023600,0.000000
+            6.594287,52.021918,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07430909 Verspreide huizen Leensel en Hutten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.795753,51.410045,0.000000
+            5.831261,51.399225,0.000000
+            5.831297,51.399214,0.000000
+            5.838447,51.395591,0.000000
+            5.839752,51.393091,0.000000
+            5.829964,51.390173,0.000000
+            5.827032,51.384963,0.000000
+            5.821611,51.389485,0.000000
+            5.817272,51.394892,0.000000
+            5.813299,51.394238,0.000000
+            5.811555,51.398161,0.000000
+            5.808108,51.398250,0.000000
+            5.807379,51.401790,0.000000
+            5.801451,51.401174,0.000000
+            5.796292,51.405481,0.000000
+            5.795753,51.410045,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

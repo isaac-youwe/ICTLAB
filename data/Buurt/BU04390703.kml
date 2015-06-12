@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04390703 Amerika</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.928139,52.493890,0.000000
+            4.922321,52.490313,0.000000
+            4.921875,52.490437,0.000000
+            4.920403,52.490431,0.000000
+            4.923319,52.493139,0.000000
+            4.926189,52.500341,0.000000
+            4.926152,52.503936,0.000000
+            4.926134,52.505684,0.000000
+            4.926133,52.505734,0.000000
+            4.929306,52.507368,0.000000
+            4.937607,52.502220,0.000000
+            4.939412,52.498022,0.000000
+            4.928139,52.493890,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

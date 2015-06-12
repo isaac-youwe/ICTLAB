@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01730006 Haerbroek-Scholtenhoek en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.950590,52.308435,0.000000
+            6.949292,52.306926,0.000000
+            6.940566,52.307065,0.000000
+            6.939171,52.308323,0.000000
+            6.936837,52.308211,0.000000
+            6.933439,52.311002,0.000000
+            6.933619,52.314627,0.000000
+            6.935129,52.316413,0.000000
+            6.942153,52.317961,0.000000
+            6.949904,52.317352,0.000000
+            6.950842,52.317278,0.000000
+            6.949313,52.313845,0.000000
+            6.950590,52.308435,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

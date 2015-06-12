@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01800003 Staphorst streek-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.237793,52.652127,0.000000
+            6.220377,52.645568,0.000000
+            6.219166,52.646311,0.000000
+            6.213021,52.650476,0.000000
+            6.210055,52.652931,0.000000
+            6.218592,52.656339,0.000000
+            6.232390,52.659611,0.000000
+            6.237793,52.652127,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

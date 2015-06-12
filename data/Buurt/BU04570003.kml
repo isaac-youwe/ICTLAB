@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04570003 Hogewey</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.024857,52.322709,0.000000
+            5.030732,52.321828,0.000000
+            5.030743,52.321830,0.000000
+            5.031604,52.318211,0.000000
+            5.036239,52.310302,0.000000
+            5.035969,52.308591,0.000000
+            5.026806,52.307800,0.000000
+            5.023309,52.304864,0.000000
+            5.021766,52.304369,0.000000
+            5.017514,52.323585,0.000000
+            5.020448,52.323594,0.000000
+            5.024857,52.322709,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

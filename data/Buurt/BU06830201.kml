@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830201 Go_nga</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.698254,53.054634,0.000000
+            5.697407,53.053085,0.000000
+            5.695869,53.053831,0.000000
+            5.689896,53.051005,0.000000
+            5.688500,53.052705,0.000000
+            5.688103,53.052886,0.000000
+            5.693460,53.056904,0.000000
+            5.695506,53.057387,0.000000
+            5.697413,53.056573,0.000000
+            5.698254,53.054634,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

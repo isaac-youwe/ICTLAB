@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00630101 Oude Bildtzijl</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.728588,53.298581,0.000000
+            5.707433,53.297702,0.000000
+            5.706786,53.301694,0.000000
+            5.713316,53.303585,0.000000
+            5.717327,53.309399,0.000000
+            5.719938,53.309398,0.000000
+            5.721666,53.304473,0.000000
+            5.727573,53.303481,0.000000
+            5.728452,53.302649,0.000000
+            5.728588,53.298581,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18830506 Oud-Geleen en Haesselderveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.847483,50.970178,0.000000
+            5.853105,50.967559,0.000000
+            5.852768,50.967613,0.000000
+            5.845614,50.964046,0.000000
+            5.845362,50.963785,0.000000
+            5.842067,50.965397,0.000000
+            5.831653,50.969785,0.000000
+            5.847020,50.983446,0.000000
+            5.852419,50.982177,0.000000
+            5.850946,50.976686,0.000000
+            5.847439,50.971848,0.000000
+            5.847483,50.970178,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

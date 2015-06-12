@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02430806 Weidewaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.610972,52.333374,0.000000
+            5.610808,52.330886,0.000000
+            5.602502,52.331701,0.000000
+            5.604566,52.334745,0.000000
+            5.608064,52.337409,0.000000
+            5.612135,52.336058,0.000000
+            5.613107,52.335665,0.000000
+            5.610972,52.333374,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

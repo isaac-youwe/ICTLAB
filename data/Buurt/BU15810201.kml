@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15810201 Breedeveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.421416,52.020695,0.000000
+            5.418901,52.019331,0.000000
+            5.416843,52.020315,0.000000
+            5.413511,52.029921,0.000000
+            5.415016,52.032909,0.000000
+            5.415890,52.034624,0.000000
+            5.418334,52.031606,0.000000
+            5.421766,52.023380,0.000000
+            5.421416,52.020695,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

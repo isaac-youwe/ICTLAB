@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01960011 Verspreide huizen Reimerswaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.103502,51.892303,0.000000
+            6.106393,51.891386,0.000000
+            6.115124,51.892231,0.000000
+            6.126702,51.889462,0.000000
+            6.136812,51.885802,0.000000
+            6.142239,51.878908,0.000000
+            6.138924,51.877217,0.000000
+            6.136079,51.877230,0.000000
+            6.130068,51.883679,0.000000
+            6.124038,51.885328,0.000000
+            6.121277,51.884571,0.000000
+            6.122239,51.883558,0.000000
+            6.119743,51.880510,0.000000
+            6.119885,51.878725,0.000000
+            6.113165,51.881296,0.000000
+            6.107767,51.880092,0.000000
+            6.106381,51.883895,0.000000
+            6.102891,51.887160,0.000000
+            6.100825,51.889332,0.000000
+            6.102825,51.892341,0.000000
+            6.103502,51.892303,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

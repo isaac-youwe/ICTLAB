@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320001 Bloemenwijk en industriegebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.878387,52.085934,0.000000
+            4.881730,52.082515,0.000000
+            4.887706,52.083940,0.000000
+            4.890415,52.085933,0.000000
+            4.891857,52.084703,0.000000
+            4.885756,52.081473,0.000000
+            4.878382,52.075120,0.000000
+            4.875979,52.076910,0.000000
+            4.878709,52.078673,0.000000
+            4.873165,52.086372,0.000000
+            4.874579,52.086664,0.000000
+            4.880602,52.087639,0.000000
+            4.878387,52.085934,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080300 Kalenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.968477,52.773910,0.000000
+            5.964455,52.770710,0.000000
+            5.954822,52.775125,0.000000
+            5.947391,52.776574,0.000000
+            5.943967,52.780107,0.000000
+            5.944549,52.781139,0.000000
+            5.946438,52.782096,0.000000
+            5.951923,52.779621,0.000000
+            5.957430,52.778871,0.000000
+            5.960882,52.777579,0.000000
+            5.963242,52.775429,0.000000
+            5.968477,52.773910,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

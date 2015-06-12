@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830300 Veegtes</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.190950,51.385565,0.000000
+            6.184874,51.380681,0.000000
+            6.182861,51.381930,0.000000
+            6.176728,51.386741,0.000000
+            6.172097,51.395759,0.000000
+            6.180680,51.394697,0.000000
+            6.192456,51.391278,0.000000
+            6.187388,51.387945,0.000000
+            6.190950,51.385565,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

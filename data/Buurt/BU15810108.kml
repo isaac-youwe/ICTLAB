@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15810108 Wildbaan-Dennenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.279586,52.041957,0.000000
+            5.277792,52.041069,0.000000
+            5.269491,52.044170,0.000000
+            5.264620,52.048988,0.000000
+            5.273887,52.054113,0.000000
+            5.276498,52.055288,0.000000
+            5.285181,52.050997,0.000000
+            5.282999,52.049940,0.000000
+            5.282511,52.045017,0.000000
+            5.279956,52.043603,0.000000
+            5.278213,52.042796,0.000000
+            5.279586,52.041957,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610201 Oudorp-Noord en Oudorp-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.787153,52.640656,0.000000
+            4.785847,52.639033,0.000000
+            4.788802,52.639048,0.000000
+            4.791757,52.639063,0.000000
+            4.790316,52.636359,0.000000
+            4.783003,52.630929,0.000000
+            4.778789,52.623017,0.000000
+            4.775198,52.624524,0.000000
+            4.772640,52.626806,0.000000
+            4.776803,52.629346,0.000000
+            4.777920,52.635749,0.000000
+            4.772441,52.637037,0.000000
+            4.769193,52.637616,0.000000
+            4.765877,52.637128,0.000000
+            4.765720,52.639724,0.000000
+            4.762527,52.643180,0.000000
+            4.769997,52.646662,0.000000
+            4.776123,52.643413,0.000000
+            4.787153,52.640656,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

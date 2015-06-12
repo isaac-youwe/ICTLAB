@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02620205 Verspreide huizen Groot Dochteren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.376436,52.182867,0.000000
+            6.379280,52.177535,0.000000
+            6.381823,52.175820,0.000000
+            6.383346,52.175892,0.000000
+            6.383448,52.171927,0.000000
+            6.389407,52.172968,0.000000
+            6.391345,52.169528,0.000000
+            6.383171,52.169687,0.000000
+            6.383029,52.166720,0.000000
+            6.330109,52.166086,0.000000
+            6.322277,52.170086,0.000000
+            6.324037,52.172774,0.000000
+            6.325732,52.174183,0.000000
+            6.326153,52.182990,0.000000
+            6.373592,52.181476,0.000000
+            6.376436,52.182867,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

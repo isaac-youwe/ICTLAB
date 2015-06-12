@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960907 De Donk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.325648,51.716557,0.000000
+            5.320573,51.714098,0.000000
+            5.316527,51.717583,0.000000
+            5.315010,51.720738,0.000000
+            5.325244,51.723464,0.000000
+            5.331728,51.720046,0.000000
+            5.332486,51.719659,0.000000
+            5.324755,51.717390,0.000000
+            5.325648,51.716557,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

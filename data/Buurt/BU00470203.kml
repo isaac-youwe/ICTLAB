@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00470203 Wildervanksterdallen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.890081,53.051259,0.000000
+            6.886943,53.050918,0.000000
+            6.884162,53.052168,0.000000
+            6.881864,53.054850,0.000000
+            6.882382,53.058244,0.000000
+            6.890272,53.067993,0.000000
+            6.896686,53.070193,0.000000
+            6.898712,53.068660,0.000000
+            6.889175,53.055593,0.000000
+            6.891347,53.052150,0.000000
+            6.890081,53.051259,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

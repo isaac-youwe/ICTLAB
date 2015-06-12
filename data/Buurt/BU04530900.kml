@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04530900 Noord Spaarndammerpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.679699,52.435832,0.000000
+            4.678370,52.430479,0.000000
+            4.677784,52.431100,0.000000
+            4.673661,52.435056,0.000000
+            4.670540,52.438065,0.000000
+            4.665858,52.442804,0.000000
+            4.664457,52.444278,0.000000
+            4.659496,52.449497,0.000000
+            4.657505,52.453959,0.000000
+            4.655846,52.458280,0.000000
+            4.662542,52.459151,0.000000
+            4.661657,52.461759,0.000000
+            4.661655,52.461759,0.000000
+            4.661899,52.462054,0.000000
+            4.675051,52.455054,0.000000
+            4.691299,52.447092,0.000000
+            4.679699,52.435832,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

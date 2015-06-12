@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610204 Oudorperpolder-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.769443,52.630142,0.000000
+            4.769014,52.628366,0.000000
+            4.758384,52.631082,0.000000
+            4.759580,52.632550,0.000000
+            4.758520,52.634422,0.000000
+            4.759982,52.636092,0.000000
+            4.762015,52.635472,0.000000
+            4.763658,52.634800,0.000000
+            4.761847,52.633103,0.000000
+            4.769443,52.630142,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

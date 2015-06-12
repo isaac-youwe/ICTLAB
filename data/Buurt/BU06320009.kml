@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320009 Molenvliet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.880482,52.068686,0.000000
+            4.873756,52.068657,0.000000
+            4.845194,52.069367,0.000000
+            4.852037,52.071109,0.000000
+            4.861627,52.075549,0.000000
+            4.865569,52.082039,0.000000
+            4.869043,52.081359,0.000000
+            4.875979,52.076910,0.000000
+            4.878382,52.075120,0.000000
+            4.879570,52.073797,0.000000
+            4.880482,52.068686,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770200 Heeten-Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.279511,52.341322,0.000000
+            6.280536,52.338556,0.000000
+            6.285198,52.338618,0.000000
+            6.289787,52.340022,0.000000
+            6.294522,52.336195,0.000000
+            6.289233,52.330835,0.000000
+            6.287518,52.322472,0.000000
+            6.284869,52.320875,0.000000
+            6.282426,52.325753,0.000000
+            6.276510,52.323591,0.000000
+            6.264882,52.327554,0.000000
+            6.264817,52.330919,0.000000
+            6.270696,52.338283,0.000000
+            6.272158,52.343151,0.000000
+            6.277034,52.342916,0.000000
+            6.279511,52.341322,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

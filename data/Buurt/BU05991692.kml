@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991692 Hoogvliet-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.387855,51.868247,0.000000
+            4.383900,51.861434,0.000000
+            4.383902,51.861345,0.000000
+            4.373466,51.862423,0.000000
+            4.353922,51.867858,0.000000
+            4.351794,51.865211,0.000000
+            4.353150,51.862670,0.000000
+            4.342373,51.860604,0.000000
+            4.339502,51.859425,0.000000
+            4.339096,51.859245,0.000000
+            4.338938,51.859243,0.000000
+            4.335909,51.864610,0.000000
+            4.335164,51.864604,0.000000
+            4.330459,51.871753,0.000000
+            4.347412,51.875566,0.000000
+            4.361719,51.877151,0.000000
+            4.384985,51.877905,0.000000
+            4.386377,51.874086,0.000000
+            4.386267,51.869275,0.000000
+            4.387855,51.868247,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03580100 Kudelstaart Kom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.748213,52.241437,0.000000
+            4.753892,52.237635,0.000000
+            4.757074,52.239106,0.000000
+            4.761891,52.235251,0.000000
+            4.742310,52.225633,0.000000
+            4.737235,52.229529,0.000000
+            4.744904,52.234303,0.000000
+            4.744833,52.236574,0.000000
+            4.748213,52.241437,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

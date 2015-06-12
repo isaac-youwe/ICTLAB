@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180501 Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.483863,52.731949,0.000000
+            6.483097,52.728996,0.000000
+            6.481023,52.729078,0.000000
+            6.475598,52.729291,0.000000
+            6.464678,52.729722,0.000000
+            6.470619,52.731772,0.000000
+            6.477362,52.736330,0.000000
+            6.479673,52.736997,0.000000
+            6.481701,52.736721,0.000000
+            6.478168,52.734974,0.000000
+            6.477850,52.732045,0.000000
+            6.483863,52.731949,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

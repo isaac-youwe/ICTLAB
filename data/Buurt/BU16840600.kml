@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16840600 Linden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.839247,51.750731,0.000000
+            5.837003,51.747513,0.000000
+            5.829359,51.747185,0.000000
+            5.827592,51.747347,0.000000
+            5.826786,51.748293,0.000000
+            5.819933,51.747937,0.000000
+            5.820262,51.748386,0.000000
+            5.820233,51.749583,0.000000
+            5.821893,51.750610,0.000000
+            5.833305,51.750384,0.000000
+            5.835531,51.751698,0.000000
+            5.839247,51.750731,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17000107 Verspreide huizen De Pollen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.677317,52.443879,0.000000
+            6.672826,52.441231,0.000000
+            6.674114,52.434925,0.000000
+            6.678316,52.427687,0.000000
+            6.673892,52.425077,0.000000
+            6.672985,52.425082,0.000000
+            6.673165,52.426217,0.000000
+            6.665177,52.426214,0.000000
+            6.665030,52.428854,0.000000
+            6.656537,52.427225,0.000000
+            6.654007,52.443123,0.000000
+            6.659946,52.442603,0.000000
+            6.673458,52.450015,0.000000
+            6.676132,52.450739,0.000000
+            6.688808,52.451479,0.000000
+            6.689472,52.447342,0.000000
+            6.689188,52.447345,0.000000
+            6.683279,52.446511,0.000000
+            6.677317,52.443879,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

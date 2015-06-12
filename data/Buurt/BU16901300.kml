@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16901300 De Wijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.299770,52.679821,0.000000
+            6.299835,52.674005,0.000000
+            6.306489,52.673903,0.000000
+            6.304112,52.671681,0.000000
+            6.291945,52.669165,0.000000
+            6.292411,52.668220,0.000000
+            6.284800,52.668846,0.000000
+            6.283940,52.668917,0.000000
+            6.281354,52.669571,0.000000
+            6.281343,52.670694,0.000000
+            6.278512,52.670777,0.000000
+            6.277379,52.671695,0.000000
+            6.281351,52.678370,0.000000
+            6.284050,52.678225,0.000000
+            6.285659,52.676690,0.000000
+            6.297211,52.678010,0.000000
+            6.297359,52.680152,0.000000
+            6.298754,52.680023,0.000000
+            6.299770,52.679821,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

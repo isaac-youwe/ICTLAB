@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09360102 Berg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.749440,50.834632,0.000000
+            5.746376,50.834636,0.000000
+            5.746379,50.834941,0.000000
+            5.743560,50.837647,0.000000
+            5.740728,50.838555,0.000000
+            5.740741,50.840353,0.000000
+            5.747840,50.840331,0.000000
+            5.748261,50.840436,0.000000
+            5.754954,50.842106,0.000000
+            5.757620,50.845441,0.000000
+            5.761378,50.845175,0.000000
+            5.758933,50.842254,0.000000
+            5.755349,50.838256,0.000000
+            5.749440,50.834632,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

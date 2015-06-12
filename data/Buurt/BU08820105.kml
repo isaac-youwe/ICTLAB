@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08820105 De Dormig</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.034896,50.899169,0.000000
+            6.035619,50.896358,0.000000
+            6.029262,50.896135,0.000000
+            6.025300,50.896798,0.000000
+            6.019920,50.896503,0.000000
+            6.017611,50.896250,0.000000
+            6.018009,50.899071,0.000000
+            6.026132,50.901309,0.000000
+            6.028647,50.902135,0.000000
+            6.030317,50.902545,0.000000
+            6.031082,50.901057,0.000000
+            6.034896,50.899169,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

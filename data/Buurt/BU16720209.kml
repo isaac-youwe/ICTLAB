@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16720209 Overig landelijk gebied Hazerswoude-Rijn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.624761,52.128437,0.000000
+            4.628463,52.121833,0.000000
+            4.630584,52.118048,0.000000
+            4.612884,52.115452,0.000000
+            4.611185,52.113711,0.000000
+            4.607814,52.112757,0.000000
+            4.601548,52.112449,0.000000
+            4.604363,52.124582,0.000000
+            4.584150,52.122005,0.000000
+            4.583747,52.123810,0.000000
+            4.595785,52.125149,0.000000
+            4.600425,52.125678,0.000000
+            4.624555,52.128608,0.000000
+            4.624641,52.128616,0.000000
+            4.624761,52.128437,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

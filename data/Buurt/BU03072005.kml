@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03072005 Architectenbuurt-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.397819,52.178427,0.000000
+            5.394837,52.178193,0.000000
+            5.394155,52.180439,0.000000
+            5.394317,52.182495,0.000000
+            5.397219,52.185106,0.000000
+            5.397662,52.184797,0.000000
+            5.399882,52.182641,0.000000
+            5.397735,52.180147,0.000000
+            5.397819,52.178427,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02850101 Twello-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.118460,52.233392,0.000000
+            6.118008,52.230460,0.000000
+            6.119762,52.228205,0.000000
+            6.104717,52.226613,0.000000
+            6.094847,52.226199,0.000000
+            6.091367,52.226804,0.000000
+            6.092427,52.229412,0.000000
+            6.097569,52.231886,0.000000
+            6.101434,52.233172,0.000000
+            6.101996,52.232728,0.000000
+            6.117134,52.235862,0.000000
+            6.118460,52.233392,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

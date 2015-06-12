@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03920303 Slachthuisbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.658590,52.375188,0.000000
+            4.653950,52.370259,0.000000
+            4.644085,52.370255,0.000000
+            4.639902,52.371394,0.000000
+            4.642577,52.373670,0.000000
+            4.641947,52.376290,0.000000
+            4.649200,52.376883,0.000000
+            4.649873,52.376696,0.000000
+            4.658590,52.375188,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

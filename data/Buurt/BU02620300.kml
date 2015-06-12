@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02620300 Barchem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.445338,52.122167,0.000000
+            6.445963,52.120307,0.000000
+            6.444724,52.119018,0.000000
+            6.443380,52.119001,0.000000
+            6.442681,52.120352,0.000000
+            6.441480,52.120091,0.000000
+            6.437088,52.123245,0.000000
+            6.438821,52.124981,0.000000
+            6.438147,52.128219,0.000000
+            6.442192,52.128220,0.000000
+            6.448024,52.127147,0.000000
+            6.450435,52.122967,0.000000
+            6.448727,52.122279,0.000000
+            6.445338,52.122167,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

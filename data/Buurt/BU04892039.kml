@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04892039 Vrijenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.509300,51.858409,0.000000
+            4.505247,51.857425,0.000000
+            4.501368,51.857416,0.000000
+            4.499919,51.856115,0.000000
+            4.494393,51.856708,0.000000
+            4.494878,51.864580,0.000000
+            4.497301,51.864927,0.000000
+            4.515589,51.865482,0.000000
+            4.515673,51.863288,0.000000
+            4.509203,51.861916,0.000000
+            4.509300,51.858409,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

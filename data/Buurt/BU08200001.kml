@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08200001 Nuenen-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.559149,51.460326,0.000000
+            5.543463,51.456762,0.000000
+            5.542434,51.461805,0.000000
+            5.534639,51.461906,0.000000
+            5.532093,51.463884,0.000000
+            5.531365,51.467832,0.000000
+            5.535041,51.468380,0.000000
+            5.546034,51.470286,0.000000
+            5.555111,51.470732,0.000000
+            5.558377,51.468523,0.000000
+            5.559000,51.463977,0.000000
+            5.559149,51.460326,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

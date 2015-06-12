@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00980302 Langelille</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.856380,52.842405,0.000000
+            5.853944,52.837002,0.000000
+            5.850748,52.837464,0.000000
+            5.835641,52.839498,0.000000
+            5.839692,52.845124,0.000000
+            5.839975,52.845517,0.000000
+            5.840103,52.845893,0.000000
+            5.847479,52.844675,0.000000
+            5.847956,52.842604,0.000000
+            5.856380,52.842405,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

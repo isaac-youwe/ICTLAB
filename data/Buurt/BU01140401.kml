@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140401 Scholtenskanaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.006822,52.773146,0.000000
+            7.005792,52.764188,0.000000
+            7.004457,52.764246,0.000000
+            7.003400,52.754326,0.000000
+            7.000362,52.754455,0.000000
+            6.998221,52.741834,0.000000
+            6.996450,52.741919,0.000000
+            7.000764,52.778714,0.000000
+            7.004118,52.778776,0.000000
+            7.003856,52.776524,0.000000
+            7.005857,52.776431,0.000000
+            7.005465,52.773200,0.000000
+            7.006822,52.773146,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

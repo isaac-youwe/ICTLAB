@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480401 Barnflair</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.104104,52.863682,0.000000
+            7.087214,52.849541,0.000000
+            7.088663,52.848622,0.000000
+            7.088738,52.848439,0.000000
+            7.082878,52.851343,0.000000
+            7.082042,52.851404,0.000000
+            7.081969,52.849950,0.000000
+            7.076200,52.850738,0.000000
+            7.074309,52.855437,0.000000
+            7.076313,52.857376,0.000000
+            7.076333,52.858969,0.000000
+            7.081575,52.858832,0.000000
+            7.081195,52.863750,0.000000
+            7.082564,52.863104,0.000000
+            7.097349,52.862708,0.000000
+            7.104391,52.863973,0.000000
+            7.104104,52.863682,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

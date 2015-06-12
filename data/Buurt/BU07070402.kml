@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07070402 Kortenhoeven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.039294,51.977572,0.000000
+            5.048034,51.976699,0.000000
+            5.053857,51.976716,0.000000
+            5.063952,51.964385,0.000000
+            5.064137,51.964159,0.000000
+            5.058342,51.960547,0.000000
+            5.054017,51.955142,0.000000
+            5.054662,51.955040,0.000000
+            5.051817,51.950883,0.000000
+            5.037964,51.958538,0.000000
+            5.042540,51.961478,0.000000
+            5.047441,51.966481,0.000000
+            5.045204,51.968420,0.000000
+            5.039523,51.965413,0.000000
+            5.030280,51.966939,0.000000
+            5.029303,51.968579,0.000000
+            5.033535,51.969465,0.000000
+            5.036431,51.971271,0.000000
+            5.037866,51.973972,0.000000
+            5.039294,51.977572,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770100 Industriegebied De Zegge I en II</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.279860,52.383759,0.000000
+            6.287195,52.382740,0.000000
+            6.294597,52.383504,0.000000
+            6.299078,52.383515,0.000000
+            6.296355,52.382242,0.000000
+            6.295230,52.381717,0.000000
+            6.297885,52.380363,0.000000
+            6.296359,52.378552,0.000000
+            6.294724,52.377382,0.000000
+            6.292395,52.377905,0.000000
+            6.286922,52.377067,0.000000
+            6.281905,52.372689,0.000000
+            6.277631,52.372834,0.000000
+            6.278285,52.377223,0.000000
+            6.279667,52.382762,0.000000
+            6.279860,52.383759,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02030003 Barneveld-Zuidwest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.585816,52.137477,0.000000
+            5.580843,52.128738,0.000000
+            5.571059,52.130752,0.000000
+            5.568926,52.132686,0.000000
+            5.570161,52.132918,0.000000
+            5.568265,52.137511,0.000000
+            5.573535,52.136231,0.000000
+            5.581659,52.138383,0.000000
+            5.582413,52.137629,0.000000
+            5.585816,52.137477,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

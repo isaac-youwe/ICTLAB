@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09174101 Giezenveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.010160,50.877422,0.000000
+            6.007107,50.874212,0.000000
+            6.006487,50.871631,0.000000
+            5.998877,50.868138,0.000000
+            5.993310,50.873008,0.000000
+            5.997916,50.875505,0.000000
+            5.998998,50.874450,0.000000
+            6.000796,50.874590,0.000000
+            6.009605,50.878432,0.000000
+            6.009617,50.878438,0.000000
+            6.010619,50.877905,0.000000
+            6.010160,50.877422,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

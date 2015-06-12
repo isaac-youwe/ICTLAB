@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15980701 Wogmeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.917864,52.642747,0.000000
+            4.916902,52.641828,0.000000
+            4.907584,52.642590,0.000000
+            4.902346,52.642086,0.000000
+            4.897454,52.643218,0.000000
+            4.895758,52.645310,0.000000
+            4.894189,52.647680,0.000000
+            4.894246,52.650104,0.000000
+            4.896364,52.653988,0.000000
+            4.898144,52.655747,0.000000
+            4.902545,52.656960,0.000000
+            4.909548,52.660386,0.000000
+            4.910448,52.661715,0.000000
+            4.917135,52.663316,0.000000
+            4.934417,52.647160,0.000000
+            4.928421,52.644124,0.000000
+            4.926525,52.643167,0.000000
+            4.917864,52.642747,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

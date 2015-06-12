@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03550406 Austerlitz</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.322289,52.080084,0.000000
+            5.317785,52.076093,0.000000
+            5.311573,52.077240,0.000000
+            5.309633,52.076333,0.000000
+            5.309962,52.080908,0.000000
+            5.301013,52.085179,0.000000
+            5.301470,52.087417,0.000000
+            5.318134,52.081824,0.000000
+            5.320458,52.081748,0.000000
+            5.322289,52.080084,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

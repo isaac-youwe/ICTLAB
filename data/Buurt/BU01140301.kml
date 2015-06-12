@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140301 Emmer-Erfscheidenveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.027338,52.820163,0.000000
+            7.029452,52.812597,0.000000
+            7.031811,52.812832,0.000000
+            7.032384,52.808528,0.000000
+            7.031460,52.807711,0.000000
+            7.017967,52.806720,0.000000
+            7.015216,52.806207,0.000000
+            6.990087,52.803635,0.000000
+            6.990298,52.798949,0.000000
+            6.987314,52.798899,0.000000
+            6.984276,52.800293,0.000000
+            6.984141,52.803389,0.000000
+            6.960289,52.800959,0.000000
+            6.957990,52.803017,0.000000
+            6.957370,52.805231,0.000000
+            7.026208,52.812218,0.000000
+            7.024092,52.819830,0.000000
+            7.027338,52.820163,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

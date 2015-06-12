@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06530001 Sloten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.651258,52.899512,0.000000
+            5.652838,52.898146,0.000000
+            5.654223,52.898585,0.000000
+            5.656210,52.896403,0.000000
+            5.656253,52.896355,0.000000
+            5.648123,52.893975,0.000000
+            5.647763,52.892136,0.000000
+            5.649457,52.889788,0.000000
+            5.646898,52.889161,0.000000
+            5.644065,52.892465,0.000000
+            5.642324,52.893197,0.000000
+            5.640892,52.892937,0.000000
+            5.639839,52.894371,0.000000
+            5.644177,52.896680,0.000000
+            5.648465,52.896762,0.000000
+            5.649395,52.898849,0.000000
+            5.651258,52.899512,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

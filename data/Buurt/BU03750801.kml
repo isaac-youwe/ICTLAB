@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03750801 Industriegebied Hoogovens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.627579,52.483218,0.000000
+            4.635684,52.482128,0.000000
+            4.638480,52.479911,0.000000
+            4.637843,52.479993,0.000000
+            4.634899,52.479975,0.000000
+            4.634773,52.479974,0.000000
+            4.627538,52.479928,0.000000
+            4.623091,52.481697,0.000000
+            4.617187,52.482558,0.000000
+            4.609858,52.480712,0.000000
+            4.599473,52.485138,0.000000
+            4.596667,52.485971,0.000000
+            4.605589,52.489740,0.000000
+            4.606187,52.494780,0.000000
+            4.606170,52.494920,0.000000
+            4.606659,52.495073,0.000000
+            4.619866,52.497856,0.000000
+            4.631302,52.498628,0.000000
+            4.631862,52.496354,0.000000
+            4.628923,52.487956,0.000000
+            4.627579,52.483218,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08230004 Snepseind en Bijsterveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.335840,51.515550,0.000000
+            5.336698,51.504932,0.000000
+            5.329123,51.505077,0.000000
+            5.328482,51.507430,0.000000
+            5.326097,51.508799,0.000000
+            5.324019,51.511553,0.000000
+            5.321298,51.512200,0.000000
+            5.318394,51.511215,0.000000
+            5.317436,51.513005,0.000000
+            5.315193,51.512779,0.000000
+            5.312481,51.515260,0.000000
+            5.318451,51.519067,0.000000
+            5.339477,51.526422,0.000000
+            5.346225,51.528097,0.000000
+            5.354057,51.523645,0.000000
+            5.354059,51.521417,0.000000
+            5.351179,51.517820,0.000000
+            5.350136,51.517169,0.000000
+            5.335840,51.515550,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

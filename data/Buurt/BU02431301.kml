@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02431301 Lorentz</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.643458,52.356104,0.000000
+            5.636156,52.351818,0.000000
+            5.630406,52.354733,0.000000
+            5.626650,52.357265,0.000000
+            5.629453,52.358970,0.000000
+            5.632404,52.361661,0.000000
+            5.640603,52.366022,0.000000
+            5.650436,52.359744,0.000000
+            5.648441,52.358538,0.000000
+            5.643458,52.356104,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01800308 Verspreide huizen Heidehoogten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.195987,52.646823,0.000000
+            6.182046,52.640183,0.000000
+            6.171072,52.648494,0.000000
+            6.166683,52.649440,0.000000
+            6.180925,52.656435,0.000000
+            6.198794,52.658072,0.000000
+            6.200886,52.649321,0.000000
+            6.195987,52.646823,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

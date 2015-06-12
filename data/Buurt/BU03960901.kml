@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03960901 Waterakkers</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.662899,52.507415,0.000000
+            4.666725,52.504845,0.000000
+            4.668896,52.503090,0.000000
+            4.665619,52.501643,0.000000
+            4.665461,52.501738,0.000000
+            4.657282,52.499179,0.000000
+            4.657082,52.499117,0.000000
+            4.656063,52.501139,0.000000
+            4.654437,52.507336,0.000000
+            4.659910,52.506705,0.000000
+            4.662565,52.507455,0.000000
+            4.662899,52.507415,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15250100 Voorhout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.486607,52.217725,0.000000
+            4.484370,52.216773,0.000000
+            4.483111,52.217195,0.000000
+            4.459505,52.204245,0.000000
+            4.458084,52.206349,0.000000
+            4.456602,52.207236,0.000000
+            4.463806,52.212686,0.000000
+            4.465232,52.214495,0.000000
+            4.463731,52.216281,0.000000
+            4.470974,52.219934,0.000000
+            4.470937,52.221731,0.000000
+            4.466491,52.224393,0.000000
+            4.466472,52.225292,0.000000
+            4.478034,52.232573,0.000000
+            4.487187,52.238976,0.000000
+            4.482794,52.232635,0.000000
+            4.482893,52.228085,0.000000
+            4.484655,52.222924,0.000000
+            4.486607,52.217725,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

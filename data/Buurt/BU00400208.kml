@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00400208 Verspreide huizen in het Siddebuursterveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.909066,53.233959,0.000000
+            6.913241,53.224918,0.000000
+            6.901170,53.222374,0.000000
+            6.893716,53.223367,0.000000
+            6.884828,53.226174,0.000000
+            6.875690,53.221794,0.000000
+            6.860567,53.217487,0.000000
+            6.860124,53.217360,0.000000
+            6.860127,53.225063,0.000000
+            6.849209,53.239381,0.000000
+            6.868401,53.244346,0.000000
+            6.877549,53.245250,0.000000
+            6.878448,53.245388,0.000000
+            6.881196,53.243177,0.000000
+            6.909152,53.236406,0.000000
+            6.909066,53.233959,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

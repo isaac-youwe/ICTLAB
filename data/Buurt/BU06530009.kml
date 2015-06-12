@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06530009 Verspreide huizen Sondel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.644119,52.862277,0.000000
+            5.644108,52.860480,0.000000
+            5.641138,52.860486,0.000000
+            5.635188,52.858701,0.000000
+            5.623284,52.854231,0.000000
+            5.618811,52.850645,0.000000
+            5.614362,52.851552,0.000000
+            5.613479,52.851613,0.000000
+            5.598440,52.859038,0.000000
+            5.594109,52.861960,0.000000
+            5.588334,52.859769,0.000000
+            5.582251,52.861656,0.000000
+            5.598776,52.867660,0.000000
+            5.610456,52.879027,0.000000
+            5.621853,52.874666,0.000000
+            5.641229,52.869380,0.000000
+            5.644119,52.862277,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

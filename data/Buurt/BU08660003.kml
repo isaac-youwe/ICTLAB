@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08660003 Ekenrooi</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.498535,51.399840,0.000000
+            5.498616,51.397530,0.000000
+            5.494494,51.397779,0.000000
+            5.494544,51.393516,0.000000
+            5.491688,51.394335,0.000000
+            5.492059,51.391190,0.000000
+            5.488720,51.390598,0.000000
+            5.487789,51.391507,0.000000
+            5.485213,51.391497,0.000000
+            5.482310,51.393596,0.000000
+            5.480104,51.398399,0.000000
+            5.480546,51.401846,0.000000
+            5.490404,51.401728,0.000000
+            5.498535,51.399840,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

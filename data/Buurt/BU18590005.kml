@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590005 Haarlo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.587347,52.112602,0.000000
+            6.586622,52.111293,0.000000
+            6.584403,52.111694,0.000000
+            6.580313,52.110847,0.000000
+            6.577269,52.112512,0.000000
+            6.576538,52.114283,0.000000
+            6.584091,52.114358,0.000000
+            6.587347,52.112602,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

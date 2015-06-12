@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180591 Verspreide huizen Stuifzand</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.502971,52.769271,0.000000
+            6.503111,52.769248,0.000000
+            6.507556,52.769206,0.000000
+            6.513298,52.761962,0.000000
+            6.513088,52.761919,0.000000
+            6.526359,52.743508,0.000000
+            6.520317,52.741494,0.000000
+            6.503239,52.735714,0.000000
+            6.499733,52.737795,0.000000
+            6.479933,52.739926,0.000000
+            6.486560,52.758039,0.000000
+            6.491315,52.771154,0.000000
+            6.502971,52.769271,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.495464,52.747207,0.000000
+            6.498087,52.744811,0.000000
+            6.509820,52.752128,0.000000
+            6.504852,52.753720,0.000000
+            6.495464,52.747207,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

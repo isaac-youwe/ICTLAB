@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01960003 Herwen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.100477,51.882883,0.000000
+            6.100517,51.881436,0.000000
+            6.097362,51.881514,0.000000
+            6.096661,51.882720,0.000000
+            6.095596,51.882451,0.000000
+            6.093564,51.883370,0.000000
+            6.097627,51.886290,0.000000
+            6.102891,51.887160,0.000000
+            6.106381,51.883895,0.000000
+            6.100477,51.882883,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

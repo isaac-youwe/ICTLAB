@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08400400 Zegge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.519682,51.553664,0.000000
+            4.514093,51.552732,0.000000
+            4.512423,51.554144,0.000000
+            4.512939,51.558868,0.000000
+            4.514808,51.560106,0.000000
+            4.515110,51.563002,0.000000
+            4.519807,51.562057,0.000000
+            4.519109,51.559262,0.000000
+            4.520726,51.558792,0.000000
+            4.521028,51.556100,0.000000
+            4.520080,51.555247,0.000000
+            4.519682,51.553664,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

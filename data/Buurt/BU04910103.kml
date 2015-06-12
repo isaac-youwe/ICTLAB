@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04910103 Bovenstad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.820224,51.940308,0.000000
+            4.821734,51.938521,0.000000
+            4.829191,51.940295,0.000000
+            4.831552,51.939381,0.000000
+            4.831605,51.939019,0.000000
+            4.817277,51.928222,0.000000
+            4.817199,51.928163,0.000000
+            4.814313,51.926351,0.000000
+            4.813782,51.926128,0.000000
+            4.810839,51.933303,0.000000
+            4.808215,51.932377,0.000000
+            4.807137,51.936859,0.000000
+            4.811825,51.937999,0.000000
+            4.820224,51.940308,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

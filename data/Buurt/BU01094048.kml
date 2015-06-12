@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01094048 De Kiel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.751226,52.858279,0.000000
+            6.744232,52.856198,0.000000
+            6.741961,52.861044,0.000000
+            6.743874,52.863331,0.000000
+            6.750958,52.865156,0.000000
+            6.752078,52.863735,0.000000
+            6.752060,52.863180,0.000000
+            6.752051,52.862890,0.000000
+            6.748709,52.862077,0.000000
+            6.751226,52.858279,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

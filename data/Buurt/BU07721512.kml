@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721512 Prinsejagt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.459624,51.464011,0.000000
+            5.454308,51.461878,0.000000
+            5.449847,51.466434,0.000000
+            5.454243,51.470130,0.000000
+            5.453497,51.471681,0.000000
+            5.454244,51.472415,0.000000
+            5.460170,51.474826,0.000000
+            5.468002,51.467382,0.000000
+            5.467191,51.466949,0.000000
+            5.459624,51.464011,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

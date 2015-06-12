@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05690302 Papenveer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.734256,52.206629,0.000000
+            4.738686,52.195601,0.000000
+            4.738812,52.193881,0.000000
+            4.733844,52.188480,0.000000
+            4.738531,52.186218,0.000000
+            4.731924,52.178227,0.000000
+            4.727239,52.177986,0.000000
+            4.716618,52.177574,0.000000
+            4.703362,52.184663,0.000000
+            4.723666,52.195233,0.000000
+            4.725824,52.198654,0.000000
+            4.719885,52.201876,0.000000
+            4.720067,52.201827,0.000000
+            4.722859,52.210832,0.000000
+            4.723224,52.210947,0.000000
+            4.725772,52.211748,0.000000
+            4.734256,52.206629,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

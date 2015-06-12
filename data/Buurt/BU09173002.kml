@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09173002 In de Cramer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.966343,50.893137,0.000000
+            5.972955,50.891369,0.000000
+            5.972588,50.890528,0.000000
+            5.960419,50.892737,0.000000
+            5.958015,50.892114,0.000000
+            5.950320,50.895223,0.000000
+            5.954400,50.896348,0.000000
+            5.959450,50.895477,0.000000
+            5.966343,50.893137,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

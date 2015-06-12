@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480008 Verspreide huizen ten oosten van Ruiten A-kanaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.173185,52.986976,0.000000
+            7.200978,52.981542,0.000000
+            7.181578,52.941649,0.000000
+            7.150562,52.910648,0.000000
+            7.150168,52.910251,0.000000
+            7.125749,52.912670,0.000000
+            7.129500,52.920954,0.000000
+            7.128675,52.921331,0.000000
+            7.158492,52.932645,0.000000
+            7.163846,52.944131,0.000000
+            7.167865,52.965832,0.000000
+            7.163541,52.987061,0.000000
+            7.172643,52.986409,0.000000
+            7.173185,52.986976,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

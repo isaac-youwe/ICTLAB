@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17311500 Orvelte</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.662746,52.842152,0.000000
+            6.663989,52.840923,0.000000
+            6.651818,52.842699,0.000000
+            6.651828,52.843916,0.000000
+            6.656101,52.844038,0.000000
+            6.659508,52.844989,0.000000
+            6.660840,52.846284,0.000000
+            6.662331,52.846271,0.000000
+            6.665913,52.844988,0.000000
+            6.662746,52.842152,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

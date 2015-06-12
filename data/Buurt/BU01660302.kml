@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01660302 Industrieterrein IJsselmuiden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.940966,52.547562,0.000000
+            5.932376,52.542095,0.000000
+            5.928297,52.547119,0.000000
+            5.926299,52.552180,0.000000
+            5.920504,52.558749,0.000000
+            5.922033,52.559656,0.000000
+            5.922465,52.559582,0.000000
+            5.942320,52.556292,0.000000
+            5.940063,52.551837,0.000000
+            5.946304,52.548548,0.000000
+            5.940966,52.547562,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

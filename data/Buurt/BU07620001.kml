@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07620001 Sint Jozefparochie</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.794640,51.446125,0.000000
+            5.779218,51.445022,0.000000
+            5.774746,51.450042,0.000000
+            5.773621,51.457063,0.000000
+            5.777800,51.456664,0.000000
+            5.782205,51.454837,0.000000
+            5.789406,51.454665,0.000000
+            5.791331,51.454001,0.000000
+            5.794356,51.448819,0.000000
+            5.794640,51.446125,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

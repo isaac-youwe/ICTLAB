@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03210103 De Lobben</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.164715,52.033902,0.000000
+            5.167377,52.031804,0.000000
+            5.169270,52.032160,0.000000
+            5.169680,52.031552,0.000000
+            5.163617,52.029472,0.000000
+            5.161805,52.029645,0.000000
+            5.163266,52.033999,0.000000
+            5.164715,52.033902,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00390001 Eexta</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.952810,53.175134,0.000000
+            6.964577,53.173920,0.000000
+            6.974405,53.174302,0.000000
+            6.980428,53.172525,0.000000
+            6.978883,53.171581,0.000000
+            6.979410,53.169291,0.000000
+            6.976332,53.166450,0.000000
+            6.972816,53.168298,0.000000
+            6.968054,53.169166,0.000000
+            6.952849,53.167968,0.000000
+            6.952223,53.170283,0.000000
+            6.954306,53.170606,0.000000
+            6.952810,53.175134,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

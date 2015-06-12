@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02960003 Balgoy</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.717625,51.779643,0.000000
+            5.713251,51.776404,0.000000
+            5.710781,51.776592,0.000000
+            5.708255,51.777356,0.000000
+            5.712742,51.780642,0.000000
+            5.707676,51.780718,0.000000
+            5.706020,51.781841,0.000000
+            5.716238,51.785225,0.000000
+            5.715861,51.787343,0.000000
+            5.713128,51.787831,0.000000
+            5.714360,51.790077,0.000000
+            5.720010,51.789197,0.000000
+            5.722495,51.784610,0.000000
+            5.716502,51.779907,0.000000
+            5.717625,51.779643,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

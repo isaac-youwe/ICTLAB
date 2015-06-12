@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180603 Verspreide huizen Pesse-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.486560,52.758039,0.000000
+            6.479933,52.739926,0.000000
+            6.475115,52.740169,0.000000
+            6.465458,52.738960,0.000000
+            6.464554,52.741089,0.000000
+            6.455651,52.753444,0.000000
+            6.464988,52.756657,0.000000
+            6.465836,52.755598,0.000000
+            6.472423,52.760331,0.000000
+            6.486560,52.758039,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

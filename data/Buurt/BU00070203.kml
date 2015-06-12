@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00070203 Wedderheide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.104943,53.065717,0.000000
+            7.102929,53.061445,0.000000
+            7.089331,53.056260,0.000000
+            7.086384,53.057201,0.000000
+            7.086524,53.060795,0.000000
+            7.080594,53.061777,0.000000
+            7.077681,53.063616,0.000000
+            7.077244,53.063783,0.000000
+            7.079939,53.063542,0.000000
+            7.079701,53.065982,0.000000
+            7.085031,53.066383,0.000000
+            7.084575,53.067748,0.000000
+            7.103213,53.068898,0.000000
+            7.103817,53.067787,0.000000
+            7.104943,53.065717,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

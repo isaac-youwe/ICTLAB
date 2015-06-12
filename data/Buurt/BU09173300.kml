@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09173300 Heerlen-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.986023,50.886496,0.000000
+            5.981162,50.885244,0.000000
+            5.980490,50.885851,0.000000
+            5.975882,50.885141,0.000000
+            5.975193,50.886010,0.000000
+            5.973148,50.888569,0.000000
+            5.971801,50.888789,0.000000
+            5.972588,50.890528,0.000000
+            5.972955,50.891369,0.000000
+            5.980166,50.889859,0.000000
+            5.983917,50.889721,0.000000
+            5.986023,50.886496,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

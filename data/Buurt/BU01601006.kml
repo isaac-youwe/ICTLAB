@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01601006 Verspreide huizen Anevelde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.657484,52.599418,0.000000
+            6.657677,52.597267,0.000000
+            6.655651,52.594522,0.000000
+            6.650191,52.592765,0.000000
+            6.633964,52.594221,0.000000
+            6.632524,52.593381,0.000000
+            6.634854,52.591589,0.000000
+            6.632503,52.588400,0.000000
+            6.631213,52.589043,0.000000
+            6.630623,52.591186,0.000000
+            6.624702,52.590312,0.000000
+            6.624126,52.590921,0.000000
+            6.621013,52.595345,0.000000
+            6.620897,52.598900,0.000000
+            6.621839,52.599428,0.000000
+            6.632413,52.599294,0.000000
+            6.654077,52.605372,0.000000
+            6.657484,52.599418,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

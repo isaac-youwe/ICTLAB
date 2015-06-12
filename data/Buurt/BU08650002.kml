@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08650002 Loyola en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.288062,51.675575,0.000000
+            5.289366,51.675001,0.000000
+            5.289896,51.675563,0.000000
+            5.291772,51.674206,0.000000
+            5.291880,51.674099,0.000000
+            5.290023,51.668453,0.000000
+            5.291245,51.660466,0.000000
+            5.286316,51.655694,0.000000
+            5.282562,51.662134,0.000000
+            5.281488,51.664738,0.000000
+            5.285993,51.668286,0.000000
+            5.280608,51.669202,0.000000
+            5.286241,51.672577,0.000000
+            5.285486,51.673919,0.000000
+            5.286368,51.675165,0.000000
+            5.288062,51.675575,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

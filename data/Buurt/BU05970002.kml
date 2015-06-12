@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05970002 Ridderkerk-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.590902,51.870787,0.000000
+            4.592935,51.868030,0.000000
+            4.588980,51.866517,0.000000
+            4.584911,51.868089,0.000000
+            4.583002,51.866676,0.000000
+            4.570848,51.874566,0.000000
+            4.577966,51.878076,0.000000
+            4.580756,51.886063,0.000000
+            4.589573,51.882724,0.000000
+            4.597062,51.877618,0.000000
+            4.591563,51.875314,0.000000
+            4.591954,51.871672,0.000000
+            4.590902,51.870787,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

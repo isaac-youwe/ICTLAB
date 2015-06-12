@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04200000 Oude Stad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.120267,52.770669,0.000000
+            5.110161,52.767078,0.000000
+            5.108591,52.768693,0.000000
+            5.104017,52.768790,0.000000
+            5.102248,52.767881,0.000000
+            5.099132,52.767356,0.000000
+            5.094024,52.769767,0.000000
+            5.099686,52.773229,0.000000
+            5.099759,52.773244,0.000000
+            5.104126,52.774138,0.000000
+            5.107085,52.775044,0.000000
+            5.113019,52.774159,0.000000
+            5.120267,52.770669,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

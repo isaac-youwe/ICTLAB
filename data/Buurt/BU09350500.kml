@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350500 Beatrixhaven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.720124,50.872662,0.000000
+            5.716628,50.869451,0.000000
+            5.701123,50.873997,0.000000
+            5.702390,50.877582,0.000000
+            5.709262,50.886343,0.000000
+            5.713396,50.891665,0.000000
+            5.720456,50.883155,0.000000
+            5.719183,50.880039,0.000000
+            5.726733,50.876139,0.000000
+            5.720124,50.872662,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

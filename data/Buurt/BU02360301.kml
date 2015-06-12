@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02360301 Tricht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.275764,51.889924,0.000000
+            5.278179,51.888912,0.000000
+            5.277097,51.888109,0.000000
+            5.274773,51.889297,0.000000
+            5.274052,51.888956,0.000000
+            5.268475,51.887541,0.000000
+            5.264821,51.885043,0.000000
+            5.261298,51.888262,0.000000
+            5.262627,51.890367,0.000000
+            5.261262,51.892711,0.000000
+            5.261722,51.894121,0.000000
+            5.276438,51.891535,0.000000
+            5.275764,51.889924,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

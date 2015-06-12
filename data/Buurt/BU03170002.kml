@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03170002 Laarderweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.263549,52.253074,0.000000
+            5.261957,52.249563,0.000000
+            5.251698,52.251242,0.000000
+            5.243560,52.252050,0.000000
+            5.243666,52.252165,0.000000
+            5.243658,52.254745,0.000000
+            5.243658,52.254862,0.000000
+            5.244989,52.255682,0.000000
+            5.250767,52.255084,0.000000
+            5.256255,52.254794,0.000000
+            5.259020,52.253384,0.000000
+            5.263549,52.253074,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

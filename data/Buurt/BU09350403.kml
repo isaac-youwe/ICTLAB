@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350403 Nazareth</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.717600,50.862401,0.000000
+            5.713138,50.858501,0.000000
+            5.707439,50.859889,0.000000
+            5.716628,50.869451,0.000000
+            5.720124,50.872662,0.000000
+            5.726733,50.876139,0.000000
+            5.735218,50.878610,0.000000
+            5.734394,50.876066,0.000000
+            5.727230,50.868613,0.000000
+            5.717600,50.862401,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05051802 2e Merwedehaven en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.708556,51.823294,0.000000
+            4.730042,51.822529,0.000000
+            4.741647,51.822594,0.000000
+            4.741711,51.822587,0.000000
+            4.741977,51.816018,0.000000
+            4.731114,51.814588,0.000000
+            4.723766,51.815346,0.000000
+            4.715593,51.816174,0.000000
+            4.709471,51.817199,0.000000
+            4.708398,51.818527,0.000000
+            4.708556,51.823294,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

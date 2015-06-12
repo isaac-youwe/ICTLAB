@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02260009 Verspreide huizen De Jezu_etenwaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.022626,51.921383,0.000000
+            6.026934,51.918815,0.000000
+            6.030382,51.918288,0.000000
+            6.037874,51.914806,0.000000
+            6.036982,51.914264,0.000000
+            6.034062,51.913382,0.000000
+            6.026833,51.916118,0.000000
+            6.020405,51.916153,0.000000
+            6.019565,51.916157,0.000000
+            6.007924,51.915320,0.000000
+            6.002085,51.913553,0.000000
+            5.997768,51.913131,0.000000
+            5.997022,51.917626,0.000000
+            5.998855,51.918151,0.000000
+            6.003074,51.917014,0.000000
+            6.007597,51.917050,0.000000
+            6.015153,51.920658,0.000000
+            6.017259,51.920349,0.000000
+            6.022626,51.921383,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

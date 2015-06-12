@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340699 Verspreide Huizen Almere-Pampus</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.172316,52.374160,0.000000
+            5.170010,52.365467,0.000000
+            5.164239,52.365420,0.000000
+            5.161656,52.366196,0.000000
+            5.155824,52.365149,0.000000
+            5.133142,52.357550,0.000000
+            5.131703,52.365235,0.000000
+            5.122833,52.375103,0.000000
+            5.122807,52.379597,0.000000
+            5.128661,52.383205,0.000000
+            5.156520,52.393150,0.000000
+            5.159445,52.395853,0.000000
+            5.159450,52.395865,0.000000
+            5.176239,52.377964,0.000000
+            5.172316,52.374160,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

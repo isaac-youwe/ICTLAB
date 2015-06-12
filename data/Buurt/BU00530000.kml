@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00530000 Winsum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.519784,53.332954,0.000000
+            6.520786,53.328603,0.000000
+            6.524496,53.323115,0.000000
+            6.522124,53.322646,0.000000
+            6.519691,53.323249,0.000000
+            6.514311,53.323088,0.000000
+            6.513635,53.325733,0.000000
+            6.510091,53.325580,0.000000
+            6.509972,53.328147,0.000000
+            6.507488,53.328171,0.000000
+            6.507927,53.332846,0.000000
+            6.516488,53.331874,0.000000
+            6.519784,53.332954,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680209 Ooyse Schependom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.880679,51.844907,0.000000
+            5.881810,51.844374,0.000000
+            5.875885,51.845870,0.000000
+            5.873025,51.848119,0.000000
+            5.871149,51.851499,0.000000
+            5.876550,51.853644,0.000000
+            5.881759,51.859285,0.000000
+            5.886644,51.859265,0.000000
+            5.888066,51.856562,0.000000
+            5.885093,51.850282,0.000000
+            5.886534,51.849377,0.000000
+            5.885063,51.847585,0.000000
+            5.880679,51.844907,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

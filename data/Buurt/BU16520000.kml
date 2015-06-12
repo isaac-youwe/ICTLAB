@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16520000 Gemert-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.676951,51.562288,0.000000
+            5.682457,51.558230,0.000000
+            5.684301,51.558808,0.000000
+            5.692225,51.557436,0.000000
+            5.690823,51.554724,0.000000
+            5.694214,51.550060,0.000000
+            5.693721,51.547324,0.000000
+            5.689410,51.546009,0.000000
+            5.687799,51.547286,0.000000
+            5.684020,51.548187,0.000000
+            5.677547,51.546570,0.000000
+            5.676538,51.547718,0.000000
+            5.676412,51.551345,0.000000
+            5.674524,51.552442,0.000000
+            5.674080,51.553854,0.000000
+            5.674629,51.557981,0.000000
+            5.676230,51.559852,0.000000
+            5.675387,51.561564,0.000000
+            5.676951,51.562288,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

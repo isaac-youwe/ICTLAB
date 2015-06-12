@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08820204 Lauradorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.043792,50.908995,0.000000
+            6.043078,50.906728,0.000000
+            6.035056,50.912142,0.000000
+            6.039216,50.912991,0.000000
+            6.041233,50.915468,0.000000
+            6.044298,50.916635,0.000000
+            6.045897,50.916824,0.000000
+            6.049386,50.912521,0.000000
+            6.052823,50.912038,0.000000
+            6.053260,50.910675,0.000000
+            6.043792,50.908995,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

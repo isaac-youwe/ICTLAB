@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07700100 Duizel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.303878,51.364071,0.000000
+            5.302175,51.363341,0.000000
+            5.297640,51.364487,0.000000
+            5.291110,51.366412,0.000000
+            5.289651,51.367939,0.000000
+            5.298179,51.377146,0.000000
+            5.304624,51.376728,0.000000
+            5.303878,51.364071,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16400304 Castert en Ellerhei</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.787348,51.222321,0.000000
+            5.785109,51.214387,0.000000
+            5.786073,51.212830,0.000000
+            5.788107,51.212004,0.000000
+            5.758833,51.199386,0.000000
+            5.747812,51.195489,0.000000
+            5.752102,51.200813,0.000000
+            5.756445,51.207092,0.000000
+            5.749296,51.208014,0.000000
+            5.749512,51.208414,0.000000
+            5.752202,51.213399,0.000000
+            5.756517,51.216082,0.000000
+            5.760812,51.216068,0.000000
+            5.767554,51.215199,0.000000
+            5.767961,51.215146,0.000000
+            5.773687,51.215127,0.000000
+            5.782322,51.220492,0.000000
+            5.789480,51.231990,0.000000
+            5.799397,51.226344,0.000000
+            5.787348,51.222321,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

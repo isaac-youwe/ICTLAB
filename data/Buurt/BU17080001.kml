@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080001 Centrum Steenwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.119862,52.785475,0.000000
+            6.118180,52.784862,0.000000
+            6.113963,52.785301,0.000000
+            6.113557,52.785453,0.000000
+            6.112300,52.787471,0.000000
+            6.116664,52.789289,0.000000
+            6.120651,52.787940,0.000000
+            6.119862,52.785475,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

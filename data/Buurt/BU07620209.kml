@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07620209 Verspreide huizen Liessel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.837676,51.432025,0.000000
+            5.862670,51.425149,0.000000
+            5.883322,51.385739,0.000000
+            5.831949,51.399182,0.000000
+            5.831261,51.399225,0.000000
+            5.795753,51.410045,0.000000
+            5.795464,51.410133,0.000000
+            5.791223,51.411211,0.000000
+            5.791206,51.411814,0.000000
+            5.790739,51.427658,0.000000
+            5.809119,51.432917,0.000000
+            5.837676,51.432025,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.808526,51.413457,0.000000
+            5.815471,51.409054,0.000000
+            5.820077,51.409577,0.000000
+            5.823967,51.407487,0.000000
+            5.831233,51.410441,0.000000
+            5.830775,51.412523,0.000000
+            5.827151,51.416474,0.000000
+            5.820627,51.418924,0.000000
+            5.815497,51.427811,0.000000
+            5.811056,51.426858,0.000000
+            5.815062,51.420420,0.000000
+            5.808526,51.413457,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

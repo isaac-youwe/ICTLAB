@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06120704 Kreken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.331896,51.823321,0.000000
+            4.330940,51.823041,0.000000
+            4.329980,51.824058,0.000000
+            4.327434,51.824240,0.000000
+            4.324683,51.827648,0.000000
+            4.329263,51.827917,0.000000
+            4.333734,51.828202,0.000000
+            4.331896,51.823321,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

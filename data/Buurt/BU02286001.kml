@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02286001 De Klompdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.576151,52.047694,0.000000
+            5.575115,52.042794,0.000000
+            5.569374,52.043461,0.000000
+            5.569431,52.043567,0.000000
+            5.570870,52.047944,0.000000
+            5.573054,52.048086,0.000000
+            5.573309,52.050413,0.000000
+            5.576643,52.050473,0.000000
+            5.576151,52.047694,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05040100 Melissant-Oud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.064021,51.774815,0.000000
+            4.068058,51.773325,0.000000
+            4.071877,51.774713,0.000000
+            4.075643,51.774518,0.000000
+            4.077528,51.772821,0.000000
+            4.076000,51.771485,0.000000
+            4.074525,51.772839,0.000000
+            4.068549,51.770971,0.000000
+            4.073625,51.765304,0.000000
+            4.068560,51.763508,0.000000
+            4.064459,51.767423,0.000000
+            4.062872,51.767612,0.000000
+            4.056468,51.765693,0.000000
+            4.055022,51.767983,0.000000
+            4.061891,51.770132,0.000000
+            4.060874,51.773640,0.000000
+            4.064021,51.774815,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

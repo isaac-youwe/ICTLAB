@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03290004 Vreeland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.040250,52.230170,0.000000
+            5.037371,52.224781,0.000000
+            5.033295,52.225342,0.000000
+            5.033711,52.223029,0.000000
+            5.023408,52.224118,0.000000
+            5.025825,52.230886,0.000000
+            5.030175,52.236340,0.000000
+            5.031999,52.237010,0.000000
+            5.034141,52.236586,0.000000
+            5.040482,52.230242,0.000000
+            5.040250,52.230170,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

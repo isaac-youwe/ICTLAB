@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16610210 Drieborg-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.187242,53.202814,0.000000
+            7.184332,53.201527,0.000000
+            7.180299,53.203449,0.000000
+            7.177888,53.207463,0.000000
+            7.174977,53.210412,0.000000
+            7.177133,53.211455,0.000000
+            7.182369,53.209227,0.000000
+            7.186685,53.205726,0.000000
+            7.187242,53.202814,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770108 Zoetevaart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.063897,51.277611,0.000000
+            4.063859,51.272856,0.000000
+            4.066917,51.265552,0.000000
+            4.069352,51.263161,0.000000
+            4.067665,51.262428,0.000000
+            4.062178,51.262073,0.000000
+            4.059832,51.264959,0.000000
+            4.056137,51.267260,0.000000
+            4.047198,51.269937,0.000000
+            4.050182,51.276233,0.000000
+            4.056444,51.276022,0.000000
+            4.062996,51.277721,0.000000
+            4.063897,51.277611,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

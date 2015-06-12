@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09280204 Chevremont</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.074080,50.876003,0.000000
+            6.070496,50.872846,0.000000
+            6.068388,50.872292,0.000000
+            6.066019,50.874717,0.000000
+            6.061572,50.874533,0.000000
+            6.057861,50.872257,0.000000
+            6.056530,50.874237,0.000000
+            6.058310,50.875229,0.000000
+            6.061047,50.877791,0.000000
+            6.069007,50.879894,0.000000
+            6.070101,50.880187,0.000000
+            6.070559,50.877694,0.000000
+            6.074032,50.877663,0.000000
+            6.074080,50.876003,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

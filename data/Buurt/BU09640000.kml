@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09640000 Sevenum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.039121,51.416859,0.000000
+            6.042798,51.414941,0.000000
+            6.047070,51.417244,0.000000
+            6.051483,51.416280,0.000000
+            6.051261,51.414779,0.000000
+            6.045924,51.413340,0.000000
+            6.048481,51.411518,0.000000
+            6.047236,51.410169,0.000000
+            6.041784,51.407487,0.000000
+            6.036024,51.404712,0.000000
+            6.027897,51.407093,0.000000
+            6.026755,51.409331,0.000000
+            6.026936,51.413480,0.000000
+            6.028115,51.415133,0.000000
+            6.032778,51.417717,0.000000
+            6.031996,51.418894,0.000000
+            6.038309,51.418841,0.000000
+            6.039121,51.416859,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

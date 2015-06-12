@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17010401 Lheebroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.431876,52.844953,0.000000
+            6.430962,52.843973,0.000000
+            6.433155,52.842118,0.000000
+            6.434303,52.843441,0.000000
+            6.436678,52.843191,0.000000
+            6.436346,52.840707,0.000000
+            6.433175,52.840548,0.000000
+            6.429626,52.843265,0.000000
+            6.426394,52.844289,0.000000
+            6.414781,52.838991,0.000000
+            6.413137,52.833709,0.000000
+            6.406463,52.829782,0.000000
+            6.403059,52.830881,0.000000
+            6.408377,52.834152,0.000000
+            6.411592,52.840703,0.000000
+            6.423980,52.846321,0.000000
+            6.423749,52.847441,0.000000
+            6.427928,52.847541,0.000000
+            6.430348,52.846590,0.000000
+            6.431876,52.844953,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

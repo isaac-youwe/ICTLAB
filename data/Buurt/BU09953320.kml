@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09953320 Hollandse Hout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.428543,52.497563,0.000000
+            5.432968,52.496004,0.000000
+            5.448609,52.497241,0.000000
+            5.443918,52.494466,0.000000
+            5.444338,52.493830,0.000000
+            5.432445,52.486803,0.000000
+            5.430097,52.485415,0.000000
+            5.422344,52.490306,0.000000
+            5.417832,52.491939,0.000000
+            5.428543,52.497563,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

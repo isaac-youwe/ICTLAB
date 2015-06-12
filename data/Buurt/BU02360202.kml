@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02360202 Acquoy</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.139402,51.877326,0.000000
+            5.133751,51.874400,0.000000
+            5.134776,51.877628,0.000000
+            5.136260,51.878342,0.000000
+            5.131296,51.879547,0.000000
+            5.131637,51.882003,0.000000
+            5.137095,51.883587,0.000000
+            5.137527,51.883079,0.000000
+            5.135728,51.880800,0.000000
+            5.139082,51.878704,0.000000
+            5.139402,51.877326,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

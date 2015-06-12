@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09930104 Megelsum-Keuter</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.116732,51.498360,0.000000
+            6.108383,51.497150,0.000000
+            6.095347,51.501906,0.000000
+            6.097005,51.504032,0.000000
+            6.095375,51.507211,0.000000
+            6.095081,51.515819,0.000000
+            6.093994,51.516152,0.000000
+            6.098486,51.519227,0.000000
+            6.101884,51.519632,0.000000
+            6.110587,51.515679,0.000000
+            6.115583,51.511973,0.000000
+            6.108148,51.505043,0.000000
+            6.116732,51.498360,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

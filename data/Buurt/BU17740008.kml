@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17740008 Binnenveld en t Pierik</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.022005,52.381313,0.000000
+            7.020206,52.376425,0.000000
+            7.021871,52.375076,0.000000
+            7.021539,52.372109,0.000000
+            7.015608,52.370629,0.000000
+            7.015511,52.373105,0.000000
+            7.016983,52.373278,0.000000
+            7.017027,52.376752,0.000000
+            7.015086,52.376764,0.000000
+            7.014967,52.378731,0.000000
+            7.013687,52.379640,0.000000
+            7.010714,52.379726,0.000000
+            7.013574,52.382438,0.000000
+            7.014886,52.383606,0.000000
+            7.020833,52.383307,0.000000
+            7.022005,52.381313,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

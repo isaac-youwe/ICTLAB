@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16840100 Vianen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.863860,51.720255,0.000000
+            5.861808,51.716087,0.000000
+            5.858647,51.716675,0.000000
+            5.856581,51.713436,0.000000
+            5.850805,51.715191,0.000000
+            5.846918,51.715382,0.000000
+            5.847272,51.717868,0.000000
+            5.850460,51.717207,0.000000
+            5.854930,51.719280,0.000000
+            5.858934,51.723647,0.000000
+            5.863860,51.720255,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

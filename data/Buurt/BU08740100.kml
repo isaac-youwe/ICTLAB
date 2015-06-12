@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08740100 Almkerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.965596,51.768270,0.000000
+            4.955121,51.765855,0.000000
+            4.936655,51.771209,0.000000
+            4.951181,51.771590,0.000000
+            4.961333,51.774952,0.000000
+            4.965869,51.775441,0.000000
+            4.969069,51.773037,0.000000
+            4.967065,51.771609,0.000000
+            4.968605,51.769606,0.000000
+            4.965596,51.768270,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

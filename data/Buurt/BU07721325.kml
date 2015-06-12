@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721325 t Hofke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.504665,51.444859,0.000000
+            5.502288,51.444827,0.000000
+            5.500512,51.447062,0.000000
+            5.512711,51.451304,0.000000
+            5.521486,51.454064,0.000000
+            5.531875,51.455485,0.000000
+            5.532627,51.455568,0.000000
+            5.535402,51.451208,0.000000
+            5.538274,51.449406,0.000000
+            5.538322,51.449346,0.000000
+            5.528364,51.448022,0.000000
+            5.504665,51.444859,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07370000 Burgum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.984549,53.204060,0.000000
+            5.993028,53.202807,0.000000
+            6.000784,53.203952,0.000000
+            6.002849,53.198249,0.000000
+            6.011027,53.199451,0.000000
+            6.012142,53.197957,0.000000
+            6.008173,53.196975,0.000000
+            6.010590,53.189138,0.000000
+            6.007289,53.187675,0.000000
+            6.002874,53.186379,0.000000
+            5.989141,53.185617,0.000000
+            5.977040,53.186721,0.000000
+            5.972637,53.197361,0.000000
+            5.976602,53.198786,0.000000
+            5.975755,53.200808,0.000000
+            5.977658,53.202858,0.000000
+            5.984549,53.204060,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

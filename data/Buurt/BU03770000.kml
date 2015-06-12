@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03770000 Bloemendaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.613253,52.408137,0.000000
+            4.614043,52.407967,0.000000
+            4.615358,52.409774,0.000000
+            4.623660,52.406809,0.000000
+            4.624891,52.407051,0.000000
+            4.628799,52.407145,0.000000
+            4.628787,52.407126,0.000000
+            4.624533,52.398110,0.000000
+            4.624346,52.397753,0.000000
+            4.624242,52.397782,0.000000
+            4.617198,52.399566,0.000000
+            4.613874,52.399149,0.000000
+            4.609884,52.401752,0.000000
+            4.607791,52.401377,0.000000
+            4.605052,52.399594,0.000000
+            4.603352,52.401068,0.000000
+            4.602088,52.405432,0.000000
+            4.603785,52.408656,0.000000
+            4.610123,52.411838,0.000000
+            4.611348,52.411533,0.000000
+            4.613253,52.408137,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.613061,52.402387,0.000000
+            4.616118,52.400657,0.000000
+            4.617385,52.402081,0.000000
+            4.614726,52.403633,0.000000
+            4.613061,52.402387,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

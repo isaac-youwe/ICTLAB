@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03950334 Krabbendam</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.705945,52.727101,0.000000
+            4.711442,52.719428,0.000000
+            4.705235,52.720932,0.000000
+            4.704675,52.720491,0.000000
+            4.689795,52.732886,0.000000
+            4.694222,52.733810,0.000000
+            4.702715,52.733001,0.000000
+            4.709870,52.731651,0.000000
+            4.705945,52.727101,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

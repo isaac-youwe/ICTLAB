@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18760302 Baak</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.225673,52.075577,0.000000
+            6.224479,52.070098,0.000000
+            6.218693,52.071269,0.000000
+            6.222304,52.075335,0.000000
+            6.223749,52.079266,0.000000
+            6.227110,52.079011,0.000000
+            6.233421,52.076152,0.000000
+            6.225673,52.075577,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

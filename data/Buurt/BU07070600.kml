@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07070600 Tienhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.956937,51.961527,0.000000
+            4.958234,51.958852,0.000000
+            4.956538,51.959238,0.000000
+            4.956685,51.957099,0.000000
+            4.954919,51.955157,0.000000
+            4.950208,51.954959,0.000000
+            4.950974,51.952476,0.000000
+            4.944866,51.948758,0.000000
+            4.931944,51.946501,0.000000
+            4.931886,51.946642,0.000000
+            4.931867,51.948440,0.000000
+            4.926021,51.951114,0.000000
+            4.934659,51.960137,0.000000
+            4.940444,51.963754,0.000000
+            4.943345,51.964664,0.000000
+            4.949175,51.963787,0.000000
+            4.953549,51.962904,0.000000
+            4.956937,51.961527,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

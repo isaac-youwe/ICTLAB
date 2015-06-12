@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07560002 Bakelgeert-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.945831,51.640479,0.000000
+            5.944625,51.639473,0.000000
+            5.937655,51.646323,0.000000
+            5.944159,51.648417,0.000000
+            5.949574,51.644808,0.000000
+            5.948461,51.643928,0.000000
+            5.945805,51.643560,0.000000
+            5.944877,51.641370,0.000000
+            5.945831,51.640479,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

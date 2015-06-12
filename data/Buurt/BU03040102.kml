@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03040102 Neerijnen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.277852,51.835915,0.000000
+            5.282102,51.832794,0.000000
+            5.286294,51.833987,0.000000
+            5.287667,51.833177,0.000000
+            5.287131,51.831762,0.000000
+            5.280603,51.828661,0.000000
+            5.277893,51.828710,0.000000
+            5.275190,51.829847,0.000000
+            5.274014,51.834459,0.000000
+            5.277852,51.835915,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01660015 Het Onderdijks</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.938974,52.535223,0.000000
+            5.937383,52.532459,0.000000
+            5.938679,52.530311,0.000000
+            5.937340,52.527897,0.000000
+            5.929993,52.529792,0.000000
+            5.922194,52.533513,0.000000
+            5.920116,52.533022,0.000000
+            5.917898,52.531007,0.000000
+            5.920364,52.529365,0.000000
+            5.918493,52.528367,0.000000
+            5.915644,52.530476,0.000000
+            5.909549,52.534882,0.000000
+            5.912623,52.536609,0.000000
+            5.917526,52.537461,0.000000
+            5.925332,52.537876,0.000000
+            5.932376,52.542095,0.000000
+            5.934792,52.540712,0.000000
+            5.933593,52.539175,0.000000
+            5.938974,52.535223,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

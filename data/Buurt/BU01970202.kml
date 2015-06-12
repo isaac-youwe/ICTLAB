@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01970202 Verspreide huizen Hollenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.605836,51.940485,0.000000
+            6.608912,51.938534,0.000000
+            6.613093,51.938972,0.000000
+            6.613614,51.938056,0.000000
+            6.609227,51.933581,0.000000
+            6.606950,51.932075,0.000000
+            6.605204,51.929033,0.000000
+            6.600309,51.928110,0.000000
+            6.600024,51.934394,0.000000
+            6.598880,51.940217,0.000000
+            6.599343,51.944782,0.000000
+            6.608111,51.944708,0.000000
+            6.605836,51.940485,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

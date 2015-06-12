@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02630100 Ammerzoden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.231411,51.754412,0.000000
+            5.231637,51.751994,0.000000
+            5.234148,51.752136,0.000000
+            5.234090,51.750045,0.000000
+            5.235565,51.748026,0.000000
+            5.232007,51.744404,0.000000
+            5.213317,51.745715,0.000000
+            5.211185,51.747960,0.000000
+            5.212676,51.750413,0.000000
+            5.210058,51.750911,0.000000
+            5.211408,51.753258,0.000000
+            5.218528,51.751006,0.000000
+            5.219999,51.752639,0.000000
+            5.224226,51.752069,0.000000
+            5.226255,51.754297,0.000000
+            5.229742,51.754495,0.000000
+            5.231411,51.754412,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

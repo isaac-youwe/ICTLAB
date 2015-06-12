@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05790021 Haaswijk-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.476632,52.194129,0.000000
+            4.473584,52.191055,0.000000
+            4.471341,52.191606,0.000000
+            4.467790,52.192432,0.000000
+            4.467070,52.194444,0.000000
+            4.469305,52.195087,0.000000
+            4.471964,52.197331,0.000000
+            4.473801,52.196717,0.000000
+            4.476679,52.195325,0.000000
+            4.476632,52.194129,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

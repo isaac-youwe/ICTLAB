@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08700502 Bedrijventerrein Dussen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.964636,51.726366,0.000000
+            4.962974,51.724618,0.000000
+            4.961486,51.724791,0.000000
+            4.960891,51.726889,0.000000
+            4.957432,51.727457,0.000000
+            4.957179,51.728915,0.000000
+            4.962914,51.728426,0.000000
+            4.964636,51.726366,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

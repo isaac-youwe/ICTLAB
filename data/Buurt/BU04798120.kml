@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04798120 Westzaan Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.792299,52.436391,0.000000
+            4.792603,52.432248,0.000000
+            4.783783,52.431127,0.000000
+            4.783947,52.428770,0.000000
+            4.774127,52.431741,0.000000
+            4.774942,52.435167,0.000000
+            4.770910,52.435423,0.000000
+            4.770343,52.434878,0.000000
+            4.768396,52.435436,0.000000
+            4.765838,52.441553,0.000000
+            4.789233,52.444454,0.000000
+            4.792299,52.436391,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

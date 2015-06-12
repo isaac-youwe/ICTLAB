@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630770 Banne Buiksloot</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.925139,52.404787,0.000000
+            4.922192,52.399374,0.000000
+            4.917166,52.401107,0.000000
+            4.914558,52.401486,0.000000
+            4.914694,52.400930,0.000000
+            4.908236,52.401194,0.000000
+            4.902105,52.403796,0.000000
+            4.906490,52.406435,0.000000
+            4.907129,52.407913,0.000000
+            4.908962,52.408044,0.000000
+            4.912547,52.410106,0.000000
+            4.920263,52.416471,0.000000
+            4.930864,52.411674,0.000000
+            4.925161,52.407084,0.000000
+            4.925139,52.404787,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

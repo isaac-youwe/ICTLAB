@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02970102 Aalst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.132709,51.786680,0.000000
+            5.134293,51.782131,0.000000
+            5.132298,51.778786,0.000000
+            5.129379,51.778706,0.000000
+            5.120705,51.779394,0.000000
+            5.118523,51.777671,0.000000
+            5.116483,51.778927,0.000000
+            5.116188,51.779109,0.000000
+            5.108976,51.783549,0.000000
+            5.113508,51.785109,0.000000
+            5.119002,51.784587,0.000000
+            5.132709,51.786680,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

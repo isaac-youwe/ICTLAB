@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03950116 Kalverdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.777073,52.727587,0.000000
+            4.772248,52.726325,0.000000
+            4.769336,52.728003,0.000000
+            4.768491,52.729968,0.000000
+            4.760868,52.730956,0.000000
+            4.762010,52.732784,0.000000
+            4.760983,52.734264,0.000000
+            4.764335,52.736372,0.000000
+            4.776949,52.734832,0.000000
+            4.776778,52.732668,0.000000
+            4.778637,52.730617,0.000000
+            4.777226,52.727973,0.000000
+            4.777073,52.727587,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

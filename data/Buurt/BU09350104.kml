@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350104 Wolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.654871,50.835508,0.000000
+            5.659756,50.832707,0.000000
+            5.661125,50.833122,0.000000
+            5.652494,50.827562,0.000000
+            5.651242,50.831602,0.000000
+            5.649832,50.833403,0.000000
+            5.649560,50.833664,0.000000
+            5.651999,50.837459,0.000000
+            5.657060,50.836541,0.000000
+            5.654871,50.835508,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

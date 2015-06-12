@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18760100 Zelhem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.357728,52.011731,0.000000
+            6.363206,52.010047,0.000000
+            6.362342,52.008250,0.000000
+            6.359161,52.008272,0.000000
+            6.356716,52.002377,0.000000
+            6.356963,51.997511,0.000000
+            6.350408,51.997083,0.000000
+            6.342121,52.002634,0.000000
+            6.338013,52.001947,0.000000
+            6.335402,52.003072,0.000000
+            6.333595,52.006600,0.000000
+            6.339213,52.008308,0.000000
+            6.344508,52.013137,0.000000
+            6.346889,52.012636,0.000000
+            6.347181,52.011183,0.000000
+            6.351653,52.010461,0.000000
+            6.353963,52.013941,0.000000
+            6.357728,52.011731,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

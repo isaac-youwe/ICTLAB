@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420515 Bloemenbuurt A(kelei)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.623730,51.813733,0.000000
+            4.622547,51.813447,0.000000
+            4.622352,51.814268,0.000000
+            4.622331,51.815473,0.000000
+            4.625368,51.816958,0.000000
+            4.627125,51.815945,0.000000
+            4.624680,51.814354,0.000000
+            4.623730,51.813733,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

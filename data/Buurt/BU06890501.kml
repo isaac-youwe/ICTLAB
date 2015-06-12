@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06890501 Verspreide huizen Bazeldijk (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.994909,51.902401,0.000000
+            4.996336,51.895634,0.000000
+            4.996368,51.892038,0.000000
+            4.999343,51.883958,0.000000
+            4.995951,51.878267,0.000000
+            4.991112,51.873948,0.000000
+            4.989249,51.875204,0.000000
+            4.984410,51.874998,0.000000
+            4.974010,51.876391,0.000000
+            4.981854,51.884351,0.000000
+            4.980201,51.884438,0.000000
+            4.984077,51.894389,0.000000
+            4.983587,51.899298,0.000000
+            4.991906,51.901907,0.000000
+            4.991897,51.901831,0.000000
+            4.994909,51.902401,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

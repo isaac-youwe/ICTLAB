@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17050001 Haalderen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.939599,51.879344,0.000000
+            5.935903,51.878607,0.000000
+            5.934481,51.880101,0.000000
+            5.927443,51.882670,0.000000
+            5.926540,51.884065,0.000000
+            5.921700,51.884513,0.000000
+            5.924951,51.886213,0.000000
+            5.922009,51.888949,0.000000
+            5.931272,51.891559,0.000000
+            5.935794,51.887487,0.000000
+            5.934604,51.886115,0.000000
+            5.935543,51.884645,0.000000
+            5.942053,51.882419,0.000000
+            5.939599,51.879344,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

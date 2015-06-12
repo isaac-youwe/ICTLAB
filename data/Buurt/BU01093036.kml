@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01093036 Zwinderen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.683533,52.729957,0.000000
+            6.681808,52.727906,0.000000
+            6.686902,52.726257,0.000000
+            6.684139,52.724161,0.000000
+            6.684527,52.722954,0.000000
+            6.670136,52.722571,0.000000
+            6.666425,52.726045,0.000000
+            6.666530,52.728127,0.000000
+            6.671334,52.727965,0.000000
+            6.672275,52.729607,0.000000
+            6.677911,52.729499,0.000000
+            6.678595,52.732265,0.000000
+            6.681402,52.733501,0.000000
+            6.684124,52.733296,0.000000
+            6.683533,52.729957,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610604 De Mare</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.759705,52.657544,0.000000
+            4.759716,52.654367,0.000000
+            4.757420,52.650276,0.000000
+            4.757824,52.648446,0.000000
+            4.753111,52.647696,0.000000
+            4.750689,52.651088,0.000000
+            4.752895,52.653171,0.000000
+            4.754411,52.656999,0.000000
+            4.752940,52.657406,0.000000
+            4.749166,52.656710,0.000000
+            4.748692,52.657537,0.000000
+            4.753145,52.659317,0.000000
+            4.753807,52.661023,0.000000
+            4.756541,52.661023,0.000000
+            4.758673,52.659648,0.000000
+            4.759705,52.657544,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

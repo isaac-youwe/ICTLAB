@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01141308 Ermerveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.837131,52.742371,0.000000
+            6.839873,52.739255,0.000000
+            6.840936,52.739401,0.000000
+            6.844031,52.732597,0.000000
+            6.845428,52.728918,0.000000
+            6.840977,52.728247,0.000000
+            6.837928,52.734043,0.000000
+            6.837067,52.735679,0.000000
+            6.831245,52.742350,0.000000
+            6.832583,52.744268,0.000000
+            6.837131,52.742371,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01630406 Groot Lochter</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.497770,52.352317,0.000000
+            6.491505,52.350250,0.000000
+            6.492532,52.352219,0.000000
+            6.488804,52.351482,0.000000
+            6.485891,52.350223,0.000000
+            6.486694,52.348449,0.000000
+            6.483378,52.347833,0.000000
+            6.481864,52.351150,0.000000
+            6.480115,52.352464,0.000000
+            6.481564,52.357781,0.000000
+            6.487726,52.358915,0.000000
+            6.488956,52.359119,0.000000
+            6.490480,52.356886,0.000000
+            6.497770,52.352317,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

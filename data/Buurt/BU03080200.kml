@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03080200 Wilhelminapark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.260855,52.219344,0.000000
+            5.263133,52.218004,0.000000
+            5.274527,52.218791,0.000000
+            5.277573,52.215875,0.000000
+            5.281477,52.214782,0.000000
+            5.275878,52.212524,0.000000
+            5.278071,52.209384,0.000000
+            5.270077,52.209307,0.000000
+            5.258195,52.209558,0.000000
+            5.256176,52.218862,0.000000
+            5.260855,52.219344,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

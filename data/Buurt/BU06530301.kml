@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06530301 Nijemirdum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.566634,52.849487,0.000000
+            5.557529,52.845188,0.000000
+            5.555731,52.846159,0.000000
+            5.553227,52.854980,0.000000
+            5.555932,52.857584,0.000000
+            5.561219,52.860575,0.000000
+            5.566746,52.861974,0.000000
+            5.570664,52.862556,0.000000
+            5.577496,52.858815,0.000000
+            5.566634,52.849487,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

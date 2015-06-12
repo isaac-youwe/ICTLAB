@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09880102 Oud-Boshoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.687508,51.252120,0.000000
+            5.681406,51.250061,0.000000
+            5.678128,51.250238,0.000000
+            5.671037,51.252675,0.000000
+            5.665661,51.258358,0.000000
+            5.666571,51.259454,0.000000
+            5.669171,51.259603,0.000000
+            5.673117,51.261621,0.000000
+            5.673717,51.263362,0.000000
+            5.676087,51.264378,0.000000
+            5.683625,51.257582,0.000000
+            5.686153,51.254154,0.000000
+            5.687508,51.252120,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

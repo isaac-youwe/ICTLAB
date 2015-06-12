@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020204 Dichtersbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.577778,51.923507,0.000000
+            4.575066,51.923166,0.000000
+            4.573633,51.923360,0.000000
+            4.572618,51.926451,0.000000
+            4.570637,51.926886,0.000000
+            4.577779,51.930319,0.000000
+            4.578111,51.930481,0.000000
+            4.580041,51.927342,0.000000
+            4.581467,51.924962,0.000000
+            4.577778,51.923507,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

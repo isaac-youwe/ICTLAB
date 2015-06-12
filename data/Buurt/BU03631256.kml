@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631256 Middenmeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.961988,52.359259,0.000000
+            4.971578,52.355113,0.000000
+            4.968799,52.355782,0.000000
+            4.964421,52.353070,0.000000
+            4.961588,52.348659,0.000000
+            4.961528,52.348565,0.000000
+            4.960726,52.347819,0.000000
+            4.956082,52.343498,0.000000
+            4.955709,52.343151,0.000000
+            4.952800,52.340444,0.000000
+            4.952476,52.340243,0.000000
+            4.940101,52.347785,0.000000
+            4.928161,52.355355,0.000000
+            4.937386,52.357725,0.000000
+            4.940843,52.358432,0.000000
+            4.958489,52.357717,0.000000
+            4.961988,52.359259,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

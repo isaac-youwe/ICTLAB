@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03840002 Akkerland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.949849,52.332116,0.000000
+            4.942733,52.329445,0.000000
+            4.942636,52.329619,0.000000
+            4.947001,52.333231,0.000000
+            4.949892,52.337736,0.000000
+            4.949884,52.338574,0.000000
+            4.953983,52.334028,0.000000
+            4.953139,52.333657,0.000000
+            4.949846,52.332120,0.000000
+            4.949849,52.332116,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17280200 Hapert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.246010,51.374140,0.000000
+            5.246937,51.372572,0.000000
+            5.251617,51.372908,0.000000
+            5.260401,51.372237,0.000000
+            5.273929,51.368990,0.000000
+            5.272977,51.362871,0.000000
+            5.263851,51.363191,0.000000
+            5.266081,51.358270,0.000000
+            5.262610,51.357151,0.000000
+            5.256369,51.361301,0.000000
+            5.252418,51.362884,0.000000
+            5.249804,51.365402,0.000000
+            5.244973,51.364029,0.000000
+            5.240581,51.373735,0.000000
+            5.246010,51.374140,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

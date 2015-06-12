@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04970104 Noordzijde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.785658,52.102076,0.000000
+            4.785339,52.091907,0.000000
+            4.786960,52.084510,0.000000
+            4.785783,52.084174,0.000000
+            4.778349,52.082180,0.000000
+            4.764540,52.080354,0.000000
+            4.761181,52.080684,0.000000
+            4.756953,52.082138,0.000000
+            4.768738,52.099353,0.000000
+            4.776482,52.096595,0.000000
+            4.781119,52.100529,0.000000
+            4.785658,52.102076,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

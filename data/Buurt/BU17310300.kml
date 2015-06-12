@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17310300 Wijster</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.508956,52.820288,0.000000
+            6.513802,52.818617,0.000000
+            6.514399,52.819799,0.000000
+            6.521054,52.818845,0.000000
+            6.527320,52.816944,0.000000
+            6.528226,52.813763,0.000000
+            6.523844,52.814241,0.000000
+            6.524746,52.810913,0.000000
+            6.523872,52.809068,0.000000
+            6.517711,52.806086,0.000000
+            6.513667,52.814679,0.000000
+            6.507503,52.817098,0.000000
+            6.508956,52.820288,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

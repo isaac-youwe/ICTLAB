@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00390002 Heiligerlee</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.014537,53.169604,0.000000
+            7.018721,53.162410,0.000000
+            7.018822,53.161986,0.000000
+            7.020012,53.156999,0.000000
+            7.014094,53.152753,0.000000
+            7.013865,53.152588,0.000000
+            7.013787,53.152477,0.000000
+            7.004864,53.154639,0.000000
+            7.000527,53.153469,0.000000
+            6.995791,53.155994,0.000000
+            7.000748,53.157266,0.000000
+            6.995361,53.165845,0.000000
+            6.996185,53.165478,0.000000
+            6.996192,53.167226,0.000000
+            6.998248,53.168563,0.000000
+            7.010217,53.170387,0.000000
+            7.014537,53.169604,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

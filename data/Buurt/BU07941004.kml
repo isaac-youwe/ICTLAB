@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07941004 Stationsgebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.664944,51.475858,0.000000
+            5.653879,51.473287,0.000000
+            5.653341,51.473339,0.000000
+            5.651672,51.476271,0.000000
+            5.655957,51.477656,0.000000
+            5.660186,51.477312,0.000000
+            5.670304,51.476354,0.000000
+            5.670002,51.475892,0.000000
+            5.664944,51.475858,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

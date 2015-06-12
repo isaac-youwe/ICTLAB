@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07360101 Amstelhoek en Amstelkade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.854445,52.238485,0.000000
+            4.850380,52.237665,0.000000
+            4.843946,52.233375,0.000000
+            4.838296,52.231514,0.000000
+            4.841457,52.228525,0.000000
+            4.836389,52.229714,0.000000
+            4.831011,52.231226,0.000000
+            4.838167,52.234796,0.000000
+            4.842548,52.235716,0.000000
+            4.846896,52.239331,0.000000
+            4.847431,52.239225,0.000000
+            4.851300,52.238452,0.000000
+            4.851257,52.242048,0.000000
+            4.854185,52.242061,0.000000
+            4.855606,52.245663,0.000000
+            4.856323,52.246560,0.000000
+            4.857647,52.245382,0.000000
+            4.856703,52.245087,0.000000
+            4.856152,52.241450,0.000000
+            4.852666,52.240811,0.000000
+            4.854445,52.238485,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

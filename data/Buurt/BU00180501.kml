@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00180501 Kiel-Windeweer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.770420,53.125268,0.000000
+            6.772581,53.124326,0.000000
+            6.777438,53.125629,0.000000
+            6.777896,53.125042,0.000000
+            6.772112,53.122998,0.000000
+            6.776371,53.118672,0.000000
+            6.790072,53.100219,0.000000
+            6.787488,53.100140,0.000000
+            6.785963,53.103725,0.000000
+            6.780918,53.108785,0.000000
+            6.770711,53.122976,0.000000
+            6.768337,53.122328,0.000000
+            6.767777,53.123116,0.000000
+            6.770575,53.123882,0.000000
+            6.763982,53.129318,0.000000
+            6.766489,53.130483,0.000000
+            6.770420,53.125268,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.767436,53.130983,0.000000
+            6.765084,53.130473,0.000000
+            6.763962,53.132665,0.000000
+            6.764673,53.132943,0.000000
+            6.767436,53.130983,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.763111,53.135061,0.000000
+            6.764268,53.133490,0.000000
+            6.762702,53.134145,0.000000
+            6.763111,53.135061,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

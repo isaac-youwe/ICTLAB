@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01730002 Kern complement gebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.935129,52.316413,0.000000
+            6.933619,52.314627,0.000000
+            6.933439,52.311002,0.000000
+            6.930218,52.309137,0.000000
+            6.926655,52.308820,0.000000
+            6.926519,52.310355,0.000000
+            6.921556,52.314305,0.000000
+            6.930658,52.315667,0.000000
+            6.935129,52.316413,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.925940,52.311591,0.000000
+            6.928604,52.310607,0.000000
+            6.931241,52.310904,0.000000
+            6.932634,52.311951,0.000000
+            6.932497,52.314194,0.000000
+            6.929910,52.314948,0.000000
+            6.926892,52.314171,0.000000
+            6.925526,52.312788,0.000000
+            6.925940,52.311591,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

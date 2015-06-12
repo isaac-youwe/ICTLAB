@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01094047 Schoonoord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.751226,52.858279,0.000000
+            6.757978,52.848084,0.000000
+            6.763458,52.851043,0.000000
+            6.765804,52.850008,0.000000
+            6.766501,52.850086,0.000000
+            6.766500,52.850086,0.000000
+            6.767844,52.849241,0.000000
+            6.759183,52.845330,0.000000
+            6.767183,52.835399,0.000000
+            6.763990,52.834372,0.000000
+            6.759066,52.840418,0.000000
+            6.753416,52.837995,0.000000
+            6.750650,52.841687,0.000000
+            6.748171,52.841598,0.000000
+            6.747822,52.843048,0.000000
+            6.749556,52.843891,0.000000
+            6.744232,52.856198,0.000000
+            6.751226,52.858279,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

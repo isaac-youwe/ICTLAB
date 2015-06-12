@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03920800 Ramplaankwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.614355,52.381082,0.000000
+            4.610697,52.376172,0.000000
+            4.599890,52.379020,0.000000
+            4.599889,52.379072,0.000000
+            4.601262,52.384474,0.000000
+            4.607652,52.388470,0.000000
+            4.605715,52.385980,0.000000
+            4.614363,52.384618,0.000000
+            4.614355,52.381082,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

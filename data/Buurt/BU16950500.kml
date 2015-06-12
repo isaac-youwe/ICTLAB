@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16950500 Geersdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.770440,51.566500,0.000000
+            3.771930,51.565987,0.000000
+            3.775166,51.566500,0.000000
+            3.776339,51.564384,0.000000
+            3.767606,51.563326,0.000000
+            3.768721,51.567901,0.000000
+            3.770592,51.568112,0.000000
+            3.770440,51.566500,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

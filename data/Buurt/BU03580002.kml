@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03580002 Zuid II</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.763681,52.261394,0.000000
+            4.762295,52.260961,0.000000
+            4.754306,52.268885,0.000000
+            4.759328,52.270030,0.000000
+            4.764808,52.271675,0.000000
+            4.767965,52.270064,0.000000
+            4.774572,52.266866,0.000000
+            4.764713,52.263083,0.000000
+            4.765737,52.262055,0.000000
+            4.763681,52.261394,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

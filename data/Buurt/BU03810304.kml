@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03810304 Kom van Bieghel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.158480,52.268619,0.000000
+            5.156377,52.265391,0.000000
+            5.152104,52.266025,0.000000
+            5.151268,52.267418,0.000000
+            5.147903,52.268721,0.000000
+            5.154306,52.271824,0.000000
+            5.158665,52.270972,0.000000
+            5.158480,52.268619,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

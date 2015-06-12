@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01092026 Dalerpeel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.663046,52.686290,0.000000
+            6.662713,52.683323,0.000000
+            6.666378,52.683460,0.000000
+            6.666056,52.678040,0.000000
+            6.661178,52.678123,0.000000
+            6.655149,52.678270,0.000000
+            6.632442,52.678719,0.000000
+            6.632449,52.678977,0.000000
+            6.632507,52.681020,0.000000
+            6.659087,52.680588,0.000000
+            6.659420,52.686205,0.000000
+            6.657582,52.685903,0.000000
+            6.657657,52.688033,0.000000
+            6.672471,52.689577,0.000000
+            6.673571,52.687605,0.000000
+            6.663046,52.686290,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

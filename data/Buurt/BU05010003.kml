@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05010003 Rugge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.159580,51.896508,0.000000
+            4.154046,51.892720,0.000000
+            4.152037,51.894128,0.000000
+            4.155725,51.895040,0.000000
+            4.153989,51.896247,0.000000
+            4.152820,51.895894,0.000000
+            4.147254,51.900515,0.000000
+            4.151917,51.904694,0.000000
+            4.148745,51.907158,0.000000
+            4.149997,51.907623,0.000000
+            4.151899,51.906482,0.000000
+            4.154784,51.903338,0.000000
+            4.158788,51.899409,0.000000
+            4.159580,51.896508,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02960100 Centrum en Valendries</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.746496,51.807657,0.000000
+            5.735826,51.797844,0.000000
+            5.732273,51.800295,0.000000
+            5.729015,51.804359,0.000000
+            5.719691,51.804972,0.000000
+            5.720292,51.809891,0.000000
+            5.737423,51.812710,0.000000
+            5.740503,51.811705,0.000000
+            5.743426,51.810751,0.000000
+            5.745794,51.808525,0.000000
+            5.746496,51.807657,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

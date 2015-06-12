@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640403 Groot Driene-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.831763,52.266758,0.000000
+            6.829547,52.260754,0.000000
+            6.818167,52.262468,0.000000
+            6.817956,52.263032,0.000000
+            6.812398,52.264023,0.000000
+            6.810606,52.265392,0.000000
+            6.820122,52.269005,0.000000
+            6.831763,52.266758,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

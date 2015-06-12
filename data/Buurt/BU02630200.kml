@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02630200 Hedel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.275215,51.753365,0.000000
+            5.275586,51.747193,0.000000
+            5.272384,51.747595,0.000000
+            5.267993,51.745879,0.000000
+            5.268407,51.743360,0.000000
+            5.257747,51.739810,0.000000
+            5.255264,51.737854,0.000000
+            5.256145,51.742930,0.000000
+            5.249902,51.744624,0.000000
+            5.250716,51.747229,0.000000
+            5.252124,51.747227,0.000000
+            5.260872,51.752410,0.000000
+            5.267337,51.753172,0.000000
+            5.268430,51.752043,0.000000
+            5.272772,51.753021,0.000000
+            5.275215,51.753365,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

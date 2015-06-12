@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110940 Cristina</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.867850,51.032122,0.000000
+            5.861514,51.032137,0.000000
+            5.860033,51.032640,0.000000
+            5.859875,51.033658,0.000000
+            5.864264,51.036196,0.000000
+            5.861889,51.040558,0.000000
+            5.864920,51.041927,0.000000
+            5.870802,51.037833,0.000000
+            5.867850,51.032122,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02810105 Zennewijnen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.413623,51.858392,0.000000
+            5.409699,51.853809,0.000000
+            5.408978,51.854032,0.000000
+            5.407645,51.854033,0.000000
+            5.407924,51.854369,0.000000
+            5.409819,51.857134,0.000000
+            5.407361,51.858491,0.000000
+            5.408262,51.859769,0.000000
+            5.412760,51.859484,0.000000
+            5.413623,51.858392,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

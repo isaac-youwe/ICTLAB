@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07550005 Verspreide huizen Logt en Berkhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.716391,51.596523,0.000000
+            5.720871,51.591737,0.000000
+            5.728110,51.592948,0.000000
+            5.729546,51.589711,0.000000
+            5.710463,51.586599,0.000000
+            5.710009,51.586319,0.000000
+            5.709013,51.585704,0.000000
+            5.708091,51.585515,0.000000
+            5.700343,51.583930,0.000000
+            5.687355,51.583964,0.000000
+            5.686874,51.583965,0.000000
+            5.684400,51.585997,0.000000
+            5.696822,51.590172,0.000000
+            5.696503,51.593901,0.000000
+            5.710620,51.594803,0.000000
+            5.716391,51.596523,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

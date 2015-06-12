@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06230208 Bilwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.777195,51.989572,0.000000
+            4.781521,51.983364,0.000000
+            4.782683,51.983133,0.000000
+            4.787325,51.981439,0.000000
+            4.768037,51.978792,0.000000
+            4.765371,51.978566,0.000000
+            4.762033,51.984101,0.000000
+            4.758609,51.983975,0.000000
+            4.754778,51.989691,0.000000
+            4.757589,51.990149,0.000000
+            4.777195,51.989572,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140106 Hoendiep</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.540103,53.218044,0.000000
+            6.542772,53.213150,0.000000
+            6.533307,53.211009,0.000000
+            6.532085,53.213131,0.000000
+            6.529921,53.214380,0.000000
+            6.523604,53.214888,0.000000
+            6.523247,53.217138,0.000000
+            6.524095,53.216319,0.000000
+            6.531186,53.216476,0.000000
+            6.540103,53.218044,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

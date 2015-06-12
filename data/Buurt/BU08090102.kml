@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08090102 Berndijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.015657,51.658685,0.000000
+            5.012975,51.656489,0.000000
+            5.013955,51.654034,0.000000
+            5.016753,51.653774,0.000000
+            5.016697,51.648444,0.000000
+            5.018817,51.648471,0.000000
+            5.019038,51.646912,0.000000
+            5.012889,51.646162,0.000000
+            5.004617,51.645622,0.000000
+            4.999974,51.646174,0.000000
+            4.998382,51.659076,0.000000
+            5.001962,51.657855,0.000000
+            5.015545,51.660594,0.000000
+            5.015657,51.658685,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640901 Verspreide huizen Slangenbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.798524,52.300488,0.000000
+            6.792169,52.300384,0.000000
+            6.793399,52.300520,0.000000
+            6.787677,52.305082,0.000000
+            6.795535,52.306585,0.000000
+            6.799380,52.304638,0.000000
+            6.801990,52.304317,0.000000
+            6.805276,52.300532,0.000000
+            6.804336,52.300484,0.000000
+            6.798524,52.300488,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.825852,52.306422,0.000000
+            6.824328,52.304643,0.000000
+            6.824108,52.304513,0.000000
+            6.823584,52.305101,0.000000
+            6.816003,52.304069,0.000000
+            6.800423,52.306955,0.000000
+            6.801445,52.309558,0.000000
+            6.802549,52.312057,0.000000
+            6.802567,52.312097,0.000000
+            6.802624,52.313894,0.000000
+            6.808461,52.312925,0.000000
+            6.810708,52.311968,0.000000
+            6.812802,52.311075,0.000000
+            6.823007,52.309154,0.000000
+            6.825852,52.306422,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

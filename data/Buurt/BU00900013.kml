@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00900013 De Trisken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.065821,53.092461,0.000000
+            6.056856,53.089517,0.000000
+            6.053621,53.093495,0.000000
+            6.050465,53.093587,0.000000
+            6.047511,53.097440,0.000000
+            6.048788,53.099966,0.000000
+            6.057065,53.097806,0.000000
+            6.060899,53.093450,0.000000
+            6.065821,53.092461,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

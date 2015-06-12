@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02001602 Klarenbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.064088,52.169411,0.000000
+            6.065398,52.164281,0.000000
+            6.062518,52.164297,0.000000
+            6.060872,52.163279,0.000000
+            6.055153,52.163850,0.000000
+            6.052913,52.163031,0.000000
+            6.049576,52.165960,0.000000
+            6.052101,52.167267,0.000000
+            6.053949,52.165813,0.000000
+            6.059117,52.168230,0.000000
+            6.061300,52.167899,0.000000
+            6.063998,52.169582,0.000000
+            6.064088,52.169411,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07440100 Ulicoten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.863399,51.452920,0.000000
+            4.859983,51.452815,0.000000
+            4.853219,51.454546,0.000000
+            4.852672,51.458929,0.000000
+            4.855454,51.460422,0.000000
+            4.857400,51.460006,0.000000
+            4.858228,51.458962,0.000000
+            4.862304,51.458959,0.000000
+            4.867906,51.457753,0.000000
+            4.866498,51.454478,0.000000
+            4.863399,51.452920,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

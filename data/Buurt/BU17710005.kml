@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17710005 Braakhuizen-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.570638,51.421126,0.000000
+            5.565137,51.420082,0.000000
+            5.563286,51.421166,0.000000
+            5.564281,51.422695,0.000000
+            5.562866,51.424410,0.000000
+            5.569443,51.428292,0.000000
+            5.579568,51.431275,0.000000
+            5.588088,51.425449,0.000000
+            5.577972,51.423382,0.000000
+            5.578523,51.421453,0.000000
+            5.570638,51.421126,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02970106 Verspreide huizen in de polder Poederoijen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.094612,51.790951,0.000000
+            5.089686,51.789057,0.000000
+            5.091272,51.787034,0.000000
+            5.085717,51.784428,0.000000
+            5.081393,51.780821,0.000000
+            5.077058,51.779012,0.000000
+            5.071541,51.778997,0.000000
+            5.071261,51.778997,0.000000
+            5.068356,51.779888,0.000000
+            5.065444,51.781678,0.000000
+            5.059614,51.786156,0.000000
+            5.058151,51.789719,0.000000
+            5.058139,51.789748,0.000000
+            5.052300,51.795125,0.000000
+            5.052280,51.795138,0.000000
+            5.060413,51.799585,0.000000
+            5.083597,51.804883,0.000000
+            5.109181,51.801145,0.000000
+            5.101843,51.799216,0.000000
+            5.096490,51.794267,0.000000
+            5.094612,51.790951,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.073742,51.789262,0.000000
+            5.075674,51.782104,0.000000
+            5.085534,51.785824,0.000000
+            5.085228,51.787075,0.000000
+            5.081113,51.785996,0.000000
+            5.080236,51.787230,0.000000
+            5.080961,51.787514,0.000000
+            5.079803,51.789347,0.000000
+            5.073742,51.789262,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

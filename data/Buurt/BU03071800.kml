@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03071800 Regentesselaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.375358,52.149168,0.000000
+            5.368136,52.145145,0.000000
+            5.368324,52.148269,0.000000
+            5.373218,52.152739,0.000000
+            5.375671,52.152832,0.000000
+            5.380088,52.150631,0.000000
+            5.378307,52.149936,0.000000
+            5.375358,52.149168,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06170008 Strijensas</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.590030,51.713554,0.000000
+            4.587722,51.712753,0.000000
+            4.584851,51.712807,0.000000
+            4.579959,51.714921,0.000000
+            4.579728,51.715679,0.000000
+            4.584620,51.718856,0.000000
+            4.590000,51.717439,0.000000
+            4.590030,51.713554,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

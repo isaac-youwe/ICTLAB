@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02850203 De Vecht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.042628,52.259117,0.000000
+            6.042803,52.257431,0.000000
+            6.041401,52.256242,0.000000
+            6.036130,52.255932,0.000000
+            6.034672,52.257046,0.000000
+            6.035720,52.258563,0.000000
+            6.036145,52.258560,0.000000
+            6.036289,52.258816,0.000000
+            6.037625,52.258785,0.000000
+            6.039220,52.259828,0.000000
+            6.039051,52.260908,0.000000
+            6.040421,52.260831,0.000000
+            6.042628,52.259117,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

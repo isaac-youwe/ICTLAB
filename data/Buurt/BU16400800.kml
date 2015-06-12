@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16400800 Nijken, Strubben en Hoogschans</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.912136,51.284908,0.000000
+            5.916002,51.276188,0.000000
+            5.926558,51.277477,0.000000
+            5.926261,51.271037,0.000000
+            5.919936,51.270713,0.000000
+            5.916906,51.272479,0.000000
+            5.909276,51.271897,0.000000
+            5.910078,51.270691,0.000000
+            5.904827,51.269087,0.000000
+            5.903705,51.270822,0.000000
+            5.901486,51.275743,0.000000
+            5.909692,51.277143,0.000000
+            5.907253,51.284172,0.000000
+            5.912136,51.284908,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

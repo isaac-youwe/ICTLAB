@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990662 Hillegersberg-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.508172,51.951754,0.000000
+            4.507873,51.950816,0.000000
+            4.503972,51.951066,0.000000
+            4.500234,51.950248,0.000000
+            4.497626,51.945819,0.000000
+            4.490129,51.945440,0.000000
+            4.485448,51.947967,0.000000
+            4.483410,51.945998,0.000000
+            4.475382,51.950299,0.000000
+            4.478054,51.956898,0.000000
+            4.480834,51.958829,0.000000
+            4.484262,51.965173,0.000000
+            4.490495,51.969357,0.000000
+            4.490652,51.969276,0.000000
+            4.495010,51.967529,0.000000
+            4.494568,51.959181,0.000000
+            4.508172,51.951754,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

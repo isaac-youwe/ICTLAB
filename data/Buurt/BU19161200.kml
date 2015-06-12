@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19161200 Kern stompwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.463005,52.096405,0.000000
+            4.466456,52.096109,0.000000
+            4.473238,52.097779,0.000000
+            4.475844,52.096115,0.000000
+            4.472749,52.091504,0.000000
+            4.469184,52.091002,0.000000
+            4.464649,52.094917,0.000000
+            4.454854,52.095586,0.000000
+            4.454269,52.096178,0.000000
+            4.460637,52.098093,0.000000
+            4.463005,52.096405,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

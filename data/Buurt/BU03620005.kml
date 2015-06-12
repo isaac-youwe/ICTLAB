@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03620005 Stadshart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.872029,52.303072,0.000000
+            4.869209,52.298622,0.000000
+            4.856660,52.301522,0.000000
+            4.849962,52.303600,0.000000
+            4.850252,52.304051,0.000000
+            4.856936,52.306279,0.000000
+            4.862257,52.305678,0.000000
+            4.872029,52.303072,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

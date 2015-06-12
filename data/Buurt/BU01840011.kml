@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01840011 Urkerland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.643185,52.660743,0.000000
+            5.637097,52.658369,0.000000
+            5.630235,52.664505,0.000000
+            5.633868,52.666066,0.000000
+            5.627007,52.671816,0.000000
+            5.641581,52.678015,0.000000
+            5.654800,52.666319,0.000000
+            5.642942,52.660952,0.000000
+            5.643185,52.660743,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

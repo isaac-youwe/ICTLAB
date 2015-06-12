@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05370604 De Mient en Kooltuin</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.420255,52.184601,0.000000
+            4.424090,52.182865,0.000000
+            4.423339,52.182926,0.000000
+            4.422247,52.183013,0.000000
+            4.417069,52.179900,0.000000
+            4.415498,52.178201,0.000000
+            4.419113,52.176520,0.000000
+            4.403872,52.168373,0.000000
+            4.403304,52.169048,0.000000
+            4.403277,52.169073,0.000000
+            4.400321,52.171720,0.000000
+            4.400255,52.171753,0.000000
+            4.406049,52.178797,0.000000
+            4.417513,52.187036,0.000000
+            4.420255,52.184601,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

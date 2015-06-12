@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610203 Schermereiland en Omval</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.769923,52.615582,0.000000
+            4.769671,52.615581,0.000000
+            4.768308,52.616706,0.000000
+            4.769153,52.621733,0.000000
+            4.764404,52.624173,0.000000
+            4.754885,52.628562,0.000000
+            4.756244,52.631333,0.000000
+            4.758384,52.631082,0.000000
+            4.769014,52.628366,0.000000
+            4.772640,52.626806,0.000000
+            4.775198,52.624524,0.000000
+            4.778789,52.623017,0.000000
+            4.778684,52.622818,0.000000
+            4.772864,52.616496,0.000000
+            4.769923,52.615582,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

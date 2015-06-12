@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03840224 Vlindertuin en Scheepskwartier-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.982992,52.349871,0.000000
+            4.987965,52.346860,0.000000
+            4.988060,52.346810,0.000000
+            4.982056,52.343120,0.000000
+            4.975229,52.346272,0.000000
+            4.978836,52.349163,0.000000
+            4.980754,52.348218,0.000000
+            4.982992,52.349871,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

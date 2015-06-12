@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08080100 Lithoijen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.467768,51.801791,0.000000
+            5.473961,51.798239,0.000000
+            5.479251,51.798352,0.000000
+            5.479228,51.795103,0.000000
+            5.463645,51.796948,0.000000
+            5.459700,51.791751,0.000000
+            5.457372,51.791905,0.000000
+            5.455769,51.794131,0.000000
+            5.455227,51.800863,0.000000
+            5.448712,51.800923,0.000000
+            5.450026,51.809995,0.000000
+            5.465519,51.810859,0.000000
+            5.465693,51.810913,0.000000
+            5.467356,51.808739,0.000000
+            5.467768,51.801791,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00150001 Doezum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.261619,53.206708,0.000000
+            6.265135,53.203097,0.000000
+            6.264115,53.202114,0.000000
+            6.247613,53.196298,0.000000
+            6.240453,53.192943,0.000000
+            6.239341,53.196498,0.000000
+            6.240018,53.196929,0.000000
+            6.242901,53.198989,0.000000
+            6.244619,53.203763,0.000000
+            6.246915,53.204369,0.000000
+            6.252455,53.203358,0.000000
+            6.257172,53.203490,0.000000
+            6.260991,53.204498,0.000000
+            6.259825,53.206116,0.000000
+            6.261619,53.206708,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09860000 Voerendaal-Kunrade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.941679,50.872732,0.000000
+            5.932177,50.871421,0.000000
+            5.925235,50.872040,0.000000
+            5.919795,50.874192,0.000000
+            5.920478,50.875968,0.000000
+            5.917655,50.882501,0.000000
+            5.938574,50.890034,0.000000
+            5.938690,50.889922,0.000000
+            5.952760,50.878167,0.000000
+            5.953077,50.877827,0.000000
+            5.954952,50.875815,0.000000
+            5.941679,50.872732,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

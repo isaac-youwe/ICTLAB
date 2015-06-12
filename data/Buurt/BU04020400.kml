@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020400 Geuzenwegbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.190740,52.232107,0.000000
+            5.185269,52.228304,0.000000
+            5.181085,52.227372,0.000000
+            5.177771,52.231392,0.000000
+            5.179841,52.231698,0.000000
+            5.182193,52.230935,0.000000
+            5.187834,52.234107,0.000000
+            5.190537,52.232509,0.000000
+            5.190740,52.232107,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

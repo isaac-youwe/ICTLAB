@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16901101 Haakswold</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.241937,52.718871,0.000000
+            6.217317,52.709866,0.000000
+            6.216229,52.712643,0.000000
+            6.220974,52.714138,0.000000
+            6.220646,52.718123,0.000000
+            6.227150,52.719052,0.000000
+            6.227398,52.720635,0.000000
+            6.235882,52.722410,0.000000
+            6.238075,52.724336,0.000000
+            6.240798,52.724508,0.000000
+            6.241459,52.723105,0.000000
+            6.240069,52.722983,0.000000
+            6.241937,52.718871,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110103 Mariaveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.865486,51.060012,0.000000
+            5.862681,51.058955,0.000000
+            5.857946,51.061670,0.000000
+            5.855777,51.065502,0.000000
+            5.858738,51.067854,0.000000
+            5.866783,51.067141,0.000000
+            5.865365,51.063563,0.000000
+            5.865486,51.060012,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16400306 Hoogstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.819712,51.204262,0.000000
+            5.820298,51.202340,0.000000
+            5.811425,51.202557,0.000000
+            5.801078,51.200103,0.000000
+            5.794840,51.213499,0.000000
+            5.804213,51.218647,0.000000
+            5.808417,51.215054,0.000000
+            5.807449,51.214553,0.000000
+            5.808462,51.212641,0.000000
+            5.814156,51.207286,0.000000
+            5.819712,51.204262,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

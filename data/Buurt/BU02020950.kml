@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02020950 Sonsbeek-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.921805,51.993480,0.000000
+            5.918901,51.992849,0.000000
+            5.911115,51.990532,0.000000
+            5.908492,51.990745,0.000000
+            5.909993,51.993349,0.000000
+            5.912970,51.993721,0.000000
+            5.915644,51.993007,0.000000
+            5.917334,51.994213,0.000000
+            5.917481,51.995523,0.000000
+            5.919608,51.995644,0.000000
+            5.921805,51.993480,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

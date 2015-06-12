@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16801902 Nijlande</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.627733,52.971098,0.000000
+            6.623343,52.970815,0.000000
+            6.625531,52.973505,0.000000
+            6.624334,52.974937,0.000000
+            6.621771,52.974994,0.000000
+            6.621065,52.976910,0.000000
+            6.623975,52.978329,0.000000
+            6.625417,52.976094,0.000000
+            6.629020,52.975835,0.000000
+            6.627733,52.971098,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

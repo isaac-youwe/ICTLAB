@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00930213 Formerum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.313148,53.387519,0.000000
+            5.308525,53.386913,0.000000
+            5.305712,53.387211,0.000000
+            5.301876,53.388844,0.000000
+            5.302022,53.389400,0.000000
+            5.304316,53.391076,0.000000
+            5.310409,53.392151,0.000000
+            5.316348,53.392178,0.000000
+            5.319165,53.391330,0.000000
+            5.318367,53.389539,0.000000
+            5.313148,53.387519,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140707 Verlengde Vaart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.900806,52.713166,0.000000
+            6.918108,52.711683,0.000000
+            6.918295,52.712488,0.000000
+            6.919862,52.712364,0.000000
+            6.919190,52.709529,0.000000
+            6.912832,52.710067,0.000000
+            6.912978,52.710715,0.000000
+            6.900459,52.711791,0.000000
+            6.900806,52.713166,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

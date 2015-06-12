@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09957770 Pijlstaartweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.574000,52.439069,0.000000
+            5.566954,52.435643,0.000000
+            5.549825,52.450183,0.000000
+            5.562196,52.457656,0.000000
+            5.572628,52.462440,0.000000
+            5.585807,52.448039,0.000000
+            5.581381,52.445349,0.000000
+            5.574000,52.439069,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

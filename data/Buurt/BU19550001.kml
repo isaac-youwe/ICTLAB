@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19550001 s-Heerenberg, oostelijke uitbreiding</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.268370,51.885059,0.000000
+            6.269424,51.881421,0.000000
+            6.267617,51.877357,0.000000
+            6.271355,51.877700,0.000000
+            6.272294,51.874910,0.000000
+            6.271707,51.874975,0.000000
+            6.268785,51.874098,0.000000
+            6.265793,51.869625,0.000000
+            6.261402,51.867860,0.000000
+            6.252985,51.868793,0.000000
+            6.252525,51.871577,0.000000
+            6.256627,51.871775,0.000000
+            6.257448,51.872977,0.000000
+            6.256100,51.876550,0.000000
+            6.250797,51.883581,0.000000
+            6.256124,51.883259,0.000000
+            6.261311,51.885709,0.000000
+            6.268370,51.885059,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

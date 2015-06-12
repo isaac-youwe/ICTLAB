@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580006 Dokkum De Woudhorne</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.987326,53.323341,0.000000
+            5.989528,53.319129,0.000000
+            5.984907,53.319161,0.000000
+            5.973520,53.315468,0.000000
+            5.973967,53.315861,0.000000
+            5.973991,53.317659,0.000000
+            5.972584,53.321150,0.000000
+            5.979011,53.321828,0.000000
+            5.982233,53.324773,0.000000
+            5.986209,53.326712,0.000000
+            5.987566,53.326439,0.000000
+            5.987326,53.323341,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

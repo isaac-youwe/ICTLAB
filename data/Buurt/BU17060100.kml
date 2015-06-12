@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17060100 Budel-Schoot</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.568953,51.257411,0.000000
+            5.566884,51.252980,0.000000
+            5.571397,51.253051,0.000000
+            5.573403,51.249653,0.000000
+            5.571588,51.248312,0.000000
+            5.566002,51.246551,0.000000
+            5.566131,51.245546,0.000000
+            5.563888,51.244726,0.000000
+            5.563123,51.246798,0.000000
+            5.559432,51.249004,0.000000
+            5.559071,51.250760,0.000000
+            5.564689,51.257020,0.000000
+            5.565996,51.256795,0.000000
+            5.567093,51.257816,0.000000
+            5.568953,51.257411,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

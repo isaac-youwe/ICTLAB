@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06220505 t Nieuwe Lant</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.366981,51.913879,0.000000
+            4.365331,51.912688,0.000000
+            4.364827,51.917957,0.000000
+            4.362482,51.922859,0.000000
+            4.363281,51.923691,0.000000
+            4.363617,51.923290,0.000000
+            4.365111,51.921505,0.000000
+            4.366728,51.914327,0.000000
+            4.366981,51.913879,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

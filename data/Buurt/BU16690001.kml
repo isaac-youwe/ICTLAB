@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16690001 Herkenbosch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.068986,51.141967,0.000000
+            6.065960,51.141866,0.000000
+            6.065264,51.143766,0.000000
+            6.058651,51.144736,0.000000
+            6.054570,51.146693,0.000000
+            6.052520,51.153594,0.000000
+            6.054006,51.155901,0.000000
+            6.057415,51.157709,0.000000
+            6.058211,51.161037,0.000000
+            6.061630,51.160177,0.000000
+            6.073235,51.159412,0.000000
+            6.080480,51.155358,0.000000
+            6.091651,51.152128,0.000000
+            6.082112,51.148405,0.000000
+            6.073750,51.148116,0.000000
+            6.070820,51.145272,0.000000
+            6.071431,51.143699,0.000000
+            6.068986,51.141967,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

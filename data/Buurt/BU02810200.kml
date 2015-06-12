@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02810200 Wadenoijen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.375497,51.874566,0.000000
+            5.383765,51.874461,0.000000
+            5.392606,51.875108,0.000000
+            5.393396,51.874388,0.000000
+            5.390300,51.873123,0.000000
+            5.385909,51.872728,0.000000
+            5.376280,51.873579,0.000000
+            5.376164,51.871988,0.000000
+            5.367674,51.872613,0.000000
+            5.368102,51.874349,0.000000
+            5.358677,51.875215,0.000000
+            5.359749,51.876897,0.000000
+            5.363990,51.877998,0.000000
+            5.366146,51.877842,0.000000
+            5.367232,51.876504,0.000000
+            5.372024,51.875269,0.000000
+            5.375497,51.874566,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

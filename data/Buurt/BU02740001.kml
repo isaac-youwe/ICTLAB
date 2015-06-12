@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02740001 Renkum-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.743746,51.979649,0.000000
+            5.731917,51.977765,0.000000
+            5.727720,51.979192,0.000000
+            5.736392,51.983271,0.000000
+            5.740221,51.987463,0.000000
+            5.738610,51.994109,0.000000
+            5.752455,51.988472,0.000000
+            5.750599,51.984773,0.000000
+            5.743960,51.981460,0.000000
+            5.743103,51.980648,0.000000
+            5.744599,51.980113,0.000000
+            5.743746,51.979649,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03072504 Nijkerkerstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.446480,52.167945,0.000000
+            5.446109,52.167330,0.000000
+            5.428363,52.175726,0.000000
+            5.437538,52.184572,0.000000
+            5.438498,52.184400,0.000000
+            5.438387,52.183926,0.000000
+            5.439837,52.173138,0.000000
+            5.438375,52.173139,0.000000
+            5.439835,52.171341,0.000000
+            5.444217,52.168642,0.000000
+            5.446480,52.167945,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

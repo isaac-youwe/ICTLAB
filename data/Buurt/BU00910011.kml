@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00910011 De Domp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.694097,53.030009,0.000000
+            5.693075,53.027937,0.000000
+            5.690633,53.028169,0.000000
+            5.689128,53.024472,0.000000
+            5.681650,53.026490,0.000000
+            5.675565,53.029135,0.000000
+            5.677020,53.032988,0.000000
+            5.681557,53.035175,0.000000
+            5.686393,53.037034,0.000000
+            5.687837,53.040331,0.000000
+            5.693095,53.036550,0.000000
+            5.691890,53.033787,0.000000
+            5.694097,53.030009,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

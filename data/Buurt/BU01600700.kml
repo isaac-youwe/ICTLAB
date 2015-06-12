@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600700 Slagharen-Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.558476,52.635118,0.000000
+            6.564587,52.630665,0.000000
+            6.560940,52.628551,0.000000
+            6.565319,52.625379,0.000000
+            6.560706,52.622981,0.000000
+            6.556481,52.620786,0.000000
+            6.553743,52.622753,0.000000
+            6.551193,52.621368,0.000000
+            6.547144,52.624499,0.000000
+            6.546303,52.624035,0.000000
+            6.543329,52.626168,0.000000
+            6.543745,52.627754,0.000000
+            6.548843,52.630384,0.000000
+            6.546416,52.632168,0.000000
+            6.547504,52.632705,0.000000
+            6.549122,52.633212,0.000000
+            6.550652,52.631727,0.000000
+            6.552133,52.631688,0.000000
+            6.558476,52.635118,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08580004 Hoge Akkers</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.455673,51.348992,0.000000
+            5.463407,51.345330,0.000000
+            5.465966,51.346736,0.000000
+            5.466693,51.343633,0.000000
+            5.464042,51.341152,0.000000
+            5.457478,51.339808,0.000000
+            5.446128,51.343724,0.000000
+            5.443110,51.342376,0.000000
+            5.442335,51.343250,0.000000
+            5.443061,51.346028,0.000000
+            5.439980,51.347818,0.000000
+            5.451294,51.348803,0.000000
+            5.455673,51.348992,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

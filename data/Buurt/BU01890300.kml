@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01890300 Enter-Zuidwest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.577722,52.290234,0.000000
+            6.578547,52.283719,0.000000
+            6.573401,52.283939,0.000000
+            6.573812,52.286281,0.000000
+            6.570098,52.286044,0.000000
+            6.569646,52.292922,0.000000
+            6.575146,52.295241,0.000000
+            6.577870,52.295476,0.000000
+            6.580609,52.294780,0.000000
+            6.577722,52.290234,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

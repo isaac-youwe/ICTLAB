@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16740209 Nieuwenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.468111,51.545748,0.000000
+            4.465764,51.544648,0.000000
+            4.473420,51.552548,0.000000
+            4.486490,51.560232,0.000000
+            4.487202,51.560208,0.000000
+            4.500216,51.558509,0.000000
+            4.497622,51.549877,0.000000
+            4.482161,51.547116,0.000000
+            4.474885,51.546398,0.000000
+            4.468111,51.545748,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

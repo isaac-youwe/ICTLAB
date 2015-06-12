@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180570 Nieuweroord kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.576000,52.724499,0.000000
+            6.574423,52.724422,0.000000
+            6.559485,52.725034,0.000000
+            6.559657,52.726720,0.000000
+            6.562743,52.726712,0.000000
+            6.564656,52.728221,0.000000
+            6.570858,52.740677,0.000000
+            6.576005,52.739841,0.000000
+            6.572141,52.735839,0.000000
+            6.567198,52.726225,0.000000
+            6.577923,52.725803,0.000000
+            6.577504,52.725382,0.000000
+            6.576000,52.724499,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

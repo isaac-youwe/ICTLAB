@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16510200 Kantens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.629654,53.362998,0.000000
+            6.628291,53.362211,0.000000
+            6.627799,53.366220,0.000000
+            6.629695,53.367642,0.000000
+            6.633964,53.368855,0.000000
+            6.638097,53.368090,0.000000
+            6.639269,53.366900,0.000000
+            6.637148,53.366088,0.000000
+            6.637185,53.362932,0.000000
+            6.637164,53.362920,0.000000
+            6.634160,53.362951,0.000000
+            6.629654,53.362998,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

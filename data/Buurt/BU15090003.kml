@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15090003 Etten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.346102,51.914177,0.000000
+            6.344719,51.910782,0.000000
+            6.339834,51.912027,0.000000
+            6.341357,51.913367,0.000000
+            6.338924,51.914493,0.000000
+            6.333161,51.914738,0.000000
+            6.333529,51.915658,0.000000
+            6.328779,51.918898,0.000000
+            6.332404,51.920703,0.000000
+            6.334795,51.920664,0.000000
+            6.342019,51.917384,0.000000
+            6.342929,51.915906,0.000000
+            6.346102,51.914177,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

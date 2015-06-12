@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09180003 Vliegert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.980362,51.372486,0.000000
+            5.974866,51.362619,0.000000
+            5.969884,51.348109,0.000000
+            5.956706,51.342979,0.000000
+            5.944548,51.351348,0.000000
+            5.945319,51.354726,0.000000
+            5.952032,51.367469,0.000000
+            5.960288,51.372627,0.000000
+            5.960311,51.372581,0.000000
+            5.971813,51.373423,0.000000
+            5.980362,51.372486,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

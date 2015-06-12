@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05051915 Tweede Tol</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.645520,51.775318,0.000000
+            4.646721,51.772406,0.000000
+            4.645590,51.772438,0.000000
+            4.645618,51.763620,0.000000
+            4.649700,51.764746,0.000000
+            4.649094,51.762805,0.000000
+            4.633193,51.758841,0.000000
+            4.632745,51.760846,0.000000
+            4.643509,51.762756,0.000000
+            4.644282,51.772502,0.000000
+            4.645520,51.775318,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

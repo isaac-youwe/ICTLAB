@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15860104 Vragender</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.615730,51.986654,0.000000
+            6.615235,51.984771,0.000000
+            6.608086,51.985050,0.000000
+            6.606962,51.985630,0.000000
+            6.606613,51.986933,0.000000
+            6.608262,51.988407,0.000000
+            6.614031,51.987472,0.000000
+            6.615730,51.986654,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

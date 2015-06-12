@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02690104 Wezep-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.995771,52.465095,0.000000
+            5.992695,52.463923,0.000000
+            5.988310,52.467410,0.000000
+            6.002212,52.475431,0.000000
+            6.005559,52.477556,0.000000
+            6.011358,52.472982,0.000000
+            6.013112,52.471696,0.000000
+            5.995771,52.465095,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

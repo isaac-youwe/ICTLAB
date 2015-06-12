@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08520010 De Purmer (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.005740,52.468590,0.000000
+            4.994013,52.465018,0.000000
+            4.985314,52.468270,0.000000
+            4.986512,52.468960,0.000000
+            4.976584,52.472720,0.000000
+            4.995493,52.491602,0.000000
+            4.995623,52.491722,0.000000
+            4.998415,52.494308,0.000000
+            5.024846,52.485453,0.000000
+            5.023739,52.483588,0.000000
+            5.015428,52.479637,0.000000
+            5.013206,52.475332,0.000000
+            5.013336,52.473233,0.000000
+            5.011954,52.471854,0.000000
+            5.005740,52.468590,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

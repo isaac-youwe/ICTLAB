@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00090106 Lellens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.712079,53.297966,0.000000
+            6.708942,53.297263,0.000000
+            6.706731,53.298600,0.000000
+            6.706037,53.300978,0.000000
+            6.707197,53.302310,0.000000
+            6.711334,53.303155,0.000000
+            6.713742,53.302117,0.000000
+            6.714672,53.300319,0.000000
+            6.712079,53.297966,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

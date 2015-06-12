@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01932210 Mastenbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.070054,52.558596,0.000000
+            6.070288,52.558499,0.000000
+            6.068735,52.555643,0.000000
+            6.041493,52.547967,0.000000
+            6.019485,52.541854,0.000000
+            6.008260,52.545350,0.000000
+            6.007924,52.545454,0.000000
+            6.003564,52.549971,0.000000
+            6.033198,52.559701,0.000000
+            6.033185,52.558802,0.000000
+            6.062818,52.567626,0.000000
+            6.070054,52.558596,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

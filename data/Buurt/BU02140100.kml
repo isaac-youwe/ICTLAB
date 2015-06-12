@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140100 Beusichem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.285947,51.956235,0.000000
+            5.291863,51.952421,0.000000
+            5.293381,51.953765,0.000000
+            5.298513,51.951783,0.000000
+            5.298513,51.948326,0.000000
+            5.297022,51.946284,0.000000
+            5.291362,51.945582,0.000000
+            5.286089,51.945977,0.000000
+            5.281610,51.949534,0.000000
+            5.285432,51.951603,0.000000
+            5.281388,51.955125,0.000000
+            5.285947,51.956235,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

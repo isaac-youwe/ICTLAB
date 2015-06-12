@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02300202 t Harde-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.878322,52.414466,0.000000
+            5.887477,52.406613,0.000000
+            5.883012,52.404401,0.000000
+            5.877109,52.408603,0.000000
+            5.875973,52.408049,0.000000
+            5.870896,52.411274,0.000000
+            5.871792,52.411759,0.000000
+            5.865410,52.414926,0.000000
+            5.872402,52.418083,0.000000
+            5.878322,52.414466,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

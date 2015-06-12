@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04847104 De Burcht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.724634,52.105889,0.000000
+            4.733336,52.101277,0.000000
+            4.733247,52.101222,0.000000
+            4.724516,52.099375,0.000000
+            4.724510,52.099374,0.000000
+            4.724331,52.099567,0.000000
+            4.720149,52.102595,0.000000
+            4.719442,52.102100,0.000000
+            4.715797,52.102673,0.000000
+            4.712434,52.104487,0.000000
+            4.712826,52.105128,0.000000
+            4.717602,52.103747,0.000000
+            4.724634,52.105889,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

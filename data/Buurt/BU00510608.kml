@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510608 Verspreide huizen Rotsterhaule</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.877768,52.905681,0.000000
+            5.865887,52.894807,0.000000
+            5.865752,52.894848,0.000000
+            5.855388,52.898484,0.000000
+            5.855200,52.898548,0.000000
+            5.867328,52.910985,0.000000
+            5.855951,52.916998,0.000000
+            5.868444,52.921448,0.000000
+            5.885242,52.908926,0.000000
+            5.877768,52.905681,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.852262,52.931286,0.000000
+            5.840897,52.924702,0.000000
+            5.828641,52.930798,0.000000
+            5.825570,52.930734,0.000000
+            5.824837,52.931276,0.000000
+            5.828596,52.933720,0.000000
+            5.830430,52.937333,0.000000
+            5.837028,52.942137,0.000000
+            5.839843,52.942695,0.000000
+            5.854093,52.932268,0.000000
+            5.852262,52.931286,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

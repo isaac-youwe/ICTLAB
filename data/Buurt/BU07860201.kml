@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07860201 Nieuw Veld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.720352,51.749604,0.000000
+            5.721048,51.747496,0.000000
+            5.716877,51.747307,0.000000
+            5.716382,51.745241,0.000000
+            5.715573,51.745057,0.000000
+            5.710340,51.746061,0.000000
+            5.709186,51.747469,0.000000
+            5.710204,51.749190,0.000000
+            5.714695,51.748648,0.000000
+            5.715466,51.751620,0.000000
+            5.720352,51.749604,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

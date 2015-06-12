@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03071602 Bosweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.395434,52.140868,0.000000
+            5.387320,52.138671,0.000000
+            5.385537,52.140185,0.000000
+            5.383246,52.139571,0.000000
+            5.385338,52.143795,0.000000
+            5.390750,52.144921,0.000000
+            5.394341,52.142065,0.000000
+            5.395434,52.140868,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

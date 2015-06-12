@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05890101 Goudse Straatweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.866573,52.022368,0.000000
+            4.869702,52.018715,0.000000
+            4.868760,52.018341,0.000000
+            4.865751,52.020837,0.000000
+            4.860440,52.019219,0.000000
+            4.858328,52.021064,0.000000
+            4.863474,52.023346,0.000000
+            4.867132,52.023433,0.000000
+            4.866573,52.022368,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02431302 Uitbreiding Lorentz</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.648592,52.367918,0.000000
+            5.652976,52.364313,0.000000
+            5.653509,52.364591,0.000000
+            5.653705,52.364407,0.000000
+            5.653607,52.361662,0.000000
+            5.650436,52.359744,0.000000
+            5.640603,52.366022,0.000000
+            5.644187,52.367928,0.000000
+            5.648592,52.367918,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

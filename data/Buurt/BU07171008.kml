@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07171008 Verspreide huizen in recreatiegebied van Biggekerke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.500499,51.493683,0.000000
+            3.505817,51.488402,0.000000
+            3.507136,51.489088,0.000000
+            3.505605,51.489946,0.000000
+            3.505390,51.492232,0.000000
+            3.508162,51.492745,0.000000
+            3.512102,51.488713,0.000000
+            3.516791,51.488536,0.000000
+            3.520891,51.487420,0.000000
+            3.523742,51.481041,0.000000
+            3.511230,51.479226,0.000000
+            3.511103,51.479376,0.000000
+            3.509590,51.481150,0.000000
+            3.506600,51.483799,0.000000
+            3.503572,51.487347,0.000000
+            3.496389,51.493293,0.000000
+            3.496672,51.493853,0.000000
+            3.506028,51.495905,0.000000
+            3.506771,51.494804,0.000000
+            3.500499,51.493683,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

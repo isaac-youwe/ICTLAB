@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02460001 Veessen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.095708,52.375812,0.000000
+            6.084373,52.374667,0.000000
+            6.082469,52.374864,0.000000
+            6.081773,52.376912,0.000000
+            6.084061,52.381082,0.000000
+            6.087111,52.381117,0.000000
+            6.088873,52.379386,0.000000
+            6.095081,52.377771,0.000000
+            6.095708,52.375812,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

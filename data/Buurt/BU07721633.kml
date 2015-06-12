@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721633 Grasrijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.426020,51.436577,0.000000
+            5.426961,51.429959,0.000000
+            5.421720,51.432418,0.000000
+            5.417406,51.432419,0.000000
+            5.416352,51.431433,0.000000
+            5.414381,51.429815,0.000000
+            5.411652,51.431522,0.000000
+            5.410216,51.435118,0.000000
+            5.405175,51.436694,0.000000
+            5.403207,51.439429,0.000000
+            5.418488,51.442745,0.000000
+            5.420844,51.444000,0.000000
+            5.426556,51.439842,0.000000
+            5.426020,51.436577,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

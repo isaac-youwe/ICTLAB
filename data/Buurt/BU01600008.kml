@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600008 Marslanden en bedrijventerrein Haardijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.617052,52.588460,0.000000
+            6.622569,52.583802,0.000000
+            6.601744,52.575093,0.000000
+            6.590434,52.569900,0.000000
+            6.590921,52.572084,0.000000
+            6.588896,52.574616,0.000000
+            6.586300,52.573441,0.000000
+            6.585596,52.575381,0.000000
+            6.586442,52.576815,0.000000
+            6.594264,52.580341,0.000000
+            6.596782,52.581173,0.000000
+            6.596896,52.582784,0.000000
+            6.603948,52.583354,0.000000
+            6.606508,52.586771,0.000000
+            6.610620,52.585836,0.000000
+            6.617052,52.588460,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

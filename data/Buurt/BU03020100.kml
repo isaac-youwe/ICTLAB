@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03020100 Elspeet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.790003,52.296995,0.000000
+            5.790572,52.296275,0.000000
+            5.788906,52.296315,0.000000
+            5.790705,52.294418,0.000000
+            5.793186,52.295105,0.000000
+            5.795539,52.293638,0.000000
+            5.792925,52.288836,0.000000
+            5.792343,52.286726,0.000000
+            5.787889,52.286495,0.000000
+            5.786515,52.286834,0.000000
+            5.787766,52.288651,0.000000
+            5.785507,52.290364,0.000000
+            5.780808,52.289334,0.000000
+            5.774856,52.290056,0.000000
+            5.774899,52.295077,0.000000
+            5.776103,52.297626,0.000000
+            5.781385,52.296830,0.000000
+            5.784444,52.299050,0.000000
+            5.790003,52.296995,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

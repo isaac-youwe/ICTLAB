@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02520002 Malden-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.859800,51.791633,0.000000
+            5.864302,51.783348,0.000000
+            5.868112,51.783945,0.000000
+            5.867203,51.777826,0.000000
+            5.868356,51.776147,0.000000
+            5.859731,51.773926,0.000000
+            5.857574,51.776148,0.000000
+            5.852194,51.781374,0.000000
+            5.849966,51.789780,0.000000
+            5.849896,51.791244,0.000000
+            5.859800,51.791633,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06430000 Lekkerkerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.689614,51.906262,0.000000
+            4.689176,51.903203,0.000000
+            4.698263,51.904164,0.000000
+            4.698285,51.896034,0.000000
+            4.682513,51.893272,0.000000
+            4.676744,51.890540,0.000000
+            4.676323,51.890486,0.000000
+            4.674170,51.893808,0.000000
+            4.681703,51.896630,0.000000
+            4.683199,51.902352,0.000000
+            4.680640,51.902229,0.000000
+            4.681880,51.909397,0.000000
+            4.688435,51.909850,0.000000
+            4.688016,51.906311,0.000000
+            4.689614,51.906262,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

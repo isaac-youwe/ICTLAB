@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630764 Nieuwendammerdijk en Buiksloterdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.924436,52.395244,0.000000
+            4.925012,52.391236,0.000000
+            4.932133,52.391836,0.000000
+            4.933489,52.393033,0.000000
+            4.934980,52.393039,0.000000
+            4.941907,52.391028,0.000000
+            4.948012,52.386844,0.000000
+            4.952309,52.386740,0.000000
+            4.952314,52.386325,0.000000
+            4.944837,52.385644,0.000000
+            4.938408,52.386696,0.000000
+            4.939656,52.390608,0.000000
+            4.933174,52.391444,0.000000
+            4.924728,52.390692,0.000000
+            4.922782,52.397237,0.000000
+            4.921221,52.399088,0.000000
+            4.914694,52.400930,0.000000
+            4.914558,52.401486,0.000000
+            4.917166,52.401107,0.000000
+            4.922192,52.399374,0.000000
+            4.924436,52.395244,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

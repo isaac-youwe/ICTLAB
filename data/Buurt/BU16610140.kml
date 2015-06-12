@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16610140 Finsterwolde Ganzedijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.119594,53.205272,0.000000
+            7.118083,53.201406,0.000000
+            7.114072,53.201612,0.000000
+            7.115533,53.206073,0.000000
+            7.118022,53.206368,0.000000
+            7.119014,53.210506,0.000000
+            7.120524,53.211160,0.000000
+            7.123312,53.210757,0.000000
+            7.123774,53.206514,0.000000
+            7.119594,53.205272,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

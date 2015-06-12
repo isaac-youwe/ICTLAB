@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16810300 Drouwen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.798489,52.954614,0.000000
+            6.799711,52.951896,0.000000
+            6.806562,52.953594,0.000000
+            6.809503,52.952999,0.000000
+            6.809416,52.951993,0.000000
+            6.806029,52.950491,0.000000
+            6.798963,52.949488,0.000000
+            6.790797,52.949489,0.000000
+            6.790214,52.948264,0.000000
+            6.788733,52.948441,0.000000
+            6.789501,52.950940,0.000000
+            6.788241,52.956137,0.000000
+            6.799932,52.957395,0.000000
+            6.800596,52.956056,0.000000
+            6.798489,52.954614,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

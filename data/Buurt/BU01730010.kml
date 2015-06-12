@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01730010 De Essen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.930576,52.320692,0.000000
+            6.924823,52.318733,0.000000
+            6.917099,52.330449,0.000000
+            6.917613,52.330442,0.000000
+            6.930291,52.329412,0.000000
+            6.932622,52.329078,0.000000
+            6.934260,52.327448,0.000000
+            6.933750,52.321007,0.000000
+            6.930576,52.320692,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

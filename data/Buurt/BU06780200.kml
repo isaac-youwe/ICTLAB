@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06780200 Schore</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.997079,51.466586,0.000000
+            3.997198,51.464782,0.000000
+            4.001127,51.464997,0.000000
+            4.005636,51.463831,0.000000
+            4.005770,51.462244,0.000000
+            4.000940,51.459878,0.000000
+            3.999882,51.460548,0.000000
+            3.998045,51.459621,0.000000
+            3.995839,51.460778,0.000000
+            3.994314,51.463428,0.000000
+            3.995533,51.466405,0.000000
+            3.997079,51.466586,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

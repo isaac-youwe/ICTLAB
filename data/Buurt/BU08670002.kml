@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08670002 Baardwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.104747,51.694150,0.000000
+            5.098327,51.693254,0.000000
+            5.089873,51.693301,0.000000
+            5.089975,51.688863,0.000000
+            5.092712,51.688122,0.000000
+            5.105047,51.689828,0.000000
+            5.105151,51.689843,0.000000
+            5.105188,51.684010,0.000000
+            5.090066,51.684268,0.000000
+            5.090154,51.687745,0.000000
+            5.086903,51.687307,0.000000
+            5.086419,51.693654,0.000000
+            5.075183,51.691279,0.000000
+            5.074479,51.693589,0.000000
+            5.094964,51.695995,0.000000
+            5.103942,51.695141,0.000000
+            5.104747,51.694150,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

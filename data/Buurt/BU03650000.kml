@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03650000 De Rijp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.845546,52.558303,0.000000
+            4.844743,52.558293,0.000000
+            4.845080,52.560069,0.000000
+            4.841133,52.560235,0.000000
+            4.840264,52.564603,0.000000
+            4.841969,52.564659,0.000000
+            4.842433,52.565993,0.000000
+            4.852177,52.566199,0.000000
+            4.854863,52.571950,0.000000
+            4.863478,52.571988,0.000000
+            4.863521,52.568393,0.000000
+            4.863472,52.568206,0.000000
+            4.862110,52.562994,0.000000
+            4.856400,52.558579,0.000000
+            4.845546,52.558303,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

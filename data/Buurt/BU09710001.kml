@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09710001 Kerensheide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.773327,50.971566,0.000000
+            5.765703,50.970242,0.000000
+            5.767268,50.978328,0.000000
+            5.769263,50.982545,0.000000
+            5.769746,50.983290,0.000000
+            5.782991,50.981695,0.000000
+            5.783122,50.981357,0.000000
+            5.785828,50.974363,0.000000
+            5.779702,50.973762,0.000000
+            5.773327,50.971566,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

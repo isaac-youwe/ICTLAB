@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000800 Julianadorp-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.736870,52.912988,0.000000
+            4.749932,52.912227,0.000000
+            4.750079,52.912945,0.000000
+            4.753681,52.912822,0.000000
+            4.757567,52.912566,0.000000
+            4.755195,52.898087,0.000000
+            4.751963,52.898525,0.000000
+            4.751236,52.892161,0.000000
+            4.748067,52.892065,0.000000
+            4.747475,52.898406,0.000000
+            4.742931,52.898744,0.000000
+            4.736587,52.899351,0.000000
+            4.736870,52.912988,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

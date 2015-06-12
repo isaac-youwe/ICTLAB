@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950010 Reeuwijk Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.701976,52.060274,0.000000
+            4.702951,52.057700,0.000000
+            4.715752,52.048945,0.000000
+            4.711308,52.045221,0.000000
+            4.704216,52.040351,0.000000
+            4.687440,52.043427,0.000000
+            4.677221,52.044264,0.000000
+            4.680037,52.050574,0.000000
+            4.679307,52.050952,0.000000
+            4.684073,52.051077,0.000000
+            4.687032,52.058870,0.000000
+            4.691162,52.057825,0.000000
+            4.701976,52.060274,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

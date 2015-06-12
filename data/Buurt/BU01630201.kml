@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01630201 Zeeheldenwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.449575,52.374913,0.000000
+            6.453867,52.366833,0.000000
+            6.453987,52.366630,0.000000
+            6.446784,52.367043,0.000000
+            6.446067,52.367098,0.000000
+            6.446764,52.371045,0.000000
+            6.443269,52.370975,0.000000
+            6.442780,52.374890,0.000000
+            6.449575,52.374913,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

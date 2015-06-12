@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02221103 De Pol en Akkermansweide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.346976,51.936305,0.000000
+            6.343805,51.932941,0.000000
+            6.340335,51.930363,0.000000
+            6.337214,51.927350,0.000000
+            6.340360,51.925585,0.000000
+            6.339593,51.925686,0.000000
+            6.336685,51.925710,0.000000
+            6.333778,51.925733,0.000000
+            6.332957,51.926150,0.000000
+            6.326584,51.929387,0.000000
+            6.322334,51.934815,0.000000
+            6.321773,51.935171,0.000000
+            6.325139,51.935882,0.000000
+            6.328524,51.935459,0.000000
+            6.332585,51.934668,0.000000
+            6.333934,51.935284,0.000000
+            6.334642,51.937197,0.000000
+            6.340275,51.937861,0.000000
+            6.343708,51.939681,0.000000
+            6.347061,51.937772,0.000000
+            6.346976,51.936305,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

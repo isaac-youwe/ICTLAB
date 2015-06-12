@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05184004 Lage Veld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.300058,52.026103,0.000000
+            4.304081,52.022105,0.000000
+            4.304053,52.022094,0.000000
+            4.302654,52.022396,0.000000
+            4.294376,52.019755,0.000000
+            4.294384,52.019758,0.000000
+            4.287270,52.023161,0.000000
+            4.297811,52.026304,0.000000
+            4.299826,52.026379,0.000000
+            4.300058,52.026103,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

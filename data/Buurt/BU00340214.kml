@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340214 Literatuurwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.192361,52.354718,0.000000
+            5.177837,52.349805,0.000000
+            5.173306,52.349937,0.000000
+            5.173416,52.353984,0.000000
+            5.171140,52.358555,0.000000
+            5.183348,52.364207,0.000000
+            5.186906,52.362239,0.000000
+            5.194264,52.360821,0.000000
+            5.192109,52.357109,0.000000
+            5.192361,52.354718,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

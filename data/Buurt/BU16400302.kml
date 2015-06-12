@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16400302 Neeritter</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.803241,51.159288,0.000000
+            5.800412,51.158411,0.000000
+            5.790282,51.171219,0.000000
+            5.801887,51.172833,0.000000
+            5.810014,51.175866,0.000000
+            5.812470,51.173882,0.000000
+            5.813613,51.170054,0.000000
+            5.808611,51.169189,0.000000
+            5.814377,51.164440,0.000000
+            5.808872,51.161033,0.000000
+            5.803241,51.159288,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

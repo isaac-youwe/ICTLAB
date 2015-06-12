@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000605 Blauwe Keet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.782322,52.895174,0.000000
+            4.782011,52.894790,0.000000
+            4.766169,52.896361,0.000000
+            4.763323,52.896694,0.000000
+            4.762481,52.897479,0.000000
+            4.755195,52.898087,0.000000
+            4.757567,52.912566,0.000000
+            4.753681,52.912822,0.000000
+            4.754056,52.914119,0.000000
+            4.774206,52.913080,0.000000
+            4.778899,52.905873,0.000000
+            4.782358,52.903927,0.000000
+            4.788079,52.902284,0.000000
+            4.782322,52.895174,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

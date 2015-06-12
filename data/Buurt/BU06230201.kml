@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06230201 Bovenkerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.787325,51.981439,0.000000
+            4.800394,51.976505,0.000000
+            4.802819,51.972482,0.000000
+            4.780302,51.969150,0.000000
+            4.778043,51.973801,0.000000
+            4.774209,51.976485,0.000000
+            4.771837,51.976096,0.000000
+            4.768037,51.978792,0.000000
+            4.787325,51.981439,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

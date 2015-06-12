@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09280004 Gracht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.017658,50.843669,0.000000
+            6.016238,50.843677,0.000000
+            6.010691,50.847249,0.000000
+            6.014369,50.849588,0.000000
+            6.032370,50.855205,0.000000
+            6.043581,50.857345,0.000000
+            6.050037,50.857592,0.000000
+            6.055576,50.858339,0.000000
+            6.056132,50.857044,0.000000
+            6.056187,50.856938,0.000000
+            6.054768,50.856946,0.000000
+            6.050469,50.854274,0.000000
+            6.041897,50.850727,0.000000
+            6.034784,50.849868,0.000000
+            6.019114,50.846358,0.000000
+            6.017658,50.843669,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

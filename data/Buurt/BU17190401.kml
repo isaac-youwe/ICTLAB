@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17190401 Blauwe Sluis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.700296,51.699786,0.000000
+            4.701937,51.693998,0.000000
+            4.701317,51.692518,0.000000
+            4.699830,51.693017,0.000000
+            4.692806,51.695434,0.000000
+            4.693758,51.696998,0.000000
+            4.697844,51.695484,0.000000
+            4.695695,51.701471,0.000000
+            4.696120,51.703287,0.000000
+            4.699577,51.706437,0.000000
+            4.703255,51.703677,0.000000
+            4.700296,51.699786,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17350605 Vogelweiden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.736162,52.256272,0.000000
+            6.721799,52.255794,0.000000
+            6.720764,52.258162,0.000000
+            6.719526,52.258319,0.000000
+            6.718604,52.260187,0.000000
+            6.719332,52.260212,0.000000
+            6.736395,52.260818,0.000000
+            6.738208,52.257739,0.000000
+            6.736162,52.256272,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

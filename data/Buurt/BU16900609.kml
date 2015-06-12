@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16900609 Verspreide huizen Veeningen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.400352,52.674727,0.000000
+            6.399803,52.672854,0.000000
+            6.396084,52.673175,0.000000
+            6.393568,52.669328,0.000000
+            6.393271,52.666722,0.000000
+            6.392436,52.659363,0.000000
+            6.373073,52.659976,0.000000
+            6.371083,52.659270,0.000000
+            6.363917,52.661737,0.000000
+            6.358554,52.665908,0.000000
+            6.356620,52.672324,0.000000
+            6.348768,52.673227,0.000000
+            6.342288,52.678826,0.000000
+            6.353760,52.683127,0.000000
+            6.374479,52.685550,0.000000
+            6.389159,52.691655,0.000000
+            6.400501,52.685147,0.000000
+            6.398729,52.683171,0.000000
+            6.400352,52.674727,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.368673,52.667241,0.000000
+            6.372855,52.667036,0.000000
+            6.372364,52.671946,0.000000
+            6.369431,52.672190,0.000000
+            6.365360,52.671355,0.000000
+            6.365383,52.670024,0.000000
+            6.368640,52.669931,0.000000
+            6.368673,52.667241,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830501 Ter Heijde aan Zee</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.168129,52.028817,0.000000
+            4.156674,52.021655,0.000000
+            4.154295,52.022765,0.000000
+            4.154408,52.022870,0.000000
+            4.162953,52.030151,0.000000
+            4.162929,52.031050,0.000000
+            4.170141,52.033822,0.000000
+            4.170248,52.033904,0.000000
+            4.174523,52.032215,0.000000
+            4.168129,52.028817,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

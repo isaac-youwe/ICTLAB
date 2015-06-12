@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08450209 Verspreide huizen Maaskantje</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.368698,51.657903,0.000000
+            5.360865,51.655040,0.000000
+            5.352992,51.657771,0.000000
+            5.349542,51.657979,0.000000
+            5.342094,51.665155,0.000000
+            5.341291,51.665928,0.000000
+            5.340942,51.666145,0.000000
+            5.343832,51.667045,0.000000
+            5.353949,51.671543,0.000000
+            5.355393,51.674241,0.000000
+            5.355276,51.674313,0.000000
+            5.357060,51.673357,0.000000
+            5.355327,51.672281,0.000000
+            5.356000,51.671273,0.000000
+            5.368698,51.657903,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

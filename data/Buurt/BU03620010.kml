@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03620010 Oude Dorp en Bovenkerk-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.845575,52.299693,0.000000
+            4.843372,52.291666,0.000000
+            4.839985,52.292113,0.000000
+            4.835791,52.286711,0.000000
+            4.829870,52.287734,0.000000
+            4.823927,52.289899,0.000000
+            4.823355,52.290417,0.000000
+            4.833499,52.294540,0.000000
+            4.840018,52.292634,0.000000
+            4.844311,52.300419,0.000000
+            4.843661,52.301364,0.000000
+            4.839251,52.302859,0.000000
+            4.840203,52.305162,0.000000
+            4.849962,52.303600,0.000000
+            4.845575,52.299693,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

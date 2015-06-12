@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03580204 Noordoostboezem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.821292,52.292316,0.000000
+            4.787326,52.279976,0.000000
+            4.782915,52.284659,0.000000
+            4.783315,52.284867,0.000000
+            4.792013,52.292103,0.000000
+            4.792175,52.292514,0.000000
+            4.794907,52.292185,0.000000
+            4.798766,52.287820,0.000000
+            4.819621,52.295153,0.000000
+            4.819831,52.294936,0.000000
+            4.821292,52.292316,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01660303 De Waard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.923911,52.567670,0.000000
+            5.920262,52.566012,0.000000
+            5.917038,52.567297,0.000000
+            5.919426,52.579927,0.000000
+            5.912832,52.586289,0.000000
+            5.919096,52.588415,0.000000
+            5.928570,52.586469,0.000000
+            5.928599,52.582324,0.000000
+            5.931619,52.580980,0.000000
+            5.931865,52.579292,0.000000
+            5.933368,52.578239,0.000000
+            5.933800,52.576427,0.000000
+            5.932176,52.574797,0.000000
+            5.929673,52.573630,0.000000
+            5.923911,52.567670,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

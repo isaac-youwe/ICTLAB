@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770102 Plan De Vloedkampen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.278285,52.377223,0.000000
+            6.277631,52.372834,0.000000
+            6.277390,52.369660,0.000000
+            6.272612,52.368244,0.000000
+            6.266190,52.367957,0.000000
+            6.264213,52.368168,0.000000
+            6.263017,52.372325,0.000000
+            6.269562,52.375699,0.000000
+            6.270296,52.376963,0.000000
+            6.273312,52.376254,0.000000
+            6.278285,52.377223,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

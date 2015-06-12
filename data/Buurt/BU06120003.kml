@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06120003 Vogelbuurt C.S.</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.328166,51.845006,0.000000
+            4.325580,51.844360,0.000000
+            4.322082,51.847044,0.000000
+            4.320657,51.848200,0.000000
+            4.322251,51.848570,0.000000
+            4.325024,51.849142,0.000000
+            4.327208,51.848410,0.000000
+            4.328166,51.845006,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

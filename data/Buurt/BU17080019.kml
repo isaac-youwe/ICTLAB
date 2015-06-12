@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080019 Witte Paarden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.082499,52.806615,0.000000
+            6.081065,52.806284,0.000000
+            6.076013,52.808987,0.000000
+            6.075900,52.809703,0.000000
+            6.080215,52.811448,0.000000
+            6.078807,52.812774,0.000000
+            6.079681,52.813032,0.000000
+            6.083179,52.810263,0.000000
+            6.082499,52.806615,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

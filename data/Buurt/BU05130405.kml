@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130405 Bodegraafsestraatweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.719823,52.026517,0.000000
+            4.719383,52.026204,0.000000
+            4.717503,52.026465,0.000000
+            4.718234,52.028687,0.000000
+            4.717424,52.034244,0.000000
+            4.716634,52.037337,0.000000
+            4.719352,52.035692,0.000000
+            4.719631,52.035523,0.000000
+            4.719705,52.030535,0.000000
+            4.719711,52.030130,0.000000
+            4.719765,52.026534,0.000000
+            4.719823,52.026517,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

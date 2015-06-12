@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500000 Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.159474,52.249724,0.000000
+            6.158291,52.249294,0.000000
+            6.152763,52.251814,0.000000
+            6.155724,52.253830,0.000000
+            6.153222,52.255597,0.000000
+            6.152802,52.255773,0.000000
+            6.154927,52.256436,0.000000
+            6.160557,52.253732,0.000000
+            6.161206,52.251997,0.000000
+            6.159474,52.249724,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

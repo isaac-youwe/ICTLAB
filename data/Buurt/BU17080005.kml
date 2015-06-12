@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080005 Oostwijken, De Beitel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.131694,52.782576,0.000000
+            6.127574,52.782258,0.000000
+            6.123678,52.784560,0.000000
+            6.118180,52.784862,0.000000
+            6.119862,52.785475,0.000000
+            6.120651,52.787940,0.000000
+            6.121389,52.790529,0.000000
+            6.130493,52.789028,0.000000
+            6.131777,52.787917,0.000000
+            6.129443,52.783299,0.000000
+            6.131694,52.782576,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

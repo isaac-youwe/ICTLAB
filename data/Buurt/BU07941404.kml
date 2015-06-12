@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07941404 Brouwhorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.722998,51.469440,0.000000
+            5.717582,51.468105,0.000000
+            5.705669,51.470071,0.000000
+            5.690868,51.472447,0.000000
+            5.690695,51.473001,0.000000
+            5.700017,51.472305,0.000000
+            5.713345,51.471447,0.000000
+            5.723006,51.470142,0.000000
+            5.722998,51.469440,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

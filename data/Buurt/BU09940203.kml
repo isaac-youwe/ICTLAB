@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09940203 Walem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.873046,50.865044,0.000000
+            5.870225,50.858950,0.000000
+            5.867180,50.858992,0.000000
+            5.862763,50.867637,0.000000
+            5.861705,50.870027,0.000000
+            5.868168,50.871476,0.000000
+            5.868275,50.872683,0.000000
+            5.869090,50.872193,0.000000
+            5.871005,50.871042,0.000000
+            5.871066,50.870865,0.000000
+            5.873046,50.865044,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09380202 Geulle</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.740425,50.922715,0.000000
+            5.729240,50.912214,0.000000
+            5.728082,50.913532,0.000000
+            5.727001,50.913611,0.000000
+            5.725708,50.920408,0.000000
+            5.727157,50.924000,0.000000
+            5.732893,50.930275,0.000000
+            5.741470,50.935644,0.000000
+            5.745794,50.942822,0.000000
+            5.748626,50.941015,0.000000
+            5.750034,50.939213,0.000000
+            5.748584,50.935622,0.000000
+            5.748596,50.935616,0.000000
+            5.745024,50.928293,0.000000
+            5.740425,50.922715,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07560700 Overloon Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.952841,51.570670,0.000000
+            5.955249,51.566349,0.000000
+            5.953717,51.565947,0.000000
+            5.952357,51.566981,0.000000
+            5.947696,51.565744,0.000000
+            5.942592,51.567903,0.000000
+            5.934849,51.569772,0.000000
+            5.933309,51.572783,0.000000
+            5.938900,51.573448,0.000000
+            5.940330,51.574564,0.000000
+            5.946007,51.576002,0.000000
+            5.954305,51.576394,0.000000
+            5.959731,51.575771,0.000000
+            5.955178,51.571398,0.000000
+            5.952841,51.570670,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

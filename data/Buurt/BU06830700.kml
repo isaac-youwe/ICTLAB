@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830700 Woudsend</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.647234,52.940699,0.000000
+            5.649693,52.939066,0.000000
+            5.640791,52.939620,0.000000
+            5.638748,52.937777,0.000000
+            5.630469,52.938226,0.000000
+            5.619840,52.939405,0.000000
+            5.619251,52.942480,0.000000
+            5.621209,52.945574,0.000000
+            5.627421,52.946595,0.000000
+            5.627850,52.947837,0.000000
+            5.631548,52.944903,0.000000
+            5.645211,52.944044,0.000000
+            5.647234,52.940699,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

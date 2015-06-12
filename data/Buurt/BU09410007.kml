@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09410007 Verspreide huizen Berg en Nederweerterdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.873839,51.347279,0.000000
+            5.840744,51.330669,0.000000
+            5.832138,51.338080,0.000000
+            5.840838,51.347036,0.000000
+            5.855937,51.349673,0.000000
+            5.868531,51.351871,0.000000
+            5.873839,51.347279,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

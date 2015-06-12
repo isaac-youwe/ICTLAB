@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05032405 Roland Holstbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.352680,51.987227,0.000000
+            4.352205,51.987162,0.000000
+            4.351780,51.988154,0.000000
+            4.351653,51.988457,0.000000
+            4.353461,51.989733,0.000000
+            4.350153,51.996356,0.000000
+            4.354764,51.996896,0.000000
+            4.358261,51.989798,0.000000
+            4.358769,51.989038,0.000000
+            4.352680,51.987227,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

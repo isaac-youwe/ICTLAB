@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17011600 Doldersum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.250807,52.885998,0.000000
+            6.241145,52.882637,0.000000
+            6.240728,52.883996,0.000000
+            6.244251,52.885377,0.000000
+            6.242133,52.887626,0.000000
+            6.245145,52.888671,0.000000
+            6.249589,52.888549,0.000000
+            6.250807,52.885998,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

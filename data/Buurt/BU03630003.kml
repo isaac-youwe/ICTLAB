@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630003 Grachtengordel-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.901120,52.365781,0.000000
+            4.902634,52.362874,0.000000
+            4.896035,52.361651,0.000000
+            4.887941,52.362730,0.000000
+            4.884427,52.365060,0.000000
+            4.888779,52.367023,0.000000
+            4.895733,52.365749,0.000000
+            4.895819,52.367463,0.000000
+            4.900127,52.366866,0.000000
+            4.901120,52.365781,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

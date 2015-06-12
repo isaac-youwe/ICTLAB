@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600809 Verspreide huizen Loozen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.675409,52.602346,0.000000
+            6.673568,52.599000,0.000000
+            6.676270,52.598041,0.000000
+            6.683541,52.592985,0.000000
+            6.688577,52.592145,0.000000
+            6.694991,52.589715,0.000000
+            6.680490,52.576656,0.000000
+            6.678597,52.577588,0.000000
+            6.665346,52.579084,0.000000
+            6.659243,52.583296,0.000000
+            6.653865,52.585985,0.000000
+            6.650191,52.592765,0.000000
+            6.655651,52.594522,0.000000
+            6.657677,52.597267,0.000000
+            6.657484,52.599418,0.000000
+            6.664139,52.599427,0.000000
+            6.663131,52.601071,0.000000
+            6.671287,52.599644,0.000000
+            6.672567,52.602544,0.000000
+            6.675409,52.602346,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

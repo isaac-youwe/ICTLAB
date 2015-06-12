@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00803801 Hemrik</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.851073,53.191484,0.000000
+            5.853726,53.186599,0.000000
+            5.848434,53.189144,0.000000
+            5.837787,53.188221,0.000000
+            5.838023,53.190839,0.000000
+            5.836230,53.192877,0.000000
+            5.834015,53.195593,0.000000
+            5.830072,53.200646,0.000000
+            5.837170,53.201471,0.000000
+            5.857193,53.203911,0.000000
+            5.857185,53.203143,0.000000
+            5.861586,53.195038,0.000000
+            5.851073,53.191484,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

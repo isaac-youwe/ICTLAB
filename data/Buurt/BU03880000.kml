@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03880000 Centrum Vissersbuurt Oosterhaven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.293990,52.699839,0.000000
+            5.293634,52.699766,0.000000
+            5.285160,52.701373,0.000000
+            5.284043,52.704128,0.000000
+            5.288783,52.706707,0.000000
+            5.288233,52.709141,0.000000
+            5.295853,52.710379,0.000000
+            5.299892,52.707932,0.000000
+            5.304337,52.705239,0.000000
+            5.293990,52.699839,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

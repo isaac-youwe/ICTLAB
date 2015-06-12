@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01750103 Buurtschap Arri_n</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.460915,52.519870,0.000000
+            6.449506,52.515126,0.000000
+            6.444408,52.515800,0.000000
+            6.440674,52.517592,0.000000
+            6.440573,52.521776,0.000000
+            6.437552,52.529337,0.000000
+            6.433126,52.539233,0.000000
+            6.459728,52.544519,0.000000
+            6.480726,52.545338,0.000000
+            6.481659,52.541803,0.000000
+            6.484758,52.530012,0.000000
+            6.470603,52.522326,0.000000
+            6.460915,52.519870,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

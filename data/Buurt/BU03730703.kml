@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03730703 Catrijp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.681145,52.713644,0.000000
+            4.676957,52.707808,0.000000
+            4.636987,52.707597,0.000000
+            4.638327,52.711900,0.000000
+            4.638323,52.712156,0.000000
+            4.664502,52.712161,0.000000
+            4.669853,52.712823,0.000000
+            4.678383,52.720154,0.000000
+            4.685702,52.716760,0.000000
+            4.681145,52.713644,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

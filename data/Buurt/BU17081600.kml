@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17081600 Blokzijl kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.960490,52.728210,0.000000
+            5.964854,52.728174,0.000000
+            5.967848,52.728174,0.000000
+            5.970516,52.725074,0.000000
+            5.961923,52.722760,0.000000
+            5.960705,52.724269,0.000000
+            5.955512,52.723562,0.000000
+            5.957025,52.729323,0.000000
+            5.959331,52.729128,0.000000
+            5.960490,52.728210,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00830100 Marssum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.733532,53.208944,0.000000
+            5.731072,53.208287,0.000000
+            5.721793,53.208327,0.000000
+            5.719780,53.209508,0.000000
+            5.720984,53.211922,0.000000
+            5.728304,53.215991,0.000000
+            5.730906,53.215639,0.000000
+            5.734058,53.213286,0.000000
+            5.734600,53.211649,0.000000
+            5.734669,53.211439,0.000000
+            5.734576,53.211434,0.000000
+            5.733747,53.211391,0.000000
+            5.733532,53.208944,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04060204 Flevo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.201795,52.297709,0.000000
+            5.203205,52.294317,0.000000
+            5.207042,52.294837,0.000000
+            5.205732,52.290954,0.000000
+            5.203750,52.290197,0.000000
+            5.195175,52.288576,0.000000
+            5.195174,52.288950,0.000000
+            5.194898,52.289119,0.000000
+            5.192234,52.290743,0.000000
+            5.187828,52.292534,0.000000
+            5.193684,52.294341,0.000000
+            5.195131,52.298838,0.000000
+            5.198060,52.299742,0.000000
+            5.202282,52.300036,0.000000
+            5.201795,52.297709,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

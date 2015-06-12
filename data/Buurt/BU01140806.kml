@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140806 Derksweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.971805,52.717648,0.000000
+            6.969902,52.702835,0.000000
+            6.964695,52.703987,0.000000
+            6.967018,52.708843,0.000000
+            6.964433,52.708948,0.000000
+            6.964636,52.710740,0.000000
+            6.967732,52.710614,0.000000
+            6.968599,52.717364,0.000000
+            6.967848,52.717874,0.000000
+            6.970192,52.719105,0.000000
+            6.971805,52.717648,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

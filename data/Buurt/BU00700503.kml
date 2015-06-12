@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700503 Industriegebied West en bedrijventerrein Kie</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.526278,53.180062,0.000000
+            5.523988,53.177146,0.000000
+            5.526294,53.175931,0.000000
+            5.521506,53.174812,0.000000
+            5.498282,53.173680,0.000000
+            5.494073,53.174470,0.000000
+            5.496402,53.177953,0.000000
+            5.496402,53.177986,0.000000
+            5.503108,53.177442,0.000000
+            5.504618,53.179456,0.000000
+            5.504473,53.181665,0.000000
+            5.506747,53.183968,0.000000
+            5.518022,53.184186,0.000000
+            5.529699,53.184441,0.000000
+            5.526278,53.180062,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

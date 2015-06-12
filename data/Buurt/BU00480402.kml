@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480402 Ter Apelkanaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.054168,52.889756,0.000000
+            7.043350,52.889377,0.000000
+            7.042910,52.905606,0.000000
+            7.040153,52.907432,0.000000
+            7.040414,52.907730,0.000000
+            7.044699,52.914945,0.000000
+            7.050950,52.921071,0.000000
+            7.054168,52.889756,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

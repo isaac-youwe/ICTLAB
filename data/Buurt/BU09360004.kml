@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09360004 Scheulder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.851677,50.826907,0.000000
+            5.848882,50.826654,0.000000
+            5.843488,50.827013,0.000000
+            5.835619,50.830135,0.000000
+            5.835772,50.830134,0.000000
+            5.837200,50.831028,0.000000
+            5.835824,50.835528,0.000000
+            5.844132,50.833738,0.000000
+            5.844324,50.833697,0.000000
+            5.853557,50.831147,0.000000
+            5.851401,50.829000,0.000000
+            5.851677,50.826907,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

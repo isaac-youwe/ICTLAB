@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280609 De Elzen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.515743,51.741446,0.000000
+            5.508784,51.740281,0.000000
+            5.506476,51.743594,0.000000
+            5.512939,51.745688,0.000000
+            5.517479,51.748170,0.000000
+            5.518313,51.747150,0.000000
+            5.515867,51.745336,0.000000
+            5.518984,51.742840,0.000000
+            5.515743,51.741446,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

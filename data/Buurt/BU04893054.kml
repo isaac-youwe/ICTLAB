@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04893054 Dordtsestraatweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.543880,51.864713,0.000000
+            4.536103,51.863762,0.000000
+            4.536127,51.869028,0.000000
+            4.535854,51.869096,0.000000
+            4.540125,51.869790,0.000000
+            4.540558,51.869860,0.000000
+            4.544073,51.871716,0.000000
+            4.544326,51.871590,0.000000
+            4.543275,51.870906,0.000000
+            4.544056,51.868451,0.000000
+            4.546680,51.867218,0.000000
+            4.547385,51.865716,0.000000
+            4.543880,51.864713,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

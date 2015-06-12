@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00390203 Scheemderzwaag</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.963431,53.182122,0.000000
+            6.960481,53.178158,0.000000
+            6.951261,53.179880,0.000000
+            6.951506,53.179123,0.000000
+            6.948564,53.179128,0.000000
+            6.947965,53.181120,0.000000
+            6.948641,53.185455,0.000000
+            6.951150,53.187879,0.000000
+            6.953527,53.187203,0.000000
+            6.958217,53.183426,0.000000
+            6.963431,53.182122,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

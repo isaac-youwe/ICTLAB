@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01660004 Kampen-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.922059,52.552442,0.000000
+            5.923959,52.551595,0.000000
+            5.926299,52.552180,0.000000
+            5.928297,52.547119,0.000000
+            5.927631,52.547078,0.000000
+            5.925953,52.548483,0.000000
+            5.921153,52.547089,0.000000
+            5.915953,52.549314,0.000000
+            5.916237,52.551346,0.000000
+            5.917362,52.551538,0.000000
+            5.918900,52.552533,0.000000
+            5.922059,52.552442,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

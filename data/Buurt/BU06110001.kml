@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06110001 Middelsluis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.438959,51.750656,0.000000
+            4.444981,51.749740,0.000000
+            4.449971,51.750359,0.000000
+            4.453567,51.749278,0.000000
+            4.451259,51.743128,0.000000
+            4.458146,51.744220,0.000000
+            4.458019,51.741304,0.000000
+            4.448824,51.739891,0.000000
+            4.445785,51.740045,0.000000
+            4.440291,51.739334,0.000000
+            4.431612,51.738188,0.000000
+            4.427674,51.737251,0.000000
+            4.428885,51.741682,0.000000
+            4.435994,51.742366,0.000000
+            4.438959,51.750656,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

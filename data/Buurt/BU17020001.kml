@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17020001 Ledeacker</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.877192,51.634319,0.000000
+            5.874924,51.633304,0.000000
+            5.869403,51.635380,0.000000
+            5.868681,51.636294,0.000000
+            5.869679,51.636667,0.000000
+            5.868971,51.637357,0.000000
+            5.873968,51.639170,0.000000
+            5.875863,51.638754,0.000000
+            5.877026,51.637364,0.000000
+            5.874600,51.637048,0.000000
+            5.877192,51.634319,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

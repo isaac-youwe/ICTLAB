@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05230002 Giessendam</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.832227,51.826193,0.000000
+            4.821979,51.824400,0.000000
+            4.812355,51.824850,0.000000
+            4.806801,51.822118,0.000000
+            4.805886,51.822676,0.000000
+            4.805474,51.822927,0.000000
+            4.803942,51.829213,0.000000
+            4.803941,51.829278,0.000000
+            4.803721,51.846292,0.000000
+            4.810422,51.849667,0.000000
+            4.810931,51.849923,0.000000
+            4.812383,51.849930,0.000000
+            4.838378,51.860842,0.000000
+            4.847410,51.833923,0.000000
+            4.847413,51.833915,0.000000
+            4.847431,51.832403,0.000000
+            4.845391,51.831447,0.000000
+            4.839832,51.831291,0.000000
+            4.833238,51.827992,0.000000
+            4.832227,51.826193,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

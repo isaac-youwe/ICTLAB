@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01710801 Rutten kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.702616,52.806488,0.000000
+            5.702706,52.804348,0.000000
+            5.697499,52.800928,0.000000
+            5.693232,52.802701,0.000000
+            5.695456,52.804986,0.000000
+            5.693431,52.805284,0.000000
+            5.691066,52.804142,0.000000
+            5.688392,52.805059,0.000000
+            5.690161,52.806903,0.000000
+            5.694193,52.808475,0.000000
+            5.697983,52.808437,0.000000
+            5.698031,52.807549,0.000000
+            5.698334,52.806513,0.000000
+            5.702616,52.806488,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

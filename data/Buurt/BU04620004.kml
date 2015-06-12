@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04620004 De Haukes</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.939422,52.890326,0.000000
+            4.933983,52.888656,0.000000
+            4.932516,52.886853,0.000000
+            4.934020,52.885061,0.000000
+            4.932544,52.884156,0.000000
+            4.920658,52.884111,0.000000
+            4.916348,52.885824,0.000000
+            4.920012,52.888100,0.000000
+            4.930615,52.890827,0.000000
+            4.931331,52.890289,0.000000
+            4.937323,52.891749,0.000000
+            4.939422,52.890326,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

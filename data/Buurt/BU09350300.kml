@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350300 Boschpoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.697565,50.860015,0.000000
+            5.689959,50.858227,0.000000
+            5.687456,50.862059,0.000000
+            5.675592,50.880988,0.000000
+            5.675682,50.880988,0.000000
+            5.679673,50.880135,0.000000
+            5.682900,50.875247,0.000000
+            5.694821,50.870556,0.000000
+            5.698888,50.866252,0.000000
+            5.697565,50.860015,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03520101 Gebied ten zuiden van Amsterdam-Rijnkanaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.326094,51.955598,0.000000
+            5.317366,51.954694,0.000000
+            5.311541,51.957387,0.000000
+            5.311494,51.957405,0.000000
+            5.299892,51.961874,0.000000
+            5.283883,51.962760,0.000000
+            5.269324,51.965443,0.000000
+            5.256211,51.970822,0.000000
+            5.266385,51.976227,0.000000
+            5.270736,51.980722,0.000000
+            5.271205,51.980965,0.000000
+            5.314810,51.969344,0.000000
+            5.340810,51.961168,0.000000
+            5.340638,51.960998,0.000000
+            5.339702,51.960998,0.000000
+            5.339183,51.960997,0.000000
+            5.333367,51.957399,0.000000
+            5.326094,51.955598,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

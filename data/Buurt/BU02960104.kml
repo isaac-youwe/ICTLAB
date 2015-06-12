@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02960104 Industrieterrein Nieuweweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.749768,51.809570,0.000000
+            5.745794,51.808525,0.000000
+            5.743426,51.810751,0.000000
+            5.740503,51.811705,0.000000
+            5.739936,51.813484,0.000000
+            5.746834,51.814805,0.000000
+            5.774254,51.820378,0.000000
+            5.774513,51.820134,0.000000
+            5.775956,51.819231,0.000000
+            5.776040,51.819071,0.000000
+            5.766483,51.816577,0.000000
+            5.760836,51.809880,0.000000
+            5.749768,51.809570,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

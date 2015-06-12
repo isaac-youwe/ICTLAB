@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00150301 Oldekerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.343277,53.224076,0.000000
+            6.345112,53.218359,0.000000
+            6.337178,53.218185,0.000000
+            6.337237,53.219069,0.000000
+            6.335066,53.219759,0.000000
+            6.330755,53.218546,0.000000
+            6.320879,53.219152,0.000000
+            6.317177,53.218757,0.000000
+            6.317152,53.219125,0.000000
+            6.316926,53.222561,0.000000
+            6.321478,53.223210,0.000000
+            6.336548,53.222126,0.000000
+            6.340614,53.222967,0.000000
+            6.339557,53.225285,0.000000
+            6.344152,53.226336,0.000000
+            6.347693,53.225506,0.000000
+            6.345007,53.225336,0.000000
+            6.343277,53.224076,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

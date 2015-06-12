@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00240003 Wirdumerdraai</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.792612,53.312790,0.000000
+            6.783085,53.311163,0.000000
+            6.780991,53.311327,0.000000
+            6.780202,53.312827,0.000000
+            6.783925,53.314959,0.000000
+            6.786953,53.315759,0.000000
+            6.792976,53.316254,0.000000
+            6.795380,53.315129,0.000000
+            6.795832,53.314250,0.000000
+            6.792612,53.312790,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

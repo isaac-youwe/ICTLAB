@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08281400 Ravenstein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.662931,51.794296,0.000000
+            5.655984,51.789770,0.000000
+            5.653960,51.791023,0.000000
+            5.650180,51.791841,0.000000
+            5.651198,51.794831,0.000000
+            5.645483,51.797881,0.000000
+            5.654283,51.801359,0.000000
+            5.662659,51.794381,0.000000
+            5.662931,51.794296,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

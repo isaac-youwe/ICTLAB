@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02890007 Uitbreidingsplan-Noordwest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.656091,51.979750,0.000000
+            5.650669,51.978421,0.000000
+            5.648433,51.978555,0.000000
+            5.650881,51.974867,0.000000
+            5.641404,51.974314,0.000000
+            5.638895,51.978354,0.000000
+            5.641897,51.979141,0.000000
+            5.638877,51.983732,0.000000
+            5.643363,51.984780,0.000000
+            5.642627,51.985717,0.000000
+            5.645557,51.987598,0.000000
+            5.649472,51.988666,0.000000
+            5.655872,51.980630,0.000000
+            5.656091,51.979750,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03810101 Hooftlaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.164634,52.280351,0.000000
+            5.163084,52.280076,0.000000
+            5.162043,52.282979,0.000000
+            5.162290,52.284975,0.000000
+            5.164965,52.284966,0.000000
+            5.167230,52.280908,0.000000
+            5.167177,52.280897,0.000000
+            5.164634,52.280351,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

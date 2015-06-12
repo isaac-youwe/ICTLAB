@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08260500 Bloemenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.874125,51.629587,0.000000
+            4.867456,51.623549,0.000000
+            4.865039,51.624559,0.000000
+            4.864170,51.623799,0.000000
+            4.856037,51.627397,0.000000
+            4.858069,51.629313,0.000000
+            4.859003,51.632175,0.000000
+            4.869397,51.630387,0.000000
+            4.874125,51.629587,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

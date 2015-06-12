@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140503 Middelbert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.648044,53.218947,0.000000
+            6.624776,53.211161,0.000000
+            6.617411,53.217714,0.000000
+            6.611798,53.226070,0.000000
+            6.622288,53.228944,0.000000
+            6.643942,53.234797,0.000000
+            6.643928,53.234331,0.000000
+            6.643850,53.231636,0.000000
+            6.640777,53.228971,0.000000
+            6.643693,53.226245,0.000000
+            6.647975,53.219010,0.000000
+            6.648044,53.218947,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

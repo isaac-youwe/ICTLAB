@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480207 Verspreide huizen Hebrecht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.204182,53.055470,0.000000
+            7.212770,53.011293,0.000000
+            7.212824,53.011234,0.000000
+            7.199359,53.013832,0.000000
+            7.192344,53.013701,0.000000
+            7.186460,53.014824,0.000000
+            7.183686,53.014402,0.000000
+            7.180291,53.017981,0.000000
+            7.178711,53.023681,0.000000
+            7.175135,53.023846,0.000000
+            7.159980,53.027619,0.000000
+            7.136566,53.040335,0.000000
+            7.136565,53.040338,0.000000
+            7.145484,53.042864,0.000000
+            7.146051,53.043018,0.000000
+            7.186215,53.053944,0.000000
+            7.204182,53.055470,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00850504 Oud Appelscha</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.329124,52.949272,0.000000
+            6.323149,52.948584,0.000000
+            6.315200,52.952506,0.000000
+            6.313778,52.955128,0.000000
+            6.317382,52.956238,0.000000
+            6.335399,52.955011,0.000000
+            6.337307,52.951539,0.000000
+            6.330445,52.950699,0.000000
+            6.329124,52.949272,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03110203 Kortrijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.002948,52.141962,0.000000
+            4.994654,52.138520,0.000000
+            4.988788,52.142341,0.000000
+            4.982614,52.148594,0.000000
+            4.974458,52.154362,0.000000
+            4.972889,52.157627,0.000000
+            4.969367,52.159470,0.000000
+            4.966952,52.162930,0.000000
+            4.984598,52.169419,0.000000
+            4.994530,52.170620,0.000000
+            4.995238,52.167446,0.000000
+            4.996705,52.161119,0.000000
+            4.999356,52.157022,0.000000
+            5.014737,52.147429,0.000000
+            5.014591,52.147392,0.000000
+            5.013976,52.147106,0.000000
+            5.002948,52.141962,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

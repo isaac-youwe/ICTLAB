@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00220009 Buitengebied ten zuiden van Leek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.382829,53.149604,0.000000
+            6.381360,53.147897,0.000000
+            6.378734,53.148334,0.000000
+            6.373190,53.139972,0.000000
+            6.368776,53.139378,0.000000
+            6.366449,53.144596,0.000000
+            6.362754,53.144356,0.000000
+            6.361953,53.145665,0.000000
+            6.381417,53.153191,0.000000
+            6.381355,53.150515,0.000000
+            6.382829,53.149604,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

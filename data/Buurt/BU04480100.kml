@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04480100 De Cocksdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.878838,53.157174,0.000000
+            4.867630,53.152088,0.000000
+            4.865374,53.151775,0.000000
+            4.862971,53.152416,0.000000
+            4.857571,53.151289,0.000000
+            4.857140,53.152105,0.000000
+            4.857017,53.157615,0.000000
+            4.877294,53.161878,0.000000
+            4.877297,53.161641,0.000000
+            4.878838,53.157174,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

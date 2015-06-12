@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631452 Scheldebuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.905162,52.346313,0.000000
+            4.906466,52.342826,0.000000
+            4.898914,52.343004,0.000000
+            4.897111,52.342366,0.000000
+            4.897334,52.340604,0.000000
+            4.901664,52.340433,0.000000
+            4.901473,52.338141,0.000000
+            4.899098,52.338191,0.000000
+            4.892958,52.334738,0.000000
+            4.884627,52.338162,0.000000
+            4.885625,52.344437,0.000000
+            4.886236,52.348486,0.000000
+            4.895194,52.348058,0.000000
+            4.895019,52.346929,0.000000
+            4.905162,52.346313,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

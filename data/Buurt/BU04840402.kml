@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04840402 Rijnhaven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.651486,52.134464,0.000000
+            4.651097,52.133917,0.000000
+            4.644295,52.134001,0.000000
+            4.644900,52.130360,0.000000
+            4.636578,52.129808,0.000000
+            4.630345,52.139178,0.000000
+            4.647256,52.142101,0.000000
+            4.650805,52.142533,0.000000
+            4.657068,52.141885,0.000000
+            4.656663,52.140330,0.000000
+            4.651626,52.139035,0.000000
+            4.651486,52.134464,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

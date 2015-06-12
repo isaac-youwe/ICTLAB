@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03750001 Meerplein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.657820,52.479291,0.000000
+            4.653840,52.476653,0.000000
+            4.651447,52.478084,0.000000
+            4.653924,52.479506,0.000000
+            4.661005,52.483834,0.000000
+            4.662424,52.484797,0.000000
+            4.664268,52.483537,0.000000
+            4.662495,52.482404,0.000000
+            4.663396,52.481198,0.000000
+            4.657820,52.479291,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

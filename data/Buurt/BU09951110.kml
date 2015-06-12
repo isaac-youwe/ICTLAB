@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09951110 Zuiderzeewijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.498606,52.521504,0.000000
+            5.477624,52.520790,0.000000
+            5.477039,52.527604,0.000000
+            5.486232,52.527902,0.000000
+            5.508836,52.528724,0.000000
+            5.508942,52.527548,0.000000
+            5.499807,52.527202,0.000000
+            5.498274,52.525450,0.000000
+            5.498606,52.521504,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.493485,52.533486,0.000000
+            5.492670,52.529623,0.000000
+            5.486393,52.530120,0.000000
+            5.487208,52.533913,0.000000
+            5.493485,52.533486,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.504303,52.529402,0.000000
+            5.492956,52.528991,0.000000
+            5.494472,52.536678,0.000000
+            5.505460,52.535833,0.000000
+            5.504303,52.529402,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

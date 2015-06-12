@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00590003 Twijzelerheide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.050482,53.236561,0.000000
+            6.040306,53.236225,0.000000
+            6.035747,53.238209,0.000000
+            6.032209,53.241995,0.000000
+            6.043400,53.243609,0.000000
+            6.050179,53.244384,0.000000
+            6.050904,53.244466,0.000000
+            6.053914,53.245348,0.000000
+            6.053975,53.245358,0.000000
+            6.061932,53.243098,0.000000
+            6.061368,53.242178,0.000000
+            6.059392,53.242153,0.000000
+            6.055863,53.237925,0.000000
+            6.050482,53.236561,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

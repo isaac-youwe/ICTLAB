@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00930418 Koegelwieck</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.331133,53.397273,0.000000
+            5.321145,53.395516,0.000000
+            5.320005,53.396444,0.000000
+            5.318279,53.406772,0.000000
+            5.314764,53.413387,0.000000
+            5.315008,53.413423,0.000000
+            5.364638,53.420632,0.000000
+            5.364737,53.420650,0.000000
+            5.367708,53.415601,0.000000
+            5.368046,53.412249,0.000000
+            5.366228,53.409275,0.000000
+            5.365831,53.403138,0.000000
+            5.355483,53.402490,0.000000
+            5.347399,53.400488,0.000000
+            5.335472,53.398001,0.000000
+            5.331133,53.397273,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

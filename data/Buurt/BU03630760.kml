@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630760 Volewijck</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.922262,52.396698,0.000000
+            4.918058,52.389765,0.000000
+            4.913940,52.386805,0.000000
+            4.901688,52.380984,0.000000
+            4.898692,52.382568,0.000000
+            4.902029,52.383092,0.000000
+            4.906035,52.384861,0.000000
+            4.907245,52.386270,0.000000
+            4.905931,52.390453,0.000000
+            4.908504,52.393305,0.000000
+            4.912429,52.391965,0.000000
+            4.913140,52.392606,0.000000
+            4.908236,52.401194,0.000000
+            4.914694,52.400930,0.000000
+            4.921221,52.399088,0.000000
+            4.922262,52.396698,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

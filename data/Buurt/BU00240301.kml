@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00240301 Zeerijp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.773700,53.346547,0.000000
+            6.760955,53.344184,0.000000
+            6.757184,53.344561,0.000000
+            6.753756,53.346491,0.000000
+            6.754415,53.349377,0.000000
+            6.760537,53.351400,0.000000
+            6.767761,53.351029,0.000000
+            6.773327,53.349495,0.000000
+            6.773700,53.346547,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

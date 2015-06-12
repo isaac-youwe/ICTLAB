@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07560500 Vortum-Mullem Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.972288,51.615752,0.000000
+            5.969231,51.614123,0.000000
+            5.968233,51.615080,0.000000
+            5.970103,51.617180,0.000000
+            5.970086,51.619304,0.000000
+            5.971569,51.620372,0.000000
+            5.979544,51.623143,0.000000
+            5.985061,51.623261,0.000000
+            5.986108,51.619459,0.000000
+            5.978088,51.617280,0.000000
+            5.975785,51.615992,0.000000
+            5.972288,51.615752,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

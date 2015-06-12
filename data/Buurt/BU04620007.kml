@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04620007 Verspreide huizen Hippolytushoeverpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.977041,52.892407,0.000000
+            4.974347,52.891580,0.000000
+            4.969998,52.896688,0.000000
+            4.970176,52.899177,0.000000
+            4.963347,52.904135,0.000000
+            4.989617,52.913096,0.000000
+            4.991631,52.911534,0.000000
+            4.988157,52.909368,0.000000
+            4.987758,52.904180,0.000000
+            4.983012,52.897819,0.000000
+            4.982936,52.897819,0.000000
+            4.977041,52.892407,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

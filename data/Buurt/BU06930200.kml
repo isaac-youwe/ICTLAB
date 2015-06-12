@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06930200 Dorp Goudriaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.897561,51.899473,0.000000
+            4.888205,51.899163,0.000000
+            4.885827,51.902612,0.000000
+            4.885819,51.903305,0.000000
+            4.884346,51.905097,0.000000
+            4.884149,51.905454,0.000000
+            4.896620,51.905584,0.000000
+            4.897561,51.899473,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

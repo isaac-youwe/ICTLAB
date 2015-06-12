@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000504 Matenhoeve</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.007836,52.195846,0.000000
+            6.011630,52.193805,0.000000
+            6.019267,52.194941,0.000000
+            6.022684,52.187841,0.000000
+            6.006283,52.183474,0.000000
+            6.001924,52.191501,0.000000
+            6.004393,52.192497,0.000000
+            6.007836,52.195846,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

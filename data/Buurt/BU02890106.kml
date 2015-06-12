@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02890106 Verspreide huizen vroegere Nude-gebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.641145,51.965811,0.000000
+            5.643485,51.960073,0.000000
+            5.649698,51.961000,0.000000
+            5.651290,51.959966,0.000000
+            5.642858,51.954226,0.000000
+            5.633174,51.949129,0.000000
+            5.626324,51.947852,0.000000
+            5.620543,51.948329,0.000000
+            5.617827,51.949807,0.000000
+            5.617836,51.949815,0.000000
+            5.619979,51.951788,0.000000
+            5.625798,51.951776,0.000000
+            5.627258,51.952672,0.000000
+            5.627282,51.957166,0.000000
+            5.623045,51.962444,0.000000
+            5.641145,51.965811,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

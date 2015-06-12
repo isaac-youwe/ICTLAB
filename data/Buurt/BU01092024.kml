@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01092024 Wachtum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.758851,52.720224,0.000000
+            6.757577,52.716680,0.000000
+            6.755241,52.716580,0.000000
+            6.755492,52.717696,0.000000
+            6.752939,52.717073,0.000000
+            6.753762,52.720863,0.000000
+            6.752940,52.722940,0.000000
+            6.741429,52.723368,0.000000
+            6.739636,52.726223,0.000000
+            6.748704,52.728377,0.000000
+            6.755523,52.728614,0.000000
+            6.758851,52.720224,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

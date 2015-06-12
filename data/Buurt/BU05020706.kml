@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020706 Kunstenaarsbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.587871,51.951540,0.000000
+            4.586553,51.948605,0.000000
+            4.585029,51.949192,0.000000
+            4.584171,51.951192,0.000000
+            4.581595,51.951105,0.000000
+            4.581719,51.953534,0.000000
+            4.586131,51.954177,0.000000
+            4.586424,51.953621,0.000000
+            4.587871,51.951540,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

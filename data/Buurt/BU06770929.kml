@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770929 Kern Lamswaarde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.057656,51.346561,0.000000
+            4.058650,51.341231,0.000000
+            4.056330,51.340865,0.000000
+            4.056770,51.338984,0.000000
+            4.055000,51.338333,0.000000
+            4.053821,51.342613,0.000000
+            4.049692,51.341610,0.000000
+            4.048897,51.342380,0.000000
+            4.053035,51.344616,0.000000
+            4.053409,51.346514,0.000000
+            4.057656,51.346561,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480200 Gageldonk-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.297053,51.498491,0.000000
+            4.304801,51.496877,0.000000
+            4.306283,51.497236,0.000000
+            4.307995,51.495528,0.000000
+            4.307895,51.493236,0.000000
+            4.305786,51.489130,0.000000
+            4.304230,51.488765,0.000000
+            4.295103,51.489156,0.000000
+            4.295755,51.494457,0.000000
+            4.295982,51.495491,0.000000
+            4.297053,51.498491,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

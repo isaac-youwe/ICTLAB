@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02090409 Winssen Buitengebied Zuid-2</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.681358,51.868728,0.000000
+            5.706650,51.860300,0.000000
+            5.712208,51.860657,0.000000
+            5.714874,51.860120,0.000000
+            5.701330,51.848277,0.000000
+            5.688738,51.853312,0.000000
+            5.684657,51.849335,0.000000
+            5.681339,51.854533,0.000000
+            5.679019,51.858166,0.000000
+            5.670348,51.864480,0.000000
+            5.667455,51.866285,0.000000
+            5.671714,51.870641,0.000000
+            5.681358,51.868728,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

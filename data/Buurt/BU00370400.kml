@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00370400 Mussel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.042753,52.956871,0.000000
+            7.044627,52.955929,0.000000
+            7.052022,52.956599,0.000000
+            7.051570,52.954892,0.000000
+            7.042757,52.953828,0.000000
+            7.040561,52.948793,0.000000
+            7.041283,52.945660,0.000000
+            7.032644,52.937454,0.000000
+            7.030191,52.936760,0.000000
+            7.029451,52.937470,0.000000
+            7.028033,52.939451,0.000000
+            7.030795,52.940725,0.000000
+            7.031957,52.955034,0.000000
+            7.035724,52.956605,0.000000
+            7.032418,52.959199,0.000000
+            7.047060,52.986467,0.000000
+            7.051494,52.986299,0.000000
+            7.042753,52.956871,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

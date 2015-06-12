@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610802 Spoorbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.747533,52.635783,0.000000
+            4.750282,52.633746,0.000000
+            4.745736,52.634951,0.000000
+            4.741756,52.634229,0.000000
+            4.739912,52.634977,0.000000
+            4.735310,52.636833,0.000000
+            4.746574,52.638604,0.000000
+            4.747533,52.635783,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480203 Warande-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.316537,51.489020,0.000000
+            4.315476,51.478642,0.000000
+            4.311668,51.481534,0.000000
+            4.306750,51.479904,0.000000
+            4.302492,51.479771,0.000000
+            4.302653,51.481473,0.000000
+            4.300936,51.482324,0.000000
+            4.300985,51.485177,0.000000
+            4.301394,51.486769,0.000000
+            4.302458,51.486779,0.000000
+            4.304230,51.488765,0.000000
+            4.305786,51.489130,0.000000
+            4.316537,51.489020,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

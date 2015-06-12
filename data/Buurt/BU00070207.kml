@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00070207 Verspreide huizen ten westen van Blijham</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.060853,53.099545,0.000000
+            7.058875,53.097347,0.000000
+            7.055591,53.095781,0.000000
+            7.048881,53.097919,0.000000
+            7.044139,53.095149,0.000000
+            7.038069,53.097331,0.000000
+            7.043326,53.101849,0.000000
+            7.030129,53.108323,0.000000
+            7.026134,53.112544,0.000000
+            7.035288,53.112658,0.000000
+            7.050634,53.114387,0.000000
+            7.054723,53.117570,0.000000
+            7.057956,53.118669,0.000000
+            7.064755,53.115125,0.000000
+            7.063734,53.109853,0.000000
+            7.067527,53.107171,0.000000
+            7.060853,53.099545,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

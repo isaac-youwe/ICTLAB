@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280907 De Haag</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.543301,51.738416,0.000000
+            5.543515,51.737984,0.000000
+            5.533524,51.740658,0.000000
+            5.532884,51.744496,0.000000
+            5.533177,51.747115,0.000000
+            5.544141,51.747488,0.000000
+            5.545754,51.745220,0.000000
+            5.549445,51.743792,0.000000
+            5.544757,51.742759,0.000000
+            5.543256,51.740370,0.000000
+            5.544445,51.739020,0.000000
+            5.543301,51.738416,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

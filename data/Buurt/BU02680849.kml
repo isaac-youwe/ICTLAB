@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680849 Bijsterhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.774769,51.820483,0.000000
+            5.774254,51.820378,0.000000
+            5.771635,51.822841,0.000000
+            5.757534,51.823760,0.000000
+            5.757136,51.823786,0.000000
+            5.764457,51.831853,0.000000
+            5.774591,51.844245,0.000000
+            5.774722,51.844405,0.000000
+            5.779076,51.844391,0.000000
+            5.780519,51.843487,0.000000
+            5.780763,51.843334,0.000000
+            5.774085,51.835294,0.000000
+            5.772496,51.828519,0.000000
+            5.774349,51.823000,0.000000
+            5.775743,51.820676,0.000000
+            5.774769,51.820483,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

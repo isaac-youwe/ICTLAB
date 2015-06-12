@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130809 Stolwijkersluis-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.726794,52.001209,0.000000
+            4.718723,51.998661,0.000000
+            4.712885,51.999527,0.000000
+            4.707484,52.001979,0.000000
+            4.712724,52.006212,0.000000
+            4.713920,52.006486,0.000000
+            4.715841,52.006830,0.000000
+            4.716571,52.006906,0.000000
+            4.719703,52.004236,0.000000
+            4.726794,52.001209,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680424 Neerbosch-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.826771,51.828257,0.000000
+            5.808580,51.825554,0.000000
+            5.807370,51.830294,0.000000
+            5.809893,51.837602,0.000000
+            5.813039,51.841748,0.000000
+            5.817627,51.838344,0.000000
+            5.821765,51.834749,0.000000
+            5.826836,51.830316,0.000000
+            5.826771,51.828257,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

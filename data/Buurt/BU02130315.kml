@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130315 Wapsum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.178946,52.118123,0.000000
+            6.175596,52.117243,0.000000
+            6.171614,52.117739,0.000000
+            6.160635,52.119510,0.000000
+            6.167971,52.132954,0.000000
+            6.171223,52.138259,0.000000
+            6.169545,52.142609,0.000000
+            6.163125,52.146328,0.000000
+            6.168946,52.146289,0.000000
+            6.173313,52.145361,0.000000
+            6.174663,52.139060,0.000000
+            6.177553,52.137243,0.000000
+            6.183348,52.134507,0.000000
+            6.184712,52.129104,0.000000
+            6.183188,52.125518,0.000000
+            6.183658,52.124304,0.000000
+            6.183818,52.123892,0.000000
+            6.182522,52.123051,0.000000
+            6.178946,52.118123,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

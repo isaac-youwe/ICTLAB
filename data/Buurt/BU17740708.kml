@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17740708 Verspreide huizen Volthe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.960755,52.346957,0.000000
+            6.951955,52.339241,0.000000
+            6.936307,52.345952,0.000000
+            6.932022,52.349843,0.000000
+            6.922743,52.356599,0.000000
+            6.905822,52.373579,0.000000
+            6.913172,52.377114,0.000000
+            6.924548,52.384486,0.000000
+            6.929863,52.387339,0.000000
+            6.932480,52.390318,0.000000
+            6.941333,52.388926,0.000000
+            6.950243,52.386321,0.000000
+            6.970717,52.380028,0.000000
+            6.962829,52.364011,0.000000
+            6.971091,52.348618,0.000000
+            6.966688,52.348676,0.000000
+            6.961131,52.347066,0.000000
+            6.960755,52.346957,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

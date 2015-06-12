@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340212 Muziekwijk Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.202082,52.372316,0.000000
+            5.183348,52.364207,0.000000
+            5.179328,52.365688,0.000000
+            5.170010,52.365467,0.000000
+            5.172316,52.374160,0.000000
+            5.176239,52.377964,0.000000
+            5.182490,52.382451,0.000000
+            5.183860,52.382376,0.000000
+            5.190815,52.378197,0.000000
+            5.193611,52.375361,0.000000
+            5.200985,52.373378,0.000000
+            5.202082,52.372316,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

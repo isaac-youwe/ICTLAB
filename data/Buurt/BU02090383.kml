@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02090383 De Sluis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.812461,51.852443,0.000000
+            5.817030,51.852151,0.000000
+            5.817454,51.853370,0.000000
+            5.820205,51.853732,0.000000
+            5.816862,51.849652,0.000000
+            5.816845,51.849652,0.000000
+            5.812508,51.849668,0.000000
+            5.807068,51.850531,0.000000
+            5.808071,51.853919,0.000000
+            5.812461,51.852443,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

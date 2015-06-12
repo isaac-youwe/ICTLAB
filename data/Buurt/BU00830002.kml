@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00830002 Schingen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.640191,53.208233,0.000000
+            5.626284,53.201955,0.000000
+            5.623844,53.199799,0.000000
+            5.621732,53.199335,0.000000
+            5.618588,53.199981,0.000000
+            5.611240,53.195129,0.000000
+            5.610181,53.195769,0.000000
+            5.607814,53.199353,0.000000
+            5.604240,53.204766,0.000000
+            5.620658,53.208316,0.000000
+            5.620809,53.208174,0.000000
+            5.634614,53.212971,0.000000
+            5.639051,53.209754,0.000000
+            5.638356,53.208773,0.000000
+            5.640191,53.208233,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

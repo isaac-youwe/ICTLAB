@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08240007 Verspreide huizen Heukelom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.156058,51.564366,0.000000
+            5.148487,51.561109,0.000000
+            5.138756,51.561171,0.000000
+            5.137675,51.562507,0.000000
+            5.142448,51.570320,0.000000
+            5.144824,51.574209,0.000000
+            5.148424,51.577976,0.000000
+            5.149129,51.578713,0.000000
+            5.161560,51.586506,0.000000
+            5.162074,51.586829,0.000000
+            5.162270,51.586952,0.000000
+            5.164508,51.581346,0.000000
+            5.168046,51.576323,0.000000
+            5.167267,51.575768,0.000000
+            5.168210,51.573456,0.000000
+            5.171152,51.570954,0.000000
+            5.168602,51.567601,0.000000
+            5.166088,51.566448,0.000000
+            5.156058,51.564366,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

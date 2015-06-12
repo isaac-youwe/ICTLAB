@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06930009 Bleskensgraaf landelijk gedeelte</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.765993,51.884584,0.000000
+            4.776045,51.882383,0.000000
+            4.790918,51.883279,0.000000
+            4.793486,51.879415,0.000000
+            4.798646,51.870648,0.000000
+            4.806841,51.855878,0.000000
+            4.800413,51.854944,0.000000
+            4.780640,51.858839,0.000000
+            4.767456,51.856086,0.000000
+            4.760043,51.856099,0.000000
+            4.755144,51.857040,0.000000
+            4.740359,51.853169,0.000000
+            4.734874,51.852913,0.000000
+            4.735600,51.861435,0.000000
+            4.731983,51.862411,0.000000
+            4.740837,51.881039,0.000000
+            4.742248,51.881929,0.000000
+            4.752416,51.881984,0.000000
+            4.765993,51.884584,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.770934,51.873708,0.000000
+            4.769583,51.867803,0.000000
+            4.787434,51.869354,0.000000
+            4.789609,51.869355,0.000000
+            4.789644,51.874990,0.000000
+            4.772310,51.873869,0.000000
+            4.770934,51.873708,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

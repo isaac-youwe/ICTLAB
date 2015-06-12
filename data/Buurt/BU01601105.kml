@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01601105 Verspreide huizen Colenbranderbos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.509650,52.607605,0.000000
+            6.512413,52.605307,0.000000
+            6.516237,52.607231,0.000000
+            6.520293,52.603747,0.000000
+            6.524904,52.605810,0.000000
+            6.529185,52.606084,0.000000
+            6.547882,52.590807,0.000000
+            6.546192,52.590239,0.000000
+            6.542724,52.589185,0.000000
+            6.531567,52.590704,0.000000
+            6.520453,52.587410,0.000000
+            6.516426,52.586201,0.000000
+            6.515678,52.581093,0.000000
+            6.495399,52.598152,0.000000
+            6.497774,52.599177,0.000000
+            6.489288,52.606266,0.000000
+            6.496827,52.607290,0.000000
+            6.500448,52.606689,0.000000
+            6.506304,52.607756,0.000000
+            6.509650,52.607605,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07154500 Zaamslag</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.918343,51.306958,0.000000
+            3.911410,51.306733,0.000000
+            3.907910,51.306825,0.000000
+            3.908047,51.312752,0.000000
+            3.906134,51.312736,0.000000
+            3.906045,51.315501,0.000000
+            3.909244,51.316295,0.000000
+            3.918153,51.316271,0.000000
+            3.918177,51.313805,0.000000
+            3.921963,51.313355,0.000000
+            3.921957,51.312417,0.000000
+            3.918224,51.312367,0.000000
+            3.918343,51.306958,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

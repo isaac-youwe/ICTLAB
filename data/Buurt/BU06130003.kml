@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06130003 Industrieterrein Overhoeken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.434963,51.858812,0.000000
+            4.433560,51.858773,0.000000
+            4.433268,51.860309,0.000000
+            4.430011,51.861835,0.000000
+            4.430108,51.862153,0.000000
+            4.431369,51.864010,0.000000
+            4.435162,51.863433,0.000000
+            4.438156,51.860913,0.000000
+            4.434963,51.858812,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

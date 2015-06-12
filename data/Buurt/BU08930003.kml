@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08930003 Groote Horst-Kleine Horst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.096427,51.653842,0.000000
+            6.095660,51.650307,0.000000
+            6.107080,51.640098,0.000000
+            6.106728,51.639670,0.000000
+            6.102219,51.627178,0.000000
+            6.077370,51.635020,0.000000
+            6.073447,51.637103,0.000000
+            6.066468,51.637081,0.000000
+            6.066290,51.644059,0.000000
+            6.060877,51.651094,0.000000
+            6.058441,51.650714,0.000000
+            6.054694,51.652926,0.000000
+            6.074914,51.654542,0.000000
+            6.096427,51.653842,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

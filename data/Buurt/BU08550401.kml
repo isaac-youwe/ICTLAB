@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550401 Industrieterrein Kraaiven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.067686,51.583731,0.000000
+            5.066200,51.578583,0.000000
+            5.044620,51.580977,0.000000
+            5.041515,51.583334,0.000000
+            5.047700,51.586225,0.000000
+            5.044039,51.589224,0.000000
+            5.052824,51.593532,0.000000
+            5.055415,51.592895,0.000000
+            5.057170,51.590582,0.000000
+            5.069631,51.589173,0.000000
+            5.067686,51.583731,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

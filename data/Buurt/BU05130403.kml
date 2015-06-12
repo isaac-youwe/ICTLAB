@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130403 Lusten-, Burgen- en Steinenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.715329,52.028500,0.000000
+            4.708624,52.027991,0.000000
+            4.707777,52.028039,0.000000
+            4.708065,52.029483,0.000000
+            4.710311,52.030029,0.000000
+            4.712250,52.030069,0.000000
+            4.711424,52.033035,0.000000
+            4.712558,52.038996,0.000000
+            4.715218,52.038195,0.000000
+            4.715720,52.037891,0.000000
+            4.714618,52.034079,0.000000
+            4.713472,52.031188,0.000000
+            4.715329,52.028500,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

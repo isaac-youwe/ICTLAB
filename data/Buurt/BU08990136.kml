@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08990136 Amstenraderveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.930325,50.934765,0.000000
+            5.929993,50.934673,0.000000
+            5.927866,50.936721,0.000000
+            5.927904,50.936731,0.000000
+            5.935001,50.938486,0.000000
+            5.932187,50.941196,0.000000
+            5.936520,50.946569,0.000000
+            5.941914,50.949085,0.000000
+            5.950810,50.945011,0.000000
+            5.947329,50.943866,0.000000
+            5.948868,50.939918,0.000000
+            5.930325,50.934765,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

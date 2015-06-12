@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05300203 Kulck-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.144869,51.838898,0.000000
+            4.149004,51.834365,0.000000
+            4.148196,51.834036,0.000000
+            4.146743,51.835137,0.000000
+            4.142024,51.834827,0.000000
+            4.138074,51.834745,0.000000
+            4.137820,51.836530,0.000000
+            4.139602,51.838592,0.000000
+            4.144430,51.839295,0.000000
+            4.144869,51.838898,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

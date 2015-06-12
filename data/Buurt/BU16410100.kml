@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16410100 Linne</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.941936,51.160506,0.000000
+            5.951922,51.158660,0.000000
+            5.956210,51.158639,0.000000
+            5.930297,51.143480,0.000000
+            5.930234,51.143437,0.000000
+            5.924249,51.149504,0.000000
+            5.921843,51.153059,0.000000
+            5.921796,51.154776,0.000000
+            5.938691,51.161672,0.000000
+            5.939088,51.161419,0.000000
+            5.941936,51.160506,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

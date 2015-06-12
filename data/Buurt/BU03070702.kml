@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03070702 Columbusweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.401106,52.157191,0.000000
+            5.398054,52.156754,0.000000
+            5.397429,52.158732,0.000000
+            5.398544,52.160426,0.000000
+            5.403719,52.163480,0.000000
+            5.405028,52.160449,0.000000
+            5.406154,52.158016,0.000000
+            5.401106,52.157191,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

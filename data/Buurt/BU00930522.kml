@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00930522 Verspreide huizen Oosterend-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.397729,53.404459,0.000000
+            5.388706,53.402662,0.000000
+            5.378181,53.399966,0.000000
+            5.371243,53.397003,0.000000
+            5.365831,53.403138,0.000000
+            5.373152,53.404698,0.000000
+            5.372946,53.402913,0.000000
+            5.380068,53.402795,0.000000
+            5.385382,53.403837,0.000000
+            5.386042,53.404698,0.000000
+            5.384962,53.405915,0.000000
+            5.401588,53.410201,0.000000
+            5.404645,53.408873,0.000000
+            5.410367,53.408252,0.000000
+            5.424003,53.407976,0.000000
+            5.427859,53.404452,0.000000
+            5.427804,53.404452,0.000000
+            5.397729,53.404459,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

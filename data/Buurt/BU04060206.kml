@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04060206 Crailo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.206959,52.274587,0.000000
+            5.204058,52.267391,0.000000
+            5.201124,52.268286,0.000000
+            5.196717,52.270975,0.000000
+            5.196617,52.271021,0.000000
+            5.190925,52.273625,0.000000
+            5.190844,52.273662,0.000000
+            5.187947,52.275430,0.000000
+            5.187905,52.275455,0.000000
+            5.184964,52.278145,0.000000
+            5.184962,52.278147,0.000000
+            5.190820,52.279056,0.000000
+            5.195209,52.280861,0.000000
+            5.195203,52.282170,0.000000
+            5.210904,52.277335,0.000000
+            5.211355,52.277290,0.000000
+            5.211344,52.277290,0.000000
+            5.206959,52.274587,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

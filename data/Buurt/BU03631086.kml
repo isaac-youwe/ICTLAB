@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631086 Overtoomse Veld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.842120,52.372125,0.000000
+            4.842047,52.369333,0.000000
+            4.848359,52.369740,0.000000
+            4.850403,52.365354,0.000000
+            4.849986,52.363376,0.000000
+            4.848734,52.358076,0.000000
+            4.833791,52.357959,0.000000
+            4.834300,52.370394,0.000000
+            4.835140,52.373180,0.000000
+            4.842120,52.372125,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

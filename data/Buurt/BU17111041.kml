@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17111041 Sint Joost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.902367,51.118645,0.000000
+            5.904148,51.118279,0.000000
+            5.904984,51.119601,0.000000
+            5.906999,51.119745,0.000000
+            5.906284,51.116114,0.000000
+            5.903134,51.114642,0.000000
+            5.902418,51.111311,0.000000
+            5.899960,51.108740,0.000000
+            5.897964,51.109184,0.000000
+            5.896227,51.110673,0.000000
+            5.897210,51.110401,0.000000
+            5.900852,51.112418,0.000000
+            5.900057,51.113749,0.000000
+            5.898890,51.113237,0.000000
+            5.894019,51.116204,0.000000
+            5.895550,51.119820,0.000000
+            5.902402,51.120218,0.000000
+            5.902367,51.118645,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

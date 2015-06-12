@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640100 Hengelose Es-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.786070,52.282235,0.000000
+            6.794481,52.279253,0.000000
+            6.796052,52.281468,0.000000
+            6.799114,52.278572,0.000000
+            6.802657,52.278977,0.000000
+            6.807060,52.278556,0.000000
+            6.801368,52.277869,0.000000
+            6.801906,52.274424,0.000000
+            6.792936,52.275578,0.000000
+            6.791357,52.277028,0.000000
+            6.779241,52.280716,0.000000
+            6.780660,52.282776,0.000000
+            6.786070,52.282235,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

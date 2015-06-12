@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770106 Absdaalseweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.050182,51.276233,0.000000
+            4.047198,51.269937,0.000000
+            4.046248,51.270239,0.000000
+            4.038255,51.275212,0.000000
+            4.039541,51.277956,0.000000
+            4.048114,51.278440,0.000000
+            4.049934,51.277743,0.000000
+            4.050182,51.276233,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

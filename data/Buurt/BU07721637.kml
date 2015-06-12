@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721637 Flight Forum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.410788,51.451131,0.000000
+            5.400106,51.445204,0.000000
+            5.398345,51.447184,0.000000
+            5.396305,51.449479,0.000000
+            5.382837,51.454043,0.000000
+            5.393968,51.464218,0.000000
+            5.402546,51.457125,0.000000
+            5.410788,51.451131,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

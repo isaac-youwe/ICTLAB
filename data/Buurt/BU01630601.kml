@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01630601 Hulsen dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.475878,52.379647,0.000000
+            6.472626,52.377240,0.000000
+            6.471333,52.377362,0.000000
+            6.470790,52.378653,0.000000
+            6.473376,52.383299,0.000000
+            6.475514,52.382702,0.000000
+            6.476022,52.380957,0.000000
+            6.475878,52.379647,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08990337 Ora et Labora</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.016295,50.952457,0.000000
+            6.014811,50.947970,0.000000
+            6.016148,50.944462,0.000000
+            6.009543,50.945134,0.000000
+            6.006918,50.944367,0.000000
+            5.996296,50.950897,0.000000
+            5.998829,50.952888,0.000000
+            6.001017,50.952476,0.000000
+            6.005470,50.956811,0.000000
+            6.016295,50.952457,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140803 Leegkerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.520768,53.228986,0.000000
+            6.502762,53.226544,0.000000
+            6.497599,53.227054,0.000000
+            6.486617,53.229085,0.000000
+            6.485582,53.228657,0.000000
+            6.481291,53.229265,0.000000
+            6.476415,53.236423,0.000000
+            6.480861,53.245650,0.000000
+            6.488743,53.244161,0.000000
+            6.528978,53.233535,0.000000
+            6.520066,53.232044,0.000000
+            6.520768,53.228986,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

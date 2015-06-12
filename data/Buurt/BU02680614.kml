@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680614 Hatertse Hei</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.854904,51.816714,0.000000
+            5.854332,51.813841,0.000000
+            5.840678,51.814385,0.000000
+            5.838839,51.814944,0.000000
+            5.841038,51.816489,0.000000
+            5.846701,51.820355,0.000000
+            5.855486,51.819122,0.000000
+            5.854904,51.816714,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00100103 Meedhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.912146,53.283305,0.000000
+            6.908790,53.282516,0.000000
+            6.905549,53.283453,0.000000
+            6.905569,53.288875,0.000000
+            6.908052,53.290971,0.000000
+            6.912526,53.292361,0.000000
+            6.915097,53.290097,0.000000
+            6.915251,53.288369,0.000000
+            6.916764,53.288072,0.000000
+            6.916480,53.287575,0.000000
+            6.912146,53.283305,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

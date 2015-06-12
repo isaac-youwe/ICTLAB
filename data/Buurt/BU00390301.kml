@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00390301 Oostwold</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.052917,53.197999,0.000000
+            7.050176,53.195460,0.000000
+            7.045745,53.196934,0.000000
+            7.041503,53.198964,0.000000
+            7.038453,53.199442,0.000000
+            7.039106,53.200391,0.000000
+            7.036091,53.204742,0.000000
+            7.038430,53.208139,0.000000
+            7.041834,53.209009,0.000000
+            7.046734,53.208543,0.000000
+            7.056985,53.205269,0.000000
+            7.055318,53.203425,0.000000
+            7.049410,53.203017,0.000000
+            7.052917,53.197999,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18760202 Wichmond</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.256566,52.094729,0.000000
+            6.259478,52.090886,0.000000
+            6.260836,52.091770,0.000000
+            6.265792,52.089494,0.000000
+            6.261844,52.088371,0.000000
+            6.262928,52.087091,0.000000
+            6.259223,52.085895,0.000000
+            6.254720,52.088241,0.000000
+            6.255417,52.089666,0.000000
+            6.252709,52.093479,0.000000
+            6.256566,52.094729,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

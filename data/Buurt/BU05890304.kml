@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05890304 Diemerbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.867985,52.063239,0.000000
+            4.870943,52.059656,0.000000
+            4.875297,52.061473,0.000000
+            4.881171,52.057902,0.000000
+            4.881182,52.057895,0.000000
+            4.874390,52.051139,0.000000
+            4.869668,52.041683,0.000000
+            4.865853,52.038603,0.000000
+            4.863502,52.037150,0.000000
+            4.860928,52.036767,0.000000
+            4.855362,52.044631,0.000000
+            4.852906,52.047676,0.000000
+            4.866434,52.062296,0.000000
+            4.866537,52.062333,0.000000
+            4.867985,52.063239,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

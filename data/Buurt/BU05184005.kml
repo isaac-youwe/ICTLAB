@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05184005 Zonne Veld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.302654,52.022396,0.000000
+            4.304053,52.022094,0.000000
+            4.304081,52.022105,0.000000
+            4.304538,52.021650,0.000000
+            4.307539,52.018081,0.000000
+            4.303212,52.016244,0.000000
+            4.295950,52.015277,0.000000
+            4.290174,52.017867,0.000000
+            4.290057,52.017920,0.000000
+            4.294376,52.019755,0.000000
+            4.302654,52.022396,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

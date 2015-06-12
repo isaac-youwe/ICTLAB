@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00740116 Nieuweschoot</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.946313,52.918765,0.000000
+            5.937301,52.911617,0.000000
+            5.934372,52.915225,0.000000
+            5.922632,52.927861,0.000000
+            5.922603,52.927897,0.000000
+            5.918885,52.932474,0.000000
+            5.933219,52.934910,0.000000
+            5.947944,52.920315,0.000000
+            5.946638,52.919074,0.000000
+            5.946313,52.918765,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

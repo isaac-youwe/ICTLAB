@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03450301 Franse Gat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.549817,52.018895,0.000000
+            5.543985,52.011743,0.000000
+            5.535976,52.014031,0.000000
+            5.536908,52.016976,0.000000
+            5.537473,52.021657,0.000000
+            5.539760,52.025608,0.000000
+            5.545730,52.022830,0.000000
+            5.549817,52.018895,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000308 Dennenheuvel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.962280,52.178911,0.000000
+            5.962234,52.175640,0.000000
+            5.958377,52.175892,0.000000
+            5.958183,52.176644,0.000000
+            5.947472,52.176622,0.000000
+            5.944710,52.180828,0.000000
+            5.944032,52.181859,0.000000
+            5.953856,52.182616,0.000000
+            5.955373,52.179638,0.000000
+            5.962280,52.178911,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

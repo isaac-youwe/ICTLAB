@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17280301 Hoogcasteren en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.307036,51.405997,0.000000
+            5.313906,51.399138,0.000000
+            5.311038,51.395540,0.000000
+            5.311039,51.394641,0.000000
+            5.311040,51.394495,0.000000
+            5.294611,51.390894,0.000000
+            5.287254,51.391144,0.000000
+            5.279406,51.392575,0.000000
+            5.278416,51.396193,0.000000
+            5.284049,51.397550,0.000000
+            5.281617,51.405192,0.000000
+            5.282276,51.404508,0.000000
+            5.290902,51.403616,0.000000
+            5.296642,51.408116,0.000000
+            5.302394,51.407221,0.000000
+            5.306708,51.406325,0.000000
+            5.307036,51.405997,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

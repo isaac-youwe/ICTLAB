@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17081200 Dinxterveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.138061,52.690878,0.000000
+            6.136027,52.690596,0.000000
+            6.132760,52.698040,0.000000
+            6.125228,52.708219,0.000000
+            6.124624,52.709155,0.000000
+            6.143710,52.714232,0.000000
+            6.153585,52.697407,0.000000
+            6.153606,52.697375,0.000000
+            6.142191,52.695525,0.000000
+            6.141627,52.693459,0.000000
+            6.138061,52.690878,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

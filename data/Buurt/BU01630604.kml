@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01630604 Kruidenwijk Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.488400,52.379358,0.000000
+            6.484899,52.378400,0.000000
+            6.482614,52.378696,0.000000
+            6.475878,52.379647,0.000000
+            6.476022,52.380957,0.000000
+            6.489555,52.382684,0.000000
+            6.490309,52.379886,0.000000
+            6.488400,52.379358,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

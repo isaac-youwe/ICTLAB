@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06440000 Ouderkerk aan de IJssel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.648866,51.929978,0.000000
+            4.631167,51.921727,0.000000
+            4.623834,51.926167,0.000000
+            4.623608,51.926338,0.000000
+            4.617941,51.930623,0.000000
+            4.619349,51.933329,0.000000
+            4.623666,51.936054,0.000000
+            4.633830,51.937019,0.000000
+            4.636464,51.941214,0.000000
+            4.639103,51.940488,0.000000
+            4.646172,51.936528,0.000000
+            4.642568,51.933639,0.000000
+            4.648866,51.929978,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

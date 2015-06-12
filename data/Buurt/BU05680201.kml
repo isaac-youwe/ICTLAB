@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05680201 Geervliet-Noordoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.266388,51.859030,0.000000
+            4.261433,51.858460,0.000000
+            4.262086,51.859754,0.000000
+            4.258124,51.862102,0.000000
+            4.258790,51.863578,0.000000
+            4.260042,51.863816,0.000000
+            4.260247,51.865744,0.000000
+            4.260370,51.865708,0.000000
+            4.266200,51.864864,0.000000
+            4.266386,51.864857,0.000000
+            4.266388,51.859030,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

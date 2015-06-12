@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640502 Berflo Es Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.802126,52.253790,0.000000
+            6.801407,52.250985,0.000000
+            6.801386,52.250203,0.000000
+            6.799127,52.250095,0.000000
+            6.788569,52.250780,0.000000
+            6.788514,52.252372,0.000000
+            6.791015,52.252080,0.000000
+            6.792662,52.254068,0.000000
+            6.802126,52.253790,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01142100 Nieuw-Schoonebeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.995512,52.646819,0.000000
+            6.994087,52.644724,0.000000
+            6.991372,52.644890,0.000000
+            6.990330,52.643647,0.000000
+            6.986994,52.644846,0.000000
+            6.987752,52.645381,0.000000
+            6.979218,52.647199,0.000000
+            6.980830,52.649035,0.000000
+            6.983261,52.653018,0.000000
+            6.991447,52.651350,0.000000
+            6.990162,52.649018,0.000000
+            6.995986,52.647830,0.000000
+            6.995512,52.646819,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140806 De Held</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.521632,53.224695,0.000000
+            6.523247,53.217138,0.000000
+            6.523604,53.214888,0.000000
+            6.529921,53.214380,0.000000
+            6.532085,53.213131,0.000000
+            6.533307,53.211009,0.000000
+            6.531619,53.209851,0.000000
+            6.512240,53.211283,0.000000
+            6.512889,53.213768,0.000000
+            6.512020,53.216189,0.000000
+            6.507566,53.219423,0.000000
+            6.507263,53.221779,0.000000
+            6.504111,53.221575,0.000000
+            6.502513,53.223282,0.000000
+            6.502762,53.226544,0.000000
+            6.520768,53.228986,0.000000
+            6.521632,53.224695,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

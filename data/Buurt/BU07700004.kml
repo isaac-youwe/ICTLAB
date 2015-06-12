@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07700004 Kortkruis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.304733,51.357865,0.000000
+            5.307214,51.355050,0.000000
+            5.303213,51.349630,0.000000
+            5.299916,51.351619,0.000000
+            5.302170,51.353690,0.000000
+            5.299717,51.354828,0.000000
+            5.300869,51.356259,0.000000
+            5.301990,51.355756,0.000000
+            5.304733,51.357865,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411804 Schelfhorst-Noordoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.691635,52.380924,0.000000
+            6.691474,52.378488,0.000000
+            6.688683,52.378950,0.000000
+            6.685838,52.382205,0.000000
+            6.681196,52.382482,0.000000
+            6.680044,52.385016,0.000000
+            6.681543,52.386542,0.000000
+            6.689205,52.383163,0.000000
+            6.691635,52.380924,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

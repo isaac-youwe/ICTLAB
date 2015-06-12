@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04500006 District 6</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.712942,52.521764,0.000000
+            4.712011,52.518113,0.000000
+            4.703686,52.521518,0.000000
+            4.705584,52.526432,0.000000
+            4.711176,52.524907,0.000000
+            4.710263,52.523688,0.000000
+            4.712614,52.522949,0.000000
+            4.712942,52.521764,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

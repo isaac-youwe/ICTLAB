@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991080 Vreewijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.513359,51.882266,0.000000
+            4.505877,51.877501,0.000000
+            4.497868,51.882862,0.000000
+            4.492282,51.884743,0.000000
+            4.492460,51.888340,0.000000
+            4.493871,51.889373,0.000000
+            4.507594,51.889750,0.000000
+            4.518837,51.891018,0.000000
+            4.521597,51.891957,0.000000
+            4.521717,51.891785,0.000000
+            4.525637,51.886783,0.000000
+            4.522416,51.886397,0.000000
+            4.521404,51.882941,0.000000
+            4.513359,51.882266,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

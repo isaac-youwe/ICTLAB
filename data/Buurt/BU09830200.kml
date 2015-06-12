@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830200 Hout-Blerick</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.135615,51.349934,0.000000
+            6.125427,51.344350,0.000000
+            6.121631,51.342588,0.000000
+            6.123596,51.343794,0.000000
+            6.120754,51.345610,0.000000
+            6.119319,51.345619,0.000000
+            6.106556,51.355588,0.000000
+            6.100327,51.357192,0.000000
+            6.099405,51.357430,0.000000
+            6.095241,51.365512,0.000000
+            6.116194,51.365808,0.000000
+            6.124221,51.364679,0.000000
+            6.132764,51.362089,0.000000
+            6.137316,51.358976,0.000000
+            6.131115,51.356415,0.000000
+            6.133777,51.352998,0.000000
+            6.137854,51.351298,0.000000
+            6.135615,51.349934,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

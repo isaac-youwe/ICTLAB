@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07070502 Achterdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.026958,51.882248,0.000000
+            5.024530,51.881487,0.000000
+            5.036624,51.895017,0.000000
+            5.058740,51.898625,0.000000
+            5.058796,51.898522,0.000000
+            5.063093,51.892395,0.000000
+            5.063201,51.892242,0.000000
+            5.026958,51.882248,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

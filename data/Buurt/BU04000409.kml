@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000409 Dirksz Admiraal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.751431,52.943927,0.000000
+            4.757186,52.942927,0.000000
+            4.761571,52.943952,0.000000
+            4.760395,52.940660,0.000000
+            4.762012,52.936507,0.000000
+            4.764373,52.931974,0.000000
+            4.767020,52.926976,0.000000
+            4.758188,52.927432,0.000000
+            4.758309,52.929061,0.000000
+            4.753818,52.929092,0.000000
+            4.753652,52.927400,0.000000
+            4.747849,52.927261,0.000000
+            4.748748,52.933023,0.000000
+            4.745037,52.934095,0.000000
+            4.747269,52.937785,0.000000
+            4.749126,52.940745,0.000000
+            4.750465,52.942763,0.000000
+            4.751431,52.943927,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

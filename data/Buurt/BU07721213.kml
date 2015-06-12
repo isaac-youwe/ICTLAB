@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721213 Elzent-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.486111,51.429908,0.000000
+            5.482218,51.428412,0.000000
+            5.478457,51.429228,0.000000
+            5.479334,51.430510,0.000000
+            5.478495,51.432165,0.000000
+            5.480790,51.434223,0.000000
+            5.485021,51.432172,0.000000
+            5.486111,51.429908,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

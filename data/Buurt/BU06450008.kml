@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06450008 Verspreide huizen Oudendijkse polder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.630039,52.170599,0.000000
+            4.632038,52.166390,0.000000
+            4.637813,52.165088,0.000000
+            4.639671,52.161719,0.000000
+            4.618393,52.158959,0.000000
+            4.610381,52.157809,0.000000
+            4.605863,52.168858,0.000000
+            4.603914,52.168416,0.000000
+            4.602792,52.169849,0.000000
+            4.604729,52.170461,0.000000
+            4.605034,52.170558,0.000000
+            4.615137,52.175096,0.000000
+            4.615190,52.175119,0.000000
+            4.623916,52.177873,0.000000
+            4.624074,52.177913,0.000000
+            4.631196,52.179717,0.000000
+            4.631360,52.180141,0.000000
+            4.632043,52.180011,0.000000
+            4.634206,52.175162,0.000000
+            4.631119,52.174635,0.000000
+            4.633030,52.171448,0.000000
+            4.630039,52.170599,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

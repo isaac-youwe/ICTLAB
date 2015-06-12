@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280500 Elzenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.552863,51.773591,0.000000
+            5.545461,51.773297,0.000000
+            5.545317,51.774433,0.000000
+            5.545134,51.775878,0.000000
+            5.537038,51.776099,0.000000
+            5.537243,51.778564,0.000000
+            5.533770,51.780855,0.000000
+            5.534423,51.785700,0.000000
+            5.539411,51.789105,0.000000
+            5.542175,51.788944,0.000000
+            5.554190,51.787520,0.000000
+            5.552791,51.775405,0.000000
+            5.552863,51.773591,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

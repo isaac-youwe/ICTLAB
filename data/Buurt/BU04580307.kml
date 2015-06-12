@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04580307 Verspreide huizen in de polder Schermeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.769352,52.592071,0.000000
+            4.764096,52.583144,0.000000
+            4.752890,52.585289,0.000000
+            4.756981,52.591245,0.000000
+            4.762718,52.602961,0.000000
+            4.762796,52.603108,0.000000
+            4.773952,52.600586,0.000000
+            4.769352,52.592071,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

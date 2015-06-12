@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01660400 Zalk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.011841,52.523298,0.000000
+            6.010508,52.518216,0.000000
+            6.008361,52.517222,0.000000
+            6.005724,52.518261,0.000000
+            6.005976,52.520074,0.000000
+            6.004005,52.522511,0.000000
+            6.005517,52.522392,0.000000
+            6.008647,52.523749,0.000000
+            6.011841,52.523298,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

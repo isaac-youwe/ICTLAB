@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020208 Rozenburcht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.581784,51.919594,0.000000
+            4.581754,51.919566,0.000000
+            4.578938,51.920996,0.000000
+            4.577778,51.923507,0.000000
+            4.581467,51.924962,0.000000
+            4.581900,51.924274,0.000000
+            4.582834,51.920258,0.000000
+            4.581784,51.919594,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

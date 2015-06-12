@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04580301 Schermeer Schermerhorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.843866,52.616185,0.000000
+            4.870373,52.610658,0.000000
+            4.872627,52.614378,0.000000
+            4.883522,52.612080,0.000000
+            4.882624,52.609377,0.000000
+            4.884125,52.606171,0.000000
+            4.883239,52.604517,0.000000
+            4.877972,52.601885,0.000000
+            4.871394,52.595956,0.000000
+            4.870917,52.594353,0.000000
+            4.862918,52.594338,0.000000
+            4.816755,52.604053,0.000000
+            4.820322,52.610576,0.000000
+            4.839219,52.607721,0.000000
+            4.843866,52.616185,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

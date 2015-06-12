@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01580091 Industriegebied Brammelo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.709752,52.149391,0.000000
+            6.709779,52.148674,0.000000
+            6.706699,52.149586,0.000000
+            6.709235,52.150479,0.000000
+            6.710697,52.154565,0.000000
+            6.715022,52.154409,0.000000
+            6.713526,52.150583,0.000000
+            6.709752,52.149391,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

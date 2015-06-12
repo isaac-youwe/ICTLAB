@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17190400 Lage Zwaluwe inclusief Gaete</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.695417,51.718691,0.000000
+            4.696105,51.718097,0.000000
+            4.699860,51.718368,0.000000
+            4.700649,51.718306,0.000000
+            4.704735,51.717155,0.000000
+            4.701693,51.713755,0.000000
+            4.709015,51.710630,0.000000
+            4.712666,51.711022,0.000000
+            4.717275,51.701066,0.000000
+            4.719771,51.700803,0.000000
+            4.720542,51.699288,0.000000
+            4.718426,51.696954,0.000000
+            4.712383,51.696833,0.000000
+            4.709708,51.697856,0.000000
+            4.707664,51.703469,0.000000
+            4.703255,51.703677,0.000000
+            4.699577,51.706437,0.000000
+            4.683337,51.713333,0.000000
+            4.684662,51.715044,0.000000
+            4.692771,51.718527,0.000000
+            4.695417,51.718691,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

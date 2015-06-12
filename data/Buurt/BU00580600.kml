@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580600 Holwerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.910230,53.366535,0.000000
+            5.901399,53.363301,0.000000
+            5.894939,53.367364,0.000000
+            5.894365,53.370008,0.000000
+            5.895617,53.373208,0.000000
+            5.904326,53.370674,0.000000
+            5.910136,53.370183,0.000000
+            5.911840,53.369101,0.000000
+            5.910230,53.366535,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17010500 Eemster</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.393587,52.851755,0.000000
+            6.379448,52.849728,0.000000
+            6.375927,52.850784,0.000000
+            6.375580,52.851612,0.000000
+            6.377585,52.852984,0.000000
+            6.390189,52.855865,0.000000
+            6.393196,52.855620,0.000000
+            6.393751,52.854946,0.000000
+            6.391301,52.853620,0.000000
+            6.393587,52.851755,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

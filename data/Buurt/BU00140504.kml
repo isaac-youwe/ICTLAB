@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140504 Engelbert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.662389,53.199983,0.000000
+            6.661861,53.199716,0.000000
+            6.647147,53.200159,0.000000
+            6.634604,53.204737,0.000000
+            6.628105,53.206148,0.000000
+            6.623659,53.208880,0.000000
+            6.626764,53.210022,0.000000
+            6.624776,53.211161,0.000000
+            6.648044,53.218947,0.000000
+            6.666931,53.201733,0.000000
+            6.662389,53.199983,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

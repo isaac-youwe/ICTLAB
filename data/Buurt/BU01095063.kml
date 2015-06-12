@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01095063 Wezup</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.717798,52.824246,0.000000
+            6.719259,52.814770,0.000000
+            6.722022,52.815528,0.000000
+            6.726900,52.814963,0.000000
+            6.727062,52.813428,0.000000
+            6.724001,52.812928,0.000000
+            6.724310,52.809602,0.000000
+            6.717963,52.808810,0.000000
+            6.717872,52.809669,0.000000
+            6.716078,52.809443,0.000000
+            6.713728,52.811741,0.000000
+            6.716129,52.813225,0.000000
+            6.714973,52.815085,0.000000
+            6.714074,52.824315,0.000000
+            6.717798,52.824246,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080015 Zuidveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.110723,52.778736,0.000000
+            6.112105,52.777269,0.000000
+            6.117620,52.776280,0.000000
+            6.122184,52.774300,0.000000
+            6.129217,52.774655,0.000000
+            6.129723,52.773496,0.000000
+            6.127541,52.772674,0.000000
+            6.120195,52.773197,0.000000
+            6.114174,52.774469,0.000000
+            6.105154,52.777072,0.000000
+            6.104967,52.777671,0.000000
+            6.102423,52.777092,0.000000
+            6.101566,52.778965,0.000000
+            6.111497,52.780358,0.000000
+            6.111951,52.779595,0.000000
+            6.110723,52.778736,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

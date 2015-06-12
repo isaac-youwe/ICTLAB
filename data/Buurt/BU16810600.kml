@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16810600 Drouwenermond</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.943572,52.987289,0.000000
+            6.886023,52.971782,0.000000
+            6.887983,52.969249,0.000000
+            6.884754,52.968457,0.000000
+            6.878307,52.977488,0.000000
+            6.881300,52.978262,0.000000
+            6.883938,52.974305,0.000000
+            6.938048,52.988810,0.000000
+            6.936375,52.991482,0.000000
+            6.937623,52.992855,0.000000
+            6.937867,52.992702,0.000000
+            6.943572,52.987289,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

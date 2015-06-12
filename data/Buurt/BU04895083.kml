@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04895083 BT Vaanpark 3</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.516164,51.855793,0.000000
+            4.516210,51.853852,0.000000
+            4.508486,51.853739,0.000000
+            4.508640,51.855571,0.000000
+            4.511312,51.855525,0.000000
+            4.511508,51.856816,0.000000
+            4.516112,51.856738,0.000000
+            4.516164,51.855793,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

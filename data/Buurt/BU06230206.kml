@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06230206 Koolwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.780520,51.952251,0.000000
+            4.738435,51.944834,0.000000
+            4.738370,51.949329,0.000000
+            4.737276,51.949323,0.000000
+            4.733929,51.955098,0.000000
+            4.746861,51.960300,0.000000
+            4.770868,51.967460,0.000000
+            4.772917,51.966070,0.000000
+            4.775579,51.961352,0.000000
+            4.780424,51.958974,0.000000
+            4.780600,51.952259,0.000000
+            4.780520,51.952251,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

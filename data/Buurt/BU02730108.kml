@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02730108 Verspreide huizen Krachtighuizen en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.608134,52.205304,0.000000
+            5.608013,52.205298,0.000000
+            5.608518,52.213133,0.000000
+            5.607238,52.223032,0.000000
+            5.610034,52.227429,0.000000
+            5.608991,52.232254,0.000000
+            5.609788,52.237049,0.000000
+            5.609049,52.245494,0.000000
+            5.607341,52.250601,0.000000
+            5.618875,52.249559,0.000000
+            5.629480,52.243910,0.000000
+            5.631685,52.239935,0.000000
+            5.633276,52.227801,0.000000
+            5.628813,52.221725,0.000000
+            5.638328,52.214624,0.000000
+            5.646010,52.214112,0.000000
+            5.633021,52.207951,0.000000
+            5.608134,52.205304,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

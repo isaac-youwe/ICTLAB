@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05790022 Haaswijk-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.478896,52.195627,0.000000
+            4.483444,52.193972,0.000000
+            4.484997,52.194765,0.000000
+            4.489031,52.193012,0.000000
+            4.487671,52.190397,0.000000
+            4.490618,52.186884,0.000000
+            4.490557,52.186847,0.000000
+            4.477400,52.190117,0.000000
+            4.473584,52.191055,0.000000
+            4.476632,52.194129,0.000000
+            4.476679,52.195325,0.000000
+            4.478896,52.195627,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480600 de Maten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.067490,52.853168,0.000000
+            7.063906,52.852426,0.000000
+            7.059967,52.858607,0.000000
+            7.057617,52.859694,0.000000
+            7.058099,52.863110,0.000000
+            7.060506,52.867105,0.000000
+            7.061909,52.867773,0.000000
+            7.063324,52.866160,0.000000
+            7.061712,52.860452,0.000000
+            7.067490,52.853168,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

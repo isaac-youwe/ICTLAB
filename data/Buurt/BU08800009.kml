@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08800009 Verspreide huizen in de polder Engewormer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.832471,52.486072,0.000000
+            4.835415,52.485456,0.000000
+            4.838689,52.485812,0.000000
+            4.840603,52.482646,0.000000
+            4.836773,52.479863,0.000000
+            4.836594,52.480184,0.000000
+            4.817421,52.482790,0.000000
+            4.811927,52.483600,0.000000
+            4.811520,52.483660,0.000000
+            4.811497,52.485458,0.000000
+            4.811280,52.485556,0.000000
+            4.811689,52.485927,0.000000
+            4.818566,52.492178,0.000000
+            4.823736,52.492850,0.000000
+            4.828700,52.493194,0.000000
+            4.832361,52.490619,0.000000
+            4.832471,52.486072,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

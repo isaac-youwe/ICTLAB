@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07560601 Groeningen Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.994898,51.612135,0.000000
+            5.998829,51.610415,0.000000
+            6.001022,51.610904,0.000000
+            6.001968,51.610197,0.000000
+            5.999602,51.608174,0.000000
+            6.003741,51.605520,0.000000
+            6.002752,51.604850,0.000000
+            5.998884,51.605088,0.000000
+            5.995402,51.604213,0.000000
+            5.991102,51.605273,0.000000
+            5.991853,51.606278,0.000000
+            5.996473,51.607107,0.000000
+            5.996581,51.608221,0.000000
+            5.991530,51.610893,0.000000
+            5.994898,51.612135,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

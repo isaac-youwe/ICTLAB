@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02090204 Ewijk Buitengebied Zuid-2</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.734176,51.848320,0.000000
+            5.730175,51.844646,0.000000
+            5.723048,51.845393,0.000000
+            5.717467,51.839250,0.000000
+            5.709410,51.840105,0.000000
+            5.709378,51.840108,0.000000
+            5.677469,51.842888,0.000000
+            5.677471,51.843227,0.000000
+            5.677492,51.846484,0.000000
+            5.681846,51.846473,0.000000
+            5.684767,51.849163,0.000000
+            5.684657,51.849335,0.000000
+            5.688738,51.853312,0.000000
+            5.701330,51.848277,0.000000
+            5.714874,51.860120,0.000000
+            5.716676,51.857278,0.000000
+            5.727352,51.854931,0.000000
+            5.722733,51.850765,0.000000
+            5.734176,51.848320,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

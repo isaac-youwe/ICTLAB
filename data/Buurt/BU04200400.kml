@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04200400 Midwoud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.073625,52.721358,0.000000
+            5.080046,52.719890,0.000000
+            5.096773,52.719649,0.000000
+            5.097484,52.717412,0.000000
+            5.095906,52.715632,0.000000
+            5.096281,52.713281,0.000000
+            5.072286,52.701198,0.000000
+            5.072031,52.703052,0.000000
+            5.056399,52.697887,0.000000
+            5.054423,52.718927,0.000000
+            5.057288,52.720912,0.000000
+            5.059937,52.720108,0.000000
+            5.073625,52.721358,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

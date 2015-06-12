@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06290002 Nieuw-Wassenaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.363473,52.119949,0.000000
+            4.372184,52.114494,0.000000
+            4.367229,52.111202,0.000000
+            4.358420,52.105347,0.000000
+            4.352017,52.109330,0.000000
+            4.357757,52.113136,0.000000
+            4.352854,52.116911,0.000000
+            4.357940,52.119747,0.000000
+            4.360760,52.118451,0.000000
+            4.363473,52.119949,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

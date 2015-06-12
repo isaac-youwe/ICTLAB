@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00181102 Sappemeer-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.816928,53.165881,0.000000
+            6.815377,53.164105,0.000000
+            6.815386,53.164033,0.000000
+            6.809613,53.164507,0.000000
+            6.796154,53.163302,0.000000
+            6.796065,53.164467,0.000000
+            6.790058,53.164360,0.000000
+            6.789623,53.168407,0.000000
+            6.818634,53.167097,0.000000
+            6.818457,53.166765,0.000000
+            6.816932,53.165885,0.000000
+            6.816928,53.165881,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

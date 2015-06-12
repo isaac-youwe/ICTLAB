@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07880000 Haaren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.213716,51.595780,0.000000
+            5.210070,51.594746,0.000000
+            5.207325,51.596086,0.000000
+            5.215105,51.599150,0.000000
+            5.211759,51.604536,0.000000
+            5.222069,51.611181,0.000000
+            5.231904,51.607667,0.000000
+            5.230479,51.600468,0.000000
+            5.229579,51.595947,0.000000
+            5.213716,51.595780,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

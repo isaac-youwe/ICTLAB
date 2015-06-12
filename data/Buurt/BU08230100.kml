@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08230100 Spoordonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.274382,51.515924,0.000000
+            5.269643,51.515316,0.000000
+            5.268668,51.517256,0.000000
+            5.265724,51.519138,0.000000
+            5.266690,51.520519,0.000000
+            5.272368,51.519837,0.000000
+            5.275252,51.517887,0.000000
+            5.274382,51.515924,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

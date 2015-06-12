@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000509 Guldemond</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.788320,52.928555,0.000000
+            4.778645,52.928439,0.000000
+            4.779153,52.930397,0.000000
+            4.777337,52.933366,0.000000
+            4.777386,52.935001,0.000000
+            4.786757,52.934916,0.000000
+            4.786782,52.933952,0.000000
+            4.786728,52.931172,0.000000
+            4.788320,52.928555,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

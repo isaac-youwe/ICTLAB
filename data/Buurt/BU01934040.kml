@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01934040 Bedrijventerrein Hessenpoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.179636,52.522397,0.000000
+            6.171537,52.519482,0.000000
+            6.169688,52.520548,0.000000
+            6.163673,52.524413,0.000000
+            6.149231,52.525147,0.000000
+            6.145119,52.527538,0.000000
+            6.144381,52.529449,0.000000
+            6.144354,52.529733,0.000000
+            6.154368,52.532780,0.000000
+            6.161941,52.537639,0.000000
+            6.169204,52.546039,0.000000
+            6.175016,52.555303,0.000000
+            6.189401,52.536688,0.000000
+            6.189113,52.536279,0.000000
+            6.193214,52.532004,0.000000
+            6.193453,52.531755,0.000000
+            6.185921,52.522817,0.000000
+            6.185759,52.522689,0.000000
+            6.179636,52.522397,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

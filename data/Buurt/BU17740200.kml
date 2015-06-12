@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17740200 Tilligte kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.955859,52.402622,0.000000
+            6.951053,52.402594,0.000000
+            6.948218,52.404118,0.000000
+            6.946763,52.406368,0.000000
+            6.949648,52.407217,0.000000
+            6.951272,52.408241,0.000000
+            6.952942,52.408206,0.000000
+            6.956734,52.405981,0.000000
+            6.957783,52.404613,0.000000
+            6.955859,52.402622,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

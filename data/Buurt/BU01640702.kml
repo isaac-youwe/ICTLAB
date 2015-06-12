@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640702 Woolder Es</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.777542,52.269655,0.000000
+            6.781427,52.265804,0.000000
+            6.774521,52.266351,0.000000
+            6.768986,52.265492,0.000000
+            6.765526,52.265755,0.000000
+            6.764331,52.266531,0.000000
+            6.765747,52.267539,0.000000
+            6.766008,52.273120,0.000000
+            6.769822,52.275675,0.000000
+            6.771807,52.275516,0.000000
+            6.777542,52.269655,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

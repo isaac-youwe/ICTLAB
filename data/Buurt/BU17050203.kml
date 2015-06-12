@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17050203 Zilverkamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.938492,51.941993,0.000000
+            5.934734,51.939552,0.000000
+            5.929650,51.941206,0.000000
+            5.912044,51.945080,0.000000
+            5.911697,51.945739,0.000000
+            5.910898,51.947256,0.000000
+            5.915294,51.949933,0.000000
+            5.918214,51.950819,0.000000
+            5.921775,51.950803,0.000000
+            5.926942,51.950779,0.000000
+            5.929345,51.950768,0.000000
+            5.933317,51.949505,0.000000
+            5.938492,51.941993,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

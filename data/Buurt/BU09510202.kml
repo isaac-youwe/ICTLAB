@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09510202 Arensgenhout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.837689,50.881369,0.000000
+            5.834839,50.880481,0.000000
+            5.834821,50.880515,0.000000
+            5.833444,50.883184,0.000000
+            5.832048,50.885886,0.000000
+            5.836364,50.891263,0.000000
+            5.833616,50.892146,0.000000
+            5.839483,50.894056,0.000000
+            5.850309,50.894570,0.000000
+            5.849890,50.889970,0.000000
+            5.846802,50.888922,0.000000
+            5.850065,50.886525,0.000000
+            5.850219,50.883079,0.000000
+            5.837689,50.881369,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

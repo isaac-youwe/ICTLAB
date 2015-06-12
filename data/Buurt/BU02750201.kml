@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02750201 Velp-Zuid beneden spoorlijn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.984639,51.996624,0.000000
+            5.987306,51.990566,0.000000
+            5.982829,51.988481,0.000000
+            5.973168,51.986857,0.000000
+            5.965088,51.987051,0.000000
+            5.963785,51.987461,0.000000
+            5.960884,51.988374,0.000000
+            5.960804,51.988449,0.000000
+            5.955404,51.993537,0.000000
+            5.961757,51.994191,0.000000
+            5.975677,51.993513,0.000000
+            5.979717,51.994332,0.000000
+            5.984639,51.996624,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

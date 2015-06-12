@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08450001 Theereheide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.348546,51.636371,0.000000
+            5.339663,51.631174,0.000000
+            5.328741,51.636751,0.000000
+            5.327890,51.638067,0.000000
+            5.333614,51.642104,0.000000
+            5.333710,51.643505,0.000000
+            5.337855,51.645003,0.000000
+            5.339530,51.643830,0.000000
+            5.347675,51.638953,0.000000
+            5.348546,51.636371,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

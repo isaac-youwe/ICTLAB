@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04891227 Smitshoek 2</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.488830,51.856847,0.000000
+            4.485793,51.853234,0.000000
+            4.485704,51.853270,0.000000
+            4.484253,51.853259,0.000000
+            4.483962,51.853435,0.000000
+            4.485972,51.857736,0.000000
+            4.484641,51.858559,0.000000
+            4.484705,51.858754,0.000000
+            4.488654,51.858805,0.000000
+            4.489056,51.857719,0.000000
+            4.488830,51.856847,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03920802 Oosterduin</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.610697,52.376172,0.000000
+            4.607126,52.367809,0.000000
+            4.604438,52.371012,0.000000
+            4.601485,52.371891,0.000000
+            4.601342,52.372384,0.000000
+            4.600484,52.375339,0.000000
+            4.599921,52.377274,0.000000
+            4.599890,52.379020,0.000000
+            4.610697,52.376172,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

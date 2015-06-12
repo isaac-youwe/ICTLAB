@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180507 West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.472951,52.719999,0.000000
+            6.464793,52.719206,0.000000
+            6.464724,52.725703,0.000000
+            6.464678,52.729722,0.000000
+            6.475598,52.729291,0.000000
+            6.475714,52.722558,0.000000
+            6.476862,52.721350,0.000000
+            6.472789,52.720504,0.000000
+            6.472951,52.719999,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

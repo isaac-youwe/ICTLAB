@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17240201 Rijt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.326841,51.302068,0.000000
+            5.331891,51.299858,0.000000
+            5.332512,51.298214,0.000000
+            5.321379,51.294665,0.000000
+            5.313193,51.290573,0.000000
+            5.309404,51.293327,0.000000
+            5.299802,51.296614,0.000000
+            5.297983,51.298638,0.000000
+            5.300159,51.299860,0.000000
+            5.301948,51.300514,0.000000
+            5.307676,51.302000,0.000000
+            5.313037,51.301932,0.000000
+            5.322003,51.303793,0.000000
+            5.326841,51.302068,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

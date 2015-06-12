@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08480100 Breugel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.527326,51.519834,0.000000
+            5.510019,51.510717,0.000000
+            5.503804,51.505556,0.000000
+            5.503666,51.506351,0.000000
+            5.499949,51.506519,0.000000
+            5.496681,51.509973,0.000000
+            5.505441,51.515170,0.000000
+            5.502542,51.517350,0.000000
+            5.514676,51.517924,0.000000
+            5.515640,51.516360,0.000000
+            5.523294,51.520711,0.000000
+            5.527326,51.519834,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

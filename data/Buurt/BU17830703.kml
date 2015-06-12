@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830703 Oostbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.275747,51.977447,0.000000
+            4.269782,51.975910,0.000000
+            4.267439,51.978068,0.000000
+            4.273037,51.979695,0.000000
+            4.281936,51.983752,0.000000
+            4.283664,51.983142,0.000000
+            4.284988,51.981531,0.000000
+            4.275747,51.977447,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

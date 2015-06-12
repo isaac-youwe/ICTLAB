@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07700101 De Donksbergen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.289651,51.367939,0.000000
+            5.291110,51.366412,0.000000
+            5.288869,51.367093,0.000000
+            5.283550,51.360956,0.000000
+            5.283827,51.359229,0.000000
+            5.286471,51.359595,0.000000
+            5.286788,51.356746,0.000000
+            5.279489,51.353333,0.000000
+            5.275193,51.362249,0.000000
+            5.278050,51.368545,0.000000
+            5.278076,51.368643,0.000000
+            5.289651,51.367939,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

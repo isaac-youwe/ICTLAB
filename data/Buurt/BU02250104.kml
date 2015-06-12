@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02250104 Deest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.673897,51.892537,0.000000
+            5.682250,51.889880,0.000000
+            5.682129,51.889622,0.000000
+            5.680680,51.884372,0.000000
+            5.680641,51.884232,0.000000
+            5.680504,51.883980,0.000000
+            5.670735,51.884668,0.000000
+            5.668592,51.884080,0.000000
+            5.668105,51.880676,0.000000
+            5.662177,51.881250,0.000000
+            5.663523,51.886853,0.000000
+            5.660082,51.886259,0.000000
+            5.659950,51.889334,0.000000
+            5.662167,51.891961,0.000000
+            5.666050,51.892403,0.000000
+            5.669536,51.891818,0.000000
+            5.673897,51.892537,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

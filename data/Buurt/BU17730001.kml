@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17730001 Boskamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.134959,52.330932,0.000000
+            6.131263,52.325975,0.000000
+            6.122192,52.328398,0.000000
+            6.120993,52.330636,0.000000
+            6.121608,52.332988,0.000000
+            6.123197,52.335045,0.000000
+            6.127041,52.333478,0.000000
+            6.134558,52.333327,0.000000
+            6.134959,52.330932,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

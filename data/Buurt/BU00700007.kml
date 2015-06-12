@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700007 Schalsumerplan en Arkens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.567112,53.189430,0.000000
+            5.554659,53.187900,0.000000
+            5.552328,53.192019,0.000000
+            5.547851,53.193310,0.000000
+            5.549988,53.199342,0.000000
+            5.553265,53.199387,0.000000
+            5.553218,53.201629,0.000000
+            5.556941,53.201743,0.000000
+            5.564831,53.202571,0.000000
+            5.565733,53.203594,0.000000
+            5.563382,53.190946,0.000000
+            5.567265,53.190845,0.000000
+            5.567112,53.189430,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

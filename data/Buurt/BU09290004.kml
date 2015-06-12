@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09290004 Hout en Oijen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.108802,51.316017,0.000000
+            6.102952,51.308861,0.000000
+            6.094178,51.302272,0.000000
+            6.089891,51.299052,0.000000
+            6.084128,51.297289,0.000000
+            6.081468,51.296475,0.000000
+            6.075436,51.302145,0.000000
+            6.065247,51.308835,0.000000
+            6.064721,51.312733,0.000000
+            6.069990,51.310857,0.000000
+            6.078624,51.312604,0.000000
+            6.094430,51.314308,0.000000
+            6.100237,51.318767,0.000000
+            6.104527,51.317842,0.000000
+            6.108802,51.316017,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

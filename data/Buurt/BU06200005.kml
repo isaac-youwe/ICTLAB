@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06200005 Monnikenhof en Amaliastein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.087826,51.977696,0.000000
+            5.084368,51.976837,0.000000
+            5.083279,51.977357,0.000000
+            5.080720,51.975012,0.000000
+            5.067038,51.983962,0.000000
+            5.068105,51.986387,0.000000
+            5.071851,51.988965,0.000000
+            5.081612,51.991946,0.000000
+            5.084360,51.987507,0.000000
+            5.094199,51.982029,0.000000
+            5.087826,51.977696,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05040107 Verspreide huizen in polder Oude Plaat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.126997,51.753770,0.000000
+            4.122728,51.751027,0.000000
+            4.118560,51.744689,0.000000
+            4.121582,51.740226,0.000000
+            4.124578,51.736663,0.000000
+            4.132116,51.725955,0.000000
+            4.131642,51.724341,0.000000
+            4.124875,51.724873,0.000000
+            4.116552,51.729095,0.000000
+            4.112936,51.734941,0.000000
+            4.113446,51.740430,0.000000
+            4.107745,51.746390,0.000000
+            4.115134,51.746810,0.000000
+            4.115406,51.752431,0.000000
+            4.105940,51.751034,0.000000
+            4.105595,51.752226,0.000000
+            4.109368,51.755348,0.000000
+            4.117385,51.757549,0.000000
+            4.122808,51.757938,0.000000
+            4.126997,51.753770,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

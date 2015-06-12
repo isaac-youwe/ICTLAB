@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17420003 Kern rand Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.522447,52.306007,0.000000
+            6.523413,52.302868,0.000000
+            6.519623,52.302385,0.000000
+            6.512646,52.303289,0.000000
+            6.512112,52.305595,0.000000
+            6.507002,52.305459,0.000000
+            6.504152,52.307286,0.000000
+            6.509940,52.309371,0.000000
+            6.518027,52.307774,0.000000
+            6.519012,52.306186,0.000000
+            6.522447,52.306007,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

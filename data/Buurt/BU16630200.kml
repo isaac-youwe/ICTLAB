@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16630200 Eenrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.464629,53.359025,0.000000
+            6.459531,53.357883,0.000000
+            6.456650,53.360014,0.000000
+            6.458078,53.360500,0.000000
+            6.454230,53.363374,0.000000
+            6.453609,53.367960,0.000000
+            6.458520,53.368696,0.000000
+            6.464154,53.367639,0.000000
+            6.465313,53.363243,0.000000
+            6.467128,53.362730,0.000000
+            6.466855,53.361763,0.000000
+            6.464758,53.361569,0.000000
+            6.464629,53.359025,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

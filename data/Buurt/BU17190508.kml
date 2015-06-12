@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17190508 Verspreide huizen Groot Zonzeelsche Polder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.703503,51.691535,0.000000
+            4.709597,51.685211,0.000000
+            4.716335,51.678387,0.000000
+            4.725455,51.666244,0.000000
+            4.694837,51.657828,0.000000
+            4.684596,51.666743,0.000000
+            4.709077,51.673180,0.000000
+            4.704631,51.680346,0.000000
+            4.697291,51.687495,0.000000
+            4.696616,51.686415,0.000000
+            4.699830,51.693017,0.000000
+            4.701317,51.692518,0.000000
+            4.703503,51.691535,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01970203 Verspreide huizen Het Zwanenbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.639441,51.932699,0.000000
+            6.630536,51.930483,0.000000
+            6.624507,51.931145,0.000000
+            6.623495,51.929881,0.000000
+            6.624200,51.928802,0.000000
+            6.617203,51.927981,0.000000
+            6.613780,51.932585,0.000000
+            6.609227,51.933581,0.000000
+            6.613614,51.938056,0.000000
+            6.613093,51.938972,0.000000
+            6.626092,51.939863,0.000000
+            6.633792,51.939480,0.000000
+            6.633698,51.939117,0.000000
+            6.632218,51.938234,0.000000
+            6.633598,51.935522,0.000000
+            6.639339,51.932764,0.000000
+            6.639441,51.932699,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

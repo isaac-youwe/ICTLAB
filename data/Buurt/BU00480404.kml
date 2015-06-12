@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480404 Jipsingboermussel en Zandberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.050950,52.921071,0.000000
+            7.044699,52.914945,0.000000
+            7.045179,52.915754,0.000000
+            7.029423,52.918368,0.000000
+            7.027444,52.918696,0.000000
+            7.027545,52.921391,0.000000
+            7.027846,52.921735,0.000000
+            7.045620,52.921794,0.000000
+            7.050581,52.921582,0.000000
+            7.050950,52.921071,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

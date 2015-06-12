@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03750501 Creutzberglaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.642195,52.489496,0.000000
+            4.639011,52.485482,0.000000
+            4.633145,52.487416,0.000000
+            4.628923,52.487956,0.000000
+            4.631862,52.496354,0.000000
+            4.631302,52.498628,0.000000
+            4.633557,52.498780,0.000000
+            4.634578,52.498849,0.000000
+            4.644887,52.498914,0.000000
+            4.645429,52.498917,0.000000
+            4.645026,52.493012,0.000000
+            4.643447,52.489656,0.000000
+            4.642195,52.489496,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830306 Wijlrehof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.170157,51.351182,0.000000
+            6.161278,51.347167,0.000000
+            6.160321,51.348251,0.000000
+            6.157305,51.349021,0.000000
+            6.154949,51.348513,0.000000
+            6.149964,51.350364,0.000000
+            6.153328,51.353378,0.000000
+            6.152964,51.354108,0.000000
+            6.158369,51.358168,0.000000
+            6.163880,51.355423,0.000000
+            6.170157,51.351182,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

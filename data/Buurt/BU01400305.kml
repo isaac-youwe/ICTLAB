@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01400305 Boazum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.700539,53.085467,0.000000
+            5.696257,53.082063,0.000000
+            5.693744,53.082254,0.000000
+            5.691149,53.084269,0.000000
+            5.687887,53.084790,0.000000
+            5.692838,53.093727,0.000000
+            5.704603,53.090847,0.000000
+            5.700539,53.085467,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

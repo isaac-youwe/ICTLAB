@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17400006 Verspreide huizen Lede en Oudewaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.560299,51.943800,0.000000
+            5.567561,51.941092,0.000000
+            5.571924,51.941086,0.000000
+            5.573365,51.941676,0.000000
+            5.574349,51.938213,0.000000
+            5.571653,51.938503,0.000000
+            5.569389,51.940323,0.000000
+            5.567458,51.939428,0.000000
+            5.566069,51.937155,0.000000
+            5.566014,51.934195,0.000000
+            5.563314,51.933816,0.000000
+            5.560265,51.933934,0.000000
+            5.554440,51.932840,0.000000
+            5.554440,51.933022,0.000000
+            5.554444,51.933920,0.000000
+            5.548627,51.933929,0.000000
+            5.539910,51.936637,0.000000
+            5.534113,51.942937,0.000000
+            5.534643,51.943018,0.000000
+            5.539935,51.943828,0.000000
+            5.550110,51.942017,0.000000
+            5.560299,51.943800,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

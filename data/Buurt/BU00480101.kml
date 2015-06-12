@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480101 Wollinghuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.157103,52.991952,0.000000
+            7.154008,52.990511,0.000000
+            7.148914,52.990779,0.000000
+            7.146530,52.992532,0.000000
+            7.145980,52.994346,0.000000
+            7.147544,52.996236,0.000000
+            7.150603,52.997235,0.000000
+            7.157111,52.995693,0.000000
+            7.157103,52.991952,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

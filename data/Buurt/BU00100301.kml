@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00100301 Spijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.847257,53.384421,0.000000
+            6.844091,53.383336,0.000000
+            6.834931,53.384161,0.000000
+            6.831222,53.387986,0.000000
+            6.831327,53.390271,0.000000
+            6.836862,53.395240,0.000000
+            6.843154,53.396373,0.000000
+            6.844976,53.396075,0.000000
+            6.844535,53.391821,0.000000
+            6.847665,53.387339,0.000000
+            6.847257,53.384421,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

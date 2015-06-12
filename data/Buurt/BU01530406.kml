@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530406 Drienerveld-U.T.</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.862202,52.236499,0.000000
+            6.859455,52.234448,0.000000
+            6.856698,52.235513,0.000000
+            6.836832,52.242973,0.000000
+            6.827354,52.248147,0.000000
+            6.842787,52.253912,0.000000
+            6.844327,52.252729,0.000000
+            6.858921,52.251775,0.000000
+            6.858050,52.250793,0.000000
+            6.855309,52.250259,0.000000
+            6.853918,52.247720,0.000000
+            6.857038,52.244063,0.000000
+            6.857052,52.242655,0.000000
+            6.865625,52.241754,0.000000
+            6.866130,52.237005,0.000000
+            6.862202,52.236499,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16811100 Exloo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.876390,52.883710,0.000000
+            6.883118,52.877007,0.000000
+            6.879290,52.875621,0.000000
+            6.876026,52.879513,0.000000
+            6.874337,52.879785,0.000000
+            6.869925,52.878431,0.000000
+            6.863194,52.870979,0.000000
+            6.860315,52.871249,0.000000
+            6.864499,52.878205,0.000000
+            6.856361,52.877551,0.000000
+            6.855488,52.880427,0.000000
+            6.856116,52.883280,0.000000
+            6.853709,52.883308,0.000000
+            6.852994,52.884395,0.000000
+            6.857059,52.885799,0.000000
+            6.861930,52.890435,0.000000
+            6.870740,52.892807,0.000000
+            6.876390,52.883710,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00560103 Kommerzijl</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.330057,53.283136,0.000000
+            6.326020,53.281664,0.000000
+            6.322428,53.283381,0.000000
+            6.319460,53.288319,0.000000
+            6.321186,53.289973,0.000000
+            6.323887,53.290290,0.000000
+            6.327421,53.289198,0.000000
+            6.330658,53.285850,0.000000
+            6.331164,53.284596,0.000000
+            6.330057,53.283136,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

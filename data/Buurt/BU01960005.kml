@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01960005 Verspreide huizen Spijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.127535,51.854895,0.000000
+            6.131043,51.854042,0.000000
+            6.152192,51.854778,0.000000
+            6.156188,51.853104,0.000000
+            6.163779,51.846882,0.000000
+            6.162410,51.845719,0.000000
+            6.160822,51.845609,0.000000
+            6.154768,51.846750,0.000000
+            6.156680,51.850820,0.000000
+            6.151855,51.851456,0.000000
+            6.148218,51.849330,0.000000
+            6.144498,51.852214,0.000000
+            6.141508,51.852495,0.000000
+            6.112007,51.850033,0.000000
+            6.108412,51.850298,0.000000
+            6.108597,51.851016,0.000000
+            6.111762,51.854143,0.000000
+            6.124573,51.857059,0.000000
+            6.127535,51.854895,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

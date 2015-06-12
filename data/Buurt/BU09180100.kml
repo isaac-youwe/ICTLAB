@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09180100 Beringe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.944548,51.351348,0.000000
+            5.956706,51.342979,0.000000
+            5.960143,51.341428,0.000000
+            5.963835,51.340809,0.000000
+            5.963250,51.338188,0.000000
+            5.962484,51.336403,0.000000
+            5.957889,51.332885,0.000000
+            5.942030,51.333797,0.000000
+            5.933161,51.335509,0.000000
+            5.905264,51.326251,0.000000
+            5.911116,51.341347,0.000000
+            5.911166,51.345699,0.000000
+            5.911168,51.345842,0.000000
+            5.911209,51.349438,0.000000
+            5.910926,51.349716,0.000000
+            5.929124,51.349046,0.000000
+            5.938585,51.349929,0.000000
+            5.944548,51.351348,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

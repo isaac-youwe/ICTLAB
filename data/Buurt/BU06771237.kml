@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06771237 Kern Hengstdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.998016,51.345775,0.000000
+            3.998721,51.343275,0.000000
+            3.999254,51.341631,0.000000
+            3.994611,51.340290,0.000000
+            3.994265,51.343093,0.000000
+            3.989284,51.343141,0.000000
+            3.989300,51.344348,0.000000
+            3.990544,51.344971,0.000000
+            3.993359,51.344307,0.000000
+            3.997704,51.347298,0.000000
+            4.000054,51.347030,0.000000
+            3.998016,51.345775,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

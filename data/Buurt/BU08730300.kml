@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08730300 Putte</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.384233,51.377271,0.000000
+            4.392080,51.368252,0.000000
+            4.406607,51.372755,0.000000
+            4.410859,51.369115,0.000000
+            4.400450,51.365082,0.000000
+            4.401834,51.359935,0.000000
+            4.407860,51.359986,0.000000
+            4.395017,51.356281,0.000000
+            4.388955,51.355140,0.000000
+            4.384584,51.361119,0.000000
+            4.387187,51.361687,0.000000
+            4.388086,51.362635,0.000000
+            4.378743,51.376332,0.000000
+            4.384233,51.377271,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

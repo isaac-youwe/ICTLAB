@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280706 Lockaert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.508113,51.769354,0.000000
+            5.503219,51.768839,0.000000
+            5.495690,51.769518,0.000000
+            5.492899,51.770078,0.000000
+            5.492948,51.772390,0.000000
+            5.494526,51.772400,0.000000
+            5.507816,51.770445,0.000000
+            5.508113,51.769354,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

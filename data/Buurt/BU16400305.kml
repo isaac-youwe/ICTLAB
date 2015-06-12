@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16400305 Haler</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.783324,51.180067,0.000000
+            5.776157,51.178304,0.000000
+            5.766270,51.183687,0.000000
+            5.756264,51.184618,0.000000
+            5.749140,51.188236,0.000000
+            5.746286,51.189144,0.000000
+            5.746321,51.193639,0.000000
+            5.747766,51.195433,0.000000
+            5.747812,51.195489,0.000000
+            5.758833,51.199386,0.000000
+            5.788107,51.212004,0.000000
+            5.794840,51.213499,0.000000
+            5.801078,51.200103,0.000000
+            5.803054,51.194421,0.000000
+            5.794812,51.191339,0.000000
+            5.790589,51.190508,0.000000
+            5.784638,51.185816,0.000000
+            5.783324,51.180067,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

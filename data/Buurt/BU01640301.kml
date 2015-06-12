@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640301 Schothorsthoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.825827,52.282121,0.000000
+            6.823061,52.277712,0.000000
+            6.811968,52.280993,0.000000
+            6.818962,52.284685,0.000000
+            6.822035,52.283783,0.000000
+            6.827449,52.283535,0.000000
+            6.827955,52.282793,0.000000
+            6.825827,52.282121,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

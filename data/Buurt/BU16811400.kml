@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16811400 Odoornerveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.820759,52.827048,0.000000
+            6.815948,52.825372,0.000000
+            6.810355,52.828896,0.000000
+            6.810207,52.828967,0.000000
+            6.767956,52.849170,0.000000
+            6.767844,52.849241,0.000000
+            6.766500,52.850086,0.000000
+            6.766501,52.850086,0.000000
+            6.769525,52.851848,0.000000
+            6.754879,52.858309,0.000000
+            6.754192,52.858741,0.000000
+            6.754493,52.859782,0.000000
+            6.763850,52.855482,0.000000
+            6.821901,52.827862,0.000000
+            6.820759,52.827048,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09280203 Vink</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.070241,50.887737,0.000000
+            6.069000,50.886782,0.000000
+            6.066742,50.886850,0.000000
+            6.065347,50.881680,0.000000
+            6.069007,50.879894,0.000000
+            6.061047,50.877791,0.000000
+            6.058310,50.875229,0.000000
+            6.056377,50.876428,0.000000
+            6.054940,50.885241,0.000000
+            6.056226,50.889254,0.000000
+            6.057783,50.890350,0.000000
+            6.064863,50.891160,0.000000
+            6.067741,50.889074,0.000000
+            6.070241,50.887737,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

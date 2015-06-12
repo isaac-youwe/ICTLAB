@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07970201 Vliedberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.195199,51.694192,0.000000
+            5.212532,51.691968,0.000000
+            5.213304,51.687625,0.000000
+            5.206260,51.685677,0.000000
+            5.200700,51.686156,0.000000
+            5.197227,51.685374,0.000000
+            5.195971,51.685667,0.000000
+            5.195636,51.687490,0.000000
+            5.193078,51.687850,0.000000
+            5.193752,51.688593,0.000000
+            5.191854,51.691423,0.000000
+            5.187887,51.691453,0.000000
+            5.188067,51.692159,0.000000
+            5.191534,51.692157,0.000000
+            5.195199,51.694192,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

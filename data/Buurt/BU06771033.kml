@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06771033 Kern Terhole</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.039886,51.318258,0.000000
+            4.041047,51.317100,0.000000
+            4.038352,51.312862,0.000000
+            4.036881,51.312511,0.000000
+            4.032392,51.317488,0.000000
+            4.034021,51.318154,0.000000
+            4.036540,51.317096,0.000000
+            4.039886,51.318258,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08730002 Hoogerheide-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.319113,51.439214,0.000000
+            4.319752,51.435627,0.000000
+            4.326248,51.438782,0.000000
+            4.330670,51.438795,0.000000
+            4.333241,51.439865,0.000000
+            4.337471,51.437108,0.000000
+            4.339322,51.432611,0.000000
+            4.339114,51.431452,0.000000
+            4.335138,51.428663,0.000000
+            4.335438,51.427927,0.000000
+            4.329077,51.429553,0.000000
+            4.311542,51.429185,0.000000
+            4.311444,51.432958,0.000000
+            4.309393,51.435805,0.000000
+            4.317066,51.440803,0.000000
+            4.319113,51.439214,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

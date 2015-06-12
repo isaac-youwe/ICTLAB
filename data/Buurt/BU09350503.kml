@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350503 Meerssenhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.725491,50.890742,0.000000
+            5.726859,50.883546,0.000000
+            5.732544,50.883529,0.000000
+            5.735373,50.881723,0.000000
+            5.735367,50.881004,0.000000
+            5.735352,50.879026,0.000000
+            5.735218,50.878610,0.000000
+            5.726733,50.876139,0.000000
+            5.719183,50.880039,0.000000
+            5.720456,50.883155,0.000000
+            5.713396,50.891665,0.000000
+            5.720106,50.898461,0.000000
+            5.722674,50.894346,0.000000
+            5.725272,50.891022,0.000000
+            5.725491,50.890742,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

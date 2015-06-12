@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07380309 Verspreide huizen Eethen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.074755,51.736458,0.000000
+            5.081442,51.731248,0.000000
+            5.082743,51.728035,0.000000
+            5.084559,51.728980,0.000000
+            5.088990,51.725999,0.000000
+            5.081789,51.722390,0.000000
+            5.076036,51.719687,0.000000
+            5.072376,51.723590,0.000000
+            5.056530,51.723058,0.000000
+            5.048582,51.726686,0.000000
+            5.033007,51.725011,0.000000
+            5.031539,51.742222,0.000000
+            5.037920,51.744141,0.000000
+            5.049799,51.746916,0.000000
+            5.057885,51.750095,0.000000
+            5.061135,51.751433,0.000000
+            5.074755,51.736458,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.046982,51.731139,0.000000
+            5.051507,51.728754,0.000000
+            5.057702,51.730683,0.000000
+            5.055508,51.735313,0.000000
+            5.050459,51.734938,0.000000
+            5.046865,51.732640,0.000000
+            5.046982,51.731139,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

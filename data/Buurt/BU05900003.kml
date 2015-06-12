@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05900003 Kraaihoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.686552,51.820480,0.000000
+            4.686097,51.820477,0.000000
+            4.686176,51.823442,0.000000
+            4.682431,51.824725,0.000000
+            4.692231,51.835867,0.000000
+            4.698973,51.833591,0.000000
+            4.693009,51.825675,0.000000
+            4.696096,51.824511,0.000000
+            4.695671,51.822371,0.000000
+            4.695228,51.822329,0.000000
+            4.692341,51.821413,0.000000
+            4.691693,51.821309,0.000000
+            4.686552,51.820480,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

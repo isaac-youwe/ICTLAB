@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07156500 Overslag</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.881690,51.209716,0.000000
+            3.890672,51.204844,0.000000
+            3.892252,51.205081,0.000000
+            3.893062,51.202552,0.000000
+            3.886045,51.200683,0.000000
+            3.884527,51.203360,0.000000
+            3.877225,51.207761,0.000000
+            3.881459,51.209614,0.000000
+            3.881690,51.209716,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

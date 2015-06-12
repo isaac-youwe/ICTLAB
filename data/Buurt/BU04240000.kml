@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04240000 Vesting Muiden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.071853,52.329115,0.000000
+            5.068422,52.325541,0.000000
+            5.065630,52.326250,0.000000
+            5.065248,52.326347,0.000000
+            5.064285,52.326584,0.000000
+            5.067608,52.332844,0.000000
+            5.067107,52.336290,0.000000
+            5.074353,52.334436,0.000000
+            5.071853,52.329115,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

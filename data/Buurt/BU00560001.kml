@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00560001 Noordhorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.404204,53.256199,0.000000
+            6.390971,53.253214,0.000000
+            6.386478,53.254705,0.000000
+            6.392606,53.256185,0.000000
+            6.386974,53.263064,0.000000
+            6.390112,53.265378,0.000000
+            6.395192,53.266980,0.000000
+            6.399870,53.265726,0.000000
+            6.401239,53.259834,0.000000
+            6.404204,53.256199,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

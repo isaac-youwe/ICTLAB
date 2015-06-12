@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590002 Uitbreidingsplan Hambroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.530257,52.111007,0.000000
+            6.523047,52.108647,0.000000
+            6.522268,52.110821,0.000000
+            6.523569,52.112845,0.000000
+            6.525725,52.114274,0.000000
+            6.525264,52.116535,0.000000
+            6.536440,52.119855,0.000000
+            6.538392,52.118114,0.000000
+            6.534711,52.113686,0.000000
+            6.530257,52.111007,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

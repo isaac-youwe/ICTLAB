@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220207 Buitengebied de Gaarde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.326461,51.975873,0.000000
+            6.320875,51.975810,0.000000
+            6.320226,51.977130,0.000000
+            6.312844,51.977377,0.000000
+            6.307028,51.979063,0.000000
+            6.307081,51.981663,0.000000
+            6.309751,51.980638,0.000000
+            6.326461,51.975873,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

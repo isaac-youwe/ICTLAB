@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08450408 Verspreide huizen Middelrode</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.429699,51.669622,0.000000
+            5.435902,51.667566,0.000000
+            5.432834,51.664347,0.000000
+            5.432016,51.663489,0.000000
+            5.432013,51.660752,0.000000
+            5.427672,51.656259,0.000000
+            5.423670,51.653772,0.000000
+            5.411712,51.657104,0.000000
+            5.399322,51.664297,0.000000
+            5.405889,51.668252,0.000000
+            5.411424,51.670865,0.000000
+            5.414429,51.674018,0.000000
+            5.427153,51.673932,0.000000
+            5.429699,51.669622,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.410498,51.664120,0.000000
+            5.411157,51.663443,0.000000
+            5.415306,51.664796,0.000000
+            5.416338,51.664280,0.000000
+            5.417947,51.663098,0.000000
+            5.415189,51.662019,0.000000
+            5.415656,51.660404,0.000000
+            5.417691,51.659612,0.000000
+            5.424251,51.663234,0.000000
+            5.425873,51.665337,0.000000
+            5.411254,51.668819,0.000000
+            5.410442,51.668465,0.000000
+            5.411436,51.667213,0.000000
+            5.410016,51.666874,0.000000
+            5.410498,51.664120,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

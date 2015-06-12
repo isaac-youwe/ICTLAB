@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09173901 Dr. Nolensplein en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.999839,50.891406,0.000000
+            6.008252,50.885994,0.000000
+            6.007962,50.885624,0.000000
+            6.006082,50.884353,0.000000
+            6.001366,50.887251,0.000000
+            5.995134,50.884284,0.000000
+            5.993102,50.885046,0.000000
+            5.993630,50.888100,0.000000
+            5.988149,50.889687,0.000000
+            5.999658,50.891468,0.000000
+            5.999829,50.891412,0.000000
+            5.999839,50.891406,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

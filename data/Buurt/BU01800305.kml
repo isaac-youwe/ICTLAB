@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01800305 Verspreide huizen Lankhorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.250871,52.667358,0.000000
+            6.250930,52.662153,0.000000
+            6.245706,52.659900,0.000000
+            6.242062,52.663488,0.000000
+            6.220988,52.661633,0.000000
+            6.214084,52.660291,0.000000
+            6.204766,52.657056,0.000000
+            6.203404,52.658702,0.000000
+            6.199369,52.671213,0.000000
+            6.227906,52.671447,0.000000
+            6.238079,52.669685,0.000000
+            6.250871,52.667358,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

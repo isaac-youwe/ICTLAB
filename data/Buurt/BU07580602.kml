@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580602 Kesteren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.728613,51.607012,0.000000
+            4.729798,51.606087,0.000000
+            4.732914,51.606203,0.000000
+            4.734388,51.602289,0.000000
+            4.723404,51.602762,0.000000
+            4.717948,51.610152,0.000000
+            4.717652,51.610576,0.000000
+            4.722850,51.612685,0.000000
+            4.728371,51.612522,0.000000
+            4.729204,51.612095,0.000000
+            4.728613,51.607012,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

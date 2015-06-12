@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04893162 Achterzeedijk Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.554259,51.844140,0.000000
+            4.559141,51.840011,0.000000
+            4.555870,51.836672,0.000000
+            4.558805,51.836201,0.000000
+            4.558612,51.835828,0.000000
+            4.557194,51.834020,0.000000
+            4.557032,51.833882,0.000000
+            4.552908,51.830393,0.000000
+            4.548522,51.832160,0.000000
+            4.536170,51.831220,0.000000
+            4.536133,51.841583,0.000000
+            4.542928,51.841563,0.000000
+            4.547492,51.842965,0.000000
+            4.549297,51.843543,0.000000
+            4.551541,51.843734,0.000000
+            4.554259,51.844140,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

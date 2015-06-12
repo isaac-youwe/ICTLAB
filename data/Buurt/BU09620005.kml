@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09620005 Hommert (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.916812,50.938458,0.000000
+            5.917733,50.935733,0.000000
+            5.925058,50.939040,0.000000
+            5.927904,50.936731,0.000000
+            5.927866,50.936721,0.000000
+            5.919288,50.933165,0.000000
+            5.917876,50.934070,0.000000
+            5.913608,50.934090,0.000000
+            5.907544,50.933352,0.000000
+            5.907850,50.938133,0.000000
+            5.913006,50.940460,0.000000
+            5.914582,50.940260,0.000000
+            5.916812,50.938458,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

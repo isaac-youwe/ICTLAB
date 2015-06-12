@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03100001 Steinenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.162314,52.097524,0.000000
+            5.160826,52.094855,0.000000
+            5.156584,52.098316,0.000000
+            5.162323,52.107233,0.000000
+            5.166465,52.106361,0.000000
+            5.162981,52.100617,0.000000
+            5.163576,52.099618,0.000000
+            5.162314,52.097524,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00810102 Jelsum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.783984,53.238538,0.000000
+            5.787580,53.234228,0.000000
+            5.786477,53.225952,0.000000
+            5.781065,53.226783,0.000000
+            5.779816,53.226042,0.000000
+            5.779559,53.225889,0.000000
+            5.775075,53.226802,0.000000
+            5.775105,53.230172,0.000000
+            5.774972,53.230729,0.000000
+            5.773691,53.236080,0.000000
+            5.777787,53.235904,0.000000
+            5.782874,53.237008,0.000000
+            5.782236,53.238067,0.000000
+            5.783984,53.238538,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

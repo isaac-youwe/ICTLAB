@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03970001 Oude Dorp, Indische buurt en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.616873,52.331542,0.000000
+            4.616641,52.331250,0.000000
+            4.614956,52.333413,0.000000
+            4.616472,52.336559,0.000000
+            4.620590,52.338750,0.000000
+            4.621234,52.343121,0.000000
+            4.624217,52.344353,0.000000
+            4.623966,52.345251,0.000000
+            4.629988,52.350307,0.000000
+            4.636920,52.353399,0.000000
+            4.637049,52.353245,0.000000
+            4.640045,52.349669,0.000000
+            4.641604,52.344285,0.000000
+            4.640197,52.340681,0.000000
+            4.640227,52.338883,0.000000
+            4.629986,52.337020,0.000000
+            4.620243,52.333526,0.000000
+            4.619776,52.333359,0.000000
+            4.616873,52.331542,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180623 Industriegebied Noord B</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.520317,52.741494,0.000000
+            6.523173,52.733547,0.000000
+            6.533422,52.733586,0.000000
+            6.536110,52.729270,0.000000
+            6.535859,52.727616,0.000000
+            6.527022,52.728062,0.000000
+            6.526801,52.727239,0.000000
+            6.519901,52.727480,0.000000
+            6.503861,52.728310,0.000000
+            6.504258,52.733063,0.000000
+            6.503239,52.735714,0.000000
+            6.520317,52.741494,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

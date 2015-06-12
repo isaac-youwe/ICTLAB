@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060606 Witten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.519737,52.982140,0.000000
+            6.521931,52.978749,0.000000
+            6.523618,52.978301,0.000000
+            6.521489,52.977196,0.000000
+            6.517690,52.978703,0.000000
+            6.515878,52.980519,0.000000
+            6.513694,52.979993,0.000000
+            6.512185,52.981827,0.000000
+            6.520418,52.983217,0.000000
+            6.519737,52.982140,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

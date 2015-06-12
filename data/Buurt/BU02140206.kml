@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140206 Verspreide huizen ten oosten van kanaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.403338,51.941696,0.000000
+            5.416498,51.938910,0.000000
+            5.422387,51.939386,0.000000
+            5.430320,51.931811,0.000000
+            5.436012,51.930739,0.000000
+            5.444608,51.936578,0.000000
+            5.447080,51.935539,0.000000
+            5.453258,51.931354,0.000000
+            5.453934,51.927355,0.000000
+            5.455659,51.926774,0.000000
+            5.458710,51.927030,0.000000
+            5.460361,51.924081,0.000000
+            5.459900,51.924129,0.000000
+            5.452628,51.922335,0.000000
+            5.446810,51.920540,0.000000
+            5.443903,51.921441,0.000000
+            5.436633,51.920545,0.000000
+            5.432933,51.919893,0.000000
+            5.432439,51.919806,0.000000
+            5.389275,51.940381,0.000000
+            5.390750,51.941400,0.000000
+            5.403338,51.941696,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

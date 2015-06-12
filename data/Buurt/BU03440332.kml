@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440332 Bedrijvengebied Overvecht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.085886,52.120459,0.000000
+            5.085447,52.118822,0.000000
+            5.080067,52.119051,0.000000
+            5.075156,52.121661,0.000000
+            5.072352,52.125341,0.000000
+            5.075862,52.126795,0.000000
+            5.076105,52.126896,0.000000
+            5.087729,52.135915,0.000000
+            5.099451,52.130551,0.000000
+            5.100359,52.130367,0.000000
+            5.098683,52.129094,0.000000
+            5.098808,52.128467,0.000000
+            5.092883,52.124825,0.000000
+            5.085886,52.120459,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

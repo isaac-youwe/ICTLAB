@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03990501 Akkerbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.696786,52.595572,0.000000
+            4.696532,52.595290,0.000000
+            4.691486,52.596294,0.000000
+            4.692025,52.599908,0.000000
+            4.693630,52.602198,0.000000
+            4.696433,52.604692,0.000000
+            4.699633,52.601701,0.000000
+            4.701728,52.600950,0.000000
+            4.696786,52.595572,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

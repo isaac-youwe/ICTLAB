@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06640102 Goes-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.907616,51.510617,0.000000
+            3.906918,51.503462,0.000000
+            3.904265,51.497848,0.000000
+            3.889156,51.498169,0.000000
+            3.889825,51.500559,0.000000
+            3.894798,51.502800,0.000000
+            3.891342,51.506275,0.000000
+            3.893114,51.509096,0.000000
+            3.893900,51.509333,0.000000
+            3.896530,51.508869,0.000000
+            3.907616,51.510617,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05460302 De Kooi</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.514521,52.163760,0.000000
+            4.514576,52.160934,0.000000
+            4.514543,52.160973,0.000000
+            4.505488,52.161502,0.000000
+            4.505466,52.161735,0.000000
+            4.505855,52.163035,0.000000
+            4.506269,52.166102,0.000000
+            4.504606,52.168800,0.000000
+            4.506785,52.169406,0.000000
+            4.505925,52.172001,0.000000
+            4.510935,52.171504,0.000000
+            4.514741,52.171122,0.000000
+            4.514383,52.170821,0.000000
+            4.514413,52.169281,0.000000
+            4.514521,52.163760,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00740110 de Greiden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.929730,52.947820,0.000000
+            5.913868,52.942262,0.000000
+            5.913883,52.942280,0.000000
+            5.905106,52.954901,0.000000
+            5.904726,52.955308,0.000000
+            5.905570,52.955548,0.000000
+            5.917074,52.958817,0.000000
+            5.921788,52.954724,0.000000
+            5.929730,52.947820,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

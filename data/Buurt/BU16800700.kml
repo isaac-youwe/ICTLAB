@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16800700 Spijkerboor</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.768729,53.078247,0.000000
+            6.769613,53.076893,0.000000
+            6.766095,53.075447,0.000000
+            6.765639,53.074984,0.000000
+            6.763966,53.074983,0.000000
+            6.764185,53.075776,0.000000
+            6.761026,53.076452,0.000000
+            6.763214,53.078476,0.000000
+            6.764421,53.078042,0.000000
+            6.769047,53.080118,0.000000
+            6.768109,53.080940,0.000000
+            6.770603,53.081710,0.000000
+            6.772654,53.079400,0.000000
+            6.768729,53.078247,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

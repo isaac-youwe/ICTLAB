@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16660104 Nijverheidscentrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.594059,52.007892,0.000000
+            4.589236,52.004834,0.000000
+            4.586775,52.007166,0.000000
+            4.585095,52.006911,0.000000
+            4.585429,52.009678,0.000000
+            4.588720,52.011703,0.000000
+            4.591226,52.011248,0.000000
+            4.594135,52.009485,0.000000
+            4.594059,52.007892,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140400 Barger-Compascuum-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.044454,52.762841,0.000000
+            7.044375,52.761946,0.000000
+            7.048872,52.762010,0.000000
+            7.049388,52.750292,0.000000
+            7.044395,52.750218,0.000000
+            7.039701,52.750148,0.000000
+            7.039844,52.751952,0.000000
+            7.031299,52.751829,0.000000
+            7.031773,52.757293,0.000000
+            7.034340,52.758176,0.000000
+            7.040152,52.758266,0.000000
+            7.040489,52.762780,0.000000
+            7.044454,52.762841,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

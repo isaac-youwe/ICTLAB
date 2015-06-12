@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16811502 Exlo_rveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.912813,52.902892,0.000000
+            6.905814,52.899532,0.000000
+            6.904132,52.911785,0.000000
+            6.901410,52.914119,0.000000
+            6.888582,52.919105,0.000000
+            6.889565,52.919496,0.000000
+            6.892448,52.920643,0.000000
+            6.902612,52.917258,0.000000
+            6.905866,52.914858,0.000000
+            6.908927,52.911466,0.000000
+            6.910580,52.905036,0.000000
+            6.912813,52.902892,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

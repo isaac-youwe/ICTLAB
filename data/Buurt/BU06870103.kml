@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06870103 Brigdamme</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.604618,51.521658,0.000000
+            3.604410,51.520195,0.000000
+            3.607179,51.520409,0.000000
+            3.608618,51.517007,0.000000
+            3.605752,51.511972,0.000000
+            3.607242,51.511048,0.000000
+            3.606102,51.510684,0.000000
+            3.605495,51.507633,0.000000
+            3.600993,51.506111,0.000000
+            3.599257,51.512535,0.000000
+            3.598517,51.517677,0.000000
+            3.600474,51.519468,0.000000
+            3.604618,51.521658,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

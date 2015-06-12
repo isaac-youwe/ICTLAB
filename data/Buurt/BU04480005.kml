@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04480005 Den Hoorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.750758,53.023439,0.000000
+            4.741848,53.022709,0.000000
+            4.739996,53.027043,0.000000
+            4.740577,53.028055,0.000000
+            4.752951,53.030667,0.000000
+            4.758561,53.028951,0.000000
+            4.759179,53.027217,0.000000
+            4.757871,53.024405,0.000000
+            4.750758,53.023439,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

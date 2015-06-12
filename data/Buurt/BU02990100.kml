@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02990100 Babberich</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.116423,51.910453,0.000000
+            6.123003,51.908082,0.000000
+            6.122806,51.905518,0.000000
+            6.117396,51.904921,0.000000
+            6.118658,51.903630,0.000000
+            6.113174,51.902247,0.000000
+            6.110650,51.902837,0.000000
+            6.106246,51.909241,0.000000
+            6.106678,51.909704,0.000000
+            6.110384,51.908440,0.000000
+            6.116439,51.909068,0.000000
+            6.116423,51.910453,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

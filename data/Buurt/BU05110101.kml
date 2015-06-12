@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05110101 Oudeland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.909975,51.806699,0.000000
+            3.911066,51.804451,0.000000
+            3.916092,51.805838,0.000000
+            3.916829,51.804028,0.000000
+            3.927075,51.803037,0.000000
+            3.927370,51.800872,0.000000
+            3.913138,51.801604,0.000000
+            3.899181,51.796353,0.000000
+            3.895982,51.795932,0.000000
+            3.895186,51.796771,0.000000
+            3.907219,51.803624,0.000000
+            3.905676,51.806143,0.000000
+            3.907391,51.806504,0.000000
+            3.909975,51.806699,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

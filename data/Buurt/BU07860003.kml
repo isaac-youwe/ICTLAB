@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07860003 Esterveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.759718,51.753614,0.000000
+            5.752401,51.747473,0.000000
+            5.743253,51.748699,0.000000
+            5.742683,51.747600,0.000000
+            5.740485,51.747746,0.000000
+            5.740529,51.748412,0.000000
+            5.740556,51.748809,0.000000
+            5.742781,51.749887,0.000000
+            5.741281,51.753617,0.000000
+            5.744722,51.756076,0.000000
+            5.743096,51.757590,0.000000
+            5.745249,51.759012,0.000000
+            5.752097,51.756433,0.000000
+            5.752237,51.756380,0.000000
+            5.759458,51.753661,0.000000
+            5.759718,51.753614,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

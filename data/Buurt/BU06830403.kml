@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830403 Abbega</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.575348,53.015873,0.000000
+            5.573492,53.015119,0.000000
+            5.570708,53.016177,0.000000
+            5.568058,53.018654,0.000000
+            5.569284,53.020620,0.000000
+            5.572661,53.020446,0.000000
+            5.575321,53.019364,0.000000
+            5.576404,53.017843,0.000000
+            5.575348,53.015873,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02850009 Verspreide huizen Akkerbouwgebied Noord-Empe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.104745,52.152091,0.000000
+            6.076855,52.144167,0.000000
+            6.074403,52.148045,0.000000
+            6.075909,52.150187,0.000000
+            6.085041,52.153790,0.000000
+            6.087836,52.155652,0.000000
+            6.088439,52.159088,0.000000
+            6.092425,52.163015,0.000000
+            6.098424,52.164952,0.000000
+            6.107872,52.170463,0.000000
+            6.140570,52.158555,0.000000
+            6.139921,52.158164,0.000000
+            6.104745,52.152091,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

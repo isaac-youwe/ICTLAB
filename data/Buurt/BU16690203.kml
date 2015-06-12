@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16690203 Voorst-Voorsterveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.041054,51.109049,0.000000
+            6.045669,51.102549,0.000000
+            6.045476,51.102429,0.000000
+            6.042594,51.100647,0.000000
+            6.036820,51.096185,0.000000
+            6.031185,51.101610,0.000000
+            6.028404,51.107020,0.000000
+            6.026437,51.108786,0.000000
+            6.028221,51.108189,0.000000
+            6.041054,51.109049,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

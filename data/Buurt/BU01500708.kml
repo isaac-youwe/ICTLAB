@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500708 Spikvoorde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.234382,52.261382,0.000000
+            6.229474,52.260795,0.000000
+            6.226959,52.264978,0.000000
+            6.227840,52.267950,0.000000
+            6.236006,52.267270,0.000000
+            6.234432,52.263782,0.000000
+            6.236561,52.261511,0.000000
+            6.234382,52.261382,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

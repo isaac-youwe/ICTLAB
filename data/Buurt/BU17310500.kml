@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17310500 Drijber</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.535196,52.794878,0.000000
+            6.537461,52.792868,0.000000
+            6.544166,52.792918,0.000000
+            6.542848,52.789675,0.000000
+            6.536836,52.789121,0.000000
+            6.537102,52.790400,0.000000
+            6.534200,52.791430,0.000000
+            6.533572,52.794471,0.000000
+            6.535196,52.794878,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

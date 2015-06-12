@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07170201 Breezand</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.620829,51.582471,0.000000
+            3.617863,51.578289,0.000000
+            3.616153,51.578850,0.000000
+            3.609904,51.581663,0.000000
+            3.612012,51.587473,0.000000
+            3.612723,51.587964,0.000000
+            3.621059,51.586426,0.000000
+            3.619656,51.584264,0.000000
+            3.620829,51.582471,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

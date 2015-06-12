@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09954470 Larserplein-Flevohout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.507560,52.482396,0.000000
+            5.503194,52.480455,0.000000
+            5.497296,52.484336,0.000000
+            5.502397,52.486522,0.000000
+            5.510037,52.488907,0.000000
+            5.519563,52.494190,0.000000
+            5.524638,52.499569,0.000000
+            5.530032,52.500309,0.000000
+            5.521857,52.490803,0.000000
+            5.515162,52.486184,0.000000
+            5.507560,52.482396,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

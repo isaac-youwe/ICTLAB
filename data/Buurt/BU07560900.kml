@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07560900 Holthees Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.012530,51.572775,0.000000
+            6.005299,51.569799,0.000000
+            6.004640,51.570133,0.000000
+            6.003198,51.570140,0.000000
+            6.002874,51.570016,0.000000
+            6.000067,51.572630,0.000000
+            6.002387,51.578468,0.000000
+            6.003562,51.578700,0.000000
+            6.006815,51.576241,0.000000
+            6.012479,51.573867,0.000000
+            6.012530,51.572775,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

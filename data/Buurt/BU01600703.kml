@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600703 De Krim</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.592168,52.629711,0.000000
+            6.590770,52.629432,0.000000
+            6.587436,52.631691,0.000000
+            6.571460,52.643367,0.000000
+            6.598467,52.656796,0.000000
+            6.604564,52.652299,0.000000
+            6.608572,52.649338,0.000000
+            6.619660,52.641118,0.000000
+            6.620518,52.640482,0.000000
+            6.610250,52.635312,0.000000
+            6.592168,52.629711,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

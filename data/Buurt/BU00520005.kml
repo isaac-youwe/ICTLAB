@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00520005 Winschoten-Grintweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.027133,53.151265,0.000000
+            7.025143,53.148063,0.000000
+            7.020987,53.150731,0.000000
+            7.013787,53.152477,0.000000
+            7.013865,53.152588,0.000000
+            7.014094,53.152753,0.000000
+            7.020012,53.156999,0.000000
+            7.018822,53.161986,0.000000
+            7.023774,53.161570,0.000000
+            7.023496,53.159708,0.000000
+            7.026726,53.152720,0.000000
+            7.027133,53.151265,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

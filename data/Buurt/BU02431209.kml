@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02431209 Drielanden-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.592607,52.326259,0.000000
+            5.593718,52.322009,0.000000
+            5.583477,52.323163,0.000000
+            5.578367,52.325240,0.000000
+            5.577574,52.325850,0.000000
+            5.584935,52.329523,0.000000
+            5.594714,52.331604,0.000000
+            5.594105,52.329386,0.000000
+            5.590753,52.328332,0.000000
+            5.591537,52.326374,0.000000
+            5.592607,52.326259,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

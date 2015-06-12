@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990060 Foxwolde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.462408,53.160298,0.000000
+            6.461727,53.157570,0.000000
+            6.465072,53.156320,0.000000
+            6.456583,53.146215,0.000000
+            6.446329,53.152026,0.000000
+            6.454450,53.156541,0.000000
+            6.449097,53.158876,0.000000
+            6.450493,53.160269,0.000000
+            6.457131,53.157894,0.000000
+            6.458604,53.161456,0.000000
+            6.464949,53.166635,0.000000
+            6.467104,53.165554,0.000000
+            6.460759,53.160861,0.000000
+            6.462408,53.160298,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770105 Raan-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.291151,52.394982,0.000000
+            6.284000,52.390524,0.000000
+            6.281473,52.392135,0.000000
+            6.280910,52.392496,0.000000
+            6.283766,52.396025,0.000000
+            6.286770,52.396663,0.000000
+            6.287339,52.398950,0.000000
+            6.284764,52.399306,0.000000
+            6.283945,52.400767,0.000000
+            6.294699,52.400232,0.000000
+            6.294095,52.399028,0.000000
+            6.291151,52.394982,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16950301 Recreatiegebied Kamperland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.675481,51.563892,0.000000
+            3.685550,51.559066,0.000000
+            3.690889,51.563235,0.000000
+            3.692803,51.562366,0.000000
+            3.694847,51.562521,0.000000
+            3.695064,51.562109,0.000000
+            3.689591,51.558535,0.000000
+            3.686741,51.557595,0.000000
+            3.677990,51.560165,0.000000
+            3.670611,51.564552,0.000000
+            3.663470,51.567081,0.000000
+            3.667778,51.571116,0.000000
+            3.669621,51.570590,0.000000
+            3.675481,51.563892,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

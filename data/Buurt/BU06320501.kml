@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320501 Harmelerwaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.994632,52.090696,0.000000
+            5.004871,52.088033,0.000000
+            5.004867,52.088006,0.000000
+            5.004783,52.087402,0.000000
+            4.991314,52.089789,0.000000
+            4.973087,52.084310,0.000000
+            4.970774,52.088033,0.000000
+            4.970332,52.089485,0.000000
+            4.982571,52.089984,0.000000
+            4.993385,52.092212,0.000000
+            4.993458,52.092124,0.000000
+            4.994632,52.090696,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

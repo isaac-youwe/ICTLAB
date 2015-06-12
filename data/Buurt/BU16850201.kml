@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16850201 Nabbegat-Voederheil</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.659171,51.715787,0.000000
+            5.660764,51.712775,0.000000
+            5.670090,51.713615,0.000000
+            5.677080,51.711817,0.000000
+            5.679536,51.708451,0.000000
+            5.680430,51.708467,0.000000
+            5.680407,51.705184,0.000000
+            5.676689,51.705846,0.000000
+            5.675528,51.704720,0.000000
+            5.668188,51.704445,0.000000
+            5.661284,51.705716,0.000000
+            5.654571,51.711063,0.000000
+            5.653115,51.714188,0.000000
+            5.655155,51.715743,0.000000
+            5.659171,51.715787,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

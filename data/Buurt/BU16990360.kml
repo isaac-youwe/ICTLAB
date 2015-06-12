@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990360 Veenhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.407536,53.036340,0.000000
+            6.399100,53.028087,0.000000
+            6.382139,53.034100,0.000000
+            6.386818,53.039038,0.000000
+            6.387333,53.041391,0.000000
+            6.392432,53.045784,0.000000
+            6.395626,53.044532,0.000000
+            6.394376,53.043160,0.000000
+            6.396651,53.040895,0.000000
+            6.407536,53.036340,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

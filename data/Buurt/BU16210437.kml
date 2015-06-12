@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16210437 Lint Rodenrijs Buiten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.450712,51.971876,0.000000
+            4.436574,51.970008,0.000000
+            4.435557,51.971225,0.000000
+            4.439059,51.972018,0.000000
+            4.449908,51.973668,0.000000
+            4.456127,51.977024,0.000000
+            4.458516,51.976633,0.000000
+            4.458716,51.976395,0.000000
+            4.459108,51.975400,0.000000
+            4.450712,51.971876,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

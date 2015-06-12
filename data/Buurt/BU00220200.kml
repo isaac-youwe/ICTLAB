@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00220200 Bebouwde kom Tolbert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.373460,53.176849,0.000000
+            6.374783,53.172958,0.000000
+            6.374980,53.172383,0.000000
+            6.371659,53.171802,0.000000
+            6.364689,53.171397,0.000000
+            6.366107,53.166383,0.000000
+            6.362096,53.165873,0.000000
+            6.357347,53.163941,0.000000
+            6.353358,53.172316,0.000000
+            6.355741,53.174335,0.000000
+            6.359122,53.176732,0.000000
+            6.363670,53.176556,0.000000
+            6.365774,53.174696,0.000000
+            6.373460,53.176849,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

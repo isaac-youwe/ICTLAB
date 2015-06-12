@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03840223 Vogelweide en Scheepskwartier-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.982992,52.349871,0.000000
+            4.980754,52.348218,0.000000
+            4.978836,52.349163,0.000000
+            4.975229,52.346272,0.000000
+            4.971324,52.347342,0.000000
+            4.971924,52.349532,0.000000
+            4.971836,52.350983,0.000000
+            4.973761,52.351340,0.000000
+            4.976669,52.353699,0.000000
+            4.982992,52.349871,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

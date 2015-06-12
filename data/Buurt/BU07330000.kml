@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07330000 Asperen Oude Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.118498,51.877778,0.000000
+            5.113877,51.876113,0.000000
+            5.109239,51.880173,0.000000
+            5.111460,51.882473,0.000000
+            5.116468,51.884326,0.000000
+            5.118799,51.878376,0.000000
+            5.118497,51.877998,0.000000
+            5.118498,51.877778,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

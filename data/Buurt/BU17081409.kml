@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17081409 Verspreide huizen polder Halfweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.020401,52.733052,0.000000
+            6.005227,52.729871,0.000000
+            6.003774,52.730932,0.000000
+            5.993448,52.738467,0.000000
+            5.992833,52.741067,0.000000
+            5.996120,52.743308,0.000000
+            5.996265,52.744586,0.000000
+            5.996858,52.744615,0.000000
+            6.003177,52.744940,0.000000
+            6.019940,52.749126,0.000000
+            6.039354,52.755736,0.000000
+            6.051015,52.765096,0.000000
+            6.050313,52.739011,0.000000
+            6.020401,52.733052,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

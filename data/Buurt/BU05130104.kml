@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130104 Nieuwe Park-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.703304,52.011962,0.000000
+            4.702790,52.011384,0.000000
+            4.694708,52.014640,0.000000
+            4.695403,52.016439,0.000000
+            4.689881,52.018401,0.000000
+            4.693634,52.018410,0.000000
+            4.709159,52.017143,0.000000
+            4.709453,52.015545,0.000000
+            4.707095,52.014293,0.000000
+            4.703304,52.011962,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

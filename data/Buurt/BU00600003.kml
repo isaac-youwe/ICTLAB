@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00600003 Hollum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.648761,53.437019,0.000000
+            5.645328,53.434189,0.000000
+            5.639536,53.434247,0.000000
+            5.638883,53.434868,0.000000
+            5.633631,53.438402,0.000000
+            5.634190,53.444795,0.000000
+            5.642491,53.446470,0.000000
+            5.645089,53.445770,0.000000
+            5.647621,53.443219,0.000000
+            5.649082,53.439824,0.000000
+            5.648761,53.437019,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

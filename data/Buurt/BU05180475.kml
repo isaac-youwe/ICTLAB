@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05180475 Uilennest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.342074,52.097527,0.000000
+            4.330282,52.092301,0.000000
+            4.327318,52.095312,0.000000
+            4.327346,52.095748,0.000000
+            4.327562,52.095575,0.000000
+            4.337714,52.098363,0.000000
+            4.340633,52.098389,0.000000
+            4.342074,52.097527,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940562 Badhoevedorp-Dijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.791350,52.341538,0.000000
+            4.797304,52.335276,0.000000
+            4.797806,52.335278,0.000000
+            4.797385,52.334603,0.000000
+            4.790363,52.340591,0.000000
+            4.788355,52.342068,0.000000
+            4.784243,52.343310,0.000000
+            4.772286,52.348636,0.000000
+            4.773328,52.349628,0.000000
+            4.773628,52.349538,0.000000
+            4.791350,52.341538,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

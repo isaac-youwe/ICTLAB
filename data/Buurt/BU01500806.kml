@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500806 Swormink</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.232350,52.245602,0.000000
+            6.230700,52.239997,0.000000
+            6.231650,52.238576,0.000000
+            6.222792,52.238311,0.000000
+            6.223351,52.242045,0.000000
+            6.216696,52.242065,0.000000
+            6.216340,52.242967,0.000000
+            6.221437,52.243362,0.000000
+            6.227812,52.243741,0.000000
+            6.228935,52.244883,0.000000
+            6.232350,52.245602,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

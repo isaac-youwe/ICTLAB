@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08260902 Industrieterrein Weststad-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.851530,51.668909,0.000000
+            4.828773,51.666461,0.000000
+            4.826720,51.669904,0.000000
+            4.822189,51.672507,0.000000
+            4.821801,51.674781,0.000000
+            4.829047,51.676510,0.000000
+            4.842028,51.679268,0.000000
+            4.842011,51.680686,0.000000
+            4.844073,51.677061,0.000000
+            4.850616,51.671467,0.000000
+            4.851530,51.668909,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

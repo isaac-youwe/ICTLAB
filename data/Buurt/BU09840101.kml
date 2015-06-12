@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09840101 Venray-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.976354,51.522155,0.000000
+            5.973599,51.521952,0.000000
+            5.970797,51.522954,0.000000
+            5.972259,51.531938,0.000000
+            5.978588,51.532021,0.000000
+            5.976574,51.527617,0.000000
+            5.977455,51.523138,0.000000
+            5.976354,51.522155,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

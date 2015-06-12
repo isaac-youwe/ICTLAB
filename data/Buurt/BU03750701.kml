@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03750701 Fokkerlaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.672908,52.496900,0.000000
+            4.669183,52.494775,0.000000
+            4.668119,52.495537,0.000000
+            4.664881,52.497905,0.000000
+            4.668400,52.499979,0.000000
+            4.672898,52.497288,0.000000
+            4.673179,52.497036,0.000000
+            4.672908,52.496900,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17000002 Oosteinde en Slot</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.665030,52.428854,0.000000
+            6.665177,52.426214,0.000000
+            6.673165,52.426217,0.000000
+            6.672985,52.425082,0.000000
+            6.673892,52.425077,0.000000
+            6.673827,52.425039,0.000000
+            6.672888,52.423414,0.000000
+            6.670424,52.423973,0.000000
+            6.661510,52.423355,0.000000
+            6.658056,52.418352,0.000000
+            6.650748,52.415100,0.000000
+            6.649382,52.414915,0.000000
+            6.648543,52.415629,0.000000
+            6.636705,52.410510,0.000000
+            6.634652,52.414574,0.000000
+            6.631903,52.419110,0.000000
+            6.657022,52.425767,0.000000
+            6.656537,52.427225,0.000000
+            6.665030,52.428854,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

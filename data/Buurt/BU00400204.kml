@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00400204 Tjuchem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.877256,53.278208,0.000000
+            6.863622,53.277845,0.000000
+            6.863697,53.281099,0.000000
+            6.866994,53.282175,0.000000
+            6.877120,53.282392,0.000000
+            6.886750,53.280950,0.000000
+            6.887788,53.279639,0.000000
+            6.879517,53.279063,0.000000
+            6.877256,53.278208,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

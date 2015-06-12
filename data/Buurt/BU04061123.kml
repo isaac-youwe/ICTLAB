@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04061123 Bovenmaat Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.278928,52.299131,0.000000
+            5.276585,52.297176,0.000000
+            5.274907,52.298533,0.000000
+            5.271522,52.298214,0.000000
+            5.267766,52.300339,0.000000
+            5.264082,52.301792,0.000000
+            5.264540,52.306031,0.000000
+            5.274292,52.304333,0.000000
+            5.278409,52.302656,0.000000
+            5.275715,52.300879,0.000000
+            5.278928,52.299131,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

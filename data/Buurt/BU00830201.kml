@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00830201 Wier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.634752,53.242400,0.000000
+            5.627188,53.241215,0.000000
+            5.626896,53.241568,0.000000
+            5.614950,53.248781,0.000000
+            5.617783,53.254657,0.000000
+            5.617980,53.255065,0.000000
+            5.617985,53.255964,0.000000
+            5.629958,53.253245,0.000000
+            5.631122,53.253142,0.000000
+            5.628852,53.250036,0.000000
+            5.635107,53.245971,0.000000
+            5.633527,53.244029,0.000000
+            5.634752,53.242400,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

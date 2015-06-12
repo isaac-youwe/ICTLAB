@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01400100 Wjelsryp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.608923,53.164653,0.000000
+            5.606441,53.163552,0.000000
+            5.599921,53.168421,0.000000
+            5.602043,53.170186,0.000000
+            5.609431,53.171468,0.000000
+            5.611607,53.170830,0.000000
+            5.612901,53.168379,0.000000
+            5.608923,53.164653,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

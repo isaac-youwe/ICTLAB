@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280806 Meerdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.528130,51.789524,0.000000
+            5.531796,51.788519,0.000000
+            5.534610,51.788535,0.000000
+            5.537688,51.789809,0.000000
+            5.539599,51.791682,0.000000
+            5.542989,51.791337,0.000000
+            5.542175,51.788944,0.000000
+            5.539411,51.789105,0.000000
+            5.534423,51.785700,0.000000
+            5.533770,51.780855,0.000000
+            5.537243,51.778564,0.000000
+            5.534522,51.780128,0.000000
+            5.531476,51.780516,0.000000
+            5.518575,51.783600,0.000000
+            5.520941,51.793289,0.000000
+            5.527170,51.790942,0.000000
+            5.528130,51.789524,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

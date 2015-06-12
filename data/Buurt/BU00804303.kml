@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00804303 Huizum-Bornia</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.807348,53.194740,0.000000
+            5.807561,53.191180,0.000000
+            5.797843,53.191054,0.000000
+            5.798274,53.192692,0.000000
+            5.798497,53.193571,0.000000
+            5.800852,53.193348,0.000000
+            5.802376,53.195810,0.000000
+            5.807348,53.194740,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

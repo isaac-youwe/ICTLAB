@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07772000 Banakkers 1</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.643231,51.564168,0.000000
+            4.642035,51.563036,0.000000
+            4.640599,51.563755,0.000000
+            4.637788,51.565285,0.000000
+            4.636701,51.565947,0.000000
+            4.637363,51.566710,0.000000
+            4.641854,51.567523,0.000000
+            4.642892,51.567094,0.000000
+            4.643623,51.566741,0.000000
+            4.642166,51.565564,0.000000
+            4.643231,51.564168,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

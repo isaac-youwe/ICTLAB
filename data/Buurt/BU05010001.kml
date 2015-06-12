@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05010001 Spuilaan en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.169006,51.894405,0.000000
+            4.163469,51.892102,0.000000
+            4.162179,51.894886,0.000000
+            4.159580,51.896508,0.000000
+            4.158788,51.899409,0.000000
+            4.164635,51.898389,0.000000
+            4.165041,51.898044,0.000000
+            4.169422,51.894690,0.000000
+            4.169006,51.894405,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

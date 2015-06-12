@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05800001 Achthuizen (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.285195,51.689449,0.000000
+            4.288422,51.685548,0.000000
+            4.283202,51.684029,0.000000
+            4.281553,51.681714,0.000000
+            4.279284,51.681848,0.000000
+            4.278606,51.686864,0.000000
+            4.270751,51.690387,0.000000
+            4.270865,51.690693,0.000000
+            4.280001,51.687274,0.000000
+            4.282009,51.691167,0.000000
+            4.284720,51.692520,0.000000
+            4.289847,51.693119,0.000000
+            4.295896,51.694883,0.000000
+            4.296038,51.694012,0.000000
+            4.293383,51.691828,0.000000
+            4.285195,51.689449,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

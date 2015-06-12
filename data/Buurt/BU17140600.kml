@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17140600 Zuidzande</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.456042,51.341566,0.000000
+            3.453011,51.337171,0.000000
+            3.449350,51.340067,0.000000
+            3.444298,51.337839,0.000000
+            3.443579,51.338538,0.000000
+            3.446587,51.342251,0.000000
+            3.452060,51.344127,0.000000
+            3.454011,51.343346,0.000000
+            3.453373,51.342793,0.000000
+            3.456042,51.341566,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

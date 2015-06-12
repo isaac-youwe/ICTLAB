@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02320003 Epe-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.000999,52.343369,0.000000
+            5.993576,52.342564,0.000000
+            5.989757,52.344440,0.000000
+            5.989997,52.347634,0.000000
+            5.991426,52.347961,0.000000
+            5.988660,52.353752,0.000000
+            5.989572,52.358391,0.000000
+            5.994757,52.363938,0.000000
+            5.998755,52.363695,0.000000
+            6.004895,52.358599,0.000000
+            5.993640,52.354198,0.000000
+            5.999369,52.350207,0.000000
+            6.003245,52.349841,0.000000
+            6.001359,52.346909,0.000000
+            6.000999,52.343369,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

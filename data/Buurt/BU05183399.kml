@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05183399 De Uithof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.247615,52.025611,0.000000
+            4.247605,52.025607,0.000000
+            4.235606,52.038971,0.000000
+            4.239622,52.042299,0.000000
+            4.245840,52.040115,0.000000
+            4.250927,52.037842,0.000000
+            4.255476,52.033641,0.000000
+            4.258942,52.030131,0.000000
+            4.247615,52.025611,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

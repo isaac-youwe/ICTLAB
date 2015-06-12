@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05900006 Oosteind en De Kooy</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.732697,51.827616,0.000000
+            4.730042,51.822529,0.000000
+            4.708556,51.823294,0.000000
+            4.708270,51.823304,0.000000
+            4.705715,51.823289,0.000000
+            4.705119,51.828812,0.000000
+            4.706488,51.831098,0.000000
+            4.713517,51.841314,0.000000
+            4.713803,51.841316,0.000000
+            4.736832,51.846813,0.000000
+            4.736945,51.846840,0.000000
+            4.742815,51.842377,0.000000
+            4.742840,51.840580,0.000000
+            4.741389,51.840572,0.000000
+            4.732865,51.827939,0.000000
+            4.732697,51.827616,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991088 Noordereiland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.494221,51.909818,0.000000
+            4.494155,51.909049,0.000000
+            4.488903,51.909413,0.000000
+            4.485930,51.910593,0.000000
+            4.493978,51.916226,0.000000
+            4.500164,51.918089,0.000000
+            4.507415,51.916795,0.000000
+            4.500071,51.913180,0.000000
+            4.494221,51.909818,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

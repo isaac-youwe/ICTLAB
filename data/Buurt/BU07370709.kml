@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07370709 Verspreide huizen Jistrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.044625,53.225629,0.000000
+            6.086393,53.215507,0.000000
+            6.081830,53.211040,0.000000
+            6.078764,53.206564,0.000000
+            6.080336,53.202629,0.000000
+            6.059859,53.199440,0.000000
+            6.048506,53.198416,0.000000
+            6.033406,53.195015,0.000000
+            6.031884,53.201074,0.000000
+            6.033944,53.212034,0.000000
+            6.032065,53.222213,0.000000
+            6.026622,53.231841,0.000000
+            6.028219,53.230211,0.000000
+            6.043839,53.225848,0.000000
+            6.044625,53.225629,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.056095,53.213951,0.000000
+            6.056642,53.213178,0.000000
+            6.058922,53.213308,0.000000
+            6.059922,53.206478,0.000000
+            6.069270,53.207602,0.000000
+            6.070040,53.211210,0.000000
+            6.072437,53.211687,0.000000
+            6.068136,53.214243,0.000000
+            6.060902,53.216357,0.000000
+            6.056095,53.213951,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

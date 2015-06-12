@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16510105 Hefswal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.739405,53.420713,0.000000
+            6.731787,53.420497,0.000000
+            6.736263,53.425125,0.000000
+            6.739184,53.426878,0.000000
+            6.743441,53.427557,0.000000
+            6.745037,53.426059,0.000000
+            6.744699,53.425174,0.000000
+            6.739405,53.420713,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

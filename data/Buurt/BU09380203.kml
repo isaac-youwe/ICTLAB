@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09380203 Hussenberg met Snijdersberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.775540,50.926544,0.000000
+            5.771213,50.919367,0.000000
+            5.771038,50.919230,0.000000
+            5.764556,50.921798,0.000000
+            5.756492,50.921078,0.000000
+            5.752008,50.922441,0.000000
+            5.750608,50.929830,0.000000
+            5.752123,50.934114,0.000000
+            5.752838,50.933810,0.000000
+            5.765605,50.929274,0.000000
+            5.771280,50.927458,0.000000
+            5.775540,50.926544,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580603 Muizenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.723410,51.617432,0.000000
+            4.728413,51.616834,0.000000
+            4.734077,51.620079,0.000000
+            4.736692,51.619142,0.000000
+            4.736590,51.618393,0.000000
+            4.738970,51.616906,0.000000
+            4.731450,51.612578,0.000000
+            4.729013,51.613530,0.000000
+            4.728371,51.612522,0.000000
+            4.722850,51.612685,0.000000
+            4.717652,51.610576,0.000000
+            4.714981,51.614438,0.000000
+            4.718398,51.615398,0.000000
+            4.721701,51.619449,0.000000
+            4.723361,51.620198,0.000000
+            4.723410,51.617432,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

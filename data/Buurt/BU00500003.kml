@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00500003 Derde woonwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.529257,52.326863,0.000000
+            5.517032,52.324584,0.000000
+            5.508013,52.343036,0.000000
+            5.514627,52.344196,0.000000
+            5.518157,52.344450,0.000000
+            5.528425,52.338296,0.000000
+            5.525056,52.335591,0.000000
+            5.529257,52.326863,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

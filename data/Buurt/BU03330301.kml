@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03330301 Oud-Maarsseveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.095401,52.155524,0.000000
+            5.093785,52.154707,0.000000
+            5.091981,52.155586,0.000000
+            5.088236,52.158810,0.000000
+            5.083446,52.163842,0.000000
+            5.117112,52.172054,0.000000
+            5.094904,52.155709,0.000000
+            5.095401,52.155524,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15860100 Lichtenvoorde zuidelijk deel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.587366,51.988126,0.000000
+            6.588178,51.982735,0.000000
+            6.585953,51.982048,0.000000
+            6.584543,51.982794,0.000000
+            6.580506,51.980793,0.000000
+            6.570181,51.979329,0.000000
+            6.559313,51.979123,0.000000
+            6.554959,51.975650,0.000000
+            6.548603,51.980681,0.000000
+            6.560542,51.986368,0.000000
+            6.570512,51.987185,0.000000
+            6.582437,51.987039,0.000000
+            6.587366,51.988126,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

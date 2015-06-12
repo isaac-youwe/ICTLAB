@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990020 Industrieterrein Roden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.444777,53.143263,0.000000
+            6.437969,53.140514,0.000000
+            6.430351,53.142040,0.000000
+            6.430705,53.145551,0.000000
+            6.429342,53.147522,0.000000
+            6.427177,53.148407,0.000000
+            6.431673,53.149677,0.000000
+            6.433976,53.150825,0.000000
+            6.440326,53.153101,0.000000
+            6.446329,53.152026,0.000000
+            6.456583,53.146215,0.000000
+            6.456968,53.146071,0.000000
+            6.444777,53.143263,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

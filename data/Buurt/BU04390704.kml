@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04390704 Afrika</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.944162,52.488501,0.000000
+            4.948910,52.487478,0.000000
+            4.948428,52.485710,0.000000
+            4.948416,52.486942,0.000000
+            4.943990,52.487825,0.000000
+            4.941072,52.485117,0.000000
+            4.922321,52.490313,0.000000
+            4.928139,52.493890,0.000000
+            4.939412,52.498022,0.000000
+            4.941879,52.490335,0.000000
+            4.944162,52.488501,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

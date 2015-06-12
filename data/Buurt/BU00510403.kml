@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510403 Idskenhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.722676,52.926883,0.000000
+            5.719546,52.926368,0.000000
+            5.716030,52.926688,0.000000
+            5.708666,52.927814,0.000000
+            5.708443,52.930129,0.000000
+            5.710936,52.931308,0.000000
+            5.714238,52.931160,0.000000
+            5.717324,52.929246,0.000000
+            5.723647,52.927777,0.000000
+            5.722676,52.926883,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

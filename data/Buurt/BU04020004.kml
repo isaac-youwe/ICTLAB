@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020004 Langgewenstbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.177538,52.226092,0.000000
+            5.172554,52.225060,0.000000
+            5.171335,52.226328,0.000000
+            5.175418,52.227452,0.000000
+            5.176479,52.233451,0.000000
+            5.177771,52.231392,0.000000
+            5.181085,52.227372,0.000000
+            5.177538,52.226092,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

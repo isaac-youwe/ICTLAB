@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08580006 Het Gegraaf</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.449665,51.356706,0.000000
+            5.446635,51.356019,0.000000
+            5.441178,51.356456,0.000000
+            5.438837,51.355933,0.000000
+            5.437974,51.359658,0.000000
+            5.436394,51.365889,0.000000
+            5.438904,51.365888,0.000000
+            5.444651,51.367683,0.000000
+            5.460452,51.369472,0.000000
+            5.461041,51.369518,0.000000
+            5.462378,51.363349,0.000000
+            5.460181,51.362595,0.000000
+            5.455619,51.362464,0.000000
+            5.455328,51.361388,0.000000
+            5.448205,51.358739,0.000000
+            5.449665,51.356706,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

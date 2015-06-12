@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16410400 Thorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.845839,51.168417,0.000000
+            5.845837,51.167073,0.000000
+            5.852768,51.167342,0.000000
+            5.854831,51.161242,0.000000
+            5.845796,51.154596,0.000000
+            5.837671,51.154966,0.000000
+            5.838964,51.157356,0.000000
+            5.831868,51.162777,0.000000
+            5.831464,51.163035,0.000000
+            5.834999,51.165485,0.000000
+            5.833189,51.166239,0.000000
+            5.834082,51.168060,0.000000
+            5.844042,51.168593,0.000000
+            5.845839,51.168417,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

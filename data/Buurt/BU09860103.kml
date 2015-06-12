@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09860103 Barrier-Craubeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.901196,50.874111,0.000000
+            5.900083,50.873405,0.000000
+            5.889341,50.874828,0.000000
+            5.889477,50.880424,0.000000
+            5.895074,50.883945,0.000000
+            5.896819,50.884626,0.000000
+            5.901190,50.881519,0.000000
+            5.902749,50.878963,0.000000
+            5.900507,50.876773,0.000000
+            5.901196,50.874111,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

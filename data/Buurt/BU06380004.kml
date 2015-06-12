@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06380004 Gelderswoude</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.530732,52.080762,0.000000
+            4.530744,52.080147,0.000000
+            4.520427,52.085465,0.000000
+            4.520282,52.085535,0.000000
+            4.535144,52.095983,0.000000
+            4.536286,52.095627,0.000000
+            4.536289,52.095470,0.000000
+            4.536511,52.083785,0.000000
+            4.535052,52.083774,0.000000
+            4.530727,52.081046,0.000000
+            4.530732,52.080762,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

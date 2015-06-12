@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17090004 Lindonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.586256,51.645253,0.000000
+            4.586699,51.643436,0.000000
+            4.597693,51.643586,0.000000
+            4.598855,51.642216,0.000000
+            4.592291,51.634706,0.000000
+            4.584885,51.636777,0.000000
+            4.586619,51.639154,0.000000
+            4.581998,51.640573,0.000000
+            4.581350,51.645019,0.000000
+            4.583062,51.645173,0.000000
+            4.586256,51.645253,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

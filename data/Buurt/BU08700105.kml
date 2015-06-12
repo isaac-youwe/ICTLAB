@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08700105 Werkensepolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.912216,51.808467,0.000000
+            4.909079,51.805840,0.000000
+            4.898646,51.812474,0.000000
+            4.897928,51.815508,0.000000
+            4.899502,51.816038,0.000000
+            4.910082,51.811754,0.000000
+            4.907314,51.809644,0.000000
+            4.912216,51.808467,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

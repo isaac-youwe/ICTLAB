@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16510102 Roodeschool</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.768748,53.417214,0.000000
+            6.763145,53.416486,0.000000
+            6.759892,53.417312,0.000000
+            6.757437,53.418952,0.000000
+            6.757824,53.421293,0.000000
+            6.762235,53.423290,0.000000
+            6.767230,53.424435,0.000000
+            6.772833,53.421187,0.000000
+            6.768748,53.417214,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140602 Helpman-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.582295,53.194990,0.000000
+            6.577849,53.194110,0.000000
+            6.574920,53.197746,0.000000
+            6.571025,53.200231,0.000000
+            6.573870,53.200547,0.000000
+            6.572515,53.202290,0.000000
+            6.570396,53.204595,0.000000
+            6.574507,53.205526,0.000000
+            6.582295,53.194990,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

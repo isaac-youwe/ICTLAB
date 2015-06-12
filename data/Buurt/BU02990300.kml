@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02990300 Giesbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.084858,51.994852,0.000000
+            6.081784,51.993167,0.000000
+            6.076612,51.993547,0.000000
+            6.071886,51.992896,0.000000
+            6.055926,51.986471,0.000000
+            6.048722,51.985446,0.000000
+            6.050419,51.989080,0.000000
+            6.056970,51.992480,0.000000
+            6.063487,51.998824,0.000000
+            6.066634,52.000541,0.000000
+            6.077578,52.001266,0.000000
+            6.077568,52.001232,0.000000
+            6.084752,51.994897,0.000000
+            6.084858,51.994852,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02410011 Verspreide huizen Hoge en Lage Langeberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.915035,51.787665,0.000000
+            5.887396,51.785320,0.000000
+            5.887277,51.785548,0.000000
+            5.887387,51.795436,0.000000
+            5.881657,51.801753,0.000000
+            5.878845,51.809855,0.000000
+            5.884646,51.809831,0.000000
+            5.888997,51.809812,0.000000
+            5.888658,51.810239,0.000000
+            5.903492,51.798927,0.000000
+            5.917498,51.788059,0.000000
+            5.915035,51.787665,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

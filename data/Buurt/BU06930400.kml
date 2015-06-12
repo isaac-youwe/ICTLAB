@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06930400 Ottoland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.888205,51.899163,0.000000
+            4.894747,51.884293,0.000000
+            4.894785,51.880869,0.000000
+            4.878838,51.878104,0.000000
+            4.868712,51.874464,0.000000
+            4.868137,51.874224,0.000000
+            4.860684,51.890306,0.000000
+            4.849827,51.897776,0.000000
+            4.869875,51.899640,0.000000
+            4.871369,51.896051,0.000000
+            4.874275,51.896064,0.000000
+            4.885849,51.900608,0.000000
+            4.885827,51.902612,0.000000
+            4.888205,51.899163,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00070002 Rhederweg-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.162376,53.084858,0.000000
+            7.161476,53.084315,0.000000
+            7.147344,53.093478,0.000000
+            7.144189,53.095555,0.000000
+            7.148702,53.098308,0.000000
+            7.146719,53.099947,0.000000
+            7.147028,53.100853,0.000000
+            7.150185,53.101210,0.000000
+            7.171316,53.089903,0.000000
+            7.162376,53.084858,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

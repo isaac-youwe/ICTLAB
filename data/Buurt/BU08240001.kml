@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08240001 Omgeving Waterhoef en Klompven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.221548,51.579446,0.000000
+            5.209420,51.574112,0.000000
+            5.206446,51.577415,0.000000
+            5.201978,51.579226,0.000000
+            5.200135,51.580612,0.000000
+            5.199385,51.583340,0.000000
+            5.203337,51.584199,0.000000
+            5.213895,51.585574,0.000000
+            5.213955,51.585526,0.000000
+            5.221548,51.579446,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

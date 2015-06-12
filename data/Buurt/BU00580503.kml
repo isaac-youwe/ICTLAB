@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580503 Moddergat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.084761,53.403942,0.000000
+            6.082810,53.402069,0.000000
+            6.078827,53.402276,0.000000
+            6.073369,53.404542,0.000000
+            6.072424,53.405740,0.000000
+            6.073574,53.406873,0.000000
+            6.077460,53.406075,0.000000
+            6.084947,53.404235,0.000000
+            6.084761,53.403942,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

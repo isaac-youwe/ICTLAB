@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09810008 Wolfhaag</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.014778,50.763084,0.000000
+            6.014032,50.754635,0.000000
+            6.013615,50.754690,0.000000
+            5.999420,50.752968,0.000000
+            5.998160,50.752975,0.000000
+            5.995928,50.760598,0.000000
+            6.003836,50.765628,0.000000
+            6.006809,50.769590,0.000000
+            6.007884,50.768108,0.000000
+            6.010709,50.767692,0.000000
+            6.011782,50.765164,0.000000
+            6.014778,50.763084,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

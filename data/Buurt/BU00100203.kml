@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00100203 Borgsweer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.020915,53.297206,0.000000
+            7.016221,53.295917,0.000000
+            7.011360,53.296183,0.000000
+            7.009931,53.297955,0.000000
+            7.011477,53.300366,0.000000
+            7.015275,53.301614,0.000000
+            7.020104,53.302007,0.000000
+            7.023033,53.300200,0.000000
+            7.020915,53.297206,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

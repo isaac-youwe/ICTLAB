@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07530004 Heuveleind</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.386022,51.495124,0.000000
+            5.385457,51.493190,0.000000
+            5.370828,51.495085,0.000000
+            5.372154,51.495673,0.000000
+            5.369188,51.499402,0.000000
+            5.376029,51.501578,0.000000
+            5.376533,51.504335,0.000000
+            5.377502,51.504337,0.000000
+            5.382342,51.499182,0.000000
+            5.386022,51.495124,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

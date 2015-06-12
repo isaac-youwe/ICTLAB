@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020205 Kerkelanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.144331,52.210803,0.000000
+            5.139369,52.208621,0.000000
+            5.138459,52.209729,0.000000
+            5.138448,52.209743,0.000000
+            5.134032,52.214228,0.000000
+            5.122306,52.218693,0.000000
+            5.122299,52.218696,0.000000
+            5.122293,52.219711,0.000000
+            5.122288,52.220494,0.000000
+            5.122397,52.220562,0.000000
+            5.123746,52.221396,0.000000
+            5.138383,52.221428,0.000000
+            5.138623,52.221726,0.000000
+            5.142378,52.221753,0.000000
+            5.151269,52.214594,0.000000
+            5.144331,52.210803,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

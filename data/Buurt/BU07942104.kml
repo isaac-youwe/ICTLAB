@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07942104 Berenbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.592987,51.458312,0.000000
+            5.590106,51.457418,0.000000
+            5.584361,51.460125,0.000000
+            5.590142,51.465509,0.000000
+            5.597347,51.467294,0.000000
+            5.603339,51.470394,0.000000
+            5.609878,51.471800,0.000000
+            5.617395,51.470045,0.000000
+            5.625203,51.466426,0.000000
+            5.611813,51.463107,0.000000
+            5.602472,51.460793,0.000000
+            5.592756,51.458416,0.000000
+            5.592987,51.458312,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

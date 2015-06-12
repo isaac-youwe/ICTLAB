@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02990014 Oud-Zevenaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.086844,51.916848,0.000000
+            6.084713,51.913126,0.000000
+            6.079135,51.914024,0.000000
+            6.079072,51.914024,0.000000
+            6.078442,51.917580,0.000000
+            6.074345,51.921802,0.000000
+            6.075042,51.922397,0.000000
+            6.083651,51.920273,0.000000
+            6.090176,51.918658,0.000000
+            6.086844,51.916848,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

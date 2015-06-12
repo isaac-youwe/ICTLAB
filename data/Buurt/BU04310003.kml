@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04310003 De Haal en De Heul en Noordeinde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.904392,52.473289,0.000000
+            4.892797,52.457061,0.000000
+            4.892827,52.454365,0.000000
+            4.895731,52.450016,0.000000
+            4.853345,52.441500,0.000000
+            4.853254,52.441609,0.000000
+            4.853243,52.442508,0.000000
+            4.853072,52.442669,0.000000
+            4.842825,52.452348,0.000000
+            4.843028,52.452993,0.000000
+            4.844241,52.456849,0.000000
+            4.848612,52.460464,0.000000
+            4.852907,52.470371,0.000000
+            4.863231,52.468619,0.000000
+            4.867625,52.470437,0.000000
+            4.882292,52.474994,0.000000
+            4.891084,52.478627,0.000000
+            4.895500,52.478645,0.000000
+            4.905795,52.479586,0.000000
+            4.905705,52.479182,0.000000
+            4.904392,52.473289,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

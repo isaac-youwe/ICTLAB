@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03072802 Lint-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.431308,52.196790,0.000000
+            5.434013,52.192688,0.000000
+            5.432190,52.191609,0.000000
+            5.430964,52.193505,0.000000
+            5.425753,52.192236,0.000000
+            5.425723,52.193413,0.000000
+            5.425631,52.195945,0.000000
+            5.419431,52.195886,0.000000
+            5.419177,52.199247,0.000000
+            5.422089,52.201453,0.000000
+            5.431308,52.196790,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

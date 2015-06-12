@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01660300 Ijsselmuiden-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.932768,52.559757,0.000000
+            5.922465,52.559582,0.000000
+            5.922033,52.559656,0.000000
+            5.922285,52.561502,0.000000
+            5.920737,52.561698,0.000000
+            5.920333,52.562487,0.000000
+            5.920262,52.566012,0.000000
+            5.923911,52.567670,0.000000
+            5.929673,52.573630,0.000000
+            5.932176,52.574797,0.000000
+            5.937392,52.569939,0.000000
+            5.937291,52.569019,0.000000
+            5.935681,52.565327,0.000000
+            5.935481,52.564604,0.000000
+            5.930758,52.562898,0.000000
+            5.932768,52.559757,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

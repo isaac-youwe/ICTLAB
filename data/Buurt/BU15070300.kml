@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15070300 Hegelsom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.045694,51.441837,0.000000
+            6.044060,51.439090,0.000000
+            6.044175,51.437141,0.000000
+            6.042436,51.435324,0.000000
+            6.036425,51.435484,0.000000
+            6.033824,51.437858,0.000000
+            6.038726,51.441773,0.000000
+            6.041280,51.440795,0.000000
+            6.043322,51.442035,0.000000
+            6.045694,51.441837,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

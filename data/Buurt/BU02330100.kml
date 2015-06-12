@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02330100 Speuld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.718718,52.269358,0.000000
+            5.715531,52.262583,0.000000
+            5.710449,52.255337,0.000000
+            5.706277,52.264066,0.000000
+            5.702343,52.263064,0.000000
+            5.697156,52.269665,0.000000
+            5.700423,52.273311,0.000000
+            5.700255,52.278222,0.000000
+            5.703551,52.278577,0.000000
+            5.707526,52.280145,0.000000
+            5.709931,52.279905,0.000000
+            5.711977,52.278362,0.000000
+            5.718119,52.277147,0.000000
+            5.719243,52.276047,0.000000
+            5.718718,52.269358,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

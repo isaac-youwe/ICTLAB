@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05181786 Houtwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.264177,52.058548,0.000000
+            4.241463,52.043541,0.000000
+            4.236449,52.050582,0.000000
+            4.243627,52.052439,0.000000
+            4.241712,52.055441,0.000000
+            4.248993,52.057598,0.000000
+            4.254596,52.060385,0.000000
+            4.259368,52.062517,0.000000
+            4.264177,52.058548,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

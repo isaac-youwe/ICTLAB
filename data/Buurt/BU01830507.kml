@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01830507 Verspreide huizen Hezingen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.906761,52.442058,0.000000
+            6.941832,52.435310,0.000000
+            6.947776,52.437030,0.000000
+            6.948926,52.433074,0.000000
+            6.949088,52.432517,0.000000
+            6.947618,52.432537,0.000000
+            6.947348,52.432540,0.000000
+            6.940267,52.432633,0.000000
+            6.928568,52.434584,0.000000
+            6.891719,52.432361,0.000000
+            6.891378,52.432317,0.000000
+            6.853373,52.427456,0.000000
+            6.852020,52.428946,0.000000
+            6.852515,52.433499,0.000000
+            6.850021,52.436709,0.000000
+            6.849236,52.440084,0.000000
+            6.854048,52.449914,0.000000
+            6.854059,52.449914,0.000000
+            6.861473,52.451620,0.000000
+            6.889267,52.446776,0.000000
+            6.906761,52.442058,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

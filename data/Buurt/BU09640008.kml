@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09640008 Verspreide huizen Kleef- Den Broek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.027277,51.395942,0.000000
+            6.027681,51.394727,0.000000
+            6.031497,51.394813,0.000000
+            6.031982,51.385608,0.000000
+            6.017899,51.382172,0.000000
+            6.006370,51.379537,0.000000
+            5.984799,51.377852,0.000000
+            5.984792,51.377852,0.000000
+            5.984009,51.380804,0.000000
+            5.978300,51.387361,0.000000
+            5.994873,51.391020,0.000000
+            6.006184,51.392821,0.000000
+            6.007240,51.391845,0.000000
+            6.027277,51.395942,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

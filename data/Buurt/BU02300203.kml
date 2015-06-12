@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02300203 t Harde-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.878431,52.424572,0.000000
+            5.887547,52.418623,0.000000
+            5.893234,52.420203,0.000000
+            5.894346,52.419213,0.000000
+            5.891173,52.415490,0.000000
+            5.893316,52.412710,0.000000
+            5.897019,52.410289,0.000000
+            5.893869,52.408563,0.000000
+            5.894161,52.405758,0.000000
+            5.882812,52.416697,0.000000
+            5.876457,52.424656,0.000000
+            5.878431,52.424572,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

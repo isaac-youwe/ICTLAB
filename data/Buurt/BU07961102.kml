@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07961102 Paleiskwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.290588,51.684857,0.000000
+            5.288561,51.683442,0.000000
+            5.286535,51.684921,0.000000
+            5.282111,51.685856,0.000000
+            5.282055,51.687967,0.000000
+            5.283796,51.688670,0.000000
+            5.283007,51.690764,0.000000
+            5.287640,51.692083,0.000000
+            5.293371,51.691296,0.000000
+            5.290588,51.684857,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

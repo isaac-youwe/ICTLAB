@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500205 Rielerweg-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.206632,52.260198,0.000000
+            6.201416,52.255646,0.000000
+            6.194426,52.253009,0.000000
+            6.192418,52.255144,0.000000
+            6.189051,52.256860,0.000000
+            6.180946,52.257972,0.000000
+            6.173043,52.256363,0.000000
+            6.173152,52.257441,0.000000
+            6.170138,52.260077,0.000000
+            6.173922,52.262670,0.000000
+            6.178623,52.259760,0.000000
+            6.188409,52.260574,0.000000
+            6.189424,52.262621,0.000000
+            6.207493,52.261115,0.000000
+            6.206632,52.260198,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

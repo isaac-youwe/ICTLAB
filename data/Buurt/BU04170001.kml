@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04170001 Laren-Zevenend</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.243560,52.252050,0.000000
+            5.237888,52.245929,0.000000
+            5.235484,52.247093,0.000000
+            5.228095,52.245222,0.000000
+            5.227586,52.251416,0.000000
+            5.229637,52.255249,0.000000
+            5.233550,52.255628,0.000000
+            5.243658,52.254745,0.000000
+            5.243666,52.252165,0.000000
+            5.243560,52.252050,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

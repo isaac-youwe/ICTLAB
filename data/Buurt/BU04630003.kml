@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04630003 Slootdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.980857,52.850888,0.000000
+            4.979167,52.837585,0.000000
+            4.971590,52.837633,0.000000
+            4.966533,52.844786,0.000000
+            4.960692,52.845790,0.000000
+            4.964919,52.847099,0.000000
+            4.962576,52.851133,0.000000
+            4.969747,52.852790,0.000000
+            4.980857,52.850888,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04820005 Dam-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.674208,51.865583,0.000000
+            4.669985,51.862733,0.000000
+            4.669157,51.863146,0.000000
+            4.667245,51.864099,0.000000
+            4.668590,51.866543,0.000000
+            4.662304,51.868469,0.000000
+            4.661671,51.869295,0.000000
+            4.661206,51.871033,0.000000
+            4.662945,51.872980,0.000000
+            4.669443,51.872553,0.000000
+            4.673032,51.871400,0.000000
+            4.672823,51.865886,0.000000
+            4.674208,51.865583,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09620102 Klein-Doenrade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.919599,50.960133,0.000000
+            5.918134,50.956544,0.000000
+            5.918866,50.956209,0.000000
+            5.912501,50.955031,0.000000
+            5.904898,50.957247,0.000000
+            5.895711,50.951154,0.000000
+            5.890595,50.953845,0.000000
+            5.887285,50.956527,0.000000
+            5.887690,50.960393,0.000000
+            5.921983,50.963346,0.000000
+            5.922477,50.962817,0.000000
+            5.922383,50.962730,0.000000
+            5.919599,50.960133,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

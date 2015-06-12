@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05051913 Lokatie Refaja</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.654556,51.784223,0.000000
+            4.659636,51.779106,0.000000
+            4.658116,51.776925,0.000000
+            4.655958,51.777034,0.000000
+            4.655649,51.778937,0.000000
+            4.652104,51.781673,0.000000
+            4.650443,51.781496,0.000000
+            4.650271,51.783941,0.000000
+            4.652921,51.784041,0.000000
+            4.654556,51.784223,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

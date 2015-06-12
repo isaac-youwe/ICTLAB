@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06680500 Kern Boven-Leeuwen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.557636,51.883644,0.000000
+            5.555479,51.881820,0.000000
+            5.546311,51.882720,0.000000
+            5.544128,51.884355,0.000000
+            5.545981,51.887617,0.000000
+            5.547067,51.888091,0.000000
+            5.555729,51.888972,0.000000
+            5.556312,51.889067,0.000000
+            5.557636,51.883644,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

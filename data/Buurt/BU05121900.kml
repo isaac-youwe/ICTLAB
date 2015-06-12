@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05121900 Landelijk gebied-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.964636,51.861695,0.000000
+            4.983606,51.856936,0.000000
+            4.980751,51.851533,0.000000
+            4.981040,51.851485,0.000000
+            4.980870,51.851068,0.000000
+            4.966280,51.849987,0.000000
+            4.968894,51.854844,0.000000
+            4.955571,51.857108,0.000000
+            4.956908,51.859667,0.000000
+            4.957449,51.859540,0.000000
+            4.958867,51.863141,0.000000
+            4.964636,51.861695,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

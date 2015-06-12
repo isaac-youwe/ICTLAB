@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00180804 Westerbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.694052,53.184919,0.000000
+            6.693420,53.183453,0.000000
+            6.689050,53.182727,0.000000
+            6.689396,53.181759,0.000000
+            6.691628,53.182130,0.000000
+            6.691771,53.181435,0.000000
+            6.689559,53.180849,0.000000
+            6.688242,53.181054,0.000000
+            6.687409,53.182859,0.000000
+            6.684680,53.182473,0.000000
+            6.682609,53.184311,0.000000
+            6.684705,53.185888,0.000000
+            6.688922,53.184556,0.000000
+            6.691994,53.185053,0.000000
+            6.690745,53.187453,0.000000
+            6.692520,53.187758,0.000000
+            6.694052,53.184919,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

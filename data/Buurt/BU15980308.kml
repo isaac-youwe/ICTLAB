@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15980308 Noorddijk en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.928421,52.644124,0.000000
+            4.936312,52.634240,0.000000
+            4.926098,52.632753,0.000000
+            4.926504,52.624081,0.000000
+            4.935258,52.618912,0.000000
+            4.932058,52.617310,0.000000
+            4.925155,52.619057,0.000000
+            4.910412,52.620470,0.000000
+            4.895879,52.623278,0.000000
+            4.901743,52.627037,0.000000
+            4.901877,52.629334,0.000000
+            4.897702,52.630696,0.000000
+            4.891685,52.630718,0.000000
+            4.891422,52.641040,0.000000
+            4.902346,52.642086,0.000000
+            4.907584,52.642590,0.000000
+            4.916902,52.641828,0.000000
+            4.917864,52.642747,0.000000
+            4.926525,52.643167,0.000000
+            4.928421,52.644124,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

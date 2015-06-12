@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06120402 Groenewoud-Koop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.344274,51.842423,0.000000
+            4.344763,51.838661,0.000000
+            4.342436,51.838558,0.000000
+            4.337485,51.838340,0.000000
+            4.331975,51.838095,0.000000
+            4.331130,51.838058,0.000000
+            4.331136,51.838696,0.000000
+            4.330783,51.841847,0.000000
+            4.338979,51.842197,0.000000
+            4.338835,51.839400,0.000000
+            4.341437,51.839517,0.000000
+            4.341616,51.842309,0.000000
+            4.344274,51.842423,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

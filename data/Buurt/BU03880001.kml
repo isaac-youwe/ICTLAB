@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03880001 Havenbuurt Snouck van Loosenpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.282169,52.693537,0.000000
+            5.276398,52.690020,0.000000
+            5.272190,52.693456,0.000000
+            5.274000,52.698348,0.000000
+            5.285072,52.699748,0.000000
+            5.285160,52.701373,0.000000
+            5.293634,52.699766,0.000000
+            5.289553,52.698936,0.000000
+            5.279203,52.696231,0.000000
+            5.279206,52.695332,0.000000
+            5.282169,52.693537,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

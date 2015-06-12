@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17190008 Tuinbouwgebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.817514,51.673758,0.000000
+            4.816780,51.673602,0.000000
+            4.816458,51.674144,0.000000
+            4.818812,51.674679,0.000000
+            4.817548,51.680432,0.000000
+            4.836487,51.686863,0.000000
+            4.842028,51.679268,0.000000
+            4.829047,51.676510,0.000000
+            4.821801,51.674781,0.000000
+            4.817514,51.673758,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

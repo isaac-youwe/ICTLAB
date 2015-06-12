@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00850508 Verspreide huizen Ravenswoud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.407844,52.991766,0.000000
+            6.413336,52.985771,0.000000
+            6.423546,52.976695,0.000000
+            6.423570,52.976670,0.000000
+            6.400572,52.954332,0.000000
+            6.377510,52.955174,0.000000
+            6.366301,52.959441,0.000000
+            6.365331,52.965049,0.000000
+            6.356222,52.968400,0.000000
+            6.376287,52.990111,0.000000
+            6.379650,52.988809,0.000000
+            6.407844,52.991766,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.383085,52.968620,0.000000
+            6.381170,52.966770,0.000000
+            6.375760,52.968581,0.000000
+            6.373335,52.966063,0.000000
+            6.381737,52.962828,0.000000
+            6.386477,52.967363,0.000000
+            6.383085,52.968620,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

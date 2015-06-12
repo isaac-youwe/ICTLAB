@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16720401 Heerewegh, Dorpsstraat, Slootweg, en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.530811,52.080757,0.000000
+            4.537837,52.077134,0.000000
+            4.546603,52.078583,0.000000
+            4.551523,52.078295,0.000000
+            4.557669,52.078564,0.000000
+            4.559320,52.078219,0.000000
+            4.558870,52.077831,0.000000
+            4.544193,52.077605,0.000000
+            4.537517,52.076455,0.000000
+            4.536037,52.074210,0.000000
+            4.533252,52.074666,0.000000
+            4.532876,52.074441,0.000000
+            4.529758,52.079387,0.000000
+            4.529615,52.079612,0.000000
+            4.529285,52.080137,0.000000
+            4.530744,52.080147,0.000000
+            4.530732,52.080762,0.000000
+            4.530811,52.080757,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

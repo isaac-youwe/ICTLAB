@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550807 Dalem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.987142,51.580713,0.000000
+            4.986543,51.574621,0.000000
+            4.970052,51.577312,0.000000
+            4.970224,51.577313,0.000000
+            4.972970,51.592605,0.000000
+            4.972970,51.592655,0.000000
+            4.972929,51.597100,0.000000
+            4.971507,51.597316,0.000000
+            4.975486,51.597099,0.000000
+            4.977528,51.595996,0.000000
+            4.977906,51.593902,0.000000
+            4.984644,51.588150,0.000000
+            4.985566,51.583860,0.000000
+            4.987142,51.580713,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

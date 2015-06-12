@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17090700 Fijnaart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.472589,51.643639,0.000000
+            4.485366,51.634415,0.000000
+            4.479659,51.634116,0.000000
+            4.477030,51.630304,0.000000
+            4.461127,51.632872,0.000000
+            4.455707,51.635306,0.000000
+            4.455133,51.636679,0.000000
+            4.456935,51.641107,0.000000
+            4.462133,51.643540,0.000000
+            4.469722,51.642930,0.000000
+            4.472589,51.643639,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07840100 Gilze</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.949806,51.544026,0.000000
+            4.953089,51.540662,0.000000
+            4.951827,51.538876,0.000000
+            4.948370,51.537442,0.000000
+            4.943991,51.536740,0.000000
+            4.939087,51.537114,0.000000
+            4.937652,51.540560,0.000000
+            4.931440,51.540484,0.000000
+            4.927987,51.541985,0.000000
+            4.927765,51.543450,0.000000
+            4.930914,51.543205,0.000000
+            4.932788,51.547524,0.000000
+            4.930538,51.548719,0.000000
+            4.928508,51.552638,0.000000
+            4.945984,51.551982,0.000000
+            4.943484,51.549249,0.000000
+            4.943917,51.544243,0.000000
+            4.949806,51.544026,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

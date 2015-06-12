@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02090272 Ewijk Vording-2</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.737171,51.868377,0.000000
+            5.736204,51.868031,0.000000
+            5.733526,51.871379,0.000000
+            5.738509,51.873428,0.000000
+            5.740716,51.873008,0.000000
+            5.738379,51.870332,0.000000
+            5.738818,51.868935,0.000000
+            5.737171,51.868377,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

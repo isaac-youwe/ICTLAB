@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17340300 Oosterhout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.837525,51.883735,0.000000
+            5.834557,51.877454,0.000000
+            5.832551,51.873804,0.000000
+            5.819372,51.874965,0.000000
+            5.812759,51.874436,0.000000
+            5.807108,51.875994,0.000000
+            5.807542,51.877070,0.000000
+            5.810351,51.878396,0.000000
+            5.812621,51.881625,0.000000
+            5.808410,51.882443,0.000000
+            5.808064,51.883298,0.000000
+            5.808430,51.884070,0.000000
+            5.815852,51.883079,0.000000
+            5.824318,51.883156,0.000000
+            5.828671,51.884326,0.000000
+            5.835691,51.887803,0.000000
+            5.837525,51.883735,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

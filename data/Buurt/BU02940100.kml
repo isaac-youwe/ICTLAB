@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02940100 Meddo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.697047,52.017257,0.000000
+            6.699186,52.014208,0.000000
+            6.703897,52.014269,0.000000
+            6.707470,52.015488,0.000000
+            6.712614,52.013438,0.000000
+            6.707901,52.010694,0.000000
+            6.703961,52.011481,0.000000
+            6.701834,52.010601,0.000000
+            6.694989,52.011091,0.000000
+            6.694031,52.013966,0.000000
+            6.694566,52.016732,0.000000
+            6.697047,52.017257,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03420006 Soesterveen II</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.290370,52.158466,0.000000
+            5.285099,52.155774,0.000000
+            5.248413,52.175835,0.000000
+            5.262695,52.184647,0.000000
+            5.262943,52.184519,0.000000
+            5.273058,52.176630,0.000000
+            5.278344,52.173976,0.000000
+            5.284061,52.170660,0.000000
+            5.294534,52.160463,0.000000
+            5.290370,52.158466,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

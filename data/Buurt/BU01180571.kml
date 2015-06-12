@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180571 Verspreide huizen Nieuweroord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.588160,52.736062,0.000000
+            6.577923,52.725803,0.000000
+            6.567198,52.726225,0.000000
+            6.572141,52.735839,0.000000
+            6.576005,52.739841,0.000000
+            6.576413,52.739775,0.000000
+            6.588160,52.736062,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.559485,52.725034,0.000000
+            6.574423,52.724422,0.000000
+            6.576000,52.724499,0.000000
+            6.575999,52.724498,0.000000
+            6.596696,52.723391,0.000000
+            6.596424,52.713506,0.000000
+            6.599340,52.713223,0.000000
+            6.546134,52.715242,0.000000
+            6.546350,52.720071,0.000000
+            6.551466,52.719710,0.000000
+            6.551867,52.725272,0.000000
+            6.548774,52.725390,0.000000
+            6.553834,52.736826,0.000000
+            6.557664,52.745233,0.000000
+            6.570515,52.740733,0.000000
+            6.570858,52.740677,0.000000
+            6.564656,52.728221,0.000000
+            6.562743,52.726712,0.000000
+            6.559657,52.726720,0.000000
+            6.559485,52.725034,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

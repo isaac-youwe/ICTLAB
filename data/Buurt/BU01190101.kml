@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01190101 Rest Dorpsstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.186076,52.737394,0.000000
+            6.173048,52.732668,0.000000
+            6.171324,52.734867,0.000000
+            6.174073,52.735493,0.000000
+            6.174593,52.736425,0.000000
+            6.183547,52.739619,0.000000
+            6.194316,52.742133,0.000000
+            6.194354,52.742079,0.000000
+            6.195622,52.739683,0.000000
+            6.186076,52.737394,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

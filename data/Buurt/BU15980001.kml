@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15980001 De Goorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.954293,52.645643,0.000000
+            4.958246,52.643897,0.000000
+            4.976946,52.644984,0.000000
+            4.975058,52.637241,0.000000
+            4.965527,52.621177,0.000000
+            4.955912,52.623446,0.000000
+            4.945306,52.624688,0.000000
+            4.944453,52.623512,0.000000
+            4.935258,52.618912,0.000000
+            4.926504,52.624081,0.000000
+            4.926098,52.632753,0.000000
+            4.936312,52.634240,0.000000
+            4.943522,52.635133,0.000000
+            4.941793,52.636713,0.000000
+            4.954293,52.645643,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

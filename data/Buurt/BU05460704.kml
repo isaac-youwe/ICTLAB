@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05460704 Leeuwenhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.467159,52.169119,0.000000
+            4.465782,52.164520,0.000000
+            4.459539,52.165088,0.000000
+            4.450066,52.166496,0.000000
+            4.450138,52.166732,0.000000
+            4.454429,52.171261,0.000000
+            4.455338,52.171198,0.000000
+            4.464786,52.170548,0.000000
+            4.467159,52.169119,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

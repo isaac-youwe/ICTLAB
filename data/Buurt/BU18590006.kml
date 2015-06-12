@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590006 Verspreide huizen Gelselaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.555336,52.177275,0.000000
+            6.545914,52.159503,0.000000
+            6.545540,52.152846,0.000000
+            6.541367,52.148048,0.000000
+            6.530445,52.154229,0.000000
+            6.524077,52.154771,0.000000
+            6.516309,52.157844,0.000000
+            6.509384,52.158266,0.000000
+            6.502208,52.160863,0.000000
+            6.494724,52.165872,0.000000
+            6.492750,52.170575,0.000000
+            6.494041,52.174251,0.000000
+            6.492668,52.177860,0.000000
+            6.495570,52.176934,0.000000
+            6.511765,52.181275,0.000000
+            6.517613,52.181220,0.000000
+            6.517820,52.181198,0.000000
+            6.555336,52.177275,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.522171,52.166496,0.000000
+            6.527329,52.165964,0.000000
+            6.530714,52.170054,0.000000
+            6.526434,52.172397,0.000000
+            6.519798,52.171419,0.000000
+            6.522171,52.166496,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

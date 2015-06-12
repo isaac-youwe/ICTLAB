@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530701 Marssteden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.829468,52.211878,0.000000
+            6.823587,52.206977,0.000000
+            6.811397,52.211023,0.000000
+            6.802894,52.215820,0.000000
+            6.831887,52.217724,0.000000
+            6.836266,52.217221,0.000000
+            6.838768,52.215045,0.000000
+            6.832990,52.213705,0.000000
+            6.829468,52.211878,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05420003 Boveneind</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.623608,51.926338,0.000000
+            4.617825,51.921074,0.000000
+            4.607907,51.920971,0.000000
+            4.605301,51.920157,0.000000
+            4.602376,51.922599,0.000000
+            4.601208,51.922289,0.000000
+            4.598024,51.926071,0.000000
+            4.601400,51.926792,0.000000
+            4.602010,51.926922,0.000000
+            4.606387,51.926052,0.000000
+            4.606974,51.925936,0.000000
+            4.610764,51.925182,0.000000
+            4.613656,51.926100,0.000000
+            4.617941,51.930623,0.000000
+            4.623608,51.926338,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

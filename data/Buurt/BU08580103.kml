@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08580103 Brouwershof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.428582,51.353948,0.000000
+            5.429318,51.352420,0.000000
+            5.430684,51.352504,0.000000
+            5.432007,51.351304,0.000000
+            5.431943,51.350170,0.000000
+            5.430119,51.349878,0.000000
+            5.428988,51.350910,0.000000
+            5.423639,51.349892,0.000000
+            5.423096,51.353308,0.000000
+            5.423043,51.353443,0.000000
+            5.421769,51.356639,0.000000
+            5.426121,51.357090,0.000000
+            5.430204,51.356548,0.000000
+            5.430553,51.354736,0.000000
+            5.428942,51.354628,0.000000
+            5.428582,51.353948,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

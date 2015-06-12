@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140201 Kerk Avezaath</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.392948,51.896255,0.000000
+            5.382970,51.891845,0.000000
+            5.373927,51.898309,0.000000
+            5.379118,51.899638,0.000000
+            5.380134,51.903575,0.000000
+            5.382378,51.904201,0.000000
+            5.388052,51.903554,0.000000
+            5.389006,51.902388,0.000000
+            5.385845,51.900587,0.000000
+            5.389241,51.897732,0.000000
+            5.392261,51.897368,0.000000
+            5.392948,51.896255,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

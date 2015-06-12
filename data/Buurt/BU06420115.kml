@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420115 Swanendrif-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.648504,51.822610,0.000000
+            4.647305,51.821714,0.000000
+            4.642499,51.823389,0.000000
+            4.639332,51.824485,0.000000
+            4.638219,51.824997,0.000000
+            4.641468,51.824992,0.000000
+            4.643324,51.824375,0.000000
+            4.648504,51.822610,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

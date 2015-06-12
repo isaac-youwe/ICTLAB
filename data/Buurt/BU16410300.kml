@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16410300 Laak</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.814590,51.108004,0.000000
+            5.814201,51.108005,0.000000
+            5.809934,51.109819,0.000000
+            5.808539,51.113420,0.000000
+            5.811445,51.118803,0.000000
+            5.818897,51.125173,0.000000
+            5.832959,51.121363,0.000000
+            5.835708,51.118502,0.000000
+            5.835439,51.115768,0.000000
+            5.829399,51.115376,0.000000
+            5.825377,51.113458,0.000000
+            5.816753,51.113171,0.000000
+            5.818836,51.110468,0.000000
+            5.814590,51.108004,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

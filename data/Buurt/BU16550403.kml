@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16550403 Kruisstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.575694,51.587037,0.000000
+            4.573956,51.583701,0.000000
+            4.565130,51.585246,0.000000
+            4.568060,51.586784,0.000000
+            4.557542,51.588335,0.000000
+            4.557859,51.591079,0.000000
+            4.556194,51.594670,0.000000
+            4.560317,51.596887,0.000000
+            4.567510,51.590562,0.000000
+            4.575694,51.587037,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

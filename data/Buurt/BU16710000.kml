@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16710000 Geffen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.472698,51.736091,0.000000
+            5.461912,51.733577,0.000000
+            5.461522,51.734292,0.000000
+            5.459356,51.733845,0.000000
+            5.452776,51.740041,0.000000
+            5.457125,51.742021,0.000000
+            5.455926,51.745947,0.000000
+            5.457216,51.746531,0.000000
+            5.473790,51.748657,0.000000
+            5.474041,51.737546,0.000000
+            5.472698,51.736091,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

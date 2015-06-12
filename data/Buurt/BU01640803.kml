@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640803 Het Broek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.823723,52.293666,0.000000
+            6.822137,52.290941,0.000000
+            6.815370,52.291599,0.000000
+            6.813212,52.292801,0.000000
+            6.809300,52.295421,0.000000
+            6.807618,52.298162,0.000000
+            6.804336,52.300484,0.000000
+            6.805276,52.300532,0.000000
+            6.811972,52.300943,0.000000
+            6.819965,52.299849,0.000000
+            6.821164,52.297489,0.000000
+            6.827124,52.295197,0.000000
+            6.823723,52.293666,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

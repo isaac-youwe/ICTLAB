@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07860001 Mars</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.733283,51.760002,0.000000
+            5.731414,51.759607,0.000000
+            5.729306,51.760263,0.000000
+            5.726353,51.762457,0.000000
+            5.726566,51.765516,0.000000
+            5.731921,51.763646,0.000000
+            5.733246,51.760850,0.000000
+            5.733283,51.760002,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

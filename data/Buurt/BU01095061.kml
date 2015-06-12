@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01095061 Meppen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.694755,52.779218,0.000000
+            6.689704,52.778031,0.000000
+            6.688256,52.779301,0.000000
+            6.688732,52.781802,0.000000
+            6.691749,52.782407,0.000000
+            6.687333,52.784300,0.000000
+            6.697647,52.786282,0.000000
+            6.698983,52.784259,0.000000
+            6.703134,52.782387,0.000000
+            6.701746,52.779560,0.000000
+            6.694755,52.779218,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

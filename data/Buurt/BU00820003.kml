@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00820003 Lemmer-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.715398,52.851663,0.000000
+            5.713789,52.848548,0.000000
+            5.705001,52.850296,0.000000
+            5.701084,52.848726,0.000000
+            5.701431,52.850781,0.000000
+            5.692624,52.852878,0.000000
+            5.693254,52.854246,0.000000
+            5.699629,52.855117,0.000000
+            5.700293,52.856982,0.000000
+            5.705740,52.855877,0.000000
+            5.708368,52.853203,0.000000
+            5.715398,52.851663,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

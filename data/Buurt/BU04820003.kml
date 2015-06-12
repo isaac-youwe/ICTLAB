@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04820003 Dam-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.659195,51.872879,0.000000
+            4.654893,51.867009,0.000000
+            4.649340,51.869196,0.000000
+            4.651542,51.871876,0.000000
+            4.650319,51.872246,0.000000
+            4.651702,51.873370,0.000000
+            4.655993,51.873558,0.000000
+            4.659195,51.872879,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

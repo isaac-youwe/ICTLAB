@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110210 Verspreide huizen Dieteren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.869497,51.081466,0.000000
+            5.863471,51.076394,0.000000
+            5.859885,51.074744,0.000000
+            5.856111,51.074257,0.000000
+            5.853543,51.072443,0.000000
+            5.844767,51.063851,0.000000
+            5.841582,51.067721,0.000000
+            5.839612,51.072523,0.000000
+            5.832455,51.075888,0.000000
+            5.831882,51.078176,0.000000
+            5.834642,51.086363,0.000000
+            5.839819,51.092585,0.000000
+            5.840234,51.093633,0.000000
+            5.844606,51.092601,0.000000
+            5.853940,51.087672,0.000000
+            5.867539,51.083435,0.000000
+            5.869497,51.081466,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.846779,51.079934,0.000000
+            5.844095,51.077594,0.000000
+            5.839078,51.078297,0.000000
+            5.838573,51.077536,0.000000
+            5.843811,51.071758,0.000000
+            5.848636,51.074289,0.000000
+            5.850366,51.076216,0.000000
+            5.848269,51.079884,0.000000
+            5.846779,51.079934,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

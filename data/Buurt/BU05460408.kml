@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05460408 Roomburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.522058,52.152000,0.000000
+            4.523606,52.147516,0.000000
+            4.523607,52.147479,0.000000
+            4.523624,52.146617,0.000000
+            4.516353,52.144766,0.000000
+            4.512041,52.141138,0.000000
+            4.513258,52.140408,0.000000
+            4.498217,52.144671,0.000000
+            4.502806,52.146163,0.000000
+            4.507596,52.147321,0.000000
+            4.510757,52.149581,0.000000
+            4.512824,52.149210,0.000000
+            4.522055,52.152163,0.000000
+            4.522058,52.152000,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

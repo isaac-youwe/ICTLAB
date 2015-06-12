@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110209 Dieteren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.848269,51.079884,0.000000
+            5.850366,51.076216,0.000000
+            5.848636,51.074289,0.000000
+            5.843811,51.071758,0.000000
+            5.838573,51.077536,0.000000
+            5.839078,51.078297,0.000000
+            5.844095,51.077594,0.000000
+            5.846779,51.079934,0.000000
+            5.848269,51.079884,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

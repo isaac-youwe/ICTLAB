@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03010300 Moesmate en Tichelkuilen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.213139,52.122902,0.000000
+            6.210450,52.121473,0.000000
+            6.207655,52.124442,0.000000
+            6.204020,52.127597,0.000000
+            6.210298,52.127246,0.000000
+            6.217646,52.127175,0.000000
+            6.216188,52.123023,0.000000
+            6.213139,52.122902,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

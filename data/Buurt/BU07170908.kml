@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07170908 Verspreide huizen recreatiegebied van Koudekerke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.523742,51.481041,0.000000
+            3.529153,51.478498,0.000000
+            3.532834,51.470762,0.000000
+            3.539420,51.465502,0.000000
+            3.539030,51.465435,0.000000
+            3.526192,51.462533,0.000000
+            3.521692,51.466957,0.000000
+            3.515716,51.472257,0.000000
+            3.512616,51.477602,0.000000
+            3.511230,51.479226,0.000000
+            3.523742,51.481041,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.518055,51.476537,0.000000
+            3.522599,51.469149,0.000000
+            3.527409,51.470909,0.000000
+            3.526412,51.472707,0.000000
+            3.523524,51.474606,0.000000
+            3.523001,51.478598,0.000000
+            3.522008,51.479040,0.000000
+            3.519228,51.478883,0.000000
+            3.518055,51.476537,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

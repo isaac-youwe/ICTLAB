@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960205 De Gestelse Buurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.331670,51.685110,0.000000
+            5.331395,51.680316,0.000000
+            5.329674,51.680345,0.000000
+            5.329761,51.679105,0.000000
+            5.327321,51.679164,0.000000
+            5.327413,51.682931,0.000000
+            5.327417,51.684664,0.000000
+            5.331670,51.685110,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

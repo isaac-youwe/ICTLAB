@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02520005 Kluis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.850957,51.795245,0.000000
+            5.848685,51.794708,0.000000
+            5.846721,51.795195,0.000000
+            5.845587,51.800397,0.000000
+            5.847701,51.802036,0.000000
+            5.847141,51.808186,0.000000
+            5.852722,51.808164,0.000000
+            5.852760,51.808168,0.000000
+            5.852995,51.807599,0.000000
+            5.855096,51.802522,0.000000
+            5.854317,51.802080,0.000000
+            5.852929,51.801123,0.000000
+            5.850957,51.795245,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

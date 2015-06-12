@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500402 Ziekenhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.173922,52.262670,0.000000
+            6.170138,52.260077,0.000000
+            6.169410,52.260186,0.000000
+            6.162986,52.262874,0.000000
+            6.169848,52.265628,0.000000
+            6.176793,52.268594,0.000000
+            6.176654,52.265501,0.000000
+            6.173922,52.262670,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

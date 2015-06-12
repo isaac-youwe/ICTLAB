@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03310010 Benschop-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.994450,52.007400,0.000000
+            4.978971,52.004115,0.000000
+            4.976177,52.004390,0.000000
+            4.971056,52.003300,0.000000
+            4.969474,52.006124,0.000000
+            4.966669,52.005545,0.000000
+            4.965578,52.007363,0.000000
+            4.968461,52.007931,0.000000
+            4.967203,52.010175,0.000000
+            4.989378,52.015067,0.000000
+            4.994450,52.007400,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09810009 Verspreide huizen Cottessen-Camerig</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.976875,50.774279,0.000000
+            5.966698,50.767002,0.000000
+            5.961721,50.762044,0.000000
+            5.961270,50.762154,0.000000
+            5.958435,50.762168,0.000000
+            5.947063,50.759527,0.000000
+            5.944218,50.758642,0.000000
+            5.935693,50.756884,0.000000
+            5.932869,50.757797,0.000000
+            5.925845,50.763224,0.000000
+            5.920248,50.769543,0.000000
+            5.924312,50.774604,0.000000
+            5.924563,50.774917,0.000000
+            5.930234,50.774890,0.000000
+            5.935863,50.771268,0.000000
+            5.937281,50.771261,0.000000
+            5.942973,50.773032,0.000000
+            5.944380,50.775643,0.000000
+            5.964907,50.780760,0.000000
+            5.968421,50.780842,0.000000
+            5.976875,50.774279,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

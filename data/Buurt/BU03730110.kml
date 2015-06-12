@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03730110 Tuin-en Oostdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.721078,52.663899,0.000000
+            4.716273,52.660616,0.000000
+            4.713063,52.663345,0.000000
+            4.712733,52.667118,0.000000
+            4.713090,52.667104,0.000000
+            4.726165,52.664902,0.000000
+            4.726243,52.664420,0.000000
+            4.721078,52.663899,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

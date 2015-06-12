@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130406 Mammoet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.710277,52.024862,0.000000
+            4.708582,52.023802,0.000000
+            4.707655,52.024315,0.000000
+            4.708624,52.027991,0.000000
+            4.715329,52.028500,0.000000
+            4.718234,52.028687,0.000000
+            4.717503,52.026465,0.000000
+            4.710277,52.024862,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

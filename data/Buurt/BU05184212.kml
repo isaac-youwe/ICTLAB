@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05184212 Morgenweide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.372733,52.041029,0.000000
+            4.369557,52.039827,0.000000
+            4.364038,52.042819,0.000000
+            4.373860,52.048560,0.000000
+            4.379285,52.052238,0.000000
+            4.383687,52.052001,0.000000
+            4.385684,52.049421,0.000000
+            4.385523,52.049336,0.000000
+            4.375461,52.042957,0.000000
+            4.375395,52.042916,0.000000
+            4.372586,52.041134,0.000000
+            4.372733,52.041029,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07961003 Abdijenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.325244,51.723464,0.000000
+            5.315010,51.720738,0.000000
+            5.314091,51.722448,0.000000
+            5.309636,51.724040,0.000000
+            5.308095,51.725405,0.000000
+            5.312869,51.726811,0.000000
+            5.313812,51.728154,0.000000
+            5.310064,51.730867,0.000000
+            5.310205,51.731998,0.000000
+            5.311742,51.732351,0.000000
+            5.317487,51.728235,0.000000
+            5.322448,51.725102,0.000000
+            5.325244,51.723464,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19160300 Voorburg West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.356077,52.061667,0.000000
+            4.352306,52.059495,0.000000
+            4.351744,52.059831,0.000000
+            4.347453,52.056198,0.000000
+            4.344474,52.058868,0.000000
+            4.344086,52.059217,0.000000
+            4.341933,52.061146,0.000000
+            4.341495,52.061539,0.000000
+            4.354474,52.067946,0.000000
+            4.354264,52.068023,0.000000
+            4.354817,52.068254,0.000000
+            4.363499,52.065427,0.000000
+            4.363286,52.065326,0.000000
+            4.363181,52.065273,0.000000
+            4.356077,52.061667,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

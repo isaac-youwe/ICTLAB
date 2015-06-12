@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320003 Oudeland en Meander</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.895036,52.088706,0.000000
+            4.890573,52.086927,0.000000
+            4.888637,52.089201,0.000000
+            4.890203,52.089753,0.000000
+            4.886809,52.094713,0.000000
+            4.892525,52.095321,0.000000
+            4.893844,52.096185,0.000000
+            4.897021,52.094470,0.000000
+            4.901151,52.094251,0.000000
+            4.896174,52.091205,0.000000
+            4.895036,52.088706,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

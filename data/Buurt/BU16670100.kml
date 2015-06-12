@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16670100 Hooge Mierde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.136609,51.390766,0.000000
+            5.139690,51.383982,0.000000
+            5.137749,51.381112,0.000000
+            5.129740,51.384368,0.000000
+            5.123652,51.383706,0.000000
+            5.119031,51.380944,0.000000
+            5.113724,51.387208,0.000000
+            5.121166,51.388256,0.000000
+            5.127240,51.391710,0.000000
+            5.136609,51.390766,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

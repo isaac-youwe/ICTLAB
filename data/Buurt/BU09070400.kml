@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09070400 Heijen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.977867,51.683655,0.000000
+            5.982747,51.680566,0.000000
+            5.986999,51.676181,0.000000
+            5.987494,51.668569,0.000000
+            5.978732,51.669127,0.000000
+            5.973386,51.674770,0.000000
+            5.971286,51.673317,0.000000
+            5.968199,51.682236,0.000000
+            5.962844,51.681518,0.000000
+            5.962778,51.681820,0.000000
+            5.961378,51.685423,0.000000
+            5.961382,51.685766,0.000000
+            5.973235,51.686569,0.000000
+            5.977867,51.683655,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

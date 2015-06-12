@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16710109 Verspreide huizen ten oosten van Nuland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.452776,51.740041,0.000000
+            5.459356,51.733845,0.000000
+            5.461522,51.734292,0.000000
+            5.461912,51.733577,0.000000
+            5.461016,51.730494,0.000000
+            5.459164,51.730216,0.000000
+            5.459122,51.725536,0.000000
+            5.463677,51.726156,0.000000
+            5.464218,51.725331,0.000000
+            5.450613,51.722238,0.000000
+            5.451040,51.720674,0.000000
+            5.431872,51.716762,0.000000
+            5.431150,51.718049,0.000000
+            5.437188,51.719563,0.000000
+            5.441807,51.720722,0.000000
+            5.449498,51.722756,0.000000
+            5.448180,51.724857,0.000000
+            5.441672,51.723629,0.000000
+            5.441819,51.725458,0.000000
+            5.445128,51.726079,0.000000
+            5.439062,51.735870,0.000000
+            5.452776,51.740041,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17000201 Westerhaar-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.622360,52.472271,0.000000
+            6.626162,52.461612,0.000000
+            6.626527,52.459747,0.000000
+            6.617481,52.457558,0.000000
+            6.610146,52.466480,0.000000
+            6.611866,52.466979,0.000000
+            6.613203,52.466134,0.000000
+            6.616246,52.469699,0.000000
+            6.622360,52.472271,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09050005 Maarland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.720794,50.790240,0.000000
+            5.717311,50.787560,0.000000
+            5.716293,50.787593,0.000000
+            5.716438,50.792598,0.000000
+            5.716642,50.796981,0.000000
+            5.725262,50.795950,0.000000
+            5.726777,50.791421,0.000000
+            5.720794,50.790240,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

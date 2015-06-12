@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940343 Zwanenburg-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.736315,52.377773,0.000000
+            4.732877,52.375437,0.000000
+            4.719106,52.383018,0.000000
+            4.729987,52.385482,0.000000
+            4.731759,52.384522,0.000000
+            4.730606,52.383696,0.000000
+            4.734636,52.381566,0.000000
+            4.734286,52.379807,0.000000
+            4.737100,52.378308,0.000000
+            4.736315,52.377773,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

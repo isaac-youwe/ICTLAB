@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09882101 Keent</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.709483,51.239208,0.000000
+            5.698795,51.238561,0.000000
+            5.696824,51.240061,0.000000
+            5.695572,51.244166,0.000000
+            5.690075,51.249066,0.000000
+            5.689740,51.249528,0.000000
+            5.700983,51.248769,0.000000
+            5.704030,51.248674,0.000000
+            5.706885,51.239713,0.000000
+            5.709483,51.239208,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

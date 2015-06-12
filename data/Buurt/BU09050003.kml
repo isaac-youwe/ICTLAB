@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09050003 Mesch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.735552,50.768931,0.000000
+            5.738938,50.767731,0.000000
+            5.741425,50.768695,0.000000
+            5.744405,50.767487,0.000000
+            5.740153,50.763042,0.000000
+            5.741557,50.761239,0.000000
+            5.738688,50.756753,0.000000
+            5.730184,50.756779,0.000000
+            5.724541,50.760391,0.000000
+            5.721984,50.763673,0.000000
+            5.725062,50.767544,0.000000
+            5.735552,50.768931,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

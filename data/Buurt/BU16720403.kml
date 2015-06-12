@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16720403 Bestemmingsplan Zuidpolder en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.558859,52.073850,0.000000
+            4.537853,52.073559,0.000000
+            4.536037,52.074210,0.000000
+            4.537517,52.076455,0.000000
+            4.544193,52.077605,0.000000
+            4.558870,52.077831,0.000000
+            4.558859,52.073850,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15810402 Maarsbergen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.416040,52.056176,0.000000
+            5.414903,52.053729,0.000000
+            5.410232,52.054285,0.000000
+            5.406251,52.053038,0.000000
+            5.401778,52.053552,0.000000
+            5.396049,52.055808,0.000000
+            5.391900,52.056394,0.000000
+            5.393504,52.059195,0.000000
+            5.396813,52.059412,0.000000
+            5.400850,52.060978,0.000000
+            5.402827,52.062951,0.000000
+            5.406122,52.063499,0.000000
+            5.408433,52.062517,0.000000
+            5.406268,52.060209,0.000000
+            5.416040,52.056176,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09360303 Terlinden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.839704,50.780474,0.000000
+            5.835375,50.778063,0.000000
+            5.826914,50.785663,0.000000
+            5.828178,50.786159,0.000000
+            5.826321,50.788397,0.000000
+            5.827868,50.790115,0.000000
+            5.828290,50.789708,0.000000
+            5.832536,50.788793,0.000000
+            5.832690,50.788645,0.000000
+            5.835346,50.786085,0.000000
+            5.837609,50.783172,0.000000
+            5.839704,50.780474,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

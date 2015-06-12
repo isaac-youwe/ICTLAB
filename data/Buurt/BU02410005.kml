@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02410005 Heilig Landstichting</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.888326,51.811724,0.000000
+            5.887728,51.811412,0.000000
+            5.887566,51.811616,0.000000
+            5.884686,51.813426,0.000000
+            5.881824,51.817034,0.000000
+            5.880413,51.820636,0.000000
+            5.881113,51.820892,0.000000
+            5.887696,51.823302,0.000000
+            5.888321,51.823440,0.000000
+            5.888189,51.820376,0.000000
+            5.891620,51.815770,0.000000
+            5.886715,51.813058,0.000000
+            5.888326,51.811724,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

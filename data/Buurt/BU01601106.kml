@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01601106 Verspreide huizen Dedemsvaart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.480199,52.601277,0.000000
+            6.486949,52.595132,0.000000
+            6.495399,52.598152,0.000000
+            6.515678,52.581093,0.000000
+            6.505587,52.576138,0.000000
+            6.505582,52.575962,0.000000
+            6.496627,52.571556,0.000000
+            6.489185,52.568929,0.000000
+            6.474518,52.569064,0.000000
+            6.474435,52.569065,0.000000
+            6.450836,52.569278,0.000000
+            6.450675,52.569280,0.000000
+            6.447110,52.587064,0.000000
+            6.461810,52.588186,0.000000
+            6.471597,52.588972,0.000000
+            6.469386,52.599747,0.000000
+            6.480199,52.601277,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

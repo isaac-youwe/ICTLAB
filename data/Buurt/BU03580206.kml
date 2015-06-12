@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03580206 Schinkelpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.819621,52.295153,0.000000
+            4.798766,52.287820,0.000000
+            4.794907,52.292185,0.000000
+            4.792175,52.292514,0.000000
+            4.794849,52.299308,0.000000
+            4.794968,52.299382,0.000000
+            4.799212,52.302026,0.000000
+            4.809429,52.305672,0.000000
+            4.819621,52.295153,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

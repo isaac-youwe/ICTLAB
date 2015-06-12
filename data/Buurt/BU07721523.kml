@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721523 Achtse Barrier-Spaaihoef</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.446275,51.482899,0.000000
+            5.443907,51.481588,0.000000
+            5.441828,51.481665,0.000000
+            5.436650,51.479672,0.000000
+            5.426850,51.489721,0.000000
+            5.427524,51.489950,0.000000
+            5.441929,51.493540,0.000000
+            5.442152,51.493596,0.000000
+            5.441843,51.492208,0.000000
+            5.438077,51.491651,0.000000
+            5.437288,51.490594,0.000000
+            5.440642,51.487437,0.000000
+            5.444116,51.487052,0.000000
+            5.444864,51.485909,0.000000
+            5.446275,51.482899,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

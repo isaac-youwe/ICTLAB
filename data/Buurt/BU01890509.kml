@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01890509 Verspreide huizen Zuna</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.488330,52.343607,0.000000
+            6.494461,52.340013,0.000000
+            6.502549,52.340829,0.000000
+            6.506583,52.339856,0.000000
+            6.509725,52.336596,0.000000
+            6.510025,52.332426,0.000000
+            6.517243,52.328799,0.000000
+            6.524055,52.326804,0.000000
+            6.525360,52.324934,0.000000
+            6.524229,52.325889,0.000000
+            6.518339,52.325046,0.000000
+            6.499225,52.323429,0.000000
+            6.468488,52.326411,0.000000
+            6.486189,52.343021,0.000000
+            6.486513,52.343325,0.000000
+            6.487565,52.344260,0.000000
+            6.488330,52.343607,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

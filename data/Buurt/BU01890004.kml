@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01890004 Wierden-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.614575,52.356449,0.000000
+            6.614070,52.356301,0.000000
+            6.593771,52.357267,0.000000
+            6.594555,52.361663,0.000000
+            6.599921,52.361958,0.000000
+            6.615514,52.362868,0.000000
+            6.616038,52.362895,0.000000
+            6.616217,52.362725,0.000000
+            6.614575,52.356449,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

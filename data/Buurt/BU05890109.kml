@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05890109 Verspreide huizen Rozendaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.858328,52.021064,0.000000
+            4.860440,52.019219,0.000000
+            4.865751,52.020837,0.000000
+            4.868760,52.018341,0.000000
+            4.869702,52.018715,0.000000
+            4.872954,52.019045,0.000000
+            4.874968,52.017383,0.000000
+            4.878040,52.017397,0.000000
+            4.880087,52.015546,0.000000
+            4.870616,52.011517,0.000000
+            4.871639,52.010729,0.000000
+            4.856792,52.005908,0.000000
+            4.848401,52.016076,0.000000
+            4.846796,52.018020,0.000000
+            4.852171,52.019947,0.000000
+            4.858328,52.021064,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

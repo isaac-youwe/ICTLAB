@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05110102 Westnieuwland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.893984,51.796725,0.000000
+            3.893390,51.795944,0.000000
+            3.887269,51.798991,0.000000
+            3.884189,51.803954,0.000000
+            3.886790,51.812850,0.000000
+            3.889321,51.813479,0.000000
+            3.894455,51.813160,0.000000
+            3.895514,51.811621,0.000000
+            3.889988,51.810434,0.000000
+            3.887407,51.803995,0.000000
+            3.888023,51.801042,0.000000
+            3.890627,51.798426,0.000000
+            3.893984,51.796725,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440867 Bedrijvengebied Kanaleneiland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.109421,52.076954,0.000000
+            5.113042,52.062577,0.000000
+            5.112361,52.061382,0.000000
+            5.110829,52.057260,0.000000
+            5.107255,52.050566,0.000000
+            5.105565,52.050040,0.000000
+            5.104360,52.049665,0.000000
+            5.104345,52.049661,0.000000
+            5.102864,52.053253,0.000000
+            5.097296,52.059204,0.000000
+            5.097207,52.061028,0.000000
+            5.095382,52.063009,0.000000
+            5.103664,52.065926,0.000000
+            5.107832,52.065483,0.000000
+            5.107443,52.066679,0.000000
+            5.103127,52.078908,0.000000
+            5.096967,52.084287,0.000000
+            5.098260,52.085214,0.000000
+            5.105685,52.081441,0.000000
+            5.109421,52.076954,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990050 Leutingewolde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.438032,53.157221,0.000000
+            6.437239,53.153030,0.000000
+            6.433376,53.153395,0.000000
+            6.433976,53.150825,0.000000
+            6.431673,53.149677,0.000000
+            6.430861,53.153951,0.000000
+            6.428747,53.154573,0.000000
+            6.415448,53.151660,0.000000
+            6.413770,53.152817,0.000000
+            6.428257,53.155896,0.000000
+            6.427095,53.157662,0.000000
+            6.434262,53.159994,0.000000
+            6.437428,53.159102,0.000000
+            6.438032,53.157221,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

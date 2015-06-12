@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140605 Coendersborg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.592491,53.192458,0.000000
+            6.590399,53.192206,0.000000
+            6.586821,53.193399,0.000000
+            6.583557,53.206009,0.000000
+            6.603437,53.196488,0.000000
+            6.603909,53.196100,0.000000
+            6.603904,53.196097,0.000000
+            6.596398,53.195274,0.000000
+            6.596607,53.194944,0.000000
+            6.594615,53.194938,0.000000
+            6.595514,53.193013,0.000000
+            6.593572,53.192657,0.000000
+            6.592491,53.192458,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

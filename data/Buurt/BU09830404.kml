@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830404 Op de Heide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.162299,51.343516,0.000000
+            6.164316,51.342290,0.000000
+            6.168946,51.343111,0.000000
+            6.179904,51.341780,0.000000
+            6.177472,51.338180,0.000000
+            6.179002,51.333506,0.000000
+            6.169342,51.332708,0.000000
+            6.169281,51.329112,0.000000
+            6.164915,51.325545,0.000000
+            6.159069,51.319291,0.000000
+            6.159009,51.315695,0.000000
+            6.158871,51.315555,0.000000
+            6.145041,51.322884,0.000000
+            6.137537,51.324487,0.000000
+            6.156769,51.343006,0.000000
+            6.157863,51.345615,0.000000
+            6.161278,51.347167,0.000000
+            6.163665,51.345574,0.000000
+            6.162299,51.343516,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

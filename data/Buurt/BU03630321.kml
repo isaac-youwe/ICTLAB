@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630321 Overtoomse Sluis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.865370,52.359012,0.000000
+            4.854717,52.356298,0.000000
+            4.854008,52.356425,0.000000
+            4.854861,52.357856,0.000000
+            4.857303,52.361628,0.000000
+            4.863704,52.363112,0.000000
+            4.865474,52.360334,0.000000
+            4.865370,52.359012,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

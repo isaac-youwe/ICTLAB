@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770900 Laag Zuthem-kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.178778,52.456488,0.000000
+            6.176983,52.455415,0.000000
+            6.171046,52.458901,0.000000
+            6.165924,52.462103,0.000000
+            6.168298,52.462811,0.000000
+            6.173138,52.462720,0.000000
+            6.174785,52.459989,0.000000
+            6.178670,52.457738,0.000000
+            6.178778,52.456488,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

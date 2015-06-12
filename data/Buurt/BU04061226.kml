@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04061226 Filosofenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.287503,52.298053,0.000000
+            5.281649,52.293554,0.000000
+            5.277244,52.296246,0.000000
+            5.274319,52.293547,0.000000
+            5.274266,52.293498,0.000000
+            5.272528,52.294537,0.000000
+            5.276585,52.297176,0.000000
+            5.278928,52.299131,0.000000
+            5.281462,52.300849,0.000000
+            5.281632,52.300745,0.000000
+            5.287503,52.298053,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

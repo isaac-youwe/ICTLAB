@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07852027 Riel-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.025915,51.522801,0.000000
+            5.021548,51.519933,0.000000
+            5.020732,51.520177,0.000000
+            5.018828,51.520694,0.000000
+            5.016899,51.518302,0.000000
+            5.018828,51.517631,0.000000
+            5.015934,51.517117,0.000000
+            5.015437,51.519727,0.000000
+            5.017228,51.520274,0.000000
+            5.014550,51.523087,0.000000
+            5.022675,51.529588,0.000000
+            5.027204,51.533154,0.000000
+            5.030996,51.530033,0.000000
+            5.025915,51.522801,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

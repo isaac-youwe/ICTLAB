@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02810109 Industrieterrein Kellen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.450037,51.902118,0.000000
+            5.431412,51.901463,0.000000
+            5.426597,51.906338,0.000000
+            5.423722,51.917063,0.000000
+            5.426455,51.918751,0.000000
+            5.432439,51.919806,0.000000
+            5.432933,51.919893,0.000000
+            5.446546,51.912719,0.000000
+            5.453348,51.902925,0.000000
+            5.450037,51.902118,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

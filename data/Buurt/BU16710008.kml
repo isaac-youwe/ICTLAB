@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16710008 Verspreide huizen ten oosten van Geffen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.491454,51.737125,0.000000
+            5.494347,51.736224,0.000000
+            5.495974,51.736222,0.000000
+            5.495701,51.734402,0.000000
+            5.474275,51.729101,0.000000
+            5.472698,51.736091,0.000000
+            5.474041,51.737546,0.000000
+            5.473790,51.748657,0.000000
+            5.486636,51.752951,0.000000
+            5.486917,51.753027,0.000000
+            5.485693,51.751513,0.000000
+            5.492927,51.747911,0.000000
+            5.493662,51.747568,0.000000
+            5.498151,51.745472,0.000000
+            5.498713,51.745209,0.000000
+            5.492912,51.741619,0.000000
+            5.491458,51.738923,0.000000
+            5.491454,51.737125,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

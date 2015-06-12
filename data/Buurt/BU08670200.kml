@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08670200 Sprang</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.055203,51.672679,0.000000
+            5.055260,51.669075,0.000000
+            5.051516,51.669134,0.000000
+            5.051994,51.665000,0.000000
+            5.042441,51.664764,0.000000
+            5.042255,51.666616,0.000000
+            5.041436,51.669138,0.000000
+            5.040720,51.673288,0.000000
+            5.049718,51.670859,0.000000
+            5.052889,51.671024,0.000000
+            5.051137,51.674704,0.000000
+            5.052248,51.675804,0.000000
+            5.055203,51.672679,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

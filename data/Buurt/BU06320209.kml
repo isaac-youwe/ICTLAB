@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320209 Snel Polanen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.905826,52.070591,0.000000
+            4.905088,52.070505,0.000000
+            4.901022,52.075368,0.000000
+            4.899121,52.075613,0.000000
+            4.891857,52.084703,0.000000
+            4.912796,52.091755,0.000000
+            4.920347,52.083371,0.000000
+            4.924081,52.080673,0.000000
+            4.926163,52.078188,0.000000
+            4.914599,52.074242,0.000000
+            4.914540,52.074222,0.000000
+            4.905826,52.070591,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

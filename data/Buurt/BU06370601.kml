@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370601 Oosterheem-Noordoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.557354,52.061460,0.000000
+            4.548925,52.054363,0.000000
+            4.537426,52.059623,0.000000
+            4.535601,52.058122,0.000000
+            4.531961,52.059851,0.000000
+            4.529235,52.061188,0.000000
+            4.531186,52.062731,0.000000
+            4.525281,52.065854,0.000000
+            4.533689,52.073151,0.000000
+            4.533799,52.072978,0.000000
+            4.552929,52.064125,0.000000
+            4.557354,52.061460,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

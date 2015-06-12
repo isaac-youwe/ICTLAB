@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350405 Scharn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.757901,50.855582,0.000000
+            5.757822,50.845693,0.000000
+            5.757620,50.845441,0.000000
+            5.754954,50.842106,0.000000
+            5.748261,50.840436,0.000000
+            5.744717,50.841640,0.000000
+            5.721595,50.843950,0.000000
+            5.717156,50.842949,0.000000
+            5.711554,50.848161,0.000000
+            5.720932,50.848851,0.000000
+            5.723829,50.850256,0.000000
+            5.724229,50.854465,0.000000
+            5.728759,50.854668,0.000000
+            5.732615,50.852575,0.000000
+            5.735389,50.852516,0.000000
+            5.751903,50.857769,0.000000
+            5.749387,50.856508,0.000000
+            5.757901,50.855582,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05032809 Koningsveldbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.366129,52.000450,0.000000
+            4.364642,52.000157,0.000000
+            4.363596,52.001433,0.000000
+            4.362925,52.002332,0.000000
+            4.362001,52.003737,0.000000
+            4.364282,52.004399,0.000000
+            4.366388,52.002364,0.000000
+            4.366551,52.002147,0.000000
+            4.366716,52.001971,0.000000
+            4.365384,52.001493,0.000000
+            4.366129,52.000450,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

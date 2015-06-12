@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03040103 Opijnen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.329406,51.831740,0.000000
+            5.316190,51.821623,0.000000
+            5.316121,51.821651,0.000000
+            5.305962,51.824341,0.000000
+            5.295809,51.823435,0.000000
+            5.290484,51.823431,0.000000
+            5.287996,51.831651,0.000000
+            5.290163,51.832454,0.000000
+            5.301953,51.829408,0.000000
+            5.314778,51.830863,0.000000
+            5.319726,51.830642,0.000000
+            5.327454,51.833168,0.000000
+            5.329406,51.831740,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

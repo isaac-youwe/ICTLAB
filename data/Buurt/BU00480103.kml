@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480103 Veele</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.077097,53.050984,0.000000
+            7.080924,53.045715,0.000000
+            7.093209,53.048332,0.000000
+            7.096989,53.047889,0.000000
+            7.104005,53.039825,0.000000
+            7.102099,53.039018,0.000000
+            7.102844,53.038434,0.000000
+            7.098007,53.036723,0.000000
+            7.087014,53.040568,0.000000
+            7.087242,53.041009,0.000000
+            7.085786,53.041928,0.000000
+            7.081419,53.044687,0.000000
+            7.069424,53.043059,0.000000
+            7.067968,53.043978,0.000000
+            7.066616,53.047592,0.000000
+            7.069702,53.050246,0.000000
+            7.075666,53.050162,0.000000
+            7.077097,53.050984,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

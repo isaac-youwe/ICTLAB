@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320201 Breeveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.932006,52.084107,0.000000
+            4.924081,52.080673,0.000000
+            4.920347,52.083371,0.000000
+            4.912796,52.091755,0.000000
+            4.908084,52.097177,0.000000
+            4.914531,52.097461,0.000000
+            4.918815,52.102227,0.000000
+            4.928391,52.105305,0.000000
+            4.934773,52.104651,0.000000
+            4.938469,52.103151,0.000000
+            4.943159,52.097204,0.000000
+            4.928804,52.087138,0.000000
+            4.932006,52.084107,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

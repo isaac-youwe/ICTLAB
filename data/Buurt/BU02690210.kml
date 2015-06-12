@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02690210 Verspreide huizen Oosterwolde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.870610,52.463722,0.000000
+            5.867967,52.459080,0.000000
+            5.847869,52.467085,0.000000
+            5.844954,52.469793,0.000000
+            5.842019,52.470703,0.000000
+            5.847991,52.478769,0.000000
+            5.851039,52.488645,0.000000
+            5.851067,52.491341,0.000000
+            5.851115,52.491426,0.000000
+            5.901202,52.505593,0.000000
+            5.901301,52.505516,0.000000
+            5.908581,52.498293,0.000000
+            5.920179,52.482961,0.000000
+            5.920475,52.482498,0.000000
+            5.914470,52.481352,0.000000
+            5.915213,52.479831,0.000000
+            5.914352,52.479674,0.000000
+            5.885889,52.477530,0.000000
+            5.873999,52.465592,0.000000
+            5.870610,52.463722,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

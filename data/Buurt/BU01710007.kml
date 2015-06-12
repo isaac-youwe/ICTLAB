@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01710007 Industriegebied de Munt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.781953,52.711299,0.000000
+            5.782360,52.708197,0.000000
+            5.770602,52.707696,0.000000
+            5.770336,52.711842,0.000000
+            5.775852,52.711292,0.000000
+            5.775768,52.712145,0.000000
+            5.780648,52.712436,0.000000
+            5.781953,52.711299,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

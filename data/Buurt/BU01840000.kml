@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01840000 Urk-Kom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.602833,52.661310,0.000000
+            5.603201,52.660767,0.000000
+            5.598879,52.660952,0.000000
+            5.598594,52.661039,0.000000
+            5.592677,52.660151,0.000000
+            5.592690,52.662847,0.000000
+            5.592691,52.663099,0.000000
+            5.599026,52.664297,0.000000
+            5.602833,52.661310,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

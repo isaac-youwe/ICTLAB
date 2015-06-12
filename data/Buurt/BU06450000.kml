@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06450000 Woubrugge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.640270,52.161797,0.000000
+            4.639671,52.161719,0.000000
+            4.637813,52.165088,0.000000
+            4.632038,52.166390,0.000000
+            4.635762,52.166839,0.000000
+            4.636451,52.169217,0.000000
+            4.634206,52.175162,0.000000
+            4.632043,52.180011,0.000000
+            4.632665,52.180851,0.000000
+            4.634403,52.180837,0.000000
+            4.637647,52.177947,0.000000
+            4.645493,52.161830,0.000000
+            4.641732,52.161806,0.000000
+            4.641379,52.161804,0.000000
+            4.640270,52.161797,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

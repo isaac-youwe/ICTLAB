@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960401 De Muntel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.309104,51.696448,0.000000
+            5.314107,51.693074,0.000000
+            5.315571,51.692183,0.000000
+            5.312930,51.690831,0.000000
+            5.304790,51.694369,0.000000
+            5.305398,51.695129,0.000000
+            5.303769,51.696309,0.000000
+            5.301535,51.695891,0.000000
+            5.303619,51.697838,0.000000
+            5.309104,51.696448,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

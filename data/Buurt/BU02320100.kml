@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02320100 Emst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.978916,52.322193,0.000000
+            5.977467,52.318158,0.000000
+            5.978679,52.315864,0.000000
+            5.975102,52.312384,0.000000
+            5.971536,52.311673,0.000000
+            5.968858,52.315690,0.000000
+            5.973638,52.317038,0.000000
+            5.973454,52.318517,0.000000
+            5.970160,52.317778,0.000000
+            5.969820,52.318498,0.000000
+            5.973049,52.320301,0.000000
+            5.973071,52.321974,0.000000
+            5.978916,52.322193,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

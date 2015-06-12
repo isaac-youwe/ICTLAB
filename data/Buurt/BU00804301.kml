@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00804301 Huizum-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.816613,53.195199,0.000000
+            5.815576,53.192399,0.000000
+            5.816111,53.189166,0.000000
+            5.809449,53.188148,0.000000
+            5.807561,53.191180,0.000000
+            5.807348,53.194740,0.000000
+            5.813549,53.193574,0.000000
+            5.816613,53.195199,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03830221 Alberts Hoeve</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.690422,52.552951,0.000000
+            4.692311,52.547904,0.000000
+            4.691060,52.548170,0.000000
+            4.688701,52.547148,0.000000
+            4.690288,52.544123,0.000000
+            4.686550,52.542512,0.000000
+            4.680301,52.542506,0.000000
+            4.677893,52.541326,0.000000
+            4.675171,52.542592,0.000000
+            4.682825,52.550247,0.000000
+            4.683174,52.550695,0.000000
+            4.686076,52.549632,0.000000
+            4.690422,52.552951,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

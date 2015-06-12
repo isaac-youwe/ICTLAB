@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17710001 Skandia</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.556994,51.426324,0.000000
+            5.556661,51.422620,0.000000
+            5.543953,51.424895,0.000000
+            5.535283,51.431362,0.000000
+            5.535292,51.431372,0.000000
+            5.535338,51.431430,0.000000
+            5.541091,51.431423,0.000000
+            5.546850,51.433213,0.000000
+            5.547060,51.433474,0.000000
+            5.558542,51.428222,0.000000
+            5.556994,51.426324,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15860207 Verspreide huizen Mellinkmaat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.499009,51.973675,0.000000
+            6.499434,51.970115,0.000000
+            6.499191,51.970134,0.000000
+            6.494825,51.970175,0.000000
+            6.481816,51.973893,0.000000
+            6.473127,51.975771,0.000000
+            6.467370,51.978521,0.000000
+            6.468891,51.981204,0.000000
+            6.471867,51.983874,0.000000
+            6.476343,51.988327,0.000000
+            6.476119,51.988418,0.000000
+            6.480848,51.992088,0.000000
+            6.482438,51.994290,0.000000
+            6.482339,51.997168,0.000000
+            6.489853,51.997086,0.000000
+            6.500331,51.991024,0.000000
+            6.498219,51.989034,0.000000
+            6.500750,51.984860,0.000000
+            6.496105,51.975188,0.000000
+            6.499009,51.973675,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

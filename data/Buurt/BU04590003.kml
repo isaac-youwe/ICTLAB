@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04590003 Driehuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.178395,52.720570,0.000000
+            5.175695,52.719709,0.000000
+            5.170866,52.730532,0.000000
+            5.166665,52.731867,0.000000
+            5.163556,52.736690,0.000000
+            5.164479,52.736882,0.000000
+            5.165082,52.736518,0.000000
+            5.168048,52.735625,0.000000
+            5.172499,52.733836,0.000000
+            5.178395,52.720570,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

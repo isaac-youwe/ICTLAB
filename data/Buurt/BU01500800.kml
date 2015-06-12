@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500800 Dorp Colmschate</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.219295,52.253760,0.000000
+            6.221195,52.250667,0.000000
+            6.231963,52.250922,0.000000
+            6.231965,52.248000,0.000000
+            6.228104,52.248062,0.000000
+            6.227142,52.247124,0.000000
+            6.221881,52.246373,0.000000
+            6.217625,52.245846,0.000000
+            6.218570,52.248652,0.000000
+            6.215545,52.248716,0.000000
+            6.216321,52.250640,0.000000
+            6.215569,52.253540,0.000000
+            6.217415,52.253690,0.000000
+            6.219295,52.253760,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

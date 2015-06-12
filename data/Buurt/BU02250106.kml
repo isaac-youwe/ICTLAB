@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02250106 Horssen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.615848,51.853507,0.000000
+            5.613425,51.850213,0.000000
+            5.603137,51.854042,0.000000
+            5.605585,51.857468,0.000000
+            5.603063,51.858203,0.000000
+            5.605042,51.860002,0.000000
+            5.612859,51.857843,0.000000
+            5.615341,51.855989,0.000000
+            5.615848,51.853507,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

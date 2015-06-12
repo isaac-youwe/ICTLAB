@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630875 Spieringhorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.818742,52.389206,0.000000
+            4.818760,52.387579,0.000000
+            4.831510,52.387421,0.000000
+            4.831534,52.384824,0.000000
+            4.818569,52.384805,0.000000
+            4.811866,52.384794,0.000000
+            4.794164,52.384452,0.000000
+            4.758456,52.384291,0.000000
+            4.758453,52.384515,0.000000
+            4.758404,52.387951,0.000000
+            4.765993,52.387965,0.000000
+            4.768736,52.388376,0.000000
+            4.769492,52.389214,0.000000
+            4.818742,52.389206,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

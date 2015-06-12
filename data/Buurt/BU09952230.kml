@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09952230 Punter-Jol-Galjoen-Kuststrook</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.452458,52.520136,0.000000
+            5.452239,52.506567,0.000000
+            5.435073,52.505877,0.000000
+            5.430660,52.507958,0.000000
+            5.422590,52.503916,0.000000
+            5.422461,52.506045,0.000000
+            5.434346,52.511115,0.000000
+            5.440247,52.517404,0.000000
+            5.437301,52.518304,0.000000
+            5.437302,52.519067,0.000000
+            5.443400,52.519966,0.000000
+            5.452458,52.520136,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

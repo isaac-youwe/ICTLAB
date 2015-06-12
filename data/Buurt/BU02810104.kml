@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02810104 Drumpt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.416053,51.895377,0.000000
+            5.411022,51.892980,0.000000
+            5.403471,51.895340,0.000000
+            5.397628,51.895743,0.000000
+            5.399378,51.897858,0.000000
+            5.399857,51.898437,0.000000
+            5.400547,51.898520,0.000000
+            5.418256,51.900646,0.000000
+            5.417871,51.897479,0.000000
+            5.416053,51.895377,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17300300 Midlaren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.678240,53.111803,0.000000
+            6.685580,53.108857,0.000000
+            6.683667,53.107013,0.000000
+            6.680960,53.108034,0.000000
+            6.677243,53.107294,0.000000
+            6.674179,53.110978,0.000000
+            6.666825,53.109239,0.000000
+            6.667351,53.108575,0.000000
+            6.664092,53.107331,0.000000
+            6.662523,53.107901,0.000000
+            6.660160,53.112428,0.000000
+            6.663369,53.113576,0.000000
+            6.666041,53.111315,0.000000
+            6.678310,53.114053,0.000000
+            6.678240,53.111803,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

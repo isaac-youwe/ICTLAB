@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580501 Heuvel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.757033,51.570707,0.000000
+            4.745242,51.567446,0.000000
+            4.743342,51.569261,0.000000
+            4.743749,51.573173,0.000000
+            4.752940,51.579258,0.000000
+            4.756134,51.581021,0.000000
+            4.762615,51.579135,0.000000
+            4.759748,51.573707,0.000000
+            4.756861,51.571853,0.000000
+            4.757033,51.570707,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

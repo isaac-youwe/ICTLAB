@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07560000 Boxmeer Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.958939,51.653459,0.000000
+            5.960596,51.651181,0.000000
+            5.957952,51.650569,0.000000
+            5.957057,51.651605,0.000000
+            5.955762,51.651223,0.000000
+            5.955481,51.649204,0.000000
+            5.959523,51.646940,0.000000
+            5.955899,51.645018,0.000000
+            5.952977,51.643617,0.000000
+            5.949574,51.644808,0.000000
+            5.944159,51.648417,0.000000
+            5.944997,51.648668,0.000000
+            5.946413,51.649698,0.000000
+            5.950894,51.648935,0.000000
+            5.954167,51.649476,0.000000
+            5.955015,51.653130,0.000000
+            5.952728,51.652910,0.000000
+            5.951416,51.654302,0.000000
+            5.954679,51.655132,0.000000
+            5.958939,51.653459,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

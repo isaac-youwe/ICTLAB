@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03920603 Sinnevelt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.645582,52.412914,0.000000
+            4.650727,52.409616,0.000000
+            4.639066,52.405564,0.000000
+            4.633971,52.406787,0.000000
+            4.635833,52.410816,0.000000
+            4.636075,52.410768,0.000000
+            4.638954,52.414382,0.000000
+            4.639000,52.414433,0.000000
+            4.645582,52.412914,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07650100 Nieuwe Pekela</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.981334,53.087374,0.000000
+            6.994347,53.071819,0.000000
+            6.977516,53.058846,0.000000
+            6.966900,53.051850,0.000000
+            6.958284,53.042663,0.000000
+            6.933748,53.053751,0.000000
+            6.936164,53.060154,0.000000
+            6.940577,53.067125,0.000000
+            6.958248,53.080225,0.000000
+            6.955457,53.081714,0.000000
+            6.959567,53.084352,0.000000
+            6.962259,53.083071,0.000000
+            6.970729,53.089059,0.000000
+            6.973895,53.091298,0.000000
+            6.981334,53.087374,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

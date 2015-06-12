@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03071201 Bloeidaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.448685,52.161663,0.000000
+            5.447097,52.159665,0.000000
+            5.442747,52.161451,0.000000
+            5.438362,52.161453,0.000000
+            5.432512,52.158759,0.000000
+            5.423742,52.157863,0.000000
+            5.417894,52.155168,0.000000
+            5.417600,52.154686,0.000000
+            5.416824,52.154408,0.000000
+            5.419198,52.161178,0.000000
+            5.429537,52.164808,0.000000
+            5.434341,52.167150,0.000000
+            5.434682,52.168585,0.000000
+            5.446080,52.167282,0.000000
+            5.448447,52.167112,0.000000
+            5.448685,52.161663,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

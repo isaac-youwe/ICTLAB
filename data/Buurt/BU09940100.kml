@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09940100 Sint Gerlach</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.805531,50.874553,0.000000
+            5.806589,50.865675,0.000000
+            5.798794,50.866658,0.000000
+            5.798293,50.868175,0.000000
+            5.791173,50.867957,0.000000
+            5.789032,50.869023,0.000000
+            5.793060,50.876492,0.000000
+            5.805531,50.874553,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

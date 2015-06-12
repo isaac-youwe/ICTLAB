@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00830301 Beetgumermolen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.707549,53.244814,0.000000
+            5.706568,53.240027,0.000000
+            5.712802,53.239351,0.000000
+            5.711682,53.237216,0.000000
+            5.722422,53.235953,0.000000
+            5.731086,53.232399,0.000000
+            5.727606,53.231218,0.000000
+            5.725660,53.229538,0.000000
+            5.722600,53.231462,0.000000
+            5.717125,53.233236,0.000000
+            5.704671,53.233246,0.000000
+            5.700924,53.232324,0.000000
+            5.700358,53.233349,0.000000
+            5.706036,53.244108,0.000000
+            5.706313,53.244079,0.000000
+            5.707549,53.244814,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

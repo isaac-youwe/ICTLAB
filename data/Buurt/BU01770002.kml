@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770002 Blekkershoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.279473,52.390219,0.000000
+            6.275070,52.387162,0.000000
+            6.271634,52.387378,0.000000
+            6.268726,52.390939,0.000000
+            6.268182,52.393400,0.000000
+            6.273505,52.393757,0.000000
+            6.279021,52.390849,0.000000
+            6.279473,52.390219,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

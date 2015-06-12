@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04797230 Parkrijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.744051,52.480619,0.000000
+            4.740742,52.479047,0.000000
+            4.731693,52.485130,0.000000
+            4.721168,52.495041,0.000000
+            4.731819,52.496730,0.000000
+            4.739823,52.501703,0.000000
+            4.749202,52.496625,0.000000
+            4.754513,52.495024,0.000000
+            4.757940,52.494504,0.000000
+            4.755917,52.493206,0.000000
+            4.757502,52.491726,0.000000
+            4.756979,52.491150,0.000000
+            4.744051,52.480619,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00390108 Verspreide huizen ten zuiden van Westerlee</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.010779,53.148146,0.000000
+            6.999645,53.132107,0.000000
+            6.999601,53.132043,0.000000
+            6.988591,53.116076,0.000000
+            6.982717,53.118851,0.000000
+            6.979730,53.118891,0.000000
+            6.967488,53.110963,0.000000
+            6.965995,53.110983,0.000000
+            6.966028,53.111881,0.000000
+            6.960512,53.124538,0.000000
+            6.956482,53.134255,0.000000
+            6.958567,53.136064,0.000000
+            6.966711,53.137931,0.000000
+            6.973751,53.137826,0.000000
+            6.992290,53.142321,0.000000
+            6.997463,53.145254,0.000000
+            7.001896,53.149877,0.000000
+            7.002930,53.152268,0.000000
+            7.010779,53.148146,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

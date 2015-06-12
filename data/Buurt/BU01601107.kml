@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01601107 Verspreide huizen Beute en Ommerkanaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.444882,52.598153,0.000000
+            6.447110,52.587064,0.000000
+            6.450675,52.569280,0.000000
+            6.438019,52.569393,0.000000
+            6.437561,52.569397,0.000000
+            6.431704,52.571246,0.000000
+            6.427571,52.571282,0.000000
+            6.429115,52.574476,0.000000
+            6.425748,52.593197,0.000000
+            6.418976,52.592155,0.000000
+            6.415220,52.596638,0.000000
+            6.415919,52.603196,0.000000
+            6.444580,52.605895,0.000000
+            6.444882,52.598153,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

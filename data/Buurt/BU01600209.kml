@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600209 Rheezerveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.531567,52.590704,0.000000
+            6.542724,52.589185,0.000000
+            6.546192,52.590239,0.000000
+            6.558558,52.580157,0.000000
+            6.558201,52.579413,0.000000
+            6.578248,52.566349,0.000000
+            6.580508,52.564854,0.000000
+            6.552980,52.557134,0.000000
+            6.528268,52.549999,0.000000
+            6.527091,52.551492,0.000000
+            6.526849,52.551879,0.000000
+            6.521425,52.560535,0.000000
+            6.505591,52.575966,0.000000
+            6.505582,52.575962,0.000000
+            6.505587,52.576138,0.000000
+            6.515678,52.581093,0.000000
+            6.516426,52.586201,0.000000
+            6.520453,52.587410,0.000000
+            6.531567,52.590704,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

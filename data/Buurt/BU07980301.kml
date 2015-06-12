@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07980301 Baarschot</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.181501,51.460376,0.000000
+            5.182967,51.458377,0.000000
+            5.186104,51.460036,0.000000
+            5.190336,51.459775,0.000000
+            5.191582,51.457212,0.000000
+            5.184936,51.454338,0.000000
+            5.183924,51.455932,0.000000
+            5.180648,51.457899,0.000000
+            5.180440,51.460176,0.000000
+            5.181501,51.460376,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

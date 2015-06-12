@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05180374 Duttendel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.303748,52.110500,0.000000
+            4.314892,52.106492,0.000000
+            4.327142,52.108511,0.000000
+            4.316998,52.104133,0.000000
+            4.312195,52.102263,0.000000
+            4.308704,52.099155,0.000000
+            4.309461,52.098489,0.000000
+            4.306280,52.096359,0.000000
+            4.300487,52.098808,0.000000
+            4.301382,52.101081,0.000000
+            4.300704,52.102302,0.000000
+            4.292315,52.107439,0.000000
+            4.299534,52.107851,0.000000
+            4.301812,52.106098,0.000000
+            4.303748,52.110500,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

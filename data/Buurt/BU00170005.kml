@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00170005 Hemmen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.596428,53.189935,0.000000
+            6.600763,53.185805,0.000000
+            6.610444,53.187501,0.000000
+            6.614909,53.180685,0.000000
+            6.597958,53.177862,0.000000
+            6.587689,53.172834,0.000000
+            6.575898,53.182897,0.000000
+            6.576601,53.182890,0.000000
+            6.581088,53.182845,0.000000
+            6.581163,53.185541,0.000000
+            6.581776,53.185807,0.000000
+            6.586137,53.187705,0.000000
+            6.587221,53.188176,0.000000
+            6.596247,53.189883,0.000000
+            6.596428,53.189935,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

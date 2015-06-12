@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03400301 Rhenen Hoog</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.574397,51.960220,0.000000
+            5.571921,51.959763,0.000000
+            5.569542,51.960316,0.000000
+            5.568431,51.963224,0.000000
+            5.569155,51.965045,0.000000
+            5.573308,51.967733,0.000000
+            5.575747,51.967600,0.000000
+            5.579170,51.964634,0.000000
+            5.579028,51.964475,0.000000
+            5.574397,51.960220,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

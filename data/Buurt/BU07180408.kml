@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07180408 Vrijburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.591801,51.477948,0.000000
+            3.599103,51.475363,0.000000
+            3.599470,51.475851,0.000000
+            3.594998,51.466928,0.000000
+            3.588457,51.466622,0.000000
+            3.588127,51.467717,0.000000
+            3.583908,51.468100,0.000000
+            3.581211,51.469319,0.000000
+            3.580863,51.473946,0.000000
+            3.582002,51.475676,0.000000
+            3.582077,51.476184,0.000000
+            3.582156,51.476724,0.000000
+            3.583131,51.478713,0.000000
+            3.587448,51.478780,0.000000
+            3.588852,51.479701,0.000000
+            3.591801,51.477948,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

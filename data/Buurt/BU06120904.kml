@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06120904 Industrieterrein Halfweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.305588,51.853548,0.000000
+            4.310532,51.850775,0.000000
+            4.312232,51.846800,0.000000
+            4.309868,51.846891,0.000000
+            4.296853,51.851632,0.000000
+            4.293496,51.850082,0.000000
+            4.288899,51.851765,0.000000
+            4.286796,51.855135,0.000000
+            4.288141,51.859527,0.000000
+            4.297849,51.858493,0.000000
+            4.302351,51.856308,0.000000
+            4.305588,51.853548,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

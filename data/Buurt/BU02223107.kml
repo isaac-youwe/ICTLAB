@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02223107 Wehl-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.212777,51.965551,0.000000
+            6.204826,51.965291,0.000000
+            6.198006,51.967149,0.000000
+            6.185921,51.973930,0.000000
+            6.183941,51.978984,0.000000
+            6.190776,51.978938,0.000000
+            6.205365,51.980635,0.000000
+            6.215538,51.979665,0.000000
+            6.217556,51.979473,0.000000
+            6.212611,51.968268,0.000000
+            6.212777,51.965551,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220908 Buitengebied Groot Hagen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.260802,51.986529,0.000000
+            6.268028,51.983779,0.000000
+            6.270940,51.983757,0.000000
+            6.274479,51.984094,0.000000
+            6.282341,51.976161,0.000000
+            6.281067,51.974577,0.000000
+            6.276093,51.972265,0.000000
+            6.267256,51.976962,0.000000
+            6.262903,51.979524,0.000000
+            6.258933,51.983430,0.000000
+            6.260195,51.986913,0.000000
+            6.260802,51.986529,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

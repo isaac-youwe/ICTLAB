@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08850000 Arcen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.185831,51.478595,0.000000
+            6.187005,51.477753,0.000000
+            6.188938,51.479610,0.000000
+            6.191276,51.480323,0.000000
+            6.190465,51.473599,0.000000
+            6.188608,51.470021,0.000000
+            6.178898,51.470199,0.000000
+            6.177524,51.473797,0.000000
+            6.174853,51.477225,0.000000
+            6.174707,51.477412,0.000000
+            6.170466,51.481936,0.000000
+            6.170222,51.482302,0.000000
+            6.177271,51.483947,0.000000
+            6.185390,51.482006,0.000000
+            6.185831,51.478595,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

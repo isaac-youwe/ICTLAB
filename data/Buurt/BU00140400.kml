@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140400 Gorechtbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.575663,53.229392,0.000000
+            6.581943,53.224564,0.000000
+            6.584068,53.222143,0.000000
+            6.583232,53.220649,0.000000
+            6.578751,53.218475,0.000000
+            6.577341,53.218105,0.000000
+            6.575809,53.220518,0.000000
+            6.570262,53.223613,0.000000
+            6.565245,53.226110,0.000000
+            6.567515,53.225757,0.000000
+            6.575663,53.229392,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

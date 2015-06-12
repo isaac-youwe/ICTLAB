@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00630200 Minnertsga</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.600211,53.257231,0.000000
+            5.604573,53.254688,0.000000
+            5.603713,53.251782,0.000000
+            5.598542,53.249548,0.000000
+            5.597139,53.248000,0.000000
+            5.598617,53.244757,0.000000
+            5.593807,53.243228,0.000000
+            5.582035,53.252207,0.000000
+            5.589677,53.256457,0.000000
+            5.592049,53.256996,0.000000
+            5.594879,53.255563,0.000000
+            5.600211,53.257231,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

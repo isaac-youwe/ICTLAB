@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03810104 Bredius-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.174399,52.275602,0.000000
+            5.173661,52.275361,0.000000
+            5.173350,52.276191,0.000000
+            5.172460,52.277737,0.000000
+            5.176821,52.279050,0.000000
+            5.175137,52.280866,0.000000
+            5.175268,52.282804,0.000000
+            5.177601,52.283525,0.000000
+            5.177609,52.283527,0.000000
+            5.184962,52.278147,0.000000
+            5.184964,52.278145,0.000000
+            5.180765,52.276988,0.000000
+            5.178011,52.276635,0.000000
+            5.174399,52.275602,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

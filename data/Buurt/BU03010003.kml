@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03010003 Nieuwstad en Coehoornsingel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.204275,52.143656,0.000000
+            6.201033,52.142751,0.000000
+            6.196717,52.142983,0.000000
+            6.189959,52.143768,0.000000
+            6.196056,52.145264,0.000000
+            6.201247,52.149028,0.000000
+            6.204690,52.147984,0.000000
+            6.207679,52.146333,0.000000
+            6.204275,52.143656,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

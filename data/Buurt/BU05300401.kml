@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05300401 Koele Nacht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.156889,51.836982,0.000000
+            4.159731,51.835611,0.000000
+            4.162935,51.835850,0.000000
+            4.162719,51.833008,0.000000
+            4.159195,51.832530,0.000000
+            4.156772,51.831953,0.000000
+            4.156279,51.830660,0.000000
+            4.153609,51.829731,0.000000
+            4.153228,51.830109,0.000000
+            4.150766,51.832937,0.000000
+            4.154383,51.833944,0.000000
+            4.155370,51.834696,0.000000
+            4.154748,51.835913,0.000000
+            4.156889,51.836982,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

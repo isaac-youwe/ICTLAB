@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07700300 Vessem-kom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.295823,51.417498,0.000000
+            5.290593,51.415582,0.000000
+            5.282161,51.415787,0.000000
+            5.276718,51.416062,0.000000
+            5.276424,51.417724,0.000000
+            5.281318,51.420747,0.000000
+            5.279065,51.426266,0.000000
+            5.286626,51.429627,0.000000
+            5.295325,51.427329,0.000000
+            5.297352,51.421500,0.000000
+            5.299343,51.419940,0.000000
+            5.295823,51.417498,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

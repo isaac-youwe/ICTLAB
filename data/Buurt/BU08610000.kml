@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08610000 Veldhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.411526,51.410512,0.000000
+            5.421816,51.406920,0.000000
+            5.424815,51.404196,0.000000
+            5.401500,51.397956,0.000000
+            5.384688,51.395785,0.000000
+            5.373010,51.392313,0.000000
+            5.372835,51.392860,0.000000
+            5.372833,51.392867,0.000000
+            5.371394,51.398261,0.000000
+            5.371165,51.398356,0.000000
+            5.378218,51.404188,0.000000
+            5.385702,51.405550,0.000000
+            5.390457,51.405823,0.000000
+            5.394075,51.407237,0.000000
+            5.400997,51.408228,0.000000
+            5.404553,51.409000,0.000000
+            5.404693,51.408315,0.000000
+            5.411526,51.410512,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

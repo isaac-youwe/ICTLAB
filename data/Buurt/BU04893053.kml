@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04893053 Kooiwalbos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.536127,51.869028,0.000000
+            4.536103,51.863762,0.000000
+            4.528524,51.864013,0.000000
+            4.515589,51.865482,0.000000
+            4.515139,51.868775,0.000000
+            4.531863,51.868898,0.000000
+            4.534767,51.868919,0.000000
+            4.535854,51.869096,0.000000
+            4.536127,51.869028,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

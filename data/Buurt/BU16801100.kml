@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16801100 Annerveenschekanaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.790069,53.086423,0.000000
+            6.813824,53.071546,0.000000
+            6.814961,53.070834,0.000000
+            6.812346,53.069289,0.000000
+            6.811734,53.068999,0.000000
+            6.790129,53.083267,0.000000
+            6.788931,53.082980,0.000000
+            6.786799,53.086023,0.000000
+            6.790069,53.086423,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

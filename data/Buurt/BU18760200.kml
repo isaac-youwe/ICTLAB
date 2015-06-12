@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18760200 Vorden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.316458,52.101950,0.000000
+            6.311780,52.096791,0.000000
+            6.305902,52.099526,0.000000
+            6.311755,52.101842,0.000000
+            6.302122,52.101557,0.000000
+            6.297205,52.102685,0.000000
+            6.299330,52.112443,0.000000
+            6.304131,52.113496,0.000000
+            6.312344,52.112674,0.000000
+            6.316702,52.107403,0.000000
+            6.329753,52.104514,0.000000
+            6.328460,52.103702,0.000000
+            6.316458,52.101950,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02282031 Maanderbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.622181,52.021747,0.000000
+            5.632052,52.018369,0.000000
+            5.636830,52.016972,0.000000
+            5.639374,52.016349,0.000000
+            5.605461,52.013186,0.000000
+            5.586097,52.013954,0.000000
+            5.586801,52.015672,0.000000
+            5.589715,52.015667,0.000000
+            5.589735,52.020162,0.000000
+            5.586821,52.020167,0.000000
+            5.586869,52.030954,0.000000
+            5.589784,52.030949,0.000000
+            5.589796,52.033645,0.000000
+            5.589797,52.033719,0.000000
+            5.592385,52.033498,0.000000
+            5.594879,52.032674,0.000000
+            5.610817,52.025740,0.000000
+            5.622181,52.021747,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

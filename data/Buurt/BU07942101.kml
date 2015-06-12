@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07942101 De Veste</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.610113,51.457186,0.000000
+            5.609839,51.456323,0.000000
+            5.604108,51.456839,0.000000
+            5.602472,51.460793,0.000000
+            5.611813,51.463107,0.000000
+            5.614506,51.458884,0.000000
+            5.612811,51.457244,0.000000
+            5.610113,51.457186,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

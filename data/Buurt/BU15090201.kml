@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15090201 Terborg-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.382222,51.918609,0.000000
+            6.380073,51.916213,0.000000
+            6.376691,51.917347,0.000000
+            6.363356,51.923676,0.000000
+            6.371617,51.927220,0.000000
+            6.371968,51.927379,0.000000
+            6.378970,51.920935,0.000000
+            6.382222,51.918609,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

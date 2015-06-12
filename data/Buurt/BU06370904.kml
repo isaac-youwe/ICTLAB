@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370904 Buitengebied-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.439458,52.058520,0.000000
+            4.421715,52.057171,0.000000
+            4.420240,52.062212,0.000000
+            4.454901,52.078672,0.000000
+            4.455332,52.078733,0.000000
+            4.459241,52.073968,0.000000
+            4.465500,52.071273,0.000000
+            4.468192,52.070919,0.000000
+            4.466231,52.067460,0.000000
+            4.467245,52.067088,0.000000
+            4.466315,52.065110,0.000000
+            4.465392,52.064965,0.000000
+            4.464833,52.064186,0.000000
+            4.456638,52.064047,0.000000
+            4.439458,52.058520,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

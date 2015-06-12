@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08650103 Vijverhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.277201,51.651395,0.000000
+            5.279957,51.648825,0.000000
+            5.282903,51.648946,0.000000
+            5.280976,51.642683,0.000000
+            5.272039,51.642846,0.000000
+            5.272910,51.647417,0.000000
+            5.271581,51.649119,0.000000
+            5.276807,51.651236,0.000000
+            5.277201,51.651395,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

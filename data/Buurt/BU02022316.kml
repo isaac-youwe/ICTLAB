@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02022316 Rijkerswoerd-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.912321,51.944553,0.000000
+            5.902016,51.933811,0.000000
+            5.900787,51.934070,0.000000
+            5.897663,51.934729,0.000000
+            5.895619,51.934738,0.000000
+            5.903225,51.943403,0.000000
+            5.897743,51.944841,0.000000
+            5.893121,51.947495,0.000000
+            5.892151,51.948965,0.000000
+            5.894247,51.951630,0.000000
+            5.899339,51.948531,0.000000
+            5.905266,51.947074,0.000000
+            5.911697,51.945739,0.000000
+            5.912044,51.945080,0.000000
+            5.912321,51.944553,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

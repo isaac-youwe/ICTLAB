@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17000108 Verspreide huizen Weitemanslanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.691984,52.392478,0.000000
+            6.686331,52.391166,0.000000
+            6.684325,52.395593,0.000000
+            6.684965,52.396348,0.000000
+            6.682664,52.398688,0.000000
+            6.680396,52.399235,0.000000
+            6.672357,52.407790,0.000000
+            6.663194,52.413788,0.000000
+            6.658056,52.418352,0.000000
+            6.661510,52.423355,0.000000
+            6.670424,52.423973,0.000000
+            6.672888,52.423414,0.000000
+            6.669182,52.416999,0.000000
+            6.674957,52.413341,0.000000
+            6.699382,52.394194,0.000000
+            6.699151,52.393795,0.000000
+            6.697244,52.393698,0.000000
+            6.691984,52.392478,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

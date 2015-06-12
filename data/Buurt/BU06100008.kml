@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06100008 Verspreide huizen ten noorden van de Merwede</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.803721,51.846292,0.000000
+            4.803941,51.829278,0.000000
+            4.794764,51.828795,0.000000
+            4.784330,51.828771,0.000000
+            4.775003,51.830273,0.000000
+            4.756156,51.833527,0.000000
+            4.749784,51.833060,0.000000
+            4.745532,51.831438,0.000000
+            4.741525,51.826657,0.000000
+            4.732697,51.827616,0.000000
+            4.732865,51.827939,0.000000
+            4.741389,51.840572,0.000000
+            4.742840,51.840580,0.000000
+            4.755838,51.845145,0.000000
+            4.760217,51.843371,0.000000
+            4.767473,51.843409,0.000000
+            4.780499,51.846174,0.000000
+            4.789219,51.845320,0.000000
+            4.795024,51.845349,0.000000
+            4.803721,51.846292,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

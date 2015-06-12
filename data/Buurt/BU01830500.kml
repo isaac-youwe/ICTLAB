@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01830500 Vasse kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.837071,52.430450,0.000000
+            6.835098,52.430242,0.000000
+            6.829728,52.432298,0.000000
+            6.821292,52.432507,0.000000
+            6.821359,52.433138,0.000000
+            6.821517,52.434615,0.000000
+            6.831538,52.437025,0.000000
+            6.835783,52.437343,0.000000
+            6.836693,52.435833,0.000000
+            6.838615,52.432641,0.000000
+            6.837071,52.430450,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02630007 Verspreide huizen Kerkdriel, Berm en Hoorzik</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.321496,51.769814,0.000000
+            5.324777,51.764362,0.000000
+            5.317304,51.764447,0.000000
+            5.317874,51.769618,0.000000
+            5.318030,51.770985,0.000000
+            5.311376,51.773280,0.000000
+            5.313421,51.777892,0.000000
+            5.312822,51.780692,0.000000
+            5.314697,51.785162,0.000000
+            5.316586,51.786290,0.000000
+            5.322284,51.787019,0.000000
+            5.335698,51.779132,0.000000
+            5.323651,51.774447,0.000000
+            5.324768,51.771649,0.000000
+            5.321496,51.769814,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

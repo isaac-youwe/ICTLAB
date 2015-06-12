@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02690000 Oldebroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.909895,52.444309,0.000000
+            5.904295,52.441775,0.000000
+            5.901692,52.437903,0.000000
+            5.900764,52.438656,0.000000
+            5.896833,52.441844,0.000000
+            5.895624,52.441231,0.000000
+            5.892210,52.443979,0.000000
+            5.887104,52.441895,0.000000
+            5.886256,52.442548,0.000000
+            5.884699,52.443748,0.000000
+            5.902541,52.450834,0.000000
+            5.904908,52.448532,0.000000
+            5.909895,52.444309,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

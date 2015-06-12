@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510202 Nieuwebrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.886993,52.986223,0.000000
+            5.885808,52.986082,0.000000
+            5.878471,52.991488,0.000000
+            5.883679,52.993157,0.000000
+            5.883213,52.992741,0.000000
+            5.889139,52.990020,0.000000
+            5.888843,52.989495,0.000000
+            5.886993,52.986223,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

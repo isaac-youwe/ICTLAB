@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05300701 Centrumgebied-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.151082,51.832068,0.000000
+            4.145288,51.829019,0.000000
+            4.139561,51.829212,0.000000
+            4.138885,51.830288,0.000000
+            4.144344,51.832451,0.000000
+            4.148196,51.834036,0.000000
+            4.149063,51.833446,0.000000
+            4.151082,51.832068,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

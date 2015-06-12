@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09290003 Kesseleik</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.036050,51.287746,0.000000
+            6.034421,51.285351,0.000000
+            6.031505,51.283908,0.000000
+            6.037600,51.278973,0.000000
+            6.030745,51.274222,0.000000
+            6.029383,51.270929,0.000000
+            6.024646,51.273436,0.000000
+            6.014391,51.282378,0.000000
+            6.016121,51.286965,0.000000
+            6.018388,51.289054,0.000000
+            6.022388,51.286992,0.000000
+            6.032141,51.291520,0.000000
+            6.036050,51.287746,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

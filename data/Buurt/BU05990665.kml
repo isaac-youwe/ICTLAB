@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990665 Molenlaankwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.512621,51.962250,0.000000
+            4.518476,51.960495,0.000000
+            4.518738,51.960661,0.000000
+            4.517033,51.957288,0.000000
+            4.518278,51.955799,0.000000
+            4.517465,51.953737,0.000000
+            4.512651,51.951575,0.000000
+            4.507873,51.950816,0.000000
+            4.508172,51.951754,0.000000
+            4.494568,51.959181,0.000000
+            4.495010,51.967529,0.000000
+            4.495041,51.968118,0.000000
+            4.494964,51.972006,0.000000
+            4.496437,51.971118,0.000000
+            4.496716,51.970998,0.000000
+            4.506713,51.966701,0.000000
+            4.508203,51.964914,0.000000
+            4.512621,51.962250,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06640708 Verspreide huizen noorden van s-Heer-Hendrikskinderen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.870401,51.507922,0.000000
+            3.860396,51.503798,0.000000
+            3.853482,51.502512,0.000000
+            3.849187,51.503011,0.000000
+            3.844420,51.501786,0.000000
+            3.844341,51.498924,0.000000
+            3.831438,51.499371,0.000000
+            3.813499,51.500056,0.000000
+            3.811209,51.500875,0.000000
+            3.822751,51.502766,0.000000
+            3.837306,51.508633,0.000000
+            3.841144,51.507327,0.000000
+            3.855102,51.512528,0.000000
+            3.864889,51.514457,0.000000
+            3.868185,51.515892,0.000000
+            3.870401,51.507922,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

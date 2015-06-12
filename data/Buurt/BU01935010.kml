@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01935010 Schellerhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.107468,52.498963,0.000000
+            6.108668,52.496124,0.000000
+            6.106624,52.492367,0.000000
+            6.104025,52.492659,0.000000
+            6.105360,52.493220,0.000000
+            6.106616,52.496125,0.000000
+            6.101479,52.498659,0.000000
+            6.096985,52.498673,0.000000
+            6.093961,52.500951,0.000000
+            6.103357,52.500610,0.000000
+            6.107468,52.498963,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

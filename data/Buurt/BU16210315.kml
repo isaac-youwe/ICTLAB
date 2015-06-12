@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16210315 Bedrijventerrein Rodenrijs</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.458887,51.976794,0.000000
+            4.458516,51.976633,0.000000
+            4.456127,51.977024,0.000000
+            4.453020,51.982803,0.000000
+            4.457927,51.984466,0.000000
+            4.458629,51.982958,0.000000
+            4.460193,51.977927,0.000000
+            4.459702,51.977313,0.000000
+            4.458887,51.976794,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

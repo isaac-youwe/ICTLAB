@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03850206 Volendam-Rozettenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.078735,52.504723,0.000000
+            5.076051,52.502562,0.000000
+            5.074367,52.502867,0.000000
+            5.071295,52.503024,0.000000
+            5.067711,52.500503,0.000000
+            5.069393,52.499060,0.000000
+            5.067621,52.497784,0.000000
+            5.063513,52.500990,0.000000
+            5.062504,52.501778,0.000000
+            5.070413,52.507851,0.000000
+            5.071332,52.507643,0.000000
+            5.078735,52.504723,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

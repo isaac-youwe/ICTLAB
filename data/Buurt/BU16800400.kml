@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16800400 Anderen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.683172,53.003548,0.000000
+            6.685971,53.002955,0.000000
+            6.690572,53.003185,0.000000
+            6.692425,53.001037,0.000000
+            6.687185,52.999587,0.000000
+            6.688981,52.995480,0.000000
+            6.687359,52.994058,0.000000
+            6.685644,52.993795,0.000000
+            6.685091,52.996310,0.000000
+            6.681690,52.998897,0.000000
+            6.681041,53.002566,0.000000
+            6.679049,53.004685,0.000000
+            6.680740,53.005154,0.000000
+            6.683287,53.004278,0.000000
+            6.683172,53.003548,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

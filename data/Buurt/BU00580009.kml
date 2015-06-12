@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580009 Dokkum Jantjeszeepolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.996244,53.320076,0.000000
+            5.997491,53.317745,0.000000
+            6.005091,53.318030,0.000000
+            6.008684,53.317184,0.000000
+            6.009269,53.309446,0.000000
+            5.999400,53.310343,0.000000
+            5.993618,53.310372,0.000000
+            5.991886,53.316142,0.000000
+            5.989528,53.319129,0.000000
+            5.996244,53.320076,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

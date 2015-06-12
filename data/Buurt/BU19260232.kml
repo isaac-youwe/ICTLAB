@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19260232 Oostambacht  Heronpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.403449,52.052910,0.000000
+            4.421931,52.051438,0.000000
+            4.424847,52.051462,0.000000
+            4.424931,52.051453,0.000000
+            4.414971,52.047270,0.000000
+            4.412260,52.050281,0.000000
+            4.404575,52.045255,0.000000
+            4.403069,52.046632,0.000000
+            4.406138,52.050063,0.000000
+            4.399892,52.052367,0.000000
+            4.400902,52.053133,0.000000
+            4.401480,52.053066,0.000000
+            4.403449,52.052910,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

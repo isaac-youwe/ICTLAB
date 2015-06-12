@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16400208 Verspreide huizen Grathem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.870130,51.214363,0.000000
+            5.860594,51.206294,0.000000
+            5.853739,51.197973,0.000000
+            5.850919,51.196579,0.000000
+            5.836451,51.192640,0.000000
+            5.831612,51.197867,0.000000
+            5.831265,51.198238,0.000000
+            5.835186,51.200960,0.000000
+            5.840803,51.202714,0.000000
+            5.856038,51.213159,0.000000
+            5.858550,51.211428,0.000000
+            5.865334,51.217738,0.000000
+            5.870130,51.214363,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03420001 t Hart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.288711,52.180454,0.000000
+            5.285380,52.178060,0.000000
+            5.284133,52.178277,0.000000
+            5.278344,52.173976,0.000000
+            5.273058,52.176630,0.000000
+            5.262943,52.184519,0.000000
+            5.262695,52.184647,0.000000
+            5.262895,52.184770,0.000000
+            5.273118,52.190174,0.000000
+            5.281888,52.192879,0.000000
+            5.281700,52.191900,0.000000
+            5.284436,52.186623,0.000000
+            5.288711,52.180454,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

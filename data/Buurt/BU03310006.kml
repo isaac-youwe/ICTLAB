@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03310006 Cabauw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.895706,51.961628,0.000000
+            4.888313,51.959748,0.000000
+            4.887645,51.961190,0.000000
+            4.886075,51.964471,0.000000
+            4.894374,51.966366,0.000000
+            4.906830,51.970862,0.000000
+            4.909491,51.967109,0.000000
+            4.909976,51.966350,0.000000
+            4.906126,51.964639,0.000000
+            4.895706,51.961628,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

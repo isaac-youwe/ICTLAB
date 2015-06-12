@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02630409 Overige verspreide huizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.277196,51.784336,0.000000
+            5.268298,51.783316,0.000000
+            5.266876,51.792845,0.000000
+            5.277020,51.794652,0.000000
+            5.286937,51.798508,0.000000
+            5.289940,51.795606,0.000000
+            5.293612,51.789119,0.000000
+            5.290791,51.787073,0.000000
+            5.277196,51.784336,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

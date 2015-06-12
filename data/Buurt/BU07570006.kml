@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07570006 Verspreide huizen Tongeren, Luissel en Nergena</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.302966,51.608282,0.000000
+            5.305822,51.597531,0.000000
+            5.303195,51.595832,0.000000
+            5.307196,51.592947,0.000000
+            5.304275,51.592083,0.000000
+            5.305447,51.589273,0.000000
+            5.302586,51.589150,0.000000
+            5.247169,51.586712,0.000000
+            5.247219,51.586962,0.000000
+            5.248651,51.590560,0.000000
+            5.263059,51.599565,0.000000
+            5.268830,51.600470,0.000000
+            5.276039,51.604073,0.000000
+            5.280229,51.604077,0.000000
+            5.280371,51.604077,0.000000
+            5.281816,51.603180,0.000000
+            5.293365,51.603189,0.000000
+            5.300577,51.606791,0.000000
+            5.302966,51.608282,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01480300 Hoonhorst kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.228446,52.484213,0.000000
+            6.220637,52.483534,0.000000
+            6.219536,52.484833,0.000000
+            6.217763,52.487147,0.000000
+            6.233536,52.489013,0.000000
+            6.234873,52.487319,0.000000
+            6.233047,52.485345,0.000000
+            6.228446,52.484213,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

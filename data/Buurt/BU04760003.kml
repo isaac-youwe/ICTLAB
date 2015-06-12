@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04760003 Burgerbrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.706067,52.733879,0.000000
+            4.703120,52.732963,0.000000
+            4.702715,52.733001,0.000000
+            4.694222,52.733810,0.000000
+            4.689795,52.732886,0.000000
+            4.683858,52.733749,0.000000
+            4.680839,52.737327,0.000000
+            4.677961,52.739040,0.000000
+            4.700945,52.768285,0.000000
+            4.725909,52.760694,0.000000
+            4.725049,52.756785,0.000000
+            4.724976,52.756455,0.000000
+            4.723590,52.750156,0.000000
+            4.716294,52.742925,0.000000
+            4.714841,52.741119,0.000000
+            4.710440,52.738398,0.000000
+            4.704517,52.738364,0.000000
+            4.705962,52.734182,0.000000
+            4.706067,52.733879,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

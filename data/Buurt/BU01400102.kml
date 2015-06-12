@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01400102 Spannum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.606892,53.140203,0.000000
+            5.601979,53.139132,0.000000
+            5.600531,53.140463,0.000000
+            5.602269,53.142360,0.000000
+            5.602249,53.142705,0.000000
+            5.602435,53.142761,0.000000
+            5.603774,53.144359,0.000000
+            5.609414,53.144944,0.000000
+            5.610744,53.144012,0.000000
+            5.610418,53.142268,0.000000
+            5.606892,53.140203,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06230205 Het Beijersche</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.732630,51.971876,0.000000
+            4.717895,51.965491,0.000000
+            4.711648,51.968805,0.000000
+            4.710379,51.972544,0.000000
+            4.720487,51.977995,0.000000
+            4.708747,51.984221,0.000000
+            4.730413,51.996030,0.000000
+            4.733326,51.996046,0.000000
+            4.733821,51.996672,0.000000
+            4.735891,51.998068,0.000000
+            4.749349,51.992161,0.000000
+            4.750011,51.991015,0.000000
+            4.750113,51.987498,0.000000
+            4.758129,51.980620,0.000000
+            4.748187,51.978987,0.000000
+            4.732630,51.971876,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

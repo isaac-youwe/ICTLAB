@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05310103 Kruiswiel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.654078,51.844891,0.000000
+            4.645289,51.840119,0.000000
+            4.644646,51.840532,0.000000
+            4.640594,51.843009,0.000000
+            4.640014,51.843518,0.000000
+            4.649220,51.849679,0.000000
+            4.651183,51.846591,0.000000
+            4.654078,51.844891,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

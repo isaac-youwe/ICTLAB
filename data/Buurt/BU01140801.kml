@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140801 Klazienaveen-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.025607,52.723409,0.000000
+            7.025372,52.720684,0.000000
+            7.022344,52.720813,0.000000
+            7.022057,52.718362,0.000000
+            7.005906,52.718997,0.000000
+            7.002730,52.719136,0.000000
+            7.002295,52.715474,0.000000
+            6.986442,52.716132,0.000000
+            6.983311,52.717164,0.000000
+            6.971805,52.717648,0.000000
+            6.970192,52.719105,0.000000
+            6.968448,52.721705,0.000000
+            6.975394,52.725500,0.000000
+            7.025607,52.723409,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

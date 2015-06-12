@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09460300 Eind</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.783046,51.266274,0.000000
+            5.771934,51.262089,0.000000
+            5.759881,51.274621,0.000000
+            5.757329,51.277271,0.000000
+            5.765209,51.278598,0.000000
+            5.777732,51.282687,0.000000
+            5.784254,51.284915,0.000000
+            5.786741,51.281282,0.000000
+            5.785716,51.278281,0.000000
+            5.788566,51.277962,0.000000
+            5.788553,51.276395,0.000000
+            5.785460,51.276010,0.000000
+            5.787309,51.273913,0.000000
+            5.782489,51.271977,0.000000
+            5.783665,51.269394,0.000000
+            5.783046,51.266274,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

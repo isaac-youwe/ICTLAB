@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01630402 de Brake</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.481564,52.357781,0.000000
+            6.476756,52.357475,0.000000
+            6.472476,52.361129,0.000000
+            6.471302,52.364632,0.000000
+            6.471728,52.365487,0.000000
+            6.474701,52.365291,0.000000
+            6.475842,52.363091,0.000000
+            6.479117,52.362605,0.000000
+            6.481062,52.361361,0.000000
+            6.481564,52.357781,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

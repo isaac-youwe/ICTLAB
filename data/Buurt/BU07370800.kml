@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07370800 Noordburgum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.008103,53.220589,0.000000
+            6.001845,53.219977,0.000000
+            5.998112,53.220697,0.000000
+            5.994802,53.229772,0.000000
+            5.998835,53.230356,0.000000
+            5.997339,53.233999,0.000000
+            6.000730,53.235396,0.000000
+            6.002628,53.235987,0.000000
+            6.006013,53.236527,0.000000
+            6.011271,53.222041,0.000000
+            6.008103,53.220589,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

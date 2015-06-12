@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02620209 Exel Tol</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.393158,52.173535,0.000000
+            6.394591,52.169465,0.000000
+            6.391345,52.169528,0.000000
+            6.389407,52.172968,0.000000
+            6.383448,52.171927,0.000000
+            6.383346,52.175892,0.000000
+            6.394887,52.177205,0.000000
+            6.394735,52.174247,0.000000
+            6.393158,52.173535,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

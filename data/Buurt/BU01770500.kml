@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770500 Mari_nheem-Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.327246,52.381912,0.000000
+            6.327482,52.378401,0.000000
+            6.316396,52.379673,0.000000
+            6.316369,52.381978,0.000000
+            6.314849,52.383552,0.000000
+            6.321802,52.386602,0.000000
+            6.326013,52.387088,0.000000
+            6.324814,52.384189,0.000000
+            6.325511,52.381979,0.000000
+            6.327246,52.381912,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05760002 Grote Zilk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.555858,52.298768,0.000000
+            4.550067,52.296041,0.000000
+            4.528971,52.302815,0.000000
+            4.529383,52.303073,0.000000
+            4.543823,52.314863,0.000000
+            4.546773,52.313985,0.000000
+            4.562989,52.309605,0.000000
+            4.555858,52.298768,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

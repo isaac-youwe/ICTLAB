@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01750200 Vilsteren Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.360575,52.510219,0.000000
+            6.357788,52.506400,0.000000
+            6.345383,52.508221,0.000000
+            6.344914,52.508937,0.000000
+            6.347011,52.512215,0.000000
+            6.353598,52.513987,0.000000
+            6.360650,52.514069,0.000000
+            6.360575,52.510219,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04390303 Dwarsgouw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.983075,52.513283,0.000000
+            4.980643,52.510169,0.000000
+            4.977953,52.511080,0.000000
+            4.978830,52.512034,0.000000
+            4.977941,52.512417,0.000000
+            4.971119,52.511879,0.000000
+            4.971110,52.512405,0.000000
+            4.983518,52.515521,0.000000
+            4.989355,52.518515,0.000000
+            4.986588,52.515270,0.000000
+            4.983075,52.513283,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

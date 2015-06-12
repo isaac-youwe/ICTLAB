@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00850502 Fochteloo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.346518,52.973061,0.000000
+            6.343092,52.972776,0.000000
+            6.340364,52.975151,0.000000
+            6.326489,53.003098,0.000000
+            6.332207,53.005335,0.000000
+            6.334805,52.999962,0.000000
+            6.334846,52.997131,0.000000
+            6.337413,52.995550,0.000000
+            6.343787,52.982301,0.000000
+            6.346863,52.974776,0.000000
+            6.346518,52.973061,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370800 Rokkehage</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.513271,52.048035,0.000000
+            4.522627,52.043199,0.000000
+            4.518632,52.041514,0.000000
+            4.508714,52.044613,0.000000
+            4.501793,52.045930,0.000000
+            4.491234,52.047018,0.000000
+            4.493630,52.049101,0.000000
+            4.495507,52.049439,0.000000
+            4.498421,52.048122,0.000000
+            4.503901,52.047962,0.000000
+            4.507686,52.050844,0.000000
+            4.513271,52.048035,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01601201 Balkbrug-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.383257,52.608705,0.000000
+            6.388073,52.605397,0.000000
+            6.399672,52.606104,0.000000
+            6.399542,52.603622,0.000000
+            6.403760,52.604111,0.000000
+            6.404297,52.602144,0.000000
+            6.391868,52.600677,0.000000
+            6.374458,52.598748,0.000000
+            6.373941,52.599748,0.000000
+            6.375175,52.601115,0.000000
+            6.381144,52.601829,0.000000
+            6.381541,52.604095,0.000000
+            6.380820,52.608808,0.000000
+            6.383257,52.608705,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

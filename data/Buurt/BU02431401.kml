@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02431401 Recreatiegebied Harderwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.639873,52.331421,0.000000
+            5.636094,52.323308,0.000000
+            5.630744,52.326608,0.000000
+            5.623413,52.327522,0.000000
+            5.623207,52.327410,0.000000
+            5.622773,52.328351,0.000000
+            5.622823,52.329690,0.000000
+            5.629512,52.330213,0.000000
+            5.635471,52.332564,0.000000
+            5.639873,52.331421,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

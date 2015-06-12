@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04200101 Oosteinde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.046071,52.692313,0.000000
+            5.046757,52.687600,0.000000
+            5.060849,52.680234,0.000000
+            5.056469,52.679958,0.000000
+            5.052278,52.677967,0.000000
+            5.046690,52.676539,0.000000
+            5.042108,52.673436,0.000000
+            5.030953,52.679281,0.000000
+            5.030433,52.686711,0.000000
+            5.032593,52.686730,0.000000
+            5.032623,52.688658,0.000000
+            5.037714,52.691475,0.000000
+            5.039608,52.692087,0.000000
+            5.039436,52.689870,0.000000
+            5.046071,52.692313,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00390300 Midwolda</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.036091,53.204742,0.000000
+            7.039106,53.200391,0.000000
+            7.038453,53.199442,0.000000
+            7.023448,53.191995,0.000000
+            7.024107,53.189612,0.000000
+            7.021816,53.187936,0.000000
+            7.017766,53.187230,0.000000
+            7.017363,53.185258,0.000000
+            7.015660,53.184609,0.000000
+            7.012773,53.184686,0.000000
+            7.012009,53.190630,0.000000
+            6.999914,53.189567,0.000000
+            6.993239,53.188156,0.000000
+            6.991541,53.194658,0.000000
+            7.007773,53.200490,0.000000
+            7.018678,53.202027,0.000000
+            7.028663,53.201792,0.000000
+            7.031625,53.204655,0.000000
+            7.036091,53.204742,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

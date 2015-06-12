@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17090509 Verspreide huizen Noordhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.518681,51.636303,0.000000
+            4.523313,51.636098,0.000000
+            4.531389,51.640629,0.000000
+            4.535350,51.639790,0.000000
+            4.540087,51.640608,0.000000
+            4.541690,51.642775,0.000000
+            4.554844,51.641683,0.000000
+            4.535246,51.631557,0.000000
+            4.515768,51.630384,0.000000
+            4.511861,51.631261,0.000000
+            4.502269,51.634729,0.000000
+            4.504876,51.638829,0.000000
+            4.514478,51.645201,0.000000
+            4.525309,51.644169,0.000000
+            4.517858,51.637583,0.000000
+            4.518681,51.636303,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

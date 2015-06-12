@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940560 Badhoevedorp-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.794893,52.328784,0.000000
+            4.788968,52.326925,0.000000
+            4.778945,52.332456,0.000000
+            4.783032,52.335109,0.000000
+            4.788098,52.338678,0.000000
+            4.791531,52.336443,0.000000
+            4.790763,52.336040,0.000000
+            4.785140,52.335495,0.000000
+            4.785350,52.334664,0.000000
+            4.794893,52.328784,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

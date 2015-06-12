@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18830301 Wintraak</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.878356,50.963912,0.000000
+            5.876658,50.963562,0.000000
+            5.877966,50.970455,0.000000
+            5.875474,50.972696,0.000000
+            5.874639,50.975604,0.000000
+            5.877061,50.977979,0.000000
+            5.889065,50.978695,0.000000
+            5.892830,50.980069,0.000000
+            5.892769,50.980032,0.000000
+            5.896739,50.976642,0.000000
+            5.897002,50.976417,0.000000
+            5.896982,50.974619,0.000000
+            5.895558,50.974625,0.000000
+            5.895346,50.974582,0.000000
+            5.891277,50.973745,0.000000
+            5.889833,50.971953,0.000000
+            5.886946,50.968370,0.000000
+            5.878356,50.963912,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

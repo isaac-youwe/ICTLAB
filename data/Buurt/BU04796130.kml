@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04796130 Snuiverbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.764789,52.499926,0.000000
+            4.760711,52.494249,0.000000
+            4.757940,52.494504,0.000000
+            4.754513,52.495024,0.000000
+            4.757581,52.502997,0.000000
+            4.758041,52.502878,0.000000
+            4.765406,52.500785,0.000000
+            4.764789,52.499926,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

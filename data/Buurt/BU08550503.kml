@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550503 Moerenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.119166,51.545126,0.000000
+            5.119288,51.544900,0.000000
+            5.118605,51.546024,0.000000
+            5.114552,51.552701,0.000000
+            5.111872,51.557017,0.000000
+            5.108713,51.562107,0.000000
+            5.111180,51.562719,0.000000
+            5.126604,51.566434,0.000000
+            5.127093,51.561762,0.000000
+            5.128567,51.559594,0.000000
+            5.123937,51.557444,0.000000
+            5.122250,51.555051,0.000000
+            5.121727,51.554242,0.000000
+            5.125311,51.550520,0.000000
+            5.119698,51.547235,0.000000
+            5.119166,51.545126,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

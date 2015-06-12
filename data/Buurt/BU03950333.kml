@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03950333 Schoorldam (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.721664,52.708243,0.000000
+            4.720581,52.702743,0.000000
+            4.718409,52.701390,0.000000
+            4.718406,52.701591,0.000000
+            4.716830,52.707874,0.000000
+            4.716757,52.708002,0.000000
+            4.718461,52.707893,0.000000
+            4.719206,52.708614,0.000000
+            4.719156,52.709574,0.000000
+            4.717210,52.710638,0.000000
+            4.719310,52.711590,0.000000
+            4.721664,52.708243,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

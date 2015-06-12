@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420905 Hooge Nespolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.583284,51.817580,0.000000
+            4.566132,51.812679,0.000000
+            4.560394,51.818741,0.000000
+            4.560376,51.818760,0.000000
+            4.558906,51.823059,0.000000
+            4.562848,51.823619,0.000000
+            4.565349,51.824829,0.000000
+            4.567686,51.827945,0.000000
+            4.572929,51.828776,0.000000
+            4.570328,51.827535,0.000000
+            4.568674,51.822571,0.000000
+            4.574166,51.820487,0.000000
+            4.576963,51.818365,0.000000
+            4.580425,51.818294,0.000000
+            4.583284,51.817580,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

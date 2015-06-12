@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290601 Heijenrade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.885233,50.782368,0.000000
+            5.882813,50.775034,0.000000
+            5.884655,50.771763,0.000000
+            5.886514,50.769642,0.000000
+            5.886267,50.769626,0.000000
+            5.886225,50.769695,0.000000
+            5.876254,50.765242,0.000000
+            5.870584,50.765266,0.000000
+            5.870548,50.765257,0.000000
+            5.868665,50.771656,0.000000
+            5.868019,50.772680,0.000000
+            5.864782,50.773408,0.000000
+            5.862822,50.778295,0.000000
+            5.862381,50.781338,0.000000
+            5.867018,50.781052,0.000000
+            5.867749,50.784252,0.000000
+            5.873763,50.783031,0.000000
+            5.885233,50.782368,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

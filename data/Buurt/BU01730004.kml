@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01730004 Het Inslag en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.923922,52.304458,0.000000
+            6.922047,52.303910,0.000000
+            6.919264,52.305873,0.000000
+            6.910829,52.307583,0.000000
+            6.917358,52.315085,0.000000
+            6.918970,52.314237,0.000000
+            6.918560,52.309790,0.000000
+            6.923922,52.304458,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

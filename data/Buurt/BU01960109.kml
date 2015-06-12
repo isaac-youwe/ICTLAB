@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01960109 Verspreide huizen Lobberdense Waard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.057060,51.871590,0.000000
+            6.054740,51.869300,0.000000
+            6.045090,51.871066,0.000000
+            6.045075,51.871068,0.000000
+            6.039396,51.874051,0.000000
+            6.036424,51.875612,0.000000
+            6.032119,51.879232,0.000000
+            6.027825,51.883750,0.000000
+            6.024997,51.889159,0.000000
+            6.024872,51.889481,0.000000
+            6.026422,51.889484,0.000000
+            6.030256,51.888120,0.000000
+            6.035813,51.887524,0.000000
+            6.041404,51.885573,0.000000
+            6.057328,51.885401,0.000000
+            6.060352,51.884585,0.000000
+            6.059733,51.883727,0.000000
+            6.061384,51.880233,0.000000
+            6.070107,51.875435,0.000000
+            6.057060,51.871590,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

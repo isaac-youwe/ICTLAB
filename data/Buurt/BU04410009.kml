@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04410009 Verspreide huizen ten westen van Schagen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.754345,52.774591,0.000000
+            4.745466,52.773645,0.000000
+            4.740994,52.775418,0.000000
+            4.745348,52.781734,0.000000
+            4.750863,52.787707,0.000000
+            4.751185,52.788056,0.000000
+            4.765921,52.794426,0.000000
+            4.773296,52.797160,0.000000
+            4.776224,52.799872,0.000000
+            4.776681,52.800073,0.000000
+            4.784113,52.797323,0.000000
+            4.787720,52.793057,0.000000
+            4.789600,52.789843,0.000000
+            4.781843,52.789287,0.000000
+            4.772875,52.786735,0.000000
+            4.775520,52.783592,0.000000
+            4.773166,52.781614,0.000000
+            4.774732,52.779101,0.000000
+            4.766176,52.776451,0.000000
+            4.754508,52.774617,0.000000
+            4.754345,52.774591,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

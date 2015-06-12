@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02520108 Verspreide huizen in de polder Balgoij en Einde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.740537,51.777991,0.000000
+            5.742069,51.774357,0.000000
+            5.736516,51.774502,0.000000
+            5.735553,51.772754,0.000000
+            5.738696,51.771758,0.000000
+            5.739656,51.770163,0.000000
+            5.736322,51.769063,0.000000
+            5.732075,51.771723,0.000000
+            5.731760,51.771822,0.000000
+            5.729184,51.772631,0.000000
+            5.732123,51.778016,0.000000
+            5.740537,51.777991,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

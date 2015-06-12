@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02021366 Schaarsbergen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.875484,52.032531,0.000000
+            5.875989,52.025155,0.000000
+            5.873272,52.025868,0.000000
+            5.877114,52.015123,0.000000
+            5.872270,52.013956,0.000000
+            5.869825,52.026666,0.000000
+            5.863559,52.027867,0.000000
+            5.862685,52.032051,0.000000
+            5.870641,52.031767,0.000000
+            5.875484,52.032531,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

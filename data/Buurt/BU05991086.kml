@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991086 Afrikaanderwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.502309,51.898351,0.000000
+            4.495246,51.897463,0.000000
+            4.494928,51.898112,0.000000
+            4.496376,51.904270,0.000000
+            4.497118,51.905642,0.000000
+            4.504923,51.902295,0.000000
+            4.508954,51.899190,0.000000
+            4.502309,51.898351,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

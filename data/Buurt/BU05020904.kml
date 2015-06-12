@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020904 Rijckevorselpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.562997,51.921628,0.000000
+            4.562086,51.921108,0.000000
+            4.560811,51.921908,0.000000
+            4.561382,51.922149,0.000000
+            4.564257,51.923967,0.000000
+            4.565637,51.925723,0.000000
+            4.568880,51.925524,0.000000
+            4.568643,51.924272,0.000000
+            4.562997,51.921628,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08090200 De Moer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.014723,51.626520,0.000000
+            5.015092,51.625152,0.000000
+            5.019746,51.625294,0.000000
+            5.020178,51.622525,0.000000
+            5.017264,51.622325,0.000000
+            5.018650,51.615356,0.000000
+            5.012714,51.615719,0.000000
+            5.011892,51.622435,0.000000
+            4.998673,51.622425,0.000000
+            4.998512,51.622914,0.000000
+            4.997866,51.624871,0.000000
+            5.012279,51.625111,0.000000
+            5.012165,51.626448,0.000000
+            5.014723,51.626520,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

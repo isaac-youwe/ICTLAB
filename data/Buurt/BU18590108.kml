@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590108 Verspreide huizen Olden en Eibergen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.631741,52.121960,0.000000
+            6.639142,52.107954,0.000000
+            6.634763,52.107786,0.000000
+            6.632970,52.105867,0.000000
+            6.631982,52.102964,0.000000
+            6.634315,52.098314,0.000000
+            6.622648,52.093011,0.000000
+            6.608084,52.090676,0.000000
+            6.596499,52.090933,0.000000
+            6.582996,52.086669,0.000000
+            6.579185,52.093587,0.000000
+            6.586350,52.091545,0.000000
+            6.601740,52.110408,0.000000
+            6.599075,52.111070,0.000000
+            6.603409,52.120621,0.000000
+            6.616835,52.121479,0.000000
+            6.623415,52.120117,0.000000
+            6.624375,52.121641,0.000000
+            6.630246,52.121086,0.000000
+            6.631741,52.121960,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

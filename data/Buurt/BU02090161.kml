@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02090161 Beuningen Beuningse Plas</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.766909,51.854304,0.000000
+            5.771280,51.853218,0.000000
+            5.774699,51.854244,0.000000
+            5.776426,51.853800,0.000000
+            5.777623,51.852922,0.000000
+            5.769168,51.845485,0.000000
+            5.758700,51.848417,0.000000
+            5.759977,51.850453,0.000000
+            5.764261,51.854692,0.000000
+            5.766909,51.854304,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

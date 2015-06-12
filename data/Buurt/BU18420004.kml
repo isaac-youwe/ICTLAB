@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18420004 Gaag-Schipluiden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.313454,51.959637,0.000000
+            4.297106,51.957314,0.000000
+            4.281636,51.970194,0.000000
+            4.282491,51.970202,0.000000
+            4.285401,51.970229,0.000000
+            4.289723,51.972068,0.000000
+            4.286791,51.972939,0.000000
+            4.295413,51.977515,0.000000
+            4.299680,51.981140,0.000000
+            4.302742,51.980069,0.000000
+            4.310517,51.973549,0.000000
+            4.311163,51.969372,0.000000
+            4.312265,51.961346,0.000000
+            4.313454,51.959637,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

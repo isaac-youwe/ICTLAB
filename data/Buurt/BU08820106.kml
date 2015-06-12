@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08820106 Exdel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.018902,50.906830,0.000000
+            6.018883,50.904558,0.000000
+            6.016694,50.904903,0.000000
+            6.010819,50.905415,0.000000
+            6.007568,50.906822,0.000000
+            6.015013,50.911153,0.000000
+            6.020201,50.909178,0.000000
+            6.018902,50.906830,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

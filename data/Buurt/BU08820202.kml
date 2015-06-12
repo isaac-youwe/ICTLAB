@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08820202 Parkheide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.039216,50.912991,0.000000
+            6.035056,50.912142,0.000000
+            6.030417,50.914150,0.000000
+            6.032234,50.916044,0.000000
+            6.030920,50.917315,0.000000
+            6.034938,50.920502,0.000000
+            6.039584,50.919490,0.000000
+            6.044298,50.916635,0.000000
+            6.041233,50.915468,0.000000
+            6.039216,50.912991,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

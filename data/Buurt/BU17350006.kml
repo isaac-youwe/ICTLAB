@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17350006 Waterhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.584819,52.224344,0.000000
+            6.571255,52.222554,0.000000
+            6.572164,52.223828,0.000000
+            6.569785,52.227567,0.000000
+            6.569924,52.229024,0.000000
+            6.576027,52.230298,0.000000
+            6.587880,52.230245,0.000000
+            6.587530,52.227954,0.000000
+            6.584665,52.227965,0.000000
+            6.584819,52.224344,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

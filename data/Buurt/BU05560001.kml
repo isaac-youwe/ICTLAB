@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05560001 Dijkpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.230858,51.944407,0.000000
+            4.232253,51.942749,0.000000
+            4.236593,51.943691,0.000000
+            4.239524,51.942821,0.000000
+            4.241002,51.941936,0.000000
+            4.241292,51.941715,0.000000
+            4.257316,51.929508,0.000000
+            4.261510,51.926994,0.000000
+            4.261745,51.926853,0.000000
+            4.265724,51.925268,0.000000
+            4.253330,51.921560,0.000000
+            4.252592,51.921514,0.000000
+            4.245750,51.927219,0.000000
+            4.248112,51.928766,0.000000
+            4.245395,51.930879,0.000000
+            4.239160,51.931748,0.000000
+            4.235103,51.934995,0.000000
+            4.233211,51.939597,0.000000
+            4.230858,51.944407,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

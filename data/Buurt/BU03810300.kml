@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03810300 Lomanplein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.158025,52.278478,0.000000
+            5.154501,52.276939,0.000000
+            5.146902,52.278994,0.000000
+            5.151241,52.280781,0.000000
+            5.156412,52.282379,0.000000
+            5.156459,52.282290,0.000000
+            5.157757,52.279129,0.000000
+            5.158025,52.278478,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

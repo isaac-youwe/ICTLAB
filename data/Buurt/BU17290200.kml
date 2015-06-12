@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290200 Eys-Overeys</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.947903,50.822061,0.000000
+            5.943018,50.821741,0.000000
+            5.930687,50.822056,0.000000
+            5.929334,50.828582,0.000000
+            5.938014,50.828952,0.000000
+            5.953957,50.827574,0.000000
+            5.956230,50.824278,0.000000
+            5.947903,50.822061,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

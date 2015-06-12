@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610400 De Hoef III en IV</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.727751,52.629481,0.000000
+            4.723716,52.625091,0.000000
+            4.721920,52.622964,0.000000
+            4.716613,52.625180,0.000000
+            4.715136,52.625172,0.000000
+            4.715132,52.625415,0.000000
+            4.714665,52.626275,0.000000
+            4.712483,52.630293,0.000000
+            4.716299,52.633768,0.000000
+            4.727751,52.629481,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

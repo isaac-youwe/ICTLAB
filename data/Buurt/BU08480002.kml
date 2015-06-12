@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08480002 Industrieterrein Ekkersrijt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.450573,51.495334,0.000000
+            5.449846,51.495334,0.000000
+            5.452545,51.503751,0.000000
+            5.475340,51.504520,0.000000
+            5.482714,51.504958,0.000000
+            5.491438,51.505157,0.000000
+            5.492586,51.502342,0.000000
+            5.494748,51.501212,0.000000
+            5.496110,51.497070,0.000000
+            5.479619,51.496226,0.000000
+            5.479379,51.496214,0.000000
+            5.469297,51.496221,0.000000
+            5.468870,51.496201,0.000000
+            5.451167,51.495362,0.000000
+            5.450573,51.495334,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

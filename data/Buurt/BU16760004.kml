@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16760004 Kaaskenswater</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.937892,51.656543,0.000000
+            3.934854,51.651564,0.000000
+            3.921686,51.654690,0.000000
+            3.920880,51.654140,0.000000
+            3.917934,51.654182,0.000000
+            3.917481,51.654699,0.000000
+            3.920209,51.655686,0.000000
+            3.922870,51.661622,0.000000
+            3.924459,51.661621,0.000000
+            3.925509,51.660539,0.000000
+            3.925507,51.657504,0.000000
+            3.937892,51.656543,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16710001 Runrot en Papendijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.474783,51.728152,0.000000
+            5.464218,51.725331,0.000000
+            5.463677,51.726156,0.000000
+            5.459122,51.725536,0.000000
+            5.459164,51.730216,0.000000
+            5.461016,51.730494,0.000000
+            5.461912,51.733577,0.000000
+            5.472698,51.736091,0.000000
+            5.474275,51.729101,0.000000
+            5.474375,51.728660,0.000000
+            5.474783,51.728152,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

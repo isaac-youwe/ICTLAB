@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550707 Verspreide huizen ten westen van Berkel-Enschot</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.127092,51.571528,0.000000
+            5.121955,51.569746,0.000000
+            5.119452,51.571585,0.000000
+            5.123885,51.577060,0.000000
+            5.116133,51.580854,0.000000
+            5.118211,51.585207,0.000000
+            5.124388,51.587914,0.000000
+            5.131470,51.586050,0.000000
+            5.127212,51.581174,0.000000
+            5.131319,51.579747,0.000000
+            5.125149,51.574861,0.000000
+            5.127092,51.571528,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

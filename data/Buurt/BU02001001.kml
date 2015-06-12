@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02001001 Uddel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.785076,52.266745,0.000000
+            5.788375,52.262181,0.000000
+            5.790108,52.262403,0.000000
+            5.790720,52.261717,0.000000
+            5.786997,52.260288,0.000000
+            5.786683,52.256315,0.000000
+            5.785709,52.254525,0.000000
+            5.782492,52.254384,0.000000
+            5.781387,52.255222,0.000000
+            5.776054,52.253495,0.000000
+            5.775675,52.254523,0.000000
+            5.773632,52.259422,0.000000
+            5.776249,52.261614,0.000000
+            5.776759,52.263358,0.000000
+            5.781451,52.262508,0.000000
+            5.781360,52.266151,0.000000
+            5.785076,52.266745,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04890512 Buitenoord 2</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.549297,51.843543,0.000000
+            4.547492,51.842965,0.000000
+            4.540225,51.845383,0.000000
+            4.541358,51.846634,0.000000
+            4.539952,51.848112,0.000000
+            4.541298,51.849829,0.000000
+            4.546358,51.850104,0.000000
+            4.546970,51.846495,0.000000
+            4.549297,51.843543,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

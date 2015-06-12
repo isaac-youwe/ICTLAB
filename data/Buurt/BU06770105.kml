@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770105 Dullaert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.052262,51.285114,0.000000
+            4.050927,51.283698,0.000000
+            4.048208,51.284110,0.000000
+            4.047450,51.283314,0.000000
+            4.046280,51.283006,0.000000
+            4.039944,51.285072,0.000000
+            4.044700,51.291423,0.000000
+            4.044648,51.295873,0.000000
+            4.049621,51.296152,0.000000
+            4.058066,51.293487,0.000000
+            4.060825,51.292616,0.000000
+            4.052262,51.285114,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

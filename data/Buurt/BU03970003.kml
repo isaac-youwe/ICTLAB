@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03970003 Heemst Dreef Schildersbuurt en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.636942,52.359537,0.000000
+            4.635535,52.355932,0.000000
+            4.635538,52.355777,0.000000
+            4.629750,52.357438,0.000000
+            4.628425,52.351562,0.000000
+            4.629988,52.350307,0.000000
+            4.623966,52.345251,0.000000
+            4.622024,52.345001,0.000000
+            4.623531,52.346986,0.000000
+            4.623909,52.356358,0.000000
+            4.624939,52.356752,0.000000
+            4.622348,52.357384,0.000000
+            4.620278,52.356904,0.000000
+            4.615487,52.357914,0.000000
+            4.617924,52.361212,0.000000
+            4.626635,52.361269,0.000000
+            4.636375,52.361331,0.000000
+            4.636912,52.361334,0.000000
+            4.636942,52.359537,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

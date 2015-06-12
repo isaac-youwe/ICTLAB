@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00150201 Opende-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.224214,53.171789,0.000000
+            6.213438,53.170818,0.000000
+            6.212572,53.178057,0.000000
+            6.226488,53.179402,0.000000
+            6.238420,53.181978,0.000000
+            6.238501,53.180215,0.000000
+            6.243486,53.178495,0.000000
+            6.241872,53.177920,0.000000
+            6.235597,53.176952,0.000000
+            6.224214,53.171789,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

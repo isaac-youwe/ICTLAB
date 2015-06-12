@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130400 Leuvenheim kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.150859,52.078438,0.000000
+            6.141558,52.071427,0.000000
+            6.139059,52.072071,0.000000
+            6.139036,52.073632,0.000000
+            6.133846,52.075560,0.000000
+            6.136234,52.077398,0.000000
+            6.139573,52.077698,0.000000
+            6.142051,52.076456,0.000000
+            6.148197,52.079105,0.000000
+            6.150859,52.078438,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

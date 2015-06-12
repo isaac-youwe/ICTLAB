@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000807 Paleispark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.940174,52.239228,0.000000
+            5.942926,52.237056,0.000000
+            5.949740,52.238343,0.000000
+            5.950516,52.235210,0.000000
+            5.948432,52.234750,0.000000
+            5.949399,52.229469,0.000000
+            5.945550,52.227437,0.000000
+            5.939694,52.226801,0.000000
+            5.929710,52.227263,0.000000
+            5.926675,52.233416,0.000000
+            5.923974,52.236478,0.000000
+            5.924133,52.239829,0.000000
+            5.940174,52.239228,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

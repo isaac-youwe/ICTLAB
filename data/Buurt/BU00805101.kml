@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00805101 Wirdum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.808265,53.147332,0.000000
+            5.798862,53.144159,0.000000
+            5.796982,53.144375,0.000000
+            5.794879,53.147919,0.000000
+            5.800000,53.150209,0.000000
+            5.799518,53.150881,0.000000
+            5.805874,53.152263,0.000000
+            5.806765,53.154355,0.000000
+            5.812213,53.152053,0.000000
+            5.809996,53.149506,0.000000
+            5.808420,53.148944,0.000000
+            5.808265,53.147332,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

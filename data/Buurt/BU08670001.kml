@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08670001 Besoijen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.057442,51.691512,0.000000
+            5.058861,51.683402,0.000000
+            5.047645,51.681741,0.000000
+            5.047255,51.682763,0.000000
+            5.045289,51.683546,0.000000
+            5.043920,51.686743,0.000000
+            5.041827,51.686716,0.000000
+            5.041269,51.688487,0.000000
+            5.043487,51.688103,0.000000
+            5.049438,51.688909,0.000000
+            5.048925,51.690786,0.000000
+            5.057442,51.691512,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

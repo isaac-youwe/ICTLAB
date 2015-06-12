@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700302 Tzum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.569475,53.155029,0.000000
+            5.566631,53.153390,0.000000
+            5.562680,53.153868,0.000000
+            5.559526,53.156327,0.000000
+            5.558750,53.159700,0.000000
+            5.561014,53.161349,0.000000
+            5.565143,53.161116,0.000000
+            5.568394,53.159343,0.000000
+            5.569475,53.155029,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

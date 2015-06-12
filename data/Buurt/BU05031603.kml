@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05031603 Bedrijventerrein Delftse Poort-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.376317,52.015045,0.000000
+            4.378053,52.013601,0.000000
+            4.381304,52.014315,0.000000
+            4.382655,52.013270,0.000000
+            4.385224,52.012049,0.000000
+            4.379472,52.010150,0.000000
+            4.375638,52.013442,0.000000
+            4.374642,52.014376,0.000000
+            4.376317,52.015045,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

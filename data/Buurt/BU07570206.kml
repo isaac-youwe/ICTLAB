@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07570206 Hezelaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.388522,51.561041,0.000000
+            5.384034,51.560091,0.000000
+            5.378774,51.560129,0.000000
+            5.381038,51.563385,0.000000
+            5.378507,51.564657,0.000000
+            5.380704,51.569971,0.000000
+            5.386978,51.571528,0.000000
+            5.395870,51.571696,0.000000
+            5.396073,51.569091,0.000000
+            5.394379,51.566224,0.000000
+            5.388522,51.561041,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09860109 Verspreide huizen Fromberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.905632,50.865150,0.000000
+            5.912246,50.855430,0.000000
+            5.916304,50.851428,0.000000
+            5.917189,50.848669,0.000000
+            5.916897,50.848670,0.000000
+            5.906937,50.846917,0.000000
+            5.898377,50.843359,0.000000
+            5.891268,50.842491,0.000000
+            5.891203,50.842597,0.000000
+            5.888477,50.846999,0.000000
+            5.884256,50.850613,0.000000
+            5.877203,50.855138,0.000000
+            5.876694,50.855194,0.000000
+            5.873547,50.855539,0.000000
+            5.882124,50.861991,0.000000
+            5.888194,50.858806,0.000000
+            5.905632,50.865150,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03020009 Verspreide huizen bosgebied Hulshorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.753929,52.320134,0.000000
+            5.748580,52.318053,0.000000
+            5.748045,52.318219,0.000000
+            5.705579,52.328228,0.000000
+            5.711467,52.330909,0.000000
+            5.712954,52.333602,0.000000
+            5.712980,52.337197,0.000000
+            5.711526,52.338999,0.000000
+            5.705662,52.339914,0.000000
+            5.705682,52.342610,0.000000
+            5.705512,52.343034,0.000000
+            5.716374,52.347095,0.000000
+            5.718300,52.349641,0.000000
+            5.730604,52.355107,0.000000
+            5.741325,52.362267,0.000000
+            5.757054,52.367201,0.000000
+            5.757377,52.367212,0.000000
+            5.767341,52.353212,0.000000
+            5.774542,52.346264,0.000000
+            5.764853,52.340381,0.000000
+            5.757385,52.333048,0.000000
+            5.753929,52.320134,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

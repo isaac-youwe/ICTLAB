@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350205 Caberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.676270,50.855756,0.000000
+            5.667056,50.855727,0.000000
+            5.663632,50.861238,0.000000
+            5.664136,50.861327,0.000000
+            5.672172,50.862854,0.000000
+            5.674735,50.862426,0.000000
+            5.676558,50.861102,0.000000
+            5.679029,50.857450,0.000000
+            5.678139,50.856455,0.000000
+            5.676270,50.855756,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

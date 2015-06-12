@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02020529 IJsseloord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.966499,51.972166,0.000000
+            5.959358,51.969566,0.000000
+            5.955798,51.971943,0.000000
+            5.963695,51.976435,0.000000
+            5.976460,51.980736,0.000000
+            5.976188,51.982298,0.000000
+            5.968356,51.986021,0.000000
+            5.969585,51.985635,0.000000
+            5.980904,51.981187,0.000000
+            5.981173,51.981082,0.000000
+            5.989823,51.974745,0.000000
+            5.966499,51.972166,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

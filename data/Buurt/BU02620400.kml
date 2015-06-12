@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02620400 Gorssel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.209935,52.210958,0.000000
+            6.209323,52.207908,0.000000
+            6.211230,52.203015,0.000000
+            6.220156,52.205209,0.000000
+            6.222107,52.203597,0.000000
+            6.220774,52.203126,0.000000
+            6.220749,52.201165,0.000000
+            6.222843,52.198599,0.000000
+            6.209802,52.194934,0.000000
+            6.206522,52.191600,0.000000
+            6.203524,52.191228,0.000000
+            6.201891,52.191579,0.000000
+            6.196400,52.197092,0.000000
+            6.194599,52.203930,0.000000
+            6.191784,52.207823,0.000000
+            6.192819,52.208246,0.000000
+            6.193051,52.210375,0.000000
+            6.198278,52.210068,0.000000
+            6.209935,52.210958,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

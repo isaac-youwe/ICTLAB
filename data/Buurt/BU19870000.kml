@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19870000 Zuidbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.866554,53.169351,0.000000
+            6.873131,53.163117,0.000000
+            6.893454,53.163995,0.000000
+            6.893911,53.161155,0.000000
+            6.885997,53.160759,0.000000
+            6.877149,53.159227,0.000000
+            6.874092,53.157565,0.000000
+            6.873023,53.160005,0.000000
+            6.860008,53.158727,0.000000
+            6.850234,53.157765,0.000000
+            6.849379,53.164330,0.000000
+            6.854802,53.164371,0.000000
+            6.856973,53.168639,0.000000
+            6.866554,53.169351,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

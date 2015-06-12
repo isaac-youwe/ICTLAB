@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15090300 Varsseveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.460290,51.946684,0.000000
+            6.463119,51.946163,0.000000
+            6.470169,51.948576,0.000000
+            6.478370,51.940504,0.000000
+            6.479769,51.940707,0.000000
+            6.480447,51.942769,0.000000
+            6.482888,51.942832,0.000000
+            6.482105,51.939306,0.000000
+            6.477348,51.935774,0.000000
+            6.463701,51.937989,0.000000
+            6.453658,51.936340,0.000000
+            6.446897,51.944071,0.000000
+            6.449214,51.945944,0.000000
+            6.443480,51.946433,0.000000
+            6.443345,51.948408,0.000000
+            6.459057,51.951220,0.000000
+            6.460290,51.946684,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

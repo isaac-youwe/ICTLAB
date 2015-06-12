@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16210435 Bergboezem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.439059,51.972018,0.000000
+            4.435557,51.971225,0.000000
+            4.435295,51.971538,0.000000
+            4.427903,51.976872,0.000000
+            4.423479,51.979533,0.000000
+            4.446504,51.992305,0.000000
+            4.446746,51.992497,0.000000
+            4.448713,51.991188,0.000000
+            4.446635,51.983407,0.000000
+            4.440333,51.979221,0.000000
+            4.432023,51.977398,0.000000
+            4.439059,51.972018,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

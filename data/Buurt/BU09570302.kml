@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09570302 Tegelarijeveld-Broekhin</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.019390,51.221186,0.000000
+            6.023833,51.209939,0.000000
+            6.027339,51.210080,0.000000
+            6.029762,51.208263,0.000000
+            6.027582,51.205109,0.000000
+            6.023254,51.204139,0.000000
+            6.020488,51.201348,0.000000
+            6.015148,51.200136,0.000000
+            6.012235,51.199643,0.000000
+            6.012731,51.200585,0.000000
+            6.007339,51.206700,0.000000
+            6.012260,51.211379,0.000000
+            6.018078,51.219517,0.000000
+            6.019390,51.221186,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

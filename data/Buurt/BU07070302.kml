@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07070302 Middelkoop en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.067368,51.919221,0.000000
+            5.060534,51.913249,0.000000
+            5.056666,51.913986,0.000000
+            5.034767,51.917461,0.000000
+            5.015775,51.921825,0.000000
+            5.022866,51.925162,0.000000
+            5.029162,51.925405,0.000000
+            5.032505,51.928802,0.000000
+            5.037340,51.938574,0.000000
+            5.042795,51.937692,0.000000
+            5.064241,51.934504,0.000000
+            5.078661,51.929794,0.000000
+            5.067368,51.919221,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

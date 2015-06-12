@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15250102 s-Gravendamseweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.505187,52.240573,0.000000
+            4.499077,52.237834,0.000000
+            4.491739,52.242109,0.000000
+            4.495366,52.244391,0.000000
+            4.495973,52.244773,0.000000
+            4.496813,52.245301,0.000000
+            4.496931,52.245376,0.000000
+            4.505187,52.240573,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

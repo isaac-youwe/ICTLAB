@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000606 Koegras-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.782011,52.894790,0.000000
+            4.776478,52.887954,0.000000
+            4.776458,52.887922,0.000000
+            4.770662,52.878936,0.000000
+            4.769208,52.878929,0.000000
+            4.773344,52.884036,0.000000
+            4.752529,52.885724,0.000000
+            4.753615,52.891927,0.000000
+            4.762061,52.891275,0.000000
+            4.766169,52.896361,0.000000
+            4.782011,52.894790,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

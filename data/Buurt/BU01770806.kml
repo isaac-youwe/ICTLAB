@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770806 Verspreide huizen Twentseweg en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.290439,52.442864,0.000000
+            6.285066,52.442553,0.000000
+            6.280727,52.443252,0.000000
+            6.266534,52.446568,0.000000
+            6.261339,52.451250,0.000000
+            6.248261,52.456632,0.000000
+            6.228181,52.459436,0.000000
+            6.221412,52.462905,0.000000
+            6.212504,52.465107,0.000000
+            6.214314,52.465094,0.000000
+            6.236404,52.465837,0.000000
+            6.245556,52.464168,0.000000
+            6.246671,52.463965,0.000000
+            6.254011,52.463013,0.000000
+            6.270224,52.458794,0.000000
+            6.278893,52.456538,0.000000
+            6.278899,52.456536,0.000000
+            6.278718,52.447548,0.000000
+            6.290467,52.446561,0.000000
+            6.290394,52.442966,0.000000
+            6.290439,52.442864,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

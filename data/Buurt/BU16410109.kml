@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16410109 Verspreide huizen Linnerveld en Weerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.938691,51.161672,0.000000
+            5.921796,51.154776,0.000000
+            5.917433,51.157246,0.000000
+            5.921218,51.159473,0.000000
+            5.917336,51.161991,0.000000
+            5.915866,51.164204,0.000000
+            5.910553,51.166125,0.000000
+            5.922921,51.170615,0.000000
+            5.923455,51.169583,0.000000
+            5.927735,51.168664,0.000000
+            5.938691,51.161672,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

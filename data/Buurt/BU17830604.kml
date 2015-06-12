@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830604 Kwintsheul-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.253876,52.014463,0.000000
+            4.252659,52.014068,0.000000
+            4.252256,52.015573,0.000000
+            4.254353,52.016431,0.000000
+            4.253303,52.017509,0.000000
+            4.255479,52.018655,0.000000
+            4.258704,52.018159,0.000000
+            4.253876,52.014463,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

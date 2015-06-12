@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00960000 Oost-Vlieland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.076992,53.301083,0.000000
+            5.079748,53.297766,0.000000
+            5.087090,53.297857,0.000000
+            5.090816,53.299596,0.000000
+            5.093519,53.299838,0.000000
+            5.094375,53.297036,0.000000
+            5.090212,53.295359,0.000000
+            5.085700,53.297145,0.000000
+            5.075206,53.296220,0.000000
+            5.063220,53.294391,0.000000
+            5.061727,53.293488,0.000000
+            5.061511,53.293227,0.000000
+            5.059435,53.293548,0.000000
+            5.058978,53.296036,0.000000
+            5.070498,53.298904,0.000000
+            5.071350,53.300359,0.000000
+            5.074706,53.301258,0.000000
+            5.076992,53.301083,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

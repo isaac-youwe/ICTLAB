@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03620013 Groenelaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.873955,52.281484,0.000000
+            4.873558,52.280943,0.000000
+            4.870265,52.281387,0.000000
+            4.861045,52.284118,0.000000
+            4.859968,52.285436,0.000000
+            4.869209,52.298622,0.000000
+            4.879319,52.296860,0.000000
+            4.872075,52.282348,0.000000
+            4.873955,52.281484,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

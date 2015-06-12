@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00980702 De Hoeve</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.100238,52.879579,0.000000
+            6.095468,52.878228,0.000000
+            6.084203,52.879670,0.000000
+            6.075495,52.878416,0.000000
+            6.074867,52.879843,0.000000
+            6.069134,52.883371,0.000000
+            6.067795,52.889464,0.000000
+            6.072330,52.893335,0.000000
+            6.081673,52.899201,0.000000
+            6.082437,52.899911,0.000000
+            6.097120,52.889933,0.000000
+            6.104138,52.886906,0.000000
+            6.107748,52.884424,0.000000
+            6.107225,52.881861,0.000000
+            6.100238,52.879579,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

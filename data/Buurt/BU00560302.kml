@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00560302 Den Ham</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.430710,53.269031,0.000000
+            6.428461,53.268266,0.000000
+            6.425360,53.269254,0.000000
+            6.426196,53.271574,0.000000
+            6.423933,53.275613,0.000000
+            6.424309,53.277366,0.000000
+            6.426618,53.278032,0.000000
+            6.429309,53.277308,0.000000
+            6.431692,53.274261,0.000000
+            6.430710,53.269031,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

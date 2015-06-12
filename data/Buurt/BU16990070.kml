@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990070 Roderwolde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.476920,53.172033,0.000000
+            6.477647,53.170001,0.000000
+            6.481711,53.170365,0.000000
+            6.482492,53.168852,0.000000
+            6.475408,53.168408,0.000000
+            6.468711,53.165140,0.000000
+            6.467104,53.165554,0.000000
+            6.464949,53.166635,0.000000
+            6.468462,53.169432,0.000000
+            6.467571,53.172088,0.000000
+            6.476125,53.173979,0.000000
+            6.475469,53.175652,0.000000
+            6.481430,53.175840,0.000000
+            6.482862,53.172785,0.000000
+            6.476920,53.172033,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

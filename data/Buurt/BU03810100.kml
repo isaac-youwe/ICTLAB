@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03810100 Prins Hendrikkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.163084,52.280076,0.000000
+            5.157757,52.279129,0.000000
+            5.156459,52.282290,0.000000
+            5.156412,52.282379,0.000000
+            5.157094,52.282590,0.000000
+            5.161486,52.283498,0.000000
+            5.161929,52.283295,0.000000
+            5.161930,52.283295,0.000000
+            5.161973,52.283174,0.000000
+            5.162043,52.282979,0.000000
+            5.163084,52.280076,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00400102 Meenteweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.813722,53.239723,0.000000
+            6.804974,53.235114,0.000000
+            6.799760,53.238025,0.000000
+            6.794771,53.242254,0.000000
+            6.793468,53.244479,0.000000
+            6.794857,53.247331,0.000000
+            6.797176,53.247539,0.000000
+            6.811057,53.243546,0.000000
+            6.815356,53.243122,0.000000
+            6.818176,53.240750,0.000000
+            6.813722,53.239723,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

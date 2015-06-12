@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02021269 Sonsbeek, Zijpendaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.908207,51.988610,0.000000
+            5.904645,51.985789,0.000000
+            5.900787,51.988129,0.000000
+            5.897545,51.992820,0.000000
+            5.892615,51.995198,0.000000
+            5.892326,51.996262,0.000000
+            5.893249,51.997262,0.000000
+            5.890647,52.002712,0.000000
+            5.888107,52.003692,0.000000
+            5.895198,52.006106,0.000000
+            5.898289,52.006363,0.000000
+            5.900509,52.002925,0.000000
+            5.900686,52.000662,0.000000
+            5.907593,51.999224,0.000000
+            5.907721,51.997361,0.000000
+            5.910562,51.994208,0.000000
+            5.909993,51.993349,0.000000
+            5.908492,51.990745,0.000000
+            5.908207,51.988610,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01480607 Schanebroek 2 en Wolthaarshoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.343641,52.436132,0.000000
+            6.381300,52.429635,0.000000
+            6.381260,52.427856,0.000000
+            6.368028,52.427966,0.000000
+            6.356285,52.428961,0.000000
+            6.356226,52.426265,0.000000
+            6.348836,52.424528,0.000000
+            6.342974,52.425474,0.000000
+            6.342994,52.426373,0.000000
+            6.337132,52.427319,0.000000
+            6.334134,52.424646,0.000000
+            6.322505,52.431031,0.000000
+            6.322343,52.431072,0.000000
+            6.315191,52.432886,0.000000
+            6.314738,52.432821,0.000000
+            6.314848,52.433078,0.000000
+            6.341543,52.436583,0.000000
+            6.343641,52.436132,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

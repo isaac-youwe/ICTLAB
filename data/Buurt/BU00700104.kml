@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700104 Tzummarum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.549369,53.244761,0.000000
+            5.554585,53.241734,0.000000
+            5.560793,53.242742,0.000000
+            5.562805,53.240797,0.000000
+            5.562081,53.239706,0.000000
+            5.547570,53.234557,0.000000
+            5.548620,53.232125,0.000000
+            5.546168,53.230825,0.000000
+            5.544387,53.230985,0.000000
+            5.541905,53.233116,0.000000
+            5.537020,53.231190,0.000000
+            5.532742,53.231013,0.000000
+            5.530214,53.232487,0.000000
+            5.529433,53.236419,0.000000
+            5.537233,53.240425,0.000000
+            5.549369,53.244761,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

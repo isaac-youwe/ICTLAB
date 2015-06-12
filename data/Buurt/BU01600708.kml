@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600708 Verspreide huizen Slagharen-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.571460,52.643367,0.000000
+            6.587436,52.631691,0.000000
+            6.570947,52.623554,0.000000
+            6.572612,52.622316,0.000000
+            6.566079,52.619064,0.000000
+            6.564941,52.619863,0.000000
+            6.560706,52.622981,0.000000
+            6.565319,52.625379,0.000000
+            6.560940,52.628551,0.000000
+            6.564587,52.630665,0.000000
+            6.558476,52.635118,0.000000
+            6.552133,52.631688,0.000000
+            6.550652,52.631727,0.000000
+            6.549122,52.633212,0.000000
+            6.563422,52.640570,0.000000
+            6.571460,52.643367,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280607 Witte Hoef</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.533177,51.747115,0.000000
+            5.532884,51.744496,0.000000
+            5.530655,51.743955,0.000000
+            5.528600,51.744951,0.000000
+            5.523905,51.744900,0.000000
+            5.520813,51.744201,0.000000
+            5.518984,51.742840,0.000000
+            5.515867,51.745336,0.000000
+            5.518313,51.747150,0.000000
+            5.517479,51.748170,0.000000
+            5.528640,51.751570,0.000000
+            5.533619,51.752407,0.000000
+            5.533177,51.747115,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

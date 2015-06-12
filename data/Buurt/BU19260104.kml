@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19260104 Klapwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.453692,52.010950,0.000000
+            4.444273,52.008625,0.000000
+            4.441768,52.012763,0.000000
+            4.440297,52.015382,0.000000
+            4.441996,52.015947,0.000000
+            4.441526,52.016674,0.000000
+            4.443525,52.017899,0.000000
+            4.448252,52.019208,0.000000
+            4.449966,52.014008,0.000000
+            4.452465,52.012875,0.000000
+            4.453692,52.010950,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15090000 Ulft-Centrum en Ulft-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.386822,51.894716,0.000000
+            6.389083,51.892163,0.000000
+            6.392310,51.892475,0.000000
+            6.396266,51.891661,0.000000
+            6.396963,51.890243,0.000000
+            6.395322,51.889187,0.000000
+            6.388229,51.887301,0.000000
+            6.387772,51.883025,0.000000
+            6.385129,51.882214,0.000000
+            6.381712,51.882597,0.000000
+            6.379963,51.887311,0.000000
+            6.381140,51.891032,0.000000
+            6.376355,51.892390,0.000000
+            6.376573,51.894554,0.000000
+            6.379741,51.894391,0.000000
+            6.383091,51.897280,0.000000
+            6.386822,51.894716,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

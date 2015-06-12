@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640302 Bartelinkshoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.837108,52.279610,0.000000
+            6.839368,52.278047,0.000000
+            6.842039,52.278224,0.000000
+            6.842449,52.277685,0.000000
+            6.837694,52.276766,0.000000
+            6.828101,52.276665,0.000000
+            6.823061,52.277712,0.000000
+            6.825827,52.282121,0.000000
+            6.827955,52.282793,0.000000
+            6.832608,52.282269,0.000000
+            6.837108,52.279610,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

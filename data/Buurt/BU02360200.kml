@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02360200 Beesd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.188855,51.883094,0.000000
+            5.187777,51.882101,0.000000
+            5.185892,51.882779,0.000000
+            5.184192,51.889187,0.000000
+            5.190774,51.892752,0.000000
+            5.190194,51.894711,0.000000
+            5.192912,51.895859,0.000000
+            5.200257,51.888405,0.000000
+            5.198627,51.886704,0.000000
+            5.198936,51.884353,0.000000
+            5.188855,51.883094,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05670003 Zuidplaspolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.621540,51.976018,0.000000
+            4.622891,51.975700,0.000000
+            4.623981,51.976294,0.000000
+            4.625415,51.975509,0.000000
+            4.626443,51.974127,0.000000
+            4.624746,51.972158,0.000000
+            4.617414,51.965876,0.000000
+            4.609425,51.968864,0.000000
+            4.606486,51.970796,0.000000
+            4.603458,51.971258,0.000000
+            4.616983,51.978607,0.000000
+            4.621540,51.976018,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

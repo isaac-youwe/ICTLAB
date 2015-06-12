@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07660002 Industrieterrein Tichelrijt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.937598,51.618426,0.000000
+            4.941853,51.615265,0.000000
+            4.949674,51.612289,0.000000
+            4.948252,51.611393,0.000000
+            4.943938,51.609579,0.000000
+            4.939597,51.610461,0.000000
+            4.926575,51.613108,0.000000
+            4.919328,51.615776,0.000000
+            4.912108,51.615747,0.000000
+            4.909191,51.618432,0.000000
+            4.913514,51.619348,0.000000
+            4.914930,51.622051,0.000000
+            4.913648,51.622387,0.000000
+            4.917089,51.622352,0.000000
+            4.937598,51.618426,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

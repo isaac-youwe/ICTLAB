@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020203 Staatsliedenkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.165091,52.214908,0.000000
+            5.161539,52.207404,0.000000
+            5.157240,52.207614,0.000000
+            5.148592,52.210346,0.000000
+            5.146781,52.209559,0.000000
+            5.144331,52.210803,0.000000
+            5.151269,52.214594,0.000000
+            5.154230,52.218704,0.000000
+            5.165091,52.214908,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

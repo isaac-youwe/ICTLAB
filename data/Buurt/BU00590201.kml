@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00590201 Harkema</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.141506,53.193410,0.000000
+            6.144030,53.189638,0.000000
+            6.150433,53.189729,0.000000
+            6.151040,53.188353,0.000000
+            6.139755,53.181708,0.000000
+            6.127291,53.178014,0.000000
+            6.123852,53.178121,0.000000
+            6.115912,53.179148,0.000000
+            6.119686,53.189753,0.000000
+            6.122814,53.189325,0.000000
+            6.133487,53.192678,0.000000
+            6.139700,53.193509,0.000000
+            6.141506,53.193410,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

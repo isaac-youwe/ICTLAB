@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00550001 Eagum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.824552,53.134392,0.000000
+            5.826904,53.133805,0.000000
+            5.833260,53.134444,0.000000
+            5.836978,53.133998,0.000000
+            5.830854,53.124253,0.000000
+            5.830369,53.123532,0.000000
+            5.818561,53.122469,0.000000
+            5.816113,53.126047,0.000000
+            5.806769,53.123116,0.000000
+            5.805435,53.125359,0.000000
+            5.813037,53.127819,0.000000
+            5.816097,53.134997,0.000000
+            5.821053,53.137942,0.000000
+            5.824552,53.134392,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

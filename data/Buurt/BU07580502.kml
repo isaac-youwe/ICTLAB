@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580502 Tuinzigt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.771212,51.592573,0.000000
+            4.764054,51.589478,0.000000
+            4.763436,51.585518,0.000000
+            4.759724,51.583870,0.000000
+            4.756134,51.581021,0.000000
+            4.752940,51.579258,0.000000
+            4.751138,51.583356,0.000000
+            4.749712,51.588332,0.000000
+            4.751548,51.592470,0.000000
+            4.756702,51.592127,0.000000
+            4.763552,51.592408,0.000000
+            4.770921,51.593990,0.000000
+            4.771428,51.592771,0.000000
+            4.771212,51.592573,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

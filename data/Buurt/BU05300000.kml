@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05300000 De Vesting</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.131122,51.819445,0.000000
+            4.128063,51.819412,0.000000
+            4.128061,51.819412,0.000000
+            4.125581,51.822365,0.000000
+            4.127295,51.830695,0.000000
+            4.131024,51.829977,0.000000
+            4.132870,51.826641,0.000000
+            4.131745,51.824089,0.000000
+            4.132547,51.822388,0.000000
+            4.131122,51.819445,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07880101 Distelberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.217833,51.651589,0.000000
+            5.215873,51.650590,0.000000
+            5.212503,51.650964,0.000000
+            5.212066,51.655448,0.000000
+            5.208497,51.655469,0.000000
+            5.206998,51.657041,0.000000
+            5.209467,51.661353,0.000000
+            5.208941,51.666387,0.000000
+            5.209387,51.666019,0.000000
+            5.216629,51.662434,0.000000
+            5.219421,51.662004,0.000000
+            5.220946,51.661770,0.000000
+            5.222414,51.661543,0.000000
+            5.223374,51.660831,0.000000
+            5.226283,51.658669,0.000000
+            5.222713,51.656948,0.000000
+            5.226663,51.656034,0.000000
+            5.227501,51.655013,0.000000
+            5.224854,51.652911,0.000000
+            5.217833,51.651589,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

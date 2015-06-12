@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19260342 Emerald</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.402597,51.998788,0.000000
+            4.389647,51.996273,0.000000
+            4.389621,51.996331,0.000000
+            4.389509,51.996551,0.000000
+            4.385342,52.004712,0.000000
+            4.385918,52.005003,0.000000
+            4.385234,52.005576,0.000000
+            4.386396,52.007442,0.000000
+            4.395967,52.008769,0.000000
+            4.397380,52.007027,0.000000
+            4.402597,51.998788,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

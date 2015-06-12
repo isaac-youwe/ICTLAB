@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00740109 Het Meer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.963264,52.969332,0.000000
+            5.965265,52.962329,0.000000
+            5.961036,52.961268,0.000000
+            5.957623,52.966000,0.000000
+            5.934483,52.960639,0.000000
+            5.934838,52.959788,0.000000
+            5.932963,52.959089,0.000000
+            5.929572,52.963114,0.000000
+            5.951830,52.969021,0.000000
+            5.957880,52.975637,0.000000
+            5.960500,52.974709,0.000000
+            5.960428,52.974421,0.000000
+            5.960404,52.972623,0.000000
+            5.960923,52.972563,0.000000
+            5.957785,52.969438,0.000000
+            5.963264,52.969332,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

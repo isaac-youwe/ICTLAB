@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01411400 Dijkstraat en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.658006,52.354978,0.000000
+            6.659024,52.353667,0.000000
+            6.659339,52.352147,0.000000
+            6.656848,52.353742,0.000000
+            6.653102,52.353468,0.000000
+            6.652363,52.354860,0.000000
+            6.653997,52.355880,0.000000
+            6.654149,52.356935,0.000000
+            6.652459,52.358206,0.000000
+            6.645493,52.362042,0.000000
+            6.646125,52.362427,0.000000
+            6.652783,52.358760,0.000000
+            6.658006,52.354978,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

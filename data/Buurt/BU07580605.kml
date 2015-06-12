@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580605 Overkroeten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.739188,51.623819,0.000000
+            4.734077,51.620079,0.000000
+            4.729674,51.622558,0.000000
+            4.734997,51.626185,0.000000
+            4.733281,51.627186,0.000000
+            4.736725,51.629332,0.000000
+            4.741072,51.629116,0.000000
+            4.743398,51.625132,0.000000
+            4.739188,51.623819,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

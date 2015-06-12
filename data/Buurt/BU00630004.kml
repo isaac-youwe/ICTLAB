@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00630004 Sint Jacobiparochie</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.615466,53.271940,0.000000
+            5.603849,53.265733,0.000000
+            5.599153,53.268978,0.000000
+            5.594261,53.269493,0.000000
+            5.593045,53.271730,0.000000
+            5.594205,53.274339,0.000000
+            5.598316,53.275940,0.000000
+            5.612106,53.278135,0.000000
+            5.615115,53.276390,0.000000
+            5.616808,53.273673,0.000000
+            5.615466,53.271940,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

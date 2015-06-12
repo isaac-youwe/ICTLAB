@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00240304 Oosterwijtwerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.818999,53.333601,0.000000
+            6.816823,53.332784,0.000000
+            6.808128,53.334574,0.000000
+            6.806454,53.335547,0.000000
+            6.809165,53.340079,0.000000
+            6.813818,53.342192,0.000000
+            6.816911,53.341927,0.000000
+            6.820312,53.339558,0.000000
+            6.818229,53.336312,0.000000
+            6.818999,53.333601,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03770202 Aerdenhout-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.600484,52.375339,0.000000
+            4.601342,52.372384,0.000000
+            4.599238,52.370022,0.000000
+            4.592251,52.368234,0.000000
+            4.593410,52.369979,0.000000
+            4.592871,52.373630,0.000000
+            4.593485,52.374131,0.000000
+            4.596828,52.373818,0.000000
+            4.600484,52.375339,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

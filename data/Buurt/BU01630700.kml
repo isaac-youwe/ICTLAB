@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01630700 Dorp Haarle</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.385313,52.358152,0.000000
+            6.383724,52.357464,0.000000
+            6.380241,52.358021,0.000000
+            6.375443,52.357463,0.000000
+            6.373557,52.357632,0.000000
+            6.372299,52.358877,0.000000
+            6.376108,52.362163,0.000000
+            6.382503,52.362862,0.000000
+            6.385539,52.362108,0.000000
+            6.385313,52.358152,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

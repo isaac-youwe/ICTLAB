@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140303 Korrewegbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.575663,53.229392,0.000000
+            6.567515,53.225757,0.000000
+            6.565245,53.226110,0.000000
+            6.561329,53.226199,0.000000
+            6.560994,53.226945,0.000000
+            6.576958,53.234212,0.000000
+            6.578556,53.236126,0.000000
+            6.584572,53.233528,0.000000
+            6.581518,53.231908,0.000000
+            6.575663,53.229392,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

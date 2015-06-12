@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05460900 Schenkwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.448637,52.156791,0.000000
+            4.451916,52.152950,0.000000
+            4.450036,52.151738,0.000000
+            4.447097,52.153393,0.000000
+            4.441541,52.149810,0.000000
+            4.438731,52.153157,0.000000
+            4.440135,52.155865,0.000000
+            4.448250,52.161843,0.000000
+            4.450813,52.159447,0.000000
+            4.448637,52.156791,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

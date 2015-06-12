@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02090146 Beuningen Den Balmerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.759842,51.868779,0.000000
+            5.770257,51.865833,0.000000
+            5.771817,51.866093,0.000000
+            5.770411,51.863297,0.000000
+            5.767067,51.864453,0.000000
+            5.759894,51.865189,0.000000
+            5.753696,51.866575,0.000000
+            5.756208,51.869507,0.000000
+            5.759842,51.868779,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

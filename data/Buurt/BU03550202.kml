@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03550202 Dijnselburg en Verzetswijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.254871,52.101517,0.000000
+            5.253293,52.096863,0.000000
+            5.249806,52.098832,0.000000
+            5.243369,52.095869,0.000000
+            5.242993,52.098421,0.000000
+            5.240013,52.102664,0.000000
+            5.246581,52.103942,0.000000
+            5.251230,52.104038,0.000000
+            5.254871,52.101517,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

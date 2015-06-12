@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06170003 land van Essche</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.559828,51.737021,0.000000
+            4.548228,51.735076,0.000000
+            4.545440,51.735829,0.000000
+            4.545186,51.736648,0.000000
+            4.549454,51.739938,0.000000
+            4.552000,51.741112,0.000000
+            4.556474,51.739791,0.000000
+            4.559325,51.738303,0.000000
+            4.560567,51.737377,0.000000
+            4.559828,51.737021,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

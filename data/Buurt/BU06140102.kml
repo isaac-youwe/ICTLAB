@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06140102 Kruiningergors</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.134187,51.923562,0.000000
+            4.128663,51.921067,0.000000
+            4.120743,51.918794,0.000000
+            4.110739,51.917319,0.000000
+            4.108258,51.921388,0.000000
+            4.103396,51.920640,0.000000
+            4.102373,51.921056,0.000000
+            4.101813,51.923486,0.000000
+            4.101881,51.923492,0.000000
+            4.131111,51.926129,0.000000
+            4.134187,51.923562,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

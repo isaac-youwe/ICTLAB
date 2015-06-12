@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05800000 Ooltgensplaat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.346801,51.688235,0.000000
+            4.353205,51.684739,0.000000
+            4.357865,51.685825,0.000000
+            4.358370,51.683809,0.000000
+            4.354420,51.683426,0.000000
+            4.355493,51.679086,0.000000
+            4.352833,51.678830,0.000000
+            4.352240,51.679921,0.000000
+            4.341550,51.677834,0.000000
+            4.340868,51.680232,0.000000
+            4.338084,51.682358,0.000000
+            4.338324,51.685020,0.000000
+            4.340330,51.686596,0.000000
+            4.342040,51.686087,0.000000
+            4.346801,51.688235,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

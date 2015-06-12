@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990610 Altena</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.481192,53.131599,0.000000
+            6.475511,53.130069,0.000000
+            6.475157,53.130551,0.000000
+            6.473342,53.130167,0.000000
+            6.472080,53.131226,0.000000
+            6.473980,53.133748,0.000000
+            6.479257,53.134652,0.000000
+            6.481192,53.131599,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

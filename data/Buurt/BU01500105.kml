@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500105 Schrijversbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.144761,52.267393,0.000000
+            6.139951,52.265645,0.000000
+            6.135882,52.267735,0.000000
+            6.136531,52.268216,0.000000
+            6.132824,52.271523,0.000000
+            6.136147,52.272762,0.000000
+            6.142788,52.272842,0.000000
+            6.144761,52.267393,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

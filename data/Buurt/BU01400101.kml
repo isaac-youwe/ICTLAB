@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01400101 Baaium</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.648929,53.168728,0.000000
+            5.644210,53.167000,0.000000
+            5.641336,53.167382,0.000000
+            5.636544,53.164428,0.000000
+            5.635934,53.162672,0.000000
+            5.636789,53.161511,0.000000
+            5.630742,53.158388,0.000000
+            5.615914,53.163135,0.000000
+            5.616993,53.164804,0.000000
+            5.624124,53.168835,0.000000
+            5.633976,53.169661,0.000000
+            5.639969,53.171445,0.000000
+            5.648926,53.168730,0.000000
+            5.648929,53.168728,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

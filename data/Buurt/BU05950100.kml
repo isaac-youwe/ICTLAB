@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950100 Reeuwijk Brug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.726067,52.054044,0.000000
+            4.721249,52.042440,0.000000
+            4.711308,52.045221,0.000000
+            4.715752,52.048945,0.000000
+            4.724081,52.055702,0.000000
+            4.726647,52.057466,0.000000
+            4.729113,52.056073,0.000000
+            4.726067,52.054044,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

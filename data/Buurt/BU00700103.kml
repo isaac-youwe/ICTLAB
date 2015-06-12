@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700103 Oosterbierum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.512321,53.230196,0.000000
+            5.509759,53.229830,0.000000
+            5.507677,53.231370,0.000000
+            5.505894,53.234785,0.000000
+            5.513294,53.238671,0.000000
+            5.515917,53.238340,0.000000
+            5.518309,53.235671,0.000000
+            5.515622,53.235065,0.000000
+            5.516362,53.232300,0.000000
+            5.512321,53.230196,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

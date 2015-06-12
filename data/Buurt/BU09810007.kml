@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09810007 Raren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.998160,50.752975,0.000000
+            5.990918,50.753013,0.000000
+            5.976758,50.753985,0.000000
+            5.973935,50.754898,0.000000
+            5.975386,50.757588,0.000000
+            5.972575,50.759400,0.000000
+            5.972495,50.759420,0.000000
+            5.987430,50.769601,0.000000
+            6.004078,50.776826,0.000000
+            6.007273,50.772528,0.000000
+            6.006809,50.769590,0.000000
+            6.003836,50.765628,0.000000
+            5.995928,50.760598,0.000000
+            5.998160,50.752975,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

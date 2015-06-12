@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110531 Hingen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.891164,51.110133,0.000000
+            5.895883,51.108919,0.000000
+            5.897964,51.109184,0.000000
+            5.899960,51.108740,0.000000
+            5.901326,51.102910,0.000000
+            5.899085,51.103450,0.000000
+            5.894145,51.101811,0.000000
+            5.893035,51.100170,0.000000
+            5.888099,51.101509,0.000000
+            5.888853,51.102881,0.000000
+            5.887815,51.103417,0.000000
+            5.891164,51.110133,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

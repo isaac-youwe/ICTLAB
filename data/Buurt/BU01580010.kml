@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01580010 Veldmaat 1</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.760056,52.161513,0.000000
+            6.752947,52.158030,0.000000
+            6.752717,52.158330,0.000000
+            6.748659,52.162927,0.000000
+            6.752491,52.165821,0.000000
+            6.755479,52.168040,0.000000
+            6.758078,52.169970,0.000000
+            6.766106,52.164849,0.000000
+            6.760056,52.161513,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420804 Dorp-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.567475,51.831953,0.000000
+            4.563629,51.831174,0.000000
+            4.560728,51.831921,0.000000
+            4.559541,51.832716,0.000000
+            4.559906,51.835991,0.000000
+            4.562454,51.835735,0.000000
+            4.562967,51.833488,0.000000
+            4.567475,51.831953,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

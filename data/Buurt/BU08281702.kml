@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08281702 Demen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.642269,51.817003,0.000000
+            5.635286,51.810520,0.000000
+            5.631119,51.811868,0.000000
+            5.628332,51.809131,0.000000
+            5.613685,51.812526,0.000000
+            5.616521,51.817193,0.000000
+            5.624722,51.815800,0.000000
+            5.627277,51.819629,0.000000
+            5.636703,51.819609,0.000000
+            5.642269,51.817003,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

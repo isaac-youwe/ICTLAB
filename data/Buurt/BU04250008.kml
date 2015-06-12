@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04250008 Ministerpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.154879,52.285241,0.000000
+            5.156412,52.282379,0.000000
+            5.151241,52.280781,0.000000
+            5.146902,52.278994,0.000000
+            5.146854,52.278974,0.000000
+            5.143918,52.279867,0.000000
+            5.146839,52.281671,0.000000
+            5.146830,52.283469,0.000000
+            5.142726,52.285134,0.000000
+            5.142758,52.285513,0.000000
+            5.144051,52.285834,0.000000
+            5.147745,52.283567,0.000000
+            5.150013,52.288109,0.000000
+            5.154879,52.285241,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

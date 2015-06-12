@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15250200 Warmond</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.508850,52.197944,0.000000
+            4.490618,52.186884,0.000000
+            4.487671,52.190397,0.000000
+            4.489031,52.193012,0.000000
+            4.490487,52.195812,0.000000
+            4.493376,52.197632,0.000000
+            4.491878,52.199418,0.000000
+            4.490603,52.200937,0.000000
+            4.491809,52.201095,0.000000
+            4.496029,52.204015,0.000000
+            4.502083,52.205481,0.000000
+            4.512330,52.200286,0.000000
+            4.511238,52.198582,0.000000
+            4.508850,52.197944,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

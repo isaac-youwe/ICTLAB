@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06100003 Industrieterrein Kerkerak C.S.</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.769974,51.819809,0.000000
+            4.765677,51.816340,0.000000
+            4.764943,51.816427,0.000000
+            4.750515,51.821687,0.000000
+            4.753443,51.823924,0.000000
+            4.757624,51.823889,0.000000
+            4.762704,51.822819,0.000000
+            4.769974,51.819809,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02001102 Hoog Soeren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.869190,52.222865,0.000000
+            5.871014,52.221399,0.000000
+            5.879925,52.221726,0.000000
+            5.880561,52.220192,0.000000
+            5.879431,52.220015,0.000000
+            5.879155,52.216515,0.000000
+            5.877426,52.215902,0.000000
+            5.873386,52.215591,0.000000
+            5.869595,52.216445,0.000000
+            5.867764,52.218088,0.000000
+            5.866288,52.223569,0.000000
+            5.869190,52.222865,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

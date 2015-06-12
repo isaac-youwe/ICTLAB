@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290000 Gulpen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.890919,50.822098,0.000000
+            5.896746,50.819903,0.000000
+            5.898835,50.819987,0.000000
+            5.899090,50.818424,0.000000
+            5.901047,50.819353,0.000000
+            5.902065,50.819059,0.000000
+            5.907528,50.814425,0.000000
+            5.903908,50.813000,0.000000
+            5.900670,50.814492,0.000000
+            5.892792,50.811628,0.000000
+            5.890253,50.807227,0.000000
+            5.887914,50.809224,0.000000
+            5.888378,50.811787,0.000000
+            5.885541,50.812970,0.000000
+            5.881061,50.812067,0.000000
+            5.875335,50.814900,0.000000
+            5.890919,50.822098,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

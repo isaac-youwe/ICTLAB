@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17050202 Het Zand</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.939392,51.924535,0.000000
+            5.933952,51.922806,0.000000
+            5.932322,51.924418,0.000000
+            5.926998,51.926180,0.000000
+            5.931554,51.930015,0.000000
+            5.933172,51.930769,0.000000
+            5.936801,51.929036,0.000000
+            5.940029,51.926243,0.000000
+            5.939392,51.924535,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16400101 De Horck</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.885020,51.240517,0.000000
+            5.882003,51.238671,0.000000
+            5.868893,51.225823,0.000000
+            5.866806,51.224731,0.000000
+            5.856220,51.238025,0.000000
+            5.858489,51.240154,0.000000
+            5.868561,51.239433,0.000000
+            5.874174,51.242477,0.000000
+            5.874305,51.243952,0.000000
+            5.883300,51.245008,0.000000
+            5.885269,51.245222,0.000000
+            5.885020,51.240517,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

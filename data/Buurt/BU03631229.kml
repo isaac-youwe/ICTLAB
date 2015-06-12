@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631229 Dapperbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.937386,52.357725,0.000000
+            4.928161,52.355355,0.000000
+            4.926553,52.357905,0.000000
+            4.922251,52.363774,0.000000
+            4.927080,52.366474,0.000000
+            4.931751,52.366591,0.000000
+            4.931775,52.361476,0.000000
+            4.933517,52.359592,0.000000
+            4.937386,52.357725,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

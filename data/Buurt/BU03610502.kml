@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610502 Huiswaard-2-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.762527,52.643180,0.000000
+            4.756460,52.640594,0.000000
+            4.754156,52.643285,0.000000
+            4.753119,52.646551,0.000000
+            4.752406,52.647596,0.000000
+            4.753111,52.647696,0.000000
+            4.757824,52.648446,0.000000
+            4.762527,52.643180,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

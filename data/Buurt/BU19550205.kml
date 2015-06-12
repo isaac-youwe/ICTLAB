@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19550205 Verspreide huizen De Heegh</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.158097,51.940785,0.000000
+            6.139949,51.935338,0.000000
+            6.138081,51.939931,0.000000
+            6.139589,51.948892,0.000000
+            6.143752,51.948810,0.000000
+            6.151369,51.947049,0.000000
+            6.153117,51.945644,0.000000
+            6.156838,51.944519,0.000000
+            6.158097,51.940785,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

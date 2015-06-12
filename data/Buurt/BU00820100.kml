@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00820100 Eesterga en Follega</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.747742,52.874767,0.000000
+            5.726832,52.858740,0.000000
+            5.690924,52.865356,0.000000
+            5.698974,52.892199,0.000000
+            5.694583,52.893614,0.000000
+            5.697804,52.893606,0.000000
+            5.699335,52.899893,0.000000
+            5.700822,52.899889,0.000000
+            5.729019,52.894419,0.000000
+            5.729276,52.894367,0.000000
+            5.751085,52.889899,0.000000
+            5.747148,52.888310,0.000000
+            5.744223,52.885018,0.000000
+            5.744892,52.878513,0.000000
+            5.747742,52.874767,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

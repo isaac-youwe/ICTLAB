@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610202 Oudorp-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.776803,52.629346,0.000000
+            4.772640,52.626806,0.000000
+            4.769014,52.628366,0.000000
+            4.769443,52.630142,0.000000
+            4.770317,52.632890,0.000000
+            4.772441,52.637037,0.000000
+            4.777920,52.635749,0.000000
+            4.776803,52.629346,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

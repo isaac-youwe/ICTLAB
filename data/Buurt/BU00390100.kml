@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00390100 Westerlee</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.992290,53.142321,0.000000
+            6.973751,53.137826,0.000000
+            6.966711,53.137931,0.000000
+            6.958567,53.136064,0.000000
+            6.956482,53.134255,0.000000
+            6.956389,53.134479,0.000000
+            6.956411,53.135102,0.000000
+            6.957858,53.138400,0.000000
+            6.966696,53.140354,0.000000
+            6.971796,53.143194,0.000000
+            6.984903,53.148372,0.000000
+            6.989241,53.151122,0.000000
+            6.991987,53.154675,0.000000
+            6.995791,53.155994,0.000000
+            7.000527,53.153469,0.000000
+            7.002930,53.152268,0.000000
+            7.001896,53.149877,0.000000
+            6.997463,53.145254,0.000000
+            6.992290,53.142321,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550107 Korvel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.077926,51.554954,0.000000
+            5.079008,51.553001,0.000000
+            5.078010,51.550679,0.000000
+            5.076714,51.548853,0.000000
+            5.077390,51.543898,0.000000
+            5.056597,51.543777,0.000000
+            5.054435,51.544340,0.000000
+            5.053807,51.545548,0.000000
+            5.056652,51.547197,0.000000
+            5.060649,51.550582,0.000000
+            5.063353,51.554704,0.000000
+            5.064568,51.552969,0.000000
+            5.071757,51.553473,0.000000
+            5.077926,51.554954,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

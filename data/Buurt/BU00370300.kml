@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00370300 Onstwedde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.035140,53.043285,0.000000
+            7.039730,53.042589,0.000000
+            7.043418,53.042915,0.000000
+            7.043217,53.043892,0.000000
+            7.047381,53.043315,0.000000
+            7.045943,53.040871,0.000000
+            7.048883,53.040249,0.000000
+            7.048899,53.034779,0.000000
+            7.050700,53.035059,0.000000
+            7.052357,53.033349,0.000000
+            7.053718,53.032296,0.000000
+            7.052139,53.029206,0.000000
+            7.036593,53.029364,0.000000
+            7.032927,53.033640,0.000000
+            7.027240,53.033490,0.000000
+            7.020662,53.042920,0.000000
+            7.026477,53.044568,0.000000
+            7.033972,53.044455,0.000000
+            7.035148,53.044221,0.000000
+            7.035140,53.043285,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

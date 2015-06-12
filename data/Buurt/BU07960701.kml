@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960701 Brabantpoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.346861,51.718836,0.000000
+            5.337555,51.716554,0.000000
+            5.332486,51.719659,0.000000
+            5.331728,51.720046,0.000000
+            5.334630,51.727051,0.000000
+            5.346832,51.727310,0.000000
+            5.345900,51.720703,0.000000
+            5.346861,51.718836,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

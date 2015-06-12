@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630432 Indische Buurt Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.961988,52.359259,0.000000
+            4.958489,52.357717,0.000000
+            4.940843,52.358432,0.000000
+            4.939406,52.366672,0.000000
+            4.949783,52.366732,0.000000
+            4.956499,52.368392,0.000000
+            4.959723,52.361276,0.000000
+            4.961988,52.359259,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

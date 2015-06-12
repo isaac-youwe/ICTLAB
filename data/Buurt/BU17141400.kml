@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17141400 Waterlandkerkje</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.551192,51.319638,0.000000
+            3.556616,51.318720,0.000000
+            3.561467,51.319234,0.000000
+            3.561499,51.318240,0.000000
+            3.556871,51.317520,0.000000
+            3.556889,51.315137,0.000000
+            3.552760,51.316246,0.000000
+            3.549197,51.318244,0.000000
+            3.551192,51.319638,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

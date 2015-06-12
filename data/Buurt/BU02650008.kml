@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02650008 Verspreide huizen in Millingerwaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.037534,51.872120,0.000000
+            6.035489,51.869997,0.000000
+            6.030023,51.869971,0.000000
+            6.023373,51.866603,0.000000
+            6.023226,51.866695,0.000000
+            6.014564,51.870337,0.000000
+            6.010208,51.870361,0.000000
+            5.985485,51.867792,0.000000
+            5.988438,51.871373,0.000000
+            5.988633,51.871509,0.000000
+            5.998701,51.878512,0.000000
+            6.005441,51.881791,0.000000
+            6.006012,51.882069,0.000000
+            6.013275,51.882031,0.000000
+            6.019060,51.880202,0.000000
+            6.037545,51.872131,0.000000
+            6.037534,51.872120,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

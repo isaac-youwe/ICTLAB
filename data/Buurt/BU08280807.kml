@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280807 Frankenbeemd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.510602,51.783071,0.000000
+            5.502550,51.781572,0.000000
+            5.494500,51.787769,0.000000
+            5.497370,51.788360,0.000000
+            5.508979,51.792843,0.000000
+            5.514786,51.795534,0.000000
+            5.514786,51.795695,0.000000
+            5.520941,51.793289,0.000000
+            5.518575,51.783600,0.000000
+            5.510602,51.783071,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05040106 Verspreide huizen in De Halspolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.124467,51.792402,0.000000
+            4.115974,51.785118,0.000000
+            4.111855,51.776982,0.000000
+            4.111852,51.776973,0.000000
+            4.110954,51.777195,0.000000
+            4.114701,51.785255,0.000000
+            4.098523,51.786209,0.000000
+            4.069669,51.781044,0.000000
+            4.066729,51.783675,0.000000
+            4.078087,51.791893,0.000000
+            4.083442,51.807237,0.000000
+            4.093669,51.804653,0.000000
+            4.111296,51.796755,0.000000
+            4.118594,51.795036,0.000000
+            4.121518,51.794168,0.000000
+            4.124467,51.792402,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

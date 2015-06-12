@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721731 Genderbeemd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.432539,51.417186,0.000000
+            5.427540,51.416858,0.000000
+            5.427460,51.417134,0.000000
+            5.428898,51.417133,0.000000
+            5.427472,51.421604,0.000000
+            5.427464,51.421629,0.000000
+            5.427464,51.421928,0.000000
+            5.442433,51.426693,0.000000
+            5.449658,51.429808,0.000000
+            5.450187,51.429083,0.000000
+            5.445627,51.421745,0.000000
+            5.445531,51.419963,0.000000
+            5.436431,51.419088,0.000000
+            5.432539,51.417186,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

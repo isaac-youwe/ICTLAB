@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00370402 Vledderveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.031663,52.966304,0.000000
+            7.024904,52.963636,0.000000
+            7.001727,52.981760,0.000000
+            7.001227,52.997805,0.000000
+            7.008016,52.999371,0.000000
+            7.008390,52.990115,0.000000
+            7.022599,52.978145,0.000000
+            7.019857,52.976962,0.000000
+            7.031663,52.966304,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

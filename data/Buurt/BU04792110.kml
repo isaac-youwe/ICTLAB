@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04792110 Havenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.822288,52.432609,0.000000
+            4.830682,52.430803,0.000000
+            4.831686,52.431599,0.000000
+            4.831921,52.431304,0.000000
+            4.834527,52.428233,0.000000
+            4.842336,52.418983,0.000000
+            4.841764,52.419085,0.000000
+            4.827040,52.420814,0.000000
+            4.826301,52.420934,0.000000
+            4.826677,52.426437,0.000000
+            4.821369,52.431934,0.000000
+            4.822288,52.432609,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

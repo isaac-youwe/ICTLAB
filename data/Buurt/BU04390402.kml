@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04390402 Gors-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.961651,52.495235,0.000000
+            4.959827,52.493016,0.000000
+            4.953310,52.497563,0.000000
+            4.951830,52.501341,0.000000
+            4.954363,52.504033,0.000000
+            4.957143,52.507261,0.000000
+            4.964957,52.505275,0.000000
+            4.970606,52.503473,0.000000
+            4.967265,52.500341,0.000000
+            4.961651,52.495235,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

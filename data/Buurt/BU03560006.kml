@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03560006 Huis de Geer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.102864,52.053253,0.000000
+            5.104345,52.049661,0.000000
+            5.104360,52.049665,0.000000
+            5.104427,52.048254,0.000000
+            5.099293,52.041985,0.000000
+            5.093626,52.042988,0.000000
+            5.091852,52.045567,0.000000
+            5.096061,52.044827,0.000000
+            5.099523,52.046283,0.000000
+            5.099987,52.047653,0.000000
+            5.099742,52.051395,0.000000
+            5.092990,52.053172,0.000000
+            5.096734,52.057055,0.000000
+            5.094210,52.059866,0.000000
+            5.096991,52.059531,0.000000
+            5.097296,52.059204,0.000000
+            5.102864,52.053253,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

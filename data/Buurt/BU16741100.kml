@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16741100 Wouw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.406903,51.515571,0.000000
+            4.388883,51.513679,0.000000
+            4.386156,51.516125,0.000000
+            4.379801,51.516337,0.000000
+            4.379034,51.526722,0.000000
+            4.401167,51.529936,0.000000
+            4.407566,51.528437,0.000000
+            4.406903,51.515571,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

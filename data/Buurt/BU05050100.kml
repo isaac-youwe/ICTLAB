@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05050100 Lijnbaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.688154,51.815896,0.000000
+            4.683970,51.813147,0.000000
+            4.679088,51.815425,0.000000
+            4.674673,51.816646,0.000000
+            4.675298,51.819872,0.000000
+            4.682324,51.817138,0.000000
+            4.688070,51.817076,0.000000
+            4.688154,51.815896,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>
