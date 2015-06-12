@@ -47,7 +47,11 @@ foreach ($markerPoints as $value) {
 
                         $max = 5 + $start;
                         for ($i = $start; $i < $max; $i++) {
-                            echo "<li " . (in_array('p' . $i, $this->params) ? "class='active'" : '') . "><a href='/result?buurt=" . $this->buurt . "&stad=" . $this->stad . "&page=p" . $i . "&startp=" . $start . "'>$i</a></li>";
+                            if ((!isset($this->params["startp"]) || !isset($this->params["page"])) && $i == $start) {
+                                echo "<li class='active'><a href='/result?buurt=" . $this->buurt . "&stad=" . $this->stad . "&page=p" . $i . "&startp=" . $start . "'>$i</a></li>";
+                            } else {
+                                echo "<li " . (in_array('p' . $i, $this->params) ? "class='active'" : '') . "><a href='/result?buurt=" . $this->buurt . "&stad=" . $this->stad . "&page=p" . $i . "&startp=" . $start . "'>$i</a></li>";
+                            }
                         }
                         echo "<li><a href='/result?buurt=" . $this->buurt . "&stad=" . $this->stad . "&page=p" . $i . "&startp=" . $i . "'>&raquo;</a></li>";
                         ?>
