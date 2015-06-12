@@ -14,21 +14,11 @@ $SolrBuurtCall = new Application_Model_Solr_BuurtCall();
 
 $processor = new Application_Model_Processor();
 
-//            echo $this->buurt;
-//            echo "<br>";
-//            echo $this->stad;
-
 $processor = new Application_Model_Processor();
 $polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($this->buurt));
 
-
-//            echo "<p>" . $SolrBuurtCall->getName($this->buurt) . "</p>";
-//            echo "<p>" . $SolrBuurtCall->getId($this->buurt) . "</p>";
-//            print_r($SolrBuurtCall->getPolygon($this->buurt));
-
 $markerPoints = $this->collection;
 $polygon = geoPHP::load("$polygonBuurt", "wkt");
-
 $filteredCollection = array();
 foreach ($markerPoints as $value) {
     $point1 = geoPHP::load("POINT($value->WGS84_Y $value->WGS84_X)", "wkt");
@@ -44,7 +34,7 @@ foreach ($markerPoints as $value) {
                 var collection = <?php echo json_encode($filteredCollection); ?>;
                 var lat = <?php echo json_encode($this->lat); ?>;
                 var lng = <?php echo json_encode($this->lng); ?>;
-                var polygon =<?php echo json_encode($polygon); ?>;
+                var polygon =<?php echo json_encode($polygonBuurt); ?>;
             </script>
 
             <li id="side_bar" class="list-group-item"></li>
@@ -113,11 +103,6 @@ foreach ($markerPoints as $value) {
                     icon: icon
                 });
 
-                for (var i = 0; i < polygon.length; i++){
-                    poly = i;
-                    console.log(i);
-                }
-
                 //Create List Details
                 var houseAdressDetails =
                     houseAdress + '<br>';
@@ -155,7 +140,54 @@ foreach ($markerPoints as $value) {
 
             }
 
-            polygons();
+            //polygons is WKT = Well-known text (WKT) is a text markup
+            // language for representing vector geometry objects on a map.
+            var polygons = polygon;
+
+            //using Regular expression, this will get the indivudal Polygon Rings
+            var regExpression = /\(([^()]+)\)/g;
+            var Rings = [];
+            var results;
+            while (results = regExpression.exec(polygons)) {
+                Rings.push(results[1]);
+            }
+
+            var patchArray = [];
+            var polyBuurt = Rings.length;
+
+            //Draw the polygon for each of inner rings
+            for (var i = 0; i < polyBuurt; i++) {
+                AddPoints(Rings[i]);
+            }
+
+            var poly = new google.maps.Polygon({
+                paths: patchArray,
+                clickable: false,
+                fillColor: '#FFF',
+                fillOpacity: 0,
+                strokeColor: '#FF0000',
+                strokeOpacity: 1,
+                strokeWeight: 1,
+                zIndex: 99
+            });
+
+            poly.setMap(map);
+
+            //function to add points
+            function AddPoints(data) {
+                //Spilt the string into individual points
+                var pointsData = data.split(",");
+
+                var point = pointsData.length;
+
+                for (var i = 0; i < point; i++) {
+                    var coordination = pointsData[i].split(" ");
+                    var latLng = new google.maps.LatLng(coordination[0], coordination[1]);
+                    patchArray.push(latLng);
+
+                }
+
+            }
 
             document.getElementById("side_bar").innerHTML = side_bar_html;
 
@@ -205,13 +237,7 @@ foreach ($markerPoints as $value) {
 
             });
         }
-
-        function polygons(){
-
-        }
     </script>
 </div>
 </div>
-<?php
-      echo "<p>" . $polygonBuurt . "</p>";
 
