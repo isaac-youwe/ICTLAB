@@ -1,6 +1,0 @@
-ByteOrderDataInStream.lo: ByteOrderDataInStream.cpp \
- /usr/include/stdc-predef.h ../../include/geos/inline.h
-
-/usr/include/stdc-predef.h:
-
-../../include/geos/inline.h:
