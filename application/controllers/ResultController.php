@@ -43,7 +43,7 @@ class ResultController extends Zend_Controller_Action
             $this->view->assign('lng', $address->getLongitude());
         }
 
-        $this->view->processor = new Application_Model_Processor();
+        $this->view->processor = $processor = new Application_Model_Processor();
 
         $fundaAanbod = new Application_Model_Funda_Aanbod();
         $this->view->collection = $fundaAanbod->getCollection($this->params);
@@ -53,8 +53,9 @@ class ResultController extends Zend_Controller_Action
 
         foreach ($aangrenzendeBuurten as $aangrenzendeBuurt) {
             echo $SolrBuurtCall->getName($aangrenzendeBuurt) . ": ";
-            echo $fundaAanbod->totalObjectsCity($SolrBuurtCall->getName($aangrenzendeBuurt));
-            echo "</br>";
+            echo $fundaAanbod->totalObjectsCity($SolrBuurtCall->getName($aangrenzendeBuurt)) . "</br>";
+            print_r($SolrBuurtCall->getPolygon($aangrenzendeBuurt)) . "</br>";
+            echo "</br></br>";
         }
     }
 }
