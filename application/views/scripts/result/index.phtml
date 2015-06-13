@@ -14,8 +14,26 @@ $SolrBuurtCall = new Application_Model_Solr_BuurtCall();
 
 $processor = new Application_Model_Processor();
 
-$processor = new Application_Model_Processor();
+// get polygon buurt in array
 $polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($this->buurt));
+// get buurt
+$buurt = $SolrBuurtCall->getBuurt($this->buurt);
+// buurt ID
+$buurtId = $SolrBuurtCall->getId($this->buurt);
+// buurt naam
+$buurtNaam = $SolrBuurtCall->getName($this->buurt);
+// get aangrenzende buurt
+$aangrenzendeBuurten = $SolrBuurtCall->getAangrenzendeBuurten($this->buurt);
+
+$filteredPolygon = array();
+foreach($aangrenzendeBuurten as $aangrenzebuurt){
+    $aangrensBuurtNaam = $SolrBuurtCall->getName($aangrenzebuurt);
+    $aangrenspoly = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($aangrenzebuurt));
+    if($processor->getPolygonFromArray($SolrBuurtCall->getPolygon($aangrenzebuurt))){
+        array_push($filteredPolygon,$aangrenspoly );
+    }
+    print_r($aangrenspoly);
+}
 
 $markerPoints = $this->collection;
 $polygon = geoPHP::load("$polygonBuurt", "wkt");
@@ -35,6 +53,8 @@ foreach ($markerPoints as $value) {
                 var lat = <?php echo json_encode($this->lat); ?>;
                 var lng = <?php echo json_encode($this->lng); ?>;
                 var polygon =<?php echo json_encode($polygonBuurt); ?>;
+                var aagrenzendeNaam = <?php echo json_encode($aangrensBuurtNaam); ?>;
+                var aangrezendePolygon = <?php echo json_encode($filteredPolygon); ?>;
             </script>
 
             <li id="side_bar" class="list-group-item"></li>
@@ -147,23 +167,47 @@ foreach ($markerPoints as $value) {
             //polygons is WKT = Well-known text (WKT) is a text markup
             // language for representing vector geometry objects on a map.
             var polygons = polygon;
+            var aangrenzendePolygon = aangrezendePolygon;
 
             //using Regular expression, this will get the indivudal Polygon Rings
             var regExpression = /\(([^()]+)\)/g;
             var Rings = [];
+            var Ringss = [];
             var results;
+            var aangrensResults;
             while (results = regExpression.exec(polygons)) {
                 Rings.push(results[1]);
             }
 
+            while (aangrensResults = regExpression.exec(aangrenzendePolygon)) {
+                Ringss.push(aangrensResults[1]);
+            }
+
             var patchArray = [];
+            var patch = [];
             var polyBuurt = Rings.length;
+            var polyAangrenzen = Ringss.length;
 
             //Draw the polygon for each of inner rings
             for (var i = 0; i < polyBuurt; i++) {
                 AddPoints(Rings[i]);
             }
 
+            //Draw the polygon for each of inner rings
+            for (var i = 0; i < polyAangrenzen; i++) {
+                AddPoints(Ringss[i]);
+            }
+
+
+
+            var polyAangrens = new google.maps.Polygon({
+                paths: patch,
+                strokeColor: '#FF0000',
+                strokeOpacity: 0.8,
+                strokeWeight: 2,
+                fillColor: '#FF0000',
+                fillOpacity: 0.35
+            });
             var poly = new google.maps.Polygon({
                 paths: patchArray,
                 clickable: false,
@@ -175,6 +219,7 @@ foreach ($markerPoints as $value) {
                 zIndex: 99
             });
 
+            polyAangrens.setMap(map);
             poly.setMap(map);
 
             //function to add points
@@ -188,6 +233,7 @@ foreach ($markerPoints as $value) {
                     var coordination = pointsData[i].split(" ");
                     var latLng = new google.maps.LatLng(coordination[0], coordination[1]);
                     patchArray.push(latLng);
+                    patch.push(latLng);
 
                 }
 
@@ -244,4 +290,5 @@ foreach ($markerPoints as $value) {
     </script>
 </div>
 </div>
+<?php
 
