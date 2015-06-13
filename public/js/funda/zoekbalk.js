@@ -27,7 +27,7 @@ $(document).ready(function () {
         {
             hint: true,
             highlight: true,
-            minLength: 3
+            minLength: 4
         }, {
             displayKey: 'value',
             source: buurten.ttAdapter(),
