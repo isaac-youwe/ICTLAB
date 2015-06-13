@@ -47,56 +47,56 @@ class Application_Model_Solr_BuurtCall
     /**
      * Get Polygon
      *
-     * @param string $name
+     * @param string|int $input
      * @return array polygon
      */
-    public function getPolygon($name)
+    public function getPolygon($input)
     {
-        if (!$this->getBuurt($name)) {
+        if (!$this->getBuurt($input)) {
             return false;
         }
-        return $this->getBuurt($name)->docs[0]->polygon;
+        return $this->getBuurt($input)->docs[0]->polygon;
     }
 
     /**
      * Get Aangrenzende Buurten
      *
-     * @param string $name
+     * @param string|int $input
      * @return array aangrenzende
      */
-    public function getAangrenzendeBuurten($name)
+    public function getAangrenzendeBuurten($input)
     {
-        if (!$this->getBuurt($name)) {
+        if (!$this->getBuurt($input)) {
             return false;
         }
-        return $this->getBuurt($name)->docs[0]->aangrenzende;
+        return $this->getBuurt($input)->docs[0]->aangrenzende;
     }
 
     /**
      * Get Name
      *
-     * @param string $name
+     * @param string|int $input
      * @return string name
      */
-    public function getName($name)
+    public function getName($input)
     {
-        if (!$this->getBuurt($name)) {
+        if (!$this->getBuurt($input)) {
             return false;
         }
-        return $this->getBuurt($name)->docs[0]->name[0];
+        return $this->getBuurt($input)->docs[0]->name[0];
     }
 
     /**
      * Get ID
      *
-     * @param string $name
+     * @param string|int $input
      * @return string id
      */
-    public function getId($name)
+    public function getId($input)
     {
-        if (!$this->getBuurt($name)) {
+        if (!$this->getBuurt($input)) {
             return false;
         }
-        return $this->getBuurt($name)->docs[0]->id;
+        return $this->getBuurt($input)->docs[0]->id;
     }
 }

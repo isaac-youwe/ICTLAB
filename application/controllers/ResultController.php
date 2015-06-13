@@ -43,8 +43,19 @@ class ResultController extends Zend_Controller_Action
             $this->view->assign('lng', $address->getLongitude());
         }
 
+        $this->view->processor = new Application_Model_Processor();
+
         $fundaAanbod = new Application_Model_Funda_Aanbod();
         $this->view->collection = $fundaAanbod->getCollection($this->params);
+
+        $SolrBuurtCall = $this->view->SolrBuurtCall = new Application_Model_Solr_BuurtCall();
+        $aangrenzendeBuurten = $SolrBuurtCall->getAangrenzendeBuurten($this->params['buurt']);
+
+        foreach ($aangrenzendeBuurten as $aangrenzendeBuurt) {
+            echo $SolrBuurtCall->getName($aangrenzendeBuurt) . ": ";
+            echo $fundaAanbod->totalObjectsCity($SolrBuurtCall->getName($aangrenzendeBuurt));
+            echo "</br>";
+        }
     }
 }
 
