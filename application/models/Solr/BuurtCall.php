@@ -18,15 +18,21 @@ class Application_Model_Solr_BuurtCall
     }
 
     /**
-     * Get buurt
+     * Get buurt by the name or id
      *
-     * @param string $name
+     * @param string|int $input
      * @return json mixed
      */
-    public function getBuurt($name)
+    public function getBuurt($input)
     {
+        if (strlen($input) == 10 && is_numeric(substr($input, -1, 1))) {
+            $val = "id";
+        } else {
+            $val = "name";
+        }
+
         $query = new SolrQuery();
-        $query->setQuery("name:$name");
+        $query->setQuery("$val:$input");
         $query->addField('id')->addField('name')->addField('polygon')->addField('aangrenzende');
         $query_response = $this->solrClient->query($query);
 
