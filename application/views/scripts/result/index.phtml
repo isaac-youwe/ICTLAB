@@ -14,22 +14,22 @@ $SolrBuurtCall = new Application_Model_Solr_BuurtCall();
 
 $processor = new Application_Model_Processor();
 
+$buurt = $SolrBuurtCall->getBuurt($SolrBuurtCall->getName($this->buurt));
 // get polygon buurt in array
 $polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($this->buurt));
-// get buurt
-$buurt = $SolrBuurtCall->getBuurt($this->buurt);
-// buurt naam
-$buurtNaam = $SolrBuurtCall->getName($this->buurt);
-// get aangrenzende buurt
-$aangrenzendeBuurten = $SolrBuurtCall->getAangrenzendeBuurten($this->buurt);
+
+$aangrenzendeBuurten = $SolrBuurtCall->getAangrenzendeBuurten($this->params['buurt']);
 
 $filteredPolygon = array();
 foreach ($aangrenzendeBuurten as $aangrenzebuurt) {
-    $aangrensBuurtNaam = $SolrBuurtCall->getName($aangrenzebuurt);
     $aangrenspoly = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($aangrenzebuurt));
     if ($aangrenspoly) {
         array_push($filteredPolygon, $aangrenspoly);
     }
+}
+
+foreach ($aangrenzendeBuurten as $aangrenzendeBuurt) {
+    $aangrenzendeBuurts = $SolrBuurtCall->getName($aangrenzendeBuurt);
 }
 
 $markerPoints = $this->collection;
@@ -50,7 +50,7 @@ foreach ($markerPoints as $value) {
                 var lat = <?php echo json_encode($this->lat); ?>;
                 var lng = <?php echo json_encode($this->lng); ?>;
                 var polygon =<?php echo json_encode($polygonBuurt); ?>;
-                var aagrenzendeNaam = <?php echo json_encode($aangrensBuurtNaam); ?>;
+                var aagrenzendeNaam = <?php echo json_encode($aangrenzendeBuurts); ?>;
                 var aangrezendePolygon = <?php echo json_encode($filteredPolygon); ?>;
             </script>
 
@@ -181,7 +181,8 @@ foreach ($markerPoints as $value) {
             }
 
             var patchArray = [];
-            var patch = [];
+            var patchAangrensArray = [];
+
             var polyBuurt = Rings.length;
             var polyAangrenzen = Ringss.length;
 
@@ -190,11 +191,12 @@ foreach ($markerPoints as $value) {
                 AddPoints(Rings[i]);
             }
 
+
             //Draw the polygon aangrens for each of inner rings
             for (var i = 0; i < polyAangrenzen; i++) {
-                AddPointsAangrens(Ringss[i]);
+                var patch = [];
+                    AddPointsAangrens(Ringss[i]);
             }
-
 
             var polyAangrens = new google.maps.Polygon({
                 paths: patch,
@@ -220,19 +222,26 @@ foreach ($markerPoints as $value) {
             polyAangrens.setMap(map);
             poly.setMap(map);
 
+            google.maps.event.addListener(polyAangrens, 'click', showInfo);
+            google.maps.event.addListener(polyAangrens, 'mouseover', colorActive);
+            google.maps.event.addListener(polyAangrens, 'mouseout', colorNormal);
+
+            infowindow = new google.maps.InfoWindow();
+
+
             //function to add points
             function AddPoints(data) {
                 //Spilt the string into individual points
                 var pointsData = data.split(",");
 
                 var point = pointsData.length;
-                //console.log(point);
 
                 for (var i = 0; i < point; i++) {
                     var coordination = pointsData[i].split(" ");
                     //console.log(coordination);
-                    var latLng = new google.maps.LatLng(coordination[0], coordination[1]);
-                    patchArray.push(latLng);
+                    var buurtPoly = new google.maps.LatLng(parseFloat(coordination[0]), parseFloat(coordination[1]));
+
+                    patchArray.push(buurtPoly);
 
                 }
             }
@@ -246,10 +255,26 @@ foreach ($markerPoints as $value) {
 
                 for (var i = 0; i < point; i++) {
                     var coordination = pointsData[i].split(" ");
-                    //console.log(coordination);
-                    var latLng = new google.maps.LatLng(coordination[0], coordination[1]);
-                    patch.push(latLng);
+                    var aangrenzPoly = new google.maps.LatLng(parseFloat(coordination[0]), parseFloat(coordination[1]));
+                        patch.push(aangrenzPoly);
                 }
+            }
+
+            function colorActive() {
+                this.setOptions({fillColor: '#000000'});
+            }
+
+            function colorNormal() {
+                this.setOptions({fillColor: '#FF0000'});
+            }
+
+            function showInfo(event) {
+                var contentString = "<b>" + aagrenzendeNaam  +  "</b><br />";
+                contentString += "<br /><a href='#'>Zoom to</a><br />"; // later Zoomto need to be function that will change the search function to the current location.
+                // Replace our Info Window's content and position
+                infowindow.setContent(contentString);
+                infowindow.setPosition(event.latLng);
+                infowindow.open(map);
             }
 
             document.getElementById("side_bar").innerHTML = side_bar_html;
