@@ -175,14 +175,10 @@ foreach ($markerPoints as $value) {
 
             while (results = regExpression.exec(polygons)) {
                 Rings.push(results[1]);
-                console.log("first: " + results[1]);
-                console.log("results: " + results);
             }
 
             while (aangrensResults = regExpression.exec(aangrenzendePolygon)) {
                 Ringss.push(aangrensResults[1]);
-                console.log("second: " + aangrensResults[1]);
-                console.log("results: " + aangrensResults);
             }
 
             // searched buurt
