@@ -18,21 +18,18 @@ $processor = new Application_Model_Processor();
 $polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($this->buurt));
 // get buurt
 $buurt = $SolrBuurtCall->getBuurt($this->buurt);
-// buurt ID
-$buurtId = $SolrBuurtCall->getId($this->buurt);
 // buurt naam
 $buurtNaam = $SolrBuurtCall->getName($this->buurt);
 // get aangrenzende buurt
 $aangrenzendeBuurten = $SolrBuurtCall->getAangrenzendeBuurten($this->buurt);
 
 $filteredPolygon = array();
-foreach($aangrenzendeBuurten as $aangrenzebuurt){
+foreach ($aangrenzendeBuurten as $aangrenzebuurt) {
     $aangrensBuurtNaam = $SolrBuurtCall->getName($aangrenzebuurt);
     $aangrenspoly = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($aangrenzebuurt));
-    if($processor->getPolygonFromArray($SolrBuurtCall->getPolygon($aangrenzebuurt))){
-        array_push($filteredPolygon,$aangrenspoly );
+    if ($aangrenspoly) {
+        array_push($filteredPolygon, $aangrenspoly);
     }
-    print_r($aangrenspoly);
 }
 
 $markerPoints = $this->collection;
@@ -193,11 +190,10 @@ foreach ($markerPoints as $value) {
                 AddPoints(Rings[i]);
             }
 
-            //Draw the polygon for each of inner rings
+            //Draw the polygon aangrens for each of inner rings
             for (var i = 0; i < polyAangrenzen; i++) {
-                AddPoints(Ringss[i]);
+                AddPointsAangrens(Ringss[i]);
             }
-
 
 
             var polyAangrens = new google.maps.Polygon({
@@ -213,11 +209,13 @@ foreach ($markerPoints as $value) {
                 clickable: false,
                 fillColor: '#FFF',
                 fillOpacity: 0,
-                strokeColor: '#FF0000',
+                strokeColor: '#ffa500',
                 strokeOpacity: 1,
-                strokeWeight: 1,
+                strokeWeight: 3,
                 zIndex: 99
             });
+
+
 
             polyAangrens.setMap(map);
             poly.setMap(map);
@@ -228,15 +226,30 @@ foreach ($markerPoints as $value) {
                 var pointsData = data.split(",");
 
                 var point = pointsData.length;
+                //console.log(point);
 
                 for (var i = 0; i < point; i++) {
                     var coordination = pointsData[i].split(" ");
+                    //console.log(coordination);
                     var latLng = new google.maps.LatLng(coordination[0], coordination[1]);
                     patchArray.push(latLng);
-                    patch.push(latLng);
 
                 }
+            }
 
+            //function to add points
+            function AddPointsAangrens(data) {
+                //Spilt the string into individual points
+                var pointsData = data.split(",");
+
+                var point = pointsData.length;
+
+                for (var i = 0; i < point; i++) {
+                    var coordination = pointsData[i].split(" ");
+                    //console.log(coordination);
+                    var latLng = new google.maps.LatLng(coordination[0], coordination[1]);
+                    patch.push(latLng);
+                }
             }
 
             document.getElementById("side_bar").innerHTML = side_bar_html;
