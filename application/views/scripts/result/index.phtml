@@ -20,7 +20,9 @@ $polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($this
 
 $aangrenzendeBuurten = $SolrBuurtCall->getAangrenzendeBuurten($this->params['buurt']);
 
+
 $filteredPolygon = array();
+
 foreach ($aangrenzendeBuurten as $aangrenzebuurt) {
     $aangrenspoly = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($aangrenzebuurt));
     if ($aangrenspoly) {
@@ -28,8 +30,13 @@ foreach ($aangrenzendeBuurten as $aangrenzebuurt) {
     }
 }
 
+$filternamArray = array();
 foreach ($aangrenzendeBuurten as $aangrenzendeBuurt) {
-    $aangrenzendeBuurts = $SolrBuurtCall->getName($aangrenzendeBuurt);
+    $aangrenz = $SolrBuurtCall->getName($aangrenzendeBuurt);
+    if ($aangrenz) {
+        array_push($filternamArray, $aangrenz);
+    }
+   echo($aangrenz);
 }
 
 $markerPoints = $this->collection;
@@ -50,7 +57,7 @@ foreach ($markerPoints as $value) {
                 var lat = <?php echo json_encode($this->lat); ?>;
                 var lng = <?php echo json_encode($this->lng); ?>;
                 var polygon =<?php echo json_encode($polygonBuurt); ?>;
-                var aagrenzendeNaam = <?php echo json_encode($aangrenzendeBuurts); ?>;
+                var aagrenzendeNaam = <?php echo json_encode($filternamArray); ?>;
                 var aangrezendePolygon = <?php echo json_encode($filteredPolygon); ?>;
             </script>
 
@@ -209,10 +216,18 @@ foreach ($markerPoints as $value) {
                     strokeOpacity: 0.8,
                     strokeWeight: 2,
                     fillColor: '#FF0000',
-                    fillOpacity: 0.35
+                    fillOpacity: 0.35,
+                    indexID: j
                 });
 
                 aangrenzendePolygons.push(polygon);
+
+                google.maps.event.addListener(polygon, 'click', showInfo);
+                google.maps.event.addListener(polygon, 'mouseover', colorActive);
+                google.maps.event.addListener(polygon, 'mouseout', colorNormal);
+
+                infowindow = new google.maps.InfoWindow();
+
             }
 
             for (i = 0; i < aangrenzendePolygons.length; i++) {
@@ -231,12 +246,6 @@ foreach ($markerPoints as $value) {
             });
 
             poly.setMap(map);
-
-            google.maps.event.addListener(polyAangrens, 'click', showInfo);
-            google.maps.event.addListener(polyAangrens, 'mouseover', colorActive);
-            google.maps.event.addListener(polyAangrens, 'mouseout', colorNormal);
-
-            infowindow = new google.maps.InfoWindow();
 
 
             /**
@@ -262,19 +271,6 @@ foreach ($markerPoints as $value) {
                 }
             }
 
-            //function to add points
-            function AddPointsAangrens(data) {
-                //Spilt the string into individual points
-                var pointsData = data.split(",");
-
-                var point = pointsData.length;
-
-                for (var i = 0; i < point; i++) {
-                    var coordination = pointsData[i].split(" ");
-                    var aangrenzPoly = new google.maps.LatLng(parseFloat(coordination[0]), parseFloat(coordination[1]));
-                        patch.push(aangrenzPoly);
-                }
-            }
 
             function colorActive() {
                 this.setOptions({fillColor: '#000000'});
@@ -285,12 +281,16 @@ foreach ($markerPoints as $value) {
             }
 
             function showInfo(event) {
-                var contentString = "<b>" + aagrenzendeNaam  +  "</b><br />";
+
+                    var contentString = "<b>" + aagrenzendeNaam + "</b><br />";
+
+                console.log(aagrenzendeNaam);
                 contentString += "<br /><a href='#'>Zoom to</a><br />"; // later Zoomto need to be function that will change the search function to the current location.
                 // Replace our Info Window's content and position
                 infowindow.setContent(contentString);
                 infowindow.setPosition(event.latLng);
                 infowindow.open(map);
+
             }
 
             document.getElementById("side_bar").innerHTML = side_bar_html;
