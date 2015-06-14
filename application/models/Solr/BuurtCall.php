@@ -25,6 +25,7 @@ class Application_Model_Solr_BuurtCall
         } else {
             $val = "name";
         }
+
         $query = new SolrQuery();
         $query->setQuery("$val:$input");
         $query->addField('id')->addField('name')->addField('polygon')->addField('aangrenzende');

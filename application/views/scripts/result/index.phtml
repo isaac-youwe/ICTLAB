@@ -282,7 +282,7 @@ foreach ($markerPoints as $value) {
 
             function showInfo(event) {
 
-                    var contentString = "<b>" + aagrenzendeNaam + "</b><br />";
+                    var contentString = <?php echo json_encode($this->SolrA); ?> + ": " + <?php echo json_encode($this->SolrB); ?> + "<br />";
 
                 console.log(aagrenzendeNaam);
                 contentString += "<br /><a href='#'>Zoom to</a><br />"; // later Zoomto need to be function that will change the search function to the current location.
