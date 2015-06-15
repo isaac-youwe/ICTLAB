@@ -48,7 +48,7 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
         $url = '';
         $url .= $params['stad'] . '/' . $params['buurt'] . '/';
         foreach ($params as $key => $value) {
-            if ($key === 'controller' || $key === 'action' || $key === 'module' || $key === 'search' || $key === 'buurt') continue;
+            if ($key === 'controller' || $key === 'action' || $key === 'module' || $key === 'buurt' || $key === 'stad' || $key === 'startp') continue;
             $url .= $value . '/';
         }
         return parent::getBaseUrl() . $this->_aanbodUrl . $this->getApiKey() . '/' . '?type=' . $this->getType() . '&zo=/' . $url . '&' . $this->getSince();
@@ -61,12 +61,22 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
         return $response->TotaalAantalObjecten;
     }
 
-    public function totalObjectsCity($params, $city)
+    /**
+     * Get total house objects in city
+     *
+     * @param int|string $buurt
+     * @return int Results
+     */
+    public function totalObjectsCity($buurt)
     {
-        $params['filters']['city'] = $city;
-        $request = $this->getGuzzleClient()->createRequest('GET', $this->buildUrl($params));
+        $request = $this->getGuzzleClient()->createRequest('GET', 'http://zb.funda.info/frontend/geo/suggest/?niveau=3&max=1&type=koop&query=' . $buurt);
         $response = json_decode($request->send()->getBody());
-        return $response->TotaalAantalObjecten;
+
+        if (empty($response->Results)) {
+            return 0;
+        }
+
+        return $response->Results[0]->Aantal;
     }
 
     /**
