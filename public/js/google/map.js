@@ -118,7 +118,7 @@ function initialize() {
         });
 
         google.maps.event.addListener(polygon, 'click', function () {
-            console.log("Stad: " + buurtSteden[polygon.indexID] + " & buurt: " + aangrenzendeNamen[polygon.indexID]);
+            window.location = '/result?buurt=' + aangrenzendeNamen[polygon.indexID] + '&stad=' + buurtStedenNames[polygon.indexID];
         });
     };
 
