@@ -45,6 +45,9 @@ class ResultController extends Zend_Controller_Action
 
         $fundaAanbod = new Application_Model_Funda_Aanbod();
         $this->view->collection = $fundaAanbod->getCollection($this->params);
+
+
+        echo $fundaAanbod->getNameStad("Appingedam-Centrum");
     }
 }
 
