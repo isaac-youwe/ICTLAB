@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140206 Universiteitscomplex</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.542723,53.236832,0.000000
+            6.530346,53.234466,0.000000
+            6.518178,53.250867,0.000000
+            6.508764,53.255074,0.000000
+            6.508160,53.255448,0.000000
+            6.508207,53.257245,0.000000
+            6.511204,53.257217,0.000000
+            6.511291,53.257222,0.000000
+            6.512040,53.256313,0.000000
+            6.556910,53.242736,0.000000
+            6.558964,53.238688,0.000000
+            6.552399,53.238468,0.000000
+            6.542723,53.236832,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

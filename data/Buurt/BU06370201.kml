@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370201 De Leyens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.499200,52.064850,0.000000
+            4.490346,52.063443,0.000000
+            4.490268,52.065385,0.000000
+            4.482982,52.070379,0.000000
+            4.485857,52.073023,0.000000
+            4.491866,52.074732,0.000000
+            4.496625,52.078368,0.000000
+            4.499732,52.078714,0.000000
+            4.502278,52.080286,0.000000
+            4.508300,52.080219,0.000000
+            4.509761,52.079428,0.000000
+            4.507940,52.078090,0.000000
+            4.503039,52.070051,0.000000
+            4.499200,52.064850,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

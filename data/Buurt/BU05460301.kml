@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05460301 Noorderkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.506269,52.166102,0.000000
+            4.505855,52.163035,0.000000
+            4.500511,52.163657,0.000000
+            4.498630,52.164500,0.000000
+            4.494475,52.164587,0.000000
+            4.496923,52.167684,0.000000
+            4.496703,52.170128,0.000000
+            4.498414,52.172637,0.000000
+            4.505925,52.172001,0.000000
+            4.506785,52.169406,0.000000
+            4.504606,52.168800,0.000000
+            4.506269,52.166102,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

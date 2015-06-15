@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580501 Wierum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.015637,53.399241,0.000000
+            6.011371,53.398821,0.000000
+            6.008900,53.399375,0.000000
+            6.008895,53.401220,0.000000
+            6.015754,53.402818,0.000000
+            6.020329,53.403249,0.000000
+            6.020237,53.400987,0.000000
+            6.015637,53.399241,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

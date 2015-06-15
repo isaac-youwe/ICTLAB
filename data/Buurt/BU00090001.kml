@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00090001 Garmerwolde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.663688,53.244009,0.000000
+            6.657822,53.240612,0.000000
+            6.645007,53.247817,0.000000
+            6.644914,53.248904,0.000000
+            6.647143,53.250216,0.000000
+            6.660782,53.247323,0.000000
+            6.663984,53.244115,0.000000
+            6.663688,53.244009,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

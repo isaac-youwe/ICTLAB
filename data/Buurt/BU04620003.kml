@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04620003 Westerland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.933875,52.903048,0.000000
+            4.938449,52.897815,0.000000
+            4.943972,52.898486,0.000000
+            4.944125,52.895577,0.000000
+            4.937323,52.891749,0.000000
+            4.931331,52.890289,0.000000
+            4.930615,52.890827,0.000000
+            4.920012,52.888100,0.000000
+            4.916348,52.885824,0.000000
+            4.916181,52.885891,0.000000
+            4.904235,52.891235,0.000000
+            4.879025,52.886637,0.000000
+            4.876576,52.887610,0.000000
+            4.874547,52.888415,0.000000
+            4.883452,52.889352,0.000000
+            4.907177,52.893944,0.000000
+            4.919008,52.899383,0.000000
+            4.933834,52.903035,0.000000
+            4.933875,52.903048,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

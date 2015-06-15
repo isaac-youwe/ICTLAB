@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06680300 Kern Appeltern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.588412,51.831346,0.000000
+            5.583367,51.829873,0.000000
+            5.579573,51.830452,0.000000
+            5.579460,51.831225,0.000000
+            5.581311,51.831053,0.000000
+            5.581478,51.833797,0.000000
+            5.585081,51.834474,0.000000
+            5.586359,51.834774,0.000000
+            5.588412,51.831346,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

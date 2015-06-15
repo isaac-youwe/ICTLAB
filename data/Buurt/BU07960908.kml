@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960908 De Rompert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.320573,51.714098,0.000000
+            5.312072,51.710726,0.000000
+            5.308681,51.715350,0.000000
+            5.309939,51.715996,0.000000
+            5.308295,51.719505,0.000000
+            5.315010,51.720738,0.000000
+            5.316527,51.717583,0.000000
+            5.320573,51.714098,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

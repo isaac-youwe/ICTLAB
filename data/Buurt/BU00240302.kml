@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00240302 Zijldijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.765022,53.388297,0.000000
+            6.762284,53.386013,0.000000
+            6.760204,53.386066,0.000000
+            6.756549,53.390401,0.000000
+            6.753757,53.390961,0.000000
+            6.751694,53.394313,0.000000
+            6.752762,53.396912,0.000000
+            6.755055,53.398231,0.000000
+            6.758562,53.396979,0.000000
+            6.763772,53.391262,0.000000
+            6.765022,53.388297,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

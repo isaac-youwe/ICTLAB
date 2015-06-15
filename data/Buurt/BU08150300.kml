@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08150300 Wilbertoord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.778746,51.644823,0.000000
+            5.777743,51.644827,0.000000
+            5.774518,51.647583,0.000000
+            5.771579,51.653146,0.000000
+            5.770401,51.659723,0.000000
+            5.771366,51.660205,0.000000
+            5.776644,51.658101,0.000000
+            5.779308,51.655110,0.000000
+            5.779157,51.644983,0.000000
+            5.778793,51.644823,0.000000
+            5.778746,51.644823,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

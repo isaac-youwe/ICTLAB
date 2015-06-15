@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01094043 Noord-Sleen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.804644,52.797686,0.000000
+            6.804931,52.793772,0.000000
+            6.807310,52.791910,0.000000
+            6.809358,52.791457,0.000000
+            6.809337,52.788219,0.000000
+            6.807568,52.787880,0.000000
+            6.802911,52.787206,0.000000
+            6.800637,52.791436,0.000000
+            6.795975,52.792777,0.000000
+            6.786998,52.790300,0.000000
+            6.784853,52.791345,0.000000
+            6.784306,52.793252,0.000000
+            6.787274,52.794518,0.000000
+            6.792780,52.794882,0.000000
+            6.792717,52.797238,0.000000
+            6.795289,52.797745,0.000000
+            6.794882,52.796015,0.000000
+            6.804644,52.797686,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

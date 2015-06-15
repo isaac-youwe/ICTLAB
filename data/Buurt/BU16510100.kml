@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16510100 Uithuizermeeden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.743035,53.418397,0.000000
+            6.732335,53.407821,0.000000
+            6.724366,53.408280,0.000000
+            6.711741,53.406672,0.000000
+            6.706460,53.407777,0.000000
+            6.706161,53.409568,0.000000
+            6.707875,53.411514,0.000000
+            6.714507,53.413798,0.000000
+            6.724645,53.419129,0.000000
+            6.731787,53.420497,0.000000
+            6.739405,53.420713,0.000000
+            6.743035,53.418397,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

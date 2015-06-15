@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340301 Centrum Almere-Buiten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.284646,52.394721,0.000000
+            5.277205,52.391508,0.000000
+            5.275332,52.392452,0.000000
+            5.271915,52.392310,0.000000
+            5.268646,52.394005,0.000000
+            5.279744,52.398784,0.000000
+            5.282620,52.396471,0.000000
+            5.284646,52.394721,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

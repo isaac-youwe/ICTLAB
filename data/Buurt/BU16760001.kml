@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16760001 Malta</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.932823,51.648324,0.000000
+            3.925959,51.647484,0.000000
+            3.925313,51.650602,0.000000
+            3.922722,51.653721,0.000000
+            3.920880,51.654140,0.000000
+            3.921686,51.654690,0.000000
+            3.934854,51.651564,0.000000
+            3.937733,51.651007,0.000000
+            3.937214,51.650088,0.000000
+            3.932823,51.648324,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

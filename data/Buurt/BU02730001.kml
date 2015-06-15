@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02730001 Putten-Zuid-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.614594,52.260516,0.000000
+            5.619451,52.259472,0.000000
+            5.627201,52.259924,0.000000
+            5.626486,52.258575,0.000000
+            5.629371,52.258532,0.000000
+            5.629134,52.257916,0.000000
+            5.624916,52.255819,0.000000
+            5.622446,52.252139,0.000000
+            5.618875,52.249559,0.000000
+            5.607341,52.250601,0.000000
+            5.602453,52.250488,0.000000
+            5.599176,52.251427,0.000000
+            5.604995,52.257547,0.000000
+            5.608379,52.255902,0.000000
+            5.610410,52.258304,0.000000
+            5.610940,52.262227,0.000000
+            5.614237,52.261356,0.000000
+            5.614594,52.260516,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08560102 Bogerd-Vijfhuis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.610451,51.664360,0.000000
+            5.608959,51.661347,0.000000
+            5.602381,51.662892,0.000000
+            5.600587,51.664613,0.000000
+            5.602716,51.668680,0.000000
+            5.606578,51.671501,0.000000
+            5.609588,51.668259,0.000000
+            5.610451,51.664360,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

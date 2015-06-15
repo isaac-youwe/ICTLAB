@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02090151 Beuningen Heuve-1</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.764261,51.854692,0.000000
+            5.759977,51.850453,0.000000
+            5.756791,51.851818,0.000000
+            5.756408,51.853872,0.000000
+            5.760033,51.853903,0.000000
+            5.759236,51.855096,0.000000
+            5.755545,51.855763,0.000000
+            5.756739,51.858274,0.000000
+            5.758011,51.858681,0.000000
+            5.764448,51.854896,0.000000
+            5.764261,51.854692,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

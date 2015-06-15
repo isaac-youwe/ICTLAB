@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17230100 Chaam</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.868635,51.508031,0.000000
+            4.869079,51.504898,0.000000
+            4.870736,51.506103,0.000000
+            4.871497,51.503426,0.000000
+            4.875247,51.502324,0.000000
+            4.871669,51.497691,0.000000
+            4.854912,51.505796,0.000000
+            4.851165,51.506289,0.000000
+            4.851721,51.508875,0.000000
+            4.852404,51.510699,0.000000
+            4.859823,51.510015,0.000000
+            4.862880,51.508768,0.000000
+            4.868635,51.508031,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

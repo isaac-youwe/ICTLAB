@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04620008 Verspreide huizen Oeverpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.045076,52.933963,0.000000
+            5.052562,52.927693,0.000000
+            5.051095,52.924993,0.000000
+            5.049594,52.926786,0.000000
+            5.042115,52.932157,0.000000
+            5.039148,52.931250,0.000000
+            5.037725,52.923157,0.000000
+            5.037420,52.923064,0.000000
+            5.034758,52.922250,0.000000
+            5.034720,52.922167,0.000000
+            5.033674,52.922980,0.000000
+            5.031902,52.925457,0.000000
+            5.027200,52.928080,0.000000
+            5.039054,52.932789,0.000000
+            5.040231,52.933616,0.000000
+            5.042108,52.933056,0.000000
+            5.043596,52.933060,0.000000
+            5.045076,52.933963,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.059884,52.942992,0.000000
+            5.053981,52.936685,0.000000
+            5.048016,52.938466,0.000000
+            5.049490,52.940267,0.000000
+            5.058389,52.943887,0.000000
+            5.165229,52.999855,0.000000
+            5.166723,52.998959,0.000000
+            5.059884,52.942992,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

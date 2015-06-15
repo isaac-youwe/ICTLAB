@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17420507 Buurtschap Lichtenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.447844,52.322103,0.000000
+            6.461001,52.320187,0.000000
+            6.461084,52.320255,0.000000
+            6.463651,52.298828,0.000000
+            6.457300,52.295411,0.000000
+            6.456499,52.297599,0.000000
+            6.447515,52.322157,0.000000
+            6.447844,52.322103,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

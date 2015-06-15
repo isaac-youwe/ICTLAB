@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830200 Scharnegoutum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.683863,53.057967,0.000000
+            5.683187,53.055127,0.000000
+            5.682552,53.055416,0.000000
+            5.679556,53.053626,0.000000
+            5.672116,53.056340,0.000000
+            5.671963,53.056403,0.000000
+            5.677864,53.067126,0.000000
+            5.682239,53.067750,0.000000
+            5.684776,53.063649,0.000000
+            5.687856,53.061137,0.000000
+            5.687511,53.059772,0.000000
+            5.683863,53.057967,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

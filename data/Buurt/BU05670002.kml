@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05670002 Dorrestein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.610346,51.961563,0.000000
+            4.601029,51.958012,0.000000
+            4.598474,51.960747,0.000000
+            4.600518,51.961504,0.000000
+            4.601784,51.963098,0.000000
+            4.598297,51.966061,0.000000
+            4.599002,51.967954,0.000000
+            4.601234,51.969799,0.000000
+            4.602890,51.969028,0.000000
+            4.609425,51.968864,0.000000
+            4.617414,51.965876,0.000000
+            4.610346,51.961563,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03080004 Oude-Oosterhei</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.302600,52.208646,0.000000
+            5.302167,52.206609,0.000000
+            5.289940,52.203006,0.000000
+            5.289701,52.203172,0.000000
+            5.291820,52.208872,0.000000
+            5.297145,52.208400,0.000000
+            5.301481,52.210108,0.000000
+            5.302600,52.208646,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

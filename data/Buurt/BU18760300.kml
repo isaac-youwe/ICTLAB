@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18760300 Steenderen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.195293,52.059644,0.000000
+            6.191919,52.057458,0.000000
+            6.186412,52.059693,0.000000
+            6.185124,52.059329,0.000000
+            6.180087,52.064192,0.000000
+            6.179223,52.066136,0.000000
+            6.180676,52.066472,0.000000
+            6.179890,52.068587,0.000000
+            6.189523,52.068549,0.000000
+            6.192493,52.069541,0.000000
+            6.193330,52.067572,0.000000
+            6.191884,52.066190,0.000000
+            6.195293,52.059644,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

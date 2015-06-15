@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440331 Tigris- en Bostondreef en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.106808,52.121093,0.000000
+            5.104188,52.119502,0.000000
+            5.092883,52.124825,0.000000
+            5.098808,52.128467,0.000000
+            5.098683,52.129094,0.000000
+            5.104891,52.128009,0.000000
+            5.111253,52.125278,0.000000
+            5.105830,52.121699,0.000000
+            5.106808,52.121093,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

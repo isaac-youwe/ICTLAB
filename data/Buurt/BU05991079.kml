@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991079 Kop van Zuid-Entrepot</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.511722,51.901360,0.000000
+            4.508954,51.899190,0.000000
+            4.504923,51.902295,0.000000
+            4.497118,51.905642,0.000000
+            4.498553,51.906950,0.000000
+            4.494155,51.909049,0.000000
+            4.494221,51.909818,0.000000
+            4.500071,51.913180,0.000000
+            4.511829,51.902876,0.000000
+            4.511722,51.901360,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

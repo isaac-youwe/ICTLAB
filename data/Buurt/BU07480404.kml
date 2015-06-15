@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480404 Rode Schouw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.276614,51.527930,0.000000
+            4.281436,51.526872,0.000000
+            4.288218,51.527627,0.000000
+            4.286231,51.523838,0.000000
+            4.287351,51.521912,0.000000
+            4.278612,51.520456,0.000000
+            4.275376,51.520761,0.000000
+            4.275101,51.524743,0.000000
+            4.276614,51.527930,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

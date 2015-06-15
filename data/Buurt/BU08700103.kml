@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08700103 Welgelegen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.893295,51.806089,0.000000
+            4.892218,51.803981,0.000000
+            4.880537,51.803951,0.000000
+            4.879507,51.804580,0.000000
+            4.885176,51.809643,0.000000
+            4.889737,51.808113,0.000000
+            4.890330,51.806523,0.000000
+            4.893295,51.806089,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

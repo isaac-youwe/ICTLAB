@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00370200 Musselkanaal Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.018012,52.926372,0.000000
+            7.015651,52.925234,0.000000
+            7.014334,52.926066,0.000000
+            7.013886,52.926457,0.000000
+            7.003996,52.935074,0.000000
+            7.003139,52.935821,0.000000
+            7.023737,52.944241,0.000000
+            7.028033,52.939451,0.000000
+            7.029451,52.937470,0.000000
+            7.018012,52.926372,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990010 Roden West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.412609,53.143654,0.000000
+            6.417943,53.132160,0.000000
+            6.415451,53.131492,0.000000
+            6.419522,53.127358,0.000000
+            6.412622,53.126159,0.000000
+            6.408628,53.123254,0.000000
+            6.404009,53.127509,0.000000
+            6.402329,53.130631,0.000000
+            6.403501,53.131777,0.000000
+            6.402870,53.132664,0.000000
+            6.401190,53.133505,0.000000
+            6.398089,53.133172,0.000000
+            6.396596,53.133738,0.000000
+            6.395795,53.135536,0.000000
+            6.393632,53.139353,0.000000
+            6.393953,53.140627,0.000000
+            6.412609,53.143654,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

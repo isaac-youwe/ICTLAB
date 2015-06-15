@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16761205 Nieuw-Haamstede</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.711394,51.718174,0.000000
+            3.712358,51.717029,0.000000
+            3.713487,51.717573,0.000000
+            3.715800,51.714971,0.000000
+            3.712666,51.712739,0.000000
+            3.705664,51.710635,0.000000
+            3.703474,51.710829,0.000000
+            3.690144,51.706188,0.000000
+            3.686616,51.708844,0.000000
+            3.689521,51.711187,0.000000
+            3.691952,51.711295,0.000000
+            3.696628,51.714053,0.000000
+            3.711394,51.718174,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06530209 Verspreide huizen Rijs</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.478778,52.869553,0.000000
+            5.480770,52.867410,0.000000
+            5.484578,52.868783,0.000000
+            5.492455,52.862885,0.000000
+            5.496626,52.860713,0.000000
+            5.503776,52.858608,0.000000
+            5.499932,52.845456,0.000000
+            5.489641,52.849028,0.000000
+            5.488978,52.849163,0.000000
+            5.484817,52.854630,0.000000
+            5.472390,52.866455,0.000000
+            5.476804,52.867904,0.000000
+            5.477272,52.869099,0.000000
+            5.478778,52.869553,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.507488,52.877811,0.000000
+            5.516566,52.871088,0.000000
+            5.505198,52.861964,0.000000
+            5.504370,52.863594,0.000000
+            5.496934,52.868028,0.000000
+            5.495364,52.870569,0.000000
+            5.495379,52.874069,0.000000
+            5.495642,52.874188,0.000000
+            5.499170,52.877910,0.000000
+            5.502204,52.877816,0.000000
+            5.504043,52.878983,0.000000
+            5.507488,52.877811,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07961109 De Rietvelden-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.275167,51.703036,0.000000
+            5.269932,51.699536,0.000000
+            5.262350,51.704701,0.000000
+            5.258803,51.705922,0.000000
+            5.262443,51.708670,0.000000
+            5.272597,51.714001,0.000000
+            5.276082,51.714784,0.000000
+            5.275148,51.710672,0.000000
+            5.279999,51.707932,0.000000
+            5.280922,51.704025,0.000000
+            5.275167,51.703036,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

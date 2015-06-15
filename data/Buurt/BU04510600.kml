@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04510600 Meerwijk-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.826142,52.232345,0.000000
+            4.826805,52.231426,0.000000
+            4.827853,52.231738,0.000000
+            4.828369,52.230377,0.000000
+            4.827975,52.230254,0.000000
+            4.819096,52.228390,0.000000
+            4.818732,52.228487,0.000000
+            4.818565,52.228278,0.000000
+            4.816928,52.226231,0.000000
+            4.814245,52.227401,0.000000
+            4.811255,52.228705,0.000000
+            4.814869,52.231465,0.000000
+            4.816474,52.235960,0.000000
+            4.810473,52.238153,0.000000
+            4.812861,52.240053,0.000000
+            4.808004,52.243761,0.000000
+            4.809320,52.245204,0.000000
+            4.816001,52.241348,0.000000
+            4.828731,52.233716,0.000000
+            4.826142,52.232345,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

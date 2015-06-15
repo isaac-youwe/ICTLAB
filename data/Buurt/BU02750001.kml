@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02750001 Dieren-Noord boven spoorlijn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.111041,52.051689,0.000000
+            6.101019,52.043219,0.000000
+            6.098440,52.045369,0.000000
+            6.090544,52.063564,0.000000
+            6.089432,52.068477,0.000000
+            6.092355,52.068680,0.000000
+            6.104325,52.059803,0.000000
+            6.107697,52.057289,0.000000
+            6.111041,52.051689,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

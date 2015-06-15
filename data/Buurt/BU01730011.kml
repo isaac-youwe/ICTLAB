@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01730011 De Graven Es</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.907407,52.332372,0.000000
+            6.911746,52.330518,0.000000
+            6.917099,52.330449,0.000000
+            6.924823,52.318733,0.000000
+            6.917358,52.315085,0.000000
+            6.906312,52.317549,0.000000
+            6.907795,52.317745,0.000000
+            6.897980,52.323993,0.000000
+            6.894733,52.325007,0.000000
+            6.895427,52.325333,0.000000
+            6.898452,52.327992,0.000000
+            6.900103,52.333365,0.000000
+            6.907407,52.332372,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

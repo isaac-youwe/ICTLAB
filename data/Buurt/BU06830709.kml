@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830709 Verspreide huizen Koufurderrige</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.649693,52.939066,0.000000
+            5.655943,52.935084,0.000000
+            5.643065,52.935977,0.000000
+            5.640078,52.921937,0.000000
+            5.630311,52.935501,0.000000
+            5.630469,52.938226,0.000000
+            5.638748,52.937777,0.000000
+            5.640791,52.939620,0.000000
+            5.649693,52.939066,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.640921,52.966472,0.000000
+            5.641927,52.965997,0.000000
+            5.649277,52.966319,0.000000
+            5.649414,52.953217,0.000000
+            5.647287,52.950421,0.000000
+            5.645211,52.944044,0.000000
+            5.631548,52.944903,0.000000
+            5.634446,52.950504,0.000000
+            5.638589,52.957570,0.000000
+            5.640921,52.966472,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.689161,52.933173,0.000000
+            5.675774,52.933206,0.000000
+            5.663966,52.934126,0.000000
+            5.659056,52.944123,0.000000
+            5.657507,52.953939,0.000000
+            5.659785,52.961299,0.000000
+            5.659159,52.966921,0.000000
+            5.690860,52.967136,0.000000
+            5.687783,52.945918,0.000000
+            5.687760,52.945759,0.000000
+            5.687705,52.937670,0.000000
+            5.689161,52.933173,0.000000
+            5.689161,52.933173,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

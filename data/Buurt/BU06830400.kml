@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830400 Oosthem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.603908,53.014545,0.000000
+            5.602050,53.013967,0.000000
+            5.596696,53.015274,0.000000
+            5.595574,53.017710,0.000000
+            5.598162,53.019425,0.000000
+            5.601400,53.019844,0.000000
+            5.604798,53.017676,0.000000
+            5.603908,53.014545,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

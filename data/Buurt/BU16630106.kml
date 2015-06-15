@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16630106 Zuurdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.390561,53.334025,0.000000
+            6.388214,53.333673,0.000000
+            6.374879,53.336585,0.000000
+            6.373102,53.338423,0.000000
+            6.375743,53.339010,0.000000
+            6.380140,53.338575,0.000000
+            6.390083,53.335460,0.000000
+            6.390561,53.334025,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

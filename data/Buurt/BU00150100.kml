@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00150100 Lutjegast</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.260221,53.225127,0.000000
+            6.257730,53.224888,0.000000
+            6.255377,53.227647,0.000000
+            6.255162,53.231921,0.000000
+            6.252616,53.234858,0.000000
+            6.252990,53.235960,0.000000
+            6.258301,53.238056,0.000000
+            6.267945,53.239212,0.000000
+            6.274402,53.237704,0.000000
+            6.276478,53.236315,0.000000
+            6.276223,53.234677,0.000000
+            6.272472,53.233339,0.000000
+            6.260853,53.233130,0.000000
+            6.261776,53.227607,0.000000
+            6.260221,53.225127,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08080302 Kessel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.398670,51.799276,0.000000
+            5.393936,51.797543,0.000000
+            5.384678,51.805763,0.000000
+            5.393004,51.811784,0.000000
+            5.398807,51.817177,0.000000
+            5.398842,51.817221,0.000000
+            5.400258,51.818975,0.000000
+            5.400379,51.819050,0.000000
+            5.406062,51.822570,0.000000
+            5.412603,51.821758,0.000000
+            5.412080,51.816189,0.000000
+            5.414815,51.810635,0.000000
+            5.414724,51.808951,0.000000
+            5.411965,51.805781,0.000000
+            5.412442,51.802789,0.000000
+            5.403975,51.801475,0.000000
+            5.398670,51.799276,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

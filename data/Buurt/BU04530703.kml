@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04530703 Eltabuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.638954,52.414382,0.000000
+            4.636075,52.410768,0.000000
+            4.635833,52.410816,0.000000
+            4.631650,52.411639,0.000000
+            4.631210,52.411636,0.000000
+            4.631578,52.412638,0.000000
+            4.632142,52.414175,0.000000
+            4.631364,52.418911,0.000000
+            4.638200,52.422713,0.000000
+            4.641702,52.427075,0.000000
+            4.644095,52.425366,0.000000
+            4.644358,52.420305,0.000000
+            4.639000,52.414433,0.000000
+            4.638954,52.414382,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

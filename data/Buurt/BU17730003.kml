@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17730003 Fortmond en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.101559,52.367592,0.000000
+            6.090805,52.360468,0.000000
+            6.090498,52.360724,0.000000
+            6.080249,52.362582,0.000000
+            6.077340,52.364397,0.000000
+            6.078879,52.368883,0.000000
+            6.080389,52.371570,0.000000
+            6.083340,52.372452,0.000000
+            6.096586,52.374171,0.000000
+            6.097060,52.374265,0.000000
+            6.101559,52.367592,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

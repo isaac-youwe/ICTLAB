@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02620106 Verspreide huizen Het Veen en Grote Veld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.402550,52.134766,0.000000
+            6.398221,52.133879,0.000000
+            6.394916,52.134225,0.000000
+            6.392550,52.131111,0.000000
+            6.392177,52.131114,0.000000
+            6.377472,52.126744,0.000000
+            6.369202,52.124285,0.000000
+            6.368651,52.124120,0.000000
+            6.361408,52.126877,0.000000
+            6.358566,52.130497,0.000000
+            6.357744,52.133802,0.000000
+            6.358839,52.143955,0.000000
+            6.367642,52.144896,0.000000
+            6.390994,52.149126,0.000000
+            6.401625,52.151682,0.000000
+            6.409508,52.149329,0.000000
+            6.417459,52.149153,0.000000
+            6.419341,52.144349,0.000000
+            6.419373,52.144084,0.000000
+            6.419839,52.140511,0.000000
+            6.415887,52.139186,0.000000
+            6.402550,52.134766,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

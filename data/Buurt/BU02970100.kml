@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02970100 Brakel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.111035,51.818121,0.000000
+            5.104977,51.812336,0.000000
+            5.102657,51.813237,0.000000
+            5.091170,51.815610,0.000000
+            5.090662,51.813853,0.000000
+            5.085919,51.815115,0.000000
+            5.080567,51.818031,0.000000
+            5.085380,51.818816,0.000000
+            5.082893,51.823274,0.000000
+            5.085213,51.823979,0.000000
+            5.089031,51.823685,0.000000
+            5.092660,51.821942,0.000000
+            5.101375,51.821090,0.000000
+            5.104634,51.818696,0.000000
+            5.111035,51.818121,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

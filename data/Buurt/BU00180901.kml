@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00180901 Waterhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.653348,53.188832,0.000000
+            6.657077,53.188519,0.000000
+            6.661970,53.184820,0.000000
+            6.655189,53.184271,0.000000
+            6.656341,53.181479,0.000000
+            6.657697,53.181073,0.000000
+            6.657576,53.180759,0.000000
+            6.657346,53.181163,0.000000
+            6.639527,53.185844,0.000000
+            6.643981,53.187561,0.000000
+            6.644067,53.187594,0.000000
+            6.647059,53.187563,0.000000
+            6.639657,53.190337,0.000000
+            6.640243,53.190677,0.000000
+            6.646125,53.188906,0.000000
+            6.647383,53.189379,0.000000
+            6.646778,53.190116,0.000000
+            6.654037,53.191752,0.000000
+            6.653348,53.188832,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

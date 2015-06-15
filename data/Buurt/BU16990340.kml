@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990340 Zuidvelde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.458605,53.046292,0.000000
+            6.462838,53.041539,0.000000
+            6.461527,53.041179,0.000000
+            6.459395,53.043626,0.000000
+            6.456278,53.042849,0.000000
+            6.452865,53.045237,0.000000
+            6.456183,53.045990,0.000000
+            6.454865,53.050658,0.000000
+            6.459972,53.049607,0.000000
+            6.458605,53.046292,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

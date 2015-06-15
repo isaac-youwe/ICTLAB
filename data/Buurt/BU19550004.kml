@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19550004 Braamt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.269540,51.925178,0.000000
+            6.269107,51.923058,0.000000
+            6.266882,51.923406,0.000000
+            6.266976,51.922233,0.000000
+            6.263210,51.921823,0.000000
+            6.260418,51.924943,0.000000
+            6.264015,51.926546,0.000000
+            6.269540,51.925178,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

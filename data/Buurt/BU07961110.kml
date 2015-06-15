@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07961110 Veemarktkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.293786,51.698772,0.000000
+            5.290397,51.697286,0.000000
+            5.281778,51.701615,0.000000
+            5.280922,51.704025,0.000000
+            5.279999,51.707932,0.000000
+            5.288649,51.704726,0.000000
+            5.296358,51.698914,0.000000
+            5.293786,51.698772,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

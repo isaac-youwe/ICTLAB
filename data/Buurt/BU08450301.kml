@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08450301 Westakkers</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.411424,51.670865,0.000000
+            5.405889,51.668252,0.000000
+            5.401986,51.670719,0.000000
+            5.404215,51.671648,0.000000
+            5.405720,51.673557,0.000000
+            5.408838,51.674423,0.000000
+            5.414429,51.674018,0.000000
+            5.411424,51.670865,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

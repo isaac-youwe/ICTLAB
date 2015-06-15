@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03990303 Plan Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.729809,52.601872,0.000000
+            4.726537,52.596953,0.000000
+            4.711778,52.601691,0.000000
+            4.715284,52.606252,0.000000
+            4.717758,52.608191,0.000000
+            4.724907,52.605371,0.000000
+            4.727078,52.602585,0.000000
+            4.729809,52.601872,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

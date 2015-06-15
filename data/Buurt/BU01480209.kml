@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01480209 Verspreide huizen Oudleusenerveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.353033,52.540075,0.000000
+            6.361323,52.524203,0.000000
+            6.353916,52.522466,0.000000
+            6.345036,52.520740,0.000000
+            6.344163,52.520221,0.000000
+            6.343543,52.519854,0.000000
+            6.337688,52.521698,0.000000
+            6.331796,52.521745,0.000000
+            6.331886,52.522036,0.000000
+            6.321650,52.522027,0.000000
+            6.303746,52.519554,0.000000
+            6.301683,52.522529,0.000000
+            6.293444,52.527277,0.000000
+            6.292421,52.531673,0.000000
+            6.284826,52.542924,0.000000
+            6.292230,52.544212,0.000000
+            6.306334,52.545148,0.000000
+            6.304914,52.550955,0.000000
+            6.345491,52.553507,0.000000
+            6.345739,52.553095,0.000000
+            6.352836,52.540453,0.000000
+            6.353033,52.540075,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.308086,52.533536,0.000000
+            6.308961,52.531620,0.000000
+            6.312037,52.531927,0.000000
+            6.315870,52.531100,0.000000
+            6.314557,52.534950,0.000000
+            6.308086,52.533536,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

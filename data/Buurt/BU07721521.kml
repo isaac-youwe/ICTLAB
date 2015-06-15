@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721521 Kerkdorp Acht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.442381,51.473916,0.000000
+            5.432398,51.468866,0.000000
+            5.412409,51.484179,0.000000
+            5.411790,51.484585,0.000000
+            5.411781,51.484595,0.000000
+            5.426850,51.489721,0.000000
+            5.436650,51.479672,0.000000
+            5.442381,51.473916,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

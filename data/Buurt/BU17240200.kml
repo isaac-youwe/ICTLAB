@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17240200 Luyksgestel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.316289,51.281466,0.000000
+            5.307497,51.279164,0.000000
+            5.303293,51.284635,0.000000
+            5.315312,51.288840,0.000000
+            5.313193,51.290573,0.000000
+            5.321379,51.294665,0.000000
+            5.332512,51.298214,0.000000
+            5.338467,51.289446,0.000000
+            5.316289,51.281466,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

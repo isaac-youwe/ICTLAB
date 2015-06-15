@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01932020 Spoolde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.054416,52.510145,0.000000
+            6.057355,52.508974,0.000000
+            6.062550,52.509375,0.000000
+            6.065985,52.505657,0.000000
+            6.054356,52.499388,0.000000
+            6.045639,52.503904,0.000000
+            6.045288,52.504067,0.000000
+            6.046585,52.506010,0.000000
+            6.049965,52.507028,0.000000
+            6.054416,52.510145,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

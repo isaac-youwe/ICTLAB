@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16520100 Handel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.710681,51.584195,0.000000
+            5.711999,51.583051,0.000000
+            5.714024,51.583244,0.000000
+            5.718120,51.580236,0.000000
+            5.719574,51.577586,0.000000
+            5.718861,51.576643,0.000000
+            5.714886,51.575943,0.000000
+            5.713280,51.573907,0.000000
+            5.711992,51.573769,0.000000
+            5.713709,51.575784,0.000000
+            5.709275,51.575828,0.000000
+            5.708618,51.579328,0.000000
+            5.705516,51.583083,0.000000
+            5.708091,51.585515,0.000000
+            5.709013,51.585704,0.000000
+            5.710009,51.586319,0.000000
+            5.710681,51.584195,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

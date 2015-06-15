@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05051917 Dordtse Kil III</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.632745,51.760846,0.000000
+            4.626647,51.759910,0.000000
+            4.626541,51.766167,0.000000
+            4.626441,51.772123,0.000000
+            4.626435,51.772460,0.000000
+            4.626461,51.772560,0.000000
+            4.644282,51.772502,0.000000
+            4.643509,51.762756,0.000000
+            4.632745,51.760846,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

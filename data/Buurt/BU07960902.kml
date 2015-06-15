@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960902 De Herven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.328659,51.704664,0.000000
+            5.319144,51.701883,0.000000
+            5.318226,51.705438,0.000000
+            5.319667,51.708438,0.000000
+            5.323938,51.711216,0.000000
+            5.329489,51.708443,0.000000
+            5.329502,51.705578,0.000000
+            5.328659,51.704664,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

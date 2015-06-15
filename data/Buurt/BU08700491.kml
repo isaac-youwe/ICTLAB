@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08700491 Vierbannen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.919008,51.744798,0.000000
+            4.907941,51.735978,0.000000
+            4.905512,51.736273,0.000000
+            4.897840,51.740809,0.000000
+            4.903825,51.744874,0.000000
+            4.907705,51.757397,0.000000
+            4.919063,51.756472,0.000000
+            4.918693,51.754195,0.000000
+            4.921098,51.753877,0.000000
+            4.923802,51.753520,0.000000
+            4.919008,51.744798,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

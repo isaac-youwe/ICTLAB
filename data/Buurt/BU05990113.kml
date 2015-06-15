@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990113 C.S. kwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.476941,51.923978,0.000000
+            4.470336,51.922490,0.000000
+            4.462664,51.922485,0.000000
+            4.461030,51.923174,0.000000
+            4.454826,51.922716,0.000000
+            4.454775,51.923010,0.000000
+            4.454659,51.923981,0.000000
+            4.462738,51.924656,0.000000
+            4.469728,51.926018,0.000000
+            4.476424,51.926248,0.000000
+            4.476941,51.923978,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

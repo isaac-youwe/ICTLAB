@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09940101 Vroenhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.793060,50.876492,0.000000
+            5.789032,50.869023,0.000000
+            5.784759,50.868824,0.000000
+            5.771115,50.872943,0.000000
+            5.773667,50.872611,0.000000
+            5.773682,50.874409,0.000000
+            5.772495,50.876701,0.000000
+            5.782597,50.877544,0.000000
+            5.793060,50.876492,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

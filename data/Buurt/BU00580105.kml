@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580105 Oostrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.066234,53.330012,0.000000
+            6.059936,53.329011,0.000000
+            6.056501,53.329283,0.000000
+            6.050489,53.331290,0.000000
+            6.050642,53.332925,0.000000
+            6.052606,53.334482,0.000000
+            6.063755,53.335278,0.000000
+            6.066628,53.333421,0.000000
+            6.065939,53.331896,0.000000
+            6.067726,53.331044,0.000000
+            6.066234,53.330012,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

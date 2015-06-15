@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09172002 Nieuw-Einde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.962436,50.922449,0.000000
+            5.962347,50.919907,0.000000
+            5.955620,50.920726,0.000000
+            5.950170,50.924388,0.000000
+            5.952651,50.926001,0.000000
+            5.952858,50.927045,0.000000
+            5.965077,50.928119,0.000000
+            5.966451,50.927808,0.000000
+            5.965048,50.925865,0.000000
+            5.965950,50.923384,0.000000
+            5.962436,50.922449,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

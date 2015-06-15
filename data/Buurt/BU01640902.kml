@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640902 Stadspark Weusthag-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.808781,52.284100,0.000000
+            6.806702,52.283087,0.000000
+            6.796971,52.287047,0.000000
+            6.784580,52.288755,0.000000
+            6.784610,52.289707,0.000000
+            6.790634,52.294441,0.000000
+            6.791184,52.294365,0.000000
+            6.802349,52.291625,0.000000
+            6.811486,52.288825,0.000000
+            6.808781,52.284100,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

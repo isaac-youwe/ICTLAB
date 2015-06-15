@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830301 Het Ven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.209010,51.384497,0.000000
+            6.198450,51.376106,0.000000
+            6.192439,51.377203,0.000000
+            6.187587,51.379476,0.000000
+            6.184874,51.380681,0.000000
+            6.190950,51.385565,0.000000
+            6.187388,51.387945,0.000000
+            6.192456,51.391278,0.000000
+            6.209646,51.386148,0.000000
+            6.209010,51.384497,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

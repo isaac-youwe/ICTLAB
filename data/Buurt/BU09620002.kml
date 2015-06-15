@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09620002 Nagelbeek-Hegge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.869439,50.927989,0.000000
+            5.866749,50.924644,0.000000
+            5.866557,50.924405,0.000000
+            5.856619,50.926244,0.000000
+            5.849480,50.923576,0.000000
+            5.848075,50.925379,0.000000
+            5.849516,50.927172,0.000000
+            5.855287,50.935239,0.000000
+            5.856624,50.943168,0.000000
+            5.869248,50.942266,0.000000
+            5.880918,50.940548,0.000000
+            5.886019,50.938254,0.000000
+            5.889471,50.935306,0.000000
+            5.888645,50.934201,0.000000
+            5.888000,50.934203,0.000000
+            5.882521,50.932502,0.000000
+            5.882290,50.932430,0.000000
+            5.869439,50.927989,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

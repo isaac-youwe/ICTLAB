@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05182915 Schildersbuurt-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.307810,52.061382,0.000000
+            4.305950,52.061132,0.000000
+            4.301074,52.062611,0.000000
+            4.297043,52.066755,0.000000
+            4.292912,52.070143,0.000000
+            4.289852,52.072186,0.000000
+            4.296226,52.073877,0.000000
+            4.299344,52.072096,0.000000
+            4.300298,52.070886,0.000000
+            4.306230,52.065207,0.000000
+            4.307810,52.061382,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

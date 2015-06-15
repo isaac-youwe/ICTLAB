@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08560106 Hoevenseveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.626532,51.660950,0.000000
+            5.620113,51.659741,0.000000
+            5.619351,51.660868,0.000000
+            5.616123,51.660625,0.000000
+            5.612258,51.664562,0.000000
+            5.622498,51.668871,0.000000
+            5.624027,51.665906,0.000000
+            5.626532,51.660950,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

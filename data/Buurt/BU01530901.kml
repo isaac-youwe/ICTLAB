@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530901 Dorp Boekelo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.790454,52.212279,0.000000
+            6.795166,52.209861,0.000000
+            6.798120,52.211524,0.000000
+            6.805240,52.208456,0.000000
+            6.808345,52.210084,0.000000
+            6.811082,52.208351,0.000000
+            6.813446,52.201437,0.000000
+            6.809951,52.199456,0.000000
+            6.809162,52.200459,0.000000
+            6.802583,52.200696,0.000000
+            6.796604,52.201795,0.000000
+            6.793074,52.203379,0.000000
+            6.789905,52.202708,0.000000
+            6.784300,52.205728,0.000000
+            6.786378,52.206845,0.000000
+            6.788194,52.211228,0.000000
+            6.790454,52.212279,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

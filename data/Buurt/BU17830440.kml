@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830440 Heen en Geest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.184282,51.988554,0.000000
+            4.182540,51.983815,0.000000
+            4.180331,51.984356,0.000000
+            4.176589,51.982869,0.000000
+            4.176427,51.982026,0.000000
+            4.150115,51.991774,0.000000
+            4.151717,51.993088,0.000000
+            4.157259,51.995095,0.000000
+            4.162771,51.995166,0.000000
+            4.162889,51.993993,0.000000
+            4.173528,51.990509,0.000000
+            4.178904,51.988789,0.000000
+            4.184282,51.988554,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

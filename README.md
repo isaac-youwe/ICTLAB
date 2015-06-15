@@ -11,8 +11,10 @@ This README.md is a guide on how to install the project.
 ## Install the project & dependecies 
 ```php composer.phar install```
 
-## Add Vendor/Zend symlink to app/library
-```ln -s path/to/vendor/zend .```
+## Download and install Solr
+```wget http://mirrors.supportex.net/apache/lucene/solr/5.1.0/solr-5.1.0.zip```
+
+```unzip -q solr-5.1.0.zip```
 
 ## Install SolrClient
 ```sudo apt-get install libcurl4-gnutls-dev libxml2 libxml2-dev```
@@ -32,11 +34,54 @@ This README.md is a guide on how to install the project.
 
 ```bin/solr create -c shfiles```
 
-copy the shapefiles into the solr-5.1.0 map
+copy the shapefiles into the ICTLAB map
 
-```bin/post -c shfiles shapefiles/``` 
+```bin/post -c shfiles ICTLAB/shapefiles/```
 
+To delete a collection use:
 
+```bin/solr delete -c shfiles```
+
+Download credentials.json from Google Drive and paste it in the ICTLAB folder
+
+# Install libgeos with php5 bindings on Ubuntu Trusty 14.04 LTS
+```sudo apt-get install -y apache2 php5 libapache2-mod-php5 php5-dev phpunit```
+
+Navigate to download folder
+```wget http://download.osgeo.org/geos/geos-3.4.2.tar.bz2```
+```tar -xjvf geos-3.4.2.tar.bz2```
+```cd geos-3.4.2/```
+```./configure --enable-php```
+```make```
+```make install```
+
+```cat > /etc/php5/mods-available/geos.ini << EOF
+   ; configuration for php geos module
+   ; priority=50
+   extension=geos.so
+   EOF```
+   
+Enable php5 module GEOS   
+```sudo php5enmod geos```
+
+Restart apache
+```sudo service apache2 restart```
+
+# Convert KML to JSON script
+Navigate first into the ICTLAB/scripts folder
+And run this command
+```php convert-kml-to-json-script.php```
+
+# Calculate the intersection script
+Navigate first into the ICTLAB/scripts folder
+And run this command
+```php intersection-script.php```
+
+# PHPStorm changes
+To prevent PHPStorm of running slow (exclude index for the shapefiles and data folders)
+Right click on data and shapefiles folder in ICTLAB folder and Mark Directory As Excluded
+
+=======
 **Not for sale purposes**
 
 The Collaborators of this project are:
@@ -78,7 +123,3 @@ Klik op NEW PULL REQUEST
 Verander compare:[branchnaam]
 ## Step 14:
 Klik op CREATE PULL REQUEST
-
-# Windows users
-## Do this only once 
-```git remote add upstream https://github.com/isaac-youwe/ICTLAB.git```

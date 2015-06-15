@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700002 Stationsbuurt, Oostelijk en zuidelijk industrieterrein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.564303,53.183402,0.000000
+            5.569784,53.181632,0.000000
+            5.568370,53.179715,0.000000
+            5.555700,53.182318,0.000000
+            5.554917,53.180764,0.000000
+            5.552209,53.182455,0.000000
+            5.550908,53.182433,0.000000
+            5.544480,53.182006,0.000000
+            5.536341,53.180119,0.000000
+            5.533944,53.180357,0.000000
+            5.545396,53.184713,0.000000
+            5.548669,53.184466,0.000000
+            5.564303,53.183402,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

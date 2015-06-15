@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17350109 Kerspel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.608704,52.248202,0.000000
+            6.617517,52.238424,0.000000
+            6.620934,52.238531,0.000000
+            6.616972,52.236934,0.000000
+            6.622763,52.232021,0.000000
+            6.602956,52.227004,0.000000
+            6.605564,52.232262,0.000000
+            6.603799,52.232894,0.000000
+            6.606078,52.237094,0.000000
+            6.605700,52.237678,0.000000
+            6.599686,52.236583,0.000000
+            6.598681,52.241756,0.000000
+            6.592397,52.242775,0.000000
+            6.593476,52.247502,0.000000
+            6.588792,52.248769,0.000000
+            6.588870,52.249857,0.000000
+            6.589234,52.253782,0.000000
+            6.593258,52.256067,0.000000
+            6.601541,52.253416,0.000000
+            6.608704,52.248202,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

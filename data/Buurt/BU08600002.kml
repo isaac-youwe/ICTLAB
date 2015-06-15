@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08600002 Leest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.545164,51.605282,0.000000
+            5.543146,51.602453,0.000000
+            5.537494,51.605480,0.000000
+            5.532636,51.608035,0.000000
+            5.540324,51.611908,0.000000
+            5.544317,51.612952,0.000000
+            5.546074,51.609878,0.000000
+            5.545164,51.605282,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180541 Verspreide huizen Hollanscheveld-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.529105,52.705282,0.000000
+            6.528395,52.699195,0.000000
+            6.535998,52.699172,0.000000
+            6.535819,52.696594,0.000000
+            6.532783,52.664691,0.000000
+            6.530026,52.664686,0.000000
+            6.530027,52.664724,0.000000
+            6.530237,52.672812,0.000000
+            6.502536,52.673075,0.000000
+            6.502147,52.673079,0.000000
+            6.499213,52.674005,0.000000
+            6.493344,52.675857,0.000000
+            6.493548,52.683945,0.000000
+            6.484675,52.684028,0.000000
+            6.486354,52.693627,0.000000
+            6.494076,52.693422,0.000000
+            6.495705,52.711048,0.000000
+            6.497072,52.711434,0.000000
+            6.503249,52.706578,0.000000
+            6.516497,52.705961,0.000000
+            6.529105,52.705282,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000402 Grote Rivierenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.752080,52.945585,0.000000
+            4.751431,52.943927,0.000000
+            4.750465,52.942763,0.000000
+            4.746855,52.944018,0.000000
+            4.745501,52.941786,0.000000
+            4.745171,52.941375,0.000000
+            4.740896,52.942286,0.000000
+            4.740949,52.942519,0.000000
+            4.744942,52.947807,0.000000
+            4.752080,52.945585,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

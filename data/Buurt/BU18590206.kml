@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590206 Verspreide huizen Voor-Beltrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.606527,52.064991,0.000000
+            6.604875,52.056291,0.000000
+            6.606211,52.051782,0.000000
+            6.598849,52.049161,0.000000
+            6.595861,52.046494,0.000000
+            6.595763,52.042899,0.000000
+            6.592549,52.040982,0.000000
+            6.572269,52.039542,0.000000
+            6.554683,52.043755,0.000000
+            6.564887,52.047845,0.000000
+            6.570697,52.047432,0.000000
+            6.578098,52.056022,0.000000
+            6.580274,52.055947,0.000000
+            6.583584,52.060314,0.000000
+            6.587884,52.059896,0.000000
+            6.593341,52.058195,0.000000
+            6.592800,52.062239,0.000000
+            6.603785,52.068008,0.000000
+            6.606527,52.064991,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

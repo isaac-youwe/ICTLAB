@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04980308 Drieban (gedeeltelijk), Venhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.220943,52.651314,0.000000
+            5.204730,52.645176,0.000000
+            5.202719,52.645373,0.000000
+            5.204668,52.661827,0.000000
+            5.204784,52.662804,0.000000
+            5.215640,52.663694,0.000000
+            5.216697,52.667251,0.000000
+            5.236022,52.667561,0.000000
+            5.234683,52.660157,0.000000
+            5.230109,52.653727,0.000000
+            5.220943,52.651314,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

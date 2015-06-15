@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04730003 Boulevard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.535384,52.383910,0.000000
+            4.532619,52.379665,0.000000
+            4.531269,52.380023,0.000000
+            4.528699,52.376833,0.000000
+            4.529184,52.375511,0.000000
+            4.525414,52.371293,0.000000
+            4.523346,52.367745,0.000000
+            4.521307,52.365312,0.000000
+            4.518180,52.365432,0.000000
+            4.531989,52.386414,0.000000
+            4.536249,52.385547,0.000000
+            4.535384,52.383910,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

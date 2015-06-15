@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03071801 Station Berkenweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.377263,52.153019,0.000000
+            5.380674,52.150954,0.000000
+            5.380088,52.150631,0.000000
+            5.375671,52.152832,0.000000
+            5.373218,52.152739,0.000000
+            5.370169,52.152608,0.000000
+            5.369931,52.153207,0.000000
+            5.375852,52.153681,0.000000
+            5.377263,52.153019,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

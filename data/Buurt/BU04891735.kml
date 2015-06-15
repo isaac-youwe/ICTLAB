@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04891735 Gaatkensoog</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.493765,51.845521,0.000000
+            4.489597,51.845459,0.000000
+            4.488733,51.847000,0.000000
+            4.488744,51.847039,0.000000
+            4.489234,51.848660,0.000000
+            4.490025,51.851276,0.000000
+            4.493503,51.849833,0.000000
+            4.494113,51.849464,0.000000
+            4.493765,51.845521,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

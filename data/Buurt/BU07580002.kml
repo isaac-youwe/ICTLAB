@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580002 Chasse</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.776862,51.580640,0.000000
+            4.774725,51.580120,0.000000
+            4.772861,51.582326,0.000000
+            4.773942,51.585968,0.000000
+            4.778878,51.586193,0.000000
+            4.781863,51.587819,0.000000
+            4.786433,51.587086,0.000000
+            4.780781,51.581953,0.000000
+            4.776862,51.580640,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

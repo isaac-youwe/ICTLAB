@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580202 Dokkumer Nieuwe Zijlen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.159863,53.317419,0.000000
+            6.156194,53.315987,0.000000
+            6.153697,53.317796,0.000000
+            6.155512,53.320224,0.000000
+            6.159616,53.320714,0.000000
+            6.162437,53.319307,0.000000
+            6.161675,53.318404,0.000000
+            6.161614,53.318396,0.000000
+            6.161601,53.318394,0.000000
+            6.160084,53.317505,0.000000
+            6.159863,53.317419,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

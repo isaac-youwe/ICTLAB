@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480103 Noordgeest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.292537,51.514100,0.000000
+            4.291783,51.509973,0.000000
+            4.288816,51.507525,0.000000
+            4.285532,51.506434,0.000000
+            4.278594,51.505905,0.000000
+            4.272802,51.507886,0.000000
+            4.268653,51.510479,0.000000
+            4.270136,51.511185,0.000000
+            4.270822,51.510432,0.000000
+            4.278670,51.511605,0.000000
+            4.285940,51.513866,0.000000
+            4.292537,51.514100,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

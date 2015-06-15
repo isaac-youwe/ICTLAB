@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02281204 De States</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.632116,52.025284,0.000000
+            5.632540,52.023497,0.000000
+            5.636333,52.023693,0.000000
+            5.634428,52.021667,0.000000
+            5.639410,52.020489,0.000000
+            5.636830,52.016972,0.000000
+            5.632052,52.018369,0.000000
+            5.633494,52.020852,0.000000
+            5.628200,52.022609,0.000000
+            5.628166,52.024887,0.000000
+            5.632116,52.025284,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

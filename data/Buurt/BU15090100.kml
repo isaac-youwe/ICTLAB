@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15090100 Gendringen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.384720,51.869921,0.000000
+            6.388435,51.867230,0.000000
+            6.387682,51.865054,0.000000
+            6.387672,51.864582,0.000000
+            6.382123,51.867945,0.000000
+            6.378451,51.867642,0.000000
+            6.373536,51.868327,0.000000
+            6.367975,51.870579,0.000000
+            6.368822,51.876358,0.000000
+            6.373226,51.876555,0.000000
+            6.379787,51.877511,0.000000
+            6.382634,51.879361,0.000000
+            6.385236,51.879722,0.000000
+            6.386657,51.879551,0.000000
+            6.385855,51.876306,0.000000
+            6.387253,51.876020,0.000000
+            6.384720,51.869921,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

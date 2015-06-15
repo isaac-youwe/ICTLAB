@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09640001 Kronenberg waaronder Achterste Hees</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.010835,51.404268,0.000000
+            6.003587,51.401871,0.000000
+            5.996592,51.401910,0.000000
+            5.984165,51.398592,0.000000
+            5.971841,51.396777,0.000000
+            5.954786,51.422005,0.000000
+            5.955181,51.422050,0.000000
+            5.999211,51.425376,0.000000
+            5.999803,51.425421,0.000000
+            6.011939,51.426198,0.000000
+            6.016958,51.413655,0.000000
+            6.010835,51.404268,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

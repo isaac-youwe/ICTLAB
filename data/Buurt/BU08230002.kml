@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08230002 De Notel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.317436,51.513005,0.000000
+            5.318394,51.511215,0.000000
+            5.321298,51.512200,0.000000
+            5.324019,51.511553,0.000000
+            5.326097,51.508799,0.000000
+            5.328482,51.507430,0.000000
+            5.329123,51.505077,0.000000
+            5.324148,51.504727,0.000000
+            5.315928,51.501274,0.000000
+            5.314513,51.504803,0.000000
+            5.314999,51.508052,0.000000
+            5.310910,51.509640,0.000000
+            5.312082,51.512070,0.000000
+            5.315193,51.512779,0.000000
+            5.317436,51.513005,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

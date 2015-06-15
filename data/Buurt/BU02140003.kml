@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140003 Asch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.323686,51.925547,0.000000
+            5.318744,51.924869,0.000000
+            5.309600,51.927182,0.000000
+            5.304591,51.929571,0.000000
+            5.303564,51.931334,0.000000
+            5.306919,51.932532,0.000000
+            5.307014,51.933920,0.000000
+            5.312638,51.932417,0.000000
+            5.319647,51.931611,0.000000
+            5.323387,51.929921,0.000000
+            5.324269,51.928839,0.000000
+            5.323686,51.925547,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

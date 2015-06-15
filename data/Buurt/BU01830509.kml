@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01830509 Verspreide huizen Mander</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.854387,52.459799,0.000000
+            6.852589,52.449932,0.000000
+            6.854048,52.449914,0.000000
+            6.849236,52.440084,0.000000
+            6.842773,52.439169,0.000000
+            6.836693,52.435833,0.000000
+            6.835783,52.437343,0.000000
+            6.831538,52.437025,0.000000
+            6.821517,52.434615,0.000000
+            6.821359,52.433138,0.000000
+            6.807716,52.430530,0.000000
+            6.794250,52.428129,0.000000
+            6.790854,52.430847,0.000000
+            6.785895,52.436741,0.000000
+            6.803195,52.445291,0.000000
+            6.821455,52.452780,0.000000
+            6.822710,52.460160,0.000000
+            6.845531,52.459009,0.000000
+            6.854387,52.459799,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

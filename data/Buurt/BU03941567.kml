@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03941567 Vijfhuizen-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.688944,52.361119,0.000000
+            4.696487,52.357035,0.000000
+            4.673604,52.340443,0.000000
+            4.671212,52.348960,0.000000
+            4.674469,52.350370,0.000000
+            4.677162,52.352792,0.000000
+            4.678454,52.356458,0.000000
+            4.682517,52.358235,0.000000
+            4.684475,52.358203,0.000000
+            4.688944,52.361119,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

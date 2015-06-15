@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07970001 Braken-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.132138,51.693597,0.000000
+            5.131393,51.686073,0.000000
+            5.131074,51.686036,0.000000
+            5.128075,51.686327,0.000000
+            5.117427,51.690019,0.000000
+            5.114625,51.690153,0.000000
+            5.114283,51.691161,0.000000
+            5.114036,51.692075,0.000000
+            5.119260,51.691740,0.000000
+            5.132138,51.693597,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

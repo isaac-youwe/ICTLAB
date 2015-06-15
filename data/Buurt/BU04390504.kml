@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04390504 De Graeffweg en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.999466,52.510584,0.000000
+            4.993535,52.504862,0.000000
+            4.986360,52.507513,0.000000
+            4.986886,52.508000,0.000000
+            4.980643,52.510169,0.000000
+            4.983075,52.513283,0.000000
+            4.986588,52.515270,0.000000
+            4.999466,52.510584,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17090002 Krooswijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.594239,51.651647,0.000000
+            4.599256,51.644316,0.000000
+            4.597693,51.643586,0.000000
+            4.586699,51.643436,0.000000
+            4.586256,51.645253,0.000000
+            4.583062,51.645173,0.000000
+            4.582884,51.649147,0.000000
+            4.584684,51.651765,0.000000
+            4.591828,51.652692,0.000000
+            4.592854,51.651695,0.000000
+            4.594239,51.651647,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

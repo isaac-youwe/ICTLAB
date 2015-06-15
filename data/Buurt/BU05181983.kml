@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05181983 Eykenduynen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.259368,52.062517,0.000000
+            4.254596,52.060385,0.000000
+            4.251902,52.063649,0.000000
+            4.252672,52.064618,0.000000
+            4.264125,52.069484,0.000000
+            4.267714,52.070633,0.000000
+            4.270182,52.066887,0.000000
+            4.259368,52.062517,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

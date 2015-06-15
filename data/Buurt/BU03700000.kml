@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03700000 Middenbeemster</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.927476,52.548565,0.000000
+            4.925617,52.545201,0.000000
+            4.917822,52.547054,0.000000
+            4.916937,52.545592,0.000000
+            4.910791,52.545079,0.000000
+            4.897790,52.547992,0.000000
+            4.901681,52.554443,0.000000
+            4.927476,52.548565,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

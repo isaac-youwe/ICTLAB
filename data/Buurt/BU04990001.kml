@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04990001 Snijdelwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.657656,52.070034,0.000000
+            4.656136,52.063929,0.000000
+            4.637516,52.064694,0.000000
+            4.635906,52.073673,0.000000
+            4.635526,52.073704,0.000000
+            4.637536,52.075262,0.000000
+            4.646126,52.074915,0.000000
+            4.645653,52.071113,0.000000
+            4.657656,52.070034,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

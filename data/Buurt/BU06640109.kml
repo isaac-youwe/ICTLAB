@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06640109 Goese Meer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.918780,51.526868,0.000000
+            3.926547,51.517727,0.000000
+            3.918122,51.516844,0.000000
+            3.914097,51.517586,0.000000
+            3.906127,51.516647,0.000000
+            3.899905,51.516128,0.000000
+            3.891949,51.519814,0.000000
+            3.895572,51.524696,0.000000
+            3.898274,51.526381,0.000000
+            3.906009,51.523981,0.000000
+            3.909660,51.523693,0.000000
+            3.918780,51.526868,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

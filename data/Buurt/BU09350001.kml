@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350001 Jekerkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.696821,50.847237,0.000000
+            5.699652,50.841734,0.000000
+            5.695495,50.842487,0.000000
+            5.688573,50.841600,0.000000
+            5.683501,50.842717,0.000000
+            5.681382,50.844496,0.000000
+            5.687636,50.846499,0.000000
+            5.696821,50.847237,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

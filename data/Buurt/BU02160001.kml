@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02160001 Oude Buitenwijken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.224755,51.961714,0.000000
+            5.223530,51.960734,0.000000
+            5.222150,51.960835,0.000000
+            5.219741,51.959276,0.000000
+            5.223892,51.955227,0.000000
+            5.222296,51.953802,0.000000
+            5.226534,51.950632,0.000000
+            5.229516,51.952266,0.000000
+            5.233578,51.950200,0.000000
+            5.227365,51.946206,0.000000
+            5.221562,51.952198,0.000000
+            5.217457,51.956436,0.000000
+            5.213286,51.960723,0.000000
+            5.214041,51.960880,0.000000
+            5.218396,51.963583,0.000000
+            5.218619,51.963721,0.000000
+            5.224755,51.961714,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

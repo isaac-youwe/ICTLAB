@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03550403 Driebergseweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.254733,52.072070,0.000000
+            5.259344,52.069220,0.000000
+            5.261795,52.071219,0.000000
+            5.264560,52.069660,0.000000
+            5.258847,52.067010,0.000000
+            5.258655,52.066867,0.000000
+            5.251416,52.072138,0.000000
+            5.241204,52.077987,0.000000
+            5.240448,52.080505,0.000000
+            5.245974,52.082203,0.000000
+            5.247759,52.080353,0.000000
+            5.246374,52.079952,0.000000
+            5.249254,52.076046,0.000000
+            5.254733,52.072070,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

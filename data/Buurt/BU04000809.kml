@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000809 Noorderhaven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.769208,52.878929,0.000000
+            4.769176,52.878928,0.000000
+            4.749838,52.880624,0.000000
+            4.749722,52.880638,0.000000
+            4.750416,52.885806,0.000000
+            4.752529,52.885724,0.000000
+            4.773344,52.884036,0.000000
+            4.769208,52.878929,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

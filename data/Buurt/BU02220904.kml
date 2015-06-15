@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220904 De Happert Leerinkstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.294624,51.977089,0.000000
+            6.289721,51.971368,0.000000
+            6.286896,51.973120,0.000000
+            6.288287,51.976504,0.000000
+            6.289667,51.979411,0.000000
+            6.289128,51.981163,0.000000
+            6.290097,51.981788,0.000000
+            6.291210,51.981099,0.000000
+            6.291292,51.979368,0.000000
+            6.294716,51.978273,0.000000
+            6.294624,51.977089,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

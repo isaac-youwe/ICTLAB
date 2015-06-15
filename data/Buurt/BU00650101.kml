@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00650101 Wouterswoude</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.038634,53.284820,0.000000
+            6.020509,53.283580,0.000000
+            6.020498,53.297173,0.000000
+            6.021477,53.306168,0.000000
+            6.032786,53.307498,0.000000
+            6.035079,53.302753,0.000000
+            6.040143,53.300697,0.000000
+            6.039344,53.299629,0.000000
+            6.040412,53.294383,0.000000
+            6.039752,53.290546,0.000000
+            6.039343,53.286265,0.000000
+            6.038634,53.284820,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

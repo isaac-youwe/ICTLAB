@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03100200 Bilthoven-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.227960,52.150196,0.000000
+            5.229428,52.137089,0.000000
+            5.229429,52.136790,0.000000
+            5.229203,52.136730,0.000000
+            5.197454,52.128213,0.000000
+            5.199130,52.130078,0.000000
+            5.197713,52.130509,0.000000
+            5.202934,52.134332,0.000000
+            5.206461,52.138548,0.000000
+            5.199297,52.141134,0.000000
+            5.197474,52.139131,0.000000
+            5.193029,52.140329,0.000000
+            5.198002,52.143622,0.000000
+            5.205835,52.146205,0.000000
+            5.220118,52.147915,0.000000
+            5.226646,52.153671,0.000000
+            5.227919,52.150570,0.000000
+            5.227960,52.150196,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

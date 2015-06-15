@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08820220 Brunssumerheide (1)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.038611,50.930784,0.000000
+            6.034328,50.928677,0.000000
+            6.031955,50.928879,0.000000
+            6.029824,50.927749,0.000000
+            6.032402,50.927404,0.000000
+            6.020332,50.920235,0.000000
+            6.012967,50.926259,0.000000
+            6.012789,50.926404,0.000000
+            6.012216,50.926873,0.000000
+            6.012138,50.926929,0.000000
+            6.018895,50.934462,0.000000
+            6.038611,50.930784,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00180701 Foxhol</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.726792,53.167528,0.000000
+            6.722853,53.165366,0.000000
+            6.718957,53.167487,0.000000
+            6.715226,53.167870,0.000000
+            6.716218,53.169288,0.000000
+            6.719571,53.170965,0.000000
+            6.727975,53.169103,0.000000
+            6.726792,53.167528,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

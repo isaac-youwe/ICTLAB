@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00790200 Oudwoude</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.128715,53.288798,0.000000
+            6.129438,53.275576,0.000000
+            6.117865,53.276137,0.000000
+            6.112534,53.277304,0.000000
+            6.109211,53.278898,0.000000
+            6.108631,53.280234,0.000000
+            6.110251,53.282608,0.000000
+            6.113840,53.283020,0.000000
+            6.114873,53.292796,0.000000
+            6.118473,53.293423,0.000000
+            6.120300,53.289871,0.000000
+            6.128715,53.288798,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

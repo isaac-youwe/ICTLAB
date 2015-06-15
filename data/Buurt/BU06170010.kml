@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06170010 Cillaarshoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.548252,51.773605,0.000000
+            4.547668,51.770089,0.000000
+            4.551660,51.769792,0.000000
+            4.550599,51.761269,0.000000
+            4.548461,51.761421,0.000000
+            4.550441,51.761038,0.000000
+            4.549106,51.759329,0.000000
+            4.547961,51.758949,0.000000
+            4.546941,51.759595,0.000000
+            4.545597,51.770321,0.000000
+            4.540069,51.770599,0.000000
+            4.539897,51.771233,0.000000
+            4.545605,51.771204,0.000000
+            4.545431,51.774488,0.000000
+            4.545971,51.774161,0.000000
+            4.546710,51.773713,0.000000
+            4.548252,51.773605,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

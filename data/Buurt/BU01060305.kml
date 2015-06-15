@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060305 Schieven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.591133,52.985282,0.000000
+            6.591113,52.981017,0.000000
+            6.586869,52.982750,0.000000
+            6.582632,52.982430,0.000000
+            6.580046,52.982997,0.000000
+            6.585434,52.986561,0.000000
+            6.590058,52.988586,0.000000
+            6.592439,52.991916,0.000000
+            6.596686,52.990494,0.000000
+            6.591133,52.985282,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19260105 Tolhek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.449531,52.000470,0.000000
+            4.447545,52.000292,0.000000
+            4.444273,52.008625,0.000000
+            4.453692,52.010950,0.000000
+            4.456293,52.008479,0.000000
+            4.454941,52.006755,0.000000
+            4.459348,52.004992,0.000000
+            4.459404,52.002296,0.000000
+            4.449531,52.000470,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

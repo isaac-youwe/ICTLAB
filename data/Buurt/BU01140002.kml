@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140002 Zuidbarge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.900241,52.760314,0.000000
+            6.900747,52.758898,0.000000
+            6.905412,52.759606,0.000000
+            6.907372,52.755379,0.000000
+            6.905678,52.754908,0.000000
+            6.908755,52.750490,0.000000
+            6.911406,52.750533,0.000000
+            6.911814,52.748785,0.000000
+            6.909371,52.748532,0.000000
+            6.912782,52.744354,0.000000
+            6.909216,52.743434,0.000000
+            6.907661,52.745075,0.000000
+            6.909739,52.745612,0.000000
+            6.908161,52.747508,0.000000
+            6.906533,52.747428,0.000000
+            6.899178,52.751430,0.000000
+            6.893139,52.758252,0.000000
+            6.900241,52.760314,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

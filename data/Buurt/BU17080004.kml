@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080004 Torenlanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.121389,52.790529,0.000000
+            6.120651,52.787940,0.000000
+            6.116664,52.789289,0.000000
+            6.112300,52.787471,0.000000
+            6.104013,52.789026,0.000000
+            6.111072,52.791542,0.000000
+            6.110373,52.792343,0.000000
+            6.121389,52.790529,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

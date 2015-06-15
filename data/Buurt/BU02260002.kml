@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02260002 Loo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.994837,51.922303,0.000000
+            5.992684,51.921978,0.000000
+            5.991421,51.924290,0.000000
+            5.988370,51.925792,0.000000
+            5.985755,51.928420,0.000000
+            5.979564,51.928945,0.000000
+            5.979243,51.929949,0.000000
+            5.980712,51.931085,0.000000
+            5.992106,51.933296,0.000000
+            5.996830,51.935859,0.000000
+            5.999481,51.935619,0.000000
+            5.999548,51.932428,0.000000
+            5.994645,51.927861,0.000000
+            5.993604,51.925490,0.000000
+            5.993294,51.923829,0.000000
+            5.994837,51.922303,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02460100 Wapenveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.073365,52.435844,0.000000
+            6.078664,52.433210,0.000000
+            6.082022,52.433492,0.000000
+            6.082918,52.431075,0.000000
+            6.082926,52.430557,0.000000
+            6.079012,52.431259,0.000000
+            6.077707,52.429796,0.000000
+            6.078751,52.424356,0.000000
+            6.066782,52.424329,0.000000
+            6.068643,52.429559,0.000000
+            6.064180,52.430606,0.000000
+            6.066641,52.435388,0.000000
+            6.068850,52.434881,0.000000
+            6.070938,52.437789,0.000000
+            6.073548,52.437952,0.000000
+            6.073365,52.435844,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

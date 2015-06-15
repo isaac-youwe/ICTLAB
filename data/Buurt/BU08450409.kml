@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08450409 Verspreide huizen Heikantse Hoeve</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.456627,51.687709,0.000000
+            5.449371,51.669734,0.000000
+            5.445027,51.664342,0.000000
+            5.439244,51.664345,0.000000
+            5.432834,51.664347,0.000000
+            5.435902,51.667566,0.000000
+            5.429699,51.669622,0.000000
+            5.427153,51.673932,0.000000
+            5.422334,51.679860,0.000000
+            5.436318,51.676086,0.000000
+            5.445398,51.688529,0.000000
+            5.452287,51.686812,0.000000
+            5.452290,51.688610,0.000000
+            5.456627,51.687709,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

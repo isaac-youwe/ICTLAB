@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06260001 Noord-Hofland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.468245,52.135688,0.000000
+            4.461895,52.133510,0.000000
+            4.462412,52.136149,0.000000
+            4.459617,52.137890,0.000000
+            4.450274,52.141318,0.000000
+            4.450666,52.141566,0.000000
+            4.454669,52.145793,0.000000
+            4.454955,52.146095,0.000000
+            4.458803,52.149337,0.000000
+            4.459263,52.149724,0.000000
+            4.459544,52.149727,0.000000
+            4.465108,52.149770,0.000000
+            4.466548,52.146407,0.000000
+            4.466643,52.146186,0.000000
+            4.466753,52.140833,0.000000
+            4.466754,52.140794,0.000000
+            4.468245,52.135688,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

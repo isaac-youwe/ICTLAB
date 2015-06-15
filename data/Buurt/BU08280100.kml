@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280100 Verzetsheldenbuurt I</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.536995,51.774148,0.000000
+            5.537297,51.769573,0.000000
+            5.528962,51.769624,0.000000
+            5.528734,51.772361,0.000000
+            5.525181,51.772566,0.000000
+            5.525317,51.774024,0.000000
+            5.525342,51.774287,0.000000
+            5.536995,51.774148,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

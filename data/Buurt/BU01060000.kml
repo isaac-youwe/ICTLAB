@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060000 Kern-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.565787,52.994174,0.000000
+            6.565935,52.993488,0.000000
+            6.565629,52.993156,0.000000
+            6.563621,52.993146,0.000000
+            6.562188,52.994119,0.000000
+            6.559658,52.993642,0.000000
+            6.559642,52.993851,0.000000
+            6.559771,52.994539,0.000000
+            6.563825,52.995334,0.000000
+            6.565787,52.994174,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

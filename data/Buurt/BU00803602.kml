@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00803602 Camminghaburen-Midden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.849855,53.205791,0.000000
+            5.844669,53.205181,0.000000
+            5.839315,53.206164,0.000000
+            5.837029,53.211577,0.000000
+            5.839103,53.213502,0.000000
+            5.843932,53.213977,0.000000
+            5.848597,53.212394,0.000000
+            5.849530,53.210012,0.000000
+            5.849643,53.209086,0.000000
+            5.851427,53.208672,0.000000
+            5.851407,53.206821,0.000000
+            5.849855,53.205791,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

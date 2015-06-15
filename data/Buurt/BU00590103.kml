@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00590103 Augustinusga</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.167797,53.219004,0.000000
+            6.165693,53.212609,0.000000
+            6.161027,53.212998,0.000000
+            6.151284,53.211986,0.000000
+            6.146598,53.212398,0.000000
+            6.156007,53.219692,0.000000
+            6.165424,53.222034,0.000000
+            6.168791,53.222178,0.000000
+            6.171271,53.221499,0.000000
+            6.167797,53.219004,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

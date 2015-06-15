@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510501 Ouwster-Nijega</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.823514,52.928525,0.000000
+            5.815167,52.920065,0.000000
+            5.797218,52.931702,0.000000
+            5.792962,52.935361,0.000000
+            5.789513,52.935797,0.000000
+            5.792227,52.938082,0.000000
+            5.801213,52.941894,0.000000
+            5.823514,52.928525,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

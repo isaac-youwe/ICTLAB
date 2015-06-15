@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06130200 Poortugaal en Landweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.392062,51.854189,0.000000
+            4.386824,51.852585,0.000000
+            4.384094,51.852715,0.000000
+            4.384000,51.856940,0.000000
+            4.383902,51.861345,0.000000
+            4.384233,51.861311,0.000000
+            4.401313,51.859574,0.000000
+            4.396103,51.856539,0.000000
+            4.392062,51.854189,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

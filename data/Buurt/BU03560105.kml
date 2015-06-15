@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03560105 Oudegein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.088397,52.011409,0.000000
+            5.083276,52.010447,0.000000
+            5.080061,52.011323,0.000000
+            5.078639,52.011040,0.000000
+            5.078222,52.013606,0.000000
+            5.075534,52.015557,0.000000
+            5.085357,52.025821,0.000000
+            5.090727,52.024284,0.000000
+            5.087516,52.016901,0.000000
+            5.088397,52.011409,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00520007 Winschoten-Sint Vitusholt-Lanengebied</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.023228,53.133301,0.000000
+            6.999601,53.132043,0.000000
+            6.999645,53.132107,0.000000
+            7.010779,53.148146,0.000000
+            7.011107,53.147973,0.000000
+            7.022331,53.142036,0.000000
+            7.020906,53.139853,0.000000
+            7.023228,53.133301,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

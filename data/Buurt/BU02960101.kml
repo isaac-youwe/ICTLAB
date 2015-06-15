@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02960101 Wijchen-Noordoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.742447,51.819385,0.000000
+            5.744350,51.817163,0.000000
+            5.746834,51.814805,0.000000
+            5.739936,51.813484,0.000000
+            5.740503,51.811705,0.000000
+            5.737423,51.812710,0.000000
+            5.720292,51.809891,0.000000
+            5.720755,51.818332,0.000000
+            5.730605,51.818664,0.000000
+            5.739761,51.818183,0.000000
+            5.742447,51.819385,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

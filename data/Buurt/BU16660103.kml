@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16660103 Oud Verlaat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.556156,51.968858,0.000000
+            4.553246,51.968838,0.000000
+            4.547357,51.972392,0.000000
+            4.551673,51.975119,0.000000
+            4.553095,51.976927,0.000000
+            4.550101,51.981401,0.000000
+            4.549920,51.981618,0.000000
+            4.557352,51.983252,0.000000
+            4.557346,51.983250,0.000000
+            4.566294,51.971626,0.000000
+            4.566282,51.971623,0.000000
+            4.556286,51.968894,0.000000
+            4.556156,51.968858,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

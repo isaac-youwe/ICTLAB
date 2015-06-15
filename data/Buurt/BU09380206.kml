@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09380206 Brommelen-Westbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.745499,50.913033,0.000000
+            5.742754,50.909925,0.000000
+            5.741833,50.910415,0.000000
+            5.735644,50.909306,0.000000
+            5.731479,50.911756,0.000000
+            5.729240,50.912214,0.000000
+            5.740425,50.922715,0.000000
+            5.744961,50.921515,0.000000
+            5.741093,50.914069,0.000000
+            5.745499,50.913033,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

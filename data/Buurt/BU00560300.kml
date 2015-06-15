@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00560300 Aduard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.462820,53.252729,0.000000
+            6.461363,53.248653,0.000000
+            6.452762,53.249541,0.000000
+            6.451784,53.251506,0.000000
+            6.454645,53.256003,0.000000
+            6.454918,53.260526,0.000000
+            6.456015,53.261200,0.000000
+            6.468100,53.260713,0.000000
+            6.462820,53.252729,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07180502 Schoonenburg-Groot Abeele</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.605694,51.467835,0.000000
+            3.605218,51.466428,0.000000
+            3.594998,51.466928,0.000000
+            3.599470,51.475851,0.000000
+            3.600461,51.477168,0.000000
+            3.601840,51.479001,0.000000
+            3.604753,51.478146,0.000000
+            3.607702,51.476393,0.000000
+            3.608026,51.476200,0.000000
+            3.606225,51.472717,0.000000
+            3.610016,51.470364,0.000000
+            3.608541,51.468872,0.000000
+            3.605694,51.467835,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

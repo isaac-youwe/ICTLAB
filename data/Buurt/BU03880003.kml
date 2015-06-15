@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03880003 Enkhuizen-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.286508,52.736683,0.000000
+            5.287997,52.733089,0.000000
+            5.285037,52.732188,0.000000
+            5.283559,52.731288,0.000000
+            5.285063,52.721402,0.000000
+            5.288037,52.715113,0.000000
+            5.295447,52.710625,0.000000
+            5.295853,52.710379,0.000000
+            5.288233,52.709141,0.000000
+            5.283552,52.707720,0.000000
+            5.281714,52.709953,0.000000
+            5.280147,52.715840,0.000000
+            5.281719,52.716096,0.000000
+            5.282235,52.735303,0.000000
+            5.280645,52.734805,0.000000
+            5.280585,52.742062,0.000000
+            5.283538,52.740276,0.000000
+            5.286508,52.736683,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

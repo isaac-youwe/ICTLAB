@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00390302 Zuiderpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.991900,53.181496,0.000000
+            6.986005,53.180956,0.000000
+            6.981271,53.187850,0.000000
+            6.979344,53.190130,0.000000
+            6.991541,53.194658,0.000000
+            6.993239,53.188156,0.000000
+            6.991541,53.186190,0.000000
+            6.993210,53.182368,0.000000
+            6.991900,53.181496,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

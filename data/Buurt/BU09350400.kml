@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350400 Wyckerpoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.717156,50.842949,0.000000
+            5.714758,50.841393,0.000000
+            5.707564,50.845972,0.000000
+            5.706562,50.847475,0.000000
+            5.704848,50.851652,0.000000
+            5.701925,50.858213,0.000000
+            5.702045,50.860258,0.000000
+            5.707439,50.859889,0.000000
+            5.713138,50.858501,0.000000
+            5.710726,50.855983,0.000000
+            5.711554,50.848161,0.000000
+            5.717156,50.842949,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

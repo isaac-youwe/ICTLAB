@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03210152 Het Rondeel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.142172,52.030394,0.000000
+            5.148836,52.026250,0.000000
+            5.139694,52.024438,0.000000
+            5.133869,52.025142,0.000000
+            5.136854,52.028617,0.000000
+            5.137724,52.028164,0.000000
+            5.139106,52.029165,0.000000
+            5.139164,52.030633,0.000000
+            5.141783,52.032375,0.000000
+            5.142172,52.030394,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

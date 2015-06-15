@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08820104 Lichtenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.021546,50.904931,0.000000
+            6.026132,50.901309,0.000000
+            6.018009,50.899071,0.000000
+            6.015999,50.899116,0.000000
+            6.016414,50.900824,0.000000
+            6.014434,50.900989,0.000000
+            6.014617,50.902562,0.000000
+            6.016160,50.902543,0.000000
+            6.016694,50.904903,0.000000
+            6.018883,50.904558,0.000000
+            6.018902,50.906830,0.000000
+            6.022173,50.906301,0.000000
+            6.020934,50.905859,0.000000
+            6.021546,50.904931,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

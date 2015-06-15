@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03050005 Baambrugge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.994481,52.244693,0.000000
+            4.991867,52.243691,0.000000
+            4.987660,52.244339,0.000000
+            4.983796,52.246404,0.000000
+            4.985309,52.248822,0.000000
+            4.992365,52.250315,0.000000
+            4.993539,52.251878,0.000000
+            4.994334,52.252056,0.000000
+            4.995963,52.250688,0.000000
+            4.994481,52.244693,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

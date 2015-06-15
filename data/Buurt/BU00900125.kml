@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00900125 Boornbergum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.056856,53.089517,0.000000
+            6.059558,53.086607,0.000000
+            6.059725,53.084745,0.000000
+            6.070300,53.071822,0.000000
+            6.051264,53.072812,0.000000
+            6.050707,53.072841,0.000000
+            6.031879,53.073817,0.000000
+            6.024418,53.073857,0.000000
+            6.021459,53.075670,0.000000
+            6.002123,53.080264,0.000000
+            5.987766,53.081203,0.000000
+            5.990367,53.085542,0.000000
+            5.991200,53.090145,0.000000
+            6.002778,53.088832,0.000000
+            6.002863,53.090214,0.000000
+            6.050465,53.093587,0.000000
+            6.053621,53.093495,0.000000
+            6.056856,53.089517,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

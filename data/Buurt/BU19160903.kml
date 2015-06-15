@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19160903 Robert Fleurystichting</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.415756,52.098448,0.000000
+            4.411342,52.094867,0.000000
+            4.408474,52.096344,0.000000
+            4.410181,52.097659,0.000000
+            4.409651,52.098711,0.000000
+            4.403755,52.101613,0.000000
+            4.399789,52.104045,0.000000
+            4.409050,52.109127,0.000000
+            4.420766,52.105366,0.000000
+            4.421251,52.105134,0.000000
+            4.415756,52.098448,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

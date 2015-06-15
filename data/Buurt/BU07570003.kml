@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07570003 Munsel-Selissen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.338593,51.592787,0.000000
+            5.329523,51.591855,0.000000
+            5.324201,51.596800,0.000000
+            5.322879,51.599335,0.000000
+            5.320910,51.605705,0.000000
+            5.325528,51.608212,0.000000
+            5.334264,51.602431,0.000000
+            5.342742,51.595476,0.000000
+            5.342389,51.594424,0.000000
+            5.338593,51.592787,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

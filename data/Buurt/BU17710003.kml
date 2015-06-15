@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17710003 Zesgehuchten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.554558,51.416673,0.000000
+            5.556758,51.411203,0.000000
+            5.554223,51.412122,0.000000
+            5.551695,51.414974,0.000000
+            5.542690,51.415781,0.000000
+            5.540160,51.419627,0.000000
+            5.532342,51.421490,0.000000
+            5.533441,51.426503,0.000000
+            5.531067,51.426977,0.000000
+            5.532450,51.427838,0.000000
+            5.535283,51.431362,0.000000
+            5.543953,51.424895,0.000000
+            5.554558,51.416673,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

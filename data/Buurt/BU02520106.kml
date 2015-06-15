@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02520106 Verspreide huizen Nederasseltse Broek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.772102,51.775840,0.000000
+            5.769219,51.771073,0.000000
+            5.754470,51.774812,0.000000
+            5.752985,51.772246,0.000000
+            5.751970,51.773163,0.000000
+            5.742069,51.774357,0.000000
+            5.740537,51.777991,0.000000
+            5.740818,51.777990,0.000000
+            5.745173,51.778876,0.000000
+            5.768391,51.782398,0.000000
+            5.768571,51.782426,0.000000
+            5.767223,51.777444,0.000000
+            5.772102,51.775840,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

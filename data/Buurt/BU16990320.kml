@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990320 Langelo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.449038,53.088940,0.000000
+            6.442170,53.088671,0.000000
+            6.439960,53.091347,0.000000
+            6.438549,53.095892,0.000000
+            6.441275,53.097616,0.000000
+            6.450366,53.095044,0.000000
+            6.450168,53.094339,0.000000
+            6.447942,53.093867,0.000000
+            6.447644,53.090172,0.000000
+            6.449038,53.088940,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

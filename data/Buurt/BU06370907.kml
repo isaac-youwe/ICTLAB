@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370907 Van Tuyllpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.522703,52.043231,0.000000
+            4.522627,52.043199,0.000000
+            4.513271,52.048035,0.000000
+            4.520763,52.053640,0.000000
+            4.523307,52.052656,0.000000
+            4.523338,52.051777,0.000000
+            4.532561,52.048567,0.000000
+            4.522703,52.043231,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

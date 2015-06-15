@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00070007 Verspreide huizen ten zuidoosten van Bellingwolde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.173613,53.117607,0.000000
+            7.182808,53.113300,0.000000
+            7.184845,53.113318,0.000000
+            7.187910,53.100107,0.000000
+            7.185368,53.097489,0.000000
+            7.171873,53.090208,0.000000
+            7.171316,53.089903,0.000000
+            7.150185,53.101210,0.000000
+            7.150584,53.102666,0.000000
+            7.156787,53.106221,0.000000
+            7.157720,53.105802,0.000000
+            7.158818,53.106327,0.000000
+            7.169949,53.113927,0.000000
+            7.173613,53.117607,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640506 Boeldershoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.804595,52.235252,0.000000
+            6.802357,52.232199,0.000000
+            6.788631,52.234907,0.000000
+            6.788595,52.241211,0.000000
+            6.797479,52.242301,0.000000
+            6.804114,52.241074,0.000000
+            6.804998,52.240923,0.000000
+            6.804595,52.235252,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

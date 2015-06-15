@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00804304 Huizum-Badweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.797399,53.186489,0.000000
+            5.796961,53.186491,0.000000
+            5.797628,53.190517,0.000000
+            5.797843,53.191054,0.000000
+            5.807561,53.191180,0.000000
+            5.809449,53.188148,0.000000
+            5.801762,53.186497,0.000000
+            5.797399,53.186489,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

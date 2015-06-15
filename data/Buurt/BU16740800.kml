@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16740800 Borchwerf-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.456880,51.561768,0.000000
+            4.462667,51.560915,0.000000
+            4.465552,51.560938,0.000000
+            4.474085,51.560650,0.000000
+            4.486490,51.560232,0.000000
+            4.473420,51.552548,0.000000
+            4.465764,51.544648,0.000000
+            4.459844,51.541504,0.000000
+            4.454116,51.537953,0.000000
+            4.452797,51.535189,0.000000
+            4.452151,51.533893,0.000000
+            4.450736,51.537344,0.000000
+            4.447881,51.549622,0.000000
+            4.453794,51.554580,0.000000
+            4.449955,51.555640,0.000000
+            4.447615,51.555303,0.000000
+            4.447583,51.557711,0.000000
+            4.452467,51.558891,0.000000
+            4.456864,51.562581,0.000000
+            4.456880,51.561768,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

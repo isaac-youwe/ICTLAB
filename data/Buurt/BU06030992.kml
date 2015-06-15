@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06030992 Broekpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.342775,52.051635,0.000000
+            4.348619,52.047195,0.000000
+            4.349118,52.047222,0.000000
+            4.346267,52.044501,0.000000
+            4.346308,52.042703,0.000000
+            4.346983,52.042299,0.000000
+            4.343952,52.040980,0.000000
+            4.343224,52.046111,0.000000
+            4.342775,52.051635,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03520301 Nederlangbroek West- en Oostzijde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.360828,52.000928,0.000000
+            5.355076,51.996354,0.000000
+            5.330154,52.006759,0.000000
+            5.333750,52.009300,0.000000
+            5.333868,52.010706,0.000000
+            5.344560,52.009700,0.000000
+            5.360828,52.000928,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.322470,52.010057,0.000000
+            5.320463,52.008583,0.000000
+            5.305781,52.014110,0.000000
+            5.301638,52.016953,0.000000
+            5.303875,52.018337,0.000000
+            5.326113,52.015819,0.000000
+            5.320180,52.010933,0.000000
+            5.322470,52.010057,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

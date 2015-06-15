@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05181590 Ockenburgh</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.223285,52.066417,0.000000
+            4.225704,52.063708,0.000000
+            4.226004,52.061149,0.000000
+            4.226195,52.057717,0.000000
+            4.229042,52.051905,0.000000
+            4.218306,52.047558,0.000000
+            4.203523,52.044770,0.000000
+            4.203373,52.044949,0.000000
+            4.198881,52.049398,0.000000
+            4.200291,52.051211,0.000000
+            4.197280,52.054776,0.000000
+            4.198738,52.054791,0.000000
+            4.213058,52.064823,0.000000
+            4.213279,52.064986,0.000000
+            4.215024,52.064160,0.000000
+            4.218185,52.065912,0.000000
+            4.219515,52.064996,0.000000
+            4.223285,52.066417,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

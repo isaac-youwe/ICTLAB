@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05032704 Schieweg-Polder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.375648,51.970141,0.000000
+            4.375598,51.970135,0.000000
+            4.370133,51.980347,0.000000
+            4.378530,51.981722,0.000000
+            4.381106,51.978628,0.000000
+            4.383527,51.975731,0.000000
+            4.382803,51.975597,0.000000
+            4.385794,51.972026,0.000000
+            4.375648,51.970141,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

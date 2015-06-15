@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17420103 Industriegebied De Mors</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.531383,52.318625,0.000000
+            6.522427,52.312903,0.000000
+            6.518044,52.311228,0.000000
+            6.516446,52.312232,0.000000
+            6.507938,52.311257,0.000000
+            6.505928,52.312017,0.000000
+            6.504409,52.313822,0.000000
+            6.503409,52.316370,0.000000
+            6.511289,52.318508,0.000000
+            6.513236,52.316071,0.000000
+            6.522905,52.321264,0.000000
+            6.528551,52.322234,0.000000
+            6.531378,52.318628,0.000000
+            6.531383,52.318625,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

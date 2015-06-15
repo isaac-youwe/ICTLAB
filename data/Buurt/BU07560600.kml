@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07560600 Vierlingsbeek Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.017134,51.592867,0.000000
+            5.997707,51.589365,0.000000
+            5.994815,51.594558,0.000000
+            5.997831,51.599211,0.000000
+            5.999989,51.599210,0.000000
+            6.008333,51.603189,0.000000
+            6.016784,51.601146,0.000000
+            6.021387,51.595291,0.000000
+            6.017134,51.592867,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

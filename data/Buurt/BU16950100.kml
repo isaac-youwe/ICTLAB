@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16950100 Colijnsplaat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.839816,51.604274,0.000000
+            3.840983,51.602895,0.000000
+            3.849612,51.603907,0.000000
+            3.851085,51.603028,0.000000
+            3.851116,51.602129,0.000000
+            3.855476,51.601287,0.000000
+            3.855677,51.601258,0.000000
+            3.855850,51.596159,0.000000
+            3.851394,51.592672,0.000000
+            3.840852,51.597199,0.000000
+            3.840390,51.601791,0.000000
+            3.838980,51.601797,0.000000
+            3.838754,51.603126,0.000000
+            3.839816,51.604274,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05880100 Piershil</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.317097,51.789655,0.000000
+            4.318021,51.786087,0.000000
+            4.316935,51.785721,0.000000
+            4.314285,51.785422,0.000000
+            4.312172,51.789406,0.000000
+            4.309722,51.788761,0.000000
+            4.308326,51.795804,0.000000
+            4.306469,51.798425,0.000000
+            4.311766,51.800152,0.000000
+            4.314143,51.799389,0.000000
+            4.320122,51.795858,0.000000
+            4.322029,51.792862,0.000000
+            4.317868,51.792294,0.000000
+            4.317097,51.789655,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

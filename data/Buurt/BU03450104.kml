@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03450104 Dragonder-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.579978,52.023519,0.000000
+            5.574509,52.019147,0.000000
+            5.569634,52.022363,0.000000
+            5.573116,52.024588,0.000000
+            5.573509,52.027503,0.000000
+            5.573837,52.027489,0.000000
+            5.580314,52.027175,0.000000
+            5.579978,52.023519,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

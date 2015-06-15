@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03330001 Nieuw-Maarsseveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.056669,52.134452,0.000000
+            5.049424,52.131264,0.000000
+            5.047477,52.132958,0.000000
+            5.043473,52.141753,0.000000
+            5.038519,52.142309,0.000000
+            5.035301,52.144931,0.000000
+            5.036575,52.148370,0.000000
+            5.035548,52.149753,0.000000
+            5.038590,52.152516,0.000000
+            5.037327,52.153998,0.000000
+            5.051087,52.156850,0.000000
+            5.054417,52.152065,0.000000
+            5.061702,52.146694,0.000000
+            5.053381,52.142498,0.000000
+            5.055017,52.140900,0.000000
+            5.054756,52.136940,0.000000
+            5.056669,52.134452,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

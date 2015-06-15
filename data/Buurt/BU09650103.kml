@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09650103 Baneheide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.982901,50.818664,0.000000
+            5.982225,50.815780,0.000000
+            5.979014,50.816027,0.000000
+            5.978167,50.814909,0.000000
+            5.977535,50.815113,0.000000
+            5.969118,50.816938,0.000000
+            5.969033,50.816998,0.000000
+            5.967698,50.822333,0.000000
+            5.975611,50.819875,0.000000
+            5.982901,50.818664,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

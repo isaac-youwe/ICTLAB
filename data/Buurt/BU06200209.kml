@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06200209 Verspreide huizen Everdingen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.153307,51.966045,0.000000
+            5.151170,51.962005,0.000000
+            5.152627,51.961414,0.000000
+            5.158673,51.961237,0.000000
+            5.159216,51.963577,0.000000
+            5.165513,51.962380,0.000000
+            5.147737,51.941316,0.000000
+            5.122195,51.957163,0.000000
+            5.131764,51.967728,0.000000
+            5.137944,51.962113,0.000000
+            5.150820,51.968153,0.000000
+            5.153307,51.966045,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

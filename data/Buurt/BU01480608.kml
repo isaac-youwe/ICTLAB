@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01480608 Verspreide huizen Strenkhaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.333966,52.443566,0.000000
+            6.330643,52.436126,0.000000
+            6.341543,52.436583,0.000000
+            6.314848,52.433078,0.000000
+            6.314738,52.432821,0.000000
+            6.303389,52.431180,0.000000
+            6.303275,52.431554,0.000000
+            6.302012,52.435685,0.000000
+            6.294641,52.434843,0.000000
+            6.293207,52.436652,0.000000
+            6.290439,52.442864,0.000000
+            6.290394,52.442966,0.000000
+            6.290467,52.446561,0.000000
+            6.278718,52.447548,0.000000
+            6.278899,52.456536,0.000000
+            6.278893,52.456538,0.000000
+            6.279060,52.456859,0.000000
+            6.329868,52.448194,0.000000
+            6.328168,52.444689,0.000000
+            6.333966,52.443566,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

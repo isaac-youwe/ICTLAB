@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130201 De Korte Akkeren-Nieuw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.703504,52.001794,0.000000
+            4.698938,52.000526,0.000000
+            4.693213,52.001021,0.000000
+            4.693532,52.002100,0.000000
+            4.693027,52.006129,0.000000
+            4.695504,52.007388,0.000000
+            4.700231,52.005796,0.000000
+            4.699206,52.004804,0.000000
+            4.705212,52.002665,0.000000
+            4.703504,52.001794,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

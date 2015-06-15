@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09280200 Eygelshoven-Kom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.075176,50.892158,0.000000
+            6.067741,50.889074,0.000000
+            6.064863,50.891160,0.000000
+            6.057783,50.890350,0.000000
+            6.053799,50.895588,0.000000
+            6.066605,50.897077,0.000000
+            6.073386,50.901768,0.000000
+            6.078225,50.900125,0.000000
+            6.078136,50.899961,0.000000
+            6.075186,50.892787,0.000000
+            6.075176,50.892158,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

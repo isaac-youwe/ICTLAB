@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440605 Springweg en omgeving Geertebuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.124141,52.081354,0.000000
+            5.121278,52.081138,0.000000
+            5.116569,52.087683,0.000000
+            5.120849,52.089675,0.000000
+            5.121210,52.089797,0.000000
+            5.122913,52.085327,0.000000
+            5.122673,52.082453,0.000000
+            5.124141,52.081354,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

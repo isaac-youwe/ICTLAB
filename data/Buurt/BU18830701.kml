@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18830701 Papenhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.792542,51.032352,0.000000
+            5.786717,51.030107,0.000000
+            5.784916,51.032902,0.000000
+            5.778999,51.033084,0.000000
+            5.777943,51.041652,0.000000
+            5.776834,51.043216,0.000000
+            5.778612,51.045070,0.000000
+            5.779078,51.052392,0.000000
+            5.781986,51.054057,0.000000
+            5.788313,51.054912,0.000000
+            5.790556,51.054036,0.000000
+            5.794979,51.042624,0.000000
+            5.796532,51.039775,0.000000
+            5.792542,51.032352,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

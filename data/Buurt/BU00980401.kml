@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00980401 Spanga</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.899925,52.819987,0.000000
+            5.901351,52.818766,0.000000
+            5.899720,52.818178,0.000000
+            5.891310,52.817317,0.000000
+            5.883907,52.818876,0.000000
+            5.880860,52.818691,0.000000
+            5.877520,52.819959,0.000000
+            5.875740,52.821449,0.000000
+            5.878918,52.822090,0.000000
+            5.876141,52.824320,0.000000
+            5.892353,52.827246,0.000000
+            5.888904,52.830543,0.000000
+            5.888808,52.834762,0.000000
+            5.904542,52.821871,0.000000
+            5.899925,52.819987,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

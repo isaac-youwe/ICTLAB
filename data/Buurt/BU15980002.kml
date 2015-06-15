@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15980002 Berkhout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.036907,52.649881,0.000000
+            5.035359,52.647976,0.000000
+            5.034016,52.646321,0.000000
+            5.033872,52.646215,0.000000
+            5.027129,52.641244,0.000000
+            5.026671,52.640906,0.000000
+            5.019299,52.639086,0.000000
+            5.019282,52.639073,0.000000
+            5.013427,52.634574,0.000000
+            5.013462,52.630491,0.000000
+            5.008740,52.629288,0.000000
+            4.965527,52.621177,0.000000
+            4.975058,52.637241,0.000000
+            4.976946,52.644984,0.000000
+            4.990130,52.645822,0.000000
+            5.014644,52.648223,0.000000
+            5.028255,52.648192,0.000000
+            5.029406,52.649479,0.000000
+            5.033822,52.648971,0.000000
+            5.036907,52.649881,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

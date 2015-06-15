@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631454 Rijnbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.913137,52.346319,0.000000
+            4.914242,52.340451,0.000000
+            4.907796,52.338093,0.000000
+            4.905095,52.333858,0.000000
+            4.899271,52.333268,0.000000
+            4.898174,52.332341,0.000000
+            4.892958,52.334738,0.000000
+            4.899098,52.338191,0.000000
+            4.901473,52.338141,0.000000
+            4.901664,52.340433,0.000000
+            4.897334,52.340604,0.000000
+            4.897111,52.342366,0.000000
+            4.898914,52.343004,0.000000
+            4.906466,52.342826,0.000000
+            4.905162,52.346313,0.000000
+            4.912707,52.347371,0.000000
+            4.913137,52.346319,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

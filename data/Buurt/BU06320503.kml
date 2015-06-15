@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06320503 Breudijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.975520,52.105913,0.000000
+            4.972634,52.102307,0.000000
+            4.973025,52.101950,0.000000
+            4.949446,52.099320,0.000000
+            4.945594,52.102234,0.000000
+            4.941853,52.101035,0.000000
+            4.939256,52.103706,0.000000
+            4.938758,52.104959,0.000000
+            4.939638,52.105617,0.000000
+            4.940751,52.105205,0.000000
+            4.975442,52.116660,0.000000
+            4.976906,52.114008,0.000000
+            4.979842,52.112220,0.000000
+            4.979875,52.108624,0.000000
+            4.975520,52.105913,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

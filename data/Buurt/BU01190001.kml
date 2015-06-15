@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01190001 Watertoren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.180161,52.709638,0.000000
+            6.182374,52.706122,0.000000
+            6.186875,52.708515,0.000000
+            6.189901,52.708568,0.000000
+            6.184992,52.701916,0.000000
+            6.181983,52.702581,0.000000
+            6.179589,52.704874,0.000000
+            6.180792,52.705295,0.000000
+            6.177033,52.709177,0.000000
+            6.180161,52.709638,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

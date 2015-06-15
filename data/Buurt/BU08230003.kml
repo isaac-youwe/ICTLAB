@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08230003 Industrieterrein De Stad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.336698,51.504932,0.000000
+            5.336654,51.499351,0.000000
+            5.323057,51.501024,0.000000
+            5.315828,51.500952,0.000000
+            5.315928,51.501274,0.000000
+            5.324148,51.504727,0.000000
+            5.329123,51.505077,0.000000
+            5.336698,51.504932,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

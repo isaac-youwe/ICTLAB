@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770826 Kern Kloosterzande</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.022605,51.372860,0.000000
+            4.023827,51.366304,0.000000
+            4.025084,51.366399,0.000000
+            4.025334,51.364899,0.000000
+            4.019874,51.363841,0.000000
+            4.013561,51.364885,0.000000
+            4.013694,51.366216,0.000000
+            4.011941,51.366430,0.000000
+            4.010514,51.364555,0.000000
+            4.008866,51.364702,0.000000
+            4.004938,51.369948,0.000000
+            4.007114,51.374103,0.000000
+            4.019764,51.375459,0.000000
+            4.021579,51.374632,0.000000
+            4.022605,51.372860,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

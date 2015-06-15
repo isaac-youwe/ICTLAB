@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17301201 De Punt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.599418,53.095194,0.000000
+            6.597280,53.092161,0.000000
+            6.592314,53.095445,0.000000
+            6.601706,53.103806,0.000000
+            6.602252,53.105393,0.000000
+            6.599152,53.110963,0.000000
+            6.597529,53.116555,0.000000
+            6.602002,53.117893,0.000000
+            6.601377,53.123375,0.000000
+            6.605784,53.124798,0.000000
+            6.606770,53.105124,0.000000
+            6.601543,53.095627,0.000000
+            6.599418,53.095194,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

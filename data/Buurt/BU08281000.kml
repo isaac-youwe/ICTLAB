@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08281000 Berghem-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.581234,51.775255,0.000000
+            5.583077,51.771666,0.000000
+            5.562824,51.766836,0.000000
+            5.556068,51.766237,0.000000
+            5.553035,51.766433,0.000000
+            5.552957,51.769688,0.000000
+            5.552863,51.773591,0.000000
+            5.552791,51.775405,0.000000
+            5.558071,51.775038,0.000000
+            5.565113,51.775076,0.000000
+            5.573631,51.776664,0.000000
+            5.583064,51.776667,0.000000
+            5.581234,51.775255,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

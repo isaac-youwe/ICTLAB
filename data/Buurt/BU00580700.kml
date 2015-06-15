@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580700 Hantum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.968426,53.361933,0.000000
+            5.962235,53.361611,0.000000
+            5.959970,53.363181,0.000000
+            5.960061,53.364734,0.000000
+            5.962920,53.366307,0.000000
+            5.964953,53.366421,0.000000
+            5.968849,53.363864,0.000000
+            5.968426,53.361933,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

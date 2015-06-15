@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000204 Berg en Bos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.945550,52.227437,0.000000
+            5.934257,52.216884,0.000000
+            5.931069,52.210459,0.000000
+            5.930236,52.207385,0.000000
+            5.923966,52.208462,0.000000
+            5.923489,52.211381,0.000000
+            5.928729,52.212694,0.000000
+            5.927580,52.213680,0.000000
+            5.923308,52.214412,0.000000
+            5.919924,52.216657,0.000000
+            5.922613,52.217001,0.000000
+            5.922329,52.223600,0.000000
+            5.930674,52.223383,0.000000
+            5.929710,52.227263,0.000000
+            5.939694,52.226801,0.000000
+            5.945550,52.227437,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

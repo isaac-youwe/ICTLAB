@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01800000 Staphorst plan-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.213021,52.650476,0.000000
+            6.219166,52.646311,0.000000
+            6.218246,52.645945,0.000000
+            6.216425,52.647111,0.000000
+            6.214593,52.646031,0.000000
+            6.213591,52.646489,0.000000
+            6.212026,52.645080,0.000000
+            6.207755,52.645224,0.000000
+            6.205049,52.646917,0.000000
+            6.206596,52.647758,0.000000
+            6.208754,52.646386,0.000000
+            6.210074,52.646818,0.000000
+            6.210004,52.648692,0.000000
+            6.213021,52.650476,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

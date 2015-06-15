@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03072806 Vuilstort Smink</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.385740,52.206409,0.000000
+            5.393055,52.205510,0.000000
+            5.393063,52.205544,0.000000
+            5.411672,52.203416,0.000000
+            5.405782,52.199138,0.000000
+            5.404908,52.197913,0.000000
+            5.407766,52.196099,0.000000
+            5.403480,52.193654,0.000000
+            5.399272,52.196686,0.000000
+            5.388645,52.203376,0.000000
+            5.385740,52.205095,0.000000
+            5.385334,52.206459,0.000000
+            5.385740,52.206409,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

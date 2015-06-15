@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04150009 Verspreide huizen ten oosten van Landsmeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.948834,52.448036,0.000000
+            4.950386,52.436614,0.000000
+            4.950510,52.424030,0.000000
+            4.947889,52.421595,0.000000
+            4.941413,52.422236,0.000000
+            4.932132,52.425502,0.000000
+            4.931252,52.426358,0.000000
+            4.931759,52.432422,0.000000
+            4.928262,52.433858,0.000000
+            4.928109,52.437618,0.000000
+            4.927834,52.444131,0.000000
+            4.934183,52.443833,0.000000
+            4.948722,52.448008,0.000000
+            4.948834,52.448036,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

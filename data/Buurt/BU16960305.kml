@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16960305 Nieuw-Loosdrecht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.141464,52.193569,0.000000
+            5.140819,52.193227,0.000000
+            5.131620,52.196058,0.000000
+            5.127001,52.197424,0.000000
+            5.128930,52.199534,0.000000
+            5.129407,52.201954,0.000000
+            5.125653,52.203957,0.000000
+            5.131387,52.206024,0.000000
+            5.135109,52.207254,0.000000
+            5.134409,52.208531,0.000000
+            5.138459,52.209729,0.000000
+            5.139369,52.208621,0.000000
+            5.145813,52.200769,0.000000
+            5.145835,52.196567,0.000000
+            5.145837,52.196275,0.000000
+            5.144676,52.195556,0.000000
+            5.141464,52.193569,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

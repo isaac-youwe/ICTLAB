@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07160400 Stavenisse</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.010537,51.592080,0.000000
+            4.013517,51.589513,0.000000
+            4.015577,51.590180,0.000000
+            4.016085,51.589755,0.000000
+            4.017869,51.590821,0.000000
+            4.021503,51.590915,0.000000
+            4.020389,51.589386,0.000000
+            4.016325,51.587954,0.000000
+            4.016396,51.586019,0.000000
+            4.020339,51.585004,0.000000
+            4.017687,51.582972,0.000000
+            4.014845,51.584492,0.000000
+            4.012019,51.583400,0.000000
+            4.011072,51.581546,0.000000
+            4.007347,51.582330,0.000000
+            4.007893,51.587532,0.000000
+            4.006418,51.589073,0.000000
+            4.008482,51.592302,0.000000
+            4.010537,51.592080,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

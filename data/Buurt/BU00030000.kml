@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00030000 Appingedam-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.863969,53.321321,0.000000
+            6.856118,53.318863,0.000000
+            6.850491,53.320406,0.000000
+            6.849914,53.321321,0.000000
+            6.852939,53.326725,0.000000
+            6.854120,53.328188,0.000000
+            6.865506,53.328413,0.000000
+            6.867943,53.327207,0.000000
+            6.867172,53.326070,0.000000
+            6.868446,53.321871,0.000000
+            6.863969,53.321321,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

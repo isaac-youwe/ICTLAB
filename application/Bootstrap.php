@@ -45,6 +45,12 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
         $this->_view->headScript()->appendFile('js/jquery.js');
         $this->_view->headScript()->appendFile('js/filter.js');
         $this->_view->headScript()->appendFile('js/jquery.sidr.min.js');
+
+        // JavaScript files for Typeahead Bloodhound [check if it can go to the bottom of the page]
+//        $this->_view->headScript()->appendFile('https://code.jquery.com/jquery-1.11.0.min.js');
+        $this->_view->headScript()->appendFile('https://cdn.rawgit.com/twitter/typeahead.js/gh-pages/releases/0.10.5/typeahead.bundle.js');
+        $this->_view->headScript()->appendFile('https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.3/handlebars.min.js');
+        $this->_view->headScript()->appendFile('js/funda/zoekbalk.js');
     }
 }
 

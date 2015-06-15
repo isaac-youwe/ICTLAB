@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05010200 Zwartewaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.223856,51.881880,0.000000
+            4.222408,51.879277,0.000000
+            4.220895,51.878948,0.000000
+            4.215454,51.879353,0.000000
+            4.216615,51.881434,0.000000
+            4.219022,51.880485,0.000000
+            4.220482,51.881182,0.000000
+            4.220682,51.884530,0.000000
+            4.223212,51.885363,0.000000
+            4.225332,51.882112,0.000000
+            4.223856,51.881880,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000809 Stadhoudersmolen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.978559,52.247220,0.000000
+            5.977787,52.245294,0.000000
+            5.975621,52.239358,0.000000
+            5.975765,52.235094,0.000000
+            5.973947,52.235132,0.000000
+            5.969663,52.235071,0.000000
+            5.969786,52.236996,0.000000
+            5.967489,52.237007,0.000000
+            5.966092,52.238894,0.000000
+            5.966039,52.241607,0.000000
+            5.966274,52.243982,0.000000
+            5.967511,52.245478,0.000000
+            5.971932,52.245410,0.000000
+            5.972631,52.247293,0.000000
+            5.978559,52.247220,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

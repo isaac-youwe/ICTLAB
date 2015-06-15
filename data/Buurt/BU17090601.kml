@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17090601 Kreek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.506007,51.620390,0.000000
+            4.501930,51.617790,0.000000
+            4.501118,51.620275,0.000000
+            4.511861,51.631261,0.000000
+            4.515768,51.630384,0.000000
+            4.515781,51.627644,0.000000
+            4.510309,51.625115,0.000000
+            4.506007,51.620390,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

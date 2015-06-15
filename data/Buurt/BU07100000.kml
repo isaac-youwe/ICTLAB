@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07100000 Witmarsum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.465172,53.095475,0.000000
+            5.461140,53.094242,0.000000
+            5.457095,53.097702,0.000000
+            5.456788,53.100520,0.000000
+            5.459400,53.102546,0.000000
+            5.472984,53.107815,0.000000
+            5.478174,53.103621,0.000000
+            5.475024,53.097292,0.000000
+            5.472968,53.096123,0.000000
+            5.465172,53.095475,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

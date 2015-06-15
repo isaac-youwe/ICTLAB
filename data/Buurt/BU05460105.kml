@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05460105 Noordvest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.500511,52.163657,0.000000
+            4.500239,52.161474,0.000000
+            4.489905,52.162520,0.000000
+            4.489551,52.164674,0.000000
+            4.492657,52.165165,0.000000
+            4.494475,52.164587,0.000000
+            4.498630,52.164500,0.000000
+            4.500511,52.163657,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

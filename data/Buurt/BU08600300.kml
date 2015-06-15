@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08600300 Eerde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.505163,51.609698,0.000000
+            5.502001,51.600104,0.000000
+            5.499833,51.600230,0.000000
+            5.499567,51.600845,0.000000
+            5.497303,51.600445,0.000000
+            5.495475,51.602502,0.000000
+            5.491471,51.604505,0.000000
+            5.491207,51.607260,0.000000
+            5.495624,51.610013,0.000000
+            5.499347,51.610794,0.000000
+            5.502047,51.612920,0.000000
+            5.503450,51.612935,0.000000
+            5.504792,51.611927,0.000000
+            5.505163,51.609698,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

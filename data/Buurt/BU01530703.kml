@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530703 De Broeierd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.836832,52.242973,0.000000
+            6.856698,52.235513,0.000000
+            6.854522,52.234058,0.000000
+            6.849812,52.236170,0.000000
+            6.844822,52.233836,0.000000
+            6.841407,52.231815,0.000000
+            6.826694,52.240837,0.000000
+            6.819566,52.243652,0.000000
+            6.823905,52.246213,0.000000
+            6.824531,52.246582,0.000000
+            6.826892,52.247974,0.000000
+            6.827354,52.248147,0.000000
+            6.836832,52.242973,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

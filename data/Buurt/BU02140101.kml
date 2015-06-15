@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140101 Zoelmond</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.309524,51.944358,0.000000
+            5.312009,51.944102,0.000000
+            5.312360,51.944747,0.000000
+            5.316134,51.943403,0.000000
+            5.314625,51.941805,0.000000
+            5.316993,51.939613,0.000000
+            5.314466,51.939562,0.000000
+            5.311808,51.940664,0.000000
+            5.309849,51.940673,0.000000
+            5.309033,51.939593,0.000000
+            5.307783,51.940110,0.000000
+            5.306243,51.944601,0.000000
+            5.307347,51.945476,0.000000
+            5.309524,51.944358,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

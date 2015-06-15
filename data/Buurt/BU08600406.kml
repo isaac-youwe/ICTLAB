@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08600406 Verspreide huizen Morsche Hoef en Looieind</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.642748,51.606544,0.000000
+            5.645605,51.601144,0.000000
+            5.645757,51.600725,0.000000
+            5.649868,51.589448,0.000000
+            5.649879,51.589393,0.000000
+            5.647221,51.591498,0.000000
+            5.639848,51.592310,0.000000
+            5.637695,51.594057,0.000000
+            5.632552,51.599862,0.000000
+            5.625651,51.600253,0.000000
+            5.620388,51.598881,0.000000
+            5.616936,51.598760,0.000000
+            5.613202,51.599299,0.000000
+            5.613318,51.602643,0.000000
+            5.609336,51.605913,0.000000
+            5.607281,51.604776,0.000000
+            5.602010,51.607232,0.000000
+            5.598530,51.607476,0.000000
+            5.600774,51.609404,0.000000
+            5.627076,51.623529,0.000000
+            5.642748,51.606544,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

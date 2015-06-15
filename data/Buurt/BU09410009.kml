@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09410009 Verspreide huizen Katsberg en Witdonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.907928,51.313493,0.000000
+            5.910725,51.307187,0.000000
+            5.890714,51.313569,0.000000
+            5.890522,51.313610,0.000000
+            5.888996,51.323408,0.000000
+            5.886544,51.330367,0.000000
+            5.888782,51.331053,0.000000
+            5.891713,51.334220,0.000000
+            5.892729,51.338970,0.000000
+            5.898347,51.345346,0.000000
+            5.906394,51.346683,0.000000
+            5.911166,51.345699,0.000000
+            5.911116,51.341347,0.000000
+            5.905264,51.326251,0.000000
+            5.905202,51.326091,0.000000
+            5.900877,51.324312,0.000000
+            5.907890,51.313552,0.000000
+            5.907928,51.313493,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08650102 De Baarzen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.293798,51.643813,0.000000
+            5.294112,51.640347,0.000000
+            5.295057,51.635794,0.000000
+            5.281610,51.635882,0.000000
+            5.280194,51.636033,0.000000
+            5.280976,51.642683,0.000000
+            5.283898,51.642245,0.000000
+            5.293798,51.643813,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

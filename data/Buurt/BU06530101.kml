@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06530101 Elahuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.545341,52.916739,0.000000
+            5.535645,52.909300,0.000000
+            5.531539,52.912155,0.000000
+            5.539894,52.917635,0.000000
+            5.535093,52.922351,0.000000
+            5.535728,52.924229,0.000000
+            5.542639,52.930871,0.000000
+            5.536965,52.936860,0.000000
+            5.537451,52.937055,0.000000
+            5.551017,52.942493,0.000000
+            5.561205,52.937736,0.000000
+            5.561930,52.936610,0.000000
+            5.559950,52.934851,0.000000
+            5.550800,52.931282,0.000000
+            5.545902,52.927642,0.000000
+            5.541006,52.922410,0.000000
+            5.544982,52.919003,0.000000
+            5.545341,52.916739,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

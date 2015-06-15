@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17050010 Verspreide huizen Haalderen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.939501,51.892126,0.000000
+            5.941343,51.891468,0.000000
+            5.942328,51.888698,0.000000
+            5.947022,51.887164,0.000000
+            5.945844,51.881152,0.000000
+            5.943700,51.879038,0.000000
+            5.939599,51.879344,0.000000
+            5.942053,51.882419,0.000000
+            5.935543,51.884645,0.000000
+            5.934604,51.886115,0.000000
+            5.935794,51.887487,0.000000
+            5.931272,51.891559,0.000000
+            5.922009,51.888949,0.000000
+            5.924951,51.886213,0.000000
+            5.921700,51.884513,0.000000
+            5.919391,51.885676,0.000000
+            5.921708,51.886625,0.000000
+            5.916675,51.892716,0.000000
+            5.933605,51.897482,0.000000
+            5.939501,51.892126,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

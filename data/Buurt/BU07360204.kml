@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07360204 Nessersluis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.863336,52.246678,0.000000
+            4.858522,52.244570,0.000000
+            4.857647,52.245382,0.000000
+            4.856323,52.246560,0.000000
+            4.857049,52.247467,0.000000
+            4.868723,52.251115,0.000000
+            4.870167,52.252919,0.000000
+            4.874258,52.251271,0.000000
+            4.872988,52.248492,0.000000
+            4.863336,52.246678,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

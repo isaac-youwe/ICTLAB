@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07620000 Deurne-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.804726,51.463552,0.000000
+            5.804720,51.462038,0.000000
+            5.798874,51.462544,0.000000
+            5.794176,51.460923,0.000000
+            5.796824,51.457325,0.000000
+            5.796956,51.454568,0.000000
+            5.778711,51.457639,0.000000
+            5.779374,51.461715,0.000000
+            5.779709,51.464191,0.000000
+            5.779903,51.466243,0.000000
+            5.795319,51.471142,0.000000
+            5.799624,51.471595,0.000000
+            5.804303,51.471332,0.000000
+            5.804867,51.469130,0.000000
+            5.800675,51.467933,0.000000
+            5.802029,51.465054,0.000000
+            5.804726,51.463552,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530801 Bentveld-Bultserve</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.981182,52.220820,0.000000
+            6.979526,52.215448,0.000000
+            6.979515,52.215158,0.000000
+            6.971200,52.215450,0.000000
+            6.959173,52.216147,0.000000
+            6.955721,52.216398,0.000000
+            6.956216,52.220724,0.000000
+            6.973691,52.218735,0.000000
+            6.973724,52.222020,0.000000
+            6.974458,52.223057,0.000000
+            6.976672,52.223749,0.000000
+            6.976888,52.223575,0.000000
+            6.981182,52.220820,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

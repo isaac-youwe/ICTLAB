@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00810009 Oude Leije</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.735191,53.295222,0.000000
+            5.736684,53.294319,0.000000
+            5.736940,53.294319,0.000000
+            5.737424,53.289216,0.000000
+            5.737800,53.282585,0.000000
+            5.739809,53.280190,0.000000
+            5.721495,53.279712,0.000000
+            5.721573,53.279984,0.000000
+            5.727495,53.288737,0.000000
+            5.727642,53.288953,0.000000
+            5.730684,53.294337,0.000000
+            5.735191,53.295222,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

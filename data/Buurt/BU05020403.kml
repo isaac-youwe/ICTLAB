@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020403 Dalenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.613488,51.936879,0.000000
+            4.608919,51.934572,0.000000
+            4.606560,51.934892,0.000000
+            4.604800,51.937378,0.000000
+            4.606801,51.938302,0.000000
+            4.609895,51.939666,0.000000
+            4.613471,51.936887,0.000000
+            4.613488,51.936879,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

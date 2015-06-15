@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03830501 Akersloot Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.744052,52.566907,0.000000
+            4.752967,52.562461,0.000000
+            4.756859,52.562482,0.000000
+            4.750398,52.538160,0.000000
+            4.750368,52.538178,0.000000
+            4.735547,52.543491,0.000000
+            4.723808,52.546988,0.000000
+            4.735718,52.563653,0.000000
+            4.741354,52.568729,0.000000
+            4.746804,52.571209,0.000000
+            4.744052,52.566907,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

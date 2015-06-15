@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02520100 Overasselt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.789706,51.756863,0.000000
+            5.781748,51.756403,0.000000
+            5.780831,51.757372,0.000000
+            5.783776,51.762069,0.000000
+            5.776623,51.763789,0.000000
+            5.779080,51.765970,0.000000
+            5.782650,51.765104,0.000000
+            5.790663,51.764660,0.000000
+            5.788779,51.762739,0.000000
+            5.791650,51.761531,0.000000
+            5.794568,51.761420,0.000000
+            5.795843,51.758209,0.000000
+            5.789706,51.756863,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

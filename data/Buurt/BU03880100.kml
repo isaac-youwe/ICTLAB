@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03880100 Westeinde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.276260,52.689937,0.000000
+            5.270351,52.687235,0.000000
+            5.265911,52.688129,0.000000
+            5.259997,52.687224,0.000000
+            5.258528,52.695989,0.000000
+            5.258491,52.696210,0.000000
+            5.258463,52.705981,0.000000
+            5.274087,52.707368,0.000000
+            5.274000,52.698348,0.000000
+            5.272190,52.693456,0.000000
+            5.276398,52.690020,0.000000
+            5.276260,52.689937,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

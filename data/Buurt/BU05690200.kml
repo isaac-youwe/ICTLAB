@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05690200 Zevenhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.775293,52.198593,0.000000
+            4.786678,52.180958,0.000000
+            4.788295,52.181353,0.000000
+            4.792362,52.175517,0.000000
+            4.791731,52.174711,0.000000
+            4.782307,52.172590,0.000000
+            4.770605,52.191485,0.000000
+            4.771632,52.191773,0.000000
+            4.769338,52.195602,0.000000
+            4.772315,52.196345,0.000000
+            4.772309,52.197837,0.000000
+            4.775293,52.198593,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

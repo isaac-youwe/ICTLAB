@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05310201 Krommeweg-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.643428,51.839648,0.000000
+            4.639951,51.837138,0.000000
+            4.636474,51.838026,0.000000
+            4.632693,51.837243,0.000000
+            4.626464,51.839015,0.000000
+            4.628802,51.841177,0.000000
+            4.633525,51.839567,0.000000
+            4.636912,51.840400,0.000000
+            4.640594,51.843009,0.000000
+            4.644646,51.840532,0.000000
+            4.643428,51.839648,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

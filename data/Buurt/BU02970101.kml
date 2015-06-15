@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02970101 Poederoijen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.080236,51.787230,0.000000
+            5.081113,51.785996,0.000000
+            5.085228,51.787075,0.000000
+            5.085534,51.785824,0.000000
+            5.075674,51.782104,0.000000
+            5.073742,51.789262,0.000000
+            5.079803,51.789347,0.000000
+            5.080961,51.787514,0.000000
+            5.080236,51.787230,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

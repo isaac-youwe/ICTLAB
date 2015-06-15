@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770623 Kern Nieuw Namen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.159859,51.290207,0.000000
+            4.159548,51.290070,0.000000
+            4.155245,51.293178,0.000000
+            4.158795,51.295098,0.000000
+            4.162506,51.295207,0.000000
+            4.167488,51.296906,0.000000
+            4.166929,51.293876,0.000000
+            4.159859,51.290207,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

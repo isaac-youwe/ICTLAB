@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830201 Honselersdijk Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.229865,52.008265,0.000000
+            4.228218,52.005660,0.000000
+            4.226227,52.005766,0.000000
+            4.224348,52.006847,0.000000
+            4.228642,52.008962,0.000000
+            4.228299,52.009621,0.000000
+            4.228756,52.010099,0.000000
+            4.230128,52.009062,0.000000
+            4.229865,52.008265,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

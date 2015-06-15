@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17000105 Verspreide huizen De Westerhoeve</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.595040,52.413189,0.000000
+            6.580945,52.409573,0.000000
+            6.580774,52.409832,0.000000
+            6.576558,52.417066,0.000000
+            6.572317,52.423401,0.000000
+            6.573465,52.423390,0.000000
+            6.573787,52.423387,0.000000
+            6.585419,52.431126,0.000000
+            6.595040,52.413189,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

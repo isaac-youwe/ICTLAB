@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440558 Maarschalkerweerd en Mereveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.155736,52.081185,0.000000
+            5.160169,52.080236,0.000000
+            5.160473,52.080412,0.000000
+            5.161902,52.078167,0.000000
+            5.161067,52.077649,0.000000
+            5.155264,52.071346,0.000000
+            5.156736,52.068652,0.000000
+            5.159351,52.067051,0.000000
+            5.159663,52.066860,0.000000
+            5.159293,52.064747,0.000000
+            5.158246,52.058767,0.000000
+            5.152632,52.057023,0.000000
+            5.143836,52.065817,0.000000
+            5.136190,52.072711,0.000000
+            5.138865,52.074116,0.000000
+            5.141207,52.077131,0.000000
+            5.147059,52.077194,0.000000
+            5.155736,52.081185,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

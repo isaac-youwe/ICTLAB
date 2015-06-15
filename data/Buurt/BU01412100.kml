@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01412100 Bornerbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.658404,52.312207,0.000000
+            6.661241,52.303189,0.000000
+            6.652068,52.306337,0.000000
+            6.648420,52.308910,0.000000
+            6.649007,52.310659,0.000000
+            6.653405,52.313612,0.000000
+            6.656028,52.313960,0.000000
+            6.658404,52.312207,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

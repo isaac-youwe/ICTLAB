@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960211 Aawijk-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.350742,51.693531,0.000000
+            5.347700,51.683894,0.000000
+            5.333971,51.685899,0.000000
+            5.324783,51.687240,0.000000
+            5.324783,51.687499,0.000000
+            5.324348,51.691712,0.000000
+            5.329588,51.692832,0.000000
+            5.340622,51.693645,0.000000
+            5.350742,51.693531,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

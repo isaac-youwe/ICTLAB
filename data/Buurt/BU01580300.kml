@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01580300 Buurse kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.831525,52.147788,0.000000
+            6.835814,52.144518,0.000000
+            6.838379,52.144618,0.000000
+            6.838933,52.141798,0.000000
+            6.832421,52.142083,0.000000
+            6.824475,52.145274,0.000000
+            6.823857,52.145959,0.000000
+            6.829773,52.149489,0.000000
+            6.832247,52.147987,0.000000
+            6.831525,52.147788,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

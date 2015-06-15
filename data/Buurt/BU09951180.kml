@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09951180 oostervaart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.531106,52.548028,0.000000
+            5.532887,52.530714,0.000000
+            5.525238,52.530942,0.000000
+            5.525188,52.529845,0.000000
+            5.513306,52.530960,0.000000
+            5.515213,52.540170,0.000000
+            5.513719,52.540247,0.000000
+            5.514217,52.542617,0.000000
+            5.515847,52.542500,0.000000
+            5.516849,52.548830,0.000000
+            5.531106,52.548028,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00805102 Swichum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.822067,53.161116,0.000000
+            5.825281,53.156533,0.000000
+            5.831233,53.153815,0.000000
+            5.832701,53.151113,0.000000
+            5.825172,53.145749,0.000000
+            5.823983,53.142962,0.000000
+            5.819871,53.143309,0.000000
+            5.817714,53.146544,0.000000
+            5.814340,53.147919,0.000000
+            5.811237,53.147679,0.000000
+            5.809996,53.149506,0.000000
+            5.812213,53.152053,0.000000
+            5.811103,53.155973,0.000000
+            5.812728,53.158251,0.000000
+            5.814985,53.157342,0.000000
+            5.817816,53.158191,0.000000
+            5.821051,53.161007,0.000000
+            5.822067,53.161116,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

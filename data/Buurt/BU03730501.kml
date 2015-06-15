@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03730501 Rinnegom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.656453,52.613312,0.000000
+            4.659780,52.612604,0.000000
+            4.657800,52.610586,0.000000
+            4.658477,52.608424,0.000000
+            4.645470,52.604802,0.000000
+            4.616563,52.605900,0.000000
+            4.617372,52.609062,0.000000
+            4.634436,52.613739,0.000000
+            4.639071,52.612685,0.000000
+            4.649446,52.616547,0.000000
+            4.656453,52.613312,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000704 Anklaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.996268,52.236230,0.000000
+            5.996907,52.234128,0.000000
+            5.998969,52.232978,0.000000
+            5.990072,52.225572,0.000000
+            5.982539,52.229569,0.000000
+            5.978371,52.230757,0.000000
+            5.977662,52.230911,0.000000
+            5.977993,52.235146,0.000000
+            5.987144,52.233615,0.000000
+            5.988354,52.235808,0.000000
+            5.990338,52.235493,0.000000
+            5.990768,52.236463,0.000000
+            5.996268,52.236230,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09880105 Industrieterrein Boshoverheide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.647239,51.238406,0.000000
+            5.583331,51.216498,0.000000
+            5.583313,51.216503,0.000000
+            5.566153,51.221026,0.000000
+            5.594805,51.225473,0.000000
+            5.594797,51.223675,0.000000
+            5.601048,51.225232,0.000000
+            5.601964,51.225460,0.000000
+            5.619163,51.229023,0.000000
+            5.623561,51.248792,0.000000
+            5.623574,51.249004,0.000000
+            5.623601,51.249005,0.000000
+            5.678128,51.250238,0.000000
+            5.681406,51.250061,0.000000
+            5.647239,51.238406,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

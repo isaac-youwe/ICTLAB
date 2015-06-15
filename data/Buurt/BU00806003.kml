@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00806003 Businesspark Leeuwarden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.763856,53.206555,0.000000
+            5.772709,53.205647,0.000000
+            5.769750,53.198385,0.000000
+            5.765646,53.198763,0.000000
+            5.750980,53.196534,0.000000
+            5.743439,53.196422,0.000000
+            5.744886,53.198139,0.000000
+            5.742784,53.200437,0.000000
+            5.737469,53.206249,0.000000
+            5.735972,53.206253,0.000000
+            5.734576,53.211434,0.000000
+            5.734669,53.211439,0.000000
+            5.734600,53.211649,0.000000
+            5.743500,53.211623,0.000000
+            5.743597,53.211738,0.000000
+            5.757637,53.210499,0.000000
+            5.763856,53.206555,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

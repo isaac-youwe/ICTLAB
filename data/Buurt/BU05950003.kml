@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950003 Middelburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.687032,52.058870,0.000000
+            4.684073,52.051077,0.000000
+            4.679307,52.050952,0.000000
+            4.670301,52.055617,0.000000
+            4.674816,52.056704,0.000000
+            4.676684,52.060235,0.000000
+            4.678277,52.060200,0.000000
+            4.678437,52.059554,0.000000
+            4.681368,52.058672,0.000000
+            4.681815,52.060123,0.000000
+            4.682755,52.063175,0.000000
+            4.682781,52.063232,0.000000
+            4.688453,52.062679,0.000000
+            4.687032,52.058870,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

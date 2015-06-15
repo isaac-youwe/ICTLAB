@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09340100 Baarlo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.092667,51.320344,0.000000
+            6.088987,51.319230,0.000000
+            6.081808,51.324858,0.000000
+            6.085951,51.328257,0.000000
+            6.088085,51.333466,0.000000
+            6.091041,51.336867,0.000000
+            6.101277,51.343209,0.000000
+            6.105911,51.342364,0.000000
+            6.108055,51.335154,0.000000
+            6.117693,51.333764,0.000000
+            6.117639,51.330346,0.000000
+            6.117632,51.329905,0.000000
+            6.100954,51.328705,0.000000
+            6.100209,51.325735,0.000000
+            6.092667,51.320344,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

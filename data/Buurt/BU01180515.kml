@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180515 Schutlanden-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.464867,52.716445,0.000000
+            6.461594,52.711637,0.000000
+            6.454879,52.712120,0.000000
+            6.455751,52.715121,0.000000
+            6.453391,52.718142,0.000000
+            6.458968,52.718658,0.000000
+            6.464793,52.719206,0.000000
+            6.464867,52.716445,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

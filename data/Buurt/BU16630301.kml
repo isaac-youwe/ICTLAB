@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16630301 Hornhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.366990,53.387260,0.000000
+            6.359592,53.385582,0.000000
+            6.357231,53.385874,0.000000
+            6.354194,53.388662,0.000000
+            6.357766,53.390386,0.000000
+            6.362638,53.390243,0.000000
+            6.367191,53.388737,0.000000
+            6.366990,53.387260,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

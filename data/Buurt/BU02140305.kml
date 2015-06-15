@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140305 Ommerveld en verspreide huizen polder Meerten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.488787,51.940746,0.000000
+            5.495233,51.937976,0.000000
+            5.503840,51.938774,0.000000
+            5.502679,51.936841,0.000000
+            5.482931,51.923107,0.000000
+            5.477341,51.920521,0.000000
+            5.468622,51.923224,0.000000
+            5.460361,51.924081,0.000000
+            5.458710,51.927030,0.000000
+            5.463340,51.931862,0.000000
+            5.473251,51.936440,0.000000
+            5.485105,51.943717,0.000000
+            5.483401,51.948086,0.000000
+            5.486974,51.950303,0.000000
+            5.488699,51.951238,0.000000
+            5.489570,51.949854,0.000000
+            5.487875,51.948237,0.000000
+            5.490395,51.945509,0.000000
+            5.490589,51.943252,0.000000
+            5.488787,51.940746,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

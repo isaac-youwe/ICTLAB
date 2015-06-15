@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00150006 Het Peebos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.239341,53.196498,0.000000
+            6.219002,53.191832,0.000000
+            6.212517,53.193412,0.000000
+            6.212251,53.195817,0.000000
+            6.220343,53.199476,0.000000
+            6.234504,53.203148,0.000000
+            6.238093,53.202159,0.000000
+            6.239858,53.199811,0.000000
+            6.240018,53.196929,0.000000
+            6.239341,53.196498,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

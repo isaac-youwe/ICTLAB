@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07100101 Burgwerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.550898,53.086344,0.000000
+            5.548914,53.083645,0.000000
+            5.541990,53.083970,0.000000
+            5.544138,53.088232,0.000000
+            5.534086,53.091579,0.000000
+            5.535398,53.093117,0.000000
+            5.539282,53.092124,0.000000
+            5.549440,53.089605,0.000000
+            5.550898,53.086344,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

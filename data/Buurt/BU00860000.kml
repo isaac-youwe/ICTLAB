@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00860000 Gorredijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.074355,53.017017,0.000000
+            6.077668,53.008437,0.000000
+            6.082610,53.008932,0.000000
+            6.085019,53.004038,0.000000
+            6.079597,53.003353,0.000000
+            6.082085,52.996725,0.000000
+            6.075665,52.991220,0.000000
+            6.065405,52.995879,0.000000
+            6.064497,52.995090,0.000000
+            6.041207,53.004956,0.000000
+            6.042191,53.006634,0.000000
+            6.039700,53.007877,0.000000
+            6.043738,53.009413,0.000000
+            6.052672,53.009800,0.000000
+            6.052747,53.014588,0.000000
+            6.055651,53.014937,0.000000
+            6.074355,53.017017,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

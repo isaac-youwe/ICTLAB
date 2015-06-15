@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07772007 Grauwe Polder 4</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.630689,51.554947,0.000000
+            4.630547,51.553692,0.000000
+            4.629045,51.555636,0.000000
+            4.628495,51.559613,0.000000
+            4.632030,51.559941,0.000000
+            4.636511,51.562018,0.000000
+            4.640134,51.559292,0.000000
+            4.635792,51.556570,0.000000
+            4.630689,51.554947,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

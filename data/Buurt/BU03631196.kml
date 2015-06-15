@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631196 Holendrecht en Reigersbos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.982159,52.290604,0.000000
+            4.985958,52.290095,0.000000
+            4.984076,52.290217,0.000000
+            4.972399,52.284783,0.000000
+            4.971938,52.284354,0.000000
+            4.955416,52.302538,0.000000
+            4.971354,52.308012,0.000000
+            4.976282,52.302644,0.000000
+            4.979834,52.301526,0.000000
+            4.981884,52.298734,0.000000
+            4.982159,52.290604,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

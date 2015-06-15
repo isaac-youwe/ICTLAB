@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500104 Zandweerd-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.132824,52.271523,0.000000
+            6.136531,52.268216,0.000000
+            6.135882,52.267735,0.000000
+            6.139951,52.265645,0.000000
+            6.138400,52.264500,0.000000
+            6.132673,52.260484,0.000000
+            6.127014,52.261603,0.000000
+            6.127021,52.261622,0.000000
+            6.124121,52.263438,0.000000
+            6.122871,52.269227,0.000000
+            6.127027,52.270368,0.000000
+            6.128853,52.269140,0.000000
+            6.132824,52.271523,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

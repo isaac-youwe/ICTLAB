@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05031207 Heilige Land</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.373185,52.010811,0.000000
+            4.369724,52.010717,0.000000
+            4.368280,52.010901,0.000000
+            4.366671,52.012702,0.000000
+            4.367791,52.013226,0.000000
+            4.373242,52.015527,0.000000
+            4.374642,52.014376,0.000000
+            4.375638,52.013442,0.000000
+            4.373386,52.012495,0.000000
+            4.374113,52.011979,0.000000
+            4.373185,52.010811,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05320002 Kloosterhof en-Oostersluis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.204765,52.677835,0.000000
+            5.203831,52.677264,0.000000
+            5.196370,52.692532,0.000000
+            5.196134,52.692936,0.000000
+            5.209614,52.695361,0.000000
+            5.233018,52.695067,0.000000
+            5.233153,52.686270,0.000000
+            5.208242,52.683562,0.000000
+            5.206770,52.681762,0.000000
+            5.205306,52.678165,0.000000
+            5.204765,52.677835,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

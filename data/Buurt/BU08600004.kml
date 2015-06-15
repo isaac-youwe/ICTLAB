@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08600004 De Bunders</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.559163,51.617176,0.000000
+            5.553771,51.615365,0.000000
+            5.548684,51.621892,0.000000
+            5.546808,51.626356,0.000000
+            5.569129,51.633508,0.000000
+            5.570895,51.634248,0.000000
+            5.570601,51.633361,0.000000
+            5.568956,51.628235,0.000000
+            5.569111,51.622393,0.000000
+            5.559163,51.617176,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

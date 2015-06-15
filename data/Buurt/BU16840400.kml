@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16840400 Haps</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.867830,51.694504,0.000000
+            5.868537,51.686914,0.000000
+            5.869787,51.686489,0.000000
+            5.869890,51.685497,0.000000
+            5.863549,51.685359,0.000000
+            5.862491,51.682011,0.000000
+            5.857912,51.681797,0.000000
+            5.853604,51.683625,0.000000
+            5.855887,51.684964,0.000000
+            5.855388,51.690029,0.000000
+            5.857353,51.691404,0.000000
+            5.858502,51.691085,0.000000
+            5.860108,51.695051,0.000000
+            5.867830,51.694504,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

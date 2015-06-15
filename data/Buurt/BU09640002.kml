@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09640002 Evertsoord De Peel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.984792,51.377852,0.000000
+            5.957506,51.377988,0.000000
+            5.947517,51.383431,0.000000
+            5.931725,51.384405,0.000000
+            5.920426,51.397898,0.000000
+            5.920389,51.397942,0.000000
+            5.903357,51.416897,0.000000
+            5.924944,51.418598,0.000000
+            5.925122,51.418618,0.000000
+            5.954786,51.422005,0.000000
+            5.971841,51.396777,0.000000
+            5.978300,51.387361,0.000000
+            5.984009,51.380804,0.000000
+            5.984792,51.377852,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

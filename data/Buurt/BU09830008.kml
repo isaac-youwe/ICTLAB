@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830008 Klingerberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.136135,51.371369,0.000000
+            6.134810,51.370880,0.000000
+            6.125998,51.371005,0.000000
+            6.122150,51.382579,0.000000
+            6.122486,51.384510,0.000000
+            6.124466,51.386524,0.000000
+            6.138278,51.380195,0.000000
+            6.134133,51.375640,0.000000
+            6.136308,51.372452,0.000000
+            6.136135,51.371369,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

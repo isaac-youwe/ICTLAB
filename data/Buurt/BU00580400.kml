@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580400 Oosternijkerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.064728,53.386534,0.000000
+            6.068279,53.382171,0.000000
+            6.062131,53.379242,0.000000
+            6.060358,53.375642,0.000000
+            6.056247,53.375084,0.000000
+            6.050920,53.375209,0.000000
+            6.044895,53.379660,0.000000
+            6.050777,53.384658,0.000000
+            6.056047,53.384006,0.000000
+            6.064728,53.386534,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09882402 Industrieterrein Leuken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.736522,51.259337,0.000000
+            5.731019,51.259238,0.000000
+            5.727933,51.257342,0.000000
+            5.727469,51.259354,0.000000
+            5.722311,51.259120,0.000000
+            5.717009,51.260885,0.000000
+            5.716283,51.261915,0.000000
+            5.722904,51.264160,0.000000
+            5.740671,51.270231,0.000000
+            5.741024,51.270312,0.000000
+            5.741188,51.270069,0.000000
+            5.743964,51.265654,0.000000
+            5.737485,51.264307,0.000000
+            5.736522,51.259337,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

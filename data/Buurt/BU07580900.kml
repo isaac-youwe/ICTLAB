@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580900 Prinsenbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.723667,51.591524,0.000000
+            4.703489,51.590055,0.000000
+            4.703716,51.591641,0.000000
+            4.701505,51.591890,0.000000
+            4.702176,51.596184,0.000000
+            4.700704,51.596209,0.000000
+            4.700786,51.597748,0.000000
+            4.706565,51.597880,0.000000
+            4.698920,51.603009,0.000000
+            4.698429,51.604759,0.000000
+            4.708546,51.607634,0.000000
+            4.709237,51.608862,0.000000
+            4.717948,51.610152,0.000000
+            4.723404,51.602762,0.000000
+            4.723690,51.602291,0.000000
+            4.729951,51.597744,0.000000
+            4.738848,51.594659,0.000000
+            4.737106,51.592536,0.000000
+            4.723667,51.591524,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

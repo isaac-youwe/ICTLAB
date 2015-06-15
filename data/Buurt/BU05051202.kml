@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05051202 Blaauwweg en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.682615,51.781613,0.000000
+            4.683109,51.778767,0.000000
+            4.676081,51.778784,0.000000
+            4.676030,51.779833,0.000000
+            4.677303,51.782734,0.000000
+            4.677664,51.784215,0.000000
+            4.685024,51.784298,0.000000
+            4.682615,51.781613,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

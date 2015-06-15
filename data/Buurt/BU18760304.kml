@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18760304 Rha</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.146764,52.050263,0.000000
+            6.139829,52.050301,0.000000
+            6.139965,52.052746,0.000000
+            6.146920,52.055821,0.000000
+            6.147273,52.055072,0.000000
+            6.154832,52.054657,0.000000
+            6.155829,52.054256,0.000000
+            6.155315,52.053359,0.000000
+            6.146764,52.050263,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

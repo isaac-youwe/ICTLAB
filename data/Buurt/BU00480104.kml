@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480104 Ellersinghuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.116741,53.009628,0.000000
+            7.113957,53.008958,0.000000
+            7.111176,53.009139,0.000000
+            7.108486,53.010946,0.000000
+            7.106501,53.013489,0.000000
+            7.105025,53.018239,0.000000
+            7.106466,53.022099,0.000000
+            7.107843,53.023070,0.000000
+            7.110511,53.023177,0.000000
+            7.113178,53.022998,0.000000
+            7.115353,53.021954,0.000000
+            7.118784,53.017025,0.000000
+            7.118295,53.011107,0.000000
+            7.116741,53.009628,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

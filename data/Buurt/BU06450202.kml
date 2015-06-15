@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06450202 Vriezekoop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.716139,52.215913,0.000000
+            4.715590,52.212872,0.000000
+            4.698674,52.218027,0.000000
+            4.681953,52.220074,0.000000
+            4.682485,52.222199,0.000000
+            4.682798,52.223446,0.000000
+            4.702843,52.220483,0.000000
+            4.716139,52.215913,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

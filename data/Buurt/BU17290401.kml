@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290401 Hilleshagen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.957459,50.798133,0.000000
+            5.951730,50.793666,0.000000
+            5.946079,50.795492,0.000000
+            5.945890,50.795374,0.000000
+            5.941267,50.796417,0.000000
+            5.940031,50.799625,0.000000
+            5.949417,50.800228,0.000000
+            5.954071,50.799859,0.000000
+            5.957521,50.798159,0.000000
+            5.957459,50.798133,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19550200 Didam-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.139949,51.935338,0.000000
+            6.142270,51.932088,0.000000
+            6.137865,51.931010,0.000000
+            6.135105,51.928374,0.000000
+            6.129953,51.928795,0.000000
+            6.130103,51.932591,0.000000
+            6.121254,51.930102,0.000000
+            6.119830,51.930838,0.000000
+            6.120914,51.938361,0.000000
+            6.131760,51.940854,0.000000
+            6.138081,51.939931,0.000000
+            6.139949,51.935338,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

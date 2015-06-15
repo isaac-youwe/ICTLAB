@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02330005 Horst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.584209,52.313901,0.000000
+            5.586459,52.310372,0.000000
+            5.587670,52.310835,0.000000
+            5.590932,52.306134,0.000000
+            5.578788,52.302003,0.000000
+            5.570838,52.302804,0.000000
+            5.563826,52.302376,0.000000
+            5.563345,52.305981,0.000000
+            5.574832,52.306795,0.000000
+            5.581151,52.308925,0.000000
+            5.578868,52.313013,0.000000
+            5.564053,52.310775,0.000000
+            5.564522,52.312929,0.000000
+            5.586253,52.317322,0.000000
+            5.586337,52.314547,0.000000
+            5.584209,52.313901,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

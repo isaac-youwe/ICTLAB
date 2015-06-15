@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06540003 Lewedorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.752641,51.492339,0.000000
+            3.751894,51.491684,0.000000
+            3.746820,51.491649,0.000000
+            3.747400,51.493861,0.000000
+            3.743830,51.495095,0.000000
+            3.744261,51.496801,0.000000
+            3.752435,51.499190,0.000000
+            3.753264,51.499202,0.000000
+            3.752641,51.492339,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

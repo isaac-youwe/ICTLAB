@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01932260 Breecamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.046259,52.541133,0.000000
+            6.040322,52.539395,0.000000
+            6.030772,52.539778,0.000000
+            6.030752,52.538343,0.000000
+            6.019667,52.541797,0.000000
+            6.019485,52.541854,0.000000
+            6.041493,52.547967,0.000000
+            6.046259,52.541133,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631192 Amstel III en Bullewijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.960734,52.278449,0.000000
+            4.954872,52.278428,0.000000
+            4.953507,52.280078,0.000000
+            4.953389,52.280220,0.000000
+            4.929663,52.307098,0.000000
+            4.929645,52.308841,0.000000
+            4.929644,52.308895,0.000000
+            4.934016,52.311609,0.000000
+            4.938379,52.315221,0.000000
+            4.940668,52.318791,0.000000
+            4.955416,52.302538,0.000000
+            4.971938,52.284354,0.000000
+            4.969506,52.282089,0.000000
+            4.969493,52.282076,0.000000
+            4.968053,52.279374,0.000000
+            4.967148,52.279260,0.000000
+            4.960734,52.278449,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

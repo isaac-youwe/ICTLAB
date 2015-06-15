@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580102 Niawier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.052728,53.362413,0.000000
+            6.042432,53.361009,0.000000
+            6.038235,53.361411,0.000000
+            6.039116,53.363358,0.000000
+            6.042685,53.363870,0.000000
+            6.046287,53.367014,0.000000
+            6.049838,53.367635,0.000000
+            6.052946,53.365794,0.000000
+            6.053685,53.363772,0.000000
+            6.052728,53.362413,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01710200 Marknesse kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.878130,52.709536,0.000000
+            5.865578,52.704880,0.000000
+            5.864783,52.705673,0.000000
+            5.861856,52.703315,0.000000
+            5.853598,52.703528,0.000000
+            5.853862,52.707638,0.000000
+            5.843547,52.707970,0.000000
+            5.846686,52.708601,0.000000
+            5.860964,52.714821,0.000000
+            5.878130,52.709536,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

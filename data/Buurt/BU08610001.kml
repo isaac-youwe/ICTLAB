@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08610001 Meerveldhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.426054,51.404495,0.000000
+            5.424815,51.404196,0.000000
+            5.421816,51.406920,0.000000
+            5.411526,51.410512,0.000000
+            5.412514,51.411542,0.000000
+            5.410459,51.418042,0.000000
+            5.410392,51.418347,0.000000
+            5.422158,51.419851,0.000000
+            5.427472,51.421604,0.000000
+            5.428898,51.417133,0.000000
+            5.427460,51.417134,0.000000
+            5.427540,51.416858,0.000000
+            5.430326,51.407244,0.000000
+            5.426011,51.404549,0.000000
+            5.426054,51.404495,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

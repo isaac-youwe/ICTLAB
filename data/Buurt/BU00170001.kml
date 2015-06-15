@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00170001 Oosterhaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.629832,53.165882,0.000000
+            6.625150,53.164325,0.000000
+            6.619391,53.173554,0.000000
+            6.620140,53.179442,0.000000
+            6.628132,53.179877,0.000000
+            6.636419,53.169718,0.000000
+            6.633536,53.166000,0.000000
+            6.629832,53.165882,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

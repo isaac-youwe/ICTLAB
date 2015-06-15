@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01141108 Rietlanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.899178,52.751430,0.000000
+            6.906533,52.747428,0.000000
+            6.908161,52.747508,0.000000
+            6.909739,52.745612,0.000000
+            6.907661,52.745075,0.000000
+            6.888489,52.740091,0.000000
+            6.888716,52.737255,0.000000
+            6.886492,52.736927,0.000000
+            6.882993,52.736665,0.000000
+            6.877261,52.738219,0.000000
+            6.875082,52.749461,0.000000
+            6.889712,52.757589,0.000000
+            6.893139,52.758252,0.000000
+            6.899178,52.751430,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

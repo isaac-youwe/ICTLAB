@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08650008 Vughtse Heide en Lunetten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.285993,51.668286,0.000000
+            5.281488,51.664738,0.000000
+            5.282562,51.662134,0.000000
+            5.273108,51.656721,0.000000
+            5.265821,51.652197,0.000000
+            5.254154,51.656092,0.000000
+            5.252888,51.668619,0.000000
+            5.270788,51.666118,0.000000
+            5.275785,51.666703,0.000000
+            5.280608,51.669202,0.000000
+            5.285993,51.668286,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

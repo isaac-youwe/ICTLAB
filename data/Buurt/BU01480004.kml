@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01480004 Dalfsen-Leemcule</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.253353,52.506205,0.000000
+            6.247230,52.505763,0.000000
+            6.245924,52.506910,0.000000
+            6.247036,52.507486,0.000000
+            6.247810,52.510828,0.000000
+            6.252292,52.510789,0.000000
+            6.254199,52.506630,0.000000
+            6.253353,52.506205,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

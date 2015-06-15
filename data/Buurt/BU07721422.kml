@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721422 Kronehoef</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.467531,51.457276,0.000000
+            5.471339,51.456869,0.000000
+            5.477035,51.457032,0.000000
+            5.477691,51.452850,0.000000
+            5.471469,51.452635,0.000000
+            5.464409,51.451825,0.000000
+            5.459448,51.456756,0.000000
+            5.463702,51.460298,0.000000
+            5.467531,51.457276,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

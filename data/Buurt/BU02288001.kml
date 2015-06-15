@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02288001 Wekerom Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.722842,52.113887,0.000000
+            5.712826,52.107822,0.000000
+            5.706356,52.111090,0.000000
+            5.714826,52.116867,0.000000
+            5.717890,52.120317,0.000000
+            5.722159,52.117248,0.000000
+            5.720979,52.115526,0.000000
+            5.722842,52.113887,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

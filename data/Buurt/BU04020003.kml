@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020003 Sint Vitusbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.184013,52.223681,0.000000
+            5.186809,52.219971,0.000000
+            5.184477,52.219617,0.000000
+            5.180396,52.220353,0.000000
+            5.179833,52.220788,0.000000
+            5.177844,52.223007,0.000000
+            5.181679,52.222636,0.000000
+            5.184013,52.223681,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

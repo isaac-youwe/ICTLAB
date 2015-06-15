@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05121500 Papland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.998170,51.851592,0.000000
+            4.999661,51.847102,0.000000
+            4.998411,51.844739,0.000000
+            4.996527,51.845016,0.000000
+            4.987380,51.846331,0.000000
+            4.979100,51.846701,0.000000
+            4.980870,51.851068,0.000000
+            4.981040,51.851485,0.000000
+            4.996742,51.848890,0.000000
+            4.998170,51.851592,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

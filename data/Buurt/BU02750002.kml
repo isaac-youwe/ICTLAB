@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02750002 Dieren-West boven spoorlijn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.101019,52.043219,0.000000
+            6.092568,52.038043,0.000000
+            6.086034,52.041561,0.000000
+            6.089392,52.044473,0.000000
+            6.093457,52.045855,0.000000
+            6.077046,52.053426,0.000000
+            6.076520,52.054099,0.000000
+            6.081627,52.056127,0.000000
+            6.081629,52.058410,0.000000
+            6.081514,52.059182,0.000000
+            6.087193,52.059262,0.000000
+            6.088386,52.063091,0.000000
+            6.090544,52.063564,0.000000
+            6.098440,52.045369,0.000000
+            6.101019,52.043219,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

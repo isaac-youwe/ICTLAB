@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630767 Kadoelen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.908962,52.408044,0.000000
+            4.907129,52.407913,0.000000
+            4.896896,52.415538,0.000000
+            4.898277,52.416555,0.000000
+            4.898635,52.424776,0.000000
+            4.899040,52.424728,0.000000
+            4.907331,52.421398,0.000000
+            4.907901,52.421169,0.000000
+            4.919710,52.416722,0.000000
+            4.920263,52.416471,0.000000
+            4.912547,52.410106,0.000000
+            4.908962,52.408044,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

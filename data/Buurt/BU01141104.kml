@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01141104 Angelslo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.945740,52.781212,0.000000
+            6.932077,52.770216,0.000000
+            6.922911,52.774964,0.000000
+            6.912128,52.777590,0.000000
+            6.917173,52.781129,0.000000
+            6.916497,52.784104,0.000000
+            6.926411,52.784924,0.000000
+            6.943196,52.786337,0.000000
+            6.948760,52.786312,0.000000
+            6.949082,52.785766,0.000000
+            6.945740,52.781212,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

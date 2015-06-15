@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09882301 Graswinkel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.723571,51.239267,0.000000
+            5.716618,51.238717,0.000000
+            5.717383,51.243359,0.000000
+            5.714812,51.248185,0.000000
+            5.716782,51.248049,0.000000
+            5.727070,51.247268,0.000000
+            5.724995,51.239992,0.000000
+            5.723571,51.239267,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

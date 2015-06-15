@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08820205 Waubach</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.054280,50.921678,0.000000
+            6.068489,50.920696,0.000000
+            6.071373,50.923376,0.000000
+            6.075021,50.922583,0.000000
+            6.073195,50.920155,0.000000
+            6.078981,50.919139,0.000000
+            6.081513,50.918137,0.000000
+            6.081114,50.917505,0.000000
+            6.076212,50.914127,0.000000
+            6.068234,50.912887,0.000000
+            6.062981,50.912644,0.000000
+            6.061861,50.911983,0.000000
+            6.052823,50.912038,0.000000
+            6.049386,50.912521,0.000000
+            6.045897,50.916824,0.000000
+            6.049350,50.917819,0.000000
+            6.046029,50.920620,0.000000
+            6.054362,50.925961,0.000000
+            6.055713,50.926002,0.000000
+            6.054280,50.921678,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130304 De Goudse Poort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.693775,52.020606,0.000000
+            4.693634,52.018410,0.000000
+            4.689881,52.018401,0.000000
+            4.682000,52.017726,0.000000
+            4.670338,52.014514,0.000000
+            4.670407,52.014558,0.000000
+            4.674735,52.017281,0.000000
+            4.681991,52.019122,0.000000
+            4.679049,52.020903,0.000000
+            4.670278,52.022648,0.000000
+            4.670275,52.022650,0.000000
+            4.667327,52.025320,0.000000
+            4.667321,52.025326,0.000000
+            4.680392,52.028102,0.000000
+            4.684736,52.029926,0.000000
+            4.685164,52.030129,0.000000
+            4.688856,52.026453,0.000000
+            4.691025,52.024765,0.000000
+            4.692966,52.023139,0.000000
+            4.693775,52.020606,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

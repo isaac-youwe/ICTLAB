@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04760006 Petten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.680582,52.774597,0.000000
+            4.658636,52.748739,0.000000
+            4.658434,52.748876,0.000000
+            4.650907,52.756021,0.000000
+            4.647945,52.756002,0.000000
+            4.652223,52.765916,0.000000
+            4.663826,52.780351,0.000000
+            4.680582,52.774597,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

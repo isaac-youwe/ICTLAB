@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01040203 Stavoren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.367111,52.882079,0.000000
+            5.361647,52.878184,0.000000
+            5.361947,52.878729,0.000000
+            5.358975,52.880525,0.000000
+            5.353028,52.885916,0.000000
+            5.354412,52.887592,0.000000
+            5.361310,52.887645,0.000000
+            5.363205,52.886266,0.000000
+            5.361086,52.885773,0.000000
+            5.361641,52.884077,0.000000
+            5.366584,52.883431,0.000000
+            5.367111,52.882079,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

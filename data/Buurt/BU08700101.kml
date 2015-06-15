@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08700101 Centrum Werkendam</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.897928,51.815508,0.000000
+            4.898646,51.812474,0.000000
+            4.894419,51.812604,0.000000
+            4.890602,51.812703,0.000000
+            4.890614,51.811646,0.000000
+            4.887542,51.811845,0.000000
+            4.886143,51.812635,0.000000
+            4.887653,51.814128,0.000000
+            4.891114,51.815142,0.000000
+            4.897928,51.815508,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

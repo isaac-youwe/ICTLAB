@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06000000 Rozenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.262442,51.898991,0.000000
+            4.259604,51.896267,0.000000
+            4.234768,51.901420,0.000000
+            4.228038,51.903009,0.000000
+            4.227457,51.903146,0.000000
+            4.225795,51.911220,0.000000
+            4.222772,51.915686,0.000000
+            4.222681,51.915829,0.000000
+            4.229414,51.920086,0.000000
+            4.232858,51.920264,0.000000
+            4.241689,51.914973,0.000000
+            4.266622,51.906223,0.000000
+            4.262442,51.898991,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

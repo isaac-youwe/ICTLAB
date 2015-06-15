@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04580300 Stompetoren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.843866,52.616185,0.000000
+            4.839219,52.607721,0.000000
+            4.820322,52.610576,0.000000
+            4.816755,52.604053,0.000000
+            4.792866,52.608950,0.000000
+            4.790910,52.605420,0.000000
+            4.782349,52.607356,0.000000
+            4.784229,52.610505,0.000000
+            4.787234,52.609925,0.000000
+            4.796613,52.625937,0.000000
+            4.843866,52.616185,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950203 Hoogeind</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.795566,52.043507,0.000000
+            4.796040,52.040704,0.000000
+            4.802321,52.041657,0.000000
+            4.808620,52.029663,0.000000
+            4.808624,52.029381,0.000000
+            4.804295,52.028546,0.000000
+            4.802678,52.026804,0.000000
+            4.800513,52.026685,0.000000
+            4.798346,52.027569,0.000000
+            4.792112,52.026468,0.000000
+            4.782784,52.041534,0.000000
+            4.795566,52.043507,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

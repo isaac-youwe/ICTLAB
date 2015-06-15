@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07070100 Ameide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.957932,51.961123,0.000000
+            4.963769,51.959346,0.000000
+            4.970497,51.960202,0.000000
+            4.974999,51.955189,0.000000
+            4.966230,51.953337,0.000000
+            4.967615,51.951522,0.000000
+            4.961356,51.949180,0.000000
+            4.957195,51.950087,0.000000
+            4.954269,51.952199,0.000000
+            4.959991,51.955431,0.000000
+            4.958234,51.958852,0.000000
+            4.956937,51.961527,0.000000
+            4.957932,51.961123,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

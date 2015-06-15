@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17010600 Geeuwenbrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.369329,52.877301,0.000000
+            6.372120,52.875566,0.000000
+            6.372133,52.876130,0.000000
+            6.375343,52.875448,0.000000
+            6.372935,52.872201,0.000000
+            6.376911,52.870458,0.000000
+            6.377568,52.869343,0.000000
+            6.371660,52.866280,0.000000
+            6.367363,52.860917,0.000000
+            6.362393,52.862214,0.000000
+            6.371951,52.868746,0.000000
+            6.368367,52.871778,0.000000
+            6.366857,52.871105,0.000000
+            6.363915,52.875517,0.000000
+            6.369329,52.877301,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

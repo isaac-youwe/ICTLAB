@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17350709 Verspreide huizen Deldeneres</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.695785,52.255792,0.000000
+            6.682486,52.251050,0.000000
+            6.674529,52.257454,0.000000
+            6.674458,52.257667,0.000000
+            6.673832,52.260224,0.000000
+            6.691616,52.264326,0.000000
+            6.696430,52.267536,0.000000
+            6.699471,52.267881,0.000000
+            6.702615,52.264229,0.000000
+            6.701520,52.260222,0.000000
+            6.697650,52.260147,0.000000
+            6.694710,52.256810,0.000000
+            6.695785,52.255792,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

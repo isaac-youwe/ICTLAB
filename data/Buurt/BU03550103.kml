@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03550103 Centrumschil-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.252028,52.093485,0.000000
+            5.249828,52.089715,0.000000
+            5.248304,52.088713,0.000000
+            5.242096,52.091907,0.000000
+            5.240702,52.088142,0.000000
+            5.238664,52.086314,0.000000
+            5.236646,52.084224,0.000000
+            5.233674,52.085804,0.000000
+            5.231166,52.086852,0.000000
+            5.228665,52.088870,0.000000
+            5.229438,52.089147,0.000000
+            5.243369,52.095869,0.000000
+            5.242956,52.094353,0.000000
+            5.252028,52.093485,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

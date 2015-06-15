@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17140701 Cadzand-Bad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.415012,51.382644,0.000000
+            3.402321,51.378732,0.000000
+            3.400519,51.379355,0.000000
+            3.394229,51.374586,0.000000
+            3.393309,51.375547,0.000000
+            3.389539,51.375949,0.000000
+            3.380243,51.373045,0.000000
+            3.378687,51.372660,0.000000
+            3.378250,51.377090,0.000000
+            3.378797,51.377362,0.000000
+            3.381629,51.378310,0.000000
+            3.391562,51.381178,0.000000
+            3.398703,51.382199,0.000000
+            3.408637,51.385066,0.000000
+            3.411432,51.386912,0.000000
+            3.411923,51.386920,0.000000
+            3.415012,51.382644,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

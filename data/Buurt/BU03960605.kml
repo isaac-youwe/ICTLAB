@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03960605 De Trompet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.702887,52.509485,0.000000
+            4.705015,52.507227,0.000000
+            4.701495,52.502406,0.000000
+            4.698265,52.504200,0.000000
+            4.694345,52.507428,0.000000
+            4.694861,52.508179,0.000000
+            4.696306,52.507314,0.000000
+            4.700697,52.509138,0.000000
+            4.702887,52.509485,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

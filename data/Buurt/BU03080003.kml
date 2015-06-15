@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03080003 Zandvoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.291923,52.214001,0.000000
+            5.286005,52.213699,0.000000
+            5.282394,52.214540,0.000000
+            5.281477,52.214782,0.000000
+            5.277573,52.215875,0.000000
+            5.274527,52.218791,0.000000
+            5.275535,52.219121,0.000000
+            5.285007,52.218139,0.000000
+            5.290216,52.214903,0.000000
+            5.291923,52.214001,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

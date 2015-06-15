@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610309 Boekelermeer-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.768446,52.615574,0.000000
+            4.765595,52.608369,0.000000
+            4.763858,52.605104,0.000000
+            4.742585,52.610620,0.000000
+            4.742061,52.610209,0.000000
+            4.737803,52.612204,0.000000
+            4.738940,52.613619,0.000000
+            4.738936,52.613848,0.000000
+            4.742018,52.614386,0.000000
+            4.746211,52.613459,0.000000
+            4.752137,52.614438,0.000000
+            4.759969,52.617078,0.000000
+            4.768308,52.616706,0.000000
+            4.769671,52.615581,0.000000
+            4.768446,52.615574,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

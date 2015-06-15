@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140507 Verspreide huizen Rijswijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.363915,51.970893,0.000000
+            5.374104,51.969097,0.000000
+            5.382795,51.969097,0.000000
+            5.382597,51.965884,0.000000
+            5.381149,51.964683,0.000000
+            5.379513,51.951375,0.000000
+            5.381535,51.951560,0.000000
+            5.382967,51.945989,0.000000
+            5.378505,51.945150,0.000000
+            5.360651,51.953050,0.000000
+            5.339702,51.960998,0.000000
+            5.340638,51.960998,0.000000
+            5.340810,51.961168,0.000000
+            5.347908,51.968192,0.000000
+            5.355183,51.969992,0.000000
+            5.363915,51.970893,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.350655,51.958485,0.000000
+            5.356792,51.955662,0.000000
+            5.358768,51.956424,0.000000
+            5.360562,51.955906,0.000000
+            5.359393,51.962061,0.000000
+            5.351139,51.959719,0.000000
+            5.350655,51.958485,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

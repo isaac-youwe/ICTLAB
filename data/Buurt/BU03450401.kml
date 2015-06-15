@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03450401 t Hoorntje</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.555166,52.030873,0.000000
+            5.553077,52.029229,0.000000
+            5.542470,52.030500,0.000000
+            5.546728,52.037200,0.000000
+            5.548131,52.038744,0.000000
+            5.553225,52.038966,0.000000
+            5.554064,52.039395,0.000000
+            5.554049,52.039014,0.000000
+            5.554026,52.038428,0.000000
+            5.552671,52.035382,0.000000
+            5.555166,52.030873,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

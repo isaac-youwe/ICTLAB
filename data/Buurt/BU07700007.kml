@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07700007 Stokkelen en Hoogstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.347016,51.337125,0.000000
+            5.341988,51.335548,0.000000
+            5.329287,51.344670,0.000000
+            5.322172,51.352557,0.000000
+            5.322425,51.355371,0.000000
+            5.324217,51.358040,0.000000
+            5.335669,51.358671,0.000000
+            5.342723,51.352457,0.000000
+            5.342696,51.352406,0.000000
+            5.346457,51.347702,0.000000
+            5.347007,51.347014,0.000000
+            5.342703,51.344315,0.000000
+            5.347016,51.337125,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

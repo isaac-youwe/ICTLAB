@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02620006 Molengronden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.406856,52.162900,0.000000
+            6.402595,52.161412,0.000000
+            6.400246,52.159573,0.000000
+            6.388942,52.156604,0.000000
+            6.389613,52.160897,0.000000
+            6.391158,52.163128,0.000000
+            6.393092,52.162869,0.000000
+            6.395074,52.164513,0.000000
+            6.398864,52.164921,0.000000
+            6.407291,52.163284,0.000000
+            6.406856,52.162900,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

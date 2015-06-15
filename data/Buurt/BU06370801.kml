@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370801 Lansinghage</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.495222,52.032239,0.000000
+            4.494654,52.032234,0.000000
+            4.494555,52.033090,0.000000
+            4.492425,52.034338,0.000000
+            4.502918,52.042110,0.000000
+            4.499902,52.044576,0.000000
+            4.501793,52.045930,0.000000
+            4.508714,52.044613,0.000000
+            4.518632,52.041514,0.000000
+            4.518365,52.041401,0.000000
+            4.505132,52.033042,0.000000
+            4.503966,52.032305,0.000000
+            4.495222,52.032239,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

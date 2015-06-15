@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03071403 Weberstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.413505,52.147978,0.000000
+            5.405036,52.140168,0.000000
+            5.400442,52.144588,0.000000
+            5.399756,52.147049,0.000000
+            5.407149,52.150482,0.000000
+            5.408014,52.152208,0.000000
+            5.409163,52.152516,0.000000
+            5.410234,52.149911,0.000000
+            5.413781,52.148431,0.000000
+            5.413568,52.148081,0.000000
+            5.413505,52.147978,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

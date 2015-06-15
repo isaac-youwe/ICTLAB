@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04320103 Gouwe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.971131,52.722187,0.000000
+            4.955389,52.716507,0.000000
+            4.953938,52.718893,0.000000
+            4.953086,52.727430,0.000000
+            4.949835,52.737889,0.000000
+            4.962252,52.741430,0.000000
+            4.965490,52.734408,0.000000
+            4.965201,52.731891,0.000000
+            4.968685,52.728601,0.000000
+            4.971131,52.722187,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340109 De Velden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.195253,52.343697,0.000000
+            5.197728,52.341144,0.000000
+            5.199102,52.341541,0.000000
+            5.202415,52.340948,0.000000
+            5.197134,52.338862,0.000000
+            5.195194,52.336571,0.000000
+            5.194968,52.336591,0.000000
+            5.184700,52.335675,0.000000
+            5.184145,52.335548,0.000000
+            5.183554,52.337753,0.000000
+            5.185113,52.339942,0.000000
+            5.195253,52.343697,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

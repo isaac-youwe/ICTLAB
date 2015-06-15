@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00880000 Schiermonnikoog</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.171914,53.480894,0.000000
+            6.166961,53.477138,0.000000
+            6.162772,53.476461,0.000000
+            6.154689,53.475742,0.000000
+            6.151687,53.478284,0.000000
+            6.151850,53.479383,0.000000
+            6.153180,53.479225,0.000000
+            6.156687,53.482825,0.000000
+            6.160529,53.484256,0.000000
+            6.166846,53.483549,0.000000
+            6.171806,53.481830,0.000000
+            6.171914,53.480894,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

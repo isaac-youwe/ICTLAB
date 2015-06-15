@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940676 Aalsmeerderbrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.774583,52.280328,0.000000
+            4.765840,52.276687,0.000000
+            4.757086,52.273944,0.000000
+            4.756744,52.273882,0.000000
+            4.746855,52.272091,0.000000
+            4.743950,52.270277,0.000000
+            4.743822,52.270213,0.000000
+            4.737096,52.266851,0.000000
+            4.734160,52.268537,0.000000
+            4.746346,52.276618,0.000000
+            4.746717,52.276191,0.000000
+            4.749017,52.277447,0.000000
+            4.754163,52.275959,0.000000
+            4.762049,52.280148,0.000000
+            4.764430,52.278896,0.000000
+            4.767858,52.279404,0.000000
+            4.772731,52.281564,0.000000
+            4.774830,52.280456,0.000000
+            4.774583,52.280328,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

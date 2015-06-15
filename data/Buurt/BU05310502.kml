@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05310502 Noordoevers</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.673256,51.835682,0.000000
+            4.668989,51.830262,0.000000
+            4.669037,51.827213,0.000000
+            4.666064,51.826731,0.000000
+            4.661720,51.831117,0.000000
+            4.659860,51.830684,0.000000
+            4.659659,51.831014,0.000000
+            4.658748,51.840463,0.000000
+            4.656552,51.842982,0.000000
+            4.660935,51.844215,0.000000
+            4.662069,51.846896,0.000000
+            4.663026,51.847224,0.000000
+            4.671719,51.841067,0.000000
+            4.673213,51.838379,0.000000
+            4.673256,51.835682,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

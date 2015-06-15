@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00802101 Bilgaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.807820,53.217477,0.000000
+            5.802576,53.212884,0.000000
+            5.788605,53.213017,0.000000
+            5.782625,53.211664,0.000000
+            5.781246,53.213342,0.000000
+            5.781067,53.217160,0.000000
+            5.781090,53.217761,0.000000
+            5.787061,53.218041,0.000000
+            5.805503,53.218150,0.000000
+            5.807820,53.217477,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

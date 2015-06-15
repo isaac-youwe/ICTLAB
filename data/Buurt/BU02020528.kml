@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02020528 Winkelcentrum Presikhaaf</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.955884,51.983792,0.000000
+            5.947505,51.981340,0.000000
+            5.945334,51.983177,0.000000
+            5.942238,51.987290,0.000000
+            5.946388,51.989231,0.000000
+            5.949649,51.990924,0.000000
+            5.954302,51.985661,0.000000
+            5.955884,51.983792,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

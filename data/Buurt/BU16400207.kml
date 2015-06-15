@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16400207 Verspreide huizen Kelpen-Oler</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.833469,51.238166,0.000000
+            5.837958,51.236500,0.000000
+            5.839758,51.237517,0.000000
+            5.844188,51.234371,0.000000
+            5.855357,51.222914,0.000000
+            5.857446,51.222821,0.000000
+            5.865334,51.217738,0.000000
+            5.858550,51.211428,0.000000
+            5.856038,51.213159,0.000000
+            5.840803,51.202714,0.000000
+            5.835186,51.200960,0.000000
+            5.831265,51.198238,0.000000
+            5.795130,51.236699,0.000000
+            5.795350,51.236629,0.000000
+            5.802518,51.237502,0.000000
+            5.808271,51.240179,0.000000
+            5.818313,51.241940,0.000000
+            5.820876,51.241930,0.000000
+            5.821178,51.241929,0.000000
+            5.832560,51.240993,0.000000
+            5.833469,51.238166,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.820505,51.219508,0.000000
+            5.824896,51.216388,0.000000
+            5.829998,51.219509,0.000000
+            5.825370,51.224068,0.000000
+            5.819938,51.221307,0.000000
+            5.821254,51.220103,0.000000
+            5.820505,51.219508,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

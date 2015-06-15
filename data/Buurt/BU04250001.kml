@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04250001 Naarden Vesting</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.160686,52.290955,0.000000
+            5.158822,52.290311,0.000000
+            5.155324,52.292528,0.000000
+            5.155605,52.293614,0.000000
+            5.155072,52.295944,0.000000
+            5.157818,52.298401,0.000000
+            5.158780,52.299237,0.000000
+            5.162512,52.300949,0.000000
+            5.164242,52.303014,0.000000
+            5.166065,52.301863,0.000000
+            5.165460,52.300270,0.000000
+            5.169719,52.299082,0.000000
+            5.170719,52.296582,0.000000
+            5.170251,52.293841,0.000000
+            5.167307,52.292098,0.000000
+            5.160686,52.290955,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

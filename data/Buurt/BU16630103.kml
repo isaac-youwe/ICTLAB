@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16630103 Mensingeweer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.468419,53.349556,0.000000
+            6.465224,53.349101,0.000000
+            6.461840,53.349585,0.000000
+            6.461145,53.351287,0.000000
+            6.463096,53.353807,0.000000
+            6.465709,53.354735,0.000000
+            6.467953,53.353413,0.000000
+            6.469182,53.350555,0.000000
+            6.468419,53.349556,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

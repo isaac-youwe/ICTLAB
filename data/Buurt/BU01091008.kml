@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01091008 De Loo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.748243,52.676651,0.000000
+            6.736661,52.667114,0.000000
+            6.735303,52.668200,0.000000
+            6.735023,52.671229,0.000000
+            6.737605,52.671312,0.000000
+            6.737728,52.671926,0.000000
+            6.735392,52.676703,0.000000
+            6.748518,52.678223,0.000000
+            6.748243,52.676651,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

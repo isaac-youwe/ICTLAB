@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15090104 Breedenbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.478100,51.873092,0.000000
+            6.473973,51.870662,0.000000
+            6.470080,51.872327,0.000000
+            6.470483,51.873755,0.000000
+            6.466321,51.876039,0.000000
+            6.467760,51.877131,0.000000
+            6.472174,51.875951,0.000000
+            6.471684,51.875209,0.000000
+            6.472976,51.874152,0.000000
+            6.478100,51.873092,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

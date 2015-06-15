@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06120708 Vogelenzang-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.312030,51.836527,0.000000
+            4.311895,51.835565,0.000000
+            4.310137,51.835214,0.000000
+            4.309183,51.835947,0.000000
+            4.306564,51.835439,0.000000
+            4.303848,51.834886,0.000000
+            4.302271,51.838076,0.000000
+            4.304917,51.839142,0.000000
+            4.309315,51.838341,0.000000
+            4.312030,51.836527,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

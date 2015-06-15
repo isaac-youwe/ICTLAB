@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18760303 Olburgen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.128376,52.042239,0.000000
+            6.127221,52.041789,0.000000
+            6.121987,52.042430,0.000000
+            6.125735,52.048537,0.000000
+            6.130395,52.050560,0.000000
+            6.131996,52.049705,0.000000
+            6.126135,52.044224,0.000000
+            6.128706,52.043485,0.000000
+            6.128376,52.042239,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15810103 Driebergen-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.311600,52.062449,0.000000
+            5.310018,52.056928,0.000000
+            5.312101,52.055399,0.000000
+            5.307282,52.052542,0.000000
+            5.306013,52.052807,0.000000
+            5.302155,52.054724,0.000000
+            5.298911,52.056059,0.000000
+            5.284387,52.061032,0.000000
+            5.280300,52.058984,0.000000
+            5.277807,52.061313,0.000000
+            5.277906,52.064731,0.000000
+            5.286911,52.065550,0.000000
+            5.312813,52.065844,0.000000
+            5.309933,52.062807,0.000000
+            5.311600,52.062449,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

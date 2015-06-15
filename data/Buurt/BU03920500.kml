@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03920500 Patrimoniumbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.649692,52.390152,0.000000
+            4.649096,52.387792,0.000000
+            4.647359,52.386235,0.000000
+            4.646528,52.387638,0.000000
+            4.643382,52.389302,0.000000
+            4.640542,52.389043,0.000000
+            4.640612,52.390190,0.000000
+            4.649692,52.390152,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

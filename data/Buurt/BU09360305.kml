@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09360305 Hoogcruts</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.843643,50.764477,0.000000
+            5.843445,50.764415,0.000000
+            5.840705,50.771099,0.000000
+            5.838330,50.775716,0.000000
+            5.835375,50.778063,0.000000
+            5.839704,50.780474,0.000000
+            5.842171,50.777296,0.000000
+            5.842349,50.777068,0.000000
+            5.845123,50.770764,0.000000
+            5.845069,50.765370,0.000000
+            5.843643,50.764477,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631087 Westlandgracht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.846952,52.337717,0.000000
+            4.841312,52.337624,0.000000
+            4.837064,52.339063,0.000000
+            4.835250,52.341191,0.000000
+            4.834322,52.345685,0.000000
+            4.833791,52.357959,0.000000
+            4.848734,52.358076,0.000000
+            4.848719,52.355514,0.000000
+            4.844533,52.355449,0.000000
+            4.845549,52.346383,0.000000
+            4.841424,52.345996,0.000000
+            4.842367,52.339091,0.000000
+            4.843731,52.338312,0.000000
+            4.846870,52.338098,0.000000
+            4.846952,52.337717,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03210115 De Geer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.184141,52.041055,0.000000
+            5.177388,52.037353,0.000000
+            5.176423,52.037413,0.000000
+            5.174213,52.042502,0.000000
+            5.172862,52.043319,0.000000
+            5.175170,52.043911,0.000000
+            5.181528,52.043345,0.000000
+            5.183568,52.042494,0.000000
+            5.184141,52.041055,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

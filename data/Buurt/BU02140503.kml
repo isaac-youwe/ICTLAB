@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140503 Ganzert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.477546,51.965596,0.000000
+            5.474219,51.963266,0.000000
+            5.469575,51.967204,0.000000
+            5.465365,51.972342,0.000000
+            5.465783,51.978977,0.000000
+            5.468810,51.981967,0.000000
+            5.471920,51.979797,0.000000
+            5.469615,51.976863,0.000000
+            5.469882,51.974200,0.000000
+            5.471603,51.972016,0.000000
+            5.477546,51.965596,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

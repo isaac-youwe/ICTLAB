@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09340108 Verspreide huizen op Den Hert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.106556,51.355588,0.000000
+            6.119319,51.345619,0.000000
+            6.120754,51.345610,0.000000
+            6.123596,51.343794,0.000000
+            6.121631,51.342588,0.000000
+            6.116347,51.339345,0.000000
+            6.117696,51.333942,0.000000
+            6.117693,51.333764,0.000000
+            6.108055,51.335154,0.000000
+            6.105911,51.342364,0.000000
+            6.101277,51.343209,0.000000
+            6.091041,51.336867,0.000000
+            6.082773,51.340977,0.000000
+            6.074546,51.341728,0.000000
+            6.076433,51.346758,0.000000
+            6.080713,51.350642,0.000000
+            6.087595,51.353865,0.000000
+            6.100327,51.357192,0.000000
+            6.106556,51.355588,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

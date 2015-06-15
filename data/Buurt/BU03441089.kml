@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03441089 Bedrijventerrein Haarrijn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.023556,52.123150,0.000000
+            5.032368,52.116884,0.000000
+            5.032508,52.116885,0.000000
+            5.032309,52.116671,0.000000
+            5.030788,52.115039,0.000000
+            5.030540,52.115169,0.000000
+            5.020971,52.122313,0.000000
+            5.017801,52.121382,0.000000
+            5.010498,52.127001,0.000000
+            5.013387,52.128436,0.000000
+            5.019167,52.124035,0.000000
+            5.019870,52.123893,0.000000
+            5.023556,52.123150,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

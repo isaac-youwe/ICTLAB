@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09510201 Aalbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.850309,50.894570,0.000000
+            5.839483,50.894056,0.000000
+            5.837901,50.897234,0.000000
+            5.841377,50.898458,0.000000
+            5.841463,50.901236,0.000000
+            5.839197,50.902687,0.000000
+            5.838032,50.906377,0.000000
+            5.843430,50.907225,0.000000
+            5.849724,50.906152,0.000000
+            5.855608,50.903722,0.000000
+            5.858055,50.900639,0.000000
+            5.855824,50.895644,0.000000
+            5.850309,50.894570,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

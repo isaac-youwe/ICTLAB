@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09840007 Oirlo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.067284,51.523560,0.000000
+            6.064422,51.515862,0.000000
+            6.065755,51.508662,0.000000
+            6.065839,51.508529,0.000000
+            6.054671,51.500150,0.000000
+            6.043714,51.499813,0.000000
+            6.026507,51.495881,0.000000
+            6.024339,51.496289,0.000000
+            6.022078,51.497970,0.000000
+            6.020614,51.501293,0.000000
+            6.001661,51.499203,0.000000
+            6.005968,51.516688,0.000000
+            6.024379,51.518020,0.000000
+            6.033893,51.516499,0.000000
+            6.053763,51.523003,0.000000
+            6.055793,51.526506,0.000000
+            6.058893,51.527555,0.000000
+            6.067424,51.523936,0.000000
+            6.067284,51.523560,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

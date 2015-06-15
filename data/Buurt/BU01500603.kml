@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500603 Kloosterlanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.174852,52.232547,0.000000
+            6.174321,52.232442,0.000000
+            6.176961,52.238105,0.000000
+            6.182811,52.238229,0.000000
+            6.187048,52.240135,0.000000
+            6.191544,52.246260,0.000000
+            6.196338,52.247535,0.000000
+            6.198994,52.249530,0.000000
+            6.201067,52.247871,0.000000
+            6.204157,52.245406,0.000000
+            6.209090,52.239581,0.000000
+            6.210564,52.237312,0.000000
+            6.211158,52.236356,0.000000
+            6.182131,52.234366,0.000000
+            6.182181,52.234290,0.000000
+            6.174852,52.232547,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

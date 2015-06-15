@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000207 Fort Erfprins</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.741422,52.957677,0.000000
+            4.740726,52.955651,0.000000
+            4.737903,52.956875,0.000000
+            4.733641,52.957326,0.000000
+            4.729591,52.961577,0.000000
+            4.730781,52.962309,0.000000
+            4.739507,52.964118,0.000000
+            4.739987,52.962764,0.000000
+            4.743988,52.962547,0.000000
+            4.743016,52.959125,0.000000
+            4.741422,52.957677,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

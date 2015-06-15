@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06870106 Veersepoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.629555,51.509998,0.000000
+            3.626880,51.506393,0.000000
+            3.622416,51.506855,0.000000
+            3.621006,51.507760,0.000000
+            3.617114,51.506236,0.000000
+            3.616195,51.507487,0.000000
+            3.617481,51.509897,0.000000
+            3.617024,51.511114,0.000000
+            3.613211,51.514758,0.000000
+            3.620181,51.519746,0.000000
+            3.626789,51.516185,0.000000
+            3.631425,51.512292,0.000000
+            3.628566,51.510954,0.000000
+            3.629555,51.509998,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

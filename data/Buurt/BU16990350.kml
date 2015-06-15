@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990350 Westervelde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.433504,53.055841,0.000000
+            6.435231,53.054654,0.000000
+            6.445262,53.056091,0.000000
+            6.446570,53.053010,0.000000
+            6.446229,53.048825,0.000000
+            6.440514,53.050276,0.000000
+            6.437056,53.053123,0.000000
+            6.431376,53.053036,0.000000
+            6.426747,53.057625,0.000000
+            6.432683,53.059386,0.000000
+            6.433688,53.058304,0.000000
+            6.433504,53.055841,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00650300 Rinsumageest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.956349,53.300927,0.000000
+            5.959298,53.299423,0.000000
+            5.961475,53.296844,0.000000
+            5.962084,53.295769,0.000000
+            5.961190,53.293553,0.000000
+            5.959547,53.292823,0.000000
+            5.945625,53.293298,0.000000
+            5.939420,53.294351,0.000000
+            5.937372,53.295133,0.000000
+            5.935863,53.297406,0.000000
+            5.933322,53.298962,0.000000
+            5.933369,53.300172,0.000000
+            5.936841,53.302000,0.000000
+            5.940436,53.302012,0.000000
+            5.942363,53.300830,0.000000
+            5.945260,53.301964,0.000000
+            5.948806,53.303069,0.000000
+            5.956349,53.300927,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

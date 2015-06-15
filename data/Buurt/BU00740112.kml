@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00740112 Skoaterwald</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.965762,52.954042,0.000000
+            5.964311,52.951947,0.000000
+            5.952953,52.949487,0.000000
+            5.948671,52.953854,0.000000
+            5.940101,52.952272,0.000000
+            5.932963,52.959089,0.000000
+            5.934838,52.959788,0.000000
+            5.934483,52.960639,0.000000
+            5.957623,52.966000,0.000000
+            5.961036,52.961268,0.000000
+            5.962173,52.959531,0.000000
+            5.965762,52.954042,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

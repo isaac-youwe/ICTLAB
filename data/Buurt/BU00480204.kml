@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480204 Stakenborg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.177090,53.009031,0.000000
+            7.159333,53.006908,0.000000
+            7.140037,53.019794,0.000000
+            7.139389,53.023012,0.000000
+            7.146098,53.023065,0.000000
+            7.145991,53.026059,0.000000
+            7.138963,53.026241,0.000000
+            7.136566,53.040335,0.000000
+            7.159980,53.027619,0.000000
+            7.175135,53.023846,0.000000
+            7.178711,53.023681,0.000000
+            7.180291,53.017981,0.000000
+            7.183686,53.014402,0.000000
+            7.178054,53.012128,0.000000
+            7.177090,53.009031,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

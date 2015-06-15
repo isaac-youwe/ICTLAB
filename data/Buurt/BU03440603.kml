@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440603 Neude Janskerkhof en Domplein en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.121210,52.089797,0.000000
+            5.120849,52.089675,0.000000
+            5.119746,52.091464,0.000000
+            5.116946,52.091859,0.000000
+            5.116756,52.093411,0.000000
+            5.120617,52.095027,0.000000
+            5.123518,52.095182,0.000000
+            5.123036,52.092672,0.000000
+            5.126351,52.091171,0.000000
+            5.123826,52.090025,0.000000
+            5.121210,52.089797,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

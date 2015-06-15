@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02520009 Verspreide huizen bosgebied ten westen kanaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.828897,51.769297,0.000000
+            5.827413,51.768088,0.000000
+            5.821018,51.768779,0.000000
+            5.812993,51.770815,0.000000
+            5.816675,51.773852,0.000000
+            5.828712,51.779981,0.000000
+            5.832281,51.779349,0.000000
+            5.836312,51.772858,0.000000
+            5.828669,51.770387,0.000000
+            5.828897,51.769297,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

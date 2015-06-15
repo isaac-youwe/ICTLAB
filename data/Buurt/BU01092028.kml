@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01092028 Dalerveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.813367,52.700550,0.000000
+            6.813184,52.698178,0.000000
+            6.811991,52.698224,0.000000
+            6.811900,52.697094,0.000000
+            6.816651,52.696899,0.000000
+            6.816424,52.695485,0.000000
+            6.813966,52.695401,0.000000
+            6.813153,52.693858,0.000000
+            6.813479,52.688150,0.000000
+            6.818770,52.683603,0.000000
+            6.817195,52.682769,0.000000
+            6.807436,52.691518,0.000000
+            6.807590,52.695139,0.000000
+            6.806255,52.697749,0.000000
+            6.804834,52.697734,0.000000
+            6.805241,52.702986,0.000000
+            6.807934,52.702978,0.000000
+            6.807883,52.702134,0.000000
+            6.813367,52.700550,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09171200 Hoensbroek-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.935099,50.918945,0.000000
+            5.923442,50.917879,0.000000
+            5.919796,50.919753,0.000000
+            5.925006,50.922793,0.000000
+            5.922854,50.925259,0.000000
+            5.928798,50.927148,0.000000
+            5.935335,50.921803,0.000000
+            5.933563,50.920856,0.000000
+            5.935592,50.919025,0.000000
+            5.935099,50.918945,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02850100 Twello-Midden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.117134,52.235862,0.000000
+            6.101996,52.232728,0.000000
+            6.101434,52.233172,0.000000
+            6.097569,52.231886,0.000000
+            6.092427,52.229412,0.000000
+            6.091367,52.226804,0.000000
+            6.087614,52.228711,0.000000
+            6.081778,52.233801,0.000000
+            6.083176,52.235492,0.000000
+            6.099466,52.237796,0.000000
+            6.109439,52.241230,0.000000
+            6.129436,52.244969,0.000000
+            6.134242,52.247480,0.000000
+            6.135535,52.247134,0.000000
+            6.128384,52.243374,0.000000
+            6.121387,52.241250,0.000000
+            6.120619,52.238721,0.000000
+            6.116131,52.238637,0.000000
+            6.117134,52.235862,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

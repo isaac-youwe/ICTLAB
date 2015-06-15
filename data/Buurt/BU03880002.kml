@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03880002 Boerenhoek Molenweg Burgwal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.285072,52.699748,0.000000
+            5.274000,52.698348,0.000000
+            5.277561,52.699301,0.000000
+            5.276944,52.700530,0.000000
+            5.278143,52.704835,0.000000
+            5.283552,52.707720,0.000000
+            5.288233,52.709141,0.000000
+            5.288783,52.706707,0.000000
+            5.284043,52.704128,0.000000
+            5.285160,52.701373,0.000000
+            5.285072,52.699748,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

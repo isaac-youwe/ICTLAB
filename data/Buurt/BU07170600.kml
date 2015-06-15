@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07170600 Aagtekerke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.515048,51.545878,0.000000
+            3.515333,51.544199,0.000000
+            3.513143,51.543788,0.000000
+            3.512492,51.544727,0.000000
+            3.510555,51.544818,0.000000
+            3.504995,51.542011,0.000000
+            3.494985,51.539175,0.000000
+            3.493160,51.541133,0.000000
+            3.498575,51.543348,0.000000
+            3.507605,51.545503,0.000000
+            3.505883,51.546771,0.000000
+            3.503455,51.548900,0.000000
+            3.510902,51.550091,0.000000
+            3.513922,51.545885,0.000000
+            3.515048,51.545878,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

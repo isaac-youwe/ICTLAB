@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00820004 Lemmer Rienplan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.717637,52.843575,0.000000
+            5.715468,52.843567,0.000000
+            5.711666,52.844435,0.000000
+            5.712482,52.846017,0.000000
+            5.713789,52.848548,0.000000
+            5.715398,52.851663,0.000000
+            5.716250,52.853311,0.000000
+            5.721861,52.852430,0.000000
+            5.723042,52.846335,0.000000
+            5.717637,52.843575,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

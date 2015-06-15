@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06140000 Rockanje</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.067693,51.872957,0.000000
+            4.065895,51.872280,0.000000
+            4.059730,51.872017,0.000000
+            4.057154,51.872448,0.000000
+            4.051967,51.870537,0.000000
+            4.051099,51.871756,0.000000
+            4.057575,51.875553,0.000000
+            4.060958,51.875756,0.000000
+            4.070932,51.876284,0.000000
+            4.083189,51.879121,0.000000
+            4.087939,51.879288,0.000000
+            4.088078,51.877201,0.000000
+            4.075568,51.873341,0.000000
+            4.067693,51.872957,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09830303 Venkoelen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.206522,51.405272,0.000000
+            6.204972,51.398990,0.000000
+            6.212190,51.400737,0.000000
+            6.226545,51.399736,0.000000
+            6.223604,51.396161,0.000000
+            6.214868,51.389930,0.000000
+            6.216207,51.384527,0.000000
+            6.216333,51.384196,0.000000
+            6.209646,51.386148,0.000000
+            6.192456,51.391278,0.000000
+            6.180680,51.394697,0.000000
+            6.172097,51.395759,0.000000
+            6.169757,51.396499,0.000000
+            6.170436,51.396530,0.000000
+            6.171761,51.396521,0.000000
+            6.171873,51.396521,0.000000
+            6.206522,51.405272,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

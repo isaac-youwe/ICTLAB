@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02630006 Verspreide huizen Noord Beemden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.320937,51.788563,0.000000
+            5.322284,51.787019,0.000000
+            5.316586,51.786290,0.000000
+            5.314697,51.785162,0.000000
+            5.312822,51.780692,0.000000
+            5.313421,51.777892,0.000000
+            5.311376,51.773280,0.000000
+            5.303498,51.774485,0.000000
+            5.302182,51.775261,0.000000
+            5.301101,51.778322,0.000000
+            5.295419,51.785292,0.000000
+            5.293612,51.789119,0.000000
+            5.294613,51.788258,0.000000
+            5.310903,51.791104,0.000000
+            5.317662,51.787448,0.000000
+            5.321919,51.792203,0.000000
+            5.320937,51.788563,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

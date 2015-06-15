@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09940004 De Heek (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.870159,50.873231,0.000000
+            5.869090,50.872193,0.000000
+            5.868275,50.872683,0.000000
+            5.868168,50.871476,0.000000
+            5.861705,50.870027,0.000000
+            5.862763,50.867637,0.000000
+            5.855024,50.867717,0.000000
+            5.849114,50.868692,0.000000
+            5.846604,50.870507,0.000000
+            5.848452,50.872150,0.000000
+            5.848304,50.874936,0.000000
+            5.854564,50.879062,0.000000
+            5.861545,50.882173,0.000000
+            5.861856,50.882172,0.000000
+            5.864643,50.876766,0.000000
+            5.870159,50.873231,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

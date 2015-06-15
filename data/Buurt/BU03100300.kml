@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03100300 Hollandsche Rading</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.166660,52.179205,0.000000
+            5.173717,52.178350,0.000000
+            5.174313,52.178351,0.000000
+            5.179434,52.178361,0.000000
+            5.179566,52.178361,0.000000
+            5.192285,52.177514,0.000000
+            5.188246,52.170424,0.000000
+            5.174004,52.169245,0.000000
+            5.161941,52.171655,0.000000
+            5.166660,52.179205,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

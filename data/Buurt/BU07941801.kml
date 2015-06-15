@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07941801 Rijpel-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.714406,51.478742,0.000000
+            5.715720,51.474647,0.000000
+            5.713345,51.471447,0.000000
+            5.700017,51.472305,0.000000
+            5.700497,51.474443,0.000000
+            5.702833,51.475758,0.000000
+            5.705552,51.475522,0.000000
+            5.706976,51.476702,0.000000
+            5.707996,51.478490,0.000000
+            5.714406,51.478742,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

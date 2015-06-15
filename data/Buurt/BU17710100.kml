@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17710100 Mierlo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.630371,51.436387,0.000000
+            5.620130,51.432890,0.000000
+            5.611846,51.433116,0.000000
+            5.605248,51.436877,0.000000
+            5.606404,51.437531,0.000000
+            5.599408,51.442036,0.000000
+            5.602989,51.448220,0.000000
+            5.616220,51.449279,0.000000
+            5.617191,51.449277,0.000000
+            5.617406,51.449277,0.000000
+            5.621155,51.450049,0.000000
+            5.621727,51.450167,0.000000
+            5.641547,51.455425,0.000000
+            5.638189,51.445066,0.000000
+            5.630750,51.439418,0.000000
+            5.630371,51.436387,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280808 Langendonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.492899,51.770078,0.000000
+            5.489421,51.769523,0.000000
+            5.488413,51.772523,0.000000
+            5.478684,51.781276,0.000000
+            5.488669,51.786570,0.000000
+            5.494500,51.787769,0.000000
+            5.502550,51.781572,0.000000
+            5.498066,51.779814,0.000000
+            5.492795,51.777747,0.000000
+            5.495265,51.775836,0.000000
+            5.492984,51.774061,0.000000
+            5.492948,51.772390,0.000000
+            5.492899,51.770078,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

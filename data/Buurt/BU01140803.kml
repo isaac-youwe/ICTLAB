@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140803 Kloostermanswijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.006642,52.713379,0.000000
+            7.005722,52.705398,0.000000
+            7.001150,52.705597,0.000000
+            7.002295,52.715474,0.000000
+            7.002730,52.719136,0.000000
+            7.005906,52.718997,0.000000
+            7.005379,52.714565,0.000000
+            7.006642,52.713379,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

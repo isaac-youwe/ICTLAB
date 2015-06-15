@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06450007 Verspreide huizen Vierambachtspolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.686660,52.186352,0.000000
+            4.681109,52.167442,0.000000
+            4.679719,52.162939,0.000000
+            4.665353,52.162852,0.000000
+            4.665103,52.162850,0.000000
+            4.646116,52.161834,0.000000
+            4.645493,52.161830,0.000000
+            4.637647,52.177947,0.000000
+            4.634403,52.180837,0.000000
+            4.632665,52.180851,0.000000
+            4.632043,52.180011,0.000000
+            4.631360,52.180141,0.000000
+            4.632597,52.183322,0.000000
+            4.632567,52.185120,0.000000
+            4.632611,52.185153,0.000000
+            4.636789,52.183527,0.000000
+            4.637344,52.184093,0.000000
+            4.676824,52.190491,0.000000
+            4.689499,52.191760,0.000000
+            4.686879,52.186769,0.000000
+            4.686660,52.186352,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

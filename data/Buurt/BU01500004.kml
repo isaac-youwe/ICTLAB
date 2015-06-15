@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500004 Singel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.157527,52.258712,0.000000
+            6.164267,52.256232,0.000000
+            6.163579,52.255724,0.000000
+            6.167853,52.253701,0.000000
+            6.167403,52.252521,0.000000
+            6.164750,52.252403,0.000000
+            6.160557,52.253732,0.000000
+            6.154927,52.256436,0.000000
+            6.152802,52.255773,0.000000
+            6.149552,52.257703,0.000000
+            6.155831,52.259341,0.000000
+            6.157527,52.258712,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

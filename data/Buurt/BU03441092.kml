@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03441092 Rijnsche Park</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.032284,52.109408,0.000000
+            5.028893,52.101538,0.000000
+            5.027750,52.099396,0.000000
+            5.035347,52.096215,0.000000
+            5.039638,52.090584,0.000000
+            5.043916,52.089795,0.000000
+            5.040431,52.087423,0.000000
+            5.038911,52.087386,0.000000
+            5.028453,52.088478,0.000000
+            5.021355,52.090549,0.000000
+            5.012839,52.102717,0.000000
+            5.022527,52.101977,0.000000
+            5.027609,52.110444,0.000000
+            5.030540,52.115169,0.000000
+            5.030788,52.115039,0.000000
+            5.035365,52.112847,0.000000
+            5.032284,52.109408,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

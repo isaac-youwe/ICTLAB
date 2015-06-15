@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09840109 Brabander</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.972259,51.531938,0.000000
+            5.966105,51.531443,0.000000
+            5.947779,51.535915,0.000000
+            5.945386,51.537082,0.000000
+            5.955656,51.543153,0.000000
+            5.951518,51.556998,0.000000
+            5.974231,51.561300,0.000000
+            5.974591,51.561391,0.000000
+            5.982723,51.552733,0.000000
+            5.970669,51.548215,0.000000
+            5.972199,51.541367,0.000000
+            5.968678,51.537403,0.000000
+            5.972259,51.531938,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

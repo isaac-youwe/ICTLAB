@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04830001 Oude Wetering (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.643681,52.220248,0.000000
+            4.648204,52.207902,0.000000
+            4.648280,52.207692,0.000000
+            4.649847,52.201410,0.000000
+            4.649904,52.201342,0.000000
+            4.647245,52.201184,0.000000
+            4.643534,52.204002,0.000000
+            4.644439,52.204299,0.000000
+            4.646123,52.206232,0.000000
+            4.645514,52.210081,0.000000
+            4.641217,52.209645,0.000000
+            4.638424,52.218592,0.000000
+            4.643681,52.220248,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

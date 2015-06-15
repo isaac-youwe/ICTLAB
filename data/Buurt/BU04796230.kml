@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04796230 Krommeniedijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.752618,52.521031,0.000000
+            4.763901,52.519374,0.000000
+            4.775068,52.519432,0.000000
+            4.776141,52.514402,0.000000
+            4.768391,52.514691,0.000000
+            4.770429,52.508237,0.000000
+            4.768466,52.506669,0.000000
+            4.765562,52.507407,0.000000
+            4.752098,52.510973,0.000000
+            4.752230,52.511222,0.000000
+            4.747732,52.516591,0.000000
+            4.749154,52.520194,0.000000
+            4.752088,52.521109,0.000000
+            4.752618,52.521031,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

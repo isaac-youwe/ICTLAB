@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020607 Corversbos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.155213,52.228658,0.000000
+            5.155881,52.223767,0.000000
+            5.141289,52.225229,0.000000
+            5.141225,52.236715,0.000000
+            5.141260,52.236780,0.000000
+            5.145584,52.232541,0.000000
+            5.158259,52.232149,0.000000
+            5.155213,52.228658,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

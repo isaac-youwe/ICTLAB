@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01040100 Koudum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.450675,52.907901,0.000000
+            5.444127,52.906557,0.000000
+            5.439441,52.908552,0.000000
+            5.435484,52.911812,0.000000
+            5.437108,52.912832,0.000000
+            5.436331,52.915030,0.000000
+            5.441741,52.916681,0.000000
+            5.447695,52.920004,0.000000
+            5.454823,52.925472,0.000000
+            5.463573,52.929096,0.000000
+            5.466664,52.928516,0.000000
+            5.470518,52.924670,0.000000
+            5.469958,52.921090,0.000000
+            5.466508,52.916501,0.000000
+            5.461561,52.912775,0.000000
+            5.450675,52.907901,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

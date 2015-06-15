@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140807 Tuinbouwcentrum Klazienaveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.026213,52.754415,0.000000
+            7.023590,52.746098,0.000000
+            7.022079,52.733548,0.000000
+            6.997199,52.734618,0.000000
+            6.998221,52.741834,0.000000
+            7.000362,52.754455,0.000000
+            7.003400,52.754326,0.000000
+            7.020830,52.753502,0.000000
+            7.021461,52.754899,0.000000
+            7.026213,52.754415,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

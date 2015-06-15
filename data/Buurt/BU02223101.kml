@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02223101 Wehl-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.218617,51.965115,0.000000
+            6.220380,51.958034,0.000000
+            6.214033,51.957239,0.000000
+            6.203184,51.954074,0.000000
+            6.202739,51.956845,0.000000
+            6.200525,51.958085,0.000000
+            6.199968,51.963037,0.000000
+            6.193771,51.962809,0.000000
+            6.204826,51.965291,0.000000
+            6.212777,51.965551,0.000000
+            6.218617,51.965115,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

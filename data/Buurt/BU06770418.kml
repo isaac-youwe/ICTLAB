@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770418 Kern Zandberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.106943,51.301517,0.000000
+            4.104210,51.300553,0.000000
+            4.095984,51.304766,0.000000
+            4.095319,51.307064,0.000000
+            4.097160,51.308307,0.000000
+            4.105141,51.307493,0.000000
+            4.104445,51.304131,0.000000
+            4.106943,51.301517,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08281600 Overlangel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.669324,51.780605,0.000000
+            5.671774,51.777926,0.000000
+            5.677170,51.779933,0.000000
+            5.680986,51.779693,0.000000
+            5.675589,51.774387,0.000000
+            5.674044,51.767342,0.000000
+            5.669711,51.762901,0.000000
+            5.669696,51.760634,0.000000
+            5.666738,51.769069,0.000000
+            5.666150,51.773560,0.000000
+            5.665187,51.780187,0.000000
+            5.669324,51.780605,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17830151 Hoge Geest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.185134,52.003897,0.000000
+            4.188475,52.001571,0.000000
+            4.191807,52.002489,0.000000
+            4.193846,52.000047,0.000000
+            4.193562,51.998925,0.000000
+            4.197129,51.996755,0.000000
+            4.196753,51.996479,0.000000
+            4.193398,51.994877,0.000000
+            4.195628,51.989294,0.000000
+            4.190128,51.988451,0.000000
+            4.189777,51.992716,0.000000
+            4.186002,51.996084,0.000000
+            4.181297,52.003534,0.000000
+            4.185134,52.003897,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

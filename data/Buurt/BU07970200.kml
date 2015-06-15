@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07970200 Vlijmen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.222244,51.689994,0.000000
+            5.213304,51.687625,0.000000
+            5.212532,51.691968,0.000000
+            5.195199,51.694192,0.000000
+            5.190411,51.704462,0.000000
+            5.203351,51.705585,0.000000
+            5.224039,51.709637,0.000000
+            5.236740,51.701361,0.000000
+            5.222244,51.689994,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

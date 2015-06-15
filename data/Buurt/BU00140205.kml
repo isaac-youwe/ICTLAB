@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140205 Noorderhoogebrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.568968,53.241088,0.000000
+            6.568104,53.239292,0.000000
+            6.566674,53.239738,0.000000
+            6.563559,53.240680,0.000000
+            6.564868,53.241917,0.000000
+            6.566879,53.242274,0.000000
+            6.566639,53.248400,0.000000
+            6.571292,53.249933,0.000000
+            6.580532,53.249788,0.000000
+            6.578867,53.248196,0.000000
+            6.575223,53.244069,0.000000
+            6.568968,53.241088,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

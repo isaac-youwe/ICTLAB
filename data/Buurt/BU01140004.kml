@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01140004 Westenesch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.880635,52.783183,0.000000
+            6.876189,52.782184,0.000000
+            6.875370,52.783159,0.000000
+            6.870406,52.781625,0.000000
+            6.867538,52.783882,0.000000
+            6.866441,52.786604,0.000000
+            6.864276,52.786921,0.000000
+            6.865428,52.790021,0.000000
+            6.874665,52.789366,0.000000
+            6.875026,52.786947,0.000000
+            6.882774,52.786111,0.000000
+            6.880635,52.783183,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00740107 Mobilisatieweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.961222,52.977596,0.000000
+            5.960500,52.974709,0.000000
+            5.957880,52.975637,0.000000
+            5.951830,52.969021,0.000000
+            5.929572,52.963114,0.000000
+            5.928782,52.964174,0.000000
+            5.925797,52.968169,0.000000
+            5.912457,52.974325,0.000000
+            5.928295,52.978974,0.000000
+            5.941560,52.982462,0.000000
+            5.974150,52.990625,0.000000
+            5.974045,52.990532,0.000000
+            5.961999,52.980704,0.000000
+            5.961222,52.977596,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16990040 Nietap</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.400379,53.160715,0.000000
+            6.404591,53.158169,0.000000
+            6.406573,53.160845,0.000000
+            6.409192,53.160140,0.000000
+            6.406987,53.157490,0.000000
+            6.409300,53.155896,0.000000
+            6.407278,53.154359,0.000000
+            6.403377,53.156740,0.000000
+            6.401814,53.156272,0.000000
+            6.395265,53.157251,0.000000
+            6.393763,53.156480,0.000000
+            6.388569,53.158227,0.000000
+            6.389016,53.158540,0.000000
+            6.398207,53.164448,0.000000
+            6.398790,53.164823,0.000000
+            6.400379,53.160715,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

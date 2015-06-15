@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05032800 Zeeheldenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.368855,52.005287,0.000000
+            4.366388,52.002364,0.000000
+            4.364282,52.004399,0.000000
+            4.362001,52.003737,0.000000
+            4.360339,52.005269,0.000000
+            4.363533,52.006703,0.000000
+            4.365634,52.007641,0.000000
+            4.368855,52.005287,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

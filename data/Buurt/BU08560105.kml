@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08560105 Blitswijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.612258,51.664562,0.000000
+            5.610451,51.664360,0.000000
+            5.609588,51.668259,0.000000
+            5.606578,51.671501,0.000000
+            5.609846,51.672890,0.000000
+            5.621504,51.674173,0.000000
+            5.624434,51.670613,0.000000
+            5.622498,51.668871,0.000000
+            5.612258,51.664562,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

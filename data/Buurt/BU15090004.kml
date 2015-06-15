@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15090004 Varsselder en Veldhunten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.365495,51.887144,0.000000
+            6.358531,51.884188,0.000000
+            6.350596,51.883596,0.000000
+            6.344590,51.882061,0.000000
+            6.343926,51.882366,0.000000
+            6.342026,51.883983,0.000000
+            6.342105,51.886398,0.000000
+            6.348621,51.887051,0.000000
+            6.354518,51.886324,0.000000
+            6.356591,51.888415,0.000000
+            6.353656,51.890234,0.000000
+            6.354098,51.891169,0.000000
+            6.357284,51.892328,0.000000
+            6.360966,51.891849,0.000000
+            6.365495,51.887144,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

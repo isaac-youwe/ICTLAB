@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03030607 De Graafschap</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.706346,52.450103,0.000000
+            5.708956,52.447183,0.000000
+            5.707531,52.446714,0.000000
+            5.704867,52.449615,0.000000
+            5.697117,52.447036,0.000000
+            5.697167,52.447573,0.000000
+            5.700603,52.453670,0.000000
+            5.705812,52.455909,0.000000
+            5.706227,52.456053,0.000000
+            5.710967,52.451628,0.000000
+            5.706346,52.450103,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

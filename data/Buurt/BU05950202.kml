@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950202 Hogebrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.808624,52.029381,0.000000
+            4.808660,52.026551,0.000000
+            4.808666,52.026106,0.000000
+            4.798513,52.022460,0.000000
+            4.798436,52.022426,0.000000
+            4.796428,52.025217,0.000000
+            4.792861,52.025055,0.000000
+            4.792112,52.026468,0.000000
+            4.798346,52.027569,0.000000
+            4.800513,52.026685,0.000000
+            4.802678,52.026804,0.000000
+            4.804295,52.028546,0.000000
+            4.808624,52.029381,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

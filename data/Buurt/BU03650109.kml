@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03650109 Verspreide huizen in de Graftermeerpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.822298,52.552836,0.000000
+            4.806458,52.551084,0.000000
+            4.805894,52.554416,0.000000
+            4.801849,52.554961,0.000000
+            4.802288,52.559077,0.000000
+            4.805330,52.560469,0.000000
+            4.815061,52.562141,0.000000
+            4.818611,52.565221,0.000000
+            4.825885,52.560481,0.000000
+            4.830110,52.559360,0.000000
+            4.829195,52.554592,0.000000
+            4.822298,52.552836,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

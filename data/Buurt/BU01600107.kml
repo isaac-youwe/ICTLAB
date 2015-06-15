@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600107 Brucht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.631001,52.536156,0.000000
+            6.622769,52.535208,0.000000
+            6.621083,52.537218,0.000000
+            6.586119,52.539713,0.000000
+            6.586212,52.542213,0.000000
+            6.593086,52.546172,0.000000
+            6.599776,52.552412,0.000000
+            6.603410,52.554343,0.000000
+            6.609881,52.555878,0.000000
+            6.614004,52.557421,0.000000
+            6.616738,52.559918,0.000000
+            6.638840,52.553040,0.000000
+            6.635391,52.542805,0.000000
+            6.631001,52.536156,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

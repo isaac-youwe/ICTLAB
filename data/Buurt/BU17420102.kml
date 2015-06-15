@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17420102 Braakmanslanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.504152,52.307286,0.000000
+            6.507002,52.305459,0.000000
+            6.512112,52.305595,0.000000
+            6.512646,52.303289,0.000000
+            6.506957,52.301758,0.000000
+            6.503885,52.301806,0.000000
+            6.503895,52.300047,0.000000
+            6.504448,52.297479,0.000000
+            6.498014,52.295723,0.000000
+            6.496958,52.297414,0.000000
+            6.493647,52.294656,0.000000
+            6.489553,52.296268,0.000000
+            6.488972,52.297963,0.000000
+            6.489806,52.298098,0.000000
+            6.490144,52.302370,0.000000
+            6.504152,52.307286,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

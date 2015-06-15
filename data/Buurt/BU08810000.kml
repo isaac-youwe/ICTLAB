@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08810000 Schinveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.993929,50.965692,0.000000
+            5.992378,50.958865,0.000000
+            5.992183,50.958878,0.000000
+            5.989336,50.958893,0.000000
+            5.989242,50.958913,0.000000
+            5.980819,50.960735,0.000000
+            5.978104,50.959895,0.000000
+            5.977960,50.959850,0.000000
+            5.974125,50.958264,0.000000
+            5.974128,50.958443,0.000000
+            5.973881,50.958484,0.000000
+            5.973381,50.962033,0.000000
+            5.966645,50.968488,0.000000
+            5.976983,50.979138,0.000000
+            5.984578,50.979478,0.000000
+            5.985892,50.973224,0.000000
+            5.988065,50.972045,0.000000
+            5.993929,50.965692,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

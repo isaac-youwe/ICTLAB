@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00480100 Vlagtwedde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.129239,53.024511,0.000000
+            7.126605,53.021972,0.000000
+            7.119948,53.021133,0.000000
+            7.118935,53.022533,0.000000
+            7.116030,53.023693,0.000000
+            7.103496,53.024616,0.000000
+            7.098957,53.023964,0.000000
+            7.098587,53.024863,0.000000
+            7.105722,53.026141,0.000000
+            7.103294,53.027781,0.000000
+            7.100257,53.034552,0.000000
+            7.098007,53.036723,0.000000
+            7.102844,53.038434,0.000000
+            7.117322,53.030819,0.000000
+            7.131001,53.027303,0.000000
+            7.124830,53.024739,0.000000
+            7.129239,53.024511,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

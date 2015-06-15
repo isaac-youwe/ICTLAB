@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060003 Paul Krugerstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.572538,52.995465,0.000000
+            6.571622,52.993067,0.000000
+            6.565935,52.993488,0.000000
+            6.565787,52.994174,0.000000
+            6.567431,52.995397,0.000000
+            6.567166,52.999200,0.000000
+            6.571028,52.999720,0.000000
+            6.571483,52.995694,0.000000
+            6.572538,52.995465,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

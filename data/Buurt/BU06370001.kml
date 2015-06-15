@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370001 Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.507686,52.050844,0.000000
+            4.503901,52.047962,0.000000
+            4.498421,52.048122,0.000000
+            4.495507,52.049439,0.000000
+            4.493630,52.049101,0.000000
+            4.491234,52.047018,0.000000
+            4.482968,52.047639,0.000000
+            4.492001,52.054371,0.000000
+            4.492789,52.056181,0.000000
+            4.491343,52.057829,0.000000
+            4.496585,52.058441,0.000000
+            4.496584,52.057572,0.000000
+            4.503326,52.053163,0.000000
+            4.506218,52.051638,0.000000
+            4.508525,52.051613,0.000000
+            4.507686,52.050844,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

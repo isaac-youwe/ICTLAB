@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940116 Floriande-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.643357,52.312709,0.000000
+            4.629810,52.303210,0.000000
+            4.622878,52.306629,0.000000
+            4.629104,52.310978,0.000000
+            4.636765,52.316325,0.000000
+            4.635792,52.316850,0.000000
+            4.651484,52.327823,0.000000
+            4.659189,52.323802,0.000000
+            4.651900,52.318696,0.000000
+            4.643357,52.312709,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

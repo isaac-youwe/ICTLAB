@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00910017 Duinterpen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.674778,53.007803,0.000000
+            5.661340,53.003341,0.000000
+            5.652428,53.007855,0.000000
+            5.652385,53.007899,0.000000
+            5.652246,53.008039,0.000000
+            5.655283,53.022375,0.000000
+            5.671312,53.021865,0.000000
+            5.673276,53.018179,0.000000
+            5.676479,53.016913,0.000000
+            5.678618,53.009590,0.000000
+            5.677967,53.009287,0.000000
+            5.674778,53.007803,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

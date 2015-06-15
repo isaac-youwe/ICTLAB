@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01190006 Industrieterrein Oevers en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.185757,52.693273,0.000000
+            6.183487,52.692576,0.000000
+            6.183222,52.693238,0.000000
+            6.172439,52.689594,0.000000
+            6.171081,52.687377,0.000000
+            6.171094,52.687359,0.000000
+            6.169638,52.686487,0.000000
+            6.169666,52.686517,0.000000
+            6.168219,52.688324,0.000000
+            6.159408,52.691977,0.000000
+            6.157041,52.692715,0.000000
+            6.165941,52.699426,0.000000
+            6.174499,52.703354,0.000000
+            6.179589,52.704874,0.000000
+            6.181983,52.702581,0.000000
+            6.184992,52.701916,0.000000
+            6.185941,52.701779,0.000000
+            6.187413,52.700363,0.000000
+            6.184154,52.696835,0.000000
+            6.185757,52.693273,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

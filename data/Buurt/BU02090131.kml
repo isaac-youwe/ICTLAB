@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02090131 Beuningen Schoenaker</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.751498,51.859682,0.000000
+            5.751505,51.856455,0.000000
+            5.749354,51.852925,0.000000
+            5.747915,51.853274,0.000000
+            5.746998,51.851754,0.000000
+            5.727641,51.854960,0.000000
+            5.732332,51.859015,0.000000
+            5.737544,51.857386,0.000000
+            5.744607,51.857193,0.000000
+            5.749241,51.859819,0.000000
+            5.751498,51.859682,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

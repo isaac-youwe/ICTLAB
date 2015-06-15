@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01660008 Cellesbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.905002,52.557029,0.000000
+            5.910636,52.552358,0.000000
+            5.904346,52.546035,0.000000
+            5.897673,52.542941,0.000000
+            5.883199,52.555348,0.000000
+            5.887122,52.556024,0.000000
+            5.897900,52.555234,0.000000
+            5.905002,52.557029,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

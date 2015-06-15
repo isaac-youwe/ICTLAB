@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440760 Lunetten-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.143836,52.065817,0.000000
+            5.152632,52.057023,0.000000
+            5.152422,52.056958,0.000000
+            5.150968,52.056056,0.000000
+            5.145155,52.052448,0.000000
+            5.126184,52.055104,0.000000
+            5.124726,52.055101,0.000000
+            5.121893,52.055792,0.000000
+            5.126355,52.065049,0.000000
+            5.138336,52.063585,0.000000
+            5.143836,52.065817,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

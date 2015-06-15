@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16550408 Verspreide huizen ten zuiden van Hoeven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.576728,51.574353,0.000000
+            4.577728,51.572371,0.000000
+            4.580509,51.572976,0.000000
+            4.596455,51.573306,0.000000
+            4.595332,51.566744,0.000000
+            4.593221,51.566370,0.000000
+            4.590943,51.566354,0.000000
+            4.591038,51.560961,0.000000
+            4.568044,51.556307,0.000000
+            4.567801,51.556305,0.000000
+            4.564835,51.561448,0.000000
+            4.559078,51.567424,0.000000
+            4.559864,51.572114,0.000000
+            4.568821,51.572756,0.000000
+            4.572110,51.580059,0.000000
+            4.575800,51.579389,0.000000
+            4.578080,51.577904,0.000000
+            4.576728,51.574353,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

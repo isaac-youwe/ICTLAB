@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02750209 Verspreide huizen Velp-Zuidoost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.003466,52.002929,0.000000
+            6.007213,51.996315,0.000000
+            6.008515,51.996785,0.000000
+            6.010673,51.994505,0.000000
+            6.010475,51.994414,0.000000
+            6.006069,51.991741,0.000000
+            6.004651,51.986752,0.000000
+            6.004539,51.986355,0.000000
+            6.001553,51.980977,0.000000
+            5.998592,51.977397,0.000000
+            5.989823,51.974745,0.000000
+            5.981173,51.981082,0.000000
+            5.980904,51.981187,0.000000
+            5.982695,51.982935,0.000000
+            5.985862,51.983953,0.000000
+            5.996459,51.990221,0.000000
+            5.993416,51.992345,0.000000
+            5.987306,51.990566,0.000000
+            5.984639,51.996624,0.000000
+            5.994472,52.000758,0.000000
+            6.003466,52.002929,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00910016 Tinga</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.655283,53.022375,0.000000
+            5.652246,53.008039,0.000000
+            5.647985,53.012358,0.000000
+            5.636110,53.020472,0.000000
+            5.636115,53.021371,0.000000
+            5.635848,53.021506,0.000000
+            5.642578,53.025469,0.000000
+            5.647152,53.022991,0.000000
+            5.655283,53.022375,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

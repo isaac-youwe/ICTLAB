@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17740306 Verspreide huizen Nutter</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.890675,52.419796,0.000000
+            6.888929,52.417359,0.000000
+            6.884314,52.418739,0.000000
+            6.880640,52.418003,0.000000
+            6.878931,52.414629,0.000000
+            6.878814,52.409744,0.000000
+            6.862982,52.406680,0.000000
+            6.862946,52.407551,0.000000
+            6.862625,52.407705,0.000000
+            6.857158,52.410320,0.000000
+            6.851779,52.414607,0.000000
+            6.851429,52.414886,0.000000
+            6.853315,52.427449,0.000000
+            6.853373,52.427456,0.000000
+            6.891378,52.432317,0.000000
+            6.891738,52.427728,0.000000
+            6.888612,52.422810,0.000000
+            6.890675,52.419796,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02670332 Holkerveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.451266,52.215615,0.000000
+            5.453065,52.211289,0.000000
+            5.459998,52.212617,0.000000
+            5.469062,52.209697,0.000000
+            5.463245,52.203717,0.000000
+            5.454406,52.198786,0.000000
+            5.447726,52.193263,0.000000
+            5.439865,52.197226,0.000000
+            5.439871,52.201903,0.000000
+            5.439874,52.204600,0.000000
+            5.439185,52.204706,0.000000
+            5.448186,52.216639,0.000000
+            5.451266,52.215615,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

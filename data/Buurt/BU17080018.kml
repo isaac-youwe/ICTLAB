@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080018 Eesveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.140547,52.817653,0.000000
+            6.138895,52.815946,0.000000
+            6.138760,52.821077,0.000000
+            6.135580,52.823444,0.000000
+            6.137742,52.826295,0.000000
+            6.144556,52.827380,0.000000
+            6.147508,52.829282,0.000000
+            6.148476,52.828989,0.000000
+            6.150519,52.828369,0.000000
+            6.145644,52.826276,0.000000
+            6.140336,52.819054,0.000000
+            6.140547,52.817653,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

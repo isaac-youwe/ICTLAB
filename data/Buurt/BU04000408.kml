@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000408 Nieuw-Den Helder Zuid-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.748748,52.933023,0.000000
+            4.747849,52.927261,0.000000
+            4.742159,52.927396,0.000000
+            4.737923,52.929236,0.000000
+            4.738533,52.930634,0.000000
+            4.737118,52.934312,0.000000
+            4.745037,52.934095,0.000000
+            4.748748,52.933023,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

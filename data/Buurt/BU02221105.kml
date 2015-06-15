@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02221105 Buitengebied t Kloooster</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.340275,51.937861,0.000000
+            6.334642,51.937197,0.000000
+            6.332484,51.938618,0.000000
+            6.338867,51.944425,0.000000
+            6.341337,51.944600,0.000000
+            6.342782,51.947339,0.000000
+            6.347234,51.948468,0.000000
+            6.354704,51.948343,0.000000
+            6.364508,51.946215,0.000000
+            6.350057,51.942509,0.000000
+            6.343708,51.939681,0.000000
+            6.340275,51.937861,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

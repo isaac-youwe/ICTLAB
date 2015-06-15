@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07180300 Paauwenburg-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.554526,51.467784,0.000000
+            3.554783,51.467482,0.000000
+            3.556222,51.467504,0.000000
+            3.556949,51.467746,0.000000
+            3.559016,51.464643,0.000000
+            3.560523,51.464239,0.000000
+            3.559521,51.463792,0.000000
+            3.559464,51.458271,0.000000
+            3.552209,51.456278,0.000000
+            3.550408,51.457212,0.000000
+            3.550964,51.461226,0.000000
+            3.549527,51.464966,0.000000
+            3.554526,51.467784,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

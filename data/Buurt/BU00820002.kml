@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00820002 Lemmer-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.708538,52.845962,0.000000
+            5.699044,52.843909,0.000000
+            5.698937,52.844171,0.000000
+            5.697950,52.844174,0.000000
+            5.699805,52.846958,0.000000
+            5.701084,52.848726,0.000000
+            5.705001,52.850296,0.000000
+            5.713789,52.848548,0.000000
+            5.712482,52.846017,0.000000
+            5.708538,52.845962,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

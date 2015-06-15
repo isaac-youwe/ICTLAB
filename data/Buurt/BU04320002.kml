@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04320002 Zandwerven en Lutkedijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.941069,52.692256,0.000000
+            4.951406,52.687805,0.000000
+            4.951981,52.688158,0.000000
+            4.959436,52.685340,0.000000
+            4.957613,52.680513,0.000000
+            4.953563,52.676838,0.000000
+            4.958183,52.676482,0.000000
+            4.961329,52.674818,0.000000
+            4.961337,52.673947,0.000000
+            4.952483,52.672117,0.000000
+            4.952454,52.672143,0.000000
+            4.949499,52.674802,0.000000
+            4.933874,52.678803,0.000000
+            4.928741,52.680117,0.000000
+            4.928067,52.680319,0.000000
+            4.931085,52.683136,0.000000
+            4.927969,52.684965,0.000000
+            4.933843,52.687799,0.000000
+            4.936555,52.690583,0.000000
+            4.940686,52.691228,0.000000
+            4.941069,52.692256,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

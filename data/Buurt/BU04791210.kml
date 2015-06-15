@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04791210 Poelenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.859535,52.432385,0.000000
+            4.846092,52.431341,0.000000
+            4.840536,52.437915,0.000000
+            4.838106,52.440089,0.000000
+            4.842668,52.441157,0.000000
+            4.853072,52.442669,0.000000
+            4.853243,52.442508,0.000000
+            4.853254,52.441609,0.000000
+            4.853345,52.441500,0.000000
+            4.857428,52.436600,0.000000
+            4.857731,52.436236,0.000000
+            4.858199,52.435127,0.000000
+            4.859245,52.432647,0.000000
+            4.859535,52.432385,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

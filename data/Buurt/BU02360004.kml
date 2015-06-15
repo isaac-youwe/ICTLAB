@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02360004 Meteren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.283549,51.859373,0.000000
+            5.280994,51.858577,0.000000
+            5.279725,51.858649,0.000000
+            5.277095,51.858799,0.000000
+            5.277043,51.859749,0.000000
+            5.278399,51.859990,0.000000
+            5.275990,51.865982,0.000000
+            5.278323,51.866229,0.000000
+            5.279470,51.868204,0.000000
+            5.271714,51.870893,0.000000
+            5.277605,51.874765,0.000000
+            5.281428,51.873287,0.000000
+            5.288162,51.872375,0.000000
+            5.303066,51.871578,0.000000
+            5.302195,51.865541,0.000000
+            5.286438,51.864376,0.000000
+            5.283924,51.861720,0.000000
+            5.283549,51.859373,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06540000 s-Heerenhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.776296,51.450813,0.000000
+            3.764939,51.450649,0.000000
+            3.761346,51.454760,0.000000
+            3.766764,51.456153,0.000000
+            3.765914,51.458665,0.000000
+            3.768120,51.458967,0.000000
+            3.773076,51.458057,0.000000
+            3.772192,51.456236,0.000000
+            3.775980,51.455024,0.000000
+            3.776296,51.450813,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

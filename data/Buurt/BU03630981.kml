@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630981 Osdorp-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.811951,52.359470,0.000000
+            4.813359,52.357980,0.000000
+            4.817285,52.358864,0.000000
+            4.818530,52.358269,0.000000
+            4.818039,52.356285,0.000000
+            4.820351,52.351739,0.000000
+            4.812383,52.351763,0.000000
+            4.803518,52.349980,0.000000
+            4.795137,52.364503,0.000000
+            4.807448,52.367035,0.000000
+            4.811951,52.359470,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

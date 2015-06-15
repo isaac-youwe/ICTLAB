@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03960700 Onderwijzersbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.666873,52.511575,0.000000
+            4.669012,52.509693,0.000000
+            4.662899,52.507415,0.000000
+            4.662565,52.507455,0.000000
+            4.659435,52.511069,0.000000
+            4.659910,52.511914,0.000000
+            4.661073,52.511317,0.000000
+            4.664468,52.511995,0.000000
+            4.666873,52.511575,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08700104 Vervoornepolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.898646,51.812474,0.000000
+            4.909079,51.805840,0.000000
+            4.908126,51.805918,0.000000
+            4.905285,51.800945,0.000000
+            4.893333,51.803823,0.000000
+            4.892218,51.803981,0.000000
+            4.893295,51.806089,0.000000
+            4.894419,51.812604,0.000000
+            4.898646,51.812474,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

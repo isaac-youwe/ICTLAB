@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16410501 Panheel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.880312,51.177870,0.000000
+            5.884730,51.172542,0.000000
+            5.876710,51.168751,0.000000
+            5.874303,51.169709,0.000000
+            5.872952,51.173960,0.000000
+            5.869746,51.176092,0.000000
+            5.864035,51.175180,0.000000
+            5.859511,51.171892,0.000000
+            5.853618,51.173906,0.000000
+            5.858344,51.176725,0.000000
+            5.870003,51.180338,0.000000
+            5.880312,51.177870,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

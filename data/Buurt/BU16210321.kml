@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16210321 Westpolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.464909,51.989042,0.000000
+            4.462830,51.985408,0.000000
+            4.458333,51.986589,0.000000
+            4.453563,51.986563,0.000000
+            4.447978,51.984292,0.000000
+            4.446635,51.983407,0.000000
+            4.448713,51.991188,0.000000
+            4.446746,51.992497,0.000000
+            4.452234,51.996845,0.000000
+            4.452008,51.997116,0.000000
+            4.453280,51.997278,0.000000
+            4.464966,51.993295,0.000000
+            4.466215,51.992804,0.000000
+            4.464909,51.989042,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

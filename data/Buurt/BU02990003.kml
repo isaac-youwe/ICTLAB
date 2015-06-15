@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02990003 Schrijvershoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.091124,51.921774,0.000000
+            6.083811,51.920515,0.000000
+            6.078757,51.927958,0.000000
+            6.078511,51.930360,0.000000
+            6.079853,51.931706,0.000000
+            6.082761,51.934016,0.000000
+            6.083468,51.933699,0.000000
+            6.087276,51.931758,0.000000
+            6.090882,51.925750,0.000000
+            6.091124,51.921774,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

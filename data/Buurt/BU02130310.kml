@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130310 Hazenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.149556,52.097876,0.000000
+            6.148779,52.095800,0.000000
+            6.147254,52.092023,0.000000
+            6.146622,52.090796,0.000000
+            6.141431,52.093878,0.000000
+            6.139767,52.096709,0.000000
+            6.145102,52.096372,0.000000
+            6.149556,52.097876,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420610 Develzijde Nederhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.610851,51.817915,0.000000
+            4.617488,51.816201,0.000000
+            4.617404,51.815840,0.000000
+            4.610273,51.816581,0.000000
+            4.607584,51.816650,0.000000
+            4.599293,51.815809,0.000000
+            4.599379,51.817349,0.000000
+            4.602971,51.817364,0.000000
+            4.606766,51.817784,0.000000
+            4.610851,51.817915,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

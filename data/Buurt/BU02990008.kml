@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02990008 Tatelaar</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.086284,51.935618,0.000000
+            6.083468,51.933699,0.000000
+            6.082761,51.934016,0.000000
+            6.079697,51.935787,0.000000
+            6.082258,51.940863,0.000000
+            6.082966,51.942155,0.000000
+            6.090820,51.938427,0.000000
+            6.086284,51.935618,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

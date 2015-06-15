@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480403 Jankenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.293961,51.522207,0.000000
+            4.290825,51.517904,0.000000
+            4.293676,51.514057,0.000000
+            4.292537,51.514100,0.000000
+            4.285940,51.513866,0.000000
+            4.278670,51.511605,0.000000
+            4.275376,51.520761,0.000000
+            4.278612,51.520456,0.000000
+            4.287351,51.521912,0.000000
+            4.292099,51.522595,0.000000
+            4.293961,51.522207,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

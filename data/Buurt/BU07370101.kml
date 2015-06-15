@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07370101 Oentsjerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.906521,53.246956,0.000000
+            5.891470,53.244722,0.000000
+            5.890748,53.249007,0.000000
+            5.889762,53.249472,0.000000
+            5.889586,53.258447,0.000000
+            5.890355,53.260550,0.000000
+            5.898998,53.259402,0.000000
+            5.905037,53.258779,0.000000
+            5.904396,53.257437,0.000000
+            5.909912,53.256642,0.000000
+            5.910000,53.254624,0.000000
+            5.912708,53.252950,0.000000
+            5.908122,53.249168,0.000000
+            5.907071,53.247716,0.000000
+            5.906521,53.246956,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

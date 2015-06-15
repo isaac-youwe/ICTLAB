@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06680100 Kern Alphen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.476322,51.826708,0.000000
+            5.473879,51.818209,0.000000
+            5.465234,51.820852,0.000000
+            5.468519,51.823726,0.000000
+            5.470898,51.823541,0.000000
+            5.473005,51.825247,0.000000
+            5.474176,51.828950,0.000000
+            5.476105,51.827911,0.000000
+            5.476322,51.826708,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

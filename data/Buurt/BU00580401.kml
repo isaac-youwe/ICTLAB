@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580401 Paesens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.089086,53.398173,0.000000
+            6.086059,53.397471,0.000000
+            6.084589,53.398084,0.000000
+            6.082810,53.402069,0.000000
+            6.084761,53.403942,0.000000
+            6.092266,53.402625,0.000000
+            6.093233,53.401655,0.000000
+            6.092133,53.400124,0.000000
+            6.089086,53.398173,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

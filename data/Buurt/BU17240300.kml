@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17240300 Riethoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.390635,51.348728,0.000000
+            5.385292,51.346598,0.000000
+            5.381136,51.349955,0.000000
+            5.380110,51.354684,0.000000
+            5.383775,51.355924,0.000000
+            5.383376,51.357497,0.000000
+            5.391762,51.357413,0.000000
+            5.393828,51.351472,0.000000
+            5.390998,51.349498,0.000000
+            5.390635,51.348728,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

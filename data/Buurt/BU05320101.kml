@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05320101 Broekerhaven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.254083,52.686319,0.000000
+            5.246690,52.685411,0.000000
+            5.245208,52.686309,0.000000
+            5.245073,52.686308,0.000000
+            5.252332,52.687513,0.000000
+            5.251657,52.695835,0.000000
+            5.258528,52.695989,0.000000
+            5.259997,52.687224,0.000000
+            5.255562,52.686320,0.000000
+            5.254083,52.686319,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02630401 Hurwenen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.322475,51.808313,0.000000
+            5.310934,51.804669,0.000000
+            5.309097,51.806945,0.000000
+            5.306483,51.806891,0.000000
+            5.312548,51.811947,0.000000
+            5.325012,51.817891,0.000000
+            5.327735,51.815365,0.000000
+            5.327995,51.815124,0.000000
+            5.319015,51.812427,0.000000
+            5.322475,51.808313,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

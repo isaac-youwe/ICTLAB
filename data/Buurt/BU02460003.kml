@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02460003 Hoorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.073090,52.403189,0.000000
+            6.072562,52.401511,0.000000
+            6.071124,52.401693,0.000000
+            6.066109,52.399425,0.000000
+            6.061193,52.399253,0.000000
+            6.059350,52.400098,0.000000
+            6.058924,52.402973,0.000000
+            6.060584,52.404205,0.000000
+            6.063895,52.403168,0.000000
+            6.071708,52.404939,0.000000
+            6.073090,52.403189,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

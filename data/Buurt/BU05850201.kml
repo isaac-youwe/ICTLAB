@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05850201 Greup</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.438677,51.781879,0.000000
+            4.436401,51.781861,0.000000
+            4.435862,51.781981,0.000000
+            4.424750,51.784462,0.000000
+            4.424731,51.785361,0.000000
+            4.423262,51.786248,0.000000
+            4.424635,51.789856,0.000000
+            4.428869,51.795284,0.000000
+            4.429422,51.798792,0.000000
+            4.440577,51.797325,0.000000
+            4.442137,51.791373,0.000000
+            4.439307,51.781886,0.000000
+            4.439299,51.781884,0.000000
+            4.438677,51.781879,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

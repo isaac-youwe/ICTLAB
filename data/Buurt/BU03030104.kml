@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03030104 De Munten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.713031,52.535283,0.000000
+            5.709308,52.529498,0.000000
+            5.709086,52.528172,0.000000
+            5.703300,52.526357,0.000000
+            5.701459,52.529369,0.000000
+            5.693384,52.530422,0.000000
+            5.696370,52.524834,0.000000
+            5.695634,52.524694,0.000000
+            5.693428,52.529476,0.000000
+            5.692478,52.532294,0.000000
+            5.693972,52.539296,0.000000
+            5.696199,52.538745,0.000000
+            5.713031,52.535283,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

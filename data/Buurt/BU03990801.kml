@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03990801 De volkstuinen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.692144,52.590463,0.000000
+            4.684798,52.582508,0.000000
+            4.684780,52.583650,0.000000
+            4.680338,52.584522,0.000000
+            4.679332,52.584821,0.000000
+            4.671441,52.587165,0.000000
+            4.669936,52.588954,0.000000
+            4.674349,52.589879,0.000000
+            4.672858,52.590769,0.000000
+            4.674291,52.593474,0.000000
+            4.672771,52.596162,0.000000
+            4.672822,52.596326,0.000000
+            4.680590,52.594147,0.000000
+            4.692144,52.590463,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580509 Liesbos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.701920,51.564251,0.000000
+            4.693416,51.562900,0.000000
+            4.693339,51.567906,0.000000
+            4.690455,51.573976,0.000000
+            4.690358,51.574181,0.000000
+            4.685854,51.587544,0.000000
+            4.685948,51.587568,0.000000
+            4.694143,51.589378,0.000000
+            4.703489,51.590055,0.000000
+            4.723667,51.591524,0.000000
+            4.724318,51.582408,0.000000
+            4.726918,51.578357,0.000000
+            4.728165,51.576758,0.000000
+            4.713564,51.572159,0.000000
+            4.712072,51.571239,0.000000
+            4.712017,51.569281,0.000000
+            4.709015,51.568004,0.000000
+            4.707366,51.566283,0.000000
+            4.701920,51.564251,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

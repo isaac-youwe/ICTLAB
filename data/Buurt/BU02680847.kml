@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680847 Westkanaaldijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.807068,51.850531,0.000000
+            5.812508,51.849668,0.000000
+            5.816845,51.849652,0.000000
+            5.817449,51.849490,0.000000
+            5.820476,51.849548,0.000000
+            5.813039,51.841748,0.000000
+            5.809893,51.837602,0.000000
+            5.803915,51.838333,0.000000
+            5.802563,51.838479,0.000000
+            5.804890,51.840797,0.000000
+            5.797977,51.846133,0.000000
+            5.806710,51.850588,0.000000
+            5.807068,51.850531,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

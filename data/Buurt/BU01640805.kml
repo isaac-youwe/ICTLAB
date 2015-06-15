@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640805 Dalmeden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.800423,52.306955,0.000000
+            6.816003,52.304069,0.000000
+            6.823584,52.305101,0.000000
+            6.824108,52.304513,0.000000
+            6.821338,52.302881,0.000000
+            6.821160,52.302574,0.000000
+            6.819785,52.300203,0.000000
+            6.819965,52.299849,0.000000
+            6.811972,52.300943,0.000000
+            6.805276,52.300532,0.000000
+            6.801990,52.304317,0.000000
+            6.799380,52.304638,0.000000
+            6.795535,52.306585,0.000000
+            6.796531,52.306775,0.000000
+            6.800986,52.308520,0.000000
+            6.801445,52.309558,0.000000
+            6.800423,52.306955,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04150101 Purperland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.922321,52.490313,0.000000
+            4.941072,52.485117,0.000000
+            4.943990,52.487825,0.000000
+            4.948416,52.486942,0.000000
+            4.948428,52.485710,0.000000
+            4.948443,52.484246,0.000000
+            4.947069,52.474353,0.000000
+            4.947072,52.474007,0.000000
+            4.905705,52.479182,0.000000
+            4.905795,52.479586,0.000000
+            4.908700,52.483193,0.000000
+            4.916023,52.486818,0.000000
+            4.920403,52.490431,0.000000
+            4.921875,52.490437,0.000000
+            4.922321,52.490313,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

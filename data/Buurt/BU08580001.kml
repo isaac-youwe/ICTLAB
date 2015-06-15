@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08580001 Geenhoven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.462378,51.363349,0.000000
+            5.464310,51.354666,0.000000
+            5.450888,51.357053,0.000000
+            5.449665,51.356706,0.000000
+            5.448205,51.358739,0.000000
+            5.455328,51.361388,0.000000
+            5.455619,51.362464,0.000000
+            5.460181,51.362595,0.000000
+            5.462378,51.363349,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

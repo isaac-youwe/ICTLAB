@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01500907 Oude Molen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.292581,52.262099,0.000000
+            6.291417,52.257058,0.000000
+            6.287958,52.257444,0.000000
+            6.281865,52.256140,0.000000
+            6.278419,52.256223,0.000000
+            6.276636,52.258391,0.000000
+            6.279920,52.259667,0.000000
+            6.278425,52.262124,0.000000
+            6.274113,52.263294,0.000000
+            6.279197,52.264778,0.000000
+            6.290363,52.264132,0.000000
+            6.292581,52.262099,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

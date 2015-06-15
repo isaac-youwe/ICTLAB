@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02284002 Wormshoef</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.622156,52.090380,0.000000
+            5.623654,52.086528,0.000000
+            5.619443,52.086104,0.000000
+            5.615702,52.086860,0.000000
+            5.610934,52.085253,0.000000
+            5.610618,52.087261,0.000000
+            5.613342,52.093053,0.000000
+            5.622887,52.093036,0.000000
+            5.624282,52.092214,0.000000
+            5.622667,52.092053,0.000000
+            5.622156,52.090380,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

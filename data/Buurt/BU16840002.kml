@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16840002 Heiligenberg en Beijerd en t Riet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.879623,51.719314,0.000000
+            5.868989,51.717458,0.000000
+            5.864225,51.722661,0.000000
+            5.866653,51.726355,0.000000
+            5.866517,51.728208,0.000000
+            5.873178,51.728633,0.000000
+            5.879623,51.719314,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.870616,51.733539,0.000000
+            5.872760,51.729340,0.000000
+            5.863976,51.730408,0.000000
+            5.864328,51.732351,0.000000
+            5.870616,51.733539,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18830501 Geleen-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.813057,50.955072,0.000000
+            5.812704,50.954807,0.000000
+            5.812495,50.954937,0.000000
+            5.804452,50.959967,0.000000
+            5.823831,50.973962,0.000000
+            5.824420,50.974400,0.000000
+            5.831653,50.969785,0.000000
+            5.817941,50.958727,0.000000
+            5.813057,50.955072,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

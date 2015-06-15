@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03990603 Zuid Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.718417,52.580248,0.000000
+            4.710142,52.580202,0.000000
+            4.710369,52.587677,0.000000
+            4.711735,52.592267,0.000000
+            4.709212,52.594602,0.000000
+            4.712128,52.594566,0.000000
+            4.716994,52.593132,0.000000
+            4.717786,52.591818,0.000000
+            4.722113,52.590358,0.000000
+            4.718417,52.580248,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

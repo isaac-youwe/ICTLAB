@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17220001 Marrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.805154,53.320360,0.000000
+            5.798488,53.318402,0.000000
+            5.795244,53.319837,0.000000
+            5.796302,53.322029,0.000000
+            5.805003,53.330647,0.000000
+            5.807318,53.327670,0.000000
+            5.806391,53.321587,0.000000
+            5.805154,53.320360,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

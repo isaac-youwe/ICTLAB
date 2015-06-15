@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000204 Geleerdenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.756134,52.950543,0.000000
+            4.754103,52.949311,0.000000
+            4.748910,52.952843,0.000000
+            4.758193,52.957467,0.000000
+            4.758827,52.957708,0.000000
+            4.760401,52.957124,0.000000
+            4.761205,52.954167,0.000000
+            4.757472,52.953823,0.000000
+            4.754285,52.952222,0.000000
+            4.756134,52.950543,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

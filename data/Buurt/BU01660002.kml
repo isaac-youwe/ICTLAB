@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01660002 Groene Hart</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.911818,52.557130,0.000000
+            5.918900,52.552533,0.000000
+            5.917362,52.551538,0.000000
+            5.916076,52.552813,0.000000
+            5.912814,52.550856,0.000000
+            5.910636,52.552358,0.000000
+            5.905002,52.557029,0.000000
+            5.907504,52.559363,0.000000
+            5.909378,52.560571,0.000000
+            5.911818,52.557130,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

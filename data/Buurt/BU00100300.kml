@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00100300 Bierum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.867537,53.378700,0.000000
+            6.864784,53.376967,0.000000
+            6.858922,53.377488,0.000000
+            6.854715,53.379898,0.000000
+            6.853787,53.382717,0.000000
+            6.858845,53.385745,0.000000
+            6.865289,53.385885,0.000000
+            6.867933,53.383114,0.000000
+            6.867537,53.378700,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

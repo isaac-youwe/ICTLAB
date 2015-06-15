@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00740102 Leeuwarderstraatweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.911717,52.973304,0.000000
+            5.904934,52.970353,0.000000
+            5.887548,52.984275,0.000000
+            5.886100,52.984637,0.000000
+            5.886099,52.984640,0.000000
+            5.886993,52.986223,0.000000
+            5.888843,52.989495,0.000000
+            5.912457,52.974325,0.000000
+            5.911717,52.973304,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

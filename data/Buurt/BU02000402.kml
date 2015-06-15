@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000402 Vogelkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.974785,52.199008,0.000000
+            5.974771,52.197270,0.000000
+            5.971668,52.197385,0.000000
+            5.971578,52.194067,0.000000
+            5.970094,52.194153,0.000000
+            5.962258,52.194696,0.000000
+            5.959236,52.200336,0.000000
+            5.959154,52.201085,0.000000
+            5.969526,52.203987,0.000000
+            5.969568,52.202779,0.000000
+            5.972617,52.201472,0.000000
+            5.974785,52.199008,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16510101 Oosternieland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.755055,53.398231,0.000000
+            6.752762,53.396912,0.000000
+            6.752858,53.397146,0.000000
+            6.750931,53.400323,0.000000
+            6.747934,53.401300,0.000000
+            6.747654,53.403632,0.000000
+            6.751884,53.406748,0.000000
+            6.754545,53.407423,0.000000
+            6.757282,53.406601,0.000000
+            6.758161,53.404850,0.000000
+            6.756887,53.398464,0.000000
+            6.755488,53.398480,0.000000
+            6.755055,53.398231,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

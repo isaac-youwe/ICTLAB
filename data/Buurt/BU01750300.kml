@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01750300 Lemele Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.422522,52.453460,0.000000
+            6.416833,52.446829,0.000000
+            6.411329,52.449524,0.000000
+            6.410914,52.452317,0.000000
+            6.412921,52.455043,0.000000
+            6.419228,52.458017,0.000000
+            6.423117,52.456500,0.000000
+            6.422522,52.453460,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

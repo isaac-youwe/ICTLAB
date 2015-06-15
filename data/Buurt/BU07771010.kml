@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07771010 Sander Banken 3, Groot Sander</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.644291,51.589303,0.000000
+            4.643241,51.585455,0.000000
+            4.645483,51.584087,0.000000
+            4.645181,51.583760,0.000000
+            4.638591,51.582548,0.000000
+            4.634168,51.581221,0.000000
+            4.630893,51.580572,0.000000
+            4.631318,51.584967,0.000000
+            4.631350,51.586659,0.000000
+            4.634325,51.588563,0.000000
+            4.638501,51.587778,0.000000
+            4.644291,51.589303,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

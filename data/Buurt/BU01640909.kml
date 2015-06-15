@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640909 Verspreide huizen Beckum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.755644,52.217356,0.000000
+            6.759812,52.210116,0.000000
+            6.766904,52.202841,0.000000
+            6.766587,52.192617,0.000000
+            6.766542,52.191158,0.000000
+            6.763880,52.191903,0.000000
+            6.712864,52.206157,0.000000
+            6.702942,52.217056,0.000000
+            6.703022,52.219752,0.000000
+            6.711989,52.225945,0.000000
+            6.712055,52.226142,0.000000
+            6.729747,52.228104,0.000000
+            6.751445,52.223858,0.000000
+            6.756096,52.217683,0.000000
+            6.755644,52.217356,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.737624,52.208401,0.000000
+            6.738507,52.207914,0.000000
+            6.742509,52.208320,0.000000
+            6.747651,52.211092,0.000000
+            6.746902,52.213006,0.000000
+            6.743373,52.215599,0.000000
+            6.738242,52.212742,0.000000
+            6.738687,52.212155,0.000000
+            6.740158,52.210373,0.000000
+            6.737624,52.208401,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

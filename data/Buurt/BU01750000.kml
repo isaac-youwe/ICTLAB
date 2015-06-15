@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01750000 Ommen Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.428276,52.521417,0.000000
+            6.430379,52.518329,0.000000
+            6.430237,52.516637,0.000000
+            6.418078,52.517857,0.000000
+            6.418498,52.518645,0.000000
+            6.419667,52.520586,0.000000
+            6.422176,52.520556,0.000000
+            6.424429,52.523104,0.000000
+            6.425427,52.525170,0.000000
+            6.424748,52.526508,0.000000
+            6.426935,52.524782,0.000000
+            6.428276,52.521417,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

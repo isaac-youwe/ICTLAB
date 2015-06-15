@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17050002 Angeren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.956552,51.921354,0.000000
+            5.964121,51.917020,0.000000
+            5.964272,51.914968,0.000000
+            5.965976,51.913098,0.000000
+            5.971800,51.909466,0.000000
+            5.969142,51.907052,0.000000
+            5.959846,51.912513,0.000000
+            5.952099,51.908281,0.000000
+            5.948562,51.910365,0.000000
+            5.950586,51.917568,0.000000
+            5.952047,51.918596,0.000000
+            5.953247,51.917752,0.000000
+            5.956212,51.918652,0.000000
+            5.955005,51.920686,0.000000
+            5.956552,51.921354,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

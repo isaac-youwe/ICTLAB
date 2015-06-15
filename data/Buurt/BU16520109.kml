@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16520109 Verspreide huizen Heereveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.732737,51.590214,0.000000
+            5.742930,51.574948,0.000000
+            5.739936,51.574958,0.000000
+            5.725647,51.570683,0.000000
+            5.706938,51.567790,0.000000
+            5.711992,51.573769,0.000000
+            5.713280,51.573907,0.000000
+            5.714886,51.575943,0.000000
+            5.718861,51.576643,0.000000
+            5.719574,51.577586,0.000000
+            5.718120,51.580236,0.000000
+            5.714024,51.583244,0.000000
+            5.711999,51.583051,0.000000
+            5.710681,51.584195,0.000000
+            5.710009,51.586319,0.000000
+            5.710463,51.586599,0.000000
+            5.729546,51.589711,0.000000
+            5.732137,51.590133,0.000000
+            5.732737,51.590214,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

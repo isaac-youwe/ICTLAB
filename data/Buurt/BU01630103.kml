@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01630103 den Dam</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.455945,52.387294,0.000000
+            6.453552,52.387257,0.000000
+            6.451779,52.389415,0.000000
+            6.451867,52.391012,0.000000
+            6.454203,52.392492,0.000000
+            6.453591,52.393170,0.000000
+            6.455223,52.393463,0.000000
+            6.458061,52.392056,0.000000
+            6.455945,52.387294,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

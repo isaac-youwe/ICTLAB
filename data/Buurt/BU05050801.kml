@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05050801 Van Kinsbergenstraat en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.653364,51.790012,0.000000
+            4.656002,51.789991,0.000000
+            4.656225,51.790639,0.000000
+            4.658512,51.790595,0.000000
+            4.658592,51.787845,0.000000
+            4.663549,51.784626,0.000000
+            4.663743,51.783945,0.000000
+            4.654556,51.784223,0.000000
+            4.652921,51.784041,0.000000
+            4.652846,51.792010,0.000000
+            4.653364,51.790012,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03070501 Vlasakkers</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.350108,52.138747,0.000000
+            5.331625,52.133670,0.000000
+            5.330231,52.135383,0.000000
+            5.330351,52.135606,0.000000
+            5.335950,52.145965,0.000000
+            5.336557,52.146006,0.000000
+            5.343323,52.147039,0.000000
+            5.353498,52.150612,0.000000
+            5.354309,52.146369,0.000000
+            5.356364,52.145859,0.000000
+            5.355167,52.141459,0.000000
+            5.350108,52.138747,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

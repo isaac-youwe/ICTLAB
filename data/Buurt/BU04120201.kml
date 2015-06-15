@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04120201 t Veld en De Weel (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.851394,52.725897,0.000000
+            4.849671,52.725383,0.000000
+            4.849801,52.725626,0.000000
+            4.843957,52.732591,0.000000
+            4.844563,52.734782,0.000000
+            4.846195,52.736151,0.000000
+            4.846698,52.738892,0.000000
+            4.850722,52.742491,0.000000
+            4.855882,52.744994,0.000000
+            4.860602,52.742117,0.000000
+            4.867656,52.735706,0.000000
+            4.870582,52.734326,0.000000
+            4.853185,52.728493,0.000000
+            4.851091,52.727177,0.000000
+            4.851394,52.725897,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

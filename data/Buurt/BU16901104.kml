@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16901104 Weerwille</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.309443,52.716299,0.000000
+            6.305042,52.714773,0.000000
+            6.302185,52.718021,0.000000
+            6.300226,52.718136,0.000000
+            6.298328,52.720199,0.000000
+            6.301495,52.721541,0.000000
+            6.305325,52.720852,0.000000
+            6.309443,52.716299,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01141101 Emmermeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.896851,52.806092,0.000000
+            6.898087,52.804658,0.000000
+            6.901209,52.805413,0.000000
+            6.904538,52.804783,0.000000
+            6.899462,52.794923,0.000000
+            6.897483,52.791224,0.000000
+            6.892398,52.788835,0.000000
+            6.888821,52.788606,0.000000
+            6.888582,52.792246,0.000000
+            6.882171,52.802681,0.000000
+            6.884473,52.805411,0.000000
+            6.887056,52.803645,0.000000
+            6.896851,52.806092,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

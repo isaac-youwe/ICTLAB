@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03720002 Leidsevaart- Bloemhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.593328,52.323667,0.000000
+            4.590886,52.322102,0.000000
+            4.587622,52.323202,0.000000
+            4.587675,52.323258,0.000000
+            4.587659,52.324157,0.000000
+            4.587842,52.324446,0.000000
+            4.590512,52.328671,0.000000
+            4.590573,52.328671,0.000000
+            4.594182,52.326069,0.000000
+            4.593328,52.323667,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

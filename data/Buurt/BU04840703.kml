@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04840703 Hoogendoornlaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.715797,52.102673,0.000000
+            4.719442,52.102100,0.000000
+            4.720149,52.102595,0.000000
+            4.724331,52.099567,0.000000
+            4.724510,52.099374,0.000000
+            4.704151,52.094764,0.000000
+            4.698313,52.094730,0.000000
+            4.697484,52.094853,0.000000
+            4.663753,52.099832,0.000000
+            4.670443,52.111458,0.000000
+            4.672281,52.114508,0.000000
+            4.706518,52.106581,0.000000
+            4.712826,52.105128,0.000000
+            4.712434,52.104487,0.000000
+            4.715797,52.102673,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00630003 Nij Altoenae</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.656688,53.298220,0.000000
+            5.657311,53.293438,0.000000
+            5.650991,53.292741,0.000000
+            5.650612,53.296995,0.000000
+            5.651638,53.296964,0.000000
+            5.651441,53.300332,0.000000
+            5.655775,53.300356,0.000000
+            5.656688,53.298220,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

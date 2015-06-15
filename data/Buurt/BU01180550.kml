@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180550 Noordscheschut kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.537547,52.729207,0.000000
+            6.537417,52.726786,0.000000
+            6.545667,52.726479,0.000000
+            6.543191,52.724013,0.000000
+            6.539911,52.724028,0.000000
+            6.538695,52.719972,0.000000
+            6.527090,52.720485,0.000000
+            6.527924,52.727201,0.000000
+            6.526801,52.727239,0.000000
+            6.527022,52.728062,0.000000
+            6.535859,52.727616,0.000000
+            6.536110,52.729270,0.000000
+            6.537547,52.729207,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09930102 Tienray</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.108383,51.497150,0.000000
+            6.109577,51.492184,0.000000
+            6.105544,51.492340,0.000000
+            6.092894,51.484131,0.000000
+            6.092749,51.484229,0.000000
+            6.090089,51.484246,0.000000
+            6.089870,51.484247,0.000000
+            6.071166,51.485257,0.000000
+            6.068327,51.487971,0.000000
+            6.074195,51.495128,0.000000
+            6.074184,51.495145,0.000000
+            6.084073,51.498603,0.000000
+            6.092428,51.500208,0.000000
+            6.095347,51.501906,0.000000
+            6.108383,51.497150,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

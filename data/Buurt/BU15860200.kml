@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15860200 Harreveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.515555,51.981516,0.000000
+            6.521364,51.978802,0.000000
+            6.520271,51.975811,0.000000
+            6.517378,51.974806,0.000000
+            6.514936,51.974884,0.000000
+            6.514006,51.975611,0.000000
+            6.510737,51.978819,0.000000
+            6.509716,51.981094,0.000000
+            6.510810,51.981555,0.000000
+            6.511922,51.980319,0.000000
+            6.515555,51.981516,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

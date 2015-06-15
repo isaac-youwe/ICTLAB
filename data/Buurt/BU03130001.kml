@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03130001 Spakenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.388957,52.253027,0.000000
+            5.387106,52.247561,0.000000
+            5.384615,52.248126,0.000000
+            5.379192,52.248097,0.000000
+            5.378135,52.244791,0.000000
+            5.372749,52.245886,0.000000
+            5.373146,52.249199,0.000000
+            5.372807,52.252560,0.000000
+            5.377503,52.259273,0.000000
+            5.382808,52.257646,0.000000
+            5.388667,52.253151,0.000000
+            5.388957,52.253027,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

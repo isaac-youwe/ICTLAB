@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09173603 Benzenrade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.981573,50.860702,0.000000
+            5.971973,50.857797,0.000000
+            5.969585,50.860104,0.000000
+            5.969597,50.861003,0.000000
+            5.969329,50.861261,0.000000
+            5.973295,50.865207,0.000000
+            5.981749,50.867452,0.000000
+            5.983281,50.868428,0.000000
+            5.985204,50.865317,0.000000
+            5.986880,50.864430,0.000000
+            5.981573,50.860702,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

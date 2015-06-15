@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17310002 Holthe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.544939,52.845343,0.000000
+            6.547501,52.843201,0.000000
+            6.547413,52.841127,0.000000
+            6.545412,52.840694,0.000000
+            6.546933,52.837236,0.000000
+            6.540433,52.836452,0.000000
+            6.540816,52.839448,0.000000
+            6.539365,52.842300,0.000000
+            6.535981,52.842375,0.000000
+            6.535572,52.841493,0.000000
+            6.534183,52.841397,0.000000
+            6.532792,52.842351,0.000000
+            6.532900,52.845356,0.000000
+            6.536468,52.845405,0.000000
+            6.536581,52.844187,0.000000
+            6.542855,52.843801,0.000000
+            6.542638,52.845357,0.000000
+            6.544939,52.845343,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

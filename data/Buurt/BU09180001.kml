@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09180001 Koningslust</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.997667,51.373290,0.000000
+            5.999079,51.371485,0.000000
+            6.008925,51.356150,0.000000
+            6.014167,51.351974,0.000000
+            6.014606,51.351624,0.000000
+            6.023132,51.345285,0.000000
+            6.023256,51.345170,0.000000
+            6.008966,51.343849,0.000000
+            6.007609,51.341771,0.000000
+            5.999655,51.343181,0.000000
+            5.993891,51.343942,0.000000
+            5.996154,51.350399,0.000000
+            5.969884,51.348109,0.000000
+            5.974866,51.362619,0.000000
+            5.980362,51.372486,0.000000
+            5.980419,51.372480,0.000000
+            5.997667,51.373290,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

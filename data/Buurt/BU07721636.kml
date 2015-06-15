@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721636 Lake Forum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.381449,51.435120,0.000000
+            5.380011,51.435120,0.000000
+            5.379598,51.435275,0.000000
+            5.377717,51.441261,0.000000
+            5.393845,51.445888,0.000000
+            5.396346,51.442765,0.000000
+            5.395400,51.442149,0.000000
+            5.386851,51.437146,0.000000
+            5.381449,51.435120,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

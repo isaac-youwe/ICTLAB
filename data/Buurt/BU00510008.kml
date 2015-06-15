@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510008 Woudfennen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.793450,52.956583,0.000000
+            5.792099,52.954916,0.000000
+            5.784620,52.955345,0.000000
+            5.780963,52.956315,0.000000
+            5.776394,52.953182,0.000000
+            5.775160,52.953667,0.000000
+            5.771076,52.952024,0.000000
+            5.763153,52.956591,0.000000
+            5.751312,52.957197,0.000000
+            5.742310,52.962657,0.000000
+            5.748898,52.965775,0.000000
+            5.750745,52.968033,0.000000
+            5.753123,52.968955,0.000000
+            5.755319,52.969349,0.000000
+            5.755601,52.972108,0.000000
+            5.758854,52.973638,0.000000
+            5.778942,52.962922,0.000000
+            5.781381,52.962527,0.000000
+            5.782501,52.961778,0.000000
+            5.793450,52.956583,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

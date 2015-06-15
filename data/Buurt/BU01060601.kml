@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060601 Ubbena</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.577601,53.054866,0.000000
+            6.573544,53.040739,0.000000
+            6.571575,53.040820,0.000000
+            6.571420,53.037767,0.000000
+            6.568218,53.038025,0.000000
+            6.569452,53.039186,0.000000
+            6.573292,53.053969,0.000000
+            6.575133,53.053963,0.000000
+            6.575238,53.054773,0.000000
+            6.575625,53.054998,0.000000
+            6.577601,53.054866,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

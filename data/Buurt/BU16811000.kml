@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16811000 Odoorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.837780,52.866375,0.000000
+            6.844543,52.857198,0.000000
+            6.851576,52.857229,0.000000
+            6.854464,52.853222,0.000000
+            6.857814,52.853090,0.000000
+            6.858964,52.848130,0.000000
+            6.862061,52.847314,0.000000
+            6.860425,52.844579,0.000000
+            6.855958,52.845136,0.000000
+            6.856138,52.842401,0.000000
+            6.849772,52.842276,0.000000
+            6.849374,52.843447,0.000000
+            6.844018,52.843489,0.000000
+            6.843936,52.845388,0.000000
+            6.841005,52.845846,0.000000
+            6.839804,52.857583,0.000000
+            6.834864,52.865054,0.000000
+            6.836303,52.866310,0.000000
+            6.837780,52.866375,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

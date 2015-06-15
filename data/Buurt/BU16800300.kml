@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16800300 Gasteren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.662983,53.040558,0.000000
+            6.662809,53.039251,0.000000
+            6.670208,53.039233,0.000000
+            6.672994,53.036528,0.000000
+            6.666794,53.035800,0.000000
+            6.667078,53.033874,0.000000
+            6.661017,53.030753,0.000000
+            6.658879,53.033152,0.000000
+            6.660538,53.038487,0.000000
+            6.656457,53.040721,0.000000
+            6.657363,53.041300,0.000000
+            6.662983,53.040558,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

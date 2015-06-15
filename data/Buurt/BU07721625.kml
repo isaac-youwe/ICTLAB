@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721625 Zwaanstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.457660,51.449801,0.000000
+            5.451792,51.447888,0.000000
+            5.450537,51.449223,0.000000
+            5.448716,51.449635,0.000000
+            5.444445,51.447892,0.000000
+            5.441765,51.450387,0.000000
+            5.445853,51.453900,0.000000
+            5.448951,51.456365,0.000000
+            5.457660,51.449801,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

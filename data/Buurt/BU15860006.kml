@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15860006 Industrieterrein Brandemate</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.626153,52.034770,0.000000
+            6.625197,52.034415,0.000000
+            6.624576,52.035066,0.000000
+            6.620558,52.039438,0.000000
+            6.624048,52.039700,0.000000
+            6.624052,52.044785,0.000000
+            6.626097,52.045131,0.000000
+            6.628634,52.036892,0.000000
+            6.626153,52.034770,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

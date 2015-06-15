@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00630103 Nieuwe Bildtzijl en Nieuwe Bildtdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.721861,53.317139,0.000000
+            5.720230,53.313270,0.000000
+            5.715258,53.313337,0.000000
+            5.697867,53.308955,0.000000
+            5.679823,53.306964,0.000000
+            5.679763,53.307858,0.000000
+            5.682698,53.308017,0.000000
+            5.682516,53.311282,0.000000
+            5.693683,53.312622,0.000000
+            5.715073,53.317452,0.000000
+            5.721866,53.317741,0.000000
+            5.721866,53.317726,0.000000
+            5.721861,53.317139,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

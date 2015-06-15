@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04390202 De Koog</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.983518,52.515521,0.000000
+            4.971110,52.512405,0.000000
+            4.970199,52.517286,0.000000
+            4.970525,52.517319,0.000000
+            4.984699,52.518829,0.000000
+            4.986577,52.522053,0.000000
+            4.990817,52.520349,0.000000
+            4.990828,52.519163,0.000000
+            4.989355,52.518515,0.000000
+            4.983518,52.515521,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

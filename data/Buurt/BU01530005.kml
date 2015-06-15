@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01530005 Getfert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.899372,52.210418,0.000000
+            6.893667,52.209397,0.000000
+            6.889575,52.210036,0.000000
+            6.889251,52.212942,0.000000
+            6.887818,52.214301,0.000000
+            6.890914,52.217861,0.000000
+            6.896635,52.217514,0.000000
+            6.896273,52.216537,0.000000
+            6.900211,52.216255,0.000000
+            6.899372,52.210418,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

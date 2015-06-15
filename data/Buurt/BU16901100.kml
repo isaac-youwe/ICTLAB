@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16901100 Ruinerwold</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.257239,52.723373,0.000000
+            6.260682,52.719326,0.000000
+            6.255110,52.717746,0.000000
+            6.256313,52.715857,0.000000
+            6.250095,52.714268,0.000000
+            6.252113,52.711836,0.000000
+            6.247463,52.710992,0.000000
+            6.242757,52.718953,0.000000
+            6.243955,52.719619,0.000000
+            6.241937,52.718871,0.000000
+            6.240069,52.722983,0.000000
+            6.241459,52.723105,0.000000
+            6.240798,52.724508,0.000000
+            6.241856,52.724855,0.000000
+            6.240551,52.727024,0.000000
+            6.249453,52.728508,0.000000
+            6.257356,52.732000,0.000000
+            6.262237,52.726322,0.000000
+            6.258648,52.724900,0.000000
+            6.257239,52.723373,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

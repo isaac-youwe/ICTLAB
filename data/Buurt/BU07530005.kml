@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07530005 Heivelden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.369188,51.499402,0.000000
+            5.365604,51.498364,0.000000
+            5.361234,51.503247,0.000000
+            5.360694,51.506242,0.000000
+            5.370883,51.507538,0.000000
+            5.373984,51.508758,0.000000
+            5.377981,51.508732,0.000000
+            5.376533,51.504335,0.000000
+            5.376029,51.501578,0.000000
+            5.369188,51.499402,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

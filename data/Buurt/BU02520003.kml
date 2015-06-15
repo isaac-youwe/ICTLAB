@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02520003 Broekkant en Droge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.846613,51.790999,0.000000
+            5.842794,51.789778,0.000000
+            5.842228,51.790543,0.000000
+            5.837066,51.788056,0.000000
+            5.825107,51.797535,0.000000
+            5.826532,51.799275,0.000000
+            5.826738,51.799465,0.000000
+            5.831303,51.800099,0.000000
+            5.840526,51.794751,0.000000
+            5.844407,51.791315,0.000000
+            5.846613,51.790999,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

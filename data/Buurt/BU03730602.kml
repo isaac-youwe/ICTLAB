@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03730602 Wimmenum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.663019,52.631011,0.000000
+            4.655676,52.629946,0.000000
+            4.621916,52.630564,0.000000
+            4.621979,52.630901,0.000000
+            4.624767,52.639873,0.000000
+            4.659260,52.640770,0.000000
+            4.665284,52.642101,0.000000
+            4.666099,52.640844,0.000000
+            4.664997,52.639580,0.000000
+            4.667001,52.635684,0.000000
+            4.665640,52.635359,0.000000
+            4.665007,52.634105,0.000000
+            4.665881,52.631431,0.000000
+            4.663019,52.631011,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

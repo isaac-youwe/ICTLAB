@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721624 Drents Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.441765,51.450387,0.000000
+            5.444445,51.447892,0.000000
+            5.448716,51.449635,0.000000
+            5.450537,51.449223,0.000000
+            5.451792,51.447888,0.000000
+            5.448924,51.446785,0.000000
+            5.448621,51.444887,0.000000
+            5.443261,51.443431,0.000000
+            5.435442,51.447032,0.000000
+            5.441765,51.450387,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

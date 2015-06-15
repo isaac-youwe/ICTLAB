@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01580160 Verspreide huizen Langelo ten noorden Spoorlijn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.715450,52.158882,0.000000
+            6.715022,52.154409,0.000000
+            6.710697,52.154565,0.000000
+            6.709235,52.150479,0.000000
+            6.706699,52.149586,0.000000
+            6.700723,52.149001,0.000000
+            6.694429,52.157721,0.000000
+            6.699994,52.156683,0.000000
+            6.699805,52.157178,0.000000
+            6.716873,52.163338,0.000000
+            6.716694,52.162885,0.000000
+            6.714823,52.160080,0.000000
+            6.715450,52.158882,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

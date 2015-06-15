@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03770100 Overveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.606708,52.396090,0.000000
+            4.608677,52.395522,0.000000
+            4.611481,52.395829,0.000000
+            4.619302,52.394010,0.000000
+            4.623259,52.395687,0.000000
+            4.623110,52.395404,0.000000
+            4.623162,52.392378,0.000000
+            4.623172,52.391809,0.000000
+            4.621765,52.388204,0.000000
+            4.609981,52.389925,0.000000
+            4.607652,52.388470,0.000000
+            4.609122,52.390357,0.000000
+            4.603637,52.391278,0.000000
+            4.602853,52.393044,0.000000
+            4.606708,52.396090,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

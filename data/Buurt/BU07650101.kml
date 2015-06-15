@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07650101 Boven-Pekela</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.955394,53.014046,0.000000
+            6.955023,53.014051,0.000000
+            6.935848,53.019694,0.000000
+            6.914002,53.034356,0.000000
+            6.908198,53.038925,0.000000
+            6.905373,53.043455,0.000000
+            6.907388,53.043671,0.000000
+            6.920345,53.045062,0.000000
+            6.920503,53.049554,0.000000
+            6.933922,53.049381,0.000000
+            6.932669,53.053627,0.000000
+            6.933748,53.053751,0.000000
+            6.958284,53.042663,0.000000
+            6.944611,53.027806,0.000000
+            6.955411,53.014056,0.000000
+            6.955394,53.014046,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

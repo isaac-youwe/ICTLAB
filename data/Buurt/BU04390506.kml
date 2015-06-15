@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04390506 Golfterrein en verspreide bebouwing</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.998415,52.494308,0.000000
+            4.995623,52.491722,0.000000
+            4.984228,52.495889,0.000000
+            4.993535,52.504862,0.000000
+            4.999466,52.510584,0.000000
+            5.009948,52.506777,0.000000
+            4.998415,52.494308,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

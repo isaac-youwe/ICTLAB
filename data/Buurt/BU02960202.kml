@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02960202 Hernen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.685261,51.833707,0.000000
+            5.683058,51.828987,0.000000
+            5.681913,51.827521,0.000000
+            5.679593,51.830413,0.000000
+            5.678557,51.833185,0.000000
+            5.677404,51.831767,0.000000
+            5.674103,51.832755,0.000000
+            5.678282,51.836243,0.000000
+            5.679669,51.836775,0.000000
+            5.686469,51.835339,0.000000
+            5.685261,51.833707,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

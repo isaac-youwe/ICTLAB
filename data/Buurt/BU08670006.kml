@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08670006 Zanddonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.060448,51.671092,0.000000
+            5.057755,51.668556,0.000000
+            5.056067,51.671546,0.000000
+            5.060235,51.673394,0.000000
+            5.059554,51.677907,0.000000
+            5.060551,51.683631,0.000000
+            5.067634,51.684593,0.000000
+            5.067744,51.683835,0.000000
+            5.068427,51.679090,0.000000
+            5.069858,51.671118,0.000000
+            5.060448,51.671092,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

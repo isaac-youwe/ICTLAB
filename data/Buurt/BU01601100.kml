@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01601100 Dedemsvaart-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.480199,52.601277,0.000000
+            6.469386,52.599747,0.000000
+            6.469128,52.600972,0.000000
+            6.459647,52.599871,0.000000
+            6.444882,52.598153,0.000000
+            6.444580,52.605895,0.000000
+            6.484201,52.611590,0.000000
+            6.486721,52.609827,0.000000
+            6.486185,52.607600,0.000000
+            6.475034,52.606815,0.000000
+            6.477287,52.602979,0.000000
+            6.480813,52.602256,0.000000
+            6.480199,52.601277,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

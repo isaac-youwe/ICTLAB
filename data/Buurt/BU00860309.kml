@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00860309 Verspreide huizen Hemrik</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.136003,53.031369,0.000000
+            6.139520,53.027760,0.000000
+            6.144044,53.028394,0.000000
+            6.140584,53.032032,0.000000
+            6.157513,53.034440,0.000000
+            6.171705,53.019762,0.000000
+            6.159216,53.017341,0.000000
+            6.151749,53.016490,0.000000
+            6.139214,53.013344,0.000000
+            6.102035,53.047367,0.000000
+            6.110041,53.049843,0.000000
+            6.118724,53.051336,0.000000
+            6.125255,53.053638,0.000000
+            6.131549,53.055173,0.000000
+            6.133743,53.060178,0.000000
+            6.153495,53.038679,0.000000
+            6.133288,53.034922,0.000000
+            6.132120,53.034003,0.000000
+            6.132568,53.032122,0.000000
+            6.136003,53.031369,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

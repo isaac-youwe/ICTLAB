@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830500 Tirns</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.626884,53.057011,0.000000
+            5.623515,53.056313,0.000000
+            5.621238,53.056932,0.000000
+            5.620659,53.059075,0.000000
+            5.622646,53.061313,0.000000
+            5.624670,53.061824,0.000000
+            5.627896,53.060645,0.000000
+            5.629081,53.058889,0.000000
+            5.626884,53.057011,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

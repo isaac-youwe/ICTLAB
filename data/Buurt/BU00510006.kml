@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510006 Wyldehoarne</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.823689,52.966343,0.000000
+            5.822862,52.965282,0.000000
+            5.816377,52.966729,0.000000
+            5.817055,52.967655,0.000000
+            5.815287,52.970806,0.000000
+            5.816994,52.972926,0.000000
+            5.814638,52.973319,0.000000
+            5.816460,52.975379,0.000000
+            5.827174,52.972287,0.000000
+            5.823689,52.966343,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

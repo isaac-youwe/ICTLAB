@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550704 Berkelse Akkers</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.155732,51.590090,0.000000
+            5.156164,51.587868,0.000000
+            5.148556,51.589994,0.000000
+            5.147584,51.590407,0.000000
+            5.148709,51.591312,0.000000
+            5.147016,51.593441,0.000000
+            5.152746,51.594046,0.000000
+            5.155732,51.590090,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

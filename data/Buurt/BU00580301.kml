@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00580301 Lioessens</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.094828,53.379683,0.000000
+            6.093826,53.377764,0.000000
+            6.089728,53.375820,0.000000
+            6.089123,53.376875,0.000000
+            6.084553,53.377396,0.000000
+            6.084246,53.379259,0.000000
+            6.080079,53.378697,0.000000
+            6.079573,53.381066,0.000000
+            6.083857,53.383529,0.000000
+            6.087796,53.384038,0.000000
+            6.091596,53.383514,0.000000
+            6.093949,53.382182,0.000000
+            6.094828,53.379683,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

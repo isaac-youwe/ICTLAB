@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08600001 Veghel ten westen van rivier De Aa</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.540324,51.611908,0.000000
+            5.532636,51.608035,0.000000
+            5.522274,51.613509,0.000000
+            5.536749,51.615398,0.000000
+            5.528467,51.620869,0.000000
+            5.534488,51.622616,0.000000
+            5.536575,51.618732,0.000000
+            5.543691,51.614374,0.000000
+            5.544317,51.612952,0.000000
+            5.540324,51.611908,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

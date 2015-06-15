@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17210008 Verspreide huizen Zoggel en Groes</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.507717,51.718899,0.000000
+            5.501934,51.716313,0.000000
+            5.494881,51.717334,0.000000
+            5.493071,51.711953,0.000000
+            5.492843,51.711953,0.000000
+            5.488501,51.711957,0.000000
+            5.484164,51.713759,0.000000
+            5.478395,51.723652,0.000000
+            5.474783,51.728152,0.000000
+            5.474375,51.728660,0.000000
+            5.474275,51.729101,0.000000
+            5.495701,51.734402,0.000000
+            5.495352,51.732070,0.000000
+            5.511024,51.731524,0.000000
+            5.511065,51.722968,0.000000
+            5.513253,51.722551,0.000000
+            5.507717,51.718899,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

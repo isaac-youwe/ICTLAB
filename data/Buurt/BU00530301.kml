@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00530301 Sauwerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.535890,53.297626,0.000000
+            6.536198,53.295632,0.000000
+            6.540617,53.293014,0.000000
+            6.538863,53.290237,0.000000
+            6.533616,53.290492,0.000000
+            6.533123,53.293231,0.000000
+            6.531150,53.293458,0.000000
+            6.530248,53.294466,0.000000
+            6.530435,53.297060,0.000000
+            6.532190,53.296627,0.000000
+            6.533726,53.296597,0.000000
+            6.533946,53.297677,0.000000
+            6.535890,53.297626,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

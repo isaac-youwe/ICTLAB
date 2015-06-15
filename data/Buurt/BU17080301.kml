@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17080301 Ossenzijl</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.934831,52.795909,0.000000
+            5.931591,52.794528,0.000000
+            5.928564,52.795264,0.000000
+            5.919513,52.804217,0.000000
+            5.913785,52.805922,0.000000
+            5.909725,52.809796,0.000000
+            5.918187,52.813367,0.000000
+            5.920626,52.811304,0.000000
+            5.924822,52.810227,0.000000
+            5.927467,52.808224,0.000000
+            5.929160,52.803987,0.000000
+            5.934631,52.797735,0.000000
+            5.934831,52.795909,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09957780 Laserpoort</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.507560,52.482396,0.000000
+            5.535028,52.460707,0.000000
+            5.533893,52.459967,0.000000
+            5.536152,52.458334,0.000000
+            5.535468,52.458045,0.000000
+            5.522999,52.466924,0.000000
+            5.517965,52.464154,0.000000
+            5.500650,52.475894,0.000000
+            5.490066,52.470389,0.000000
+            5.486765,52.472595,0.000000
+            5.503194,52.480455,0.000000
+            5.507560,52.482396,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

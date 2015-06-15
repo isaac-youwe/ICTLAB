@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18590101 Eibergen-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.643886,52.087720,0.000000
+            6.640047,52.087738,0.000000
+            6.640410,52.088530,0.000000
+            6.636660,52.089895,0.000000
+            6.641229,52.092894,0.000000
+            6.636391,52.095671,0.000000
+            6.634315,52.098314,0.000000
+            6.631982,52.102964,0.000000
+            6.632970,52.105867,0.000000
+            6.634763,52.107786,0.000000
+            6.639142,52.107954,0.000000
+            6.643912,52.098719,0.000000
+            6.643395,52.095146,0.000000
+            6.642761,52.093811,0.000000
+            6.648008,52.090860,0.000000
+            6.643886,52.087720,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

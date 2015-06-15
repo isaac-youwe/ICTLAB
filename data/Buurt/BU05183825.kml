@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05183825 Laakkwartier-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.325409,52.055021,0.000000
+            4.324679,52.054712,0.000000
+            4.319124,52.060682,0.000000
+            4.324454,52.063723,0.000000
+            4.329132,52.066440,0.000000
+            4.327830,52.060968,0.000000
+            4.335051,52.059662,0.000000
+            4.335283,52.059411,0.000000
+            4.330206,52.057152,0.000000
+            4.325604,52.055104,0.000000
+            4.325409,52.055021,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

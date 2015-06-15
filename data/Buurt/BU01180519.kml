@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01180519 Erflanden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.436389,52.706036,0.000000
+            6.436381,52.706035,0.000000
+            6.437061,52.712959,0.000000
+            6.448524,52.712460,0.000000
+            6.454879,52.712120,0.000000
+            6.461594,52.711637,0.000000
+            6.459520,52.710311,0.000000
+            6.453377,52.708633,0.000000
+            6.451057,52.706796,0.000000
+            6.436389,52.706036,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

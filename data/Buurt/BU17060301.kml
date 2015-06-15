@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17060301 Kamersven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.646038,51.315627,0.000000
+            5.648986,51.308299,0.000000
+            5.639031,51.306269,0.000000
+            5.638011,51.308541,0.000000
+            5.634163,51.308184,0.000000
+            5.631314,51.311873,0.000000
+            5.629972,51.313068,0.000000
+            5.632547,51.313890,0.000000
+            5.631060,51.315628,0.000000
+            5.646038,51.315627,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

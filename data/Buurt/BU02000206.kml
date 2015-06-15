@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02000206 Orden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.923966,52.208462,0.000000
+            5.930236,52.207385,0.000000
+            5.935352,52.207905,0.000000
+            5.946086,52.202117,0.000000
+            5.933888,52.196256,0.000000
+            5.928123,52.193408,0.000000
+            5.926371,52.192617,0.000000
+            5.920681,52.193382,0.000000
+            5.918900,52.192189,0.000000
+            5.916125,52.193459,0.000000
+            5.919788,52.196415,0.000000
+            5.923028,52.195143,0.000000
+            5.923701,52.196969,0.000000
+            5.912943,52.199761,0.000000
+            5.912086,52.205020,0.000000
+            5.924596,52.206874,0.000000
+            5.923966,52.208462,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

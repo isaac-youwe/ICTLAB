@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02890105 Verspreide huizen Hogesteeg De Keyzer en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.672621,51.993921,0.000000
+            5.675516,51.991217,0.000000
+            5.678379,51.991210,0.000000
+            5.678429,51.991210,0.000000
+            5.682606,51.992058,0.000000
+            5.681086,51.984027,0.000000
+            5.678907,51.983671,0.000000
+            5.679455,51.982471,0.000000
+            5.677546,51.981583,0.000000
+            5.674458,51.981893,0.000000
+            5.673392,51.982601,0.000000
+            5.669574,51.980768,0.000000
+            5.665711,51.981002,0.000000
+            5.664471,51.982352,0.000000
+            5.663702,51.982096,0.000000
+            5.662948,51.983165,0.000000
+            5.672030,51.985641,0.000000
+            5.675408,51.988472,0.000000
+            5.674785,51.989851,0.000000
+            5.670507,51.989499,0.000000
+            5.666298,51.994835,0.000000
+            5.669715,51.994827,0.000000
+            5.672621,51.993921,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05950102 Ravensberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.732858,52.041827,0.000000
+            4.728981,52.030392,0.000000
+            4.719705,52.030535,0.000000
+            4.719631,52.035523,0.000000
+            4.719352,52.035692,0.000000
+            4.721249,52.042440,0.000000
+            4.726067,52.054044,0.000000
+            4.738871,52.051716,0.000000
+            4.732858,52.041827,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

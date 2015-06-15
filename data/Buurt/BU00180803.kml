@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00180803 Industriegebied Winschoterdiep</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.670735,53.183988,0.000000
+            6.671418,53.182334,0.000000
+            6.678177,53.183458,0.000000
+            6.679185,53.180035,0.000000
+            6.680711,53.179623,0.000000
+            6.684323,53.179657,0.000000
+            6.688242,53.181054,0.000000
+            6.689559,53.180849,0.000000
+            6.694000,53.176694,0.000000
+            6.704694,53.178861,0.000000
+            6.709947,53.174863,0.000000
+            6.705455,53.174359,0.000000
+            6.698328,53.170561,0.000000
+            6.697720,53.169060,0.000000
+            6.657697,53.181073,0.000000
+            6.656341,53.181479,0.000000
+            6.655189,53.184271,0.000000
+            6.661970,53.184820,0.000000
+            6.666172,53.185579,0.000000
+            6.670735,53.183988,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

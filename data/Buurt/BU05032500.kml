@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05032500 Reinier de Graafbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.333097,51.995594,0.000000
+            4.332091,51.995459,0.000000
+            4.332833,51.995836,0.000000
+            4.337138,51.998571,0.000000
+            4.337297,51.998740,0.000000
+            4.343681,51.999737,0.000000
+            4.344656,51.997149,0.000000
+            4.333097,51.995594,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

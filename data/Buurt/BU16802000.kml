@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16802000 Grolloo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.674875,52.937118,0.000000
+            6.677944,52.930243,0.000000
+            6.675963,52.930197,0.000000
+            6.675532,52.929698,0.000000
+            6.670670,52.930254,0.000000
+            6.669376,52.931516,0.000000
+            6.669557,52.933126,0.000000
+            6.664161,52.933006,0.000000
+            6.663053,52.931650,0.000000
+            6.661017,52.931908,0.000000
+            6.662224,52.935017,0.000000
+            6.665349,52.935201,0.000000
+            6.664609,52.937894,0.000000
+            6.667775,52.939094,0.000000
+            6.673351,52.939219,0.000000
+            6.676912,52.940098,0.000000
+            6.677925,52.938291,0.000000
+            6.674875,52.937118,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

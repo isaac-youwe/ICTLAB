@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08610003 DEkker</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.411526,51.410512,0.000000
+            5.404693,51.408315,0.000000
+            5.404553,51.409000,0.000000
+            5.400997,51.408228,0.000000
+            5.396181,51.415838,0.000000
+            5.410459,51.418042,0.000000
+            5.412514,51.411542,0.000000
+            5.411526,51.410512,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

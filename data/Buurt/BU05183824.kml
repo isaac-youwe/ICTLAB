@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05183824 Laakkwartier-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.321273,52.053267,0.000000
+            4.315985,52.050746,0.000000
+            4.315532,52.053905,0.000000
+            4.313440,52.055984,0.000000
+            4.311283,52.055982,0.000000
+            4.311761,52.057351,0.000000
+            4.319124,52.060682,0.000000
+            4.324679,52.054712,0.000000
+            4.321273,52.053267,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940987 Omgeving Abbenes</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.593158,52.250390,0.000000
+            4.638104,52.226511,0.000000
+            4.631167,52.221758,0.000000
+            4.627460,52.217101,0.000000
+            4.600765,52.216747,0.000000
+            4.582195,52.220919,0.000000
+            4.572704,52.218204,0.000000
+            4.558545,52.226008,0.000000
+            4.562232,52.228525,0.000000
+            4.593158,52.250390,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.589473,52.226417,0.000000
+            4.594789,52.225160,0.000000
+            4.594910,52.228965,0.000000
+            4.593450,52.233112,0.000000
+            4.596448,52.236061,0.000000
+            4.592728,52.237971,0.000000
+            4.584361,52.239050,0.000000
+            4.579871,52.238601,0.000000
+            4.579434,52.236792,0.000000
+            4.581911,52.236632,0.000000
+            4.585207,52.235375,0.000000
+            4.586218,52.232102,0.000000
+            4.590879,52.229801,0.000000
+            4.589473,52.226417,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

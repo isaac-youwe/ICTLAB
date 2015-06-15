@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02970103 Zuilichem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.151508,51.810988,0.000000
+            5.151263,51.808506,0.000000
+            5.144355,51.809754,0.000000
+            5.141658,51.809416,0.000000
+            5.139091,51.804595,0.000000
+            5.134811,51.804804,0.000000
+            5.122660,51.807342,0.000000
+            5.124430,51.809480,0.000000
+            5.128713,51.809895,0.000000
+            5.135864,51.812745,0.000000
+            5.143296,51.811351,0.000000
+            5.151508,51.810988,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

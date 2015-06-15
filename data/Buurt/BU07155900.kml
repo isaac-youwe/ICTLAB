@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07155900 Verspreide huizen Koewacht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.962712,51.220529,0.000000
+            3.958558,51.215982,0.000000
+            3.952834,51.215912,0.000000
+            3.947110,51.215841,0.000000
+            3.944276,51.214907,0.000000
+            3.942901,51.213091,0.000000
+            3.935775,51.212103,0.000000
+            3.929794,51.220121,0.000000
+            3.929290,51.219791,0.000000
+            3.926634,51.226743,0.000000
+            3.945911,51.232771,0.000000
+            3.943694,51.228581,0.000000
+            3.949296,51.225287,0.000000
+            3.963982,51.224006,0.000000
+            3.962712,51.220529,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.981890,51.248812,0.000000
+            3.970444,51.240683,0.000000
+            3.956172,51.244778,0.000000
+            3.950980,51.242893,0.000000
+            3.944452,51.241815,0.000000
+            3.934593,51.241215,0.000000
+            3.930193,51.242721,0.000000
+            3.919584,51.242714,0.000000
+            3.918924,51.245138,0.000000
+            3.912971,51.253147,0.000000
+            3.914560,51.253394,0.000000
+            3.974734,51.261134,0.000000
+            3.981466,51.262628,0.000000
+            3.981890,51.248812,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

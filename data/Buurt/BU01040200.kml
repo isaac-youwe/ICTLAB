@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01040200 Hemelum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.454845,52.883591,0.000000
+            5.461394,52.883248,0.000000
+            5.470790,52.884479,0.000000
+            5.473277,52.884037,0.000000
+            5.474378,52.882522,0.000000
+            5.470971,52.879621,0.000000
+            5.468712,52.876073,0.000000
+            5.461491,52.875698,0.000000
+            5.457433,52.876870,0.000000
+            5.453603,52.879619,0.000000
+            5.452819,52.882990,0.000000
+            5.450657,52.885855,0.000000
+            5.452705,52.886060,0.000000
+            5.454845,52.883591,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

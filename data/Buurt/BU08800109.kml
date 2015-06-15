@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08800109 Verspreide huizen ten noorden van De Middentocht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.916092,52.501816,0.000000
+            4.841192,52.472958,0.000000
+            4.841099,52.473014,0.000000
+            4.838099,52.477494,0.000000
+            4.836773,52.479863,0.000000
+            4.840603,52.482646,0.000000
+            4.849932,52.490122,0.000000
+            4.862358,52.497883,0.000000
+            4.867006,52.500443,0.000000
+            4.871403,52.501378,0.000000
+            4.876807,52.503971,0.000000
+            4.890495,52.509030,0.000000
+            4.906875,52.510163,0.000000
+            4.916092,52.501816,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

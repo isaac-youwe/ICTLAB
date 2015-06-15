@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08080300 Maren-Kessel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.398805,51.792868,0.000000
+            5.393087,51.791862,0.000000
+            5.389802,51.795249,0.000000
+            5.389549,51.796614,0.000000
+            5.393936,51.797543,0.000000
+            5.398670,51.799276,0.000000
+            5.401585,51.795924,0.000000
+            5.398198,51.794902,0.000000
+            5.398805,51.792868,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

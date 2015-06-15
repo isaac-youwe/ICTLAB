@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07790200 Geertruidenberg-Kom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.866056,51.704692,0.000000
+            4.867437,51.699705,0.000000
+            4.865396,51.696943,0.000000
+            4.857661,51.696170,0.000000
+            4.856488,51.698167,0.000000
+            4.852108,51.697669,0.000000
+            4.854488,51.701881,0.000000
+            4.854285,51.703279,0.000000
+            4.856881,51.702705,0.000000
+            4.862496,51.703751,0.000000
+            4.866056,51.704692,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

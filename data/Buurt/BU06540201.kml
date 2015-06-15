@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06540201 Hoedekenskerke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.917525,51.424063,0.000000
+            3.916273,51.421546,0.000000
+            3.911814,51.421843,0.000000
+            3.911417,51.423743,0.000000
+            3.905753,51.425141,0.000000
+            3.906063,51.426192,0.000000
+            3.908850,51.427627,0.000000
+            3.913551,51.427112,0.000000
+            3.917573,51.424196,0.000000
+            3.917525,51.424063,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

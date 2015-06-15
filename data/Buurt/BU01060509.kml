@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060509 Verspreide huizen Loon</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.603848,53.033411,0.000000
+            6.630447,53.025955,0.000000
+            6.631937,53.025939,0.000000
+            6.630370,53.023259,0.000000
+            6.633325,53.022329,0.000000
+            6.631706,53.017852,0.000000
+            6.630165,53.016071,0.000000
+            6.622612,53.012554,0.000000
+            6.616526,53.008122,0.000000
+            6.613470,53.005457,0.000000
+            6.612888,53.004460,0.000000
+            6.606331,53.007672,0.000000
+            6.601556,53.009597,0.000000
+            6.602697,53.011644,0.000000
+            6.600533,53.012390,0.000000
+            6.601491,53.013933,0.000000
+            6.601224,53.029818,0.000000
+            6.603193,53.033191,0.000000
+            6.603848,53.033411,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.610337,53.010078,0.000000
+            6.614046,53.009499,0.000000
+            6.617070,53.010127,0.000000
+            6.617361,53.011375,0.000000
+            6.616590,53.015410,0.000000
+            6.613895,53.016040,0.000000
+            6.609818,53.014580,0.000000
+            6.608449,53.012062,0.000000
+            6.610337,53.010078,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

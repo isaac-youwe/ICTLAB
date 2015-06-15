@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05970007 Bolnes</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.593335,51.890202,0.000000
+            4.589573,51.882724,0.000000
+            4.580756,51.886063,0.000000
+            4.577966,51.878076,0.000000
+            4.570848,51.874566,0.000000
+            4.567621,51.878143,0.000000
+            4.569453,51.878156,0.000000
+            4.569452,51.878186,0.000000
+            4.569436,51.879055,0.000000
+            4.574881,51.897890,0.000000
+            4.574905,51.897971,0.000000
+            4.576261,51.903374,0.000000
+            4.582122,51.900718,0.000000
+            4.589483,51.895374,0.000000
+            4.594407,51.893892,0.000000
+            4.589470,51.891465,0.000000
+            4.593335,51.890202,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

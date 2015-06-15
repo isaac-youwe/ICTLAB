@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16710200 Vinkel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.468526,51.701750,0.000000
+            5.453062,51.700359,0.000000
+            5.454204,51.707246,0.000000
+            5.469672,51.710118,0.000000
+            5.471840,51.707551,0.000000
+            5.468821,51.706345,0.000000
+            5.469574,51.704007,0.000000
+            5.468526,51.701750,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

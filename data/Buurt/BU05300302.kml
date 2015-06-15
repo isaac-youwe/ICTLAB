@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05300302 Gorsingen Hoeck</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.159820,51.823279,0.000000
+            4.158470,51.821532,0.000000
+            4.155545,51.822401,0.000000
+            4.146867,51.821410,0.000000
+            4.142796,51.823030,0.000000
+            4.146932,51.825359,0.000000
+            4.155983,51.827101,0.000000
+            4.159820,51.823279,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

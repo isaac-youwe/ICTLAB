@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130701 Molenbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.746761,52.007136,0.000000
+            4.741752,52.004302,0.000000
+            4.738165,52.006476,0.000000
+            4.738338,52.010699,0.000000
+            4.739619,52.010847,0.000000
+            4.738874,52.013394,0.000000
+            4.744958,52.012076,0.000000
+            4.744704,52.010744,0.000000
+            4.746635,52.009980,0.000000
+            4.746761,52.007136,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

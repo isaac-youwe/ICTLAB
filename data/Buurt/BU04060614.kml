@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04060614 Bovenweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.240247,52.299809,0.000000
+            5.242104,52.299126,0.000000
+            5.244352,52.299438,0.000000
+            5.250458,52.297007,0.000000
+            5.253330,52.297037,0.000000
+            5.250032,52.292004,0.000000
+            5.244872,52.292872,0.000000
+            5.240738,52.298440,0.000000
+            5.240247,52.299809,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640204 t Rot</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.823061,52.277712,0.000000
+            6.828101,52.276665,0.000000
+            6.837694,52.276766,0.000000
+            6.838064,52.276598,0.000000
+            6.834018,52.274213,0.000000
+            6.825542,52.271050,0.000000
+            6.823790,52.270397,0.000000
+            6.823529,52.275326,0.000000
+            6.822185,52.276819,0.000000
+            6.820059,52.277510,0.000000
+            6.818800,52.277499,0.000000
+            6.817681,52.275714,0.000000
+            6.807060,52.278556,0.000000
+            6.811968,52.280993,0.000000
+            6.823061,52.277712,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

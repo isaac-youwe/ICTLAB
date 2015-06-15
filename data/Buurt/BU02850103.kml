@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02850103 Terwolde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.116330,52.269331,0.000000
+            6.105373,52.268817,0.000000
+            6.104490,52.273512,0.000000
+            6.100979,52.278134,0.000000
+            6.096536,52.279745,0.000000
+            6.093612,52.284292,0.000000
+            6.100150,52.286116,0.000000
+            6.102588,52.284132,0.000000
+            6.102175,52.283596,0.000000
+            6.104820,52.278678,0.000000
+            6.110111,52.277006,0.000000
+            6.116330,52.269331,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

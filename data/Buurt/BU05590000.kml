@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05590000 Middelharnis-Sommelsdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.157107,51.768280,0.000000
+            4.165647,51.762807,0.000000
+            4.171239,51.760511,0.000000
+            4.166192,51.756553,0.000000
+            4.156937,51.754730,0.000000
+            4.145837,51.754506,0.000000
+            4.146718,51.760252,0.000000
+            4.145312,51.761688,0.000000
+            4.146873,51.763696,0.000000
+            4.149042,51.765153,0.000000
+            4.152429,51.765655,0.000000
+            4.154235,51.765811,0.000000
+            4.155118,51.764451,0.000000
+            4.157107,51.768280,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

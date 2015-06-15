@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03050006 Rijksstraatweg-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.994334,52.252056,0.000000
+            4.993539,52.251878,0.000000
+            4.992057,52.252341,0.000000
+            4.991349,52.255401,0.000000
+            4.987623,52.257673,0.000000
+            4.988471,52.259167,0.000000
+            4.990926,52.258703,0.000000
+            4.996605,52.254238,0.000000
+            4.994334,52.252056,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

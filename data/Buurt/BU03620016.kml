@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03620016 Bovenkerk en Legmeer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.841872,52.286381,0.000000
+            4.839431,52.278669,0.000000
+            4.834449,52.279362,0.000000
+            4.833839,52.278525,0.000000
+            4.832138,52.281311,0.000000
+            4.835791,52.286711,0.000000
+            4.839985,52.292113,0.000000
+            4.843372,52.291666,0.000000
+            4.841872,52.286381,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

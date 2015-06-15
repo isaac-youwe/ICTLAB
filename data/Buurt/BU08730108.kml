@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08730108 Verspreide huizen ten zuiden van Huijbergen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.394889,51.428202,0.000000
+            4.389216,51.424558,0.000000
+            4.383544,51.420913,0.000000
+            4.391008,51.408390,0.000000
+            4.391130,51.408290,0.000000
+            4.359625,51.415082,0.000000
+            4.361884,51.419879,0.000000
+            4.365306,51.421124,0.000000
+            4.364646,51.422372,0.000000
+            4.366948,51.425697,0.000000
+            4.374641,51.427712,0.000000
+            4.377440,51.428641,0.000000
+            4.377705,51.426731,0.000000
+            4.380248,51.426592,0.000000
+            4.379908,51.429268,0.000000
+            4.386205,51.430754,0.000000
+            4.385621,51.431240,0.000000
+            4.392374,51.432424,0.000000
+            4.396554,51.430356,0.000000
+            4.394889,51.428202,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

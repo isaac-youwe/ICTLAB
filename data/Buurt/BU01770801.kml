@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770801 Heino-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.244702,52.429812,0.000000
+            6.241556,52.428595,0.000000
+            6.239641,52.432947,0.000000
+            6.237400,52.434420,0.000000
+            6.234254,52.434658,0.000000
+            6.234805,52.440695,0.000000
+            6.239141,52.438286,0.000000
+            6.245335,52.437666,0.000000
+            6.242967,52.435082,0.000000
+            6.243336,52.430392,0.000000
+            6.244702,52.429812,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

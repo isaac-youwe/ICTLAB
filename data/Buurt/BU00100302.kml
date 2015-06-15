@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00100302 Holwierde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.882909,53.357254,0.000000
+            6.881923,53.355040,0.000000
+            6.880042,53.355076,0.000000
+            6.880038,53.356139,0.000000
+            6.878369,53.356135,0.000000
+            6.865676,53.354554,0.000000
+            6.862604,53.356595,0.000000
+            6.861629,53.359950,0.000000
+            6.863334,53.363468,0.000000
+            6.866252,53.364529,0.000000
+            6.880266,53.359061,0.000000
+            6.882909,53.357254,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

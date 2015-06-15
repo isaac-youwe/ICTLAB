@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110939 Nieuwstadt centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.858333,51.042303,0.000000
+            5.858772,51.040087,0.000000
+            5.861889,51.040558,0.000000
+            5.864264,51.036196,0.000000
+            5.859875,51.033658,0.000000
+            5.850653,51.032189,0.000000
+            5.850570,51.032350,0.000000
+            5.849189,51.036850,0.000000
+            5.853476,51.037732,0.000000
+            5.850843,51.041960,0.000000
+            5.858333,51.042303,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

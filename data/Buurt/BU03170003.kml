@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03170003 Wakkerendijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.255538,52.224314,0.000000
+            5.251075,52.224309,0.000000
+            5.250630,52.224323,0.000000
+            5.251246,52.225739,0.000000
+            5.260546,52.246226,0.000000
+            5.267137,52.245801,0.000000
+            5.258870,52.224317,0.000000
+            5.258393,52.224317,0.000000
+            5.255538,52.224314,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03620011 Keizer Karelpark-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.854516,52.289461,0.000000
+            4.853113,52.285096,0.000000
+            4.841872,52.286381,0.000000
+            4.843372,52.291666,0.000000
+            4.845575,52.299693,0.000000
+            4.849962,52.303600,0.000000
+            4.856660,52.301522,0.000000
+            4.854801,52.297389,0.000000
+            4.854516,52.289461,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

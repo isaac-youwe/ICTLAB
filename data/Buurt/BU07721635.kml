@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721635 Waterrijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.403207,51.439429,0.000000
+            5.405175,51.436694,0.000000
+            5.404463,51.436917,0.000000
+            5.400147,51.433321,0.000000
+            5.397435,51.433887,0.000000
+            5.395833,51.434221,0.000000
+            5.394394,51.434221,0.000000
+            5.388641,51.437817,0.000000
+            5.386851,51.437146,0.000000
+            5.395400,51.442149,0.000000
+            5.397690,51.440664,0.000000
+            5.403207,51.439429,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

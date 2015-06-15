@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01932240 Millingen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.067170,52.542471,0.000000
+            6.064584,52.538106,0.000000
+            6.059938,52.539140,0.000000
+            6.058127,52.534835,0.000000
+            6.062042,52.533713,0.000000
+            6.060614,52.531118,0.000000
+            6.055146,52.532474,0.000000
+            6.053028,52.531942,0.000000
+            6.046259,52.541133,0.000000
+            6.051850,52.542895,0.000000
+            6.056520,52.549528,0.000000
+            6.067893,52.553664,0.000000
+            6.062824,52.543856,0.000000
+            6.067170,52.542471,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06540103 s-Heer-Abtskerke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.886465,51.473352,0.000000
+            3.883446,51.471294,0.000000
+            3.883436,51.468761,0.000000
+            3.884681,51.467607,0.000000
+            3.882755,51.466757,0.000000
+            3.878168,51.468895,0.000000
+            3.876079,51.471307,0.000000
+            3.877940,51.472297,0.000000
+            3.878906,51.471586,0.000000
+            3.882931,51.473432,0.000000
+            3.886465,51.473352,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15860105 Buurt Vragender</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.627745,51.992550,0.000000
+            6.621972,51.985345,0.000000
+            6.627434,51.985096,0.000000
+            6.624543,51.978043,0.000000
+            6.607988,51.979156,0.000000
+            6.598493,51.981634,0.000000
+            6.596635,51.982987,0.000000
+            6.596352,51.986677,0.000000
+            6.599308,51.990723,0.000000
+            6.604706,51.990188,0.000000
+            6.620252,51.992563,0.000000
+            6.627745,51.992550,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.608086,51.985050,0.000000
+            6.615235,51.984771,0.000000
+            6.615730,51.986654,0.000000
+            6.614031,51.987472,0.000000
+            6.608262,51.988407,0.000000
+            6.606613,51.986933,0.000000
+            6.606962,51.985630,0.000000
+            6.608086,51.985050,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

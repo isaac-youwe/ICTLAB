@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280704 Hazenkamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.499436,51.763681,0.000000
+            5.491979,51.761014,0.000000
+            5.489324,51.765981,0.000000
+            5.489421,51.769523,0.000000
+            5.492899,51.770078,0.000000
+            5.495690,51.769518,0.000000
+            5.494485,51.767892,0.000000
+            5.495544,51.765571,0.000000
+            5.496826,51.765158,0.000000
+            5.499436,51.763681,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

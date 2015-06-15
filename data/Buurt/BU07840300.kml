@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07840300 Hulten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.957652,51.571126,0.000000
+            4.953764,51.569690,0.000000
+            4.951758,51.569788,0.000000
+            4.951013,51.570894,0.000000
+            4.947012,51.571029,0.000000
+            4.947807,51.575228,0.000000
+            4.958183,51.572140,0.000000
+            4.957652,51.571126,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

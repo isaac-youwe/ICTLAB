@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110630 Maria Hoop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.966703,51.083117,0.000000
+            5.968665,51.082036,0.000000
+            5.968135,51.080569,0.000000
+            5.965743,51.078639,0.000000
+            5.962864,51.078454,0.000000
+            5.957896,51.082031,0.000000
+            5.957589,51.083514,0.000000
+            5.958502,51.083660,0.000000
+            5.958865,51.082730,0.000000
+            5.961743,51.083321,0.000000
+            5.961242,51.086662,0.000000
+            5.964903,51.090930,0.000000
+            5.971411,51.094025,0.000000
+            5.970563,51.092598,0.000000
+            5.972053,51.087818,0.000000
+            5.970909,51.084860,0.000000
+            5.968034,51.084795,0.000000
+            5.966703,51.083117,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

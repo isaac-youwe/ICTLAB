@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06450207 Verspreide huizen Vriezekoopse polder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.722778,52.216225,0.000000
+            4.724863,52.213108,0.000000
+            4.716139,52.215913,0.000000
+            4.702843,52.220483,0.000000
+            4.682798,52.223446,0.000000
+            4.683425,52.225950,0.000000
+            4.687488,52.226809,0.000000
+            4.696186,52.232253,0.000000
+            4.703478,52.234094,0.000000
+            4.724001,52.232413,0.000000
+            4.722778,52.216225,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

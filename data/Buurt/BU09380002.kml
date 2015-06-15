@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09380002 Weert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.730830,50.890027,0.000000
+            5.735780,50.887743,0.000000
+            5.738567,50.889161,0.000000
+            5.737184,50.883937,0.000000
+            5.735367,50.881004,0.000000
+            5.735373,50.881723,0.000000
+            5.732544,50.883529,0.000000
+            5.726859,50.883546,0.000000
+            5.725491,50.890742,0.000000
+            5.725272,50.891022,0.000000
+            5.730830,50.890027,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01840004 Havens en industrieterrein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.623666,52.650206,0.000000
+            5.622188,52.650209,0.000000
+            5.616282,52.651119,0.000000
+            5.601529,52.656540,0.000000
+            5.601546,52.660135,0.000000
+            5.598879,52.660952,0.000000
+            5.603201,52.660767,0.000000
+            5.605952,52.660623,0.000000
+            5.610602,52.658305,0.000000
+            5.613793,52.658298,0.000000
+            5.625017,52.658108,0.000000
+            5.627745,52.657616,0.000000
+            5.627420,52.650199,0.000000
+            5.623666,52.650206,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07530001 Naastenbest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.387269,51.511752,0.000000
+            5.394853,51.503469,0.000000
+            5.382342,51.499182,0.000000
+            5.377502,51.504337,0.000000
+            5.376533,51.504335,0.000000
+            5.377981,51.508732,0.000000
+            5.381895,51.510124,0.000000
+            5.382366,51.511090,0.000000
+            5.387269,51.511752,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

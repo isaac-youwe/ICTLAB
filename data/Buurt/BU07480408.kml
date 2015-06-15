@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07480408 Verspreide huizen Vrederust</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.311689,51.524582,0.000000
+            4.307279,51.519199,0.000000
+            4.308344,51.517734,0.000000
+            4.307634,51.515172,0.000000
+            4.306419,51.511650,0.000000
+            4.304664,51.510749,0.000000
+            4.303359,51.512170,0.000000
+            4.301840,51.511762,0.000000
+            4.293676,51.514057,0.000000
+            4.290825,51.517904,0.000000
+            4.293961,51.522207,0.000000
+            4.292099,51.522595,0.000000
+            4.287351,51.521912,0.000000
+            4.286231,51.523838,0.000000
+            4.288218,51.527627,0.000000
+            4.293734,51.530891,0.000000
+            4.298499,51.531075,0.000000
+            4.304466,51.528914,0.000000
+            4.308829,51.524687,0.000000
+            4.311689,51.524582,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

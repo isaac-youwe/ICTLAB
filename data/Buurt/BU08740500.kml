@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08740500 Uitwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.012627,51.789979,0.000000
+            5.013038,51.786047,0.000000
+            5.008586,51.784028,0.000000
+            5.010772,51.780067,0.000000
+            4.998711,51.782332,0.000000
+            5.001183,51.789684,0.000000
+            5.009736,51.789313,0.000000
+            5.012627,51.789979,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

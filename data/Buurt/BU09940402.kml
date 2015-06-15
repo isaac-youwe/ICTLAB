@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09940402 Vilt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.815717,50.854254,0.000000
+            5.813010,50.853679,0.000000
+            5.802017,50.857234,0.000000
+            5.801749,50.860217,0.000000
+            5.811268,50.862217,0.000000
+            5.812304,50.861987,0.000000
+            5.814822,50.861428,0.000000
+            5.815098,50.859485,0.000000
+            5.817409,50.859085,0.000000
+            5.819207,50.857626,0.000000
+            5.815717,50.854254,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

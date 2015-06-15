@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02740200 Heveadorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.819488,51.971899,0.000000
+            5.809494,51.969296,0.000000
+            5.808957,51.969718,0.000000
+            5.806468,51.975447,0.000000
+            5.808829,51.977522,0.000000
+            5.813255,51.976930,0.000000
+            5.818907,51.973443,0.000000
+            5.819513,51.971906,0.000000
+            5.819488,51.971899,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

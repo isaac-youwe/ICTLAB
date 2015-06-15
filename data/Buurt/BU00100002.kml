@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00100002 Delfzijl-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.924177,53.334060,0.000000
+            6.899773,53.331133,0.000000
+            6.898144,53.332792,0.000000
+            6.893696,53.332950,0.000000
+            6.893025,53.334337,0.000000
+            6.894202,53.335440,0.000000
+            6.896401,53.335814,0.000000
+            6.897881,53.339096,0.000000
+            6.905828,53.347246,0.000000
+            6.908561,53.347211,0.000000
+            6.926256,53.337998,0.000000
+            6.930512,53.335339,0.000000
+            6.924177,53.334060,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

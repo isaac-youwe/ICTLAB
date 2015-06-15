@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06290100 De Paauw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.395904,52.142486,0.000000
+            4.406982,52.137953,0.000000
+            4.398254,52.132685,0.000000
+            4.388544,52.139195,0.000000
+            4.388931,52.139528,0.000000
+            4.391897,52.139155,0.000000
+            4.394548,52.140315,0.000000
+            4.395904,52.142486,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

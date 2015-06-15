@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440557 Galgenwaard en Kromhoutkazerne</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.147059,52.077194,0.000000
+            5.141207,52.077131,0.000000
+            5.142918,52.079528,0.000000
+            5.147807,52.085041,0.000000
+            5.152446,52.084163,0.000000
+            5.155736,52.081185,0.000000
+            5.147059,52.077194,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

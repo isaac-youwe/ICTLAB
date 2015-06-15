@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05051901 Handelskade en s-Gravendeelsedijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.649235,51.802164,0.000000
+            4.644298,51.800768,0.000000
+            4.643620,51.801332,0.000000
+            4.642094,51.800513,0.000000
+            4.641301,51.798576,0.000000
+            4.638268,51.799510,0.000000
+            4.642028,51.804066,0.000000
+            4.640667,51.805088,0.000000
+            4.647566,51.809453,0.000000
+            4.647673,51.809521,0.000000
+            4.649708,51.807492,0.000000
+            4.646775,51.804380,0.000000
+            4.649235,51.802164,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

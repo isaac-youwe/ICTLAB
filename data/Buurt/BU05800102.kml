@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05800102 Kranendijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.255870,51.673083,0.000000
+            4.254044,51.672991,0.000000
+            4.251519,51.674221,0.000000
+            4.251826,51.676746,0.000000
+            4.255701,51.685879,0.000000
+            4.257840,51.686886,0.000000
+            4.259468,51.685498,0.000000
+            4.256800,51.677929,0.000000
+            4.256716,51.673919,0.000000
+            4.255870,51.673083,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

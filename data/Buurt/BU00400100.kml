@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00400100 Schildwolde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.815646,53.219921,0.000000
+            6.813368,53.218428,0.000000
+            6.801868,53.224354,0.000000
+            6.797764,53.225273,0.000000
+            6.793851,53.226932,0.000000
+            6.797639,53.231121,0.000000
+            6.804974,53.235114,0.000000
+            6.813722,53.239723,0.000000
+            6.818176,53.240750,0.000000
+            6.823532,53.242017,0.000000
+            6.829709,53.234407,0.000000
+            6.823693,53.232749,0.000000
+            6.812275,53.222368,0.000000
+            6.812227,53.221420,0.000000
+            6.815646,53.219921,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

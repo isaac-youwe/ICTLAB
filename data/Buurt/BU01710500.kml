@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01710500 Nagele kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.731165,52.646418,0.000000
+            5.730289,52.639583,0.000000
+            5.718422,52.639474,0.000000
+            5.710906,52.642468,0.000000
+            5.710748,52.644994,0.000000
+            5.713860,52.644825,0.000000
+            5.721361,52.645004,0.000000
+            5.722556,52.649707,0.000000
+            5.730406,52.649430,0.000000
+            5.731165,52.646418,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

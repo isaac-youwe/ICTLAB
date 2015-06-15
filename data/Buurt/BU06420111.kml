@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06420111 Winkelcentrum Walburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.654213,51.820887,0.000000
+            4.651184,51.820334,0.000000
+            4.650634,51.820530,0.000000
+            4.647305,51.821714,0.000000
+            4.648504,51.822610,0.000000
+            4.650552,51.824225,0.000000
+            4.656011,51.822416,0.000000
+            4.654213,51.820887,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

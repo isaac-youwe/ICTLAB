@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05300402 Morgen Stont</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.164712,51.839580,0.000000
+            4.167295,51.835442,0.000000
+            4.168931,51.834566,0.000000
+            4.174553,51.831505,0.000000
+            4.171321,51.829222,0.000000
+            4.169877,51.829867,0.000000
+            4.166869,51.829200,0.000000
+            4.163323,51.832173,0.000000
+            4.159934,51.831696,0.000000
+            4.159195,51.832530,0.000000
+            4.162719,51.833008,0.000000
+            4.162935,51.835850,0.000000
+            4.159731,51.835611,0.000000
+            4.156889,51.836982,0.000000
+            4.157992,51.837432,0.000000
+            4.161836,51.838998,0.000000
+            4.166552,51.840947,0.000000
+            4.167097,51.840370,0.000000
+            4.164712,51.839580,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

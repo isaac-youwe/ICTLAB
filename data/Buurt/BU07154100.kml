@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07154100 Sluiskil (buitengebied Oost)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.873737,51.268696,0.000000
+            3.860247,51.267746,0.000000
+            3.846600,51.271466,0.000000
+            3.843352,51.275056,0.000000
+            3.841186,51.275365,0.000000
+            3.838506,51.284170,0.000000
+            3.835606,51.293692,0.000000
+            3.840167,51.294349,0.000000
+            3.845112,51.296738,0.000000
+            3.857367,51.303693,0.000000
+            3.872444,51.284879,0.000000
+            3.875900,51.276052,0.000000
+            3.878162,51.273285,0.000000
+            3.878111,51.270629,0.000000
+            3.876011,51.268725,0.000000
+            3.873737,51.268696,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

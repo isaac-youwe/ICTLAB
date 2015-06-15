@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03550504 Verspreide huizen Beukbergen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.260121,52.131732,0.000000
+            5.264521,52.125445,0.000000
+            5.271819,52.127250,0.000000
+            5.273209,52.123849,0.000000
+            5.273288,52.123656,0.000000
+            5.281990,52.112096,0.000000
+            5.269008,52.108734,0.000000
+            5.264146,52.115410,0.000000
+            5.259126,52.114393,0.000000
+            5.252076,52.124565,0.000000
+            5.249038,52.128841,0.000000
+            5.260029,52.131846,0.000000
+            5.260121,52.131732,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

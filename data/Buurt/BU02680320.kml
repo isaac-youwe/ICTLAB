@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680320 Biezen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.844815,51.856637,0.000000
+            5.856778,51.851993,0.000000
+            5.855009,51.848678,0.000000
+            5.852189,51.843018,0.000000
+            5.840875,51.844657,0.000000
+            5.837106,51.846458,0.000000
+            5.840468,51.850560,0.000000
+            5.840834,51.854713,0.000000
+            5.842154,51.854539,0.000000
+            5.844815,51.856637,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

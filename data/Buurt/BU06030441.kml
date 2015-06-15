@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06030441 Spoorzicht</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.313109,52.044382,0.000000
+            4.308004,52.042735,0.000000
+            4.303827,52.046799,0.000000
+            4.303930,52.046816,0.000000
+            4.304440,52.046979,0.000000
+            4.309769,52.048683,0.000000
+            4.309779,52.048662,0.000000
+            4.313109,52.044382,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

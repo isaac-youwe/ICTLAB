@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580507 Steenakker</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.747380,51.597245,0.000000
+            4.756702,51.592127,0.000000
+            4.751548,51.592470,0.000000
+            4.740710,51.592517,0.000000
+            4.737106,51.592536,0.000000
+            4.738848,51.594659,0.000000
+            4.729951,51.597744,0.000000
+            4.723690,51.602291,0.000000
+            4.731143,51.602250,0.000000
+            4.735625,51.601457,0.000000
+            4.747380,51.597245,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

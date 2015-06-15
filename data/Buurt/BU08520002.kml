@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08520002 Markgouw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.047889,52.450596,0.000000
+            5.043256,52.450489,0.000000
+            5.040384,52.451233,0.000000
+            5.035781,52.451977,0.000000
+            5.037736,52.454614,0.000000
+            5.036246,52.456711,0.000000
+            5.041828,52.457105,0.000000
+            5.045642,52.456366,0.000000
+            5.048636,52.453416,0.000000
+            5.047889,52.450596,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

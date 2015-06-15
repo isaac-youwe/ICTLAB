@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04791110 Achtersluispolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.856487,52.417354,0.000000
+            4.856498,52.416455,0.000000
+            4.842336,52.418983,0.000000
+            4.834527,52.428233,0.000000
+            4.846838,52.430431,0.000000
+            4.846092,52.431341,0.000000
+            4.859535,52.432385,0.000000
+            4.862218,52.429964,0.000000
+            4.857871,52.424551,0.000000
+            4.859395,52.420064,0.000000
+            4.856525,52.417390,0.000000
+            4.856487,52.417354,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

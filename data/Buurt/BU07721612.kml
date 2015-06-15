@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721612 Philipsdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.469106,51.438585,0.000000
+            5.458922,51.438558,0.000000
+            5.455265,51.441419,0.000000
+            5.461241,51.442843,0.000000
+            5.461215,51.443406,0.000000
+            5.463668,51.445418,0.000000
+            5.466951,51.443183,0.000000
+            5.470512,51.442198,0.000000
+            5.468937,51.440634,0.000000
+            5.469106,51.438585,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

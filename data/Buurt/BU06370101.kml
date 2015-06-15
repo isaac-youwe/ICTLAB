@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370101 Meerzicht-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.481223,52.060878,0.000000
+            4.475218,52.047942,0.000000
+            4.471276,52.048381,0.000000
+            4.468155,52.052005,0.000000
+            4.471157,52.058412,0.000000
+            4.473037,52.059673,0.000000
+            4.474629,52.059548,0.000000
+            4.475858,52.060857,0.000000
+            4.470690,52.061800,0.000000
+            4.471223,52.063592,0.000000
+            4.481223,52.060878,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

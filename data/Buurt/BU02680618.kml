@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680618 Brakkenstein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.868693,51.809897,0.000000
+            5.853126,51.808208,0.000000
+            5.854332,51.813841,0.000000
+            5.854904,51.816714,0.000000
+            5.869993,51.816916,0.000000
+            5.876893,51.819481,0.000000
+            5.876651,51.809864,0.000000
+            5.875945,51.809867,0.000000
+            5.868693,51.809897,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

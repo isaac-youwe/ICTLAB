@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140200 Oranjebuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.556468,53.219241,0.000000
+            6.545381,53.219256,0.000000
+            6.542458,53.220990,0.000000
+            6.551693,53.226780,0.000000
+            6.556396,53.229946,0.000000
+            6.560190,53.228109,0.000000
+            6.560994,53.226945,0.000000
+            6.561329,53.226199,0.000000
+            6.557549,53.225779,0.000000
+            6.555265,53.224128,0.000000
+            6.556468,53.219241,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

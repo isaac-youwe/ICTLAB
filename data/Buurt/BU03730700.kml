@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03730700 Schoorl met Bregtdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.694991,52.713993,0.000000
+            4.703622,52.712522,0.000000
+            4.707049,52.712977,0.000000
+            4.709777,52.714276,0.000000
+            4.709254,52.707578,0.000000
+            4.706785,52.705906,0.000000
+            4.710489,52.702177,0.000000
+            4.716002,52.700544,0.000000
+            4.713403,52.700458,0.000000
+            4.706360,52.698354,0.000000
+            4.698776,52.695039,0.000000
+            4.634228,52.694055,0.000000
+            4.636924,52.707397,0.000000
+            4.636987,52.707597,0.000000
+            4.676957,52.707808,0.000000
+            4.681145,52.713644,0.000000
+            4.685702,52.716760,0.000000
+            4.694991,52.713993,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

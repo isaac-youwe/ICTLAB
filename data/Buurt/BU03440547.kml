@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440547 Watervogelbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.131896,52.078618,0.000000
+            5.133913,52.073796,0.000000
+            5.129839,52.075714,0.000000
+            5.122335,52.078648,0.000000
+            5.124141,52.081354,0.000000
+            5.125169,52.081351,0.000000
+            5.126141,52.080784,0.000000
+            5.131896,52.078618,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

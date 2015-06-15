@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440544 Buiten Wittevrouwen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.130341,52.085482,0.000000
+            5.129759,52.085406,0.000000
+            5.127351,52.091408,0.000000
+            5.126205,52.095009,0.000000
+            5.138020,52.095620,0.000000
+            5.139006,52.095625,0.000000
+            5.138281,52.094373,0.000000
+            5.132373,52.089112,0.000000
+            5.130341,52.085482,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

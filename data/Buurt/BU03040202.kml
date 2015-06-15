@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03040202 Heesselt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.346227,51.815993,0.000000
+            5.348372,51.814349,0.000000
+            5.350600,51.815033,0.000000
+            5.351290,51.814609,0.000000
+            5.348132,51.811933,0.000000
+            5.343256,51.812739,0.000000
+            5.345057,51.815899,0.000000
+            5.346227,51.815993,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

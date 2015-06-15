@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06450109 Verspreide huizen Rijnsaterwoude</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.706676,52.205107,0.000000
+            4.695393,52.189101,0.000000
+            4.690963,52.191771,0.000000
+            4.689500,52.191763,0.000000
+            4.689499,52.191760,0.000000
+            4.676824,52.190491,0.000000
+            4.680273,52.194395,0.000000
+            4.678417,52.207645,0.000000
+            4.679095,52.210734,0.000000
+            4.682860,52.211079,0.000000
+            4.706676,52.205107,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

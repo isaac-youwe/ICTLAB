@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03350102 Cattenbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.956889,52.069889,0.000000
+            4.956923,52.066294,0.000000
+            4.957334,52.066323,0.000000
+            4.943541,52.048599,0.000000
+            4.940699,52.059655,0.000000
+            4.939346,52.060995,0.000000
+            4.918811,52.071168,0.000000
+            4.914599,52.074242,0.000000
+            4.926163,52.078188,0.000000
+            4.930532,52.079678,0.000000
+            4.936284,52.079700,0.000000
+            4.936368,52.079701,0.000000
+            4.956889,52.069889,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

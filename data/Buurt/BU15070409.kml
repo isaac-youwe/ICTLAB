@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15070409 De Afhang</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.047070,51.450367,0.000000
+            6.049301,51.446087,0.000000
+            6.041329,51.445368,0.000000
+            6.041415,51.446632,0.000000
+            6.044355,51.446845,0.000000
+            6.043751,51.449463,0.000000
+            6.037937,51.448758,0.000000
+            6.035269,51.455730,0.000000
+            6.037797,51.457888,0.000000
+            6.040093,51.458038,0.000000
+            6.042383,51.458082,0.000000
+            6.046887,51.456738,0.000000
+            6.045909,51.454433,0.000000
+            6.045283,51.453164,0.000000
+            6.047070,51.450367,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

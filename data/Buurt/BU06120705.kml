@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06120705 Akkers-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.321177,51.832089,0.000000
+            4.321406,51.831022,0.000000
+            4.318218,51.831130,0.000000
+            4.317062,51.833273,0.000000
+            4.318673,51.833950,0.000000
+            4.318358,51.834901,0.000000
+            4.316227,51.836863,0.000000
+            4.317883,51.837213,0.000000
+            4.321488,51.833449,0.000000
+            4.322374,51.832643,0.000000
+            4.321177,51.832089,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

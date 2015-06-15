@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05032203 Latijns Amerikabuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.354017,51.983505,0.000000
+            4.347108,51.981316,0.000000
+            4.346516,51.984330,0.000000
+            4.346978,51.986254,0.000000
+            4.352205,51.987162,0.000000
+            4.352680,51.987227,0.000000
+            4.353087,51.986729,0.000000
+            4.354017,51.983505,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03560004 Batau-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.080214,52.042056,0.000000
+            5.078975,52.038977,0.000000
+            5.066709,52.039987,0.000000
+            5.063545,52.041097,0.000000
+            5.063579,52.041465,0.000000
+            5.063508,52.051353,0.000000
+            5.063686,52.051801,0.000000
+            5.084033,52.047270,0.000000
+            5.084747,52.047115,0.000000
+            5.080214,52.042056,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

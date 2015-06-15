@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02440002 Ten oosten van Apeldoornseweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.081993,52.459100,0.000000
+            6.078229,52.456766,0.000000
+            6.066079,52.458395,0.000000
+            6.066294,52.462004,0.000000
+            6.067997,52.465552,0.000000
+            6.070639,52.470945,0.000000
+            6.071457,52.472704,0.000000
+            6.072788,52.474271,0.000000
+            6.075631,52.472483,0.000000
+            6.082370,52.470149,0.000000
+            6.083468,52.466530,0.000000
+            6.080516,52.461757,0.000000
+            6.083042,52.461618,0.000000
+            6.081993,52.459100,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09171101 Mariarade-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.928798,50.927148,0.000000
+            5.922854,50.925259,0.000000
+            5.921198,50.926686,0.000000
+            5.927351,50.928308,0.000000
+            5.928229,50.933559,0.000000
+            5.930477,50.934206,0.000000
+            5.930680,50.934011,0.000000
+            5.932081,50.932206,0.000000
+            5.932117,50.932191,0.000000
+            5.936328,50.930388,0.000000
+            5.936633,50.930192,0.000000
+            5.937647,50.929542,0.000000
+            5.928798,50.927148,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

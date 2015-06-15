@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01932250 De Tippe</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.046221,52.530818,0.000000
+            6.052859,52.527005,0.000000
+            6.049529,52.526609,0.000000
+            6.046930,52.527771,0.000000
+            6.045659,52.526783,0.000000
+            6.030378,52.530821,0.000000
+            6.031373,52.537889,0.000000
+            6.046221,52.530818,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

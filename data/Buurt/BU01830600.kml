@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01830600 Reutum kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.854039,52.388514,0.000000
+            6.851658,52.386741,0.000000
+            6.848183,52.387892,0.000000
+            6.841649,52.385529,0.000000
+            6.841383,52.390328,0.000000
+            6.836042,52.393200,0.000000
+            6.844011,52.396117,0.000000
+            6.851500,52.391559,0.000000
+            6.854039,52.388514,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

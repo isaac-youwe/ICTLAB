@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08660002 Voldijn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.474152,51.398534,0.000000
+            5.465628,51.395077,0.000000
+            5.461170,51.395085,0.000000
+            5.461975,51.404533,0.000000
+            5.476896,51.405370,0.000000
+            5.477758,51.405419,0.000000
+            5.480189,51.405248,0.000000
+            5.479725,51.402577,0.000000
+            5.474152,51.398534,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

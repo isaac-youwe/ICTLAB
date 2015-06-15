@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05031106 Centrum-Zuidwest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.357062,52.010038,0.000000
+            4.358944,52.007576,0.000000
+            4.361589,52.008523,0.000000
+            4.362093,52.008449,0.000000
+            4.363533,52.006703,0.000000
+            4.360339,52.005269,0.000000
+            4.359697,52.004966,0.000000
+            4.355416,52.009124,0.000000
+            4.355105,52.009302,0.000000
+            4.357062,52.010038,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05110000 Woonkern Goedereede</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.986295,51.816511,0.000000
+            3.984771,51.815475,0.000000
+            3.981436,51.815776,0.000000
+            3.972216,51.813936,0.000000
+            3.964357,51.813832,0.000000
+            3.965260,51.814896,0.000000
+            3.968512,51.815492,0.000000
+            3.968628,51.817937,0.000000
+            3.980567,51.820187,0.000000
+            3.982876,51.822168,0.000000
+            3.989546,51.819336,0.000000
+            3.986718,51.818593,0.000000
+            3.986295,51.816511,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

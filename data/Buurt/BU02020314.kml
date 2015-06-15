@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02020314 Statenkwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.935905,51.981180,0.000000
+            5.943990,51.978909,0.000000
+            5.937530,51.978481,0.000000
+            5.932631,51.979855,0.000000
+            5.920601,51.978358,0.000000
+            5.921501,51.980481,0.000000
+            5.924154,51.981102,0.000000
+            5.925879,51.983658,0.000000
+            5.926547,51.983511,0.000000
+            5.935905,51.981180,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

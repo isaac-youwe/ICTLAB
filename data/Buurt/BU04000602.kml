@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04000602 Friesebuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.774836,52.918457,0.000000
+            4.781579,52.918202,0.000000
+            4.780650,52.920103,0.000000
+            4.792357,52.921701,0.000000
+            4.795246,52.915938,0.000000
+            4.793309,52.913273,0.000000
+            4.785244,52.914897,0.000000
+            4.773457,52.914626,0.000000
+            4.767020,52.926976,0.000000
+            4.771439,52.927065,0.000000
+            4.771520,52.929252,0.000000
+            4.772561,52.929237,0.000000
+            4.774175,52.929213,0.000000
+            4.774114,52.928509,0.000000
+            4.777270,52.928496,0.000000
+            4.774836,52.918457,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09881401 Fatima</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.702789,51.250338,0.000000
+            5.701149,51.249158,0.000000
+            5.697116,51.250531,0.000000
+            5.693674,51.254295,0.000000
+            5.701217,51.256875,0.000000
+            5.701141,51.253448,0.000000
+            5.703332,51.252325,0.000000
+            5.702789,51.250338,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

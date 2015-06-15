@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03550402 Kerckebosch</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.275255,52.079987,0.000000
+            5.262846,52.072269,0.000000
+            5.260352,52.073714,0.000000
+            5.259432,52.076408,0.000000
+            5.265321,52.077233,0.000000
+            5.269221,52.080099,0.000000
+            5.270014,52.082016,0.000000
+            5.273984,52.084127,0.000000
+            5.275255,52.079987,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

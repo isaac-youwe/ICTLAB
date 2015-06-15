@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09350602 Heer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.743560,50.837647,0.000000
+            5.746379,50.834941,0.000000
+            5.746376,50.834636,0.000000
+            5.746344,50.830447,0.000000
+            5.746291,50.830282,0.000000
+            5.736035,50.834615,0.000000
+            5.726179,50.836888,0.000000
+            5.728077,50.831309,0.000000
+            5.717721,50.830725,0.000000
+            5.718151,50.839098,0.000000
+            5.717156,50.842949,0.000000
+            5.721595,50.843950,0.000000
+            5.744717,50.841640,0.000000
+            5.748261,50.840436,0.000000
+            5.747840,50.840331,0.000000
+            5.740741,50.840353,0.000000
+            5.740728,50.838555,0.000000
+            5.743560,50.837647,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

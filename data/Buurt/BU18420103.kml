@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18420103 Gaag-Maasland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.275126,51.973729,0.000000
+            4.278125,51.970161,0.000000
+            4.281636,51.970194,0.000000
+            4.297106,51.957314,0.000000
+            4.284071,51.950614,0.000000
+            4.277432,51.949413,0.000000
+            4.276455,51.947678,0.000000
+            4.241292,51.941715,0.000000
+            4.241002,51.941936,0.000000
+            4.239524,51.942821,0.000000
+            4.240956,51.943734,0.000000
+            4.233522,51.949954,0.000000
+            4.233430,51.953549,0.000000
+            4.253659,51.959140,0.000000
+            4.258024,51.959182,0.000000
+            4.263821,51.960136,0.000000
+            4.276804,51.964755,0.000000
+            4.270849,51.970092,0.000000
+            4.273670,51.973715,0.000000
+            4.275126,51.973729,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

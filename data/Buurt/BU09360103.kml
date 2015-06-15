@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09360103 Bemelen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.764995,50.854660,0.000000
+            5.770654,50.851944,0.000000
+            5.776342,50.852824,0.000000
+            5.776677,50.852823,0.000000
+            5.779182,50.852815,0.000000
+            5.779160,50.850118,0.000000
+            5.779462,50.850053,0.000000
+            5.774311,50.843625,0.000000
+            5.769969,50.843261,0.000000
+            5.770118,50.842205,0.000000
+            5.768092,50.844220,0.000000
+            5.765952,50.844991,0.000000
+            5.761378,50.845175,0.000000
+            5.757620,50.845441,0.000000
+            5.757822,50.845693,0.000000
+            5.757901,50.855582,0.000000
+            5.764995,50.854660,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

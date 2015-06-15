@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03130005 Blokhuiswetering</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.369163,52.234130,0.000000
+            5.366743,52.233801,0.000000
+            5.365874,52.234669,0.000000
+            5.359175,52.235650,0.000000
+            5.362177,52.243614,0.000000
+            5.370739,52.241940,0.000000
+            5.368960,52.239411,0.000000
+            5.369908,52.236862,0.000000
+            5.369163,52.234130,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

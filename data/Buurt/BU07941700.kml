@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07941700 Stiphout-Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.624820,51.489975,0.000000
+            5.628887,51.486647,0.000000
+            5.630602,51.482746,0.000000
+            5.629530,51.481842,0.000000
+            5.623380,51.479777,0.000000
+            5.621756,51.480225,0.000000
+            5.615635,51.479805,0.000000
+            5.613827,51.480386,0.000000
+            5.614101,51.481179,0.000000
+            5.609165,51.480419,0.000000
+            5.606856,51.485006,0.000000
+            5.601592,51.484174,0.000000
+            5.599471,51.487823,0.000000
+            5.607104,51.492331,0.000000
+            5.609306,51.489464,0.000000
+            5.616861,51.493744,0.000000
+            5.621743,51.494913,0.000000
+            5.626302,51.494945,0.000000
+            5.624820,51.489975,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

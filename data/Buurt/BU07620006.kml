@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07620006 Industrieterrein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.816241,51.452210,0.000000
+            5.816357,51.451073,0.000000
+            5.812437,51.451131,0.000000
+            5.811011,51.445730,0.000000
+            5.804099,51.446663,0.000000
+            5.800767,51.445749,0.000000
+            5.794640,51.446125,0.000000
+            5.794356,51.448819,0.000000
+            5.791331,51.454001,0.000000
+            5.789406,51.454665,0.000000
+            5.782205,51.454837,0.000000
+            5.777800,51.456664,0.000000
+            5.773621,51.457063,0.000000
+            5.767356,51.457737,0.000000
+            5.766634,51.459660,0.000000
+            5.778711,51.457639,0.000000
+            5.796956,51.454568,0.000000
+            5.804563,51.453358,0.000000
+            5.816241,51.452210,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.773471,51.463791,0.000000
+            5.772652,51.463078,0.000000
+            5.768066,51.463187,0.000000
+            5.768170,51.466521,0.000000
+            5.779903,51.466243,0.000000
+            5.779709,51.464191,0.000000
+            5.773471,51.463791,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

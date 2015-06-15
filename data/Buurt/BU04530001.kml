@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04530001 Velserbeek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.646990,52.460412,0.000000
+            4.652057,52.458022,0.000000
+            4.655846,52.458280,0.000000
+            4.657505,52.453959,0.000000
+            4.656899,52.451112,0.000000
+            4.655057,52.450740,0.000000
+            4.654637,52.451517,0.000000
+            4.650421,52.447467,0.000000
+            4.645836,52.445377,0.000000
+            4.639112,52.452355,0.000000
+            4.639979,52.455292,0.000000
+            4.632497,52.453974,0.000000
+            4.632459,52.455112,0.000000
+            4.632128,52.460304,0.000000
+            4.631674,52.463203,0.000000
+            4.631327,52.465183,0.000000
+            4.632446,52.465060,0.000000
+            4.644170,52.463748,0.000000
+            4.644221,52.462285,0.000000
+            4.646990,52.460412,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

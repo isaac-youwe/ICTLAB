@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00900124 Kortehemmen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.086753,53.083606,0.000000
+            6.086095,53.079295,0.000000
+            6.088900,53.078951,0.000000
+            6.089440,53.070797,0.000000
+            6.088631,53.070802,0.000000
+            6.088539,53.070802,0.000000
+            6.085123,53.070822,0.000000
+            6.076602,53.070871,0.000000
+            6.075915,53.070979,0.000000
+            6.070648,53.071804,0.000000
+            6.070300,53.071822,0.000000
+            6.059725,53.084745,0.000000
+            6.059558,53.086607,0.000000
+            6.073286,53.082896,0.000000
+            6.078070,53.086785,0.000000
+            6.086753,53.083606,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

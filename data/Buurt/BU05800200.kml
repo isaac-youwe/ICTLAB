@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05800200 Oude-Tonge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.222307,51.696476,0.000000
+            4.223741,51.694385,0.000000
+            4.222447,51.690909,0.000000
+            4.216651,51.694144,0.000000
+            4.212714,51.689297,0.000000
+            4.216752,51.688590,0.000000
+            4.214879,51.685709,0.000000
+            4.210765,51.684905,0.000000
+            4.206738,51.685577,0.000000
+            4.204627,51.684630,0.000000
+            4.200964,51.691857,0.000000
+            4.206365,51.695340,0.000000
+            4.208415,51.694239,0.000000
+            4.210122,51.694603,0.000000
+            4.214870,51.697415,0.000000
+            4.222307,51.696476,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

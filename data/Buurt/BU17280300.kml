@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17280300 Hoogeloon</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.277042,51.386647,0.000000
+            5.270945,51.375764,0.000000
+            5.270143,51.375826,0.000000
+            5.265559,51.375873,0.000000
+            5.265894,51.382843,0.000000
+            5.265775,51.386072,0.000000
+            5.262510,51.390049,0.000000
+            5.261294,51.393307,0.000000
+            5.262000,51.399802,0.000000
+            5.264136,51.404075,0.000000
+            5.272411,51.403393,0.000000
+            5.275951,51.393371,0.000000
+            5.277042,51.386647,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

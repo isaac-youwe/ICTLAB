@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03420101 Amersfoortsestraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.331703,52.126394,0.000000
+            5.306903,52.110200,0.000000
+            5.298139,52.111991,0.000000
+            5.293244,52.114245,0.000000
+            5.304805,52.116020,0.000000
+            5.303769,52.120788,0.000000
+            5.300692,52.125202,0.000000
+            5.302810,52.125865,0.000000
+            5.301014,52.127674,0.000000
+            5.330351,52.135606,0.000000
+            5.330231,52.135383,0.000000
+            5.331625,52.133670,0.000000
+            5.331694,52.133586,0.000000
+            5.333157,52.131788,0.000000
+            5.331703,52.126394,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

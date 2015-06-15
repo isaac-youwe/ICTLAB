@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04910301 Achterbroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.704791,51.962555,0.000000
+            4.684049,51.947148,0.000000
+            4.680172,51.949056,0.000000
+            4.678587,51.957973,0.000000
+            4.678665,51.958073,0.000000
+            4.687148,51.968812,0.000000
+            4.708747,51.984221,0.000000
+            4.720487,51.977995,0.000000
+            4.710379,51.972544,0.000000
+            4.711648,51.968805,0.000000
+            4.711902,51.968058,0.000000
+            4.704708,51.962623,0.000000
+            4.704791,51.962555,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01094041 Diphoorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.818202,52.766151,0.000000
+            6.814710,52.763329,0.000000
+            6.813723,52.764178,0.000000
+            6.815821,52.766163,0.000000
+            6.813624,52.768907,0.000000
+            6.814408,52.773049,0.000000
+            6.817003,52.773537,0.000000
+            6.816001,52.776011,0.000000
+            6.818322,52.776451,0.000000
+            6.821408,52.769498,0.000000
+            6.821262,52.767347,0.000000
+            6.818202,52.766151,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

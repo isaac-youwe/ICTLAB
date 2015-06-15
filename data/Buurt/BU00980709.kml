@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00980709 Verspreide huizen De Hoeve</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.113256,52.888397,0.000000
+            6.107748,52.884424,0.000000
+            6.104138,52.886906,0.000000
+            6.097120,52.889933,0.000000
+            6.082437,52.899911,0.000000
+            6.085439,52.903642,0.000000
+            6.099542,52.908088,0.000000
+            6.103761,52.910162,0.000000
+            6.108737,52.906015,0.000000
+            6.120790,52.889318,0.000000
+            6.113256,52.888397,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

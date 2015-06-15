@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00930215 Verspreide huizen Formerum-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.321145,53.395516,0.000000
+            5.318786,53.395005,0.000000
+            5.317853,53.395028,0.000000
+            5.312156,53.395090,0.000000
+            5.301321,53.393398,0.000000
+            5.301326,53.402439,0.000000
+            5.297575,53.410807,0.000000
+            5.314764,53.413387,0.000000
+            5.318279,53.406772,0.000000
+            5.320005,53.396444,0.000000
+            5.321145,53.395516,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

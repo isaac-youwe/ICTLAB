@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01601000 Ane Dorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.652635,52.616570,0.000000
+            6.653576,52.613058,0.000000
+            6.649554,52.611972,0.000000
+            6.648635,52.613365,0.000000
+            6.643479,52.613114,0.000000
+            6.643785,52.614627,0.000000
+            6.646123,52.614717,0.000000
+            6.647013,52.616400,0.000000
+            6.651208,52.617087,0.000000
+            6.652635,52.616570,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

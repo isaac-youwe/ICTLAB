@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05130604 Kort Haarlem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.723541,52.013753,0.000000
+            4.724840,52.009040,0.000000
+            4.726735,52.010035,0.000000
+            4.727851,52.008304,0.000000
+            4.722319,52.006809,0.000000
+            4.716571,52.006906,0.000000
+            4.715841,52.006830,0.000000
+            4.715226,52.011202,0.000000
+            4.714404,52.012725,0.000000
+            4.722414,52.014756,0.000000
+            4.723541,52.013753,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

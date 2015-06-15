@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16210506 Komplan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.531213,52.008196,0.000000
+            4.530559,52.006951,0.000000
+            4.524585,52.007651,0.000000
+            4.524254,52.009190,0.000000
+            4.527857,52.015846,0.000000
+            4.532656,52.017964,0.000000
+            4.534857,52.017521,0.000000
+            4.531790,52.013653,0.000000
+            4.531708,52.010387,0.000000
+            4.531213,52.008196,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

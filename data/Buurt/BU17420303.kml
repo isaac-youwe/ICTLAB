@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17420303 De Holterberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.421668,52.297670,0.000000
+            6.423086,52.291802,0.000000
+            6.428082,52.292707,0.000000
+            6.428177,52.291270,0.000000
+            6.425850,52.289697,0.000000
+            6.416404,52.286950,0.000000
+            6.412745,52.287254,0.000000
+            6.409338,52.289978,0.000000
+            6.405569,52.292635,0.000000
+            6.404718,52.294564,0.000000
+            6.411981,52.296981,0.000000
+            6.415328,52.296696,0.000000
+            6.419372,52.297835,0.000000
+            6.421668,52.297670,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

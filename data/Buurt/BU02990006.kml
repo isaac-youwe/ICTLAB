@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02990006 Stegeslag</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.073245,51.941187,0.000000
+            6.072997,51.937807,0.000000
+            6.067950,51.938413,0.000000
+            6.063113,51.937374,0.000000
+            6.053843,51.940240,0.000000
+            6.054812,51.940234,0.000000
+            6.060711,51.945594,0.000000
+            6.060816,51.945721,0.000000
+            6.073342,51.942420,0.000000
+            6.073245,51.941187,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

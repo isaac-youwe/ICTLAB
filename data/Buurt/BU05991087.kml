@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05991087 Feijenoord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.517069,51.903211,0.000000
+            4.512798,51.901736,0.000000
+            4.511829,51.902876,0.000000
+            4.500071,51.913180,0.000000
+            4.507415,51.916795,0.000000
+            4.512370,51.914665,0.000000
+            4.516380,51.910290,0.000000
+            4.517069,51.903211,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

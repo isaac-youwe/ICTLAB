@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00720004 Oosterpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.447542,53.163854,0.000000
+            5.446721,53.162637,0.000000
+            5.441098,53.162779,0.000000
+            5.434089,53.156197,0.000000
+            5.431021,53.156501,0.000000
+            5.430855,53.158185,0.000000
+            5.428979,53.158978,0.000000
+            5.424251,53.158519,0.000000
+            5.418745,53.159750,0.000000
+            5.430480,53.170755,0.000000
+            5.446604,53.171478,0.000000
+            5.447542,53.163854,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

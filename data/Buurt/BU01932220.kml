@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01932220 Schoonhorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.074300,52.535089,0.000000
+            6.071265,52.529329,0.000000
+            6.065873,52.529393,0.000000
+            6.060614,52.531118,0.000000
+            6.062042,52.533713,0.000000
+            6.058127,52.534835,0.000000
+            6.059938,52.539140,0.000000
+            6.064584,52.538106,0.000000
+            6.068135,52.535839,0.000000
+            6.074300,52.535089,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

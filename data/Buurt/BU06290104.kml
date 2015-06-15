@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06290104 De Deijl</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.410167,52.139521,0.000000
+            4.406982,52.137953,0.000000
+            4.395904,52.142486,0.000000
+            4.397922,52.144682,0.000000
+            4.399104,52.145624,0.000000
+            4.403474,52.143711,0.000000
+            4.404297,52.143350,0.000000
+            4.403171,52.142443,0.000000
+            4.405815,52.140693,0.000000
+            4.410167,52.139521,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

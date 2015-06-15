@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05880202 Oudendijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.274452,51.773696,0.000000
+            4.280185,51.772613,0.000000
+            4.293656,51.772801,0.000000
+            4.297064,51.772519,0.000000
+            4.298210,51.771417,0.000000
+            4.297022,51.770139,0.000000
+            4.280284,51.767778,0.000000
+            4.272389,51.770097,0.000000
+            4.261810,51.775146,0.000000
+            4.264090,51.777526,0.000000
+            4.274452,51.773696,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

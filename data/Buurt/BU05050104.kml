@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05050104 Beverwijcksplein en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.668407,51.811630,0.000000
+            4.668061,51.808951,0.000000
+            4.662476,51.809179,0.000000
+            4.662651,51.809723,0.000000
+            4.663524,51.812031,0.000000
+            4.664021,51.812318,0.000000
+            4.666140,51.811800,0.000000
+            4.668407,51.811630,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

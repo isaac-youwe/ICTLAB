@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01601008 Verspreide huizen Anerveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.680016,52.626344,0.000000
+            6.657567,52.621786,0.000000
+            6.649254,52.625395,0.000000
+            6.647174,52.622803,0.000000
+            6.640557,52.623789,0.000000
+            6.633456,52.628841,0.000000
+            6.628832,52.632277,0.000000
+            6.630043,52.633419,0.000000
+            6.633609,52.640265,0.000000
+            6.643251,52.642569,0.000000
+            6.652504,52.645945,0.000000
+            6.666353,52.635714,0.000000
+            6.671966,52.633481,0.000000
+            6.680016,52.626344,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

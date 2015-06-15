@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08090103 t Hoekje</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.068384,51.661490,0.000000
+            5.053705,51.660146,0.000000
+            5.053550,51.661224,0.000000
+            5.059067,51.662099,0.000000
+            5.057576,51.668387,0.000000
+            5.057755,51.668556,0.000000
+            5.060448,51.671092,0.000000
+            5.069858,51.671118,0.000000
+            5.070568,51.671120,0.000000
+            5.077797,51.671139,0.000000
+            5.078123,51.671242,0.000000
+            5.081075,51.666391,0.000000
+            5.068384,51.661490,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

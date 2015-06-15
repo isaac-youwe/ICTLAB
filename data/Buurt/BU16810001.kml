@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16810001 Westdorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.776795,52.908149,0.000000
+            6.770948,52.905774,0.000000
+            6.769281,52.902863,0.000000
+            6.764102,52.902020,0.000000
+            6.764000,52.904460,0.000000
+            6.761409,52.905918,0.000000
+            6.763304,52.907327,0.000000
+            6.764823,52.906729,0.000000
+            6.773567,52.910826,0.000000
+            6.775896,52.909901,0.000000
+            6.776795,52.908149,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

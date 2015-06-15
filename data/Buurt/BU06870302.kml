@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06870302 Arnestein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.650670,51.499314,0.000000
+            3.653083,51.498380,0.000000
+            3.658318,51.498811,0.000000
+            3.660068,51.497379,0.000000
+            3.653332,51.491694,0.000000
+            3.649095,51.486374,0.000000
+            3.643907,51.488458,0.000000
+            3.637468,51.492383,0.000000
+            3.629202,51.497464,0.000000
+            3.625416,51.497197,0.000000
+            3.625012,51.498371,0.000000
+            3.625994,51.498925,0.000000
+            3.632961,51.501136,0.000000
+            3.641548,51.507006,0.000000
+            3.642359,51.507587,0.000000
+            3.642628,51.505985,0.000000
+            3.650670,51.499314,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

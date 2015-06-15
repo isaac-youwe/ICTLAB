@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960799 Landelijk gebied De Groote Wielen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.369251,51.747185,0.000000
+            5.375557,51.739882,0.000000
+            5.366062,51.737302,0.000000
+            5.363191,51.736515,0.000000
+            5.363423,51.735133,0.000000
+            5.359273,51.734864,0.000000
+            5.358138,51.733294,0.000000
+            5.354711,51.732700,0.000000
+            5.354029,51.733609,0.000000
+            5.346522,51.733122,0.000000
+            5.346832,51.727310,0.000000
+            5.334630,51.727051,0.000000
+            5.338008,51.731294,0.000000
+            5.334658,51.735870,0.000000
+            5.350715,51.741639,0.000000
+            5.361062,51.746420,0.000000
+            5.363558,51.746165,0.000000
+            5.369251,51.747185,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

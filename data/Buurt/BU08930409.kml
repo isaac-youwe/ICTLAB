@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08930409 Verspreide huizen De Hamert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.183722,51.498927,0.000000
+            6.176490,51.497178,0.000000
+            6.173625,51.498097,0.000000
+            6.169350,51.500822,0.000000
+            6.169412,51.504418,0.000000
+            6.165168,51.508941,0.000000
+            6.160892,51.511667,0.000000
+            6.155629,51.514184,0.000000
+            6.167763,51.526048,0.000000
+            6.183350,51.529183,0.000000
+            6.191776,51.531996,0.000000
+            6.200078,51.527583,0.000000
+            6.207138,51.519442,0.000000
+            6.212787,51.513110,0.000000
+            6.214130,51.507706,0.000000
+            6.196732,51.501535,0.000000
+            6.186650,51.501604,0.000000
+            6.183722,51.498927,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

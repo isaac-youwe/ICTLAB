@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680737 Weezenhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.815092,51.800088,0.000000
+            5.806396,51.792918,0.000000
+            5.806175,51.793057,0.000000
+            5.800548,51.794826,0.000000
+            5.803517,51.797741,0.000000
+            5.800201,51.801270,0.000000
+            5.806546,51.804035,0.000000
+            5.816141,51.806272,0.000000
+            5.819990,51.801606,0.000000
+            5.815092,51.800088,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

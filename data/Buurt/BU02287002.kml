@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02287002 Legerplaats Harskamp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.763370,52.128489,0.000000
+            5.765920,52.121735,0.000000
+            5.761978,52.120853,0.000000
+            5.759688,52.120432,0.000000
+            5.756238,52.123691,0.000000
+            5.751043,52.122550,0.000000
+            5.749820,52.124780,0.000000
+            5.749623,52.125522,0.000000
+            5.763370,52.128489,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

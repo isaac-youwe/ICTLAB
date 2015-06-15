@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06540102 Nisse</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.853503,51.454936,0.000000
+            3.856045,51.453666,0.000000
+            3.859822,51.454018,0.000000
+            3.861296,51.453353,0.000000
+            3.852968,51.451106,0.000000
+            3.851668,51.451941,0.000000
+            3.849441,51.451343,0.000000
+            3.847678,51.452602,0.000000
+            3.850740,51.456728,0.000000
+            3.848638,51.457499,0.000000
+            3.849336,51.458429,0.000000
+            3.854378,51.458266,0.000000
+            3.855176,51.457591,0.000000
+            3.853387,51.456369,0.000000
+            3.853503,51.454936,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

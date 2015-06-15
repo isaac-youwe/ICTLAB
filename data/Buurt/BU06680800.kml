@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06680800 Kern Wamel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.481754,51.881693,0.000000
+            5.480127,51.880950,0.000000
+            5.480072,51.877246,0.000000
+            5.472204,51.878117,0.000000
+            5.470724,51.877473,0.000000
+            5.471267,51.875905,0.000000
+            5.468683,51.875846,0.000000
+            5.468164,51.877948,0.000000
+            5.460133,51.877387,0.000000
+            5.453837,51.875678,0.000000
+            5.452145,51.877594,0.000000
+            5.468755,51.882937,0.000000
+            5.472784,51.881588,0.000000
+            5.479041,51.884191,0.000000
+            5.481754,51.881693,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

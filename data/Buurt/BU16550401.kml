@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16550401 Hoeven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.580509,51.572976,0.000000
+            4.577728,51.572371,0.000000
+            4.576728,51.574353,0.000000
+            4.578080,51.577904,0.000000
+            4.575800,51.579389,0.000000
+            4.572110,51.580059,0.000000
+            4.573956,51.583701,0.000000
+            4.575694,51.587037,0.000000
+            4.588705,51.592133,0.000000
+            4.596344,51.590361,0.000000
+            4.597890,51.581685,0.000000
+            4.597880,51.581631,0.000000
+            4.596455,51.573306,0.000000
+            4.580509,51.572976,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

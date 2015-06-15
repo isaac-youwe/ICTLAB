@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03610303 Overdie-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.750144,52.618914,0.000000
+            4.746211,52.613459,0.000000
+            4.742018,52.614386,0.000000
+            4.738936,52.613848,0.000000
+            4.738918,52.615094,0.000000
+            4.741281,52.615672,0.000000
+            4.744578,52.618343,0.000000
+            4.747786,52.620511,0.000000
+            4.750144,52.618914,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

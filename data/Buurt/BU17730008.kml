@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17730008 Verspreide huizen Overwetering</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.137375,52.352353,0.000000
+            6.137485,52.350599,0.000000
+            6.180689,52.343902,0.000000
+            6.179680,52.339416,0.000000
+            6.172629,52.329471,0.000000
+            6.176701,52.323401,0.000000
+            6.175978,52.322574,0.000000
+            6.167111,52.316563,0.000000
+            6.159854,52.320516,0.000000
+            6.149261,52.322834,0.000000
+            6.139096,52.326274,0.000000
+            6.131263,52.325975,0.000000
+            6.134959,52.330932,0.000000
+            6.134558,52.333327,0.000000
+            6.127041,52.333478,0.000000
+            6.123197,52.335045,0.000000
+            6.123194,52.335710,0.000000
+            6.116282,52.339355,0.000000
+            6.116937,52.351870,0.000000
+            6.126338,52.351529,0.000000
+            6.137375,52.352353,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

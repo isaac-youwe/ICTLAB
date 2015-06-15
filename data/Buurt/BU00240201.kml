@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00240201 Westerwijtwerd</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.650990,53.331530,0.000000
+            6.647438,53.330809,0.000000
+            6.641547,53.331994,0.000000
+            6.639728,53.333613,0.000000
+            6.645701,53.336145,0.000000
+            6.648437,53.336202,0.000000
+            6.650852,53.333516,0.000000
+            6.650990,53.331530,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

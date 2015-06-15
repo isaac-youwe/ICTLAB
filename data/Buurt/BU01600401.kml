@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01600401 Sibculo Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.644096,52.481742,0.000000
+            6.637958,52.479173,0.000000
+            6.632115,52.483092,0.000000
+            6.631363,52.483362,0.000000
+            6.634766,52.486094,0.000000
+            6.637518,52.487401,0.000000
+            6.641837,52.485523,0.000000
+            6.644096,52.481742,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

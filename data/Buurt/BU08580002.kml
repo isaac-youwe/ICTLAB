@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08580002 Turfberg-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.475101,51.361524,0.000000
+            5.480711,51.359425,0.000000
+            5.482837,51.359711,0.000000
+            5.484134,51.355594,0.000000
+            5.478239,51.354811,0.000000
+            5.464310,51.354666,0.000000
+            5.462378,51.363349,0.000000
+            5.461041,51.369518,0.000000
+            5.470929,51.370285,0.000000
+            5.466173,51.363913,0.000000
+            5.475217,51.362234,0.000000
+            5.475101,51.361524,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

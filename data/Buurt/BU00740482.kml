@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00740482 Jubbega 3e sluis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.132705,53.002351,0.000000
+            6.129941,53.001073,0.000000
+            6.124326,52.999646,0.000000
+            6.122545,53.001428,0.000000
+            6.118314,53.000079,0.000000
+            6.113195,52.999973,0.000000
+            6.111602,53.001599,0.000000
+            6.120258,53.005004,0.000000
+            6.130748,53.008534,0.000000
+            6.129289,53.010341,0.000000
+            6.130794,53.011230,0.000000
+            6.131250,53.011344,0.000000
+            6.133690,53.008647,0.000000
+            6.133320,53.005354,0.000000
+            6.134577,53.004123,0.000000
+            6.131996,53.003164,0.000000
+            6.132705,53.002351,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

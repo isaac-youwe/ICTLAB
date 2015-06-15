@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17090300 Klundert</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.547159,51.665203,0.000000
+            4.547053,51.662969,0.000000
+            4.544663,51.659211,0.000000
+            4.541519,51.657467,0.000000
+            4.537432,51.656427,0.000000
+            4.528177,51.658315,0.000000
+            4.518037,51.661977,0.000000
+            4.521944,51.666495,0.000000
+            4.527724,51.664947,0.000000
+            4.529402,51.668074,0.000000
+            4.529150,51.670027,0.000000
+            4.523388,51.671598,0.000000
+            4.522784,51.673632,0.000000
+            4.535466,51.674341,0.000000
+            4.547159,51.665203,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

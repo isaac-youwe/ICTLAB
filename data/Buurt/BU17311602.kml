@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17311602 Mantinge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.617555,52.801672,0.000000
+            6.617794,52.797918,0.000000
+            6.610654,52.800166,0.000000
+            6.608382,52.799078,0.000000
+            6.609219,52.798280,0.000000
+            6.603457,52.794848,0.000000
+            6.600895,52.796221,0.000000
+            6.611518,52.801925,0.000000
+            6.612577,52.803561,0.000000
+            6.610969,52.804371,0.000000
+            6.612879,52.806389,0.000000
+            6.616083,52.806449,0.000000
+            6.622007,52.804638,0.000000
+            6.617555,52.801672,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

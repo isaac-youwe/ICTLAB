@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04830104 Oud Ade en Zevenhuizen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.569351,52.192529,0.000000
+            4.570368,52.189411,0.000000
+            4.569755,52.184853,0.000000
+            4.565326,52.184859,0.000000
+            4.564360,52.189589,0.000000
+            4.562490,52.190975,0.000000
+            4.543311,52.187353,0.000000
+            4.543297,52.188111,0.000000
+            4.546018,52.198918,0.000000
+            4.553315,52.199868,0.000000
+            4.557560,52.200771,0.000000
+            4.560645,52.198082,0.000000
+            4.562456,52.193743,0.000000
+            4.567390,52.193524,0.000000
+            4.569351,52.192529,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01750408 Verspreide huizen Beerzerveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.589141,52.501439,0.000000
+            6.609509,52.492242,0.000000
+            6.595938,52.480695,0.000000
+            6.573955,52.484512,0.000000
+            6.573215,52.484595,0.000000
+            6.565574,52.485451,0.000000
+            6.565147,52.485499,0.000000
+            6.554889,52.487398,0.000000
+            6.534325,52.489397,0.000000
+            6.534065,52.489416,0.000000
+            6.511253,52.491103,0.000000
+            6.516095,52.492550,0.000000
+            6.519325,52.492347,0.000000
+            6.539304,52.495228,0.000000
+            6.547537,52.499302,0.000000
+            6.567496,52.502023,0.000000
+            6.569086,52.505502,0.000000
+            6.572964,52.508101,0.000000
+            6.573314,52.508283,0.000000
+            6.588944,52.501524,0.000000
+            6.589141,52.501439,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.569045,52.494259,0.000000
+            6.574061,52.490879,0.000000
+            6.577916,52.494577,0.000000
+            6.573480,52.495962,0.000000
+            6.573062,52.495432,0.000000
+            6.571250,52.496193,0.000000
+            6.569045,52.494259,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

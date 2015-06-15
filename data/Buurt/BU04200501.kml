@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04200501 Benningbroek-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.026217,52.713215,0.000000
+            5.029868,52.704119,0.000000
+            5.030123,52.697124,0.000000
+            5.005084,52.700707,0.000000
+            5.007590,52.702325,0.000000
+            5.005636,52.703794,0.000000
+            5.006672,52.705122,0.000000
+            5.010789,52.706503,0.000000
+            5.015116,52.705822,0.000000
+            5.024848,52.711433,0.000000
+            5.026217,52.713215,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

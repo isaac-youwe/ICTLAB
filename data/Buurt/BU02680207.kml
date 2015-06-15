@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680207 Kwakkenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.887696,51.823302,0.000000
+            5.881113,51.820892,0.000000
+            5.880462,51.823677,0.000000
+            5.875249,51.829941,0.000000
+            5.877860,51.830505,0.000000
+            5.896805,51.831617,0.000000
+            5.898080,51.832221,0.000000
+            5.906241,51.830495,0.000000
+            5.906637,51.830411,0.000000
+            5.908078,51.829506,0.000000
+            5.903694,51.826829,0.000000
+            5.903684,51.826826,0.000000
+            5.888321,51.823440,0.000000
+            5.887696,51.823302,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05320001 Lutjebroek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.209614,52.695361,0.000000
+            5.196134,52.692936,0.000000
+            5.187425,52.707797,0.000000
+            5.185933,52.710491,0.000000
+            5.201831,52.714910,0.000000
+            5.204387,52.712318,0.000000
+            5.207350,52.703667,0.000000
+            5.210759,52.700980,0.000000
+            5.209614,52.695361,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

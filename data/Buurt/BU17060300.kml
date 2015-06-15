@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17060300 Maarheeze</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.617864,51.320350,0.000000
+            5.625850,51.309922,0.000000
+            5.626897,51.308616,0.000000
+            5.624823,51.306142,0.000000
+            5.617924,51.302829,0.000000
+            5.613273,51.305077,0.000000
+            5.610484,51.307782,0.000000
+            5.605053,51.306270,0.000000
+            5.604243,51.306796,0.000000
+            5.602664,51.309069,0.000000
+            5.606075,51.313114,0.000000
+            5.602897,51.315623,0.000000
+            5.607329,51.315448,0.000000
+            5.608256,51.317331,0.000000
+            5.616039,51.318356,0.000000
+            5.617864,51.320350,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

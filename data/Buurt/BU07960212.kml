@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07960212 Bedrijvenpark De Brand</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.368402,51.683233,0.000000
+            5.368403,51.680635,0.000000
+            5.368403,51.680536,0.000000
+            5.356833,51.682332,0.000000
+            5.356748,51.682314,0.000000
+            5.347700,51.683894,0.000000
+            5.350742,51.693531,0.000000
+            5.351495,51.698738,0.000000
+            5.357720,51.697800,0.000000
+            5.356823,51.697614,0.000000
+            5.355377,51.696714,0.000000
+            5.362615,51.687727,0.000000
+            5.368402,51.683233,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

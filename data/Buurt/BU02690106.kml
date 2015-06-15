@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02690106 Verspreide huizen Duivendans</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.991867,52.486213,0.000000
+            6.002212,52.475431,0.000000
+            5.988310,52.467410,0.000000
+            5.986550,52.466266,0.000000
+            5.984878,52.465030,0.000000
+            5.976594,52.471825,0.000000
+            5.968625,52.471622,0.000000
+            5.965324,52.474554,0.000000
+            5.965440,52.476749,0.000000
+            5.965736,52.476456,0.000000
+            5.970199,52.480029,0.000000
+            5.970565,52.480273,0.000000
+            5.983529,52.488924,0.000000
+            5.991867,52.486213,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

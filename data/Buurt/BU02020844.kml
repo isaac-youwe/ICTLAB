@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02020844 Angerenstein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.940218,51.997213,0.000000
+            5.942459,51.995828,0.000000
+            5.945185,51.996013,0.000000
+            5.946301,51.992134,0.000000
+            5.943834,51.991304,0.000000
+            5.934225,51.988826,0.000000
+            5.934137,51.990467,0.000000
+            5.931417,51.991883,0.000000
+            5.932077,51.992547,0.000000
+            5.933471,51.994616,0.000000
+            5.938869,51.998030,0.000000
+            5.940218,51.997213,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

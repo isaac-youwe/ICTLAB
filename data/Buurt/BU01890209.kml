@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01890209 Verspreide huizen Hooge-Hexel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.580945,52.409573,0.000000
+            6.596301,52.386302,0.000000
+            6.596327,52.386278,0.000000
+            6.594753,52.385406,0.000000
+            6.593826,52.382576,0.000000
+            6.569941,52.380392,0.000000
+            6.570520,52.379040,0.000000
+            6.566591,52.379240,0.000000
+            6.560840,52.379533,0.000000
+            6.558788,52.376656,0.000000
+            6.536541,52.382627,0.000000
+            6.519577,52.381192,0.000000
+            6.513258,52.381728,0.000000
+            6.513909,52.381722,0.000000
+            6.508307,52.392562,0.000000
+            6.509844,52.395244,0.000000
+            6.509969,52.395463,0.000000
+            6.515995,52.405973,0.000000
+            6.516402,52.406048,0.000000
+            6.576558,52.417066,0.000000
+            6.580774,52.409832,0.000000
+            6.580945,52.409573,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.557097,52.395778,0.000000
+            6.563187,52.392170,0.000000
+            6.564620,52.392881,0.000000
+            6.566900,52.397034,0.000000
+            6.562347,52.402508,0.000000
+            6.557097,52.395778,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

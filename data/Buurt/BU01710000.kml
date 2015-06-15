@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01710000 Emmeloord-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.749583,52.709483,0.000000
+            5.745997,52.708823,0.000000
+            5.743024,52.714941,0.000000
+            5.739822,52.716145,0.000000
+            5.739895,52.717125,0.000000
+            5.746318,52.718523,0.000000
+            5.742528,52.723930,0.000000
+            5.757312,52.725507,0.000000
+            5.769610,52.725406,0.000000
+            5.770336,52.711842,0.000000
+            5.749583,52.709483,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

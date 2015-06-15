@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03650104 Markenbinnen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.783773,52.519477,0.000000
+            4.783056,52.519473,0.000000
+            4.776995,52.533748,0.000000
+            4.780950,52.535060,0.000000
+            4.784421,52.534757,0.000000
+            4.787318,52.533633,0.000000
+            4.802734,52.530909,0.000000
+            4.800523,52.528830,0.000000
+            4.796511,52.528456,0.000000
+            4.790616,52.526377,0.000000
+            4.788322,52.523804,0.000000
+            4.788564,52.519501,0.000000
+            4.783773,52.519477,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

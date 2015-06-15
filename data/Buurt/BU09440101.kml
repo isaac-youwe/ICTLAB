@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09440101 Middelaar Katerbosch en Heikant</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.921308,51.721571,0.000000
+            5.919808,51.717083,0.000000
+            5.905356,51.718946,0.000000
+            5.892498,51.722562,0.000000
+            5.892370,51.722598,0.000000
+            5.886610,51.725320,0.000000
+            5.885193,51.728023,0.000000
+            5.883824,51.735220,0.000000
+            5.883800,51.735289,0.000000
+            5.901021,51.740580,0.000000
+            5.915554,51.731301,0.000000
+            5.930192,51.727974,0.000000
+            5.930068,51.727824,0.000000
+            5.921308,51.721571,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

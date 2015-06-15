@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990329 Schiemond</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.448296,51.903701,0.000000
+            4.452043,51.903444,0.000000
+            4.462938,51.906157,0.000000
+            4.466726,51.900118,0.000000
+            4.459527,51.899193,0.000000
+            4.450800,51.899537,0.000000
+            4.435374,51.901931,0.000000
+            4.436011,51.903723,0.000000
+            4.441934,51.906535,0.000000
+            4.448296,51.903701,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

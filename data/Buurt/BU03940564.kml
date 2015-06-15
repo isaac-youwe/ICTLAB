@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940564 Nieuwe Meer Badhoevedorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.816657,52.313798,0.000000
+            4.816660,52.313524,0.000000
+            4.814445,52.315959,0.000000
+            4.810584,52.317244,0.000000
+            4.802439,52.324729,0.000000
+            4.794893,52.328784,0.000000
+            4.801546,52.332283,0.000000
+            4.797856,52.334340,0.000000
+            4.797385,52.334603,0.000000
+            4.797806,52.335278,0.000000
+            4.798771,52.335283,0.000000
+            4.799142,52.335116,0.000000
+            4.816116,52.327446,0.000000
+            4.816483,52.327280,0.000000
+            4.817973,52.325489,0.000000
+            4.816657,52.313798,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

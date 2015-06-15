@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02810201 Kapel-Avezaath</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.381631,51.883848,0.000000
+            5.384195,51.881092,0.000000
+            5.389127,51.880470,0.000000
+            5.389493,51.879339,0.000000
+            5.381637,51.878062,0.000000
+            5.375715,51.878199,0.000000
+            5.375497,51.874566,0.000000
+            5.372024,51.875269,0.000000
+            5.371529,51.878786,0.000000
+            5.359374,51.880110,0.000000
+            5.363660,51.882220,0.000000
+            5.377361,51.882179,0.000000
+            5.381631,51.883848,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

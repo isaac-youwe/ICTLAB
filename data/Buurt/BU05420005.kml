@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05420005 Lansingh-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.609723,51.913248,0.000000
+            4.617185,51.908402,0.000000
+            4.622805,51.909061,0.000000
+            4.623245,51.908261,0.000000
+            4.622686,51.908180,0.000000
+            4.600902,51.907137,0.000000
+            4.596558,51.906209,0.000000
+            4.596552,51.906206,0.000000
+            4.596948,51.907879,0.000000
+            4.609723,51.913248,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

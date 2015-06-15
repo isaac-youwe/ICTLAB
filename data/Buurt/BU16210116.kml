@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16210116 Lint Berkel Binnen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.483879,52.000888,0.000000
+            4.478229,51.994229,0.000000
+            4.476140,51.994806,0.000000
+            4.477652,51.995926,0.000000
+            4.474243,51.997078,0.000000
+            4.479161,51.999170,0.000000
+            4.481464,52.006802,0.000000
+            4.484596,52.006862,0.000000
+            4.483616,52.003123,0.000000
+            4.483879,52.000888,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

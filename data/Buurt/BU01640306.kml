@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640306 Middelhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.828405,52.294704,0.000000
+            6.831307,52.293770,0.000000
+            6.835704,52.293716,0.000000
+            6.836872,52.293702,0.000000
+            6.836640,52.291638,0.000000
+            6.832486,52.291929,0.000000
+            6.833111,52.290873,0.000000
+            6.831181,52.288561,0.000000
+            6.826749,52.288810,0.000000
+            6.825597,52.287771,0.000000
+            6.824519,52.287064,0.000000
+            6.820959,52.288050,0.000000
+            6.822137,52.290941,0.000000
+            6.823723,52.293666,0.000000
+            6.827124,52.295197,0.000000
+            6.828405,52.294704,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

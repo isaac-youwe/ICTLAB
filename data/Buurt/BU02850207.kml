@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02850207 Verspreide huizen Wilp-Achterhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.047410,52.220418,0.000000
+            6.066748,52.218972,0.000000
+            6.066854,52.220076,0.000000
+            6.073949,52.219564,0.000000
+            6.081288,52.217442,0.000000
+            6.087104,52.217113,0.000000
+            6.092415,52.218323,0.000000
+            6.090732,52.208675,0.000000
+            6.086023,52.204292,0.000000
+            6.086145,52.200710,0.000000
+            6.072400,52.197619,0.000000
+            6.057052,52.196639,0.000000
+            6.052903,52.203633,0.000000
+            6.047410,52.220418,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.071412,52.210989,0.000000
+            6.072495,52.209373,0.000000
+            6.081075,52.211643,0.000000
+            6.079400,52.212253,0.000000
+            6.073988,52.211822,0.000000
+            6.071412,52.210989,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

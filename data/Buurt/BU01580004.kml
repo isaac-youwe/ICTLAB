@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01580004 Haaksbergen Kern-4</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.729404,52.150736,0.000000
+            6.719219,52.149828,0.000000
+            6.728435,52.152139,0.000000
+            6.728050,52.153208,0.000000
+            6.732985,52.153624,0.000000
+            6.731567,52.156375,0.000000
+            6.736053,52.157644,0.000000
+            6.735929,52.152282,0.000000
+            6.729404,52.150736,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

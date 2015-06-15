@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06220605 Sportpark Holy</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.361536,51.925179,0.000000
+            4.352462,51.923213,0.000000
+            4.353674,51.925644,0.000000
+            4.359593,51.927059,0.000000
+            4.361025,51.928117,0.000000
+            4.359072,51.931212,0.000000
+            4.360150,51.931478,0.000000
+            4.358785,51.933644,0.000000
+            4.362576,51.934621,0.000000
+            4.363155,51.933596,0.000000
+            4.363391,51.933177,0.000000
+            4.363508,51.928069,0.000000
+            4.363514,51.927784,0.000000
+            4.362187,51.925202,0.000000
+            4.361536,51.925179,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

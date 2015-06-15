@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03550501 Huis ter Heide-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.261773,52.104780,0.000000
+            5.254871,52.101517,0.000000
+            5.251230,52.104038,0.000000
+            5.246581,52.103942,0.000000
+            5.240013,52.102664,0.000000
+            5.238795,52.104053,0.000000
+            5.236338,52.107649,0.000000
+            5.252151,52.112072,0.000000
+            5.259126,52.114393,0.000000
+            5.264146,52.115410,0.000000
+            5.269008,52.108734,0.000000
+            5.266249,52.108118,0.000000
+            5.263521,52.105338,0.000000
+            5.261773,52.104780,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

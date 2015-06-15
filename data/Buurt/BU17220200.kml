@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17220200 Birdaard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.873297,53.290103,0.000000
+            5.867730,53.288483,0.000000
+            5.865327,53.289591,0.000000
+            5.861677,53.288273,0.000000
+            5.861114,53.288501,0.000000
+            5.860078,53.288230,0.000000
+            5.864794,53.290204,0.000000
+            5.864412,53.290855,0.000000
+            5.871344,53.292951,0.000000
+            5.871272,53.295184,0.000000
+            5.874830,53.297564,0.000000
+            5.879559,53.298185,0.000000
+            5.882156,53.297700,0.000000
+            5.886428,53.293662,0.000000
+            5.883873,53.291817,0.000000
+            5.874107,53.291485,0.000000
+            5.873297,53.290103,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

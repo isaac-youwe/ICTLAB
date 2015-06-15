@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17311601 Balinge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.635061,52.808685,0.000000
+            6.629146,52.808453,0.000000
+            6.625539,52.810265,0.000000
+            6.623965,52.812520,0.000000
+            6.629557,52.813939,0.000000
+            6.632293,52.812024,0.000000
+            6.631357,52.810403,0.000000
+            6.635171,52.809327,0.000000
+            6.635061,52.808685,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

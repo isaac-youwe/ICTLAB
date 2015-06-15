@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02680510 Nije Veld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.858494,51.832586,0.000000
+            5.857981,51.830310,0.000000
+            5.843649,51.831546,0.000000
+            5.841781,51.828502,0.000000
+            5.836457,51.828440,0.000000
+            5.835311,51.831030,0.000000
+            5.841865,51.833485,0.000000
+            5.846894,51.835946,0.000000
+            5.851256,51.840796,0.000000
+            5.852107,51.836681,0.000000
+            5.858494,51.832586,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

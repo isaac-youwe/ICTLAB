@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01730003 Westelijke stadsrand</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.926519,52.310355,0.000000
+            6.926655,52.308820,0.000000
+            6.930218,52.309137,0.000000
+            6.933439,52.311002,0.000000
+            6.936837,52.308211,0.000000
+            6.939171,52.308323,0.000000
+            6.940566,52.307065,0.000000
+            6.931164,52.306194,0.000000
+            6.923922,52.304458,0.000000
+            6.918560,52.309790,0.000000
+            6.918970,52.314237,0.000000
+            6.917358,52.315085,0.000000
+            6.924823,52.318733,0.000000
+            6.930576,52.320692,0.000000
+            6.931412,52.317756,0.000000
+            6.930658,52.315667,0.000000
+            6.921556,52.314305,0.000000
+            6.926519,52.310355,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

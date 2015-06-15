@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220406 Buitengebied Nutselaer en Abdij</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.352806,51.963707,0.000000
+            6.365862,51.956035,0.000000
+            6.370323,51.956739,0.000000
+            6.376240,51.954573,0.000000
+            6.373282,51.954093,0.000000
+            6.368824,51.947978,0.000000
+            6.364508,51.946215,0.000000
+            6.354704,51.948343,0.000000
+            6.343226,51.949645,0.000000
+            6.342555,51.950943,0.000000
+            6.339230,51.951157,0.000000
+            6.337384,51.953273,0.000000
+            6.331047,51.954211,0.000000
+            6.328874,51.955209,0.000000
+            6.333069,51.956810,0.000000
+            6.338441,51.960547,0.000000
+            6.338301,51.965492,0.000000
+            6.347202,51.966597,0.000000
+            6.352806,51.963707,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

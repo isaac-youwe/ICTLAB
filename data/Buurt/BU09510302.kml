@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09510302 Oensel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.825121,50.913781,0.000000
+            5.821053,50.912166,0.000000
+            5.817648,50.913516,0.000000
+            5.814347,50.912090,0.000000
+            5.815227,50.908810,0.000000
+            5.814690,50.907974,0.000000
+            5.812516,50.907686,0.000000
+            5.803360,50.907259,0.000000
+            5.799149,50.907905,0.000000
+            5.800983,50.908476,0.000000
+            5.802453,50.913865,0.000000
+            5.801031,50.913870,0.000000
+            5.826654,50.916473,0.000000
+            5.826769,50.916497,0.000000
+            5.825121,50.913781,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04020101 Raadhuiskwartier</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.171335,52.226328,0.000000
+            5.170731,52.226151,0.000000
+            5.165053,52.228975,0.000000
+            5.168321,52.229878,0.000000
+            5.169823,52.231971,0.000000
+            5.168213,52.232496,0.000000
+            5.168019,52.234137,0.000000
+            5.173627,52.234582,0.000000
+            5.175118,52.235783,0.000000
+            5.175805,52.234552,0.000000
+            5.176479,52.233451,0.000000
+            5.175418,52.227452,0.000000
+            5.171335,52.226328,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110522 De Berk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.887537,51.116439,0.000000
+            5.883401,51.111020,0.000000
+            5.877109,51.112207,0.000000
+            5.871040,51.114419,0.000000
+            5.875897,51.116744,0.000000
+            5.875328,51.117933,0.000000
+            5.873630,51.118147,0.000000
+            5.876222,51.119490,0.000000
+            5.891363,51.127539,0.000000
+            5.892195,51.126285,0.000000
+            5.896021,51.125495,0.000000
+            5.893643,51.122875,0.000000
+            5.896128,51.122237,0.000000
+            5.887537,51.116439,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

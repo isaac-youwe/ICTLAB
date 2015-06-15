@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17300200 Zuidlaarderveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.757116,53.099023,0.000000
+            6.763534,53.090961,0.000000
+            6.762222,53.090585,0.000000
+            6.758166,53.089421,0.000000
+            6.758069,53.089504,0.000000
+            6.756525,53.091201,0.000000
+            6.757613,53.091636,0.000000
+            6.754850,53.093059,0.000000
+            6.753623,53.092013,0.000000
+            6.752213,53.093745,0.000000
+            6.754186,53.094362,0.000000
+            6.751631,53.099670,0.000000
+            6.748260,53.101792,0.000000
+            6.745638,53.108370,0.000000
+            6.748390,53.110077,0.000000
+            6.752329,53.102408,0.000000
+            6.757116,53.099023,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

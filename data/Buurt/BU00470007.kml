@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00470007 Buitenwoel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.871701,53.110471,0.000000
+            6.867391,53.109606,0.000000
+            6.843254,53.110894,0.000000
+            6.844449,53.121967,0.000000
+            6.866046,53.121070,0.000000
+            6.867218,53.118395,0.000000
+            6.867700,53.117248,0.000000
+            6.869650,53.117144,0.000000
+            6.871233,53.115539,0.000000
+            6.871701,53.110471,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

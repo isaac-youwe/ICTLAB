@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04120301 Kolhorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.886810,52.789196,0.000000
+            4.877436,52.788020,0.000000
+            4.885821,52.795438,0.000000
+            4.881455,52.796818,0.000000
+            4.880444,52.798413,0.000000
+            4.879939,52.799459,0.000000
+            4.880037,52.799460,0.000000
+            4.880017,52.801257,0.000000
+            4.893383,52.799516,0.000000
+            4.893405,52.799513,0.000000
+            4.893113,52.795657,0.000000
+            4.894493,52.793708,0.000000
+            4.890835,52.790712,0.000000
+            4.886810,52.789196,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

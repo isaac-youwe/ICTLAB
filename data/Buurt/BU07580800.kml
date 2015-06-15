@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07580800 Ulvenhout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.800884,51.557317,0.000000
+            4.807703,51.548742,0.000000
+            4.813613,51.549739,0.000000
+            4.814466,51.548271,0.000000
+            4.808958,51.546843,0.000000
+            4.812095,51.545417,0.000000
+            4.809249,51.543903,0.000000
+            4.800021,51.541766,0.000000
+            4.796241,51.539055,0.000000
+            4.793604,51.540369,0.000000
+            4.792127,51.544541,0.000000
+            4.791840,51.549011,0.000000
+            4.793007,51.549058,0.000000
+            4.792027,51.553246,0.000000
+            4.793980,51.555497,0.000000
+            4.797527,51.557281,0.000000
+            4.800884,51.557317,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

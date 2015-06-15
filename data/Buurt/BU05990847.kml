@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990847 Struisenburg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.514777,51.919595,0.000000
+            4.518312,51.915959,0.000000
+            4.515716,51.915839,0.000000
+            4.513750,51.916601,0.000000
+            4.512370,51.914665,0.000000
+            4.507415,51.916795,0.000000
+            4.500164,51.918089,0.000000
+            4.497609,51.922832,0.000000
+            4.498946,51.923153,0.000000
+            4.509324,51.921030,0.000000
+            4.514777,51.919595,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

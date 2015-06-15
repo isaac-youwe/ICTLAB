@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17010000 Diever</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.308547,52.860880,0.000000
+            6.317599,52.858242,0.000000
+            6.319772,52.859793,0.000000
+            6.321794,52.859611,0.000000
+            6.323364,52.858470,0.000000
+            6.323096,52.856886,0.000000
+            6.329537,52.858276,0.000000
+            6.330036,52.856030,0.000000
+            6.322317,52.848816,0.000000
+            6.323499,52.847640,0.000000
+            6.321354,52.846305,0.000000
+            6.316266,52.846473,0.000000
+            6.315729,52.847335,0.000000
+            6.315544,52.848166,0.000000
+            6.313701,52.847850,0.000000
+            6.313208,52.848614,0.000000
+            6.313986,52.851889,0.000000
+            6.305390,52.853734,0.000000
+            6.308547,52.860880,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

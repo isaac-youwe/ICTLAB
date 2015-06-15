@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00590100 Stroobos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.218652,53.241625,0.000000
+            6.223111,53.239796,0.000000
+            6.215570,53.237152,0.000000
+            6.215543,53.235714,0.000000
+            6.204218,53.236815,0.000000
+            6.201692,53.238284,0.000000
+            6.208005,53.238320,0.000000
+            6.211538,53.238928,0.000000
+            6.212963,53.240036,0.000000
+            6.216655,53.239963,0.000000
+            6.220048,53.243252,0.000000
+            6.218652,53.241625,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

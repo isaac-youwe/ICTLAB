@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18760208 Verspreide huizen Grote Veld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.361408,52.126877,0.000000
+            6.368651,52.124120,0.000000
+            6.369202,52.124285,0.000000
+            6.370673,52.118664,0.000000
+            6.365682,52.117878,0.000000
+            6.354204,52.112585,0.000000
+            6.343525,52.108154,0.000000
+            6.336956,52.108426,0.000000
+            6.336753,52.109090,0.000000
+            6.330469,52.109818,0.000000
+            6.326932,52.116003,0.000000
+            6.331982,52.120811,0.000000
+            6.322538,52.125480,0.000000
+            6.319713,52.130518,0.000000
+            6.309668,52.131628,0.000000
+            6.310387,52.131783,0.000000
+            6.328046,52.137936,0.000000
+            6.357222,52.135901,0.000000
+            6.357744,52.133802,0.000000
+            6.358566,52.130497,0.000000
+            6.361408,52.126877,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

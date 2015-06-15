@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02990010 Methen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.060577,51.935583,0.000000
+            6.055943,51.927167,0.000000
+            6.047465,51.930277,0.000000
+            6.046646,51.930609,0.000000
+            6.048862,51.931278,0.000000
+            6.051771,51.931262,0.000000
+            6.051784,51.932161,0.000000
+            6.053345,51.939344,0.000000
+            6.053358,51.940242,0.000000
+            6.053843,51.940240,0.000000
+            6.063113,51.937374,0.000000
+            6.060577,51.935583,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

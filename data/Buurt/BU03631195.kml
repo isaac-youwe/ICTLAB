@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03631195 Nellestein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.997027,52.317742,0.000000
+            4.997064,52.313631,0.000000
+            4.997677,52.313982,0.000000
+            5.001566,52.310802,0.000000
+            5.007544,52.309832,0.000000
+            5.014059,52.303799,0.000000
+            5.011814,52.303791,0.000000
+            5.008087,52.301483,0.000000
+            4.979834,52.301526,0.000000
+            4.976282,52.302644,0.000000
+            4.971354,52.308012,0.000000
+            4.989218,52.314158,0.000000
+            4.997027,52.317742,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

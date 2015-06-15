@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08850001 Lomm</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.176508,51.439617,0.000000
+            6.172646,51.439420,0.000000
+            6.162177,51.439694,0.000000
+            6.154046,51.440864,0.000000
+            6.156885,51.445167,0.000000
+            6.169682,51.455595,0.000000
+            6.178808,51.453376,0.000000
+            6.180534,51.440849,0.000000
+            6.176508,51.439617,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

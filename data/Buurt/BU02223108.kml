@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02223108 Nieuw-Wehl-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.179127,51.966572,0.000000
+            6.177168,51.965142,0.000000
+            6.173306,51.965602,0.000000
+            6.171815,51.964119,0.000000
+            6.169615,51.965270,0.000000
+            6.170130,51.968129,0.000000
+            6.171232,51.969561,0.000000
+            6.175385,51.969769,0.000000
+            6.175575,51.971664,0.000000
+            6.176851,51.971489,0.000000
+            6.178795,51.971083,0.000000
+            6.179127,51.966572,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

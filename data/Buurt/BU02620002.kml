@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02620002 Lochem-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.420252,52.149228,0.000000
+            6.419341,52.144349,0.000000
+            6.417459,52.149153,0.000000
+            6.409508,52.149329,0.000000
+            6.401625,52.151682,0.000000
+            6.404960,52.152910,0.000000
+            6.414598,52.158518,0.000000
+            6.417697,52.155025,0.000000
+            6.420252,52.149228,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

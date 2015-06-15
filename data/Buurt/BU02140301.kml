@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02140301 Ommeren met Den Eng</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.503840,51.938774,0.000000
+            5.495233,51.937976,0.000000
+            5.488787,51.940746,0.000000
+            5.490589,51.943252,0.000000
+            5.490395,51.945509,0.000000
+            5.487875,51.948237,0.000000
+            5.489570,51.949854,0.000000
+            5.488699,51.951238,0.000000
+            5.491423,51.952835,0.000000
+            5.492994,51.955003,0.000000
+            5.494567,51.954132,0.000000
+            5.494804,51.950389,0.000000
+            5.496165,51.948271,0.000000
+            5.504106,51.944848,0.000000
+            5.504285,51.943717,0.000000
+            5.504071,51.939425,0.000000
+            5.503840,51.938774,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

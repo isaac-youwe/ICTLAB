@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09620103 Groot-Doenrade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.921983,50.963346,0.000000
+            5.887690,50.960393,0.000000
+            5.889674,50.966192,0.000000
+            5.895346,50.974582,0.000000
+            5.895558,50.974625,0.000000
+            5.896982,50.974619,0.000000
+            5.905525,50.974581,0.000000
+            5.915534,50.978132,0.000000
+            5.919806,50.978113,0.000000
+            5.924047,50.975396,0.000000
+            5.916896,50.972732,0.000000
+            5.912573,50.968257,0.000000
+            5.918258,50.967332,0.000000
+            5.921983,50.963346,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

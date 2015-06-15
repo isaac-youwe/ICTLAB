@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01830709 Verspreide huizen Fleringen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.813731,52.395143,0.000000
+            6.815856,52.392683,0.000000
+            6.818740,52.394385,0.000000
+            6.820473,52.393680,0.000000
+            6.827014,52.384423,0.000000
+            6.825592,52.383786,0.000000
+            6.829292,52.375940,0.000000
+            6.829197,52.374031,0.000000
+            6.817402,52.364938,0.000000
+            6.814890,52.364207,0.000000
+            6.814506,52.364095,0.000000
+            6.807108,52.362386,0.000000
+            6.783673,52.359984,0.000000
+            6.783168,52.360991,0.000000
+            6.784533,52.361079,0.000000
+            6.784540,52.361724,0.000000
+            6.782751,52.380127,0.000000
+            6.781267,52.382638,0.000000
+            6.780450,52.384789,0.000000
+            6.794932,52.389934,0.000000
+            6.802315,52.393814,0.000000
+            6.806105,52.393540,0.000000
+            6.813731,52.395143,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.803197,52.379161,0.000000
+            6.808389,52.377505,0.000000
+            6.812610,52.380369,0.000000
+            6.807119,52.385235,0.000000
+            6.799404,52.382110,0.000000
+            6.803197,52.379161,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

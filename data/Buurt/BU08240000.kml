@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08240000 Oisterwijk-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.193842,51.578013,0.000000
+            5.182261,51.574918,0.000000
+            5.180628,51.579023,0.000000
+            5.183987,51.579928,0.000000
+            5.199385,51.583340,0.000000
+            5.200135,51.580612,0.000000
+            5.201978,51.579226,0.000000
+            5.193842,51.578013,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

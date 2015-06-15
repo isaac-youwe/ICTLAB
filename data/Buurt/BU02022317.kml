@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02022317 Rijkerswoerd-Midden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.887857,51.945188,0.000000
+            5.893575,51.942353,0.000000
+            5.897743,51.944841,0.000000
+            5.903225,51.943403,0.000000
+            5.895619,51.934738,0.000000
+            5.894755,51.934742,0.000000
+            5.887493,51.935672,0.000000
+            5.883235,51.937010,0.000000
+            5.886477,51.940802,0.000000
+            5.884105,51.941605,0.000000
+            5.887857,51.945188,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

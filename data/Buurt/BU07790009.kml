@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07790009 Verspreide huizen Raamsdonksveer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.858869,51.692299,0.000000
+            4.870033,51.687871,0.000000
+            4.875652,51.688498,0.000000
+            4.877955,51.686400,0.000000
+            4.882414,51.687167,0.000000
+            4.880429,51.674156,0.000000
+            4.879397,51.674312,0.000000
+            4.875338,51.674924,0.000000
+            4.862304,51.676664,0.000000
+            4.852097,51.683810,0.000000
+            4.843517,51.685544,0.000000
+            4.841938,51.688777,0.000000
+            4.843493,51.692501,0.000000
+            4.845539,51.693654,0.000000
+            4.851372,51.694252,0.000000
+            4.857661,51.696170,0.000000
+            4.865396,51.696943,0.000000
+            4.858035,51.692820,0.000000
+            4.858869,51.692299,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

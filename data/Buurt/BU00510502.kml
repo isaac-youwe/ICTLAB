@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00510502 Oldeouwer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.815167,52.920065,0.000000
+            5.803290,52.902235,0.000000
+            5.786299,52.905587,0.000000
+            5.791030,52.912765,0.000000
+            5.791285,52.914246,0.000000
+            5.788894,52.918607,0.000000
+            5.789135,52.921034,0.000000
+            5.789513,52.935797,0.000000
+            5.792962,52.935361,0.000000
+            5.797218,52.931702,0.000000
+            5.815167,52.920065,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

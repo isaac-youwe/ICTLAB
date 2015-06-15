@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01770600 Nieuw Heeten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.355338,52.318402,0.000000
+            6.352346,52.315730,0.000000
+            6.352219,52.315654,0.000000
+            6.350445,52.316824,0.000000
+            6.337542,52.315890,0.000000
+            6.331895,52.316935,0.000000
+            6.334265,52.323827,0.000000
+            6.340835,52.326124,0.000000
+            6.345426,52.329140,0.000000
+            6.355338,52.318402,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

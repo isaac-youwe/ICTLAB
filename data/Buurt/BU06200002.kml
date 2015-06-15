@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06200002 De Hagen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.111085,51.998646,0.000000
+            5.105754,51.989933,0.000000
+            5.097380,51.991100,0.000000
+            5.097426,51.991861,0.000000
+            5.097551,51.993080,0.000000
+            5.103758,51.992150,0.000000
+            5.105086,51.994753,0.000000
+            5.097464,51.995223,0.000000
+            5.095334,52.002778,0.000000
+            5.095901,52.002896,0.000000
+            5.103184,52.002914,0.000000
+            5.103351,52.002885,0.000000
+            5.112981,52.001211,0.000000
+            5.110266,52.000137,0.000000
+            5.109801,51.998853,0.000000
+            5.111085,51.998646,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

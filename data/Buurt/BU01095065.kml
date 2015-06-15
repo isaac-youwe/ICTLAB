@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01095065 Benneveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.753158,52.772373,0.000000
+            6.748986,52.771144,0.000000
+            6.747218,52.774416,0.000000
+            6.742080,52.777684,0.000000
+            6.740466,52.779747,0.000000
+            6.742886,52.781052,0.000000
+            6.750204,52.775734,0.000000
+            6.753158,52.772373,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

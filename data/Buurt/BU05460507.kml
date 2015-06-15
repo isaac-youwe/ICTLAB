@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05460507 Fortuinwijk-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.478226,52.137052,0.000000
+            4.467797,52.132896,0.000000
+            4.468363,52.133615,0.000000
+            4.468326,52.135412,0.000000
+            4.468245,52.135688,0.000000
+            4.466754,52.140794,0.000000
+            4.466753,52.140833,0.000000
+            4.476935,52.141774,0.000000
+            4.479092,52.139252,0.000000
+            4.476957,52.138401,0.000000
+            4.478226,52.137052,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

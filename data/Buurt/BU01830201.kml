@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01830201 Mariaparochie</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.705395,52.383352,0.000000
+            6.706790,52.382097,0.000000
+            6.708334,52.382733,0.000000
+            6.710674,52.380269,0.000000
+            6.706379,52.376977,0.000000
+            6.706219,52.377038,0.000000
+            6.706246,52.377937,0.000000
+            6.703305,52.382685,0.000000
+            6.705395,52.383352,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

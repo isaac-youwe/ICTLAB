@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00050000 Bedum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.603806,53.310187,0.000000
+            6.606271,53.305500,0.000000
+            6.612524,53.306732,0.000000
+            6.617135,53.296078,0.000000
+            6.609010,53.293877,0.000000
+            6.601319,53.293519,0.000000
+            6.592196,53.294318,0.000000
+            6.587319,53.297634,0.000000
+            6.582756,53.302390,0.000000
+            6.582941,53.304422,0.000000
+            6.586991,53.305385,0.000000
+            6.593928,53.310632,0.000000
+            6.593537,53.313502,0.000000
+            6.598708,53.314209,0.000000
+            6.599955,53.311388,0.000000
+            6.603806,53.310187,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

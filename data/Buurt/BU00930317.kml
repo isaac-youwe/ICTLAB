@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00930317 Verspreide huizen Lies-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.322223,53.392363,0.000000
+            5.324639,53.391923,0.000000
+            5.330550,53.393028,0.000000
+            5.332294,53.394603,0.000000
+            5.339062,53.388289,0.000000
+            5.348340,53.386359,0.000000
+            5.349316,53.385443,0.000000
+            5.343616,53.382885,0.000000
+            5.336103,53.381084,0.000000
+            5.333096,53.381982,0.000000
+            5.330092,53.380183,0.000000
+            5.329709,53.380011,0.000000
+            5.324142,53.387246,0.000000
+            5.318367,53.389539,0.000000
+            5.319165,53.391330,0.000000
+            5.320201,53.392297,0.000000
+            5.315778,53.394213,0.000000
+            5.317853,53.395028,0.000000
+            5.318786,53.395005,0.000000
+            5.321370,53.394163,0.000000
+            5.322223,53.392363,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

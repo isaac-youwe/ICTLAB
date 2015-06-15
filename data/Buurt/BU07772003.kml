@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07772003 Banakkers 4, Achter de Molen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.649880,51.557009,0.000000
+            4.646800,51.556248,0.000000
+            4.646907,51.559062,0.000000
+            4.643676,51.562173,0.000000
+            4.649016,51.562535,0.000000
+            4.654799,51.561604,0.000000
+            4.655162,51.559888,0.000000
+            4.649880,51.557009,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

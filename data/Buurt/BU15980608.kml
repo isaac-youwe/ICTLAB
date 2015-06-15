@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15980608 Verspreide huizen langs Obdammerdijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.900752,52.681898,0.000000
+            4.893679,52.678642,0.000000
+            4.886807,52.678741,0.000000
+            4.884593,52.676054,0.000000
+            4.890569,52.675282,0.000000
+            4.883040,52.667327,0.000000
+            4.880174,52.666947,0.000000
+            4.870990,52.667844,0.000000
+            4.871203,52.668197,0.000000
+            4.874066,52.676298,0.000000
+            4.876821,52.678849,0.000000
+            4.876992,52.679008,0.000000
+            4.878460,52.679913,0.000000
+            4.878365,52.680110,0.000000
+            4.882518,52.680179,0.000000
+            4.906426,52.687982,0.000000
+            4.905000,52.687214,0.000000
+            4.905010,52.686315,0.000000
+            4.913904,52.684553,0.000000
+            4.914245,52.684451,0.000000
+            4.900752,52.681898,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

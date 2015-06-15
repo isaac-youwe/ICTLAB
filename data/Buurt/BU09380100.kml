@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09380100 Ulestraten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.782927,50.911296,0.000000
+            5.797712,50.903641,0.000000
+            5.792563,50.899328,0.000000
+            5.783415,50.902770,0.000000
+            5.775872,50.898390,0.000000
+            5.769122,50.903143,0.000000
+            5.765900,50.904461,0.000000
+            5.775412,50.911262,0.000000
+            5.778248,50.910353,0.000000
+            5.782521,50.911238,0.000000
+            5.782927,50.911296,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

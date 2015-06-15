@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08580101 Agnetendal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.438837,51.355933,0.000000
+            5.440546,51.352389,0.000000
+            5.438036,51.350880,0.000000
+            5.432007,51.351304,0.000000
+            5.430684,51.352504,0.000000
+            5.429318,51.352420,0.000000
+            5.428582,51.353948,0.000000
+            5.428942,51.354628,0.000000
+            5.430553,51.354736,0.000000
+            5.433281,51.355102,0.000000
+            5.432137,51.357934,0.000000
+            5.434470,51.358418,0.000000
+            5.434027,51.358999,0.000000
+            5.437974,51.359658,0.000000
+            5.438837,51.355933,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

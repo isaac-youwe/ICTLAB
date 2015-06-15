@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04847101 Ziende</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.722941,52.109695,0.000000
+            4.730952,52.108400,0.000000
+            4.737792,52.109085,0.000000
+            4.740256,52.108220,0.000000
+            4.739007,52.106647,0.000000
+            4.740506,52.103959,0.000000
+            4.740502,52.103957,0.000000
+            4.734694,52.102129,0.000000
+            4.734544,52.102035,0.000000
+            4.734539,52.102032,0.000000
+            4.729317,52.106638,0.000000
+            4.722024,52.108551,0.000000
+            4.722941,52.109695,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

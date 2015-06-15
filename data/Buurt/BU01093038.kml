@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01093038 Geesbrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.638301,52.730513,0.000000
+            6.636478,52.722995,0.000000
+            6.629818,52.723161,0.000000
+            6.630133,52.727319,0.000000
+            6.627857,52.730203,0.000000
+            6.632830,52.730404,0.000000
+            6.636022,52.733073,0.000000
+            6.638301,52.730513,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

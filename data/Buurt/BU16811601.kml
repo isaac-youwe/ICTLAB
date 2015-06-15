@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16811601 Zandberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.021733,52.911394,0.000000
+            7.021411,52.902990,0.000000
+            7.017855,52.903171,0.000000
+            7.017731,52.913335,0.000000
+            7.022657,52.918963,0.000000
+            7.021283,52.920175,0.000000
+            7.022625,52.920824,0.000000
+            7.023052,52.920554,0.000000
+            7.027444,52.918696,0.000000
+            7.029423,52.918368,0.000000
+            7.028462,52.916986,0.000000
+            7.025630,52.916452,0.000000
+            7.021733,52.911394,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00590203 Boelenslaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.149877,53.158036,0.000000
+            6.148243,53.156743,0.000000
+            6.148258,53.157614,0.000000
+            6.143741,53.155845,0.000000
+            6.143110,53.155526,0.000000
+            6.138100,53.160214,0.000000
+            6.139273,53.163361,0.000000
+            6.143169,53.166899,0.000000
+            6.146774,53.165398,0.000000
+            6.149729,53.161765,0.000000
+            6.149877,53.158036,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

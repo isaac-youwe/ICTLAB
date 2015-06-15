@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110108 Wolfskoul</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.867019,51.067714,0.000000
+            5.866783,51.067141,0.000000
+            5.858738,51.067854,0.000000
+            5.859880,51.069775,0.000000
+            5.861995,51.070456,0.000000
+            5.862871,51.071252,0.000000
+            5.862206,51.071535,0.000000
+            5.871048,51.079571,0.000000
+            5.870289,51.075151,0.000000
+            5.867019,51.067714,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00340275 Veluwsekant</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.257629,52.354724,0.000000
+            5.243737,52.352510,0.000000
+            5.242537,52.354056,0.000000
+            5.243450,52.355382,0.000000
+            5.242765,52.356128,0.000000
+            5.253561,52.360232,0.000000
+            5.265493,52.363920,0.000000
+            5.269299,52.360125,0.000000
+            5.257629,52.354724,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

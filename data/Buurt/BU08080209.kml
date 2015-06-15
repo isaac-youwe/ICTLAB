@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08080209 Verspreide huizen Polder Oijen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.504721,51.827906,0.000000
+            5.507618,51.826105,0.000000
+            5.514857,51.820704,0.000000
+            5.516305,51.819804,0.000000
+            5.529354,51.817991,0.000000
+            5.535151,51.816186,0.000000
+            5.535130,51.809893,0.000000
+            5.532459,51.808244,0.000000
+            5.531411,51.807597,0.000000
+            5.498883,51.812216,0.000000
+            5.476789,51.816877,0.000000
+            5.477134,51.817143,0.000000
+            5.481504,51.826129,0.000000
+            5.484411,51.828824,0.000000
+            5.490191,51.830608,0.000000
+            5.490219,51.830617,0.000000
+            5.497474,51.830610,0.000000
+            5.504721,51.827906,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.498635,51.824973,0.000000
+            5.502881,51.818768,0.000000
+            5.507712,51.823823,0.000000
+            5.500461,51.827113,0.000000
+            5.498744,51.826368,0.000000
+            5.498635,51.824973,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

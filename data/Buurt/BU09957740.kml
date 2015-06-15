@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09957740 Vlotgrasweg-Natuurpark Lelystad</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.562196,52.457656,0.000000
+            5.549825,52.450183,0.000000
+            5.535028,52.460707,0.000000
+            5.507560,52.482396,0.000000
+            5.515162,52.486184,0.000000
+            5.521857,52.490803,0.000000
+            5.530032,52.500309,0.000000
+            5.531563,52.503347,0.000000
+            5.537235,52.505287,0.000000
+            5.552690,52.483796,0.000000
+            5.565323,52.470518,0.000000
+            5.572627,52.462442,0.000000
+            5.572628,52.462440,0.000000
+            5.562196,52.457656,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

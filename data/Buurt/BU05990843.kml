@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05990843 Kralingse Bos</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.537097,51.927732,0.000000
+            4.526194,51.926229,0.000000
+            4.518894,51.927259,0.000000
+            4.512174,51.930402,0.000000
+            4.502785,51.933797,0.000000
+            4.499280,51.937049,0.000000
+            4.496280,51.939479,0.000000
+            4.502944,51.942891,0.000000
+            4.512998,51.946071,0.000000
+            4.526041,51.948385,0.000000
+            4.528169,51.949006,0.000000
+            4.528605,51.948924,0.000000
+            4.534823,51.937423,0.000000
+            4.537886,51.927850,0.000000
+            4.537097,51.927732,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

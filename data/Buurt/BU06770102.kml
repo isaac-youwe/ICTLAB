@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06770102 Linie</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.076087,51.287570,0.000000
+            4.074400,51.286210,0.000000
+            4.074270,51.286165,0.000000
+            4.072403,51.286732,0.000000
+            4.061953,51.281916,0.000000
+            4.060546,51.281487,0.000000
+            4.057680,51.282079,0.000000
+            4.057593,51.283661,0.000000
+            4.058430,51.286048,0.000000
+            4.066737,51.290801,0.000000
+            4.073395,51.293591,0.000000
+            4.082211,51.292766,0.000000
+            4.074947,51.288337,0.000000
+            4.076087,51.287570,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

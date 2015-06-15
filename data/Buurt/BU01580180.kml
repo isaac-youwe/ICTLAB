@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01580180 Verspreide huizen Veldmaat ten zuiden spoorlijn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.788394,52.176305,0.000000
+            6.805252,52.166426,0.000000
+            6.805885,52.166738,0.000000
+            6.794594,52.149090,0.000000
+            6.762534,52.153509,0.000000
+            6.763186,52.157789,0.000000
+            6.761803,52.160575,0.000000
+            6.760056,52.161513,0.000000
+            6.766106,52.164849,0.000000
+            6.758078,52.169970,0.000000
+            6.777001,52.184447,0.000000
+            6.788025,52.176521,0.000000
+            6.788394,52.176305,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

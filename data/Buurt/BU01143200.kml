@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01143200 Weiteveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.005120,52.675333,0.000000
+            7.004642,52.670858,0.000000
+            7.003974,52.669803,0.000000
+            7.000530,52.669952,0.000000
+            6.998518,52.666295,0.000000
+            6.996342,52.666744,0.000000
+            6.998129,52.669880,0.000000
+            6.976066,52.670870,0.000000
+            6.974415,52.668709,0.000000
+            6.970905,52.669810,0.000000
+            6.971693,52.671461,0.000000
+            6.972214,52.672278,0.000000
+            6.972863,52.675788,0.000000
+            6.996118,52.674746,0.000000
+            6.997702,52.675664,0.000000
+            7.005120,52.675333,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

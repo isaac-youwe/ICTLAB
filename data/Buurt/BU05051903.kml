@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05051903 Louterbloemen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.649848,51.801735,0.000000
+            4.648906,51.797692,0.000000
+            4.641301,51.798576,0.000000
+            4.642094,51.800513,0.000000
+            4.643620,51.801332,0.000000
+            4.644298,51.800768,0.000000
+            4.649235,51.802164,0.000000
+            4.649848,51.801735,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

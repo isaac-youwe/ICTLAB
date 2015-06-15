@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00802302 Snakkerburen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.812269,53.219242,0.000000
+            5.811967,53.217634,0.000000
+            5.808073,53.217755,0.000000
+            5.808000,53.221295,0.000000
+            5.808159,53.224034,0.000000
+            5.814780,53.225596,0.000000
+            5.814380,53.223160,0.000000
+            5.813997,53.220501,0.000000
+            5.812269,53.219242,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

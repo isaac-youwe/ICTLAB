@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01970301 Aalten Kern Noordwest</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.580935,51.924154,0.000000
+            6.577928,51.924012,0.000000
+            6.573614,51.925123,0.000000
+            6.571702,51.926602,0.000000
+            6.570546,51.929539,0.000000
+            6.568412,51.930710,0.000000
+            6.573908,51.935040,0.000000
+            6.581605,51.933937,0.000000
+            6.582532,51.933905,0.000000
+            6.581034,51.929808,0.000000
+            6.581412,51.925084,0.000000
+            6.580935,51.924154,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02281302 Heestereng</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.628113,52.030546,0.000000
+            5.629256,52.027750,0.000000
+            5.623099,52.027814,0.000000
+            5.622181,52.021747,0.000000
+            5.610817,52.025740,0.000000
+            5.616368,52.034091,0.000000
+            5.618027,52.037700,0.000000
+            5.628250,52.035835,0.000000
+            5.628113,52.030546,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

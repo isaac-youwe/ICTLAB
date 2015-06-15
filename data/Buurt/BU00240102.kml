@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00240102 Garsthuizen (gedeeltelijk)</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.716946,53.366195,0.000000
+            6.712903,53.365590,0.000000
+            6.709742,53.366136,0.000000
+            6.707932,53.368540,0.000000
+            6.707519,53.369089,0.000000
+            6.707826,53.369266,0.000000
+            6.707977,53.369353,0.000000
+            6.712212,53.370975,0.000000
+            6.712539,53.371101,0.000000
+            6.715899,53.373213,0.000000
+            6.718597,53.370289,0.000000
+            6.716946,53.366195,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

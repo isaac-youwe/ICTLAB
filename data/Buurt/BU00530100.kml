@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00530100 Ezinge</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.450786,53.303043,0.000000
+            6.449033,53.302117,0.000000
+            6.436310,53.309296,0.000000
+            6.436328,53.313348,0.000000
+            6.441123,53.313164,0.000000
+            6.447871,53.311385,0.000000
+            6.448854,53.307631,0.000000
+            6.445065,53.307099,0.000000
+            6.450786,53.303043,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

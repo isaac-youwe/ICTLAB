@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08440201 De Beemd 1</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.451807,51.617092,0.000000
+            5.448017,51.615342,0.000000
+            5.445259,51.617122,0.000000
+            5.441550,51.618219,0.000000
+            5.438547,51.619286,0.000000
+            5.443466,51.623058,0.000000
+            5.453039,51.619263,0.000000
+            5.454784,51.617429,0.000000
+            5.451807,51.617092,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

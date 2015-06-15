@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18960200 Hasselt Kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.097035,52.589721,0.000000
+            6.094123,52.586522,0.000000
+            6.085186,52.591860,0.000000
+            6.091020,52.593975,0.000000
+            6.092479,52.596424,0.000000
+            6.094468,52.595906,0.000000
+            6.095351,52.593720,0.000000
+            6.093306,52.593025,0.000000
+            6.097035,52.589721,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

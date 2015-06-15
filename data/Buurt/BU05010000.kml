@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05010000 Brielle</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.167894,51.898993,0.000000
+            4.164635,51.898389,0.000000
+            4.158788,51.899409,0.000000
+            4.154784,51.903338,0.000000
+            4.156702,51.904074,0.000000
+            4.158118,51.907165,0.000000
+            4.163628,51.909866,0.000000
+            4.165250,51.909175,0.000000
+            4.167213,51.907749,0.000000
+            4.172568,51.905968,0.000000
+            4.173257,51.904264,0.000000
+            4.169623,51.900445,0.000000
+            4.167894,51.898993,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

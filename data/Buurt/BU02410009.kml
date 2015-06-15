@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02410009 Verspreide huizen Meerwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.917025,51.816103,0.000000
+            5.922338,51.815129,0.000000
+            5.926978,51.815380,0.000000
+            5.929581,51.816857,0.000000
+            5.935469,51.814998,0.000000
+            5.942710,51.814065,0.000000
+            5.948477,51.811341,0.000000
+            5.950958,51.810557,0.000000
+            5.945579,51.803363,0.000000
+            5.940204,51.803383,0.000000
+            5.935249,51.800278,0.000000
+            5.931863,51.799517,0.000000
+            5.920404,51.799889,0.000000
+            5.920612,51.798329,0.000000
+            5.917331,51.798210,0.000000
+            5.907665,51.818513,0.000000
+            5.908133,51.821599,0.000000
+            5.917025,51.816103,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

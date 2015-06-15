@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01630203 Galgeman-industrieterrein-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.474489,52.366475,0.000000
+            6.474701,52.365291,0.000000
+            6.471728,52.365487,0.000000
+            6.461204,52.366325,0.000000
+            6.452862,52.376116,0.000000
+            6.460272,52.376513,0.000000
+            6.463202,52.375920,0.000000
+            6.463986,52.373461,0.000000
+            6.469839,52.370570,0.000000
+            6.474489,52.366475,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

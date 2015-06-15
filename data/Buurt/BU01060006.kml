@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060006 Oosterhoutstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.560075,52.987516,0.000000
+            6.559382,52.983649,0.000000
+            6.557596,52.984013,0.000000
+            6.552668,52.989408,0.000000
+            6.559956,52.990749,0.000000
+            6.564713,52.990599,0.000000
+            6.563686,52.989783,0.000000
+            6.565866,52.988831,0.000000
+            6.560075,52.987516,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

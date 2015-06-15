@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09930103 Swolgen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.116732,51.498360,0.000000
+            6.127813,51.495232,0.000000
+            6.135402,51.495523,0.000000
+            6.142125,51.494603,0.000000
+            6.143198,51.494082,0.000000
+            6.143306,51.493802,0.000000
+            6.136002,51.487556,0.000000
+            6.135554,51.487231,0.000000
+            6.112691,51.470622,0.000000
+            6.092894,51.484131,0.000000
+            6.105544,51.492340,0.000000
+            6.109577,51.492184,0.000000
+            6.108383,51.497150,0.000000
+            6.116732,51.498360,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

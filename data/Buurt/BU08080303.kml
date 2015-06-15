@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08080303 t Wild</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.370336,51.762440,0.000000
+            5.368024,51.760029,0.000000
+            5.365411,51.761580,0.000000
+            5.363396,51.761701,0.000000
+            5.363643,51.770996,0.000000
+            5.368007,51.770072,0.000000
+            5.367206,51.769302,0.000000
+            5.373529,51.763944,0.000000
+            5.370336,51.762440,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

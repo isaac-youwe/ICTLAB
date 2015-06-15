@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110104 Middelveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.857166,51.070557,0.000000
+            5.857284,51.068875,0.000000
+            5.859880,51.069775,0.000000
+            5.858738,51.067854,0.000000
+            5.855777,51.065502,0.000000
+            5.853145,51.064249,0.000000
+            5.849495,51.068232,0.000000
+            5.854160,51.071184,0.000000
+            5.857166,51.070557,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

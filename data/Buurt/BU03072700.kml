@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03072700 Weerhorst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.369671,52.181586,0.000000
+            5.369111,52.175043,0.000000
+            5.373917,52.169765,0.000000
+            5.375503,52.168022,0.000000
+            5.375517,52.166306,0.000000
+            5.374533,52.165864,0.000000
+            5.361768,52.171580,0.000000
+            5.349171,52.175816,0.000000
+            5.349187,52.175841,0.000000
+            5.344800,52.176738,0.000000
+            5.344233,52.176912,0.000000
+            5.345922,52.179624,0.000000
+            5.351150,52.181548,0.000000
+            5.353176,52.180876,0.000000
+            5.361146,52.182555,0.000000
+            5.369671,52.181586,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

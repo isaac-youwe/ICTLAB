@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02220202 Schrijvers en dichtersbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.303902,51.968697,0.000000
+            6.301178,51.967054,0.000000
+            6.297240,51.968977,0.000000
+            6.301177,51.972541,0.000000
+            6.303820,51.974393,0.000000
+            6.310908,51.970848,0.000000
+            6.307823,51.968927,0.000000
+            6.303902,51.968697,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

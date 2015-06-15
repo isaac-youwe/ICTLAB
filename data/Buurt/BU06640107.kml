@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06640107 Industrieterrein De Poel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.897645,51.479823,0.000000
+            3.897607,51.479521,0.000000
+            3.897014,51.479547,0.000000
+            3.879688,51.481122,0.000000
+            3.873191,51.482731,0.000000
+            3.871013,51.484501,0.000000
+            3.871768,51.498132,0.000000
+            3.886615,51.498080,0.000000
+            3.887599,51.494968,0.000000
+            3.885013,51.493046,0.000000
+            3.886872,51.492067,0.000000
+            3.884780,51.490571,0.000000
+            3.896027,51.483435,0.000000
+            3.897613,51.481005,0.000000
+            3.897645,51.479823,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

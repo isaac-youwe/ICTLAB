@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05050404 Sportterreinen Krommedijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.692713,51.799636,0.000000
+            4.686745,51.798023,0.000000
+            4.685883,51.799805,0.000000
+            4.686760,51.801862,0.000000
+            4.689726,51.804734,0.000000
+            4.697848,51.804001,0.000000
+            4.697018,51.803298,0.000000
+            4.692713,51.799636,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

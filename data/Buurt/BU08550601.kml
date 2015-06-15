@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550601 Groenewoud</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.111326,51.545331,0.000000
+            5.113275,51.542528,0.000000
+            5.113285,51.540877,0.000000
+            5.108988,51.536372,0.000000
+            5.106116,51.534568,0.000000
+            5.104680,51.533665,0.000000
+            5.100520,51.531050,0.000000
+            5.094106,51.535148,0.000000
+            5.075766,51.536776,0.000000
+            5.077390,51.543898,0.000000
+            5.082947,51.543518,0.000000
+            5.092618,51.543702,0.000000
+            5.103783,51.548661,0.000000
+            5.109750,51.551555,0.000000
+            5.111326,51.545331,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16630004 Niekerk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.332822,53.340249,0.000000
+            6.330308,53.339394,0.000000
+            6.326586,53.342409,0.000000
+            6.327350,53.343474,0.000000
+            6.331367,53.345125,0.000000
+            6.334262,53.343791,0.000000
+            6.334348,53.341982,0.000000
+            6.332822,53.340249,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17340202 Andelst</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.741845,51.908245,0.000000
+            5.736330,51.906414,0.000000
+            5.735774,51.907279,0.000000
+            5.730529,51.905792,0.000000
+            5.731737,51.903507,0.000000
+            5.730969,51.902489,0.000000
+            5.728557,51.902967,0.000000
+            5.724638,51.901356,0.000000
+            5.720205,51.900968,0.000000
+            5.719155,51.907897,0.000000
+            5.725913,51.909208,0.000000
+            5.727519,51.910244,0.000000
+            5.727614,51.911444,0.000000
+            5.734368,51.913044,0.000000
+            5.740788,51.914063,0.000000
+            5.742936,51.912685,0.000000
+            5.741845,51.908245,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

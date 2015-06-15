@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00790309 Verspreide huizen Kollumerzwaag</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.074947,53.260776,0.000000
+            6.074886,53.248815,0.000000
+            6.053975,53.245358,0.000000
+            6.053914,53.245348,0.000000
+            6.050904,53.244466,0.000000
+            6.050179,53.244384,0.000000
+            6.050987,53.251913,0.000000
+            6.046580,53.251836,0.000000
+            6.049640,53.259751,0.000000
+            6.049648,53.259784,0.000000
+            6.061774,53.258698,0.000000
+            6.074947,53.260776,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.072861,53.276746,0.000000
+            6.069856,53.272645,0.000000
+            6.076027,53.273245,0.000000
+            6.075539,53.265468,0.000000
+            6.060980,53.265036,0.000000
+            6.050353,53.262931,0.000000
+            6.050806,53.264953,0.000000
+            6.051250,53.266931,0.000000
+            6.054590,53.290945,0.000000
+            6.054622,53.291177,0.000000
+            6.065149,53.292915,0.000000
+            6.072648,53.292873,0.000000
+            6.072647,53.292873,0.000000
+            6.073068,53.292520,0.000000
+            6.073006,53.281393,0.000000
+            6.072861,53.276746,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

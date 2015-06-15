@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03770001 Veen en Duin</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.629472,52.411840,0.000000
+            4.630180,52.411630,0.000000
+            4.631210,52.411636,0.000000
+            4.631650,52.411639,0.000000
+            4.628799,52.407145,0.000000
+            4.624891,52.407051,0.000000
+            4.626769,52.410816,0.000000
+            4.629472,52.411840,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

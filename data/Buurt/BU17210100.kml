@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17210100 Nistelrode</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.569052,51.699017,0.000000
+            5.559023,51.697060,0.000000
+            5.557466,51.697768,0.000000
+            5.558720,51.698950,0.000000
+            5.557714,51.700495,0.000000
+            5.551077,51.702343,0.000000
+            5.551098,51.703473,0.000000
+            5.552935,51.705349,0.000000
+            5.555485,51.706009,0.000000
+            5.554937,51.708395,0.000000
+            5.557866,51.710240,0.000000
+            5.557633,51.713476,0.000000
+            5.561493,51.714530,0.000000
+            5.567715,51.714651,0.000000
+            5.575237,51.702042,0.000000
+            5.569052,51.699017,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280708 Klein Mikkeldonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.494526,51.772400,0.000000
+            5.492948,51.772390,0.000000
+            5.492984,51.774061,0.000000
+            5.495265,51.775836,0.000000
+            5.492795,51.777747,0.000000
+            5.498066,51.779814,0.000000
+            5.501048,51.777437,0.000000
+            5.502070,51.774420,0.000000
+            5.502322,51.773220,0.000000
+            5.494526,51.772400,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

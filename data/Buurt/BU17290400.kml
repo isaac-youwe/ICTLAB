@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290400 Mechelen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.933209,50.796089,0.000000
+            5.934382,50.788206,0.000000
+            5.926822,50.788228,0.000000
+            5.924740,50.791411,0.000000
+            5.921779,50.791748,0.000000
+            5.915702,50.790050,0.000000
+            5.914676,50.792202,0.000000
+            5.913761,50.798953,0.000000
+            5.938318,50.799516,0.000000
+            5.938391,50.796290,0.000000
+            5.933209,50.796089,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU15810200 Leersum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.446263,52.015771,0.000000
+            5.443640,52.006757,0.000000
+            5.440644,52.004814,0.000000
+            5.434810,52.005015,0.000000
+            5.428921,52.003920,0.000000
+            5.412437,52.010260,0.000000
+            5.407473,52.009559,0.000000
+            5.405869,52.010225,0.000000
+            5.406015,52.011550,0.000000
+            5.412476,52.015347,0.000000
+            5.418901,52.019331,0.000000
+            5.421416,52.020695,0.000000
+            5.431698,52.022715,0.000000
+            5.437651,52.022207,0.000000
+            5.443636,52.020263,0.000000
+            5.446263,52.015771,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

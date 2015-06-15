@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721724 Bennekel-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.461399,51.423659,0.000000
+            5.465269,51.422694,0.000000
+            5.469974,51.422949,0.000000
+            5.468964,51.421781,0.000000
+            5.469241,51.419094,0.000000
+            5.466759,51.416233,0.000000
+            5.464688,51.415881,0.000000
+            5.458451,51.415269,0.000000
+            5.458989,51.418115,0.000000
+            5.456501,51.421807,0.000000
+            5.461399,51.423659,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

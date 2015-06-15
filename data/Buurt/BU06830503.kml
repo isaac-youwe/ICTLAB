@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830503 Tjalhuizum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.621326,53.042970,0.000000
+            5.620977,53.042708,0.000000
+            5.610153,53.045712,0.000000
+            5.605889,53.046201,0.000000
+            5.605344,53.049939,0.000000
+            5.612205,53.054429,0.000000
+            5.615355,53.053446,0.000000
+            5.620624,53.049809,0.000000
+            5.625219,53.049225,0.000000
+            5.624317,53.047862,0.000000
+            5.625761,53.047391,0.000000
+            5.621326,53.042970,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03930004 Haarlemmerliede en Penningsveer</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.694076,52.390489,0.000000
+            4.699574,52.385164,0.000000
+            4.704213,52.385413,0.000000
+            4.706938,52.382408,0.000000
+            4.677776,52.376868,0.000000
+            4.686060,52.383765,0.000000
+            4.686475,52.384111,0.000000
+            4.686418,52.387706,0.000000
+            4.683298,52.388322,0.000000
+            4.678036,52.393073,0.000000
+            4.680651,52.404810,0.000000
+            4.681856,52.406092,0.000000
+            4.684021,52.405512,0.000000
+            4.684528,52.394313,0.000000
+            4.689258,52.391033,0.000000
+            4.694076,52.390489,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

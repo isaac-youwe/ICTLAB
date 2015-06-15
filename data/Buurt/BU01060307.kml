@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01060307 Stichtingsterrein</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.572657,52.970956,0.000000
+            6.562838,52.969215,0.000000
+            6.566925,52.982115,0.000000
+            6.561778,52.983163,0.000000
+            6.562293,52.985712,0.000000
+            6.566619,52.986834,0.000000
+            6.569081,52.986408,0.000000
+            6.568522,52.984942,0.000000
+            6.571448,52.984430,0.000000
+            6.574689,52.984047,0.000000
+            6.579202,52.980996,0.000000
+            6.577215,52.976802,0.000000
+            6.578995,52.974432,0.000000
+            6.572657,52.970956,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

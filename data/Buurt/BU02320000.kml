@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02320000 Epe-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.982132,52.354145,0.000000
+            5.987088,52.352337,0.000000
+            5.988660,52.353752,0.000000
+            5.991426,52.347961,0.000000
+            5.989997,52.347634,0.000000
+            5.989757,52.344440,0.000000
+            5.988030,52.343115,0.000000
+            5.983335,52.344750,0.000000
+            5.980056,52.344993,0.000000
+            5.977685,52.346810,0.000000
+            5.979807,52.347787,0.000000
+            5.979570,52.350787,0.000000
+            5.982132,52.354145,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

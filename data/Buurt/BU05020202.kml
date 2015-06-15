@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020202 s-Gravenpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.578111,51.930481,0.000000
+            4.577779,51.930319,0.000000
+            4.576544,51.931135,0.000000
+            4.577226,51.931731,0.000000
+            4.575581,51.934508,0.000000
+            4.576437,51.934988,0.000000
+            4.579581,51.936657,0.000000
+            4.583284,51.933414,0.000000
+            4.578111,51.930481,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

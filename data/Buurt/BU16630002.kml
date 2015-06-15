@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16630002 Houwerzijl</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.344213,53.334286,0.000000
+            6.341296,53.332939,0.000000
+            6.338714,53.333346,0.000000
+            6.337267,53.336171,0.000000
+            6.338130,53.338203,0.000000
+            6.340972,53.339522,0.000000
+            6.344172,53.339252,0.000000
+            6.346636,53.337236,0.000000
+            6.344213,53.334286,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

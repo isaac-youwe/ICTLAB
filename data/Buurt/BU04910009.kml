@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04910009 Bovenberg westelijk van de Fransekade</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.830101,51.949233,0.000000
+            4.811130,51.942121,0.000000
+            4.808309,51.956949,0.000000
+            4.813900,51.958711,0.000000
+            4.812335,51.969300,0.000000
+            4.812307,51.969490,0.000000
+            4.822450,51.973135,0.000000
+            4.825372,51.972250,0.000000
+            4.825921,51.971585,0.000000
+            4.826850,51.970460,0.000000
+            4.830017,51.949799,0.000000
+            4.830101,51.949233,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

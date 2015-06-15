@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03850200 Volendam-Oude Kom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.076478,52.492740,0.000000
+            5.069134,52.490024,0.000000
+            5.063238,52.490907,0.000000
+            5.058860,52.485502,0.000000
+            5.058820,52.490895,0.000000
+            5.057511,52.490891,0.000000
+            5.057530,52.491140,0.000000
+            5.068665,52.493637,0.000000
+            5.070491,52.495269,0.000000
+            5.075084,52.498905,0.000000
+            5.079328,52.498034,0.000000
+            5.076478,52.492740,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

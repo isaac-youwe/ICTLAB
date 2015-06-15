@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04370002 Industriegebied Amstel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.933834,52.326187,0.000000
+            4.924307,52.323305,0.000000
+            4.919467,52.323894,0.000000
+            4.913325,52.326401,0.000000
+            4.913283,52.330404,0.000000
+            4.922058,52.333136,0.000000
+            4.924973,52.334945,0.000000
+            4.925636,52.335356,0.000000
+            4.933834,52.326187,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

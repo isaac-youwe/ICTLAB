@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01960000 Lobith</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.125504,51.860028,0.000000
+            6.119890,51.858961,0.000000
+            6.115245,51.859461,0.000000
+            6.110014,51.857583,0.000000
+            6.109613,51.859496,0.000000
+            6.109531,51.859888,0.000000
+            6.109057,51.866160,0.000000
+            6.111950,51.866701,0.000000
+            6.111443,51.867952,0.000000
+            6.116675,51.868478,0.000000
+            6.125504,51.860028,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06540006 Verspreide huizen s-Heerenhoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.781009,51.475095,0.000000
+            3.785610,51.472284,0.000000
+            3.787711,51.472327,0.000000
+            3.791726,51.460622,0.000000
+            3.790234,51.457296,0.000000
+            3.798331,51.446009,0.000000
+            3.798699,51.442753,0.000000
+            3.793331,51.441482,0.000000
+            3.779284,51.440444,0.000000
+            3.766508,51.441337,0.000000
+            3.764268,51.442766,0.000000
+            3.747221,51.451734,0.000000
+            3.741890,51.455039,0.000000
+            3.739811,51.457479,0.000000
+            3.762081,51.463460,0.000000
+            3.769956,51.470537,0.000000
+            3.779525,51.477595,0.000000
+            3.781009,51.475095,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.761346,51.454760,0.000000
+            3.764939,51.450649,0.000000
+            3.776296,51.450813,0.000000
+            3.775980,51.455024,0.000000
+            3.772192,51.456236,0.000000
+            3.773076,51.458057,0.000000
+            3.768120,51.458967,0.000000
+            3.765914,51.458665,0.000000
+            3.766764,51.456153,0.000000
+            3.761346,51.454760,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07721235 Gijzenrooi</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.525260,51.427794,0.000000
+            5.525192,51.405434,0.000000
+            5.517266,51.409448,0.000000
+            5.509160,51.416754,0.000000
+            5.508341,51.417350,0.000000
+            5.510143,51.419289,0.000000
+            5.508831,51.422737,0.000000
+            5.514552,51.424458,0.000000
+            5.518697,51.427238,0.000000
+            5.519199,51.428723,0.000000
+            5.525260,51.427794,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02620001 Zuiderenk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.414598,52.158518,0.000000
+            6.404960,52.152910,0.000000
+            6.401923,52.155497,0.000000
+            6.400246,52.159573,0.000000
+            6.402595,52.161412,0.000000
+            6.406856,52.162900,0.000000
+            6.411900,52.162266,0.000000
+            6.412166,52.160939,0.000000
+            6.416735,52.159859,0.000000
+            6.414598,52.158518,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

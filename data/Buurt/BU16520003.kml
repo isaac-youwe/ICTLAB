@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16520003 Industrieterrein Scheiweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.712863,51.561070,0.000000
+            5.709069,51.560837,0.000000
+            5.701272,51.562944,0.000000
+            5.701516,51.563519,0.000000
+            5.704268,51.566831,0.000000
+            5.706938,51.567790,0.000000
+            5.725647,51.570683,0.000000
+            5.727006,51.566400,0.000000
+            5.716027,51.565764,0.000000
+            5.712927,51.563343,0.000000
+            5.712863,51.561070,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

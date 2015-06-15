@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16670200 Lage Mierde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.154845,51.395494,0.000000
+            5.153923,51.395156,0.000000
+            5.142861,51.401986,0.000000
+            5.141039,51.405814,0.000000
+            5.146832,51.411773,0.000000
+            5.149017,51.412144,0.000000
+            5.153477,51.406036,0.000000
+            5.154845,51.395494,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

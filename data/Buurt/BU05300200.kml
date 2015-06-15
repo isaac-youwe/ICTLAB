@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05300200 Nieuw-Helvoet</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.126560,51.840589,0.000000
+            4.127602,51.838459,0.000000
+            4.134139,51.838759,0.000000
+            4.133538,51.837999,0.000000
+            4.127874,51.837832,0.000000
+            4.123370,51.837686,0.000000
+            4.123420,51.833956,0.000000
+            4.120000,51.837807,0.000000
+            4.121572,51.841304,0.000000
+            4.126560,51.840589,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

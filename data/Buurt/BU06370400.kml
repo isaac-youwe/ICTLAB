@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06370400 Noordhove-West</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.522581,52.078664,0.000000
+            4.520724,52.077391,0.000000
+            4.519175,52.073123,0.000000
+            4.520910,52.072093,0.000000
+            4.520026,52.071570,0.000000
+            4.510224,52.077101,0.000000
+            4.510253,52.078117,0.000000
+            4.507940,52.078090,0.000000
+            4.509761,52.079428,0.000000
+            4.518686,52.080380,0.000000
+            4.525855,52.080184,0.000000
+            4.525696,52.078833,0.000000
+            4.522581,52.078664,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

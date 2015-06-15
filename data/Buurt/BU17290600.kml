@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290600 Slenaken</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.856551,50.781741,0.000000
+            5.855675,50.778182,0.000000
+            5.862822,50.778295,0.000000
+            5.864782,50.773408,0.000000
+            5.868019,50.772680,0.000000
+            5.868665,50.771656,0.000000
+            5.870548,50.765257,0.000000
+            5.863478,50.763498,0.000000
+            5.860625,50.761712,0.000000
+            5.852076,50.757251,0.000000
+            5.849206,50.753667,0.000000
+            5.846516,50.761579,0.000000
+            5.853282,50.763294,0.000000
+            5.854810,50.764589,0.000000
+            5.848727,50.773403,0.000000
+            5.851189,50.774424,0.000000
+            5.849741,50.777380,0.000000
+            5.853560,50.778216,0.000000
+            5.854804,50.781502,0.000000
+            5.856551,50.781741,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

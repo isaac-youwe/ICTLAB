@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03960601 De Die</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.692015,52.510718,0.000000
+            4.689280,52.508927,0.000000
+            4.688665,52.509181,0.000000
+            4.683502,52.511464,0.000000
+            4.681582,52.513955,0.000000
+            4.681427,52.514149,0.000000
+            4.687882,52.516712,0.000000
+            4.690280,52.515766,0.000000
+            4.690286,52.515369,0.000000
+            4.691830,52.510884,0.000000
+            4.692015,52.510718,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04120202 Zijdewind</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.844563,52.734782,0.000000
+            4.843957,52.732591,0.000000
+            4.843791,52.732789,0.000000
+            4.839326,52.734566,0.000000
+            4.831787,52.745317,0.000000
+            4.831599,52.745485,0.000000
+            4.831832,52.745608,0.000000
+            4.833080,52.745631,0.000000
+            4.829911,52.750238,0.000000
+            4.829093,52.755186,0.000000
+            4.832633,52.748267,0.000000
+            4.839417,52.744018,0.000000
+            4.844563,52.734782,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05230003 De Peulen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.832227,51.826193,0.000000
+            4.833113,51.823749,0.000000
+            4.837609,51.822756,0.000000
+            4.841398,51.820281,0.000000
+            4.841368,51.819492,0.000000
+            4.811334,51.818462,0.000000
+            4.811299,51.821158,0.000000
+            4.806936,51.822036,0.000000
+            4.806801,51.822118,0.000000
+            4.812355,51.824850,0.000000
+            4.821979,51.824400,0.000000
+            4.832227,51.826193,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07430200 Ommel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.761435,51.419358,0.000000
+            5.760975,51.417728,0.000000
+            5.759039,51.417981,0.000000
+            5.749558,51.419287,0.000000
+            5.742863,51.419903,0.000000
+            5.743947,51.424860,0.000000
+            5.746361,51.425557,0.000000
+            5.751043,51.425463,0.000000
+            5.758525,51.421813,0.000000
+            5.761435,51.419358,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

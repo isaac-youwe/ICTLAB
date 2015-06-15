@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03940555 Badhoevedorp-Sloterweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.788355,52.342068,0.000000
+            4.790363,52.340591,0.000000
+            4.784502,52.341751,0.000000
+            4.778370,52.337384,0.000000
+            4.773936,52.334158,0.000000
+            4.772491,52.334937,0.000000
+            4.777159,52.338389,0.000000
+            4.780467,52.340783,0.000000
+            4.784243,52.343310,0.000000
+            4.788355,52.342068,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

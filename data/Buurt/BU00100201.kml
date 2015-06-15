@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00100201 Termunten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            7.043453,53.301136,0.000000
+            7.049412,53.299508,0.000000
+            7.049546,53.299511,0.000000
+            7.050147,53.297026,0.000000
+            7.045999,53.294763,0.000000
+            7.041074,53.294416,0.000000
+            7.036778,53.294983,0.000000
+            7.035147,53.296238,0.000000
+            7.036077,53.297840,0.000000
+            7.041160,53.300860,0.000000
+            7.043453,53.301136,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

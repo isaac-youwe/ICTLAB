@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02810103 Rauwenhof</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.415824,51.885968,0.000000
+            5.407989,51.881996,0.000000
+            5.401395,51.884626,0.000000
+            5.397628,51.895743,0.000000
+            5.403471,51.895340,0.000000
+            5.411022,51.892980,0.000000
+            5.409899,51.891427,0.000000
+            5.410191,51.888926,0.000000
+            5.412006,51.888635,0.000000
+            5.415824,51.885968,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

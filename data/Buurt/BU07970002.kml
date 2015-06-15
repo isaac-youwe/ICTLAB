@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07970002 Venne-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.154707,51.683486,0.000000
+            5.154991,51.677677,0.000000
+            5.151391,51.677172,0.000000
+            5.146717,51.677839,0.000000
+            5.138880,51.676161,0.000000
+            5.130048,51.676604,0.000000
+            5.131074,51.686036,0.000000
+            5.131393,51.686073,0.000000
+            5.146040,51.686620,0.000000
+            5.152904,51.687343,0.000000
+            5.154707,51.683486,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

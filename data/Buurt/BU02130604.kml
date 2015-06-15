@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02130604 Veldkant</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.053028,52.098321,0.000000
+            6.051718,52.097639,0.000000
+            6.039905,52.103962,0.000000
+            6.043838,52.106516,0.000000
+            6.041548,52.106794,0.000000
+            6.041865,52.107298,0.000000
+            6.049935,52.106347,0.000000
+            6.050009,52.105696,0.000000
+            6.050448,52.101568,0.000000
+            6.053028,52.098321,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

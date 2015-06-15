@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08240102 Omgeving Broekzijde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.182980,51.519993,0.000000
+            5.178318,51.517185,0.000000
+            5.176299,51.517354,0.000000
+            5.173329,51.525716,0.000000
+            5.171017,51.527227,0.000000
+            5.174374,51.529938,0.000000
+            5.179709,51.529896,0.000000
+            5.182074,51.528913,0.000000
+            5.180771,51.522552,0.000000
+            5.182980,51.519993,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

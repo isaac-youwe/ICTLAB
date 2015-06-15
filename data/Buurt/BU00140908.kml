@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00140908 Ruischerbrug</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.607022,53.253585,0.000000
+            6.606971,53.251788,0.000000
+            6.617458,53.251681,0.000000
+            6.618905,53.249869,0.000000
+            6.635436,53.251496,0.000000
+            6.643954,53.235229,0.000000
+            6.643942,53.234797,0.000000
+            6.622288,53.228944,0.000000
+            6.620806,53.231406,0.000000
+            6.632352,53.233547,0.000000
+            6.630355,53.238277,0.000000
+            6.627226,53.242902,0.000000
+            6.614396,53.240404,0.000000
+            6.609343,53.246595,0.000000
+            6.606889,53.249244,0.000000
+            6.606686,53.253625,0.000000
+            6.607022,53.253585,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

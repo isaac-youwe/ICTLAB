@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU19870101 Stootshorn</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.845377,53.196409,0.000000
+            6.845455,53.193456,0.000000
+            6.834225,53.185497,0.000000
+            6.828601,53.185567,0.000000
+            6.826495,53.184645,0.000000
+            6.813068,53.184805,0.000000
+            6.811602,53.185722,0.000000
+            6.813186,53.188399,0.000000
+            6.816178,53.188363,0.000000
+            6.820755,53.191005,0.000000
+            6.814860,53.193772,0.000000
+            6.816924,53.196701,0.000000
+            6.827689,53.196372,0.000000
+            6.835157,53.197411,0.000000
+            6.845377,53.196409,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

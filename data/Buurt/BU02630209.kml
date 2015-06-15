@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02630209 Verspreide huizen in de polder Hedel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.270050,51.773520,0.000000
+            5.271579,51.765561,0.000000
+            5.272772,51.753021,0.000000
+            5.268430,51.752043,0.000000
+            5.267337,51.753172,0.000000
+            5.260872,51.752410,0.000000
+            5.249269,51.757959,0.000000
+            5.235598,51.757760,0.000000
+            5.236685,51.760647,0.000000
+            5.230118,51.762051,0.000000
+            5.230978,51.767059,0.000000
+            5.233800,51.767270,0.000000
+            5.233425,51.770724,0.000000
+            5.237950,51.772136,0.000000
+            5.240851,51.771240,0.000000
+            5.249545,51.771251,0.000000
+            5.262577,51.774861,0.000000
+            5.269824,51.773970,0.000000
+            5.270050,51.773520,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

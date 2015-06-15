@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17081102 Blauwehand</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.080343,52.685189,0.000000
+            6.066731,52.683432,0.000000
+            6.061831,52.699684,0.000000
+            6.072221,52.701680,0.000000
+            6.081267,52.702830,0.000000
+            6.089426,52.694995,0.000000
+            6.092196,52.686971,0.000000
+            6.080343,52.685189,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

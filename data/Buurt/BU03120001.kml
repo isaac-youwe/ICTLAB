@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03120001 Vechten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.186272,52.065257,0.000000
+            5.186797,52.062604,0.000000
+            5.166486,52.062925,0.000000
+            5.159293,52.064747,0.000000
+            5.159663,52.066860,0.000000
+            5.159351,52.067051,0.000000
+            5.169270,52.067061,0.000000
+            5.169506,52.065358,0.000000
+            5.186272,52.065257,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

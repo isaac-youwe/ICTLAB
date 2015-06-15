@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04780500 Schardam</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.021083,52.602240,0.000000
+            5.019659,52.595944,0.000000
+            5.022648,52.591459,0.000000
+            5.022752,52.591350,0.000000
+            5.019185,52.590988,0.000000
+            5.013817,52.587075,0.000000
+            5.007296,52.593459,0.000000
+            5.008207,52.597724,0.000000
+            5.004055,52.597665,0.000000
+            5.004883,52.597695,0.000000
+            5.007750,52.607591,0.000000
+            5.006250,52.610283,0.000000
+            5.006743,52.610351,0.000000
+            5.019524,52.612122,0.000000
+            5.019569,52.606730,0.000000
+            5.021083,52.602240,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

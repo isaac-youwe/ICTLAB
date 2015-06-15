@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07620005 Heiakker</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.814039,51.460639,0.000000
+            5.810759,51.458945,0.000000
+            5.804720,51.462038,0.000000
+            5.804726,51.463552,0.000000
+            5.802029,51.465054,0.000000
+            5.800675,51.467933,0.000000
+            5.804867,51.469130,0.000000
+            5.804303,51.471332,0.000000
+            5.807910,51.471945,0.000000
+            5.809997,51.471434,0.000000
+            5.813189,51.470465,0.000000
+            5.817172,51.463878,0.000000
+            5.814039,51.460639,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

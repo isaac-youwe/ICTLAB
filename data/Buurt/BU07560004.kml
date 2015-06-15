@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07560004 Villapark t Zand</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.966089,51.643914,0.000000
+            5.959174,51.641655,0.000000
+            5.955899,51.645018,0.000000
+            5.959523,51.646940,0.000000
+            5.955481,51.649204,0.000000
+            5.955762,51.651223,0.000000
+            5.957057,51.651605,0.000000
+            5.957952,51.650569,0.000000
+            5.961161,51.648285,0.000000
+            5.963602,51.647613,0.000000
+            5.966089,51.643914,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

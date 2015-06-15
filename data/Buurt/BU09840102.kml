@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09840102 Venray-Oost</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.977543,51.518542,0.000000
+            5.974969,51.518437,0.000000
+            5.976498,51.520201,0.000000
+            5.975358,51.520404,0.000000
+            5.976354,51.522155,0.000000
+            5.977455,51.523138,0.000000
+            5.976574,51.527617,0.000000
+            5.978588,51.532021,0.000000
+            5.984577,51.531934,0.000000
+            5.983449,51.528787,0.000000
+            5.985237,51.523158,0.000000
+            5.987393,51.523060,0.000000
+            5.982787,51.520224,0.000000
+            5.977543,51.518542,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07961002 Maasdal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.315010,51.720738,0.000000
+            5.308295,51.719505,0.000000
+            5.304914,51.723533,0.000000
+            5.302619,51.724454,0.000000
+            5.302643,51.726982,0.000000
+            5.305540,51.726233,0.000000
+            5.308095,51.725405,0.000000
+            5.309636,51.724040,0.000000
+            5.314091,51.722448,0.000000
+            5.315010,51.720738,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

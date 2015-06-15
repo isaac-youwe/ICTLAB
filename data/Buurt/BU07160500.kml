@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07160500 Sint Annaland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.106626,51.595482,0.000000
+            4.104444,51.594011,0.000000
+            4.100826,51.593978,0.000000
+            4.093029,51.596419,0.000000
+            4.094686,51.599189,0.000000
+            4.093311,51.600431,0.000000
+            4.101120,51.603671,0.000000
+            4.103685,51.605929,0.000000
+            4.108258,51.601951,0.000000
+            4.108095,51.599420,0.000000
+            4.105162,51.596911,0.000000
+            4.106626,51.595482,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

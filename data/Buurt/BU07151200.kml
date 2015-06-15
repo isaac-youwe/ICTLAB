@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07151200 Haarmanweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.840295,51.316563,0.000000
+            3.841686,51.311833,0.000000
+            3.830324,51.318514,0.000000
+            3.828397,51.323360,0.000000
+            3.829007,51.324904,0.000000
+            3.830891,51.325821,0.000000
+            3.833958,51.322134,0.000000
+            3.838343,51.316740,0.000000
+            3.840295,51.316563,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

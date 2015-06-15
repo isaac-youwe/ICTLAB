@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08580005 Kerkakkers</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.449665,51.356706,0.000000
+            5.451925,51.353215,0.000000
+            5.451294,51.348803,0.000000
+            5.439980,51.347818,0.000000
+            5.438036,51.350880,0.000000
+            5.440546,51.352389,0.000000
+            5.438837,51.355933,0.000000
+            5.441178,51.356456,0.000000
+            5.446635,51.356019,0.000000
+            5.449665,51.356706,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

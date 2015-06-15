@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08600600 Boerdonk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.626596,51.555337,0.000000
+            5.622261,51.553548,0.000000
+            5.613955,51.554427,0.000000
+            5.613613,51.554464,0.000000
+            5.609409,51.557980,0.000000
+            5.615383,51.562543,0.000000
+            5.619400,51.563974,0.000000
+            5.626959,51.563403,0.000000
+            5.633565,51.560514,0.000000
+            5.626596,51.555337,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

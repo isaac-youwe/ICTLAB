@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02960000 Alverna</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.762079,51.800697,0.000000
+            5.763006,51.799297,0.000000
+            5.762174,51.798685,0.000000
+            5.759471,51.800254,0.000000
+            5.756103,51.800483,0.000000
+            5.753098,51.797650,0.000000
+            5.751999,51.797821,0.000000
+            5.753022,51.802103,0.000000
+            5.751265,51.805057,0.000000
+            5.759683,51.809444,0.000000
+            5.762895,51.809027,0.000000
+            5.763416,51.805572,0.000000
+            5.762079,51.800697,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

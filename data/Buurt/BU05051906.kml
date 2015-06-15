@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05051906 Krabbegors</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.638268,51.799510,0.000000
+            4.634327,51.794732,0.000000
+            4.630897,51.798737,0.000000
+            4.628134,51.800172,0.000000
+            4.621633,51.801045,0.000000
+            4.621600,51.801195,0.000000
+            4.631735,51.802160,0.000000
+            4.640389,51.804912,0.000000
+            4.640667,51.805088,0.000000
+            4.642028,51.804066,0.000000
+            4.638268,51.799510,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

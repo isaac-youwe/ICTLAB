@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290002 Euverem, Pesaken, Billinghuizen en Waterop</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.859277,50.785395,0.000000
+            5.855992,50.785068,0.000000
+            5.853653,50.785861,0.000000
+            5.862263,50.800219,0.000000
+            5.865171,50.802876,0.000000
+            5.863483,50.803668,0.000000
+            5.871281,50.807514,0.000000
+            5.879017,50.802480,0.000000
+            5.870919,50.797109,0.000000
+            5.865411,50.796497,0.000000
+            5.859277,50.785395,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

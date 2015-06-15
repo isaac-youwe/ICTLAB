@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08550701 Enschot</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.131470,51.586050,0.000000
+            5.135313,51.583975,0.000000
+            5.138139,51.584631,0.000000
+            5.141730,51.585349,0.000000
+            5.137153,51.581812,0.000000
+            5.137804,51.580192,0.000000
+            5.146277,51.581587,0.000000
+            5.148424,51.577976,0.000000
+            5.144824,51.574209,0.000000
+            5.142448,51.570320,0.000000
+            5.126604,51.566434,0.000000
+            5.125213,51.568766,0.000000
+            5.121955,51.569746,0.000000
+            5.127092,51.571528,0.000000
+            5.125149,51.574861,0.000000
+            5.131319,51.579747,0.000000
+            5.127212,51.581174,0.000000
+            5.131470,51.586050,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

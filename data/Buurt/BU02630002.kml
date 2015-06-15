@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02630002 Hoenzadriel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.322550,51.749831,0.000000
+            5.321150,51.749774,0.000000
+            5.319709,51.752671,0.000000
+            5.324734,51.753699,0.000000
+            5.327185,51.755536,0.000000
+            5.336941,51.758724,0.000000
+            5.341096,51.761312,0.000000
+            5.344286,51.761142,0.000000
+            5.339711,51.756592,0.000000
+            5.322550,51.749831,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

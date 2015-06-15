@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09570703 Rijksweg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.952660,51.175197,0.000000
+            5.958044,51.169945,0.000000
+            5.965476,51.171812,0.000000
+            5.968141,51.170675,0.000000
+            5.969917,51.171934,0.000000
+            5.969750,51.172842,0.000000
+            5.972518,51.173351,0.000000
+            5.975022,51.170281,0.000000
+            5.974945,51.170233,0.000000
+            5.959103,51.161322,0.000000
+            5.959043,51.161266,0.000000
+            5.953180,51.163667,0.000000
+            5.953565,51.167870,0.000000
+            5.949418,51.170659,0.000000
+            5.952660,51.175197,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

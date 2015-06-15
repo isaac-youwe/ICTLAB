@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16901105 Oosteinde-Buiten</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.281083,52.733750,0.000000
+            6.262237,52.726322,0.000000
+            6.257356,52.732000,0.000000
+            6.278103,52.741723,0.000000
+            6.284037,52.735598,0.000000
+            6.281083,52.733750,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.298701,52.744188,0.000000
+            6.294658,52.742745,0.000000
+            6.294030,52.743381,0.000000
+            6.286742,52.737771,0.000000
+            6.280693,52.744044,0.000000
+            6.293169,52.749156,0.000000
+            6.291375,52.751082,0.000000
+            6.300100,52.754584,0.000000
+            6.297487,52.757345,0.000000
+            6.307849,52.760759,0.000000
+            6.313597,52.754288,0.000000
+            6.310034,52.753174,0.000000
+            6.300267,52.747919,0.000000
+            6.297348,52.745465,0.000000
+            6.298701,52.744188,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

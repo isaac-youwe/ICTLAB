@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00860300 Beetsterzwaag</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.075915,53.070979,0.000000
+            6.076602,53.070871,0.000000
+            6.085123,53.070822,0.000000
+            6.085759,53.052719,0.000000
+            6.074766,53.051881,0.000000
+            6.075064,53.047811,0.000000
+            6.073685,53.043735,0.000000
+            6.070769,53.044547,0.000000
+            6.071724,53.054521,0.000000
+            6.065080,53.055624,0.000000
+            6.065102,53.058133,0.000000
+            6.071554,53.066176,0.000000
+            6.076056,53.066258,0.000000
+            6.075915,53.070979,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

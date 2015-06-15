@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02750202 Velp-Zuid ten zuiden van Waterstraat</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.996459,51.990221,0.000000
+            5.985862,51.983953,0.000000
+            5.982695,51.982935,0.000000
+            5.980904,51.981187,0.000000
+            5.969585,51.985635,0.000000
+            5.968356,51.986021,0.000000
+            5.965088,51.987051,0.000000
+            5.973168,51.986857,0.000000
+            5.982829,51.988481,0.000000
+            5.987306,51.990566,0.000000
+            5.993416,51.992345,0.000000
+            5.996459,51.990221,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

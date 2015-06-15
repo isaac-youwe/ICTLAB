@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630005 Haarlemmerbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.898692,52.382568,0.000000
+            4.893890,52.378846,0.000000
+            4.888324,52.380518,0.000000
+            4.881848,52.384249,0.000000
+            4.882680,52.385440,0.000000
+            4.884574,52.388373,0.000000
+            4.891105,52.388477,0.000000
+            4.895592,52.388858,0.000000
+            4.897026,52.383499,0.000000
+            4.898692,52.382568,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05020201 s-Gravenweg en Alexanderlaan</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.570637,51.926886,0.000000
+            4.568880,51.925524,0.000000
+            4.565637,51.925723,0.000000
+            4.565678,51.925775,0.000000
+            4.564916,51.928824,0.000000
+            4.572016,51.932526,0.000000
+            4.575581,51.934508,0.000000
+            4.577226,51.931731,0.000000
+            4.576544,51.931135,0.000000
+            4.577779,51.930319,0.000000
+            4.570637,51.926886,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

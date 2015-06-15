@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02300102 Elburg-Oosthoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.835951,52.454259,0.000000
+            5.846862,52.451259,0.000000
+            5.847327,52.451722,0.000000
+            5.855321,52.450111,0.000000
+            5.855258,52.448481,0.000000
+            5.855809,52.446993,0.000000
+            5.853715,52.446318,0.000000
+            5.849373,52.446802,0.000000
+            5.847968,52.445315,0.000000
+            5.842241,52.443159,0.000000
+            5.835869,52.441918,0.000000
+            5.835784,52.445523,0.000000
+            5.839111,52.448836,0.000000
+            5.835460,52.450137,0.000000
+            5.835951,52.454259,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

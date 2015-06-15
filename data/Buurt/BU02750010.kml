@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02750010 Verspreide huizen bosgebied Ellecom</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.092568,52.038043,0.000000
+            6.078249,52.029876,0.000000
+            6.079435,52.031126,0.000000
+            6.076413,52.033083,0.000000
+            6.073024,52.033773,0.000000
+            6.062066,52.042603,0.000000
+            6.059303,52.043063,0.000000
+            6.054682,52.046184,0.000000
+            6.053800,52.048734,0.000000
+            6.052001,52.050230,0.000000
+            6.081486,52.043720,0.000000
+            6.086034,52.041561,0.000000
+            6.092568,52.038043,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

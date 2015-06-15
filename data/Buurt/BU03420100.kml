@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03420100 Soesterberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.300692,52.125202,0.000000
+            5.303769,52.120788,0.000000
+            5.304805,52.116020,0.000000
+            5.293244,52.114245,0.000000
+            5.292293,52.114683,0.000000
+            5.282078,52.111978,0.000000
+            5.281990,52.112096,0.000000
+            5.273288,52.123656,0.000000
+            5.273209,52.123849,0.000000
+            5.279948,52.125501,0.000000
+            5.286768,52.123700,0.000000
+            5.301014,52.127674,0.000000
+            5.302810,52.125865,0.000000
+            5.300692,52.125202,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

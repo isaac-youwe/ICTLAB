@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16510204 Doodstil</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.674789,53.389416,0.000000
+            6.672671,53.389273,0.000000
+            6.670693,53.390326,0.000000
+            6.669706,53.392324,0.000000
+            6.671005,53.393539,0.000000
+            6.674407,53.394280,0.000000
+            6.676558,53.392853,0.000000
+            6.676805,53.390615,0.000000
+            6.674789,53.389416,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

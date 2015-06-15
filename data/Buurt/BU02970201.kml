@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02970201 Bruchem</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.246270,51.788140,0.000000
+            5.237608,51.779601,0.000000
+            5.227295,51.781166,0.000000
+            5.224530,51.782753,0.000000
+            5.224140,51.783964,0.000000
+            5.228198,51.786528,0.000000
+            5.229516,51.789455,0.000000
+            5.229948,51.789548,0.000000
+            5.238487,51.789871,0.000000
+            5.241398,51.790892,0.000000
+            5.246270,51.788140,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

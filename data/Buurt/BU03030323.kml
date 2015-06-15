@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03030323 Bungalowpark</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.715501,52.521738,0.000000
+            5.715750,52.518866,0.000000
+            5.713464,52.518531,0.000000
+            5.712896,52.517001,0.000000
+            5.704619,52.517032,0.000000
+            5.702426,52.517338,0.000000
+            5.702098,52.518514,0.000000
+            5.695394,52.518967,0.000000
+            5.695132,52.520399,0.000000
+            5.697347,52.520821,0.000000
+            5.696843,52.521599,0.000000
+            5.694023,52.521121,0.000000
+            5.692675,52.523730,0.000000
+            5.695634,52.524694,0.000000
+            5.696370,52.524834,0.000000
+            5.703300,52.526357,0.000000
+            5.709086,52.528172,0.000000
+            5.713981,52.524906,0.000000
+            5.713561,52.521859,0.000000
+            5.715501,52.521738,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00980104 Ter Idzard</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.042093,52.896266,0.000000
+            6.021913,52.893225,0.000000
+            6.016329,52.906440,0.000000
+            6.051636,52.911579,0.000000
+            6.055285,52.905049,0.000000
+            6.048214,52.901852,0.000000
+            6.048585,52.900946,0.000000
+            6.042093,52.896266,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

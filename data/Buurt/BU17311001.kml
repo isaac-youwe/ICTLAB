@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17311001 Zuidveld</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.641511,52.869884,0.000000
+            6.638681,52.866341,0.000000
+            6.646190,52.864041,0.000000
+            6.645017,52.861773,0.000000
+            6.636099,52.864411,0.000000
+            6.631195,52.862015,0.000000
+            6.628798,52.863626,0.000000
+            6.633775,52.866096,0.000000
+            6.624553,52.869050,0.000000
+            6.625672,52.870314,0.000000
+            6.635103,52.867432,0.000000
+            6.638242,52.870864,0.000000
+            6.641511,52.869884,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

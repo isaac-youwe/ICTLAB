@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08790200 Wernhout</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.647284,51.455492,0.000000
+            4.642173,51.452309,0.000000
+            4.640004,51.452820,0.000000
+            4.635701,51.455917,0.000000
+            4.636011,51.457369,0.000000
+            4.641945,51.460151,0.000000
+            4.643836,51.458473,0.000000
+            4.647284,51.455492,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

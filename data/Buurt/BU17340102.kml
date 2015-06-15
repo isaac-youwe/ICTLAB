@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17340102 Randwijk</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.722866,51.953708,0.000000
+            5.721516,51.952158,0.000000
+            5.715364,51.953604,0.000000
+            5.710381,51.949424,0.000000
+            5.701137,51.951896,0.000000
+            5.704033,51.955685,0.000000
+            5.714692,51.957079,0.000000
+            5.722866,51.953708,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06830405 Greonterp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.521599,53.015182,0.000000
+            5.518432,53.013908,0.000000
+            5.515624,53.014855,0.000000
+            5.514518,53.016454,0.000000
+            5.517317,53.020773,0.000000
+            5.519944,53.021267,0.000000
+            5.521475,53.020729,0.000000
+            5.522774,53.017217,0.000000
+            5.521599,53.015182,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

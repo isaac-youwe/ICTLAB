@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17230000 Alphen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.963988,51.488978,0.000000
+            4.966400,51.479282,0.000000
+            4.966060,51.477601,0.000000
+            4.961528,51.473749,0.000000
+            4.954995,51.472172,0.000000
+            4.951801,51.472353,0.000000
+            4.948104,51.476440,0.000000
+            4.946321,51.482207,0.000000
+            4.948302,51.488503,0.000000
+            4.950936,51.489341,0.000000
+            4.953987,51.487748,0.000000
+            4.958313,51.487976,0.000000
+            4.959686,51.492565,0.000000
+            4.961628,51.494475,0.000000
+            4.965526,51.493801,0.000000
+            4.963988,51.488978,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

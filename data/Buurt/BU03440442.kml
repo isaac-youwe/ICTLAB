@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440442 Zeeheldenbuurt Hengeveldstraat en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.133166,52.102271,0.000000
+            5.141700,52.099381,0.000000
+            5.141959,52.095707,0.000000
+            5.139006,52.095625,0.000000
+            5.138020,52.095620,0.000000
+            5.137862,52.098519,0.000000
+            5.136249,52.099619,0.000000
+            5.133270,52.100487,0.000000
+            5.129001,52.100057,0.000000
+            5.130557,52.103542,0.000000
+            5.131801,52.103246,0.000000
+            5.133523,52.102930,0.000000
+            5.133166,52.102271,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

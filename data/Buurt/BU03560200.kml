@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03560200 Laagraven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.121893,52.055792,0.000000
+            5.124726,52.055101,0.000000
+            5.126184,52.055104,0.000000
+            5.124757,52.049708,0.000000
+            5.129131,52.049717,0.000000
+            5.121955,52.030828,0.000000
+            5.111665,52.037484,0.000000
+            5.105565,52.050040,0.000000
+            5.107255,52.050566,0.000000
+            5.110829,52.057260,0.000000
+            5.111580,52.058667,0.000000
+            5.117424,52.056883,0.000000
+            5.121893,52.055792,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

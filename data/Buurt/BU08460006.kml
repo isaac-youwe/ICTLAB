@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08460006 Sloef</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.446763,51.556191,0.000000
+            5.450508,51.555633,0.000000
+            5.456723,51.555799,0.000000
+            5.455653,51.552916,0.000000
+            5.458212,51.553666,0.000000
+            5.456934,51.551354,0.000000
+            5.459613,51.547434,0.000000
+            5.459007,51.546585,0.000000
+            5.445629,51.550514,0.000000
+            5.441669,51.554731,0.000000
+            5.442640,51.556755,0.000000
+            5.446815,51.557002,0.000000
+            5.446763,51.556191,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

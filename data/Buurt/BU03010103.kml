@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03010103 Warnsveldsewegkwartier-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.210245,52.137433,0.000000
+            6.202767,52.136803,0.000000
+            6.202314,52.137077,0.000000
+            6.205595,52.140532,0.000000
+            6.204863,52.141793,0.000000
+            6.217737,52.139307,0.000000
+            6.218657,52.137851,0.000000
+            6.210245,52.137433,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

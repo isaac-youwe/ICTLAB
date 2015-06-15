@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02850002 Gietelo</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.138693,52.180876,0.000000
+            6.128414,52.178933,0.000000
+            6.126440,52.182210,0.000000
+            6.127616,52.186857,0.000000
+            6.128177,52.191363,0.000000
+            6.131285,52.192826,0.000000
+            6.131129,52.191202,0.000000
+            6.138472,52.182400,0.000000
+            6.138693,52.180876,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

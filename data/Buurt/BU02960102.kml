@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02960102 Homberg, Heilige Stoel en Kraaijenberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.720755,51.818332,0.000000
+            5.720292,51.809891,0.000000
+            5.703813,51.808266,0.000000
+            5.703170,51.811752,0.000000
+            5.697533,51.811528,0.000000
+            5.706268,51.814407,0.000000
+            5.708789,51.815882,0.000000
+            5.713615,51.817548,0.000000
+            5.720755,51.818332,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

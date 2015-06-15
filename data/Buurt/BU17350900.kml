@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17350900 Bentelo kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.686140,52.223310,0.000000
+            6.684904,52.219875,0.000000
+            6.679600,52.219945,0.000000
+            6.675483,52.223947,0.000000
+            6.677956,52.225845,0.000000
+            6.682739,52.227002,0.000000
+            6.681798,52.228334,0.000000
+            6.686254,52.229658,0.000000
+            6.690177,52.224242,0.000000
+            6.688995,52.223280,0.000000
+            6.686140,52.223310,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

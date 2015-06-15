@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02300104 Oostendorp</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.865192,52.447381,0.000000
+            5.869706,52.445108,0.000000
+            5.869692,52.443818,0.000000
+            5.862772,52.441702,0.000000
+            5.860670,52.440085,0.000000
+            5.855025,52.439360,0.000000
+            5.849626,52.441111,0.000000
+            5.845276,52.440496,0.000000
+            5.842241,52.443159,0.000000
+            5.847968,52.445315,0.000000
+            5.849373,52.446802,0.000000
+            5.853715,52.446318,0.000000
+            5.855809,52.446993,0.000000
+            5.855258,52.448481,0.000000
+            5.860489,52.449206,0.000000
+            5.865433,52.449776,0.000000
+            5.865192,52.447381,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU06890500 Hoogblokland</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.969519,51.876991,0.000000
+            4.973516,51.875891,0.000000
+            4.974010,51.876391,0.000000
+            4.984410,51.874998,0.000000
+            4.989249,51.875204,0.000000
+            4.991112,51.873948,0.000000
+            4.991167,51.873740,0.000000
+            4.979652,51.872981,0.000000
+            4.973916,51.873488,0.000000
+            4.968228,51.866243,0.000000
+            4.962465,51.869149,0.000000
+            4.964867,51.870536,0.000000
+            4.963480,51.876845,0.000000
+            4.964524,51.879770,0.000000
+            4.969519,51.876991,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

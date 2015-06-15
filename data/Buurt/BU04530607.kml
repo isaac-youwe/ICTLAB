@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04530607 Santhaesbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.642830,52.428047,0.000000
+            4.641702,52.427075,0.000000
+            4.635748,52.428710,0.000000
+            4.633934,52.430479,0.000000
+            4.634794,52.432167,0.000000
+            4.640606,52.433070,0.000000
+            4.641335,52.431710,0.000000
+            4.640165,52.430430,0.000000
+            4.642830,52.428047,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

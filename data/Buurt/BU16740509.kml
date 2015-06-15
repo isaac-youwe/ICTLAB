@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16740509 Vierhoeven</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.488161,51.517144,0.000000
+            4.494439,51.516055,0.000000
+            4.502526,51.516710,0.000000
+            4.502880,51.516338,0.000000
+            4.502481,51.516273,0.000000
+            4.496895,51.507240,0.000000
+            4.498440,51.501858,0.000000
+            4.498221,51.501576,0.000000
+            4.497035,51.500049,0.000000
+            4.497030,51.500039,0.000000
+            4.482841,51.498314,0.000000
+            4.474723,51.514818,0.000000
+            4.482797,51.516544,0.000000
+            4.486424,51.518506,0.000000
+            4.488161,51.517144,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

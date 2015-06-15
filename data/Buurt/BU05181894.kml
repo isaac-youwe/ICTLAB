@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05181894 Waldeck-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.227543,52.058027,0.000000
+            4.226195,52.057717,0.000000
+            4.226004,52.061149,0.000000
+            4.235033,52.063935,0.000000
+            4.236282,52.062464,0.000000
+            4.237763,52.061213,0.000000
+            4.234187,52.059629,0.000000
+            4.234732,52.058285,0.000000
+            4.227543,52.058027,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03920504 Frans Halsbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.639832,52.393274,0.000000
+            4.640612,52.390190,0.000000
+            4.640542,52.389043,0.000000
+            4.635871,52.390214,0.000000
+            4.634091,52.389665,0.000000
+            4.635322,52.392918,0.000000
+            4.638965,52.392152,0.000000
+            4.639832,52.393274,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

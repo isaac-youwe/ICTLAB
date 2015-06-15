@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02740106 Verspreide huizen Dreijen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.847409,51.997862,0.000000
+            5.856128,51.996030,0.000000
+            5.863409,51.996001,0.000000
+            5.863472,51.995800,0.000000
+            5.864818,51.991500,0.000000
+            5.864774,51.987413,0.000000
+            5.853955,51.990125,0.000000
+            5.834279,51.997473,0.000000
+            5.832496,51.998818,0.000000
+            5.832855,51.998817,0.000000
+            5.847409,51.997862,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

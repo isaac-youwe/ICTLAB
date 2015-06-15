@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05300801 Verspreide huizen De Kooistee</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.182159,51.836657,0.000000
+            4.184195,51.834362,0.000000
+            4.168501,51.826132,0.000000
+            4.165624,51.825203,0.000000
+            4.165600,51.826102,0.000000
+            4.164651,51.825645,0.000000
+            4.166869,51.829200,0.000000
+            4.169877,51.829867,0.000000
+            4.171321,51.829222,0.000000
+            4.174553,51.831505,0.000000
+            4.168931,51.834566,0.000000
+            4.172976,51.837707,0.000000
+            4.176205,51.836295,0.000000
+            4.178139,51.838127,0.000000
+            4.182159,51.836657,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.194135,51.844376,0.000000
+            4.191396,51.843493,0.000000
+            4.183586,51.848480,0.000000
+            4.186805,51.849695,0.000000
+            4.196894,51.849798,0.000000
+            4.198346,51.849813,0.000000
+            4.198297,51.849718,0.000000
+            4.196966,51.847102,0.000000
+            4.194135,51.844376,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

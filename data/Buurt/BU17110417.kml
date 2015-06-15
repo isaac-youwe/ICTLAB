@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17110417 Roosteren</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.825497,51.080554,0.000000
+            5.824608,51.079783,0.000000
+            5.821767,51.080748,0.000000
+            5.816137,51.080986,0.000000
+            5.810465,51.082398,0.000000
+            5.809813,51.083477,0.000000
+            5.815020,51.086277,0.000000
+            5.824528,51.088049,0.000000
+            5.825146,51.085803,0.000000
+            5.821568,51.083623,0.000000
+            5.825497,51.080554,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

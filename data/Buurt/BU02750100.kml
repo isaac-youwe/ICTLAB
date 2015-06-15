@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02750100 Rheden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.033812,51.996985,0.000000
+            6.026518,51.996126,0.000000
+            6.020706,51.997057,0.000000
+            6.020422,51.997058,0.000000
+            6.020272,52.000757,0.000000
+            6.023449,52.003294,0.000000
+            6.019179,52.004676,0.000000
+            6.017449,52.006464,0.000000
+            6.017047,52.007213,0.000000
+            6.021556,52.009475,0.000000
+            6.034839,52.013423,0.000000
+            6.035073,52.016410,0.000000
+            6.041404,52.014161,0.000000
+            6.048592,52.009503,0.000000
+            6.048560,52.009489,0.000000
+            6.045620,52.007707,0.000000
+            6.042628,52.002330,0.000000
+            6.033812,51.996985,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

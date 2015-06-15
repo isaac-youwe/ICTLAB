@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03440988 Strijkviertel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.068776,52.069039,0.000000
+            5.063451,52.067953,0.000000
+            5.053420,52.069738,0.000000
+            5.058301,52.078711,0.000000
+            5.060087,52.078736,0.000000
+            5.061209,52.081092,0.000000
+            5.059615,52.081297,0.000000
+            5.060061,52.082401,0.000000
+            5.076708,52.082579,0.000000
+            5.076992,52.082427,0.000000
+            5.075408,52.078685,0.000000
+            5.074153,52.078441,0.000000
+            5.068776,52.069039,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

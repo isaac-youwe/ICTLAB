@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16670000 Reusel</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.163578,51.367485,0.000000
+            5.168325,51.367295,0.000000
+            5.173651,51.368731,0.000000
+            5.175076,51.363294,0.000000
+            5.177476,51.362891,0.000000
+            5.175900,51.361066,0.000000
+            5.176083,51.359195,0.000000
+            5.174486,51.357993,0.000000
+            5.160846,51.353297,0.000000
+            5.153408,51.352490,0.000000
+            5.151779,51.355991,0.000000
+            5.155095,51.356587,0.000000
+            5.157034,51.361018,0.000000
+            5.153869,51.368037,0.000000
+            5.154615,51.368239,0.000000
+            5.154394,51.371394,0.000000
+            5.164520,51.370954,0.000000
+            5.164968,51.369878,0.000000
+            5.163578,51.367485,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

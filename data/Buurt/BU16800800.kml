@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16800800 Nieuw-Annerveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.769613,53.076893,0.000000
+            6.779238,53.065068,0.000000
+            6.784672,53.060973,0.000000
+            6.783575,53.060469,0.000000
+            6.778158,53.062258,0.000000
+            6.774293,53.065421,0.000000
+            6.773285,53.065107,0.000000
+            6.772449,53.065756,0.000000
+            6.772464,53.067680,0.000000
+            6.773552,53.068252,0.000000
+            6.772858,53.069551,0.000000
+            6.766095,53.075447,0.000000
+            6.769613,53.076893,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

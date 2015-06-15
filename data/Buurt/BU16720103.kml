@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16720103 Rietveld, Burgemeester Smitweg en omgeving</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.644531,52.091500,0.000000
+            4.627810,52.088391,0.000000
+            4.614920,52.092727,0.000000
+            4.613697,52.101839,0.000000
+            4.599375,52.102070,0.000000
+            4.601161,52.110414,0.000000
+            4.633859,52.110463,0.000000
+            4.641337,52.097979,0.000000
+            4.644360,52.091706,0.000000
+            4.644531,52.091500,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

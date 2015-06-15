@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01830100 Albergen kern</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.766233,52.367586,0.000000
+            6.758432,52.367514,0.000000
+            6.756311,52.368313,0.000000
+            6.748572,52.368967,0.000000
+            6.745306,52.372217,0.000000
+            6.768786,52.377311,0.000000
+            6.769782,52.372700,0.000000
+            6.773067,52.369516,0.000000
+            6.766233,52.367586,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

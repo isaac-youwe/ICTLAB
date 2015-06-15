@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05320100 Bovenkarspel-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.258463,52.705981,0.000000
+            5.258491,52.696210,0.000000
+            5.258528,52.695989,0.000000
+            5.251657,52.695835,0.000000
+            5.233989,52.695178,0.000000
+            5.233733,52.698628,0.000000
+            5.236557,52.699811,0.000000
+            5.239366,52.699387,0.000000
+            5.239549,52.698726,0.000000
+            5.250926,52.699842,0.000000
+            5.250898,52.700742,0.000000
+            5.250075,52.703273,0.000000
+            5.247783,52.702559,0.000000
+            5.233421,52.702685,0.000000
+            5.231591,52.717749,0.000000
+            5.231785,52.717750,0.000000
+            5.256953,52.715982,0.000000
+            5.258462,52.706097,0.000000
+            5.258463,52.705981,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

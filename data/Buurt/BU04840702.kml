@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU04840702 Steekterbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.705743,52.113925,0.000000
+            4.716349,52.109609,0.000000
+            4.721242,52.108692,0.000000
+            4.720625,52.107989,0.000000
+            4.711858,52.110381,0.000000
+            4.709896,52.110066,0.000000
+            4.706518,52.106581,0.000000
+            4.672281,52.114508,0.000000
+            4.673660,52.117480,0.000000
+            4.674593,52.119045,0.000000
+            4.691626,52.117272,0.000000
+            4.705743,52.113925,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

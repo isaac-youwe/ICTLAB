@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08280200 Moleneind</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.545678,51.766264,0.000000
+            5.545727,51.759161,0.000000
+            5.540260,51.760127,0.000000
+            5.536591,51.761368,0.000000
+            5.533168,51.759514,0.000000
+            5.530794,51.760682,0.000000
+            5.528206,51.764275,0.000000
+            5.530957,51.765042,0.000000
+            5.537115,51.766066,0.000000
+            5.545678,51.766264,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

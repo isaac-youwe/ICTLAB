@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09570800 Swalmen-Centrum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.033626,51.236253,0.000000
+            6.035378,51.234882,0.000000
+            6.038329,51.235127,0.000000
+            6.040003,51.233324,0.000000
+            6.038575,51.231600,0.000000
+            6.034583,51.229218,0.000000
+            6.036635,51.223086,0.000000
+            6.031064,51.221816,0.000000
+            6.025248,51.228745,0.000000
+            6.026337,51.230975,0.000000
+            6.020688,51.239989,0.000000
+            6.021737,51.241802,0.000000
+            6.028770,51.243320,0.000000
+            6.032076,51.242441,0.000000
+            6.033242,51.238400,0.000000
+            6.033626,51.236253,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

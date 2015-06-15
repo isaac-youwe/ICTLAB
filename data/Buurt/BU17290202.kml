@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU17290202 Eyserheide</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.931535,50.839890,0.000000
+            5.932412,50.839608,0.000000
+            5.935252,50.839594,0.000000
+            5.935965,50.839912,0.000000
+            5.937517,50.838435,0.000000
+            5.931441,50.835001,0.000000
+            5.929749,50.837065,0.000000
+            5.930328,50.837607,0.000000
+            5.927484,50.840315,0.000000
+            5.931535,50.839890,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

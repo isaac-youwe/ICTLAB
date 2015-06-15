@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09180102 Helden</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.995599,51.326000,0.000000
+            6.008091,51.325201,0.000000
+            6.019662,51.325509,0.000000
+            6.032958,51.327184,0.000000
+            6.041636,51.327030,0.000000
+            6.045736,51.319987,0.000000
+            6.026922,51.308405,0.000000
+            6.015387,51.303973,0.000000
+            6.014803,51.303673,0.000000
+            5.995469,51.313005,0.000000
+            5.992190,51.316253,0.000000
+            5.986116,51.317610,0.000000
+            5.986534,51.320019,0.000000
+            5.990207,51.322050,0.000000
+            5.990393,51.323250,0.000000
+            5.987520,51.325352,0.000000
+            5.990090,51.328159,0.000000
+            5.995599,51.326000,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

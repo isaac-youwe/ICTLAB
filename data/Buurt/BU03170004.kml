@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03170004 Noordbuurt</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.264314,52.254836,0.000000
+            5.263549,52.253074,0.000000
+            5.259020,52.253384,0.000000
+            5.256255,52.254794,0.000000
+            5.250767,52.255084,0.000000
+            5.254103,52.261790,0.000000
+            5.267053,52.260664,0.000000
+            5.264314,52.254836,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

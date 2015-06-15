@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU01640800 Roershoek</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.818962,52.284685,0.000000
+            6.811968,52.280993,0.000000
+            6.806702,52.283087,0.000000
+            6.808781,52.284100,0.000000
+            6.811486,52.288825,0.000000
+            6.802349,52.291625,0.000000
+            6.813212,52.292801,0.000000
+            6.815370,52.291599,0.000000
+            6.822137,52.290941,0.000000
+            6.820959,52.288050,0.000000
+            6.818962,52.284685,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

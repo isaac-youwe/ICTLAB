@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07360300 Wilnis</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.904474,52.197334,0.000000
+            4.909241,52.196462,0.000000
+            4.914588,52.197385,0.000000
+            4.916506,52.195146,0.000000
+            4.906393,52.193186,0.000000
+            4.894289,52.192399,0.000000
+            4.883580,52.194882,0.000000
+            4.881995,52.194692,0.000000
+            4.870908,52.198491,0.000000
+            4.873475,52.200420,0.000000
+            4.886640,52.196976,0.000000
+            4.886524,52.201991,0.000000
+            4.904577,52.202265,0.000000
+            4.904474,52.197334,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

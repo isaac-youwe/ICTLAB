@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700400 Herbaijum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.496308,53.181526,0.000000
+            5.492385,53.180889,0.000000
+            5.487473,53.182168,0.000000
+            5.486690,53.183963,0.000000
+            5.488392,53.185292,0.000000
+            5.494510,53.187061,0.000000
+            5.496360,53.186596,0.000000
+            5.498660,53.185869,0.000000
+            5.499554,53.184363,0.000000
+            5.496308,53.181526,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

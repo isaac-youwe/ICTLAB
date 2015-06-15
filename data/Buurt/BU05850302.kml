@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU05850302 Sint Anthoniepolder</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.534972,51.798726,0.000000
+            4.539720,51.795106,0.000000
+            4.537438,51.793609,0.000000
+            4.527960,51.797516,0.000000
+            4.524202,51.797089,0.000000
+            4.516879,51.789766,0.000000
+            4.517477,51.786093,0.000000
+            4.516022,51.786974,0.000000
+            4.514727,51.786964,0.000000
+            4.514567,51.790231,0.000000
+            4.510975,51.790529,0.000000
+            4.514969,51.793796,0.000000
+            4.519710,51.800353,0.000000
+            4.523102,51.801550,0.000000
+            4.534972,51.798726,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

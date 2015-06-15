@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU02810106 Passewaay-Zuid</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.391876,51.872266,0.000000
+            5.394583,51.870400,0.000000
+            5.398534,51.870538,0.000000
+            5.398579,51.871261,0.000000
+            5.401947,51.871038,0.000000
+            5.401775,51.869157,0.000000
+            5.407793,51.869010,0.000000
+            5.407467,51.864339,0.000000
+            5.401945,51.864562,0.000000
+            5.392293,51.866425,0.000000
+            5.389913,51.864563,0.000000
+            5.386927,51.867557,0.000000
+            5.385112,51.869397,0.000000
+            5.391876,51.872266,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

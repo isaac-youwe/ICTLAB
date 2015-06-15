@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU00700203 Schalsum</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.583458,53.196396,0.000000
+            5.585125,53.194144,0.000000
+            5.590600,53.194737,0.000000
+            5.593197,53.192710,0.000000
+            5.584494,53.191615,0.000000
+            5.583553,53.191686,0.000000
+            5.578013,53.187523,0.000000
+            5.570636,53.187980,0.000000
+            5.570782,53.188953,0.000000
+            5.567064,53.188974,0.000000
+            5.567112,53.189430,0.000000
+            5.567265,53.190845,0.000000
+            5.563382,53.190946,0.000000
+            5.565733,53.203594,0.000000
+            5.566408,53.208411,0.000000
+            5.574538,53.210872,0.000000
+            5.579828,53.211751,0.000000
+            5.581149,53.202394,0.000000
+            5.582894,53.200543,0.000000
+            5.583458,53.196396,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

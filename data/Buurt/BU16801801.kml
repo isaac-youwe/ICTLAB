@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16801801 Bonnerveen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.835225,53.017180,0.000000
+            6.835410,53.009356,0.000000
+            6.839526,53.007520,0.000000
+            6.846561,53.007567,0.000000
+            6.846896,53.006488,0.000000
+            6.842955,53.005574,0.000000
+            6.838113,53.005159,0.000000
+            6.835044,53.005041,0.000000
+            6.834535,53.006207,0.000000
+            6.828878,53.009937,0.000000
+            6.826444,53.009790,0.000000
+            6.825795,53.012618,0.000000
+            6.829971,53.012572,0.000000
+            6.831931,53.017188,0.000000
+            6.835225,53.017180,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

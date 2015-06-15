@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08520201 Verspreide huizen Op de Werven ten zuiden van kanaal</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.098843,52.450551,0.000000
+            5.094441,52.448742,0.000000
+            5.093035,52.450443,0.000000
+            5.105406,52.456550,0.000000
+            5.113285,52.458727,0.000000
+            5.124141,52.460586,0.000000
+            5.133949,52.459889,0.000000
+            5.132629,52.459617,0.000000
+            5.126754,52.457806,0.000000
+            5.120879,52.455995,0.000000
+            5.110590,52.454174,0.000000
+            5.106199,52.450568,0.000000
+            5.098843,52.450551,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16760900 Scharendijke</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            3.853710,51.738825,0.000000
+            3.854622,51.738557,0.000000
+            3.854095,51.737640,0.000000
+            3.855640,51.734197,0.000000
+            3.844258,51.730011,0.000000
+            3.844545,51.729016,0.000000
+            3.839809,51.728263,0.000000
+            3.829986,51.739301,0.000000
+            3.830518,51.739419,0.000000
+            3.842129,51.738673,0.000000
+            3.846411,51.740528,0.000000
+            3.853710,51.738825,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU08510001 Welberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.330919,51.584072,0.000000
+            4.332691,51.578619,0.000000
+            4.340980,51.579639,0.000000
+            4.341765,51.582532,0.000000
+            4.345125,51.582085,0.000000
+            4.346463,51.579850,0.000000
+            4.341468,51.578296,0.000000
+            4.333738,51.577330,0.000000
+            4.337477,51.572329,0.000000
+            4.334253,51.571293,0.000000
+            4.331397,51.572603,0.000000
+            4.327656,51.574979,0.000000
+            4.324480,51.578700,0.000000
+            4.325667,51.579641,0.000000
+            4.330919,51.584072,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

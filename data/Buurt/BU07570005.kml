@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU07570005 Verspreide huizen Kleinderliempde</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.355949,51.582569,0.000000
+            5.350420,51.568629,0.000000
+            5.348438,51.567953,0.000000
+            5.341157,51.562279,0.000000
+            5.328466,51.576287,0.000000
+            5.325737,51.579262,0.000000
+            5.328161,51.579882,0.000000
+            5.335583,51.579461,0.000000
+            5.336362,51.579917,0.000000
+            5.333980,51.582196,0.000000
+            5.335564,51.583096,0.000000
+            5.337794,51.583182,0.000000
+            5.341053,51.581072,0.000000
+            5.343698,51.580769,0.000000
+            5.346540,51.581730,0.000000
+            5.350101,51.581670,0.000000
+            5.355170,51.584221,0.000000
+            5.355949,51.582569,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

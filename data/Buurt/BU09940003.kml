@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU09940003 Emmaberg</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.850497,50.883117,0.000000
+            5.851909,50.882212,0.000000
+            5.861545,50.882173,0.000000
+            5.854564,50.879062,0.000000
+            5.848304,50.874936,0.000000
+            5.848452,50.872150,0.000000
+            5.846604,50.870507,0.000000
+            5.842077,50.872650,0.000000
+            5.839857,50.874906,0.000000
+            5.832772,50.878955,0.000000
+            5.834821,50.880515,0.000000
+            5.834839,50.880481,0.000000
+            5.837689,50.881369,0.000000
+            5.850219,50.883079,0.000000
+            5.850497,50.883117,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

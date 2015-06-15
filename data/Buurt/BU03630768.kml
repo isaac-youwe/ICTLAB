@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU03630768 Nieuwendam-Noord</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.951731,52.402695,0.000000
+            4.954754,52.401068,0.000000
+            4.957605,52.401369,0.000000
+            4.958751,52.402479,0.000000
+            4.963957,52.399349,0.000000
+            4.970757,52.391607,0.000000
+            4.968572,52.390432,0.000000
+            4.952314,52.386325,0.000000
+            4.952309,52.386740,0.000000
+            4.951656,52.391242,0.000000
+            4.940921,52.394450,0.000000
+            4.944637,52.397908,0.000000
+            4.946531,52.397887,0.000000
+            4.951731,52.402695,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU18960403 Zwartsluis Buitenkwartier-Nieuw</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.066370,52.644479,0.000000
+            6.067704,52.640454,0.000000
+            6.064230,52.640195,0.000000
+            6.062269,52.643154,0.000000
+            6.061060,52.642415,0.000000
+            6.059452,52.642185,0.000000
+            6.057631,52.640265,0.000000
+            6.059605,52.638196,0.000000
+            6.060317,52.636795,0.000000
+            6.056096,52.635997,0.000000
+            6.051943,52.645275,0.000000
+            6.064489,52.647371,0.000000
+            6.066370,52.644479,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>

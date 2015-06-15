@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>BU16580001 Bedrijventerrein De Poortmannen</name>
+  <description><![CDATA[description]]></description>
+  <Placemark>
+    <name>BLA!</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            5.585928,51.369865,0.000000
+            5.587255,51.365990,0.000000
+            5.589289,51.366104,0.000000
+            5.589628,51.364909,0.000000
+            5.583902,51.364567,0.000000
+            5.579890,51.370697,0.000000
+            5.580449,51.372362,0.000000
+            5.582819,51.373023,0.000000
+            5.582984,51.372101,0.000000
+            5.586508,51.371033,0.000000
+            5.585928,51.369865,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+</Document>
+</kml>
