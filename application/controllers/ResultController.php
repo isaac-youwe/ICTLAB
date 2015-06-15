@@ -85,6 +85,7 @@ class ResultController extends Zend_Controller_Action
                 array_push($filteredCollection, $value);
             }
         }
+        $this->view->polygonBuurt = $polygonBuurt;
         $this->view->filteredCollection = $filteredCollection;
     }
 }
