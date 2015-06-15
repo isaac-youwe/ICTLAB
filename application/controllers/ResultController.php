@@ -87,9 +87,7 @@ class ResultController extends Zend_Controller_Action
         }
         $this->view->polygonBuurt = $polygonBuurt;
         $this->view->filteredCollection = $filteredCollection;
-
-        echo "bitch: " . $this->getRequest()->getHttpHost();
-        echo " -->> " . $this->getRequest()->getScheme() . '://' . $this->getRequest()->getHttpHost() . $this->getRequest()->getRequestUri();
+        
     }
 }
 
