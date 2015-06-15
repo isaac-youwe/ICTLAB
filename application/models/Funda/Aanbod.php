@@ -78,4 +78,21 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
 
         return $response->Results[0]->Aantal;
     }
+
+    /**
+     * Get city name from a specific buurt
+     *
+     * @param string $input
+     * @return string stad name
+     */
+    public function getNameStad($input)
+    {
+        $request = $this->getGuzzleClient()->createRequest('GET', 'http://zb.funda.info/frontend/geo/suggest/?niveau=3&max=1&type=koop&query=' . $input);
+        $response = json_decode($request->send()->getBody());
+        if (empty($response->Results)) {
+            return null;
+        }
+        return $response->Results[0]->Display->Parent;
+    }
+
 }

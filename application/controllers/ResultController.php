@@ -43,21 +43,49 @@ class ResultController extends Zend_Controller_Action
             $this->view->assign('lng', $address->getLongitude());
         }
 
-        $this->view->processor = new Application_Model_Processor();
+        $this->view->processor = $processor = new Application_Model_Processor();
 
-        $fundaAanbod = new Application_Model_Funda_Aanbod();
-        $this->view->collection = $fundaAanbod->getCollection($this->params);
+        $this->view->fundaAanbod = $fundaAanbod = new Application_Model_Funda_Aanbod();
+        $this->view->collection = $collection = $fundaAanbod->getCollection($this->params);
 
         $SolrBuurtCall = $this->view->SolrBuurtCall = new Application_Model_Solr_BuurtCall();
+        $this->view->aangrenzendeBuurten = $SolrBuurtCall->getAangrenzendeBuurten($this->params['buurt']);
+
         $aangrenzendeBuurten = $SolrBuurtCall->getAangrenzendeBuurten($this->params['buurt']);
 
+        // Arrays containing "aangrenzende buurt" polygons and "aangrenzende buurt" names
+        $buurtPolygons = array();
+        $buurtNames = array();
+        $buurtTotalObjects = array();
+        $buurtStadNames = array();
+
         foreach ($aangrenzendeBuurten as $aangrenzendeBuurt) {
-            echo $SolrBuurtCall->getName($aangrenzendeBuurt) . ": ";
-            echo $fundaAanbod->totalObjectsCity($SolrBuurtCall->getName($aangrenzendeBuurt));
-            $this->view->assign('SolrA', $SolrBuurtCall->getName($aangrenzendeBuurt));
-            $this->view->assign('SolrB', $fundaAanbod->totalObjectsCity($SolrBuurtCall->getName($aangrenzendeBuurt)));
-            echo "</br>";
+            $aangrenzendePolygon = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($aangrenzendeBuurt));
+            $aangrenzendeNaam = $SolrBuurtCall->getName($aangrenzendeBuurt);
+
+            if ($aangrenzendePolygon && $aangrenzendeNaam) {
+                array_push($buurtPolygons, $aangrenzendePolygon);
+                array_push($buurtNames, $aangrenzendeNaam);
+                array_push($buurtTotalObjects, $fundaAanbod->totalObjectsCity($SolrBuurtCall->getName($aangrenzendeNaam)));
+                array_push($buurtStadNames, $fundaAanbod->getNameStad($SolrBuurtCall->getName($aangrenzendeBuurt)));
+            }
         }
+
+        $this->view->buurtPolygons = $buurtPolygons;
+        $this->view->buurtNames = $buurtNames;
+        $this->view->buurtTotalObjects = $buurtTotalObjects;
+        $this->view->buurtStadNames = $buurtStadNames;
+
+        $polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($this->params['buurt']));
+        $polygon = geoPHP::load("$polygonBuurt", "wkt");
+        $filteredCollection = array();
+        foreach ($collection as $value) {
+            $point1 = geoPHP::load("POINT($value->WGS84_Y $value->WGS84_X)", "wkt");
+            if ($polygon->contains($point1)) {
+                array_push($filteredCollection, $value);
+            }
+        }
+        $this->view->filteredCollection = $filteredCollection;
     }
 }
 

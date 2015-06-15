@@ -8,57 +8,18 @@
         <h3>Map</h3>
     </div>
 </div>
-<?php
-
-$SolrBuurtCall = new Application_Model_Solr_BuurtCall();
-
-$processor = new Application_Model_Processor();
-
-$buurt = $SolrBuurtCall->getBuurt($SolrBuurtCall->getName($this->buurt));
-// get polygon buurt in array
-$polygonBuurt = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($this->buurt));
-
-$aangrenzendeBuurten = $SolrBuurtCall->getAangrenzendeBuurten($this->params['buurt']);
-
-
-$filteredPolygon = array();
-
-foreach ($aangrenzendeBuurten as $aangrenzebuurt) {
-    $aangrenspoly = $processor->getPolygonFromArray($SolrBuurtCall->getPolygon($aangrenzebuurt));
-    if ($aangrenspoly) {
-        array_push($filteredPolygon, $aangrenspoly);
-    }
-}
-
-$filternamArray = array();
-foreach ($aangrenzendeBuurten as $aangrenzendeBuurt) {
-    $aangrenz = $SolrBuurtCall->getName($aangrenzendeBuurt);
-    if ($aangrenz) {
-        array_push($filternamArray, $aangrenz);
-    }
-   echo($aangrenz);
-}
-
-$markerPoints = $this->collection;
-$polygon = geoPHP::load("$polygonBuurt", "wkt");
-$filteredCollection = array();
-foreach ($markerPoints as $value) {
-    $point1 = geoPHP::load("POINT($value->WGS84_Y $value->WGS84_X)", "wkt");
-    if ($polygon->contains($point1)) {
-        array_push($filteredCollection, $value);
-    }
-}
-?>
 <div class="row">
     <div class="col-md-4 col-sm-3 pre-scrollable">
         <ul class="list-group">
             <script>
-                var collection = <?php echo json_encode($filteredCollection); ?>;
+                var collection = <?php echo json_encode($this->filteredCollection); ?>;
                 var lat = <?php echo json_encode($this->lat); ?>;
                 var lng = <?php echo json_encode($this->lng); ?>;
-                var polygon =<?php echo json_encode($polygonBuurt); ?>;
-                var aagrenzendeNaam = <?php echo json_encode($filternamArray); ?>;
-                var aangrezendePolygon = <?php echo json_encode($filteredPolygon); ?>;
+                var polygon =<?php echo json_encode($this->polygonBuurt); ?>;
+                var aangrenzendeNamen = <?php echo json_encode($this->buurtNames); ?>;
+                var aangrezendePolygon = <?php echo json_encode($this->buurtPolygons); ?>;
+                var aangrenzendeObjecten = <?php echo json_encode($this->buurtTotalObjects); ?>;
+                var buurtSteden = <?php echo json_encode($this->buurtStadNames); ?>;
             </script>
 
             <li id="side_bar" class="list-group-item"></li>
@@ -89,8 +50,10 @@ foreach ($markerPoints as $value) {
     </div>
     <script>
         var map;
+        var infoBuurt = new google.maps.InfoWindow();
         var infoWindow = new google.maps.InfoWindow();
         var infoPopUp = new google.maps.InfoWindow();
+
         // this variable will collect the html which will eventually be placed in the side_bar
         var side_bar_html = "";
 
@@ -113,6 +76,7 @@ foreach ($markerPoints as $value) {
                 mapTypeControl: false,
                 zoomControl: true
             }
+            infowindow = new google.maps.InfoWindow();
 
             map = new google.maps.Map(document.getElementById('map-canvas'),
                 mapOptions);
@@ -131,24 +95,21 @@ foreach ($markerPoints as $value) {
                     icon: icon
                 });
 
-                //Create List Details
-                var houseAdressDetails =
+                houseAdressDetails =
                     houseAdress + '<br>';
 
-                var adressHouseDetails =
+                adressHouseDetails =
                     houseRooms + '<br>' +
                     housePrice + '<hr />';
 
                 gmarkers.push(houseMarker);
 
-                // add a line to the side_bar html
-                var marker_id = gmarkers.length - 1;
+                marker_id = gmarkers.length - 1;
 
                 side_bar_html += '<a class ="listmarker" href="javascript:myclick(' + marker_id + ')' +
                 '" onmouseover="gmarkers[' + marker_id + '].setIcon(icon2)' +
                 '" onmouseout="gmarkers[' + marker_id + '].setIcon(icon)">' + '<h4> ' + houseAdressDetails + '</h4></a>';
 
-                //Details from select Adress
                 side_bar_html += '<p>' + adressHouseDetails + '</p>';
 
                 var details =
@@ -168,12 +129,9 @@ foreach ($markerPoints as $value) {
 
             }
 
-            //polygons is WKT = Well-known text (WKT) is a text markup
-            // language for representing vector geometry objects on a map.
             var polygons = polygon;
             var aangrenzendePolygon = aangrezendePolygon;
 
-            //using Regular expression, this will get the indivudal Polygon Rings
             var regExpression = /\(([^()]+)\)/g;
             var Rings = [];
             var Ringss = [];
@@ -194,6 +152,24 @@ foreach ($markerPoints as $value) {
             // aangrenzende buurten
             var aangrenzendePolygons = []
 
+            var addListenersOnPolygon = function(polygon) {
+                google.maps.event.addListener(polygon, 'mouseover', function (event) {
+
+                    // get name using polygon.indexID
+                    infoBuurt.setContent(aangrenzendeNamen[polygon.indexID] + "</br>" + aangrenzendeObjecten[polygon.indexID] + " huizen beschikbaar");
+                    infoBuurt.setPosition(event.latLng);
+                    infoBuurt.open(map);
+                    this.setOptions({fillColor: '#6599FF'});
+                });
+                google.maps.event.addListener(polygon, 'mouseout', function (event) {
+                    this.setOptions({fillColor: '#F89406'});
+                    infoBuurt.close();
+                });
+                google.maps.event.addListener(polygon, 'click', function (event) {
+                    console.log("Stad: " + buurtSteden[polygon.indexID] + " & buurt: " + aangrenzendeNamen[polygon.indexID]);
+                });
+            }
+
             //Draw the polygon for each of inner rings
             for (i = 0; i < Rings.length; i++) {
                 AddPoints(Rings[i]);
@@ -212,26 +188,22 @@ foreach ($markerPoints as $value) {
 
                 polygon = new google.maps.Polygon({
                     paths: aangrenzendePolygonPoints,
-                    strokeColor: '#FF0000',
+                    strokeColor: '#F89406',
                     strokeOpacity: 0.8,
                     strokeWeight: 2,
-                    fillColor: '#FF0000',
-                    fillOpacity: 0.35,
-                    indexID: j
+                    fillColor: '#F89406',
+                    fillOpacity: 0.5,
+                    indexID: i
                 });
 
                 aangrenzendePolygons.push(polygon);
 
-                google.maps.event.addListener(polygon, 'click', showInfo);
-                google.maps.event.addListener(polygon, 'mouseover', colorActive);
-                google.maps.event.addListener(polygon, 'mouseout', colorNormal);
-
-                infowindow = new google.maps.InfoWindow();
 
             }
 
             for (i = 0; i < aangrenzendePolygons.length; i++) {
                 aangrenzendePolygons[i].setMap(map);
+                addListenersOnPolygon(aangrenzendePolygons[i]);
             }
 
             var poly = new google.maps.Polygon({
@@ -278,19 +250,6 @@ foreach ($markerPoints as $value) {
 
             function colorNormal() {
                 this.setOptions({fillColor: '#FF0000'});
-            }
-
-            function showInfo(event) {
-
-                    var contentString = <?php echo json_encode($this->SolrA); ?> + ": " + <?php echo json_encode($this->SolrB); ?> + "<br />";
-
-                console.log(aagrenzendeNaam);
-                contentString += "<br /><a href='#'>Zoom to</a><br />"; // later Zoomto need to be function that will change the search function to the current location.
-                // Replace our Info Window's content and position
-                infowindow.setContent(contentString);
-                infowindow.setPosition(event.latLng);
-                infowindow.open(map);
-
             }
 
             document.getElementById("side_bar").innerHTML = side_bar_html;
@@ -341,6 +300,7 @@ foreach ($markerPoints as $value) {
 
             });
         }
+
     </script>
 </div>
 </div>
