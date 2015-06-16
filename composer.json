@@ -4,7 +4,6 @@
         "guzzle/guzzle": "~3.7",
         "psr/log": "1.0.0",
         "solarium/solarium": "dev-master",
-        "willdurand/geocoder": "dev-master",
         "phayes/geophp": "dev-master"
     }
 }
