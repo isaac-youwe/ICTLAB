@@ -18,7 +18,7 @@ class ResultController extends Zend_Controller_Action
         $location = $geocoder->getLocation(array($this->params['stad']));
 
         if (!$location) {
-            throw new Exception('Geocoding error.');
+            throw new Exception('Stad could not be found.');
         }
 
         $this->view->assign('lat', $location['lat']);
