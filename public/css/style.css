@@ -7,6 +7,7 @@
 
 .container {
     height: 100%;
+    padding-left: 45px!important;
 }
 
 .vertical-text {
@@ -20,12 +21,15 @@
     -ms-transform: rotate(-90deg) translate(-50%, 50%);
     transform-origin: 0 50%;
     transform: rotate(-90deg) translate(-50%, 50%);
-    position: absolute;
-    top: 50%;
+    position: fixed;
+    top: 0;
     bottom: 0;
     height: 2em;
+    width: 100%;
     margin: auto;
-    line-height: 2em;
+    color: #e3e3e3;
+    line-height: 190%;
+    text-align: center;
 }
 
 .filter_option {
@@ -80,7 +84,7 @@
 }
 
 .dev-mode {
-    border: solid red 2px;
+    background-color: #282828;
 }
 
 /*TYPEAHEAD CUSTOM*/
@@ -146,4 +150,14 @@
 }
 tt-highlight{
     color:red;
+}
+/* Set the fixed height of the footer here */
+#footer {
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    bottom: -1%;
+    color: #e3e3e3;
+    z-index: 999999;
+    background-color: #282828;
 }
