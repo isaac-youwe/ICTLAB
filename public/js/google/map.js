@@ -89,6 +89,7 @@ function initialize() {
     var regExpression = /\(([^()]+)\)/g;
     var searchedBuurtPolygonCoordinates = [];
     var aangrenzendeBuurtenPolygonCoordinates = [];
+    var aangrenzendeBuurtenPolygonCoordinatesCenterPoints = [];
 
     filterPolygons(searchedBuurtPolygonCoordinates, polygonBuurt);
     filterPolygons(aangrenzendeBuurtenPolygonCoordinates, aangrezendePolygon);
@@ -107,7 +108,7 @@ function initialize() {
 
             // get name using polygon.indexID
             infoBuurt.setContent(aangrenzendeNamen[polygon.indexID] + "</br>" + aangrenzendeObjecten[polygon.indexID] + " huizen beschikbaar");
-            infoBuurt.setPosition(event.latLng);
+            infoBuurt.setPosition(aangrenzendeBuurtenPolygonCoordinatesCenterPoints[polygon.indexID]);
             infoBuurt.open(map);
             this.setOptions({fillColor: '#6599FF'});
         });
@@ -131,12 +132,18 @@ function initialize() {
     for (i = 0; i < aangrenzendeBuurtenPolygonCoordinates.length; i++) {
         pointsData = aangrenzendeBuurtenPolygonCoordinates[i].split(",");
         aangrenzendePolygonPoints = [];
+        lngs = [];
+        lats = [];
 
         for (j = 0; j < pointsData.length; j++) {
             coordinates = pointsData[j].split(" ");
             point = new google.maps.LatLng(parseFloat(coordinates[0]), parseFloat(coordinates[1]));
             aangrenzendePolygonPoints.push(point);
+            lats.push(parseFloat(coordinates[0]));
+            lngs.push(parseFloat(coordinates[1]));
         }
+
+        aangrenzendeBuurtenPolygonCoordinatesCenterPoints.push(calcPolygonCenterPoint(lats, lngs));
 
         polygon = new google.maps.Polygon({
             paths: aangrenzendePolygonPoints,
@@ -161,7 +168,7 @@ function initialize() {
         clickable: false,
         fillColor: '#FFF',
         fillOpacity: 0,
-        strokeColor: '#ffa500',
+        strokeColor: '#f0ff00',
         strokeOpacity: 1,
         strokeWeight: 3,
         zIndex: 99
@@ -231,4 +238,17 @@ function addPopupWindow(houseMarker, detailsPopUp) {
         houseMarker.setIcon(icon);
 
     });
+}
+
+function calcPolygonCenterPoint(latitudes, longitudes) {
+    latitudes.sort();
+    longitudes.sort();
+    lowx = latitudes[0];
+    highx = latitudes[latitudes.length - 1];
+    lowy = longitudes[0];
+    highy = longitudes[longitudes.length - 1];
+    center_x = lowx + ((highx - lowx) / 2);
+    center_y = lowy + ((highy - lowy) / 2);
+
+    return new google.maps.LatLng(center_x, center_y);
 }
