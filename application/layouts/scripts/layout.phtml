@@ -23,7 +23,9 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
         <div class="navbar-header">
-            <a class="navbar-brand" href="<?php echo $this->serverUrl(); ?>">Funda</a>
+            <a href="<?php echo $this->serverUrl(); ?>">
+                <img class="img" src="images/funda_logo.png" alt="funda" >
+            </a>
         </div>
     </div>
 </nav>
@@ -40,7 +42,7 @@
     <div class="row row-centered">
         <div class="col-md-4 col-centered">
             <form id="form" class="navbar-form" role="search" action="<?php echo $this->serverUrl(); ?>/result">
-                <div class="input-group">
+                <div class="input-group ">
                     <input id="zb-buurt" class="typeahead" name="" type="text" value="<?php echo $this->buurt; ?>"/>
                     <input id="zb-stad" name="stad" type="hidden" value="<?php echo $this->stad; ?>"/>
                     <input id="zb-buurt2" name="buurt" type="hidden" value="<?php echo $this->buurt; ?>"/>
