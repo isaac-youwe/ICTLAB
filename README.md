@@ -48,18 +48,37 @@ Download credentials.json from Google Drive and paste it in the ICTLAB folder
 ```sudo apt-get install -y apache2 php5 libapache2-mod-php5 php5-dev phpunit```
 
 Navigate to download folder
-```wget http://download.osgeo.org/geos/geos-3.4.2.tar.bz2```
-```tar -xjvf geos-3.4.2.tar.bz2```
-```cd geos-3.4.2/```
-```./configure --enable-php```
-```make```
-```make install```
+```
+wget http://download.osgeo.org/geos/geos-3.4.2.tar.bz2
+```
 
-```cat > /etc/php5/mods-available/geos.ini << EOF
+```
+tar -xjvf geos-3.4.2.tar.bz2
+```
+
+```
+cd geos-3.4.2/
+```
+
+```
+./configure --enable-php
+```
+
+```
+make
+```
+
+```
+make install
+```
+
+```
+cat > /etc/php5/mods-available/geos.ini << EOF
    ; configuration for php geos module
    ; priority=50
    extension=geos.so
-   EOF```
+   EOF
+   ```
    
 Enable php5 module GEOS   
 ```sudo php5enmod geos```
@@ -80,6 +99,23 @@ And run this command
 # PHPStorm changes
 To prevent PHPStorm of running slow (exclude index for the shapefiles and data folders)
 Right click on data and shapefiles folder in ICTLAB folder and Mark Directory As Excluded
+
+# Setup Virtual Host
+```<VirtualHost *:80>
+   DocumentRoot "/home/user/vhosts/ICTLAB/public"
+   ServerName ICTLAB.local
+
+   SetEnv APPLICATION_ENV development
+
+   <Directory "/home/user/vhosts/ICTLAB/public">
+       Options Indexes MultiViews FollowSymLinks
+       AllowOverride All
+       Order allow,deny
+       Allow from all
+   </Directory>
+   
+</VirtualHost>
+```
 
 =======
 **Not for sale purposes**

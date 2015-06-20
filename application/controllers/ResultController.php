@@ -2,7 +2,10 @@
 
 class ResultController extends Zend_Controller_Action
 {
-    private $_filteredCollection;
+    private $_filteredCollection = array();
+    private $_sumLat = 0;
+    private $_sumLng = 0;
+    private $_total = 0;
 
     public function indexAction()
     {
@@ -21,9 +24,6 @@ class ResultController extends Zend_Controller_Action
             throw new Exception('Stad niet gevonden. (Geocode)');
         }
 
-        $fundaAanbod = new Application_Model_Funda_Aanbod();
-        $collection = $fundaAanbod->getCollection($params);
-
         $solrBuurtCall = new Application_Model_Solr_BuurtCall();
         $aangrenzendeBuurten = $solrBuurtCall->getAangrenzendeBuurten($params['buurt']);
 
@@ -36,6 +36,7 @@ class ResultController extends Zend_Controller_Action
         $buurtStadNames = array();
 
         $processor = new Application_Model_Processor();
+        $fundaAanbod = new Application_Model_Funda_Aanbod();
 
         foreach ($aangrenzendeBuurten as $aangrenzendeBuurt) {
             $aangrenzendePolygon = $processor->getPolygonFromArray($solrBuurtCall->getPolygon($aangrenzendeBuurt));
@@ -54,41 +55,31 @@ class ResultController extends Zend_Controller_Action
         $this->view->buurtTotalObjects = $buurtTotalObjects;
         $this->view->buurtStadNames = $buurtStadNames;
 
-        // variables to calculate the maps center point
-        $sumLat = 0;
-        $total = 0;
-        $sumLng = 0;
-
         $polygonBuurt = $processor->getPolygonFromArray($solrBuurtCall->getPolygon($params['buurt']));
         $polygon = geoPHP::load("$polygonBuurt", "wkt");
-        $this->_filteredCollection = array();
-        foreach ($this->_filteredCollection as $value) {
-            $point1 = geoPHP::load("POINT($value->WGS84_Y $value->WGS84_X)", "wkt");
-            if ($polygon->contains($point1)) {
-                array_push($this->_filteredCollection, $value);
-                $sumLat += $value->WGS84_Y;
-                $sumLng += $value->WGS84_X;
-                $total++;
-            }
-        }
 
-        // change 25 to ZB call
         $totalObjectsInSearched = $fundaAanbod->totalObjectsBuurt($params['buurt']);
-        echo $totalObjectsInSearched;
-        if (is_null($params['p'])) {
-            $params['p'] = 1;
-        }
-        while (count($this->_filteredCollection) < $totalObjectsInSearched) {
-            $fundaAanbod->getCollection($params);
-            $params['p']++;
 
-            // funda aanbod getCollection
-            $totalObjectsInSearched -= 25;
+        $page = 1;
+        if (!isset($params['p'])) {
+            $params['p'] = "p$page";
+        }
+
+        while (count($this->_filteredCollection) < $totalObjectsInSearched) {
+            $collection = $fundaAanbod->getCollection($params);
+            $this->_filterCollection($collection, $polygon);
+
+            if ($page == 200 || is_null($collection)) {
+                break;
+            }
+
+            $page++;
+            $params['p'] = "p$page";
         }
 
         if (!empty($this->_filteredCollection)) {
-            $this->view->assign('lat', $sumLat / $total);
-            $this->view->assign('lng', $sumLng / $total);
+            $this->view->assign('lat', $this->_sumLat / $this->_total);
+            $this->view->assign('lng', $this->_sumLng / $this->_total);
         } else {
             $this->view->assign('lat', $location['lat']);
             $this->view->assign('lng', $location['lng']);
@@ -96,6 +87,7 @@ class ResultController extends Zend_Controller_Action
 
         $this->view->polygonBuurt = $polygonBuurt;
         $this->view->filteredCollection = $this->_filteredCollection;
+        $this->view->totalObjectsInSearched = count($this->_filteredCollection);
     }
 
     /**
@@ -105,11 +97,14 @@ class ResultController extends Zend_Controller_Action
      */
     private function _filterCollection($collection, $polygon)
     {
-        if ($collection) {
+        if ($collection && $polygon) {
             foreach ($collection as $value) {
                 $point1 = geoPHP::load("POINT($value->WGS84_Y $value->WGS84_X)", "wkt");
                 if ($polygon->contains($point1)) {
                     array_push($this->_filteredCollection, $value);
+                    $this->_sumLat += $value->WGS84_Y;
+                    $this->_sumLng += $value->WGS84_X;
+                    $this->_total ++;
                 }
             }
         }
