@@ -1,6 +1,11 @@
 <!--Author Isaac de Cuba-->
 <!--Editor Adriel Walter, Serhildan Akdeniz-->
 <div class="row">
+    <div class="col-md-12 col-sm-12 row-centered">
+        <p><small><?php echo $this->totalObjectsInSearched; ?> huizen in de gezochte buurt.</small></p>
+    </div>
+</div>
+<div class="row">
     <div class="col-md-4">
         <h3>Beschikbare huizen</h3>
     </div>
@@ -23,26 +28,6 @@
             </script>
 
             <li id="side_bar" class="list-group-item"></li>
-            <div class="row">
-                <div class="col-md-12" align="center">
-                    <ul class="pagination">
-                        <?php
-                        (array_key_exists('startp', $this->params) ? $start = $this->params["startp"] : $start = 1);
-                        echo "<li " . ($start <= 1 ? "class='disabled'" : '') . "><a href='/result?buurt=" . $this->buurt . "&stad=" . $this->stad . "&page=p" . ($start - 1) . "&startp=" . ($start - 5) . "'>&laquo;</a></li>";
-
-                        $max = 5 + $start;
-                        for ($i = $start; $i < $max; $i++) {
-                            if ((!isset($this->params["startp"]) || !isset($this->params["page"])) && $i == $start) {
-                                echo "<li class='active'><a href='/result?buurt=" . $this->buurt . "&stad=" . $this->stad . "&page=p" . $i . "&startp=" . $start . "'>$i</a></li>";
-                            } else {
-                                echo "<li " . (in_array('p' . $i, $this->params) ? "class='active'" : '') . "><a href='/result?buurt=" . $this->buurt . "&stad=" . $this->stad . "&page=p" . $i . "&startp=" . $start . "'>$i</a></li>";
-                            }
-                        }
-                        echo "<li><a href='/result?buurt=" . $this->buurt . "&stad=" . $this->stad . "&page=p" . $i . "&startp=" . $i . "'>&raquo;</a></li>";
-                        ?>
-                    </ul>
-                </div>
-            </div>
         </ul>
     </div>
     <div class="col-md-8 col-sm-9">
