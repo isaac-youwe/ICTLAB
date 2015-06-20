@@ -11,13 +11,13 @@ if (!file_exists("$shapefilesPath")) {
     die();
 }
 
-require_once '/home/isaac/vhosts/ICTLAB/vendor/autoload.php';
+require_once $rootPath . '/vendor/autoload.php';
 
 $i = 0;
 $debugPath = '';
 
 // reset
-foreach(glob("$shapefilesPath/BU0599*") as $json)
+foreach(glob("$shapefilesPath/BU*") as $json)
 {
     if ($json === '.' || $json === '..') continue;
     setAangrenzende($json, $shapefilesPath);
@@ -45,18 +45,20 @@ function setAangrenzende($path, $shapefilesPath)
             }
         }
 
-        $temp = substr($content,0,-2);
-        $temp .=',"aangrenzende":[';
+        if (!empty($aangrenzende)) {
+            $temp = substr($content, 0, -2);
+            $temp .= ',"aangrenzende":[';
 
-        foreach ($aangrenzende as $id) {
-            $temp .= '"' . $id . '",';
+            foreach ($aangrenzende as $id) {
+                $temp .= '"' . $id . '",';
+            }
+            $temp = substr($temp, 0, -1);
+            $temp .= ']}]';
+
+            $myfile = fopen($path, "w+") or die("Unable to open file!");
+            fwrite($myfile, $temp);
+            fclose($myfile);
         }
-        $temp = substr($temp,0,-1);
-        $temp .= ']}]';
-
-        $myfile = fopen($path, "w+") or die("Unable to open file!");
-        fwrite($myfile, $temp);
-        fclose($myfile);
     } else {
         echo sprintf("%s is not a JSON file and will not be processed." . PHP_EOL, $path);
     }
