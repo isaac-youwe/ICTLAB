@@ -101,20 +101,8 @@ To prevent PHPStorm of running slow (exclude index for the shapefiles and data f
 Right click on data and shapefiles folder in ICTLAB folder and Mark Directory As Excluded
 
 # Setup Virtual Host
-<VirtualHost *:80>
-   DocumentRoot "/home/user/vhosts/ICTLAB/public"
-   ServerName ICTLAB.local
-
-   SetEnv APPLICATION_ENV development
-
-   <Directory "/home/user/vhosts/ICTLAB/public">
-       Options Indexes MultiViews FollowSymLinks
-       AllowOverride All
-       Order allow,deny
-       Allow from all
-   </Directory>
-   
-</VirtualHost>
+Follow Apache Configurations
+[Zend Virtual Host Config](https://www.digitalocean.com/community/tutorials/how-to-install-zend-framework-on-an-ubuntu-12-04-vps)
 
 =======
 **Not for sale purposes**
