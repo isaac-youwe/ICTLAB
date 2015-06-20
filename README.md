@@ -81,23 +81,6 @@ And run this command
 To prevent PHPStorm of running slow (exclude index for the shapefiles and data folders)
 Right click on data and shapefiles folder in ICTLAB folder and Mark Directory As Excluded
 
-# Setup Virtual Host
-```<VirtualHost *:80>
-   DocumentRoot "/home/user/vhosts/ICTLAB/public"
-   ServerName ICTLAB.local
-
-   SetEnv APPLICATION_ENV development
-
-   <Directory "/home/user/vhosts/ICTLAB/public">
-       Options Indexes MultiViews FollowSymLinks
-       AllowOverride All
-       Order allow,deny
-       Allow from all
-   </Directory>
-   
-</VirtualHost>
-```
-
 =======
 **Not for sale purposes**
 
