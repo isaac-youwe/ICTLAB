@@ -1,17 +1,12 @@
 <?php
-
 /**
- * Author Isaac de Cuba
- *
- * Class Application_Model_Funda_Aanbod
+ * Author Isaac de Cuba <isaacjdecuba@gmail.com>
  */
+
 class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
 {
     private $_aanbodUrl = 'Aanbod.svc/json/';
 
-    /**
-     * @return mixed
-     */
     public function getAanbodUrl()
     {
         return $this->_aanbodUrl;
@@ -20,7 +15,7 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
     /**
      * Get house collection using the Funda api
      *
-     * @param $params
+     * @param array $params
      * @return mixed
      */
     public function getCollection($params)
@@ -33,8 +28,8 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
     /**
      * Build Funda API call url
      *
-     * @param $params
-     * @return mixed|string
+     * @param array $params
+     * @return string url
      */
     public function buildUrl($params)
     {
@@ -54,6 +49,10 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
         return parent::getBaseUrl() . $this->_aanbodUrl . $this->getApiKey() . '/' . '?type=' . $this->getType() . '&zo=/' . $url . '&' . $this->getSince();
     }
 
+    /**
+     * @param $params
+     * @return mixed
+     */
     public function totalObjects($params)
     {
         $request = $this->getGuzzleClient()->createRequest('GET', $this->buildUrl($params));
@@ -62,12 +61,12 @@ class Application_Model_Funda_Aanbod extends Application_Model_FundaApiConnector
     }
 
     /**
-     * Get total house objects in city
+     * Get total house objects in buurt
      *
      * @param int|string $buurt
      * @return int Results
      */
-    public function totalObjectsCity($buurt)
+    public function totalObjectsBuurt($buurt)
     {
         $request = $this->getGuzzleClient()->createRequest('GET', 'http://zb.funda.info/frontend/geo/suggest/?niveau=3&max=1&type=koop&query=' . $buurt);
         $response = json_decode($request->send()->getBody());

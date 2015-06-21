@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Author Isaac de Cuba <isaacjdecuba@gmail.com>
  */
@@ -13,8 +14,8 @@ class Application_Model_Google_Geocoding
     /**
      * Get the Geographic location of the search value
      *
-     * @param $search
-     * @return bool
+     * @param string $search
+     * @return bool|object
      */
     public function getLocation($search)
     {
