@@ -1,6 +1,6 @@
 /**
- * Created by Adriel Walter on 4/24/2015.
- * submitForm by Serhildan Akdeniz.
+ * Author Adriel Walter
+ * Author Serhildan Akdeniz
  */
 $(document).ready(function () {
     $('#filter').sidr();

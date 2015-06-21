@@ -1,8 +1,14 @@
 <?php
+
+/**
+ * Author Isaac de Cuba <isaacjdecuba@gmail.com>
+ * Author Serhildan Akdeniz
+ */
 class Application_Model_Solr_BuurtCall
 {
     private $solrClient;
     private $config = array();
+
     public function __construct()
     {
         $string = file_get_contents(realpath(APPLICATION_PATH . '/../credentials.json'));
@@ -12,6 +18,7 @@ class Application_Model_Solr_BuurtCall
         $this->config["path"] = $credentials['solrPath'];
         $this->solrClient = new SolrClient($this->config);
     }
+
     /**
      * Get buurt by the name or id
      *
@@ -36,6 +43,7 @@ class Application_Model_Solr_BuurtCall
         }
         return $response;
     }
+
     /**
      * Get Polygon
      *
@@ -49,6 +57,7 @@ class Application_Model_Solr_BuurtCall
         }
         return $this->getBuurt($input)->docs[0]->polygon;
     }
+
     /**
      * Get Aangrenzende Buurten
      *
@@ -62,6 +71,7 @@ class Application_Model_Solr_BuurtCall
         }
         return $this->getBuurt($input)->docs[0]->aangrenzende;
     }
+
     /**
      * Get Name
      *
@@ -75,6 +85,7 @@ class Application_Model_Solr_BuurtCall
         }
         return $this->getBuurt($input)->docs[0]->name[0];
     }
+
     /**
      * Get ID
      *

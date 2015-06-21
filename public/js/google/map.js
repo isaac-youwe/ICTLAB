@@ -1,7 +1,7 @@
 /**
  * Author Adriel Walter
- * Editor Isaac de Cuba, Serhildan Akdeniz
- *
+ * Author Isaac de Cuba
+ * Author Serhildan Akdeniz
  */
 
 var map;
@@ -38,7 +38,7 @@ function initialize() {
     map = new google.maps.Map(document.getElementById('map-canvas'),
         mapOptions);
 
-    for (var i = 0; i < collection.length; i++) {
+    for (i = 0; i < collection.length; i++) {
         housePhoto = '<img src="' + collection[i]['Foto'] + '">';
         houseSquare = 'Oppervlakte: ' + collection[i]['Woonoppervlakte'] + ' m' + '<sup>2</sup>';
         housePrice = 'Prijs: &#8364;' + collection[i]['Koopprijs'];

@@ -1,15 +1,14 @@
 <?php
 
 /**
- * Created by PhpStorm.
- * User: adriel
- * Date: 8-6-15
- * Time: 15:20
+ * Author Isaac de Cuba <isaacjdecuba@gmail.com>
  */
-
-class Application_Model_Processor {
+class Application_Model_Processor
+{
 
     /**
+     * Converts polygon json into polygon string
+     *
      * @param json $input
      * @return string
      */
@@ -30,6 +29,8 @@ class Application_Model_Processor {
     }
 
     /**
+     * Converts polygon array into polygon string
+     *
      * @param array $input
      * @return string
      */

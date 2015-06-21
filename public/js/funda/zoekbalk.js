@@ -1,3 +1,7 @@
+/**
+ * Author Isaac de Cuba <isaacjdecuba@gmail.com>
+ */
+
 $(document).ready(function () {
 // Instantiate the Bloodhound suggestion engine
     var buurten = new Bloodhound({

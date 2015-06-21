@@ -1,4 +1,9 @@
 <?php
+
+/**
+ * Author Isaac de Cuba <isaacjdecuba@gmail.com>
+ */
+
 use Guzzle\Http\Client;
 
 abstract class Application_Model_FundaApiConnector
@@ -27,7 +32,10 @@ abstract class Application_Model_FundaApiConnector
     }
 
     /**
-     * @param mixed $page
+     * Set page of the API call
+     *
+     * @param array $params
+     * @return mixed $page
      */
     public function setPage($params)
     {
@@ -39,7 +47,9 @@ abstract class Application_Model_FundaApiConnector
     }
 
     /**
-     * @param $params
+     * Set city of the API call
+     *
+     * @param array $params
      * @throws Zend_Controller_Action_Exception
      */
     public function setCity($params)
@@ -51,17 +61,11 @@ abstract class Application_Model_FundaApiConnector
         }
     }
 
-    /**
-     * @return mixed
-     */
     public function getSince()
     {
         return $this->_since;
     }
 
-    /**
-     * @param $params
-     */
     public function setSince($params)
     {
         if (!empty($params['since'])) {
@@ -71,17 +75,11 @@ abstract class Application_Model_FundaApiConnector
         }
     }
 
-    /**
-     * @return mixed
-     */
     public function getType()
     {
         return $this->_type;
     }
 
-    /**
-     * @param $params
-     */
     public function setType($params)
     {
         if (!empty($params['type'])) {
@@ -91,34 +89,21 @@ abstract class Application_Model_FundaApiConnector
         }
     }
 
-    /**
-     * @return string
-     */
     public function getBaseUrl()
     {
         return $this->_baseUrl;
     }
 
-    /**
-     * @param string $baseUrl
-     */
     public function setBaseUrl($baseUrl)
     {
         $this->_baseUrl = $baseUrl;
     }
 
-
-    /**
-     * @return mixed
-     */
     public function getApiKey()
     {
         return $this->_apiKey;
     }
 
-    /**
-     * @param mixed $apiKey
-     */
     public function setApiKey($apiKey)
     {
         $this->_apiKey = $apiKey;
@@ -127,7 +112,7 @@ abstract class Application_Model_FundaApiConnector
     /**
      * Builds the url for the REST call
      *
-     * @param $params
+     * @param array $params
      * @return mixed
      */
     abstract public function buildUrl($params);
