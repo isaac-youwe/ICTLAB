@@ -84,7 +84,8 @@
 }
 
 .dev-mode {
-    background-color: #282828;
+    background-color: #000;
+    color: orange;
 }
 
 /*TYPEAHEAD CUSTOM*/
@@ -157,7 +158,21 @@ tt-highlight{
     width: 100%;
     position: fixed;
     bottom: -1%;
-    color: #e3e3e3;
+    color: #000;
     z-index: 999999;
-    background-color: #282828;
+    background-image: url("../images/funda-bg.jpg");
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    background-image: url("../images/funda-bg.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.img{
+    width: 100px;
+    height: 80px;
+    position: fixed;
+    margin-top: -15px;
 }
