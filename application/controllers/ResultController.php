@@ -69,7 +69,7 @@ class ResultController extends Zend_Controller_Action
             $collection = $fundaAanbod->getCollection($params);
             $this->_filterCollection($collection, $polygon);
 
-            if ($page == 200 || is_null($collection)) {
+            if ($page == 20 || is_null($collection)) {
                 break;
             }
 
