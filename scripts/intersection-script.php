@@ -65,6 +65,8 @@ function setAangrenzende($path, $shapefilesPath)
 }
 
 /**
+ * Get the type from json file (i.e. Buurt (BU), Wijk (WK), Gemeente (GM))
+ *
  * @param string $path
  * @return string
  */
@@ -77,12 +79,21 @@ function getJsonType($path)
     return $type;
 }
 
+/**
+ * Checks if a string starts with a specific word
+ *
+ * @param $haystack
+ * @param $needle
+ * @return bool
+ */
 function startsWith($haystack, $needle) {
     // search backwards starting from haystack length characters from the end
     return $needle === "" || strrpos($haystack, $needle, -strlen($haystack)) !== FALSE;
 }
 
 /**
+ * Checks if polygons intersect each other
+ *
  * @param Polygon $poly1
  * @param Polygon $poly2
  * @return bool
@@ -99,6 +110,8 @@ function isAangrenzend($polygonOne, $polygonTwo)
 }
 
 /**
+ * Convert Json formatted string into geoPHP polygon standards
+ *
  * @param json $input
  * @return string
  */
@@ -142,6 +155,8 @@ function getPolygonFromJson($content, $path)
 }
 
 /**
+ * Gets the id from the json data
+ *
  * @param json $input
  * @return string
  */
