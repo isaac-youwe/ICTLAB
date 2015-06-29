@@ -69,6 +69,7 @@ class ResultController extends Zend_Controller_Action
             $collection = $fundaAanbod->getCollection($params);
             $this->_filterCollection($collection, $polygon);
 
+            // We should use thread or other solution instead of hardcoding 200 it's a work around for the demo
             if ($page == 200 || is_null($collection)) {
                 break;
             }
@@ -91,8 +92,10 @@ class ResultController extends Zend_Controller_Action
     }
 
     /**
-     * @param $collection
-     * @param $polygon
+     * Filters the collection and push the house objects that are in the polygon to the filtered collection
+     *
+     * @param array $collection
+     * @param polygon $polygon
      * @throws exception
      */
     private function _filterCollection($collection, $polygon)
