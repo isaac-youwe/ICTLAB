@@ -1,0 +1,26 @@
+[{
+    "id": "BU17110414",
+    "name": "Illikhoven en Visserweert",
+    "geoType": "BU",
+    "gemeentecode": "1711",
+    "wijkcode": "04",
+    "buurtcode": "14",
+    "polygon": [
+        [
+            51.060318,
+            5.807692
+        ],
+        [
+            51.058751,
+            5.803508
+        ],
+        [
+            51.063512,
+            5.804215
+        ],
+        [
+            51.060318,
+            5.807692
+        ]
+    ]
+,"aangrenzende":["BU17110418"]}]

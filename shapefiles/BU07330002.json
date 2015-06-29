@@ -1,0 +1,30 @@
+[{
+    "id": "BU07330002",
+    "name": "Noord uitbreiding Asperen industrieterrein",
+    "geoType": "BU",
+    "gemeentecode": "0733",
+    "wijkcode": "00",
+    "buurtcode": "02",
+    "polygon": [
+        [
+            51.884326,
+            5.116468
+        ],
+        [
+            51.882473,
+            5.11146
+        ],
+        [
+            51.884427,
+            5.109263
+        ],
+        [
+            51.886276,
+            5.1143
+        ],
+        [
+            51.884326,
+            5.116468
+        ]
+    ]
+,"aangrenzende":["BU07330000","BU07330001","BU07330009"]}]
