@@ -57,23 +57,23 @@ Navigate to download folder
 
 ```./configure --enable-php```
 
-```sudo make```
+```sudo su```
 
-```sudo make install```
+```make```
 
-```
-cat > /etc/php5/mods-available/geos.ini << EOF
+```make install```
+
+```cat > /etc/php5/mods-available/geos.ini << EOF
    ; configuration for php geos module
    ; priority=50
    extension=geos.so
-   EOF
-   ```
+   EOF```
    
 Enable php5 module GEOS   
-```sudo php5enmod geos```
+```php5enmod geos```
 
 Restart apache
-```sudo service apache2 restart```
+```service apache2 restart```
 
 # Convert KML to JSON script
 Navigate first into the ICTLAB/scripts folder
