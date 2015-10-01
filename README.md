@@ -12,9 +12,10 @@ This README.md is a guide on how to install the project.
 ```php composer.phar install```
 
 ## Download and install Solr
-```wget http://mirrors.supportex.net/apache/lucene/solr/5.1.0/solr-5.1.0.zip```
+```wget http://apache.cs.uu.nl/lucene/solr/5.3.1/solr-5.3.1.zip```
 
-```unzip -q solr-5.1.0.zip```
+
+```unzip -q solr-5.3.1.zip```
 
 ## Install SolrClient
 ```sudo apt-get install libcurl4-gnutls-dev libxml2 libxml2-dev```
@@ -30,11 +31,11 @@ This README.md is a guide on how to install the project.
 ```sudo service apache2 restart```
 
 ## Create collection in Solr and index files
+Navigate to the Solr directory
+
 ```bin/solr start```
 
 ```bin/solr create -c shfiles```
-
-copy the shapefiles into the ICTLAB map
 
 ```bin/post -c shfiles ICTLAB/shapefiles/```
 
