@@ -1,6 +1,5 @@
 vendor/
 .idea
 composer.phar
-composer.lock
 credentials.json
 shapefiles
