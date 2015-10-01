@@ -37,7 +37,7 @@ Navigate to the Solr directory
 
 ```bin/solr create -c shfiles```
 
-```bin/post -c shfiles ICTLAB/shapefiles/```
+```bin/post -c shfiles ../vhosts/ICTLAB/shapefiles/```
 
 To delete a collection use:
 
@@ -49,29 +49,17 @@ Download credentials.json from Google Drive and paste it in the ICTLAB folder
 ```sudo apt-get install -y apache2 php5 libapache2-mod-php5 php5-dev phpunit```
 
 Navigate to download folder
-```
-wget http://download.osgeo.org/geos/geos-3.4.2.tar.bz2
-```
+```wget http://download.osgeo.org/geos/geos-3.4.2.tar.bz2```
 
-```
-tar -xjvf geos-3.4.2.tar.bz2
-```
+```tar -xjvf geos-3.4.2.tar.bz2```
 
-```
-cd geos-3.4.2/
-```
+```cd geos-3.4.2/```
 
-```
-./configure --enable-php
-```
+```./configure --enable-php```
 
-```
-make
-```
+```sudo make```
 
-```
-make install
-```
+```sudo make install```
 
 ```
 cat > /etc/php5/mods-available/geos.ini << EOF
