@@ -8,22 +8,22 @@ White='\e[0;37m';
 
 server_ip_address=`wget http://ipecho.net/plain -O - -q ; echo`
 
-echo -e "${Green}Please insert the amount of new administrators that needs to be created [ENTER]\n"
+echo -e "${Green}Please insert the amount of new administrators that needs to be created and press [ENTER]\n"
 read amount_of_admins
 
 for i in `seq 1 $amount_of_admins`;
 do
-    echo -e "${Green}Please insert new administrator username and press [ENTER]\n"
+    echo -e "${Green}Insert administrator username and press [ENTER]\n"
     read user
 
     # Create new user
-    echo -e "Creating user.....\n"
+    echo -e "Creating user $user\n"
     adduser $user
 
     echo
 
     # Add user to sudo group
-    echo -e "Adding user to sudo group.....\n"
+    echo -e "Adding $user to sudo group.....\n"
     gpasswd -a $user sudo
 
     echo
