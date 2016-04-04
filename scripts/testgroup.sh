@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-if id -u "$1" >/dev/null 2>&1; then
-        echo "user exists"
-else
-        echo "user does not exist"
-fi
+amount=10
+for i in `seq 1 $amount`;
+do
+    echo $i
+done
